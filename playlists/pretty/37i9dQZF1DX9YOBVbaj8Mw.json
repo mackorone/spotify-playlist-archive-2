@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20451,
+  "num_followers": 20449,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Coma Live Pol'and'Rock Festival 2024",
-        "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
-      },
-      "artists": [
-        {
-          "name": "Coma",
-          "url": "https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17"
-        }
-      ],
-      "duration_ms": 855093,
-      "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
-      "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "TRASH TAPE",
         "url": "https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 136000,
       "name": "WKURWELEPSZEPOGO",
       "url": "https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Coma Live Pol'and'Rock Festival 2024",
+        "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
+      },
+      "artists": [
+        {
+          "name": "Coma",
+          "url": "https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17"
+        }
+      ],
+      "duration_ms": 855093,
+      "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
+      "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Druga Furioza (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
-      },
-      "artists": [
-        {
-          "name": "Miro Kepinski",
-          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Wolny jak Li\u015b\u0107",
-      "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Playgrounds",
         "url": "https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 203000,
       "name": "W \u017byciu Bywa Jak W Piosence",
       "url": "https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Druga Furioza (Soundtrack From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
+      },
+      "artists": [
+        {
+          "name": "Miro Kepinski",
+          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Wolny jak Li\u015b\u0107",
+      "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1315,18 +1315,30 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
       },
       "artists": [
         {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Dominik Wania",
+          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
+        },
+        {
+          "name": "Micha\u0142 Klauza",
+          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
+        },
+        {
+          "name": "Polish Radio Orchestra in Warsaw",
+          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
         }
       ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
+      "duration_ms": 188516,
+      "name": "Fallen Angel: IV. Fire",
+      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1383,30 +1395,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Dominik Wania",
-          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
-        },
-        {
-          "name": "Micha\u0142 Klauza",
-          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
-        },
-        {
-          "name": "Polish Radio Orchestra in Warsaw",
-          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Fallen Angel: IV. Fire",
-      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
-      },
-      "artists": [
-        {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
-        }
-      ],
-      "duration_ms": 568547,
-      "name": "is it",
-      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Fryderyk LIS",
         "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+        }
+      ],
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "No Return No Karma",
         "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
       },
@@ -1483,34 +1483,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Through The Hourglass (Acoustic)",
-        "url": "https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Grzegorz Mas\u0142owski",
-          "url": "https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf"
-        },
-        {
-          "name": "Marcin Kaletka",
-          "url": "https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T"
-        },
-        {
-          "name": "Jaros\u0142aw Bothur",
-          "url": "https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0"
-        },
-        {
-          "name": "Mateusz Pa\u0142ka",
-          "url": "https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo"
-        },
-        {
-          "name": "Piotr Po\u0142udniak",
-          "url": "https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 550813,
-      "name": "Through The Hourglass",
-      "url": "https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku"
+      "duration_ms": 568547,
+      "name": "is it",
+      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
     }
   ],
   "unique_name": "Fryderyk 2026",

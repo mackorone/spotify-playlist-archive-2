@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 208694,
+  "num_followers": 208715,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Arkhon",
+        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 204262,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Empty And Silent (feat. King Krule)",
         "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 367954,
       "name": "Empty And Silent (feat. King Krule)",
       "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Arkhon",
-        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 204262,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Sunset Violent",
-        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
+        "name": "& the Charm",
+        "url": "https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
         }
       ],
-      "duration_ms": 277285,
-      "name": "Fishbrain",
-      "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
+      "duration_ms": 269446,
+      "name": "Sandrail Silhouette",
+      "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -175,18 +175,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "& the Charm",
-        "url": "https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo"
+        "name": "The Sunset Violent",
+        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
       },
       "artists": [
         {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 269446,
-      "name": "Sandrail Silhouette",
-      "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Hay Veces",
         "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 186445,
       "name": "Hay Veces",
       "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Triple Fire",
-        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
-      },
-      "artists": [
-        {
-          "name": "Geneva Jacuzzi",
-          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Dry",
-      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "wanderlust",
         "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
       },
@@ -843,22 +827,6 @@
       "duration_ms": 184504,
       "name": "wanderlust",
       "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -879,6 +847,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "The Games You Play",
         "url": "https://open.spotify.com/album/4M1RBdrh3RgLTi01x2qHhc"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 154578,
       "name": "The Games You Play",
       "url": "https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Triple Fire",
+        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
+      },
+      "artists": [
+        {
+          "name": "Geneva Jacuzzi",
+          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "There is only love and fear",
         "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Itchy",
+        "url": "https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Itchy",
+      "url": "https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Space Jumps",
         "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
       },
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Itchy",
-        "url": "https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI"
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
       },
       "artists": [
         {
-          "name": "Leatherette",
-          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Itchy",
-      "url": "https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ"
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Island Family (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1439,22 +1455,6 @@
       "duration_ms": 158638,
       "name": "Life Drummer",
       "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Everything Changes, Nothing Ends",
+        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "duration_ms": 436434,
+      "name": "January 25th",
+      "url": "https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Vandali / Stranidei",
         "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
       },
@@ -1511,18 +1527,38 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Everything Changes, Nothing Ends",
-        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
       },
       "artists": [
         {
-          "name": "Mark Barrott",
-          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
         }
       ],
-      "duration_ms": 436434,
-      "name": "January 25th",
-      "url": "https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl"
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "For You, Please",
+        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "duration_ms": 205205,
+      "name": "For You, Please",
+      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1555,42 +1591,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "For You, Please",
-        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
-      },
-      "artists": [
-        {
-          "name": "Arhkota",
-          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
-        },
-        {
-          "name": "Lubna Maher",
-          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
-        }
-      ],
-      "duration_ms": 205205,
-      "name": "For You, Please",
-      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Songs To Whistle When Strolling Along The Abyss",
         "url": "https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle"
       },
@@ -1603,22 +1603,6 @@
       "duration_ms": 252557,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Me Gustas Pero No Te Quiero",
         "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 210912,
       "name": "Me Gustas Pero No Te Quiero",
       "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Estar\u00e1n aparcando",
+        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
+      },
+      "artists": [
+        {
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+        }
+      ],
+      "duration_ms": 140727,
+      "name": "Estar\u00e1n aparcando",
+      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1687,22 +1703,6 @@
       "duration_ms": 223947,
       "name": "watch it burn",
       "url": "https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Estar\u00e1n aparcando",
-        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
-      },
-      "artists": [
-        {
-          "name": "Espanto",
-          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
-        }
-      ],
-      "duration_ms": 140727,
-      "name": "Estar\u00e1n aparcando",
-      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
     },
     {
       "added_at": "2025-11-18 17:38:22",

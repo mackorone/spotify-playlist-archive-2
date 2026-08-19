@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,631 songs - 10 day 9 hr 13 min
+4,635 songs - 10 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1643,6 +1643,7 @@
 | [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-04-12 |  |
 | [Game On](https://open.spotify.com/track/1bnhFBcld2eOWaK5t42RJ3) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 2:50 | 2025-06-04 |  |
 | [Game Over Lovers](https://open.spotify.com/track/3eUMKk0bfVUj3A1mrDsBZ3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:00 | 2025-09-12 |  |
+| [GANG](https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [GANG](https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU) | 1:53 | 2026-08-18 |  |
 | [Garden Again](https://open.spotify.com/track/5VSOcF7z8Kempq4yn16mpz) | [Evva Polak](https://open.spotify.com/artist/507ea9h4rltyLfB1fqpIfV) | [Garden Again](https://open.spotify.com/album/0NvOpi04hZyaswKLQGYOBT) | 4:19 | 2025-12-26 |  |
 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 | 2025-04-09 |  |
 | [GAWD](https://open.spotify.com/track/1BSylA531DI1EsLlWCIPYR) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [GAWD](https://open.spotify.com/album/6tijc0hDKo3wkxb8wR7Drj) | 3:01 | 2025-07-03 |  |
@@ -1729,6 +1730,7 @@
 | [Goodbye](https://open.spotify.com/track/4ciqI4T6L5fyi2CmmT2JnS) | [Alice Elzira](https://open.spotify.com/artist/2UMZWBBmQ6wxLSDVXCM6HK) | [Goodbye](https://open.spotify.com/album/1zkbYSANz5os3fqAUnRvth) | 3:16 | 2025-05-16 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-12-10 |  |
 | [Goood on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 | 2025-05-27 |  |
+| [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-08-18 |  |
 | [Gothic Ackward](https://open.spotify.com/track/6iVOcEDNlwqgaQXpXY4O96) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Gothic Ackward](https://open.spotify.com/album/6qk9E24NtMnPd1E3PBgoov) | 2:56 | 2026-05-07 |  |
 | [Gotta Go Baby](https://open.spotify.com/track/0j7WLlQUzoawGRjs5m8YR7) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Gotta Go Baby](https://open.spotify.com/album/5FXw6cJb5jTvI2zReZMTFB) | 3:32 | 2025-06-04 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2025-05-09 |  |
@@ -3977,6 +3979,7 @@
 | [The Creeps](https://open.spotify.com/track/7HsjovFiqgeIVjlwhh3EkK) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Rhythm](https://open.spotify.com/album/4GO11BTRtDwQANUqmiGqwI) | 4:50 | 2025-11-05 |  |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-06-04 |  |
 | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/track/4SQbNwdCGrHqdbK0ybRdH7) | [The Bliss Machine](https://open.spotify.com/artist/61ah4S257JAMWo56rMHd0T) | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/album/7pSr4IE7sSSHgXHIYZmaez) | 4:35 | 2025-12-04 |  |
+| [The Devils Name](https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k) | [Spacebreaker](https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE) | [The Devils Name](https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z) | 3:29 | 2026-08-18 |  |
 | [The Divide](https://open.spotify.com/track/5WIkiKpEVdi277Pmz08Dd2) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:39 | 2026-04-13 |  |
 | [The Divide \(Him & Her\)](https://open.spotify.com/track/1BKsSyIw4bcDgsE10wkumz) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:32 | 2026-04-13 |  |
 | [The Earth Don't Spin](https://open.spotify.com/track/2Pz4yXhwAFFC5sqEyrHNn9) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Milk City Sweethearts](https://open.spotify.com/album/61uW3Sn6g9kUeriAg15DvC) | 3:20 | 2025-11-04 |  |
@@ -4314,6 +4317,7 @@
 | [Via Da Me](https://open.spotify.com/track/0CyihkMcscks26TkL0fbx0) | [Cow Lee](https://open.spotify.com/artist/3WM2c0I49ITR5o3BeXeBQe) | [Via Da Me](https://open.spotify.com/album/2izmZV5MGnh9fv0YZ0D7wi) | 3:55 | 2025-06-01 |  |
 | [Viaggio Intorno Al Sole](https://open.spotify.com/track/4JaDbLA57UWIOiRYUZqp3q) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Viaggio Intorno Al Sole](https://open.spotify.com/album/4cLqFkZ6xmpvkewvk66PJt) | 3:17 | 2023-09-17 |  |
 | [Viajando](https://open.spotify.com/track/0uAveBsjd9FEQvCfrEokCM) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:59 | 2025-07-29 |  |
+| [Viajero del Tiempo](https://open.spotify.com/track/5fXv91jyW5roZBefIaJoXW) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Viajero del Tiempo](https://open.spotify.com/album/5ueAQ14A9yhL2OgWa1WADX) | 5:30 | 2026-08-18 |  |
 | [Vibe Killer](https://open.spotify.com/track/2bZe2ju9WaSj68TJ7sOEje) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn the Night](https://open.spotify.com/album/4Fr9ospcNo6Ml3HCQpQpa1) | 2:38 | 2025-09-12 |  |
 | [Vibrant Life](https://open.spotify.com/track/3dCyQlhzyguNwlS79gZ9HN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:23 | 2025-06-04 |  |
 | [Vibrant Life \(another\)](https://open.spotify.com/track/4uedQvdqgDk5BXycjCuMf1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:54 | 2025-09-17 |  |

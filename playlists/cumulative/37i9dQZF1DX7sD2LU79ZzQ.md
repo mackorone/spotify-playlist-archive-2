@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Petra Sihombing
 
-1,707 songs - 4 day 12 hr 11 min
+1,707 songs - 4 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Beraksi](https://open.spotify.com/track/5cK3mgNdHGlua1IKezMscn) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu), [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [Beraksi](https://open.spotify.com/album/4heQ0fU30FAFK7ulTT74ai) | 3:37 | 2024-02-01 | 2024-03-01 |
 | [Beralih](https://open.spotify.com/track/2idjIFh2881kQFEMNOvKSo) | [Terbit Dari Selatan](https://open.spotify.com/artist/2nydh1CUw2nxO9LYt7y3J0) | [Beralih](https://open.spotify.com/album/0geNK6W1wTH44xPKxTDw0c) | 4:12 | 2025-03-06 | 2025-04-11 |
 | [bERANI](https://open.spotify.com/track/48oUGcXdLlGztCA0u0gqNI) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [bERANI](https://open.spotify.com/album/1SJCHC92mK2v7frrmWXFCf) | 3:30 | 2026-06-25 | 2026-08-07 |
-| [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 | 2026-04-09 |  |
+| [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:40 | 2026-04-09 |  |
 | [Berbunga\-bunga](https://open.spotify.com/track/0nJJr1PPDsezNGkJ1AtLkj) | [SOIN](https://open.spotify.com/artist/7DivToHdmrlnjxG1iKqfMx), [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Berbunga\-bunga](https://open.spotify.com/album/4gCyxB5ixZUx3aQGEzrNcE) | 3:21 | 2024-11-14 | 2024-12-06 |
 | [berbunga\-bunga sendiri](https://open.spotify.com/track/2djBm2KIje6yjmyw6KHtzL) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [berbunga\-bunga sendiri](https://open.spotify.com/album/3bTDKfHeQuXlOJomalBjoE) | 3:02 | 2025-04-17 | 2025-05-30 |
 | [Bercanda](https://open.spotify.com/track/7eGhvK01AHTAqT69Jo7mXN) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Bercanda](https://open.spotify.com/album/3SboBA6hQjDLy6n0ULH4gT) | 4:27 | 2026-04-09 | 2026-05-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 641931,
+  "num_followers": 642080,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 241813,
       "name": "One Piece at a Time",
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "He Stopped Loving Her Today",
-      "url": "https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2026-02-11 22:45:47",

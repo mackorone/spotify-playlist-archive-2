@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Tulus
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,650 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,595 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 24 | [Takkan Menyerah](https://open.spotify.com/track/44wumjkitSkaorAWIiXjfu) | [Meer Nash](https://open.spotify.com/artist/5u7bSTNoq9AU1dh4sgurL8) | [Takkan Menyerah](https://open.spotify.com/album/5bQfcQaIirkXPX2XR0g6b3) | 3:57 |
 | 25 | [Butterfly](https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Butterfly](https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4) | 3:56 |
 | 26 | [Adek Saye Abe Sore](https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm) | [Eda Ezrin](https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W), [Den Manjo](https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9) | [Adek Saye Abe Sore](https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf) | 4:13 |
-| 27 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 |
+| 27 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:40 |
 | 28 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 29 | [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 |
 | 30 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |

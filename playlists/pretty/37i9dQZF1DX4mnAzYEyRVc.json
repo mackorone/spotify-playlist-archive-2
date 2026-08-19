@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 72443,
+  "num_followers": 72463,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 232444,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Rudy Come Home",
-        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
-      },
-      "artists": [
-        {
-          "name": "Death Of Guitar Pop",
-          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
-        }
-      ],
-      "duration_ms": 240429,
-      "name": "Rudy Come Home",
-      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Bersinar",
         "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Rudy Come Home",
+        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
+      },
+      "artists": [
+        {
+          "name": "Death Of Guitar Pop",
+          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
+        }
+      ],
+      "duration_ms": 240429,
+      "name": "Rudy Come Home",
+      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "The Story So Far...",
         "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 269400,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-03-20 06:00:11",

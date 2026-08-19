@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,344 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,348 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 9 | [Trap 4 a Year II](https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Trap 4 a Year II](https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB) | 2:35 |
 | 10 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
 | 11 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
-| 12 | [i have a secret](https://open.spotify.com/track/5rzr7pkEiYNFU11Q71XYb3) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [i have a secret](https://open.spotify.com/album/67boqqAnVnbMBsQ11b7rZR) | 2:15 |
-| 13 | [GHOST DOG.](https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [GHOST DOG.](https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE) | 2:59 |
+| 12 | [GHOST DOG.](https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [GHOST DOG.](https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE) | 2:59 |
+| 13 | [i have a secret](https://open.spotify.com/track/5rzr7pkEiYNFU11Q71XYb3) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [i have a secret](https://open.spotify.com/album/67boqqAnVnbMBsQ11b7rZR) | 2:15 |
 | 14 | [Men Into Boys](https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Men Into Boys](https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu) | 2:34 |
 | 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:21 |
 | 16 | [Ya Hala](https://open.spotify.com/track/4h3QHOlA0cVlN8CSpJehnd) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Ya Hala](https://open.spotify.com/album/09cYavs2exGSaMjJGIcUyE) | 2:22 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 21 | [intersection](https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [intersection](https://open.spotify.com/album/1QBqcimkOSDc56jvdra679) | 3:18 |
 | 22 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 23 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
-| 24 | [Did That](https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:23 |
-| 25 | [Sentimental Things](https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Sentimental Things](https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9) | 2:15 |
+| 24 | [Sentimental Things](https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Sentimental Things](https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9) | 2:15 |
+| 25 | [Did That](https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:23 |
 | 26 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
 | 27 | [Easy](https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Easy](https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa) | 2:38 |
 | 28 | [Sun Up](https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Sun Up / Hilly Fields](https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc) | 2:36 |

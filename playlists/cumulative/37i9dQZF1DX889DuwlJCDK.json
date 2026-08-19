@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: reGretGirl",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u3042\u305f\u3089\u3088",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -6166,7 +6166,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 194900,
       "name": "impact tracker",
       "url": "https://open.spotify.com/track/0y7oGLbQ48W51TMileVUu1"
@@ -6706,7 +6706,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 200093,
       "name": "Kids in the Park",
       "url": "https://open.spotify.com/track/40TgZbFN66qw7bXwZlF5QE"
@@ -15749,6 +15749,24 @@
     },
     {
       "album": {
+        "name": "YU'S",
+        "url": "https://open.spotify.com/album/1VYfQI2LrPTFwUPngbNWT2"
+      },
+      "artists": [
+        {
+          "name": "YU'S",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296901,
+      "name": "\u3042\u306a\u305f\u3078",
+      "url": "https://open.spotify.com/track/6Gf4x5qi1bU93nbzLeeHhd"
+    },
+    {
+      "album": {
         "name": "LAST PLANET",
         "url": "https://open.spotify.com/album/4cHX7F9PXd9mFtUcfWBXFz"
       },
@@ -18036,7 +18054,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 173439,
       "name": "\u308f\u304b\u3063\u3066\u3044\u305f\u3068\u3057\u3066\u3082",
       "url": "https://open.spotify.com/track/15o6ZNBKYhDDTNex7LMcIe"
@@ -30309,6 +30327,24 @@
     },
     {
       "album": {
+        "name": "\u672a\u7df4",
+        "url": "https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268166,
+      "name": "\u672a\u7df4",
+      "url": "https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB"
+    },
+    {
+      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -30976,6 +31012,46 @@
       "duration_ms": 276666,
       "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
       "url": "https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u96e8\u306b\u590f\u306e\u706f\u3092\u77e5\u308b",
+        "url": "https://open.spotify.com/album/6FlrlZM9CuVlztVnO8x6xL"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        },
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226938,
+      "name": "\u6dbc\u98a8 - feat. \u53cb\u6210\u7a7a",
+      "url": "https://open.spotify.com/track/1dHoORp875dv0CJrqZ4kVF"
+    },
+    {
+      "album": {
+        "name": "\u6e0b\u8c37\u304b\u3089",
+        "url": "https://open.spotify.com/album/1UFTdxGUb71UHZpzXU3fh6"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194794,
+      "name": "\u6e0b\u8c37\u304b\u3089",
+      "url": "https://open.spotify.com/track/57MeCC6LaM8G6tun8HLV3o"
     },
     {
       "album": {
@@ -34414,7 +34490,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 241660,
       "name": "\u9b54\u6cd5\u304c\u3068\u3051\u308b\u524d\u306b",
       "url": "https://open.spotify.com/track/5ENeQ4fXWw9dUFgiiplipH"

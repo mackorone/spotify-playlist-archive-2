@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,562 likes - 37 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,563 likes - 37 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 19 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
 | 20 | [U think Maybe? \(feat\. Liv.e and Venna\)](https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 2:29 |
 | 21 | [The Last Poets](https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:14 |
-| 22 | [Numero Uno](https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:12 |
+| 22 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 |
 | 23 | [Standard](https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Standard](https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca) | 2:37 |
 | 24 | [so simple](https://open.spotify.com/track/1xg3Nzby8u6q88hOjvEWLy) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/2j3D8Ms83vrBFRKbIA3pQw) | 2:52 |
 | 25 | [Aroma](https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 2:24 |
-| 26 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 |
+| 26 | [Numero Uno](https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:12 |
 | 27 | [Black Classical Music / Afro Cubanism \(feat\. Venna\) \- Live From Malibu](https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 6:45 |
 | 28 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
 | 29 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 36 | [july \(feat\. Tiana Major9 & Venna\)](https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:44 |
 | 37 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [What's A Diamond To A Baby \- The Remixes Vol\. 1](https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv) | 4:14 |
 
-Snapshot ID: `aoD9gAAAAACAgdVhqHK6wu/ykRdex4et`
+Snapshot ID: `aoJPAAAAAAB/Jd1uLEipJjevP86LPaEr`

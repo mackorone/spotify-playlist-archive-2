@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,050 likes - 175 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,127 likes - 175 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 114 | [Cumbia Cienaguera](https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:04 |
 | 115 | [Sorbito de Champagne](https://open.spotify.com/track/2SYIRrz8I4YVbZj6EAJUG6) | [Pastor Lopez](https://open.spotify.com/artist/48ZhMAvBuySjyTzR4JDX2y) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:36 |
 | 116 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
-| 117 | [Bajo el Trupillo Guajiro](https://open.spotify.com/track/3CCo1TQuD3BJu1SRlkjaL6) | [Sexteto Manaure](https://open.spotify.com/artist/3WLD5UHHqX0jtkk6D0fvdQ) | [La Bola de Cristal](https://open.spotify.com/album/4VHupnDa6gPKQTPVtKwNJu) | 2:46 |
+| 117 | [Bajo el Trupillo Guajiro](https://open.spotify.com/track/3CCo1TQuD3BJu1SRlkjaL6) | [Sexteto Manaure](https://open.spotify.com/artist/51Nnn5fPcdr1AR4jBGXPUu) | [La Bola de Cristal](https://open.spotify.com/album/4VHupnDa6gPKQTPVtKwNJu) | 2:46 |
 | 118 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
 | 119 | [Si No Regresas](https://open.spotify.com/track/4wEhJKVGsYP9h7xTyddrB8) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:42 |
 | 120 | [La Vampiresa](https://open.spotify.com/track/06uyFPb72xxh5takZ206Of) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [La Vampiresa](https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T) | 5:14 |

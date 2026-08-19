@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,234 likes - 76 songs - 4 hr 33 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,241 likes - 83 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 74 | [Searching For The Meaning Of Life](https://open.spotify.com/track/2dDRJHzBOszwRqvi9m4xTh) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 2:36 |
 | 75 | [Calm After The Storm](https://open.spotify.com/track/6HhTEmSzmipGU5O5EzBfqp) | [Help Wanted](https://open.spotify.com/artist/0omDhJzmgZ8tu73lHdwi5T) | [Calm After The Storm](https://open.spotify.com/album/5gsFwal4tWt1KHDChP4xBS) | 3:17 |
 | 76 | [Once More Again \(Alternative Version\)](https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Once More Again](https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8) | 4:53 |
+| 77 | [New Age \(Promo\)](https://open.spotify.com/track/3wy959j1xWgbXFqMBRP6sS) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age](https://open.spotify.com/album/77QeTIYP5ncHLOLApybVHp) | 3:33 |
+| 78 | [The moment has gone](https://open.spotify.com/track/4GIloW1HH12hMDdpccLQAC) | [Bianca Rastafiore](https://open.spotify.com/artist/0J9iB1rMMqrCPxvRIYcOME) | [Three Women](https://open.spotify.com/album/5TSkCSq6ddPL7lzazQ5Alk) | 3:48 |
+| 79 | [Losing You](https://open.spotify.com/track/45fRaHQs6hOtqtnMjmXdA8) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Losing You](https://open.spotify.com/album/6PEwi2VdrTDb4DVYSo6pom) | 4:19 |
+| 80 | [Bittersweet Coming Of Age](https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Bittersweet Coming Of Age](https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB) | 3:14 |
+| 81 | [Liberdade Liberal](https://open.spotify.com/track/6SrAFNIwdnE6K9F75NzTen) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Liberdade Liberal](https://open.spotify.com/album/1Fa4CiQV9k4nkdxo3GAMbf) | 2:10 |
+| 82 | [Time](https://open.spotify.com/track/60J0FaM0STeb72RTyIXKbf) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Time](https://open.spotify.com/album/5GCWSi13Cx0ggZKxr4CJFc) | 4:11 |
+| 83 | [Where Did You Sleep Last Night](https://open.spotify.com/track/5vMHbAgEDngb6bD2XLbkl6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Where Did You Sleep Last Night](https://open.spotify.com/album/0xLiJzAYXwsMjN97xRJjZ5) | 4:37 |
 
-Snapshot ID: `AAAGy1TQbAumjggQLn3CZGY5z0T4jkYs`
+Snapshot ID: `AAAG0lyuR6qc8GhUkkNtwd9zvjXT2MVN`

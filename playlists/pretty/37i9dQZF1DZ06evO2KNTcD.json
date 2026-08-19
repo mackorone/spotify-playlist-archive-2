@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAATMKyHjoWlp3FZIHn6amgT",
+  "snapshot_id": "aoJPAAAAAACtFo57yE+eOmfXYUQhS6tw",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "if You Feel",
-        "url": "https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG"
+        "name": "What's A Monday",
+        "url": "https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1"
       },
       "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
         {
           "name": "Jae Stephens",
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 166266,
-      "name": "All Our Time (feat. Jae Stephens)",
-      "url": "https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X"
+      "duration_ms": 153040,
+      "name": "What's A Monday",
+      "url": "https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ"
     },
     {
       "added_at": null,
@@ -203,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's A Monday",
-        "url": "https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1"
+        "name": "if You Feel",
+        "url": "https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG"
       },
       "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
         {
           "name": "Jae Stephens",
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 153040,
-      "name": "What's A Monday",
-      "url": "https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ"
+      "duration_ms": 166266,
+      "name": "All Our Time (feat. Jae Stephens)",
+      "url": "https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time",
-        "url": "https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd"
+        "name": "Long Way to Go",
+        "url": "https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Every Time",
-      "url": "https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL"
+      "duration_ms": 198000,
+      "name": "Long Way to Go",
+      "url": "https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Way to Go",
-        "url": "https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw"
+        "name": "Every Time",
+        "url": "https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Long Way to Go",
-      "url": "https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz"
+      "duration_ms": 216750,
+      "name": "Every Time",
+      "url": "https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL"
     },
     {
       "added_at": null,

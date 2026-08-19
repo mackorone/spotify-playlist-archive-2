@@ -1,518 +1,322 @@
 {
-  "description": "One night only. Cover: Ink Waruntorn, SERIOUS BACON",
-  "num_followers": 53543,
-  "original_name": "On Tour Singapore: Ink Waruntorn, SERIOUS BACON",
+  "description": "One night only. Cover: Alex Warren",
+  "num_followers": 53532,
+  "original_name": "On Tour Singapore: Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJfUUvju2iexfDNDXucuFB3Aww6i",
+  "snapshot_id": "AAAAAIWrcjXZ0m+hPb0P01T/fLmYARBo",
   "tracks": [
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e25\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e25\u0e37\u0e21 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/5sr2RxgnGw9rPhtV5fyFzA"
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
       },
       "artists": [
         {
-          "name": "BILLKIN",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+    },
+    {
+      "added_at": "2026-08-18 06:00:15",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         },
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 276315,
-      "name": "\u0e25\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e25\u0e37\u0e21 (LIVE SESSION)",
-      "url": "https://open.spotify.com/track/1LHSjq4rMOXJ2ldQ1uUDYw"
+      "duration_ms": 182008,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "BOLD",
-        "url": "https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 228648,
-      "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
-      "url": "https://open.spotify.com/track/1us1N0XEToufNnmzyhJPm5"
+      "duration_ms": 183853,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21 (Your Type?)",
-        "url": "https://open.spotify.com/album/4QfuaNmBAE4PTmzBZWQmfB"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        },
-        {
-          "name": "gorn",
-          "url": "https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 188877,
-      "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21 (Your Type?)",
-      "url": "https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP"
+      "duration_ms": 161052,
+      "name": "First Time On Earth",
+      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "HOMETOWN",
-        "url": "https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ"
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
       "artists": [
         {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        },
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 136200,
-      "name": "Greenlight",
-      "url": "https://open.spotify.com/track/46nHhnlaQK5j6E7RxMZb3L"
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e1b\u0e23\u0e19\u0e31\u0e22",
-        "url": "https://open.spotify.com/album/5T4hoL7MkoPclZXcPQlgRr"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "Wan Thanakrit",
-          "url": "https://open.spotify.com/artist/4IYocudwewhFDpAErwolWM"
-        },
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 248000,
-      "name": "\u0e1b\u0e23\u0e19\u0e31\u0e22",
-      "url": "https://open.spotify.com/track/1keLw7k8AHchStVnMcL6pA"
+      "duration_ms": 149446,
+      "name": "You\u2019ll Be Alright, Kid",
+      "url": "https://open.spotify.com/track/2PDmHLLdndbk64Nj75cMxZ"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "INK",
-        "url": "https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI"
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 224500,
-      "name": "\u0e25\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e25\u0e37\u0e21",
-      "url": "https://open.spotify.com/track/5pl8qATlLaOruVevtkW3QR"
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e08\u0e33\u0e44\u0e27\u0e49",
-        "url": "https://open.spotify.com/album/71lNvoJeFSc0bAKf5GhNrx"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 241875,
-      "name": "\u0e08\u0e33\u0e44\u0e27\u0e49",
-      "url": "https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ"
+      "duration_ms": 197929,
+      "name": "Never Be Far",
+      "url": "https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "BEST FRIEND OF THE YEAR",
-        "url": "https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 185517,
-      "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
-      "url": "https://open.spotify.com/track/25Txtd7KFm662ndZQroeNN"
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \"\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2\")",
-        "url": "https://open.spotify.com/album/3WQT0leGnZM2Y9Vngk3LSk"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 246434,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \"\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2\"",
-      "url": "https://open.spotify.com/track/2dUp7L6A8Lad0gEP5Cne5Q"
+      "duration_ms": 192892,
+      "name": "Catch My Breath",
+      "url": "https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "BOLD",
-        "url": "https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 234000,
-      "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/5rGILJJ2fXJIVCZ88fN1ez"
+      "duration_ms": 202434,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/7GTcDc2PEmRoWcW19tqjRJ"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "Are You Serious?",
-        "url": "https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY"
+        "name": "FINE PLACE TO DIE",
+        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 219740,
-      "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
-      "url": "https://open.spotify.com/track/5LpOs0rhNMwTPKl86QsfZl"
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "BEST FRIEND OF THE YEAR",
-        "url": "https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 207525,
-      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e14\u0e35\u0e40\u0e14\u0e48\u0e19 (BEST FRIEND 4EVER)",
-      "url": "https://open.spotify.com/track/3yumkDAlVC28NvCK0r8zP5"
+      "duration_ms": 184406,
+      "name": "Getaway Car",
+      "url": "https://open.spotify.com/track/6xRG0mGtTLvJDFnytx1eoj"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
-        "url": "https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        },
-        {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 229266,
-      "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
-      "url": "https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l"
+      "duration_ms": 161105,
+      "name": "You Can't Stop This",
+      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e22\u0e37\u0e48\u0e19\u0e43\u0e1a\u0e2a\u0e21\u0e31\u0e04\u0e23 (Heart Application)",
-        "url": "https://open.spotify.com/album/5avNi0q4TPgBnshJ2juHHV"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 167608,
-      "name": "\u0e22\u0e37\u0e48\u0e19\u0e43\u0e1a\u0e2a\u0e21\u0e31\u0e04\u0e23 (Heart Application)",
-      "url": "https://open.spotify.com/track/4EyQv6oJtloxRBS1ChYLY1"
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e40\u0e2b\u0e07\u0e32 \u0e40\u0e2b\u0e07\u0e32 (Insomnia)",
-        "url": "https://open.spotify.com/album/729AMSy8S2eReoEA2FYCLZ"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 292168,
-      "name": "\u0e40\u0e2b\u0e07\u0e32 \u0e40\u0e2b\u0e07\u0e32 (Insomnia)",
-      "url": "https://open.spotify.com/track/2DuJ5BNd0dYT2Un5MyW4cT"
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/0TdacYZkgRxz8ZvHUtpimP"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "BEST FRIEND OF THE YEAR",
-        "url": "https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 250500,
-      "name": "\u0e42\u0e01\u0e2b\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19 (Pinocchio)",
-      "url": "https://open.spotify.com/track/3W71VZVjyKw3pw25e2MXWq"
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/0ydx75YiFzLjjQknKFNFwt"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "\u0e27\u0e31\u0e07\u0e27\u0e19(BOXX FROM HOME)",
-        "url": "https://open.spotify.com/album/5pILA4SNvZ2cTNIck6rm2i"
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 280909,
-      "name": "\u0e27\u0e31\u0e07\u0e27\u0e19(BOXX FROM HOME)",
-      "url": "https://open.spotify.com/track/4Fp5oBro0qCmjc3PUBukOg"
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-07-31 10:19:40",
+      "added_at": "2026-08-18 06:00:15",
       "album": {
-        "name": "Are You Serious?",
-        "url": "https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY"
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 208125,
-      "name": "\u0e44\u0e21\u0e48\u0e1e\u0e34\u0e40\u0e28\u0e29",
-      "url": "https://open.spotify.com/track/0m3A7UAA6TGXCd26hjR7li"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19 \u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
-        "url": "https://open.spotify.com/album/6EYbWWoj2fCWsgL0XWXWRt"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19 \u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
-      "url": "https://open.spotify.com/track/3kW9fmKoEQnD8zhu3JKffk"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "BEST FRIEND OF THE YEAR",
-        "url": "https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 172659,
-      "name": "\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19 (Love Ads)",
-      "url": "https://open.spotify.com/track/4iG13VrO97YM85IwyeJOTB"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "\u0e09\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 (Cloudy)",
-        "url": "https://open.spotify.com/album/5yEMhdP18TzDsQzIB5rU8K"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 273270,
-      "name": "\u0e09\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 (Cloudy)",
-      "url": "https://open.spotify.com/track/11APF4YlwtMOLnZFtzlT5I"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "1001 (You're Lovely)",
-        "url": "https://open.spotify.com/album/0WS6aJRaoxwV6YItdSqJr8"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 194842,
-      "name": "1001 (You're Lovely)",
-      "url": "https://open.spotify.com/track/5yWLhdBXw95yIpHYpP4dOm"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "Are You Serious?",
-        "url": "https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 278884,
-      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
-      "url": "https://open.spotify.com/track/0qsbc4GvMp1D9kcPAXtZoZ"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e19\u0e44\u0e2b\u0e21(You?)",
-        "url": "https://open.spotify.com/album/3LXzM0BkU5MQvyyPyZUI0a"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e19\u0e44\u0e2b\u0e21(You?)",
-      "url": "https://open.spotify.com/track/6f2AUbU53eUILBCOGS1wvI"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "\u0e01\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27 (From \"\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series\")",
-        "url": "https://open.spotify.com/album/3O8dbbspauX5NLajUkrfr4"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "\u0e01\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27 (From \"\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series\")",
-      "url": "https://open.spotify.com/track/7LjJ6i2eyDEFwPHgr5q0dy"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/0NkWqn8mAVVHsmUdpenuO1"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 211578,
-      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/5FYxzI2IqHq12NCwVToqjS"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "BOLD",
-        "url": "https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/75ACbvWG7cCsdnFxToJjqM"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "INK",
-        "url": "https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "\u0e14\u0e35\u0e43\u0e08\u0e14\u0e49\u0e27\u0e22\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e41\u0e1a\u0e1a",
-        "url": "https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        },
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 207391,
-      "name": "\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e41\u0e1a\u0e1a",
-      "url": "https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3"
-    },
-    {
-      "added_at": "2026-07-31 10:19:40",
-      "album": {
-        "name": "INK",
-        "url": "https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-      "url": "https://open.spotify.com/track/6VLp0TwZt3N7NNmaKJIVos"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     }
   ],
-  "unique_name": "On Tour Singapore: Ink Waruntorn, SERIOUS BACON",
+  "unique_name": "On Tour Singapore: Alex Warren",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH"
 }

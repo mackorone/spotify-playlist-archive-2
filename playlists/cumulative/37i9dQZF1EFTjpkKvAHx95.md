@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-217 songs - 11 hr 37 min
+218 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Dolla](https://open.spotify.com/track/3LUa59DK3bfE47WY4M6HnL) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:39 | 2024-10-01 | 2025-09-04 |
 | [Dolla \- A COLORS SHOW](https://open.spotify.com/track/6fOKSOoWafYU099bNaf6Y8) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dolla \(A COLORS SHOW\)](https://open.spotify.com/album/6bJqdE6a1mRYzzSGK2zycd) | 2:58 | 2025-09-03 |  |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-12-30 |  |
-| [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 | 2023-12-30 |  |
+| [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 | 2023-12-30 | 2026-08-19 |
+| [Don't Take It Personal \(feat\. Tyga\)](https://open.spotify.com/track/3vJPcsiuu7gkj5rG4J7O0q) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Take It Personal \(feat\. Tyga\)](https://open.spotify.com/album/7ArV8O6o0mdabdnsTZ1RI3) | 2:46 | 2026-08-18 |  |
 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 | 2024-12-21 |  |
 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 | 2023-12-30 |  |
 | [Early 2K \(feat\. Tank\)](https://open.spotify.com/track/5ukTyGI2xoGVVvsjlTACEL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:46 | 2023-12-30 |  |
@@ -214,7 +215,7 @@
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-12-11 |  |
 | [Uptown Vibes \(feat\. Fabolous & Anuel AA\)](https://open.spotify.com/track/2tnlNVAhuQGgoFJxALVeXx) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:10 | 2023-12-30 |  |
 | [Ur Best Friend](https://open.spotify.com/track/0LW7qWXhhyQSI88uoRNMwp) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5xv5lAFaTM5HWmzQhk7pEB) | 3:21 | 2023-12-30 | 2024-02-01 |
-| [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2023-12-31 | 2026-08-18 |
+| [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2023-12-31 |  |
 | [Vibez](https://open.spotify.com/track/2RaxPAWpOHyececTv2g8Ib) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez \(Official Video\)](https://open.spotify.com/album/64QMJpyj7fcPaHi3Ba2R5d) | 2:42 | 2023-12-30 | 2024-01-31 |
 | [Vibez](https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:43 | 2024-01-01 |  |
 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 | 2023-12-30 |  |

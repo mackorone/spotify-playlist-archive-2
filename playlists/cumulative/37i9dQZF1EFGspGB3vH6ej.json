@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
@@ -656,6 +656,24 @@
       "duration_ms": 314826,
       "name": "Boy (I Need You)",
       "url": "https://open.spotify.com/track/4vAfVTBWBZ2AP8avoLV0n1"
+    },
+    {
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Brahms' Lullaby",
+      "url": "https://open.spotify.com/track/3Y2jaEYu4R9ECTjL2D260H"
     },
     {
       "album": {
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 319106,
       "name": "Crybaby (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5DkHYNiEqDnyKHW5r1Esj6"
@@ -1246,6 +1264,24 @@
       "duration_ms": 217640,
       "name": "Don't Stop (Funkin' 4 Jamaica)",
       "url": "https://open.spotify.com/track/7e5PmxlrXcTODQoW1W6B6D"
+    },
+    {
+      "album": {
+        "name": "Sing & Swing with Bobby Darin",
+        "url": "https://open.spotify.com/album/7Hp8KEu2KpCKetEIBBDVk3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/5XeUMqS6mpTEspPgd5TLtg"
     },
     {
       "album": {
@@ -2327,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Set the Record Straight",
+        "url": "https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198836,
+      "name": "I Want My Mullet Back",
+      "url": "https://open.spotify.com/track/3CdAYxu9uKsTt0iW7j8fkB"
+    },
+    {
+      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
       },
@@ -3220,7 +3274,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 295133,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2MUV7GGJ5aqNKIsxWLBvqM"
@@ -3531,6 +3585,28 @@
     },
     {
       "album": {
+        "name": "Charmbracelet",
+        "url": "https://open.spotify.com/album/0gTbDhU0tDmXdXn2RNWO2l"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307053,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4RoP39JtCDWg2fQDsFV8sZ"
+    },
+    {
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG"
       },
@@ -3546,7 +3622,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 308306,
       "name": "Miss You (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/3Z58wUS9esAmboMQOwNsx1"
@@ -3808,7 +3884,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 257548,
       "name": "Now That I Know",
       "url": "https://open.spotify.com/track/62rNEHSG4cM7b8CcnZ0qpq"
@@ -3902,10 +3978,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 242200,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0ekPOYOJPlwgTRS1ktn2aW"
+    },
+    {
+      "album": {
+        "name": "The Gooch",
+        "url": "https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248555,
+      "name": "Obsessed (feat. Mariah Carey)",
+      "url": "https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx"
     },
     {
       "album": {
@@ -4272,10 +4370,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 221400,
       "name": "Runway",
       "url": "https://open.spotify.com/track/357y2F83GG18TmJOhAi5nj"
+    },
+    {
+      "album": {
+        "name": "Caution (Japan Version)",
+        "url": "https://open.spotify.com/album/2VtWkFLhMJAFsWkHAXwosS"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "KOHH",
+          "url": "https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221273,
+      "name": "Runway (feat. KOHH)",
+      "url": "https://open.spotify.com/track/1kJSojPbDdE8mvCcbwqK7Z"
     },
     {
       "album": {
@@ -5150,7 +5270,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 288640,
       "name": "Through The Rain",
       "url": "https://open.spotify.com/track/0mvtBgpiAg6fPg7ec7lxE9"
@@ -5278,7 +5398,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 250466,
       "name": "Triumphant (Get 'Em)",
       "url": "https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL"
@@ -5550,7 +5670,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
@@ -5580,6 +5700,24 @@
       "duration_ms": 265613,
       "name": "We Belong Together - Remix",
       "url": "https://open.spotify.com/track/1utrsYxa4IA9zzpLdIxpHB"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas II You",
+        "url": "https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "When Christmas Comes",
+      "url": "https://open.spotify.com/track/4riYG1BJEi4z998vce8MBC"
     },
     {
       "album": {
@@ -5620,7 +5758,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 286002,
       "name": "When Christmas Comes",
       "url": "https://open.spotify.com/track/1dTzXtog6vWqdLc7BgRScw"
@@ -5674,10 +5812,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 260626,
       "name": "Whenever You Call",
       "url": "https://open.spotify.com/track/2PWnjWaIVuDeT4mXZgHWgR"
+    },
+    {
+      "album": {
+        "name": "Soul Obsessions: Duets With Thor",
+        "url": "https://open.spotify.com/album/7hTHfrFXKU52anFD3NeGtk"
+      },
+      "artists": [
+        {
+          "name": "Thor",
+          "url": "https://open.spotify.com/artist/3MwMfMtrh8q9Whroa3Xqe6"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1vMDpkbRzEAcpWjFwR1y5a"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268213,
+      "name": "Whenever You Call",
+      "url": "https://open.spotify.com/track/2jYwWFEIBBzslFuXVHtxMj"
     },
     {
       "album": {

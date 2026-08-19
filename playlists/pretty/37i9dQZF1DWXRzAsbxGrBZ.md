@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Chronical Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,921 likes - 75 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,977 likes - 75 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

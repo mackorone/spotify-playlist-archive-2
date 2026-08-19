@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 223190,
+  "num_followers": 223238,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 316426,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 281520,
       "name": "A rodar mi vida",
       "url": "https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Suenan Las Alarmas",
-        "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "Prendido Fuego",
-      "url": "https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Los Fabulosos Cadillacs - Vol. V",
         "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 252426,
       "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
       "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Suenan Las Alarmas",
+        "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "Prendido Fuego",
+      "url": "https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Donde estabas tu... en el 93?",
+        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Toda la vida",
         "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Donde estabas tu... en el 93?",
-        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "EL MENSAJERO",
-        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
+        "name": "Los Lobos",
+        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
       },
       "artists": [
         {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        },
-        {
-          "name": "Cocodrilo P&B",
-          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 148421,
-      "name": "EL MENSAJERO",
-      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
+      "duration_ms": 228938,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO"
     }
   ],
   "unique_name": "Ruta 2",

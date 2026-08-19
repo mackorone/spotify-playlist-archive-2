@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 157826,
       "name": "6 Graus Abaixo de Zero",
       "url": "https://open.spotify.com/track/7llizvX6gYL7DOqaAMN2GC"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 183386,
       "name": "6 Graus Abaixo de Zero - Ao Vivo",
       "url": "https://open.spotify.com/track/4hMeVIvSBJoxQ5V0qEOPpv"
@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Macei\u00f3 (Deluxe)",
+        "url": "https://open.spotify.com/album/6Xxm2ISHwi47Fk5xNKI1kI"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        },
+        {
+          "name": "Latino",
+          "url": "https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239283,
+      "name": "Beba Mais",
+      "url": "https://open.spotify.com/track/17zeh7nUEwrsdpGrDp13KG"
+    },
+    {
+      "album": {
         "name": "Beba Mais",
         "url": "https://open.spotify.com/album/27rNQ2moFYiYsdIMeIACUJ"
       },
@@ -1588,7 +1610,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 175664,
       "name": "Beba Mais",
       "url": "https://open.spotify.com/track/7ygGZuPgwrbJuPME6xGNNm"
@@ -7199,6 +7221,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Caic\u00f3",
+        "url": "https://open.spotify.com/album/0hB4E6LxAGlzVFQWLWyylM"
+      },
+      "artists": [
+        {
+          "name": "Avi\u00f5es do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159608,
+      "name": "Passa Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/057Dd2Li98p4KRnTuOeLlq"
+    },
+    {
+      "album": {
         "name": "Avi\u00f5es Fantasy - Ao Vivo",
         "url": "https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy"
       },
@@ -7228,7 +7268,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 162377,
       "name": "Passa Amanh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/5Ir9GJrn6AZNlWEcWYa7jn"

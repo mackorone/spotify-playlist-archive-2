@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: Carly Rae Jepsen
+> Listen to women at full volume\. Cover: Rose Gray
 
 3,034 songs - 6 day 23 hr 57 min
 

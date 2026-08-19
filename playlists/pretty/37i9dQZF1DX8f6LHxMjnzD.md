@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,548 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,500 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 14 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
 | 15 | [Guilty As Charged](https://open.spotify.com/track/5B2tnGy2KmfE9LcPuc9lXf) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 3:07 |
 | 16 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
-| 17 | [Makes no Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
+| 17 | [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
 | 18 | [The Proof](https://open.spotify.com/track/5tvROhytDeoFs32EkgHBsA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [The Proof](https://open.spotify.com/album/25dodJJx8oIRTUjbfFQegP) | 2:06 |
 | 19 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
 | 20 | [One Night Stand](https://open.spotify.com/track/2Ww5KkdBHZM8E1fKeZc1DI) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [One Night Stand](https://open.spotify.com/album/7CrFrRDQSSDeEfDxUsz4Ts) | 2:27 |

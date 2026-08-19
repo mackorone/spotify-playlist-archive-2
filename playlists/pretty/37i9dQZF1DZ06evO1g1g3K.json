@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7644,
+  "num_followers": 7647,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAC0ak50RlK+N8e6mhOQMGL5",
+  "snapshot_id": "aoJPAAAAAAALNKZYjIxR3Oay3Sq5K6Wa",
   "tracks": [
     {
       "added_at": null,
@@ -550,15 +550,11 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "DeShawn Jenkins",
-          "url": "https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1"
         }
       ],
-      "duration_ms": 91994,
-      "name": "PIT STOP",
-      "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
     },
     {
       "added_at": null,
@@ -622,11 +618,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "DeShawn Jenkins",
+          "url": "https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1"
         }
       ],
-      "duration_ms": 236904,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+      "duration_ms": 91994,
+      "name": "PIT STOP",
+      "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip 2 Hip Hypnosis",
-        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Hip 2 Hip Hypnosis",
-      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raw In Amsterdam (Live)",
         "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 291053,
       "name": "Bump The Man - Live",
       "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip 2 Hip Hypnosis",
+        "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Hip 2 Hip Hypnosis",
+      "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
     },
     {
       "added_at": null,

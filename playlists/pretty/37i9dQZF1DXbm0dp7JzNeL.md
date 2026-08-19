@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,605 likes - 59 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,637 likes - 59 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

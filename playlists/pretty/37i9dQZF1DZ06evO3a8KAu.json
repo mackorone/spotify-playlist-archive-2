@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50871,
+  "num_followers": 50872,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABMVnlSUbLqXk4dh8NYWePT",
+  "snapshot_id": "aoJPAAAAAADt6QSNot6ZyCwckgTB5CGU",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
-        "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "A Toda Prueba",
-      "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
       },
@@ -587,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
+        "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "A Toda Prueba",
+      "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dile Luna",
         "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
       },
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "Brincale al Toro",
+        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 193150,
-      "name": "D\u00e9jame Decirle",
-      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+      "duration_ms": 178537,
+      "name": "Las Ense\u00f1anzas",
+      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brincale al Toro",
-        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 178537,
-      "name": "Las Ense\u00f1anzas",
-      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
+      "duration_ms": 193150,
+      "name": "D\u00e9jame Decirle",
+      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
     },
     {
       "added_at": null,

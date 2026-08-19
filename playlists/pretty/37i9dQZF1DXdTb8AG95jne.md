@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SUMIN\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,628 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,613 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 8 | [Never Gonna Be Alone](https://open.spotify.com/track/0rDW156yWatvF7WF4R5QQN) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Exit to Nowhere](https://open.spotify.com/album/4YEBMgKfdXZUHd8CUyhoSy) | 3:25 |
 | 9 | [Fruits \(Feat\. Gemini\)](https://open.spotify.com/track/4XNkq4wCao7xQSpU84oVTZ) | [kwacamolee](https://open.spotify.com/artist/0rTxTUZTuPGp4faAnCgcxM), [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [The Axis](https://open.spotify.com/album/7riPD8f4L7HRJEv212Ildn) | 3:15 |
 | 10 | [night night](https://open.spotify.com/track/5QThXrWkC8E6n2kY9CEmWm) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SKIN](https://open.spotify.com/album/2VwACWY14BDAQ6so8zIL07) | 3:59 |
-| 11 | [MONSTER](https://open.spotify.com/track/6BukCbBwG62W3HZzD3SAcX) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [SAVE ME](https://open.spotify.com/album/4BnUaJA9EifagEEfmh1Xmz) | 3:35 |
-| 12 | [Don’t Say Goodbye](https://open.spotify.com/track/1Uz2O2C9cnCKaqpnV7u55o) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [Don’t Say Goodbye](https://open.spotify.com/album/7HAQV68v9V9RT1XIlu5XIp) | 2:57 |
-| 13 | [Far](https://open.spotify.com/track/7kKFVGCcWLm8iGSywixmeF) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Far](https://open.spotify.com/album/7bw2NcAcqb4z2yTIRebEJK) | 3:19 |
-| 14 | [Hey Now](https://open.spotify.com/track/1we3DqWorRkHaav6dDDhjr) | [BULGOGI DISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [NOW](https://open.spotify.com/album/24N7mzkaXy64GPi0tEWANC) | 3:16 |
-| 15 | [Little by little](https://open.spotify.com/track/7EYxEHKuDSQd6NQvMZHPTa) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [O](https://open.spotify.com/album/6QpcWrwzhlRE28OpwbTPda) | 3:15 |
-| 16 | [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 |
-| 17 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 |
-| 18 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
-| 19 | [GET AWAY!](https://open.spotify.com/track/5cA0vKpix2JAaalGe1G7Q4) | [Waking Suns](https://open.spotify.com/artist/0ij2MrO7mTpg6peTK6q6et), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy), [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5) | [GET AWAY!](https://open.spotify.com/album/3sGM3AsorNlGVUQ2hE7DPn) | 4:20 |
+| 11 | [Sweetest](https://open.spotify.com/track/2Z4WJ6lFttemi3TIpSZ4rB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Sweetest](https://open.spotify.com/album/55hrj4PZ3eGm3XBkw2BE1P) | 3:02 |
+| 12 | [MONSTER](https://open.spotify.com/track/6BukCbBwG62W3HZzD3SAcX) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [SAVE ME](https://open.spotify.com/album/4BnUaJA9EifagEEfmh1Xmz) | 3:35 |
+| 13 | [Don’t Say Goodbye](https://open.spotify.com/track/1Uz2O2C9cnCKaqpnV7u55o) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [Don’t Say Goodbye](https://open.spotify.com/album/7HAQV68v9V9RT1XIlu5XIp) | 2:57 |
+| 14 | [Far](https://open.spotify.com/track/7kKFVGCcWLm8iGSywixmeF) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Far](https://open.spotify.com/album/7bw2NcAcqb4z2yTIRebEJK) | 3:19 |
+| 15 | [Hey Now](https://open.spotify.com/track/1we3DqWorRkHaav6dDDhjr) | [BULGOGI DISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [NOW](https://open.spotify.com/album/24N7mzkaXy64GPi0tEWANC) | 3:16 |
+| 16 | [Little by little](https://open.spotify.com/track/7EYxEHKuDSQd6NQvMZHPTa) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [O](https://open.spotify.com/album/6QpcWrwzhlRE28OpwbTPda) | 3:15 |
+| 17 | [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 |
+| 18 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 |
+| 19 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
 | 20 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 |
 | 21 | [TRUE](https://open.spotify.com/track/1tmPJxylPJLlhMOYz9auVB) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [LESS](https://open.spotify.com/album/7DJZnatOQB6yjFcokph4A2) | 4:49 |
 | 22 | [Luminous overflows](https://open.spotify.com/track/6HPBd0rVrcUuPB0ZZB9zX5) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Luminous overflows](https://open.spotify.com/album/3SWzKLuQ3qYYnSxG0L34Do) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
 | 50 | [Comma](https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1) | [He\_eul](https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor), [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Comma](https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l) | 2:59 |
 
-Snapshot ID: `AAAAAPfNmeKiJ+sGaXlLPz619caFRtER`
+Snapshot ID: `AAAAAI4d2Xlg/1yvvil2V968ZLv/1wme`

@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 42650,
+  "num_followers": 42661,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,46 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Stabat Mater & Petite messe solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Agnes Baltsa",
+          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
+        },
+        {
+          "name": "Catherine Malfitano",
+          "url": "https://open.spotify.com/artist/0jBk0BKRlgf7PB8zE78Q5C"
+        },
+        {
+          "name": "Gwynne Howell",
+          "url": "https://open.spotify.com/artist/7BS4d9amKBMOvlonNGx14U"
+        },
+        {
+          "name": "Robert Gambill",
+          "url": "https://open.spotify.com/artist/6NWJUGACMyrBEDOFGEUk9F"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 467600,
+      "name": "Rossini: Stabat Mater: VI. Sancta Mater, istud agas",
+      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Il Barbiere di Siviglia",
         "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
       },
@@ -427,46 +467,6 @@
       "duration_ms": 305493,
       "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
       "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: Stabat Mater & Petite messe solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Agnes Baltsa",
-          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
-        },
-        {
-          "name": "Catherine Malfitano",
-          "url": "https://open.spotify.com/artist/0jBk0BKRlgf7PB8zE78Q5C"
-        },
-        {
-          "name": "Gwynne Howell",
-          "url": "https://open.spotify.com/artist/7BS4d9amKBMOvlonNGx14U"
-        },
-        {
-          "name": "Robert Gambill",
-          "url": "https://open.spotify.com/artist/6NWJUGACMyrBEDOFGEUk9F"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 467600,
-      "name": "Rossini: Stabat Mater: VI. Sancta Mater, istud agas",
-      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -551,6 +551,34 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Colbran, the Muse (opera arias)",
         "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
       },
@@ -600,10 +628,6 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
-        },
-        {
           "name": "Carlo Rizzi",
           "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
         },
@@ -612,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
         }
       ],
-      "duration_ms": 308200,
-      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
-      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -671,30 +695,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 95360,
-      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
-      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
         "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
       },
@@ -723,62 +723,6 @@
       "duration_ms": 185560,
       "name": "Duetto buffo di due gatti",
       "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Ambrosian Opera Chorus",
-          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
-        },
-        {
-          "name": "Gabriel Bacquier",
-          "url": "https://open.spotify.com/artist/3dbwXJ0Cmz5tm7KqfE1Ywa"
-        },
-        {
-          "name": "Jocelyne Taillon",
-          "url": "https://open.spotify.com/artist/22B70S06bnuXNydHDr91HA"
-        },
-        {
-          "name": "Kolos Kovacs",
-          "url": "https://open.spotify.com/artist/1AFl0xQp5PTkSBLTHYLSNi"
-        },
-        {
-          "name": "Louis Hendrikx",
-          "url": "https://open.spotify.com/artist/7vWUcpRrWavydZ6UcZOWY2"
-        },
-        {
-          "name": "Mady Mespl\u00e9",
-          "url": "https://open.spotify.com/artist/2YyqOxLES4ir823NmpN2xw"
-        },
-        {
-          "name": "Montserrat Caball\u00e9",
-          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Rossini: Guillaume Tell, Act 4: Final. \"Pourquoi ta pr\u00e9sence, \u00f4 mon p\u00e8re !\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Ch\u0153ur)",
-      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -911,6 +855,62 @@
       "duration_ms": 366226,
       "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
       "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        },
+        {
+          "name": "Gabriel Bacquier",
+          "url": "https://open.spotify.com/artist/3dbwXJ0Cmz5tm7KqfE1Ywa"
+        },
+        {
+          "name": "Jocelyne Taillon",
+          "url": "https://open.spotify.com/artist/22B70S06bnuXNydHDr91HA"
+        },
+        {
+          "name": "Kolos Kovacs",
+          "url": "https://open.spotify.com/artist/1AFl0xQp5PTkSBLTHYLSNi"
+        },
+        {
+          "name": "Louis Hendrikx",
+          "url": "https://open.spotify.com/artist/7vWUcpRrWavydZ6UcZOWY2"
+        },
+        {
+          "name": "Mady Mespl\u00e9",
+          "url": "https://open.spotify.com/artist/2YyqOxLES4ir823NmpN2xw"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Rossini: Guillaume Tell, Act 4: Final. \"Pourquoi ta pr\u00e9sence, \u00f4 mon p\u00e8re !\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Ch\u0153ur)",
+      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
     },
     {
       "added_at": "2025-12-15 11:47:15",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-227 songs - 13 hr 12 min
+228 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [California King Bed](https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:11 | 2024-06-11 |  |
 | [Camionete Branca \- Ao Vivo](https://open.spotify.com/track/4oUGyiuh2XD4yoBRm9NFz6) | [Paulinho Mocelin](https://open.spotify.com/artist/58uaspCbAIXU506ewieNpc) | [Bailão do Mocelin ao Vivo em Araucária \(Ao Vivo\)](https://open.spotify.com/album/0BrR2XD1jHz7EqKBZfweP5) | 3:26 | 2024-06-11 | 2025-07-10 |
 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 | 2024-06-11 |  |
-| [Chainzzz \(feat\. Muni Long\) \- Instrumental](https://open.spotify.com/track/4RllcpxnzD9Qe979bGgn3A) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate \(Instrumental\)](https://open.spotify.com/album/4rV8dGCg1AThAVdZDd3VcZ) | 2:33 | 2024-06-11 |  |
+| [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/track/5SYwk9PsKrlhvKoQc63izx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate](https://open.spotify.com/album/0pMuKNqI4VOoLESF5wExWY) | 2:33 | 2026-08-18 |  |
+| [Chainzzz \(feat\. Muni Long\) \- Instrumental](https://open.spotify.com/track/4RllcpxnzD9Qe979bGgn3A) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate \(Instrumental\)](https://open.spotify.com/album/4rV8dGCg1AThAVdZDd3VcZ) | 2:33 | 2024-06-11 | 2026-08-19 |
 | [Che mi importa di te \(California King Bed\)](https://open.spotify.com/track/6EEcZvcpSRLkizpxEx4pYo) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Giungla](https://open.spotify.com/album/6d4JXYFYc3Z76X2UnKS1BK) | 4:00 | 2025-06-27 |  |
 | [Check For Me \(feat\. Chris Brown\)](https://open.spotify.com/track/4M7R9QYjEgDViAei2MyvxH) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Chris Brown](https://open.spotify.com/artist/2IkNCClInttTF0ZyhbyOlk) | [Hate Love \(Deluxe\)](https://open.spotify.com/album/33GGRujNCK56n7wCnafmnf) | 3:14 | 2024-06-11 | 2025-06-28 |
 | [Chit Chat](https://open.spotify.com/track/02TXRRR6EXFGLnqmHXWI0P) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Heavy Rules Mixtape](https://open.spotify.com/album/7MNdScEmf2wgF9bVLOyXKs) | 3:20 | 2024-06-11 |  |

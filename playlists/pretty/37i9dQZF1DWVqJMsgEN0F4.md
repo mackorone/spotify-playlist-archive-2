@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Tame Impala along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,510 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,643 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 29 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 |
 | 30 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 31 | [Superstar](https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Superstar](https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5) | 2:40 |
-| 32 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 |
+| 32 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 |
 | 33 | [Caught In A Jam](https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Caught In A Jam](https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X) | 4:13 |
 | 34 | [Until The Sun Explodes](https://open.spotify.com/track/0ISLbg5eIZiVWGMHWjBCP9) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Until The Sun Explodes](https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM) | 2:58 |
 | 35 | [Spacey](https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Spacey](https://open.spotify.com/album/364ms6awqRPNolPlw7Pf8p) | 3:09 |

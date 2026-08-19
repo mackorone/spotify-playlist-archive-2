@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! Cover: Imminence
 
-483 songs - 1 day 6 hr 10 min
+484 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 | 2025-03-13 | 2025-10-10 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-01-10 |
 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 | 2024-06-27 | 2024-09-27 |
-| [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 | 2025-03-21 |  |
+| [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 | 2025-03-21 | 2026-08-19 |
 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 | 2025-03-27 | 2025-04-25 |
 | [Her Strut \- Remastered 2025](https://open.spotify.com/track/2QYHZhRqfv2KpE5Er9o4Oz) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Cream Of The Crap! Collected Non\-Album Works, Vol\. 3](https://open.spotify.com/album/7au9CotTxNSg47b1JJdXBm) | 3:32 | 2026-02-16 |  |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-08 | 2024-09-20 |
@@ -491,5 +491,6 @@
 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 | 2024-08-01 | 2024-11-22 |
 | [§3](https://open.spotify.com/track/72U6mVliG329C2zGWxDNte) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§3](https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt) | 5:10 | 2024-09-06 | 2024-09-20 |
 | [§4](https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [The Last Will And Testament](https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6) | 7:00 | 2024-11-21 | 2025-02-28 |
+| [Är det här det är party](https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f) | [Korslagda](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [Är det här det är party](https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58) | 3:22 | 2026-08-18 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

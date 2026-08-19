@@ -4,7 +4,7 @@
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Bugoy Na Koykoy
 
-462 songs - 1 day 1 hr 25 min
+463 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [UZI NI LUCKY](https://open.spotify.com/track/1FttSFLE8KumSjYCwMYKNJ) | [GHR](https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Godd Patron](https://open.spotify.com/artist/4Rn9rDVPtPwhQns97r95JO), [R to the L](https://open.spotify.com/artist/72LR6kFt7R1AO8sGz40Pm4), [Cozy Wrld](https://open.spotify.com/artist/7j78RtM1knwwcgsZ4bPpFG), [Wing Goods](https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E), [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2) | [UZI NI LUCKY](https://open.spotify.com/album/596jTjeeQSaWTOaaXMoBn7) | 4:48 | 2025-06-18 | 2025-07-31 |
 | [Vertigo](https://open.spotify.com/track/2RlMqLQHI2TcHxZ0fjJmZR) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Vertigo](https://open.spotify.com/album/37QgURYpAO5OrHte70dtQW) | 2:45 | 2026-07-03 |  |
 | [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-15 | 2026-05-29 |
+| [Viva La Raza](https://open.spotify.com/track/4A7c3xEnNDLk718zDwC6ip) | [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x) | [Viva La Raza](https://open.spotify.com/album/02i2Bhz1EoOCgz8pCp1Jd7) | 3:19 | 2026-08-18 |  |
 | [Wa Na Wa \- Spotify Singles](https://open.spotify.com/track/0edn3pvwzpiFkNd4QJI2SD) | [Midnasty](https://open.spotify.com/artist/5vInrcUTu2zWamDqZnnozJ), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Wa Na Wa \- Spotify Singles](https://open.spotify.com/album/49HuZw2rqL5Uw3ZPiTxR4B) | 3:24 | 2023-09-20 | 2024-01-18 |
 | [WADADADENG!](https://open.spotify.com/track/0AuZUiq6K6E9l2GOWTuy5c) | [YGxTUS](https://open.spotify.com/artist/5YvqE9ZXZJrQ5jblXbD3no), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Tus Brothers](https://open.spotify.com/artist/4ZCNeTANx54cTP0bc6avwM), [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [G](https://open.spotify.com/artist/1C38PTwUrzm7cRKV6lFDR4), [Rudyrude](https://open.spotify.com/artist/6fcL4uy3EeCyO3FeRVftws) | [WADADADENG!](https://open.spotify.com/album/09YfFV0VRkkHjZJ9XI2OsX) | 3:08 | 2024-10-17 | 2025-06-12 |
 | [Wag Ipagsabi](https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Wag Ipagsabi](https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3) | 3:28 | 2024-11-13 | 2025-09-18 |

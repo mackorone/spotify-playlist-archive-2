@@ -1,6 +1,6 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 143,
+  "num_followers": 154,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/5QrP2hgfkYqAtDmlexzNcZ"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 295675,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/5swZvDSi78Znk4rlmwHNnj"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 169500,
       "name": "The Peace",
       "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/5QrP2hgfkYqAtDmlexzNcZ"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 295675,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/5swZvDSi78Znk4rlmwHNnj"
     },
     {
       "added_at": "2026-08-06 16:00:19",

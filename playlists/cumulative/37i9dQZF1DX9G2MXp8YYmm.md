@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Elif Buse Doğan, Ümit Sayın
 
-702 songs - 1 day 11 hr 36 min
+703 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 | 2024-10-29 |
 | [Bal Böceği](https://open.spotify.com/track/4P1xU6Qiz34UknVAV1kdin) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [Bal Böceği](https://open.spotify.com/album/4Sw0ElAaK2JH9e9ROh2tlf) | 2:18 | 2025-09-25 | 2026-05-29 |
 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 | 2024-07-11 | 2024-09-06 |
-| [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 |  |
+| [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 | 2026-08-19 |
 | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/track/1X8w2fVhbwyRZhSrB6MuLn) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/album/71udzttNWk2BuW5TJabr6M) | 3:18 | 2026-06-12 | 2026-07-17 |
 | [bana ne.](https://open.spotify.com/track/2aEyzvp6ViXIqfSlLi0ym5) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [bana ne.](https://open.spotify.com/album/1erJv0weFEuBlhydLcTlco) | 2:38 | 2025-09-25 | 2025-10-10 |
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 | 2026-01-23 |
@@ -305,6 +305,7 @@
 | [Hayat](https://open.spotify.com/track/3qTboWQnCNNMPCiB5joB3I) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Hayat](https://open.spotify.com/album/15Flt1aydh9h6SLtIPAabK) | 3:24 | 2025-09-25 | 2025-11-29 |
 | [Hayat Gelir Ağır Ağır](https://open.spotify.com/track/0uW1vxBFNOmNlHXgHx5CEe) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hayat Gelir Ağır Ağır](https://open.spotify.com/album/5zJqF6htYIU7ViaskiTklG) | 2:38 | 2025-01-31 | 2025-03-06 |
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 | 2025-02-07 |
+| [Hayatim](https://open.spotify.com/track/3Gcf0zsPEPMi5q5Kz2iNZZ) | [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Hayatim](https://open.spotify.com/album/7j0zAFgSfWUny0XQeq8VBJ) | 3:31 | 2026-08-13 |  |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |
 | [hayran](https://open.spotify.com/track/6OeYAmYvqsE7zK1SsmaWDB) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Kafa Yüksek Kalp Kırık](https://open.spotify.com/album/7IUMrOHPr9bmQ375K5nhaT) | 2:39 | 2026-04-02 | 2026-07-22 |
 | [Hayranım](https://open.spotify.com/track/2gtEcc5Beh1U3E0iQdzlCK) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Hayranım](https://open.spotify.com/album/2y01hNlJgoiRoNNWGou42l) | 2:34 | 2025-10-16 | 2025-12-12 |

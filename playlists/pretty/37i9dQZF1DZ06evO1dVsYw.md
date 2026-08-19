@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,529 likes - 38 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,525 likes - 38 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 3 | [Alfa](https://open.spotify.com/track/3IOPkezP1RPFsjT67mg82m) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [ALFA](https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9) | 4:28 |
 | 4 | [Homem na Estrada](https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 8:41 |
 | 5 | [Jesus Chorou](https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:51 |
-| 6 | [Diário de um Detento](https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:31 |
+| 6 | [Jorge da Capadócia](https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 2:47 |
 | 7 | [Preto Zica](https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 2:03 |
 | 8 | [Formula Mágica da Paz \- Ao Vivo](https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [1000 Trutas 1000 Tretas \(Ao Vivo\)](https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude) | 11:20 |
 | 9 | [Vida Loka, Pt\. 2](https://open.spotify.com/track/4nTrxp4aH0g2yLVPkFmljF) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:50 |
-| 10 | [Jorge da Capadócia](https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 2:47 |
+| 10 | [Diário de um Detento](https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:31 |
 | 11 | [Cores & Valores](https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 1:16 |
 | 12 | [Fim de Semana no Parque](https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 7:47 |
 | 13 | [Negro Drama](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 6:51 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 37 | [Intro \- People Get Up And Drive Your Funky Soul \- Ao Vivo](https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 2:45 |
 | 38 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
 
-Snapshot ID: `aoD9gAAAAAAnXZJ1nnASP8RiM/r8anx1`
+Snapshot ID: `aoJPAAAAAAAuEttDLet1Y7t8Ppi00MyL`

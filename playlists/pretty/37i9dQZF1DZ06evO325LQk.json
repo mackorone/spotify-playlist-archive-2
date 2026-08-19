@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADPO9NZe3RM0WU10cQKB85S",
+  "snapshot_id": "aoJPAAAAAABZ4T/ggk9p3/B3iypNO0CO",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 230624,
+      "name": "It's Okay To Cry",
+      "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 146069,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "It's Okay To Cry",
-      "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 280286,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 287331,
       "name": "Is It Cold In The Water? (Flume & Eprom Remix)",
       "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 280286,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
     },
     {
       "added_at": null,
@@ -484,13 +484,17 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
         }
       ],
-      "duration_ms": 244839,
-      "name": "My Forever (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
+      "duration_ms": 244062,
+      "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
+      "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
     },
     {
       "added_at": null,
@@ -560,17 +564,13 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
-        },
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
         }
       ],
-      "duration_ms": 244062,
-      "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
-      "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
+      "duration_ms": 244839,
+      "name": "My Forever (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MF GHOST PRESENTS SUPER EUROBEAT \u00d7 ORIGINAL SOUNDTRACK NEW COLLECTION Vol.3",
+        "url": "https://open.spotify.com/album/6cowExK3KKvoM26QqcQxm5"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "WONDERFUL LOVE",
+      "url": "https://open.spotify.com/track/4nBJYU9oQsbXjuFhXOQHjM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 215021,
       "name": "Berlin Nightmare (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MF GHOST PRESENTS SUPER EUROBEAT \u00d7 ORIGINAL SOUNDTRACK NEW COLLECTION Vol.3",
-        "url": "https://open.spotify.com/album/6cowExK3KKvoM26QqcQxm5"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "WONDERFUL LOVE",
-      "url": "https://open.spotify.com/track/4nBJYU9oQsbXjuFhXOQHjM"
     },
     {
       "added_at": null,
@@ -700,7 +700,7 @@
       "added_at": null,
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
       "artists": [
         {
@@ -708,29 +708,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 191949,
-      "name": "XTC Acid",
-      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
-        }
-      ],
-      "duration_ms": 117010,
-      "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
+      "duration_ms": 242809,
+      "name": "Pretending I Give In (Let Go)",
+      "url": "https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi"
     },
     {
       "added_at": null,
@@ -759,8 +739,28 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "duration_ms": 117010,
+      "name": "Gallop (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 242809,
-      "name": "Pretending I Give In (Let Go)",
-      "url": "https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi"
+      "duration_ms": 191949,
+      "name": "XTC Acid",
+      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
     },
     {
       "added_at": null,
@@ -782,11 +782,19 @@
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
         }
       ],
-      "duration_ms": 272249,
-      "name": "Intro (The Full Horror)",
-      "url": "https://open.spotify.com/track/3YPfxc8VgXcRWLjyjNNJ96"
+      "duration_ms": 259045,
+      "name": "Why Lies (feat. BC Kingdom and LIZ)",
+      "url": "https://open.spotify.com/track/3Jo0w1uct8LO8vY7z21hLi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21425,
+  "num_followers": 21429,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
+        "name": "WALK WITH ME",
+        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 154335,
+      "name": "Adu the Borga",
+      "url": "https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
         "name": "Major League",
         "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "WALK WITH ME",
-        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 154335,
-      "name": "Adu the Borga",
-      "url": "https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "The Interface (Shatta Music Genre)",
         "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
-        "name": "ODO PA",
-        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "ODO PA",
-      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -755,6 +735,22 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
         "name": "VOICE OF THE CROWN (African Dancehall)",
         "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
@@ -795,6 +791,26 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
+        "name": "ODO PA",
+        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "ODO PA",
+      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
         "name": "Stopit",
         "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "CAME OF AGE",
         "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 167067,
       "name": "EASY",
       "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "TREASURE",
+        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "TREASURE",
+      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -883,22 +899,26 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+        "name": "RARRI",
+        "url": "https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         }
       ],
-      "duration_ms": 139859,
-      "name": "ROVER",
-      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
+      "duration_ms": 130093,
+      "name": "RARRI",
+      "url": "https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -915,22 +935,6 @@
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
-        "name": "TREASURE",
-        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "TREASURE",
-      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -967,46 +971,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "RARRI",
-        "url": "https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "RARRI",
-      "url": "https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "The Odyssey",
         "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
       },
@@ -1039,6 +1003,22 @@
       "duration_ms": 201369,
       "name": "No Issues",
       "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 139859,
+      "name": "ROVER",
+      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "Sweet Songs 4 You",
+        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "meet 4 corner",
+      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1127,22 +1147,18 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Sweet Songs 4 You",
-        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
       },
       "artists": [
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 170840,
-      "name": "meet 4 corner",
-      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+      "duration_ms": 179368,
+      "name": "Many Times",
+      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1163,22 +1179,6 @@
       "duration_ms": 217399,
       "name": "Jesus Christ 2",
       "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Many Times",
-      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "sankofa",
-        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "sankofa",
-      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "Trapper Sem",
         "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 138260,
       "name": "Trapper Sem",
       "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "sankofa",
+      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
     },
     {
       "added_at": "2026-08-07 00:01:34",

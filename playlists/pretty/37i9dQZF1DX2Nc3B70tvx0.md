@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Love Spells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,788 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,706 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
-| 2 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 2 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 3 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 4 | [The Reason](https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 6:57 |
 | 5 | [Sargasso Sea](https://open.spotify.com/track/4Oy185yBcxHHi5x2sa6iiv) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe), [Caoilfhionn Rose](https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb) | [Renascent](https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV) | 3:24 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 31 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
 | 32 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 |
 | 33 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
-| 34 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
+| 34 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
 | 35 | [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 |
 | 36 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 |
 | 37 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |

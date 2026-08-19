@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38751,
+  "num_followers": 38767,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Angar Bhangar Nay Rr - Single",
+        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
+      },
+      "artists": [
+        {
+          "name": "Madhur Milind Shinde",
+          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Angaar Bhangar Nai Rr",
+      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Govyachya Kinaryav",
         "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 214357,
       "name": "Govyachya Kinaryav",
       "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Angar Bhangar Nay Rr - Single",
-        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
-      },
-      "artists": [
-        {
-          "name": "Madhur Milind Shinde",
-          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Angaar Bhangar Nai Rr",
-      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 306464,
-      "name": "Kombdi Palali - From \"Jatra\"",
-      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Ghotala Ghotala Zala (From \"Partu\")",
         "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 261120,
       "name": "Ghotala Ghotala Zala - From \"Partu\"",
       "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Kombdi Palali - From \"Jatra\"",
+      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
     },
     {
       "added_at": "2026-08-04 09:03:36",

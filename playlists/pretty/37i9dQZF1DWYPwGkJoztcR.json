@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397658,
+  "num_followers": 397652,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Nobody Lives Here",
         "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 177909,
       "name": "Heavy Hearts",
       "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Guy From Outer Space",
-        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
       "artists": [
         {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 163176,
-      "name": "Guy From Outer Space",
-      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -435,6 +419,22 @@
       "duration_ms": 236906,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Guy From Outer Space",
+        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
+      },
+      "artists": [
+        {
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+        }
+      ],
+      "duration_ms": 163176,
+      "name": "Guy From Outer Space",
+      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 186079,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 150904,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 186079,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Muscle Shoals",
-        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Save It For Later",
         "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+        "name": "Muscle Shoals",
+        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
         }
       ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+      "duration_ms": 182106,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -911,6 +895,22 @@
       "duration_ms": 193749,
       "name": "Illusion (feat. Tangarine) - acoustic",
       "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 232082,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-08-17 13:11:32",

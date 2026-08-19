@@ -1,6 +1,6 @@
 {
   "description": "A dreamy, beautiful musical companion to your time for rest and relaxation.",
-  "num_followers": 97484,
+  "num_followers": 97496,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
     },
     {
       "added_at": "2026-07-26 19:49:10",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "Can We Do This Over",
-        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Can We Do This Over",
-      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
         "name": "Beck n Call",
         "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 203320,
       "name": "Beck n Call",
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
+        "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
     },
     {
       "added_at": "2026-07-26 19:49:10",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "MAYBE",
-        "url": "https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo"
+        "name": "Just Life",
+        "url": "https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr"
       },
       "artists": [
         {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
         }
       ],
-      "duration_ms": 194304,
-      "name": "MAYBE",
-      "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
+      "duration_ms": 198213,
+      "name": "Just Life",
+      "url": "https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H"
     }
   ],
   "unique_name": "Lazy Afternoon",

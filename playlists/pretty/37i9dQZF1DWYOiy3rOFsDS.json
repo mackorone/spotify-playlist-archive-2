@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Tuffic en portada.",
-  "num_followers": 538978,
+  "num_followers": 538911,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "ALIENS",
-        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "ALIENS",
-      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Cuando Yo Fui Tu Clavel",
         "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
       },
@@ -943,22 +923,6 @@
       "duration_ms": 112500,
       "name": "Cuando Yo Fui Tu Clavel",
       "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -979,18 +943,38 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Coraz\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
       "artists": [
         {
-          "name": "Gala Montes",
-          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 161480,
-      "name": "Coraz\u00f3n de Oro",
-      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1031,6 +1015,22 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Coraz\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
+      },
+      "artists": [
+        {
+          "name": "Gala Montes",
+          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Coraz\u00f3n de Oro",
+      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Aquellos Ojos Verdes",
         "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 201829,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Idas y Vueltas",
-        "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
-      },
-      "artists": [
-        {
-          "name": "Maria Mulata",
-          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
-        },
-        {
-          "name": "Maite Hontel\u00e9",
-          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
-        }
-      ],
-      "duration_ms": 232221,
-      "name": "Idas y Vueltas",
-      "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Idas y Vueltas",
+        "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
+      },
+      "artists": [
+        {
+          "name": "Maria Mulata",
+          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
+        },
+        {
+          "name": "Maite Hontel\u00e9",
+          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
+        }
+      ],
+      "duration_ms": 232221,
+      "name": "Idas y Vueltas",
+      "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Cenicero",
         "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 192000,
       "name": "Cenicero",
       "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Mirando desde afuera",
-        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        },
-        {
-          "name": "Agley",
-          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "Mirando desde afuera",
-      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Mirando desde afuera",
+        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "Mirando desde afuera",
+      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+        "name": "Tiza",
+        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
       },
       "artists": [
         {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
+      "duration_ms": 165642,
+      "name": "Muy Agradecido",
+      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
     },
     {
       "added_at": "2026-07-24 06:00:45",

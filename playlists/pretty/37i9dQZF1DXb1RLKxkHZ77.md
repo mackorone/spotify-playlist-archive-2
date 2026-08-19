@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,680 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,677 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 39 | [bukan tentangmu](https://open.spotify.com/track/7dbtgxZtAZPHsqAHATSWmu) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [bukan tentangmu](https://open.spotify.com/album/1mdmuZ24c1v292h8LAodRr) | 3:54 |
 | 40 | [Sang Penikam 2026](https://open.spotify.com/track/6JUiXGuIM4xVf56nivKJ9K) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sang Penikam 2026](https://open.spotify.com/album/5UCmJPDYgmKNRnzm7vWAUy) | 5:44 |
 | 41 | [ONE ON ONE](https://open.spotify.com/track/2k8ROUJHJcdV3mpkA8rVHq) | [Ismail Izzani](https://open.spotify.com/artist/63Ns0cyE751e5RlTCS2lpO) | [ONE ON ONE](https://open.spotify.com/album/2qJjugXrbiE5R8kBO8hVmt) | 3:20 |
-| 42 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 |
+| 42 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:40 |
 | 43 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 |
 | 44 | [Cak Cak Cekuk](https://open.spotify.com/track/5ynphprbUJNGcYMGCo9L2z) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Cak Cak Cekuk](https://open.spotify.com/album/5VcZD9boBUwkyS3qf6FiW6) | 2:44 |
 | 45 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0TbH3BenflFfocRfefyAUT) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 4:35 |

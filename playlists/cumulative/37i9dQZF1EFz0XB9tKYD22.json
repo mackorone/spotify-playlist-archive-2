@@ -5056,10 +5056,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 230026,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n"
+      },
+      "artists": [
+        {
+          "name": "Kelly Sweet",
+          "url": "https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/7JGiTf252HMEIJW9uuSeyV"
     },
     {
       "album": {

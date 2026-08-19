@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u3086\u30fc\u308a",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: Midnight Grand Orchestra",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 149466,
       "name": "Awkward",
       "url": "https://open.spotify.com/track/2Bzi9P2q0uLzVJHDcc4h1d"
@@ -1458,6 +1458,24 @@
       "duration_ms": 193132,
       "name": "Bitter Flower (feat. \u3046\u3050)",
       "url": "https://open.spotify.com/track/6dMfmWXy4EIA3K9fgZcyFX"
+    },
+    {
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182993,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
     },
     {
       "album": {
@@ -5103,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "How Many?",
+        "url": "https://open.spotify.com/album/6Mx55aTZVIkfDX5dk0Oymj"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205033,
+      "name": "How Many?",
+      "url": "https://open.spotify.com/track/5anA9yqDhkngURyJ7FA3W9"
+    },
+    {
+      "album": {
         "name": "hubble",
         "url": "https://open.spotify.com/album/3AhCTrJKiuphbfVwdUZoBi"
       },
@@ -5140,6 +5176,24 @@
       "duration_ms": 201871,
       "name": "humorous etude",
       "url": "https://open.spotify.com/track/6aCisEerMRgNhY5QPIi3Xj"
+    },
+    {
+      "album": {
+        "name": "Travelogue I",
+        "url": "https://open.spotify.com/album/4rHApC99EydLlqldhcauVs"
+      },
+      "artists": [
+        {
+          "name": "Midnight Grand Orchestra",
+          "url": "https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193570,
+      "name": "Hyper Vip",
+      "url": "https://open.spotify.com/track/7agFnJp6OmdgwzSzAFKf7Q"
     },
     {
       "album": {
@@ -5878,7 +5932,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 238094,
       "name": "jade",
       "url": "https://open.spotify.com/track/3tKRLkgW2acIj8YxlRoPJH"
@@ -6686,7 +6740,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 164000,
       "name": "Look Ahead",
       "url": "https://open.spotify.com/track/1CZMm3fzyOzIgnQSalguyr"
@@ -7158,7 +7212,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 249756,
       "name": "maybe!",
       "url": "https://open.spotify.com/track/20DO9i2w43Iju7nEqMvYhQ"
@@ -7354,6 +7408,36 @@
       "duration_ms": 221433,
       "name": "Midnight Mission",
       "url": "https://open.spotify.com/track/7CvPGnVTiEJEgz5551gIih"
+    },
+    {
+      "album": {
+        "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+        "url": "https://open.spotify.com/album/5yD1foXGvYr9j2oACkXUzt"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "\u3055\u305f\u3071\u3093P",
+          "url": "https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130770,
+      "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+      "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
     },
     {
       "album": {
@@ -10800,6 +10884,24 @@
       "duration_ms": 233561,
       "name": "Spring Has Come",
       "url": "https://open.spotify.com/track/3zFmWUFMvtXhTY8zCuwd5R"
+    },
+    {
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3t3yqmpB8pt7l1Bs7JQkpY"
+      },
+      "artists": [
+        {
+          "name": "OFFICE DESTRUCTION GIRL",
+          "url": "https://open.spotify.com/artist/13HyK2xAsfe2QY3UAR8H4n"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298461,
+      "name": "SPYCANDY",
+      "url": "https://open.spotify.com/track/5SQzgtLeQwnwD2BQaKhd2b"
     },
     {
       "album": {
@@ -23865,6 +23967,28 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/5KeW36xfTwJqtCqqOigEMe"
+      },
+      "artists": [
+        {
+          "name": "r-906",
+          "url": "https://open.spotify.com/artist/7os1UVlIK50EAaP990Z8aE"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u30ef\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/295kusLjoZwucB6oM2nKcS"
+    },
+    {
+      "album": {
         "name": "Solution",
         "url": "https://open.spotify.com/album/5PmNfGLBaymlpqQh7m9vrX"
       },
@@ -27694,7 +27818,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 214143,
       "name": "\u60aa\u5922",
       "url": "https://open.spotify.com/track/2pjnFk45Ncea9ehKBcWQ0c"
@@ -30234,7 +30358,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 155244,
       "name": "\u71e6\u3005\u3055\u3093",
       "url": "https://open.spotify.com/track/6Rk3F7HYNhzht8LQJsbVKT"
@@ -31390,7 +31514,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 243168,
       "name": "\u7a92\u606f\u65e5\u8a18",
       "url": "https://open.spotify.com/track/2mCGATLbPesE7vjS1tXBho"

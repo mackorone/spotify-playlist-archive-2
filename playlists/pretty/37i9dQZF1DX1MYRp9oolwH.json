@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
-  "num_followers": 171342,
+  "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
+  "num_followers": 171338,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxPUmJ+EDurgjmduCcgENpOkXVn",
+  "snapshot_id": "AAAAAGVmp6kEmM0wOQDJFGunmiPLEI41",
   "tracks": [
+    {
+      "added_at": "2026-08-18 08:00:06",
+      "album": {
+        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        }
+      ],
+      "duration_ms": 250027,
+      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
+    },
     {
       "added_at": "2026-08-13 13:51:15",
       "album": {

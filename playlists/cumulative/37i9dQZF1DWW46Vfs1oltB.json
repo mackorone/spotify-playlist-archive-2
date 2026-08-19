@@ -21235,6 +21235,28 @@
     },
     {
       "album": {
+        "name": "ICY BABY",
+        "url": "https://open.spotify.com/album/31kYq6DtW2hNGHKwzQ9WC4"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "LIFE IS A MOVIE (feat. DIMO REX)",
+      "url": "https://open.spotify.com/track/1i3LPhkfQUAnttPXKqp3Zz"
+    },
+    {
+      "album": {
         "name": "HANDS",
         "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
       },
@@ -28444,7 +28466,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 154000,
       "name": "OXY",
       "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"

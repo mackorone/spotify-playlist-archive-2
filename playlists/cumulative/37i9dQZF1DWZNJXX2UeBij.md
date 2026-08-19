@@ -2,7 +2,7 @@
 
 ### [All Out 00s Hindi](https://open.spotify.com/playlist/37i9dQZF1DWZNJXX2UeBij)
 
-> Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Om Shanti Om
+> Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Jab We Met
 
 316 songs - 1 day 4 hr 12 min
 

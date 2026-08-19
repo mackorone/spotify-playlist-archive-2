@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1466732,
+  "num_followers": 1466681,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
         "name": "Consider The Flowers",
         "url": "https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 144516,
       "name": "June",
       "url": "https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "It's Ok, B U",
-        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 262846,
-      "name": "It's Ok, B U",
-      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
         "name": "Veluwe",
         "url": "https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 175000,
       "name": "Veluwe",
       "url": "https://open.spotify.com/track/0foyXbAb32cCdwcFjB4tgm"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "Next to Nothing (Instrumental)",
-        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
-      },
-      "artists": [
-        {
-          "name": "SoulChef",
-          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
-        }
-      ],
-      "duration_ms": 110500,
-      "name": "Next to Nothing - Instrumental",
-      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
+        "name": "Next to Nothing (Instrumental)",
+        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
+      },
+      "artists": [
+        {
+          "name": "SoulChef",
+          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Next to Nothing - Instrumental",
+      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
         "name": "Life in the Wild Garden",
         "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
       },
@@ -803,6 +803,46 @@
       "duration_ms": 95000,
       "name": "Viva la Vida",
       "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
+        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
+        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 181931,
+      "name": "Yosei",
+      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -831,42 +871,18 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
-        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
       "artists": [
         {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
         }
       ],
-      "duration_ms": 181931,
-      "name": "Yosei",
-      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -883,22 +899,6 @@
       "duration_ms": 140714,
       "name": "busking",
       "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
+        "name": "DIAMONDS & FREAKS (Instrumentals)",
+        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 269474,
+      "name": "ADAM & EVE - Instrumental",
+      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
         "name": "Flow Motion",
         "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
-        "name": "DIAMONDS & FREAKS (Instrumentals)",
-        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 269474,
-      "name": "ADAM & EVE - Instrumental",
-      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
       },
       "artists": [
         {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
       "artists": [
         {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
         }
       ],
-      "duration_ms": 200061,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "edbl & friends - JPRK",
-        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "5k",
-      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
         "name": "Scintillate",
         "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
         "name": "Just a Lullaby",
         "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
       },
@@ -1375,54 +1375,6 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
-    },
-    {
-      "added_at": "2026-08-07 11:32:34",
-      "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -1443,6 +1395,22 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
         "name": "CELEBRATION OF JAY 3",
         "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 135529,
       "name": "Rostrum",
       "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+    },
+    {
+      "added_at": "2026-08-07 11:32:34",
+      "album": {
+        "name": "ZENSORIUM",
+        "url": "https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP"
+      },
+      "artists": [
+        {
+          "name": "Nujakasha",
+          "url": "https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI"
+        }
+      ],
+      "duration_ms": 112080,
+      "name": "ZENSORIUM",
+      "url": "https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8"
     },
     {
       "added_at": "2026-08-07 11:32:34",
@@ -1479,38 +1479,34 @@
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "ZENSORIUM",
-        "url": "https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP"
+        "name": "pastels",
+        "url": "https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG"
       },
       "artists": [
         {
-          "name": "Nujakasha",
-          "url": "https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 112080,
-      "name": "ZENSORIUM",
-      "url": "https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8"
+      "duration_ms": 128571,
+      "name": "pastels",
+      "url": "https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0"
     },
     {
       "added_at": "2026-08-07 11:32:34",
       "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
       },
       "artists": [
         {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     }
   ],
   "unique_name": "Mellow Beats",

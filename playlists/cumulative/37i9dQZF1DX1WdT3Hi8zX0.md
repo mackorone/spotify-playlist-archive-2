@@ -4,7 +4,7 @@
 
 > Enjoy music from "HAIKYU!!" ©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
 
-46 songs - 2 hr 25 min
+50 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,10 @@
 | [たかが1点](https://open.spotify.com/track/5LAlpyvLOwPNwe0SVIqVeI) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! 烏野高校 V S白鳥沢学園高校』オリジナル･サウンドトラック](https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q) | 2:23 | 2024-02-19 |  |
 | [アイム・ア・ビリーバー](https://open.spotify.com/track/4NFbamR10SXofbnKnqX7vD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/4CvWzLMUbfdDCLHQBHcYQE) | 3:37 | 2024-02-19 |  |
 | [アジャスト](https://open.spotify.com/track/4cPt1cXuNxTJIVuHIULTOz) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/0Dk6C4maoKPE34qTVI7Og9) | 1:50 | 2024-02-19 |  |
+| [イマジネーション](https://open.spotify.com/track/5LRQlveTUJIPpJdhEwUW21) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ハイキュー!! × BOS \- 主題歌たちの宴 \-](https://open.spotify.com/album/6AeX9J38dxprHjWNInX1RI) | 2:54 | 2026-08-18 |  |
 | [イマジネーション](https://open.spotify.com/track/5NFyTOIDaq9ldGMuNfypgg) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/4CvWzLMUbfdDCLHQBHcYQE) | 2:59 | 2024-02-19 |  |
 | [エンジン](https://open.spotify.com/track/7wMSNaHGyzCdZXcCCAjpZG) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/0Dk6C4maoKPE34qTVI7Og9) | 2:05 | 2024-02-19 |  |
+| [オレンジ](https://open.spotify.com/track/4lxyXDGbk588eSunRPSEiQ) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ハイキュー!! × BOS \- 主題歌たちの宴 \-](https://open.spotify.com/album/6AeX9J38dxprHjWNInX1RI) | 4:06 | 2026-08-18 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-19 |  |
 | [カモメ](https://open.spotify.com/track/6kzadFIvPIKqTQFUdlADwS) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/0Dk6C4maoKPE34qTVI7Og9) | 2:05 | 2024-02-19 |  |
 | [クライマー](https://open.spotify.com/track/0QHDZ7HaP4SNa81TIhTBWN) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Sea and The Darkness](https://open.spotify.com/album/2iqD0DCwAu4CBAgngukoHZ) | 3:10 | 2024-02-19 |  |
@@ -40,12 +42,14 @@
 | [悔しさ](https://open.spotify.com/track/3YmBYMAYnWwWxs20A3vfBj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:40 | 2024-02-19 |  |
 | [極限スイッチ](https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:42 | 2024-02-19 |  |
 | [歯車](https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:19 | 2024-02-19 |  |
+| [決戦スピリット](https://open.spotify.com/track/4yxXygsjdPtJLwAB1E3rIn) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ハイキュー!! × BOS \- 主題歌たちの宴 \-](https://open.spotify.com/album/6AeX9J38dxprHjWNInX1RI) | 4:35 | 2026-08-18 |  |
 | [決戦スピリット](https://open.spotify.com/track/4DSSRuiWONPIvHJ3GxCECH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:32 | 2024-02-19 |  |
 | [決着](https://open.spotify.com/track/6Br2dCwvGTvSO42V3c2pox) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:11 | 2024-02-19 |  |
 | [発熱](https://open.spotify.com/track/1ytb7UrgOUX94K8ZGWqSBV) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [HEAD ROOMS](https://open.spotify.com/album/2R3QT9csfoECOIP1dkc43R) | 3:03 | 2024-02-19 |  |
 | [真っ向勝負](https://open.spotify.com/track/0qJ7OecpYupx360N8havQm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:56 | 2024-02-19 |  |
 | [神業速攻](https://open.spotify.com/track/4baWrKxnYjfhJbPoLSOS2K) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:53 | 2024-02-19 |  |
 | [稲荷崎応援曲①](https://open.spotify.com/track/7Hpkv68hQJavxHeYAAcAeO) | [船橋市立船橋高等学校吹奏楽部](https://open.spotify.com/artist/22qit6Kdx33KtW0gesUg0B) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/0Dk6C4maoKPE34qTVI7Og9) | 1:41 | 2024-02-19 |  |
+| [突破口](https://open.spotify.com/track/4Ykgjv7h10KwclvZLqdN3S) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ハイキュー!! × BOS \- 主題歌たちの宴 \-](https://open.spotify.com/album/6AeX9J38dxprHjWNInX1RI) | 4:09 | 2026-08-18 |  |
 | [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2024-02-19 |  |
 | [突破口](https://open.spotify.com/track/6YgzVO4MRr3zotpdSwa0Vq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:50 | 2024-02-19 |  |
 | [約束の地](https://open.spotify.com/track/4oSiY256lSzrHjvLRTBIcH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 1:51 | 2024-02-19 |  |

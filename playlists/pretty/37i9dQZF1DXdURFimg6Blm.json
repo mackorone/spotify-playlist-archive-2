@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1484215,
+  "num_followers": 1484270,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 210404,
       "name": "Save My Love",
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
-        "name": "Happiness Is So Sad",
-        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 232835,
-      "name": "Happiness Is So Sad",
-      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -314,10 +314,6 @@
         {
           "name": "CYRIL",
           "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
         }
       ],
       "duration_ms": 151875,
@@ -575,26 +571,6 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
@@ -611,6 +587,26 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -683,22 +679,6 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
-        "name": "Rave Never Ends",
-        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 207870,
-      "name": "Rave Never Ends",
-      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
       },
@@ -711,6 +691,22 @@
       "duration_ms": 208640,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
+        "name": "Rave Never Ends",
+        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 207870,
+      "name": "Rave Never Ends",
+      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -895,30 +891,6 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
-        "name": "Turn The Tide (ft. Sylver)",
-        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        },
-        {
-          "name": "Pat B",
-          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "Turn The Tide (ft. Sylver)",
-      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
         "name": "Come To Life",
         "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
       },
@@ -951,6 +923,30 @@
       "duration_ms": 204285,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -1236,16 +1232,16 @@
           "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
           "name": "Quavo",
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
           "name": "Juicy J",
           "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
         }
       ],
       "duration_ms": 166429,

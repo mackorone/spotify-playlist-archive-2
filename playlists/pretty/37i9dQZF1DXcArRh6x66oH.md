@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Charles Wesley Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,289 likes - 193 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,328 likes - 193 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Street Advice](https://open.spotify.com/track/0mKi6pWoXw9ZYK5xJyFkPt) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Christian Name](https://open.spotify.com/album/4HvVSTRtzJiH6NeXQQFjaN) | 4:06 |
 | 2 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 |
-| 3 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 |
+| 3 | [Space and Time](https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:42 |
 | 4 | [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 |
 | 5 | [Hard to Break](https://open.spotify.com/track/5Ywd3oSAfHXKQQTmdf1QNJ) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Hard to Break](https://open.spotify.com/album/0qQbvW3F0E7sb6MSQ1en6t) | 3:21 |
-| 6 | [Space and Time](https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:42 |
-| 7 | [Luckiest Man Alive](https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Luckiest Man Alive](https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA) | 3:44 |
-| 8 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
-| 9 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 |
-| 10 | [Hardwired \(feat\. Miranda Lambert\)](https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hardwired](https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB) | 4:51 |
-| 11 | [Highway One](https://open.spotify.com/track/3Q5eAxBtYLpDXnM2o2DJmI) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Highway One](https://open.spotify.com/album/4yBz1RyADWkwXT6Uhswgpz) | 3:14 |
-| 12 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 |
-| 13 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 |
-| 14 | [Next to You](https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Next to You](https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec) | 4:01 |
+| 6 | [Luckiest Man Alive](https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Luckiest Man Alive](https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA) | 3:44 |
+| 7 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
+| 8 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 |
+| 9 | [Hardwired \(feat\. Miranda Lambert\)](https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hardwired](https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB) | 4:51 |
+| 10 | [Highway One](https://open.spotify.com/track/3Q5eAxBtYLpDXnM2o2DJmI) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Highway One](https://open.spotify.com/album/4yBz1RyADWkwXT6Uhswgpz) | 3:14 |
+| 11 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 |
+| 12 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 |
+| 13 | [Next to You](https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Next to You](https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec) | 4:01 |
+| 14 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 |
 | 15 | [Nothin' Better To Do \(with Wyatt Flores\)](https://open.spotify.com/track/74Qu7xLd1FRWGwgLRh4EGI) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Nothin' Better To Do](https://open.spotify.com/album/5bxRfuJwg5wMBHlFmqrvL1) | 3:02 |
 | 16 | [Kentucky Sky](https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Kentucky Sky](https://open.spotify.com/album/5CMjTjCvOAMzNDGP9tL4gF) | 3:49 |
 | 17 | [picking petals](https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [picking petals](https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf) | 3:48 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 192 | [Drinkin' Alone](https://open.spotify.com/track/3Ni91Z7QsnmgEUwgdaVZV0) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Drinkin' Alone](https://open.spotify.com/album/5r1SZ8EYMUKGyyNX1qhKhT) | 4:14 |
 | 193 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 
-Snapshot ID: `AAAAAHTeocPLwWDKeoUG9S460/CMMHsJ`
+Snapshot ID: `AAAAAP3QfpAKXn685D8c4E9vraSCUb4e`

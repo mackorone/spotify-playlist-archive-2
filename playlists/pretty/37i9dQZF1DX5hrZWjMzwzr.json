@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11688,
+  "num_followers": 11686,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "kiedy by\u0142em ale to house",
-        "url": "https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1"
-      },
-      "artists": [
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        },
-        {
-          "name": "m\u0142ody klakson",
-          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "kiedy by\u0142em ale to house",
-      "url": "https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "nareszcie w domu",
         "url": "https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 144313,
       "name": "lodowisko",
       "url": "https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "kiedy by\u0142em ale to house",
+        "url": "https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1"
+      },
+      "artists": [
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "m\u0142ody klakson",
+          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "kiedy by\u0142em ale to house",
+      "url": "https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1699,6 +1699,34 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "\u017byje si\u0119 tylko raz",
+        "url": "https://open.spotify.com/album/6JnHnWVeVb0h1k8xkKBHPQ"
+      },
+      "artists": [
+        {
+          "name": "Numer Raz",
+          "url": "https://open.spotify.com/artist/7hEBNw2SURfYxssk0LPjND"
+        },
+        {
+          "name": "three.50",
+          "url": "https://open.spotify.com/artist/3rdLmqO0a3lfAM8FcVWkJG"
+        },
+        {
+          "name": "Bartek Kr\u00f3lik",
+          "url": "https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT"
+        },
+        {
+          "name": "DJ Eprom",
+          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "Na zawsze",
+      "url": "https://open.spotify.com/track/7k4wAe0jcDhKoz5bZ3SqWp"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "pid\u017cyn",
         "url": "https://open.spotify.com/album/3O8pJYogTnr6CpDNiem00f"
       },
@@ -1735,34 +1763,6 @@
       "duration_ms": 217496,
       "name": "Ej!",
       "url": "https://open.spotify.com/track/3OOAJSRpxGvqh2jSEx7SOK"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "\u017byje si\u0119 tylko raz",
-        "url": "https://open.spotify.com/album/6JnHnWVeVb0h1k8xkKBHPQ"
-      },
-      "artists": [
-        {
-          "name": "Numer Raz",
-          "url": "https://open.spotify.com/artist/7hEBNw2SURfYxssk0LPjND"
-        },
-        {
-          "name": "three.50",
-          "url": "https://open.spotify.com/artist/3rdLmqO0a3lfAM8FcVWkJG"
-        },
-        {
-          "name": "Bartek Kr\u00f3lik",
-          "url": "https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT"
-        },
-        {
-          "name": "DJ Eprom",
-          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "Na zawsze",
-      "url": "https://open.spotify.com/track/7k4wAe0jcDhKoz5bZ3SqWp"
     },
     {
       "added_at": "2026-04-09 22:12:46",

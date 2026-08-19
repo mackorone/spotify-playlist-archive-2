@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,698 songs - 10 day 12 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,702 songs - 10 day 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4706,5 +4706,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4696 | [Solitude](https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Solitude](https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx) | 4:17 |
 | 4697 | [Solitude](https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Solitude](https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx) | 4:17 |
 | 4698 | [DON'T LET YOU GO \- Special Version Live](https://open.spotify.com/track/17zT71yHtIr4hEGrLNcdno) | [GIACOMO CAMARDA](https://open.spotify.com/artist/0MhCaSAPRt64ircobpELfi) | [DON'T LET YOU GO \(Special Version Live\)](https://open.spotify.com/album/7kXFFaWb7ukg9VVgFkp08Q) | 2:19 |
+| 4699 | [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 |
+| 4700 | [The Devils Name](https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k) | [Spacebreaker](https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE) | [The Devils Name](https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z) | 3:29 |
+| 4701 | [GANG](https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [GANG](https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU) | 1:53 |
+| 4702 | [Viajero del Tiempo](https://open.spotify.com/track/5fXv91jyW5roZBefIaJoXW) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Viajero del Tiempo](https://open.spotify.com/album/5ueAQ14A9yhL2OgWa1WADX) | 5:30 |
 
-Snapshot ID: `AAAJtRwzjnMM1BWZaN6lcf2PcR6uF6jt`
+Snapshot ID: `AAAJuZy+chKn5AOtyIyWMMJnLS9ENeJ2`

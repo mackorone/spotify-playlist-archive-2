@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 67149,
+  "num_followers": 67157,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Duivelszoon",
+      "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Artikel 140",
         "url": "https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 272773,
       "name": "Wil je weten hoe et voelt",
       "url": "https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
-        },
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Duivelszoon",
-      "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Thuis (feat. Per.verz)",
+        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
+      },
+      "artists": [
+        {
+          "name": "Engel & Just",
+          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Thuis (feat. Per.verz)",
+      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Bang To The Boogie EP",
         "url": "https://open.spotify.com/album/1VvBY6dt0TkENNXDL5xGgx"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 268920,
       "name": "Steppin' On My Rhyme (feat. Tienus)",
       "url": "https://open.spotify.com/track/5d1XqlMborBiMmqWZDqpuO"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Thuis (feat. Per.verz)",
-        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
-      },
-      "artists": [
-        {
-          "name": "Engel & Just",
-          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Thuis (feat. Per.verz)",
-      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
     },
     {
       "added_at": "2024-09-09 11:56:35",

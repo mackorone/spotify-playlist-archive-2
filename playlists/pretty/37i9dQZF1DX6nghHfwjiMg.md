@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > 📸 TOBIKA, Maia Reficco, trouve feraud, 143Leti, Balta, esperanzah., Catalina Ammaturo & Joaco Burgos
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,022 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,021 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 19 | [KIERO TO!](https://open.spotify.com/track/2hcqe238XhzYvMllBUlHy1) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [AYER DIJISTE MAÑANA](https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H) | 3:02 |
 | 20 | [SEGUNDA OPCIÓN \- LIMBO SESSION](https://open.spotify.com/track/0hvzcsYw8g67LwE7lpt78k) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F) | [SEGUNDA OPCIÓN \- LIMBO SESSION](https://open.spotify.com/album/1iGdEGWhEf6Andht2AOEGx) | 3:04 |
 | 21 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 |
-| 22 | [Arrancarte el Corazón \- En Vivo](https://open.spotify.com/track/2VZ5CwTjt73kEtUPhJR0sP) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Arrancarte el Corazón \(En Vivo\)](https://open.spotify.com/album/26rAU20hzlRLlNtwCo7HbB) | 4:03 |
+| 22 | [Arrancarte el Corazón \- En Vivo En Buenos Aires](https://open.spotify.com/track/2VZ5CwTjt73kEtUPhJR0sP) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Arrancarte el Corazón \(En Vivo En Buenos Aires\)](https://open.spotify.com/album/26rAU20hzlRLlNtwCo7HbB) | 4:03 |
 | 23 | [Rompecorazones](https://open.spotify.com/track/62Cc3SGN3o1GNog2D69yxa) | [Eclipse Sonar](https://open.spotify.com/artist/5lSfIjckXcuXwWEb3BZ3hW) | [Rompecorazones](https://open.spotify.com/album/15s6HeCrMEnbS0X4DYLyA3) | 4:39 |
 | 24 | [No Estoy Para Nadie](https://open.spotify.com/track/0rMauUbv8hJozpoe1J6nDr) | [En Qué Tono Está La Yegua](https://open.spotify.com/artist/7MX9ZmRHUbfNpyURdGsgjI) | [Sesion La Yegua](https://open.spotify.com/album/6UMtCON6CzzhlPZ3m0d8vc) | 4:43 |
 | 25 | [Miedo a Perder](https://open.spotify.com/track/6aFnCfH43VO2yRNTzXT3lg) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [Miedo a Perder](https://open.spotify.com/album/11L5tAiqwL0yphZ8otsuvG) | 2:42 |

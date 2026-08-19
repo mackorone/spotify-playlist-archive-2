@@ -1,12 +1,12 @@
 {
   "description": "Sofia the First: Royal Magic is now available to watch on Disney Jr. and Disney+!",
-  "num_followers": 60456,
+  "num_followers": 60471,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBuN6Q4cQgGiE9FcLBDXM3QEd/V",
+  "snapshot_id": "AAAAALM36v2n49c9GPiWKtJo3V8Gv+m1",
   "tracks": [
     {
       "added_at": "2026-05-29 13:00:03",
@@ -235,6 +235,38 @@
       "duration_ms": 112372,
       "name": "Just Like a Butterfly",
       "url": "https://open.spotify.com/track/1EQ6Ivo2PT0wCpKn0fm2xS"
+    },
+    {
+      "added_at": "2026-08-18 13:31:49",
+      "album": {
+        "name": "Disney Jr. Music: Ozzy Fox",
+        "url": "https://open.spotify.com/album/3qIYY3YJVzFfnVxzsIJt09"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        },
+        {
+          "name": "Mama Fox",
+          "url": "https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN"
+        },
+        {
+          "name": "Papa Fox",
+          "url": "https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU"
+        },
+        {
+          "name": "Suki Squirrel",
+          "url": "https://open.spotify.com/artist/4JOvJQr4Jbyz66RgcBaXpP"
+        }
+      ],
+      "duration_ms": 122308,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/1AjghcyHkCdSiKHyDxJEV1"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -593,6 +625,34 @@
       "url": "https://open.spotify.com/track/3uwzQsa3yobWdB3SlsLPnJ"
     },
     {
+      "added_at": "2026-08-18 13:31:49",
+      "album": {
+        "name": "Disney Jr. Music: Ozzy Fox",
+        "url": "https://open.spotify.com/album/3qIYY3YJVzFfnVxzsIJt09"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        },
+        {
+          "name": "Mama Fox",
+          "url": "https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN"
+        },
+        {
+          "name": "Papa Fox",
+          "url": "https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU"
+        }
+      ],
+      "duration_ms": 118378,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/4Lz92RhqAiH5UkOfPXx0pz"
+    },
+    {
       "added_at": "2026-05-29 13:00:03",
       "album": {
         "name": "Let's Play",
@@ -771,26 +831,6 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
-        "name": "Disney Jr. Music: Marvel's Spidey and His Amazing Friends - Water Webs",
-        "url": "https://open.spotify.com/album/1t27m5EXAMl2yglCztc3OQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 131189,
-      "name": "It's Jeff",
-      "url": "https://open.spotify.com/track/0S1PjjMHpZiXy8CANVWSBg"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
         "name": "Disney Jr. Music: Let's Play! Spring Jams",
         "url": "https://open.spotify.com/album/5oMXC29YIhYSqNXEcnz9z5"
       },
@@ -911,26 +951,6 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
-        "name": "Disney Junior Music: SuperKitties Su-Purr Charged",
-        "url": "https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB"
-      },
-      "artists": [
-        {
-          "name": "SuperKitties - Cast",
-          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 156403,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/5xuJWkruuozU1po4XJ8V2M"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
         "name": "Disney Jr. Music: Playdate with Winnie the Pooh (Season 2)",
         "url": "https://open.spotify.com/album/5jKyWp38ZmzU1S43Heyeqt"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 128041,
       "name": "Happy Campers - From \"Disney Jr. Music: Mickey\"",
       "url": "https://open.spotify.com/track/2kagDxwVVifwSKZ5eukzGl"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: SuperKitties Su-Purr Charged",
-        "url": "https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB"
-      },
-      "artists": [
-        {
-          "name": "SuperKitties - Cast",
-          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 71556,
-      "name": "You Can Do It",
-      "url": "https://open.spotify.com/track/0k616mS4Rij2yDNACPqhxK"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
-        "name": "Disney Junior Music: SuperKitties Su-Purr Edition",
-        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
-      },
-      "artists": [
-        {
-          "name": "SuperKitties - Cast",
-          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 66291,
-      "name": "Always in My Heart",
-      "url": "https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
         "name": "Disney Junior Music: Firebuds",
         "url": "https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u"
       },
@@ -1187,26 +1167,6 @@
       "duration_ms": 69862,
       "name": "I'm a Firefighter",
       "url": "https://open.spotify.com/track/6OWfse0RdCkZQn9zaxiolV"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends - Glow Webs Glow",
-        "url": "https://open.spotify.com/album/1N0KSrK5QZBvg2rwu9Asn1"
-      },
-      "artists": [
-        {
-          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
-          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 93610,
-      "name": "Watch Out",
-      "url": "https://open.spotify.com/track/5GRdz09Ypyvpzpvwh4Ts3g"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -1247,26 +1207,6 @@
       "duration_ms": 63900,
       "name": "No Stoppin' Us Meow",
       "url": "https://open.spotify.com/track/5a6f2Jl1FcyVilXvqf4ta4"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Glow Webs Glow (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
-        "url": "https://open.spotify.com/album/2NZqBD53gQlVUuY2JnV9fN"
-      },
-      "artists": [
-        {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 144229,
-      "name": "Glow Webs Glow - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
-      "url": "https://open.spotify.com/track/29dZo6xmKqGCZsUNoiUGAh"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -1487,26 +1427,6 @@
       "duration_ms": 120159,
       "name": "Me & Mickey Theme Song",
       "url": "https://open.spotify.com/track/2cZ0fR98bufCNz5bBxl45s"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Spideys Don't Give Up (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
-        "url": "https://open.spotify.com/album/0fECAlGLOXPC5iCeh4YtDJ"
-      },
-      "artists": [
-        {
-          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
-          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 59989,
-      "name": "Spideys Don't Give Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
-      "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -2175,26 +2095,6 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
-        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
-        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
-      },
-      "artists": [
-        {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Spin, Spin, Spin",
-      "url": "https://open.spotify.com/track/0Rg8DsZMeG8Fq6JjEoeQeM"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
         "name": "Disney Junior Music: Mickey Mornings",
         "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
       },
@@ -2251,26 +2151,6 @@
       "duration_ms": 69257,
       "name": "Keep on Tryin'",
       "url": "https://open.spotify.com/track/6qgU0nZTShwzPcyg2zR6Lw"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
-        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
-      },
-      "artists": [
-        {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 129626,
-      "name": "Trace-E Shake",
-      "url": "https://open.spotify.com/track/6JWVBscbdaU6R0EV3XICdP"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -2683,26 +2563,6 @@
       "duration_ms": 73583,
       "name": "Welcome to the Hospital",
       "url": "https://open.spotify.com/track/0cKehdz3x4KI97HYS3sqNY"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Sofia the First",
-        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
-      },
-      "artists": [
-        {
-          "name": "Cast - Sofia the First",
-          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
-        },
-        {
-          "name": "Clover",
-          "url": "https://open.spotify.com/artist/25wd2jHq2IQ1lE3OXwpV1Y"
-        }
-      ],
-      "duration_ms": 120586,
-      "name": "Blue Ribbon Bunny",
-      "url": "https://open.spotify.com/track/4yMmgJkRp0B5XDaU7BGQhH"
     },
     {
       "added_at": "2026-05-29 13:00:03",

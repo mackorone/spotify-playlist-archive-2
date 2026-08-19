@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,227 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,228 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 33 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
 | 34 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
 | 35 | [I\-40](https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [I\-40](https://open.spotify.com/album/5Cbhorm19BqHu78wRuLjVD) | 3:54 |
-| 36 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 36 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 37 | [Take Me to Sunrise](https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Take Me to Sunrise](https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy) | 3:14 |
 | 38 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 |
 | 39 | [Monroe](https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Monroe](https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ) | 3:40 |

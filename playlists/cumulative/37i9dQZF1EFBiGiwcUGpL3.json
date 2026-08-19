@@ -1086,10 +1086,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 251640,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/29cd2pFF9ltQ5viRWGlbR7"
+    },
+    {
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/2K5zG9t2ZtHoZE8IU6Xgrg"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256959,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/2MwbEvnTm0klMXjto8u3ak"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101151,
+  "num_followers": 101161,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABRXHv7BXoI1LQL93aRzpp5",
+  "snapshot_id": "aoJPAAAAAABGrCO6sAT3VFSEYc156Eok",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180197,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
         "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 241444,
       "name": "Los de La Casa",
       "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Exceso Me Encanto",
         "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 160153,
       "name": "El Exceso Me Encanto",
       "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 3 De Siempre",
-        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Los 3 De Siempre",
-      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 146590,
       "name": "La Gwag",
       "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 3 De Siempre",
+        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "Los 3 De Siempre",
+      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
     },
     {
       "added_at": null,

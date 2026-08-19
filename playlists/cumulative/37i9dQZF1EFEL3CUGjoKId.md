@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 7 hr 30 min
+119 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Heroes Are Hard to Find \(Single\) \- 2018 Remaster](https://open.spotify.com/track/4C6um1v4oCpbfBbZNTDry8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 2:46 | 2024-01-29 |  |
 | [Hey Baby](https://open.spotify.com/track/6KERXzROTPriopMyQoJaww) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:37 | 2024-01-29 |  |
 | [Hold Me](https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:45 | 2024-01-29 | 2026-04-16 |
-| [Hold Me](https://open.spotify.com/track/0W3w6sKkf8NaYYbOjCpWHl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage](https://open.spotify.com/album/4aNUKvAwYMhaqvGSgMoEnc) | 3:46 | 2026-04-15 |  |
+| [Hold Me](https://open.spotify.com/track/0W3w6sKkf8NaYYbOjCpWHl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage](https://open.spotify.com/album/4aNUKvAwYMhaqvGSgMoEnc) | 3:46 | 2026-04-15 | 2026-08-19 |
+| [Hold Me \- 2016 Remaster](https://open.spotify.com/track/2zYCip88nwoF96SC7WEjJm) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:45 | 2026-08-18 |  |
 | [Hollywood \(Some Other Kind of Town\)](https://open.spotify.com/track/3FcjR9MHChTfJd5HCbnMW2) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:45 | 2024-01-29 |  |
 | [Honey Hi](https://open.spotify.com/track/4lIgGtmrMRfMikXa3rInLn) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk](https://open.spotify.com/album/2AwawKEaWNe8X4Cy3oBGMu) | 2:43 | 2026-08-09 |  |
 | [Honey Hi \- 2015 Remaster](https://open.spotify.com/track/4hitfppPqFmsKsI9GS7IBc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:45 | 2024-01-29 | 2026-08-10 |
@@ -71,7 +72,8 @@
 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 | 2025-01-09 | 2025-04-12 |
 | [Never Forget](https://open.spotify.com/track/3de0NJE3zvczlwSE5LbZP0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk](https://open.spotify.com/album/2AwawKEaWNe8X4Cy3oBGMu) | 3:39 | 2026-08-09 |  |
 | [Never Forget \- 2015 Remaster](https://open.spotify.com/track/6HmcHhVFsbeiXCl93wHm0h) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 3:38 | 2024-01-29 | 2026-08-10 |
-| [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 | 2024-01-29 |  |
+| [Never Going Back Again \- 2001 Remaster](https://open.spotify.com/track/2Y04RnmHqQlvQe3w5G0N8R) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 2:04 | 2026-08-18 |  |
+| [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 | 2024-01-29 | 2026-08-19 |
 | [Never Make Me Cry](https://open.spotify.com/track/5qoDNy714IRNHFSdAvojw4) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk](https://open.spotify.com/album/2AwawKEaWNe8X4Cy3oBGMu) | 2:18 | 2026-08-09 |  |
 | [Never Make Me Cry \- 2015 Remaster](https://open.spotify.com/track/38bw7l15N831T7TZWMVrPA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 2:18 | 2024-01-29 | 2026-08-10 |
 | [Nights in Estoril](https://open.spotify.com/track/4rfBf1yELLxpS6ohe0C3nc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:47 | 2024-01-29 |  |

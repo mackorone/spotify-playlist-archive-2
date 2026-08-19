@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABqLdCkRBdKqKL5KQi9Ymp0",
+  "snapshot_id": "aoJPAAAAAAA0QHJ7tJdJCdAMv64Q3Esb",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Arriving",
-        "url": "https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 357883,
-      "name": "Travelling Without Arriving",
-      "url": "https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Art of War (Pt. II) EP",
         "url": "https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 387226,
       "name": "When Round, They Go - Terekke Remix",
       "url": "https://open.spotify.com/track/2jcLXice4V8TNsvwE76498"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Arriving",
+        "url": "https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 357883,
+      "name": "Travelling Without Arriving",
+      "url": "https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF"
     },
     {
       "added_at": null,

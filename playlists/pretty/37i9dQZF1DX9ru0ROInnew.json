@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 148246,
+  "num_followers": 148263,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Michael Myers",
-        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Michael Myers",
-      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "LHNA",
         "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200145,
       "name": "LHNA",
       "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1259,34 +1259,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Ele Uve (Remix)",
-        "url": "https://open.spotify.com/album/73mz0bzy97uQ0jC01pMp0A"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Ele Uve - Remix",
-      "url": "https://open.spotify.com/track/6n43lawNZSsPHiCostJj9N"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1311,6 +1283,34 @@
       "duration_ms": 262500,
       "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Ele Uve (Remix)",
+        "url": "https://open.spotify.com/album/73mz0bzy97uQ0jC01pMp0A"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Ele Uve - Remix",
+      "url": "https://open.spotify.com/track/6n43lawNZSsPHiCostJj9N"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Oscuridad (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Mi Cubana Remix",
         "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 342558,
       "name": "Mi Cubana - Remix",
       "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "TrapXficante",
-        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Oscuridad (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "La Calle",
         "url": "https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 241493,
       "name": "La Calle",
       "url": "https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Gan-Ga (Remix)",
-        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 193363,
-      "name": "Gan-Ga - Remix",
-      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Gan-Ga (Remix)",
+        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 193363,
+      "name": "Gan-Ga - Remix",
+      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Si Tu Novio Te Deja Sola",
         "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
       },
@@ -1987,46 +2007,6 @@
       "duration_ms": 243560,
       "name": "Si Tu Novio Te Deja Sola",
       "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2051,6 +2031,26 @@
       "duration_ms": 219880,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/6YSzIBEEAWmJurZyf0XcVi"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 275826,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/1fs9kTASuC9RJ9say6KX2K"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 179304,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2283,22 +2283,18 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO"
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2335,18 +2331,38 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+      "duration_ms": 226263,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2455,22 +2471,6 @@
       "duration_ms": 290012,
       "name": "Me Llueven 3.0",
       "url": "https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Fulete",
-        "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226263,
-      "name": "Fulete",
-      "url": "https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM"
     },
     {
       "added_at": "2024-08-19 19:01:43",

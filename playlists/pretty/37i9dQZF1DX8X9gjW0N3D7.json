@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Hansom \u0112li ",
-  "num_followers": 70545,
+  "num_followers": 70563,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
+        "name": "the evergreen, the birch",
+        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        },
+        {
+          "name": "MEGGO",
+          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "the evergreen, the birch",
+      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
+    },
+    {
+      "added_at": "2026-08-14 04:03:18",
+      "album": {
         "name": "Je fais confiance au temps",
         "url": "https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 171428,
       "name": "figure it out",
       "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
-    },
-    {
-      "added_at": "2026-08-14 04:03:18",
-      "album": {
-        "name": "the evergreen, the birch",
-        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        },
-        {
-          "name": "MEGGO",
-          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "the evergreen, the birch",
-      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
-        "name": "Ma Chance",
-        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
+        "name": "Deux places au cimeti\u00e8re",
+        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
       "artists": [
         {
-          "name": "A Girl Named Sue",
-          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Ma Chance",
-      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
+      "duration_ms": 213064,
+      "name": "Cimeti\u00e8re",
+      "url": "https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
-        "name": "Deux places au cimeti\u00e8re",
-        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 213064,
-      "name": "Cimeti\u00e8re",
-      "url": "https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr"
-    },
-    {
-      "added_at": "2026-08-14 04:03:18",
-      "album": {
         "name": "Oiseaux de Paradis",
         "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 124214,
       "name": "Oiseaux de Paradis",
       "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
+    },
+    {
+      "added_at": "2026-08-14 04:03:18",
+      "album": {
+        "name": "Ma Chance",
+        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
+      },
+      "artists": [
+        {
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Ma Chance",
+      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
-        "name": "Feel '26",
-        "url": "https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw"
+        "name": "Deux places au cimeti\u00e8re",
+        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
       "artists": [
         {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
         }
       ],
-      "duration_ms": 343733,
-      "name": "Feel '26",
-      "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
+      "duration_ms": 148979,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
-        "name": "Deux places au cimeti\u00e8re",
-        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 148979,
-      "name": "omg",
-      "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
-    },
-    {
-      "added_at": "2026-08-14 04:03:18",
-      "album": {
         "name": "Que ta lumi\u00e8re",
         "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 189945,
       "name": "Comme un b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
+    },
+    {
+      "added_at": "2026-08-14 04:03:18",
+      "album": {
+        "name": "Feel '26",
+        "url": "https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "duration_ms": 343733,
+      "name": "Feel '26",
+      "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
+        "name": "Isabella",
+        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
+      },
+      "artists": [
+        {
+          "name": "Violette & Jordan",
+          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+        }
+      ],
+      "duration_ms": 248366,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
+    },
+    {
+      "added_at": "2026-08-14 04:03:18",
+      "album": {
         "name": "Demain",
         "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 229047,
       "name": "Demain",
       "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
-    },
-    {
-      "added_at": "2026-08-14 04:03:18",
-      "album": {
-        "name": "Excuse-moi",
-        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
-      },
-      "artists": [
-        {
-          "name": "Lilou Morin",
-          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
-        }
-      ],
-      "duration_ms": 197145,
-      "name": "Excuse-moi",
-      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -1003,34 +1003,18 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
-        "name": "Isabella",
-        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
+        "name": "Excuse-moi",
+        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
       },
       "artists": [
         {
-          "name": "Violette & Jordan",
-          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+          "name": "Lilou Morin",
+          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
         }
       ],
-      "duration_ms": 248366,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
-    },
-    {
-      "added_at": "2026-08-14 04:03:18",
-      "album": {
-        "name": "Courtside",
-        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
-      },
-      "artists": [
-        {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
-        }
-      ],
-      "duration_ms": 182961,
-      "name": "Courtside",
-      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
+      "duration_ms": 197145,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -1047,6 +1031,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q"
+    },
+    {
+      "added_at": "2026-08-14 04:03:18",
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "added_at": "2026-08-14 04:03:18",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-08-14 04:03:18",
       "album": {
-        "name": "r\u00eaves en hd",
-        "url": "https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 253710,
-      "name": "r\u00eaves en hd",
-      "url": "https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5"
-    },
-    {
-      "added_at": "2026-08-14 04:03:18",
-      "album": {
         "name": "L'Empreinte",
         "url": "https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182105,
       "name": "Psychanalyse",
       "url": "https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0"
+    },
+    {
+      "added_at": "2026-08-14 04:03:18",
+      "album": {
+        "name": "r\u00eaves en hd",
+        "url": "https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "duration_ms": 253710,
+      "name": "r\u00eaves en hd",
+      "url": "https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

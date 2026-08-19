@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Raghav & Arjun, Taba Chake, Easy Wanderlings, Mali and other exciting artists.
 
-1,554 songs - 3 day 13 hr 27 min
+1,555 songs - 3 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Ishq Rang Reza](https://open.spotify.com/track/5wEfczCkc17dZ3mQu8meA1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Poorvi Koutish](https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p) | [Ishq Rang Reza](https://open.spotify.com/album/7iOpJU0Ky0R4YmkNARz5LP) | 2:47 | 2024-11-29 | 2024-12-14 |
 | [Ishq seekh lo](https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq) | [Ishq seekh lo](https://open.spotify.com/album/3Ky1smlAG69k8dXHEOsmEG) | 3:48 | 2026-07-10 |  |
 | [It's OK](https://open.spotify.com/track/2JMuletO0l8LK3LiKc3DTZ) | [RUUH](https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ), [JOH](https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk) | [It's OK](https://open.spotify.com/album/72Ydb5jLfCwJdpuvQ3OEjz) | 2:01 | 2024-11-29 | 2025-01-11 |
-| [Ittefaq](https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Rohan Upadeo](https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j) | [Ittefaq](https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW) | 3:56 | 2026-07-03 |  |
+| [Ittefaq](https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Rohan Upadeo](https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j) | [Ittefaq](https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW) | 3:56 | 2026-07-03 | 2026-08-19 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-08-11 |
 | [I’m Done.](https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [I’m Done.](https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT) | 2:28 | 2025-09-19 | 2025-11-01 |
 | [Ja Tujhko 2.0](https://open.spotify.com/track/0k9lmwQjlw3Fe73yMzUnRV) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko 2.0](https://open.spotify.com/album/1g4i8uacpNI8e79YY7NhHG) | 3:56 | 2024-06-14 | 2024-08-03 |
@@ -869,6 +869,7 @@
 | [Main Hoon Hi Kya](https://open.spotify.com/track/7AcUGK7To3Oa4fNpLGimHu) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Shubham J](https://open.spotify.com/artist/6jlSVPIRWryMStqD58e63r) | [Main Hoon Hi Kya](https://open.spotify.com/album/7ltvwSXdtQ0mBvedfDKGrU) | 3:01 | 2025-07-18 | 2025-07-26 |
 | [Main Musafir](https://open.spotify.com/track/4keE5HXc6bfrjfMClbprrh) | [Joel Jossy](https://open.spotify.com/artist/2SM7qowtyQhLuoODYREMXQ), [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Sujeet Anahata Thakur](https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu) | [Main Musafir](https://open.spotify.com/album/2o1f3b2zCNLXWWPJW5kcnV) | 4:27 | 2024-06-07 | 2024-07-06 |
 | [Main Na Raha](https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Main Na Raha](https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA) | 4:32 | 2025-10-17 | 2025-12-29 |
+| [Main Nashe Mein](https://open.spotify.com/track/14tTt2k9lfX31FebV9tYpZ) | [Shekhar Khanijo](https://open.spotify.com/artist/4rw24Kp8GUPToxrMHesi5S), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h), [The Junior](https://open.spotify.com/artist/2mr9HPHNByJwhF8dzfsVRz) | [Main Nashe Mein](https://open.spotify.com/album/6WlskqdPYmzj3Nn7pRxUGZ) | 2:36 | 2026-08-14 |  |
 | [Main Tera](https://open.spotify.com/track/3SqTTLPktoECRmkGriw5bx) | [Accha Insaan](https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Main Tera](https://open.spotify.com/album/1ICIE713LoYWEf99y8ktsg) | 3:04 | 2024-06-14 | 2024-07-13 |
 | [Main Tera Deewana](https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht) | [Shyam Sidhawat](https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Main Tera Deewana](https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66) | 3:40 | 2026-03-27 | 2026-06-27 |
 | [Majboor E Aag](https://open.spotify.com/track/1fYOKzD7B8I4kDEPNga0xk) | [Shivam Vashisht](https://open.spotify.com/artist/3gyUpopsFDSJ5Cg9N7dJoy) | [Majboor E Aag](https://open.spotify.com/album/6GNZz6ZdtFPp8kA0P6qhEF) | 2:53 | 2024-07-05 | 2024-08-10 |

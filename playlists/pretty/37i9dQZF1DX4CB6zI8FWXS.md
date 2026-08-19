@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Erykah Badu, The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,329 likes - 109 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,323 likes - 109 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

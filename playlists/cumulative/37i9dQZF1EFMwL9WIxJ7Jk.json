@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206354,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/0iN3RPTv8ujfPYzu22sDy8"
+    },
+    {
+      "album": {
         "name": "The Love Train",
         "url": "https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 206354,
       "name": "After You",
       "url": "https://open.spotify.com/track/2QmkjRXbiQ9Jf9SHc9AOSu"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 177816,
       "name": "Genetics",
       "url": "https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP"
@@ -2165,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "If You Love Her (feat. Christina Perri)",
+        "url": "https://open.spotify.com/album/5n37xMf8Czh0pyFy28QAYC"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217967,
+      "name": "If You Love Her (feat. Christina Perri)",
+      "url": "https://open.spotify.com/track/6lWo19d95E0Ha9bgZIZ2zA"
+    },
+    {
+      "album": {
         "name": "If You Love Her (feat. Meghan Trainor)",
         "url": "https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2"
       },
@@ -2180,7 +2220,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 215832,
       "name": "If You Love Her - feat. Meghan Trainor",
       "url": "https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas"
@@ -2496,7 +2536,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW"

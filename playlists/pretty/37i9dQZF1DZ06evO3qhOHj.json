@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 31056,
+  "num_followers": 31057,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADLc8SaJfPLv6EJ+yVgzT/t",
+  "snapshot_id": "aoJPAAAAAADVgYh6HAS6AqyZZCGV72pG",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 198840,
-      "name": "I'll Leave It Up To You",
-      "url": "https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj"
+      "duration_ms": 329333,
+      "name": "Alive and Kickin' - 2021 Remastered",
+      "url": "https://open.spotify.com/track/3RbxpCBZHs0iPbMX08RQIr"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 329333,
-      "name": "Alive and Kickin' - 2021 Remastered",
-      "url": "https://open.spotify.com/track/3RbxpCBZHs0iPbMX08RQIr"
+      "duration_ms": 198840,
+      "name": "I'll Leave It Up To You",
+      "url": "https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
       "duration_ms": 223426,
       "name": "Superfantastic",
       "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
+      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
     },
     {
       "added_at": null,
@@ -375,22 +391,6 @@
       "duration_ms": 232373,
       "name": "The Whole World's Gonna Know",
       "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
-      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Dancin' Right into the Flame",
-      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 222506,
       "name": "Strike Like Lightning",
       "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Dancin' Right into the Flame",
+      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 252520,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 312040,
       "name": "All the Way Up",
       "url": "https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 175840,
       "name": "Damn I'm In Love Again",
       "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
     },
     {
       "added_at": null,

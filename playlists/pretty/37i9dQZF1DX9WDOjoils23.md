@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,098 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,132 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 31 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 |
 | 32 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 |
 | 33 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
-| 34 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
-| 35 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
+| 34 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
+| 35 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
 | 36 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
 | 37 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
 | 38 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 47 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |
 | 48 | [Charkha \(From "Paro Pinaki Ki Kahani"\)](https://open.spotify.com/track/1raFdZRNKcl8xGd4M2Cj4l) | [Rahul Solanki](https://open.spotify.com/artist/1zO9idOZBXu4TsTIXVBvSz), [Aarush Purabiya](https://open.spotify.com/artist/1zEMxqg0gN10XL5mxLDCdX), [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Charkha \(From "Paro Pinaki Ki Kahani"\)](https://open.spotify.com/album/2tHIjdAIk12mBxate3hRTS) | 5:04 |
 | 49 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
-| 50 | [Ni Mein Kamli Aa](https://open.spotify.com/track/0Iwrvl0JoQj2JbAgdwwHjc) | [Monika Athwal](https://open.spotify.com/artist/1JaJczN5yy3Bv1Hjct1iyZ), [MR Music](https://open.spotify.com/artist/3HitoCKdWKqWjvZeiH2a6D) | [Ni Mein Kamli Aa](https://open.spotify.com/album/7B5kb2fzlv7yt75I0x0NEv) | 5:42 |
+| 50 | [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 |
 
 Snapshot ID: `AAAAAF9QOIuZ6oAohVYzKADrx+irpbCp`

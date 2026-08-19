@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "and still we met",
+        "url": "https://open.spotify.com/album/4a4KvbTvDjQ9vMUUZo6XVp"
+      },
+      "artists": [
+        {
+          "name": "Nessen",
+          "url": "https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "and still we met",
+      "url": "https://open.spotify.com/track/2ouHl4p40MTg80OOkbTjq5"
+    },
+    {
+      "album": {
         "name": "At Night",
         "url": "https://open.spotify.com/album/2YRqfke64aQbk1jibcIXGK"
       },
@@ -254,6 +272,28 @@
       "duration_ms": 235000,
       "name": "Celestial Whispers",
       "url": "https://open.spotify.com/track/1qxFr0cglsK0YXcddvelRI"
+    },
+    {
+      "album": {
+        "name": "Chrome & Decay",
+        "url": "https://open.spotify.com/album/4GflJkWWLJeoiMFeYsAVfi"
+      },
+      "artists": [
+        {
+          "name": "THE9THXLIFE",
+          "url": "https://open.spotify.com/artist/5vGEk1WM4YiFdTDmdpjV5H"
+        },
+        {
+          "name": "novocaine",
+          "url": "https://open.spotify.com/artist/4JInrCeDf76MrjBIMqU2VB"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Chrome & Decay",
+      "url": "https://open.spotify.com/track/6TcQCt4HfKk7XTnNIeQ5ph"
     },
     {
       "album": {
@@ -452,6 +492,24 @@
       "duration_ms": 150006,
       "name": "distant, elsewhere",
       "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+    },
+    {
+      "album": {
+        "name": "Doubted",
+        "url": "https://open.spotify.com/album/4ihi99ldhEsSMimSgmHxTl"
+      },
+      "artists": [
+        {
+          "name": "Hypnostate",
+          "url": "https://open.spotify.com/artist/2W4sX0RRSKjnAd599CxiX6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Doubted",
+      "url": "https://open.spotify.com/track/5nrrq3ISXAvaoSdJPREADF"
     },
     {
       "album": {
@@ -870,6 +928,24 @@
       "duration_ms": 139727,
       "name": "Garibaldi",
       "url": "https://open.spotify.com/track/5qcjQGV24vzWs0RPuVjDFw"
+    },
+    {
+      "album": {
+        "name": "Grain",
+        "url": "https://open.spotify.com/album/3fSrEMPTVeRW0fkUbAsy81"
+      },
+      "artists": [
+        {
+          "name": "Wispel",
+          "url": "https://open.spotify.com/artist/7yKCcRvzwgiv3OBGxi9Kqt"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Grain",
+      "url": "https://open.spotify.com/track/43btMXyMZj3tTDKb0LeiPF"
     },
     {
       "album": {
@@ -1339,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "morning breath",
+        "url": "https://open.spotify.com/album/7hLc0rwV2sMbmwYqiXDwum"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "morning breath",
+      "url": "https://open.spotify.com/track/0cYTzrYz5qNvmdGcBCveR2"
+    },
+    {
+      "album": {
         "name": "Natural Spirit",
         "url": "https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo"
       },
@@ -1390,6 +1484,24 @@
       "duration_ms": 209000,
       "name": "New Land",
       "url": "https://open.spotify.com/track/59xcwnFm3a9esaROstTOFy"
+    },
+    {
+      "album": {
+        "name": "next to her",
+        "url": "https://open.spotify.com/album/28y2Sa8RQxd7YRGSWPxmDC"
+      },
+      "artists": [
+        {
+          "name": "away from",
+          "url": "https://open.spotify.com/artist/40dRV2ORNV9fYyPnTkHw0a"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "next to her",
+      "url": "https://open.spotify.com/track/2QijiAl6UpzsC5nnECmIZz"
     },
     {
       "album": {
@@ -1534,7 +1646,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 163000,
       "name": "On The Horizon",
       "url": "https://open.spotify.com/track/4MlgmHP1Y9KoKVxGQoeIp2"
@@ -1739,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Rain Through Pines",
+        "url": "https://open.spotify.com/album/1FCsFkcWc7mjOi74SqPpVo"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rlund",
+          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102580,
+      "name": "Rain Through Pines",
+      "url": "https://open.spotify.com/track/6k9pzZd1gXWjk8RCkvP27V"
+    },
+    {
+      "album": {
         "name": "rainfall",
         "url": "https://open.spotify.com/album/0uP6srv1yoOUONPJAFWBIm"
       },
@@ -1910,6 +2040,24 @@
       "duration_ms": 182544,
       "name": "sad girl era",
       "url": "https://open.spotify.com/track/6nHQzmJrp1Bu1o9qT50sbA"
+    },
+    {
+      "album": {
+        "name": "Sandy (432 Hz)",
+        "url": "https://open.spotify.com/album/6ltyb9aJhUeAEU0Q7KPEgQ"
+      },
+      "artists": [
+        {
+          "name": "432 Sonique",
+          "url": "https://open.spotify.com/artist/2yDUOLDQQCVOF1BM0qF0eV"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138745,
+      "name": "Sandy (432 Hz)",
+      "url": "https://open.spotify.com/track/3BPGCkp64s4jVWbKMr4Vds"
     },
     {
       "album": {
@@ -2255,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "the winter we never had",
+        "url": "https://open.spotify.com/album/1npEKG8B8hsAWRKKF9BEwh"
+      },
+      "artists": [
+        {
+          "name": "Luann Wandler",
+          "url": "https://open.spotify.com/artist/6ZieumEJITrapITgSXOQC1"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "the winter we never had",
+      "url": "https://open.spotify.com/track/4soYkR4euUKI3OIfSykei9"
+    },
+    {
+      "album": {
         "name": "thoughts",
         "url": "https://open.spotify.com/album/5rDJ8emRdp5673ZB1ZHpJ7"
       },
@@ -2594,7 +2760,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 185714,
       "name": "Whispers of Rain",
       "url": "https://open.spotify.com/track/5WgaR1qSKGfrO2NNuz6oZo"

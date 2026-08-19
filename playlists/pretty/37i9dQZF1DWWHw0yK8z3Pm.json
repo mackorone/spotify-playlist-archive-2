@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Orville Peck",
-  "num_followers": 70367,
+  "num_followers": 70361,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -349,20 +349,24 @@
       "url": "https://open.spotify.com/track/6n5HwI078jMbfUKivOZLtk"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
+      "added_at": "2026-06-26 04:03:10",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
+        "name": "Nothin' Better To Do",
+        "url": "https://open.spotify.com/album/5bxRfuJwg5wMBHlFmqrvL1"
       },
       "artists": [
         {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
         }
       ],
-      "duration_ms": 193469,
-      "name": "Your Nonsense Makes Sense",
-      "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"
+      "duration_ms": 182214,
+      "name": "Nothin' Better To Do (with Wyatt Flores)",
+      "url": "https://open.spotify.com/track/74Qu7xLd1FRWGwgLRh4EGI"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -401,40 +405,20 @@
       "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
     },
     {
-      "added_at": "2026-06-26 04:03:10",
+      "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Nothin' Better To Do",
-        "url": "https://open.spotify.com/album/5bxRfuJwg5wMBHlFmqrvL1"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
       },
       "artists": [
         {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        },
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 182214,
-      "name": "Nothin' Better To Do (with Wyatt Flores)",
-      "url": "https://open.spotify.com/track/74Qu7xLd1FRWGwgLRh4EGI"
-    },
-    {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Too Young to Die",
-        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
+      "duration_ms": 193469,
+      "name": "Your Nonsense Makes Sense",
+      "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -455,6 +439,22 @@
       "duration_ms": 159308,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
+    },
+    {
+      "added_at": "2026-06-26 04:03:10",
+      "album": {
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/1TYfVk1t85btBuBGqEnB4g"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 229905,
-      "name": "Borrowed Time",
-      "url": "https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6"
-    },
-    {
       "added_at": "2026-06-26 04:03:10",
       "album": {
         "name": "Wildfire",
@@ -821,22 +805,6 @@
       "url": "https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Something In The Way",
-        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 302592,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
-    },
-    {
       "added_at": "2026-07-31 04:03:48",
       "album": {
         "name": "Mind Like Mine",
@@ -851,6 +819,38 @@
       "duration_ms": 212000,
       "name": "Mind Like Mine",
       "url": "https://open.spotify.com/track/79j8AeqPWwClJ1LKNwmXcr"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 229905,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Something In The Way",
+        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 302592,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
-      "added_at": "2026-06-05 04:02:55",
-      "album": {
-        "name": "Preacher\u2019s Kid",
-        "url": "https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 302023,
-      "name": "Preacher\u2019s Kid",
-      "url": "https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Double Infinity",
@@ -935,6 +919,22 @@
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2026-06-05 04:02:55",
+      "album": {
+        "name": "Preacher\u2019s Kid",
+        "url": "https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 302023,
+      "name": "Preacher\u2019s Kid",
+      "url": "https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
     },
     {
-      "added_at": "2026-07-24 04:03:38",
-      "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Dublin Blues",
@@ -1407,6 +1391,22 @@
       "duration_ms": 388107,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
+    },
+    {
+      "added_at": "2026-07-24 04:03:38",
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "I WANT MY LOVED ONES TO GO WITH ME (DELUXE)",
         "url": "https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 228593,
       "name": "Love Is A Canyon",
       "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Tiger Blood",
-        "url": "https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Tiger Blood",
-      "url": "https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "If There's A Heaven",
         "url": "https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+        "name": "Tiger Blood",
+        "url": "https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP"
       },
       "artists": [
         {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
+      "duration_ms": 232906,
+      "name": "Tiger Blood",
+      "url": "https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1637,20 +1621,20 @@
       "url": "https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag"
     },
     {
-      "added_at": "2026-06-05 04:02:55",
+      "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Live a Song, Write a Memory, Vol. 1",
-        "url": "https://open.spotify.com/album/11nQvCKfRTGaodvWvIqwpq"
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 188066,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/0Esp6o16cxWiztoolNGaSo"
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1667,6 +1651,22 @@
       "duration_ms": 168000,
       "name": "South of the Suburbs",
       "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
+    },
+    {
+      "added_at": "2026-06-05 04:02:55",
+      "album": {
+        "name": "Live a Song, Write a Memory, Vol. 1",
+        "url": "https://open.spotify.com/album/11nQvCKfRTGaodvWvIqwpq"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/0Esp6o16cxWiztoolNGaSo"
     },
     {
       "added_at": "2026-05-22 04:02:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain]
 
 > greenery & humid air 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,235 likes - 101 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,263 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

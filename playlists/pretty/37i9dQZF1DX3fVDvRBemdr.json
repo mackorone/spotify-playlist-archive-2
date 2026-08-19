@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop met o.a. Mart Hoogkamer. <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
-  "num_followers": 156431,
+  "num_followers": 156446,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkwW1rkxTXM9jj0BhXrN7K8UbQD",
+  "snapshot_id": "AAAAAKz49/2I1dhOEYzjPL/jzg89ovpB",
   "tracks": [
     {
       "added_at": "2026-08-13 22:01:18",
@@ -27,6 +27,22 @@
     {
       "added_at": "2026-08-13 22:01:18",
       "album": {
+        "name": "Sjansen",
+        "url": "https://open.spotify.com/album/4E7hhC2EOWBxo3VZ0ksOiQ"
+      },
+      "artists": [
+        {
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+        }
+      ],
+      "duration_ms": 149057,
+      "name": "Sjansen",
+      "url": "https://open.spotify.com/track/5CFrNBn5fJymiGNUn6D5dQ"
+    },
+    {
+      "added_at": "2026-08-13 22:01:18",
+      "album": {
         "name": "Bachata Bailando",
         "url": "https://open.spotify.com/album/1rUhjbgiVbhJNFYnoofqDg"
       },
@@ -43,22 +59,6 @@
     {
       "added_at": "2026-08-13 22:01:18",
       "album": {
-        "name": "Mijn Hart Is Geen Hotel",
-        "url": "https://open.spotify.com/album/1h3Yfx0APXvFXKF7VuxCd7"
-      },
-      "artists": [
-        {
-          "name": "Joeri Plaizier",
-          "url": "https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "Mijn Hart Is Geen Hotel",
-      "url": "https://open.spotify.com/track/3Xymr3jr9Kjx90KWXbjKg7"
-    },
-    {
-      "added_at": "2026-08-13 22:01:18",
-      "album": {
         "name": "Zomer, Zon & Strand",
         "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
       },
@@ -71,22 +71,6 @@
       "duration_ms": 189090,
       "name": "Zomer, Zon & Strand",
       "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
-    },
-    {
-      "added_at": "2026-08-13 22:01:18",
-      "album": {
-        "name": "Sjansen",
-        "url": "https://open.spotify.com/album/4E7hhC2EOWBxo3VZ0ksOiQ"
-      },
-      "artists": [
-        {
-          "name": "Henk Dissel",
-          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
-        }
-      ],
-      "duration_ms": 149057,
-      "name": "Sjansen",
-      "url": "https://open.spotify.com/track/5CFrNBn5fJymiGNUn6D5dQ"
     },
     {
       "added_at": "2026-08-13 22:01:18",
@@ -127,6 +111,38 @@
       "duration_ms": 150937,
       "name": "Ik Weet Dat Zij Het Ziet",
       "url": "https://open.spotify.com/track/51fX0yAXCfJ7Ka7SZ9G4Er"
+    },
+    {
+      "added_at": "2026-08-13 22:01:18",
+      "album": {
+        "name": "Mijn Hart Is Geen Hotel",
+        "url": "https://open.spotify.com/album/1h3Yfx0APXvFXKF7VuxCd7"
+      },
+      "artists": [
+        {
+          "name": "Joeri Plaizier",
+          "url": "https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "Mijn Hart Is Geen Hotel",
+      "url": "https://open.spotify.com/track/3Xymr3jr9Kjx90KWXbjKg7"
+    },
+    {
+      "added_at": "2026-08-13 22:01:18",
+      "album": {
+        "name": "Poppetjes In Jouw Ogen",
+        "url": "https://open.spotify.com/album/4jLOx05K2DHprsGwvBlvat"
+      },
+      "artists": [
+        {
+          "name": "Donny den Heijer",
+          "url": "https://open.spotify.com/artist/2wkF6FM62mmhOmWWArIpaI"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Poppetjes In Jouw Ogen",
+      "url": "https://open.spotify.com/track/4mjSDiUnNaLKA80e1Bp3sB"
     },
     {
       "added_at": "2026-08-13 22:01:18",
@@ -183,6 +199,22 @@
     {
       "added_at": "2026-08-13 22:01:18",
       "album": {
+        "name": "Hoef Niet Te Weten",
+        "url": "https://open.spotify.com/album/6RAM0lEfcvVsTXar9BjEsX"
+      },
+      "artists": [
+        {
+          "name": "Mike Oskam",
+          "url": "https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc"
+        }
+      ],
+      "duration_ms": 171778,
+      "name": "Hoef Niet Te Weten",
+      "url": "https://open.spotify.com/track/6SyHRSC7vcJBljdt7iUGMP"
+    },
+    {
+      "added_at": "2026-08-13 22:01:18",
+      "album": {
         "name": "Happie Sappie BBQ-tje (feat. Jean Paul)",
         "url": "https://open.spotify.com/album/4KyKM5a0BF2yortjIuIlkC"
       },
@@ -235,22 +267,6 @@
     {
       "added_at": "2026-08-13 22:01:18",
       "album": {
-        "name": "Poppetjes In Jouw Ogen",
-        "url": "https://open.spotify.com/album/4jLOx05K2DHprsGwvBlvat"
-      },
-      "artists": [
-        {
-          "name": "Donny den Heijer",
-          "url": "https://open.spotify.com/artist/2wkF6FM62mmhOmWWArIpaI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Poppetjes In Jouw Ogen",
-      "url": "https://open.spotify.com/track/4mjSDiUnNaLKA80e1Bp3sB"
-    },
-    {
-      "added_at": "2026-08-13 22:01:18",
-      "album": {
         "name": "Dat ben jij",
         "url": "https://open.spotify.com/album/3poYFHANmokGN1qU3MXMVJ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 162461,
       "name": "We Zijn Er",
       "url": "https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk"
-    },
-    {
-      "added_at": "2026-08-13 22:01:18",
-      "album": {
-        "name": "Hoef Niet Te Weten",
-        "url": "https://open.spotify.com/album/6RAM0lEfcvVsTXar9BjEsX"
-      },
-      "artists": [
-        {
-          "name": "Mike Oskam",
-          "url": "https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc"
-        }
-      ],
-      "duration_ms": 171778,
-      "name": "Hoef Niet Te Weten",
-      "url": "https://open.spotify.com/track/6SyHRSC7vcJBljdt7iUGMP"
     },
     {
       "added_at": "2026-08-13 22:01:18",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,509 likes - 339 songs - 19 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,512 likes - 339 songs - 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 2 | [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 |
-| 3 | [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 |
+| 3 | [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 |
 | 4 | [Big Strong Man](https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Big Strong Man](https://open.spotify.com/album/2KLdQb39rhE54nb7Razscv) | 3:49 |
 | 5 | [Sunday Afternoon](https://open.spotify.com/track/5c81ZZDMHloha09FQ207EI) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Sunday Afternoon](https://open.spotify.com/album/5jbogtfl96yGMlL5gDKu4B) | 4:17 |
 | 6 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |

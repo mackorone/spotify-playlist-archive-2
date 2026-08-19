@@ -2,7 +2,7 @@
 
 ### [スタジオ地図 \-Studio Chizu\-](https://open.spotify.com/playlist/37i9dQZF1DX0Bpaa30mJRd)
 
-> スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
+> スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。Music from Studio Chizu films.
 
 239 songs - 13 hr 1 min
 

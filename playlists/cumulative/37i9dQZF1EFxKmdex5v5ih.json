@@ -214,6 +214,24 @@
         {
           "name": "John Legend",
           "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "All She Wanna Do",
+      "url": "https://open.spotify.com/track/7vjT358D8LWnqUFMhMAJ1U"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
           "name": "Saweetie",
@@ -222,7 +240,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 184103,
       "name": "Love Me Like I Am",
       "url": "https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO"
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 187306,
       "name": "Love Me Like I Am",
       "url": "https://open.spotify.com/track/7J2X2dA3tQuYQowR2HEP35"
@@ -6837,6 +6855,28 @@
     },
     {
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Never Not Love You",
+      "url": "https://open.spotify.com/track/713xAF1q5XjxPi012W7JHL"
+    },
+    {
+      "album": {
         "name": "It\u2019s The End Of The World But It\u2019s A Beautiful Day",
         "url": "https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf"
       },
@@ -6848,7 +6888,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 194880,
       "name": "Never Not Love You",
       "url": "https://open.spotify.com/track/7Jx9gIEAsr32gtg2UJd9Gv"
@@ -9342,7 +9382,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 164800,
       "name": "Sway",
       "url": "https://open.spotify.com/track/0wtUHJEdlPn2xdam9EwXab"
@@ -11002,6 +11042,24 @@
       "duration_ms": 203000,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/3NBgl4mQhlu1pBzkXjK94D"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30c3\u30af\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fb\u30a2\u30eb\u30d0\u30e0 \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3",
+        "url": "https://open.spotify.com/album/3OozQ77kUnG9LvlVOoq0OP"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "\u30b9\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/0NXlbtX398CsJJnDLZrL5l"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFxKmdex5v5ih"

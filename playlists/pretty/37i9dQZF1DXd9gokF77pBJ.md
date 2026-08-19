@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,658 likes - 80 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,664 likes - 80 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 35 | [Saudade](https://open.spotify.com/track/2UhBELLsGSRMPPyhq4tz7w) | [DJ Meme](https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9) | [Saudade](https://open.spotify.com/album/0jvfLfAvjieD79U0Wj97jV) | 8:44 |
 | 36 | [REAL MOVE TOUCH \- Demi Riquísimo Remix](https://open.spotify.com/track/064BUuMwMp249HPdSa2u1E) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [5AM \(LA LA LA\)](https://open.spotify.com/album/6ZtKJzuIX165Njjzm4bshW) | 4:59 |
 | 37 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 |
-| 38 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
+| 38 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
 | 39 | [Why Can't We Live Together \- Dance Mix](https://open.spotify.com/track/03D5kL0VCxprd9Whxs0GUl) | [Mary Hubert ‎](https://open.spotify.com/artist/5Go8NXGC6mzMUWj7frJgvJ) | [I'm Coming on the Scene](https://open.spotify.com/album/4o03e5C0jhzgRwLwls7gBV) | 5:33 |
 | 40 | [Dancing](https://open.spotify.com/track/1qo73xzP8Q4I3VpiUyJCTT) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [See in the Sun](https://open.spotify.com/album/4HLsFZqaZmt7niRCbIiToL) | 3:57 |
 | 41 | [One Light in a Blackout](https://open.spotify.com/track/6dQn0N614uHOd9BoCJ3icq) | [The Quick](https://open.spotify.com/artist/5aZETKCwPFImGYeN6c7yV7) | [Fascinating Rhythm](https://open.spotify.com/album/2rStrBbJG7k47JZ8r2E0br) | 3:32 |

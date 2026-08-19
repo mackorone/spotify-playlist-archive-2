@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,608 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,628 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 37 | [Đổi Tư Thế](https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Đổi Tư Thế](https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl) | 3:47 |
 | 38 | [ABG](https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2) | [nhan.](https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t), [Xuanpac](https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM) | [ABG](https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l) | 3:00 |
 | 39 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 |
-| 40 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
-| 41 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
+| 40 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
+| 41 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
 | 42 | [Tấm Lòng Cửu Long](https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4) | [ĐÔI CHÂN ĐI](https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs) | 5:44 |
 | 43 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
 | 44 | [Berlin](https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v) | [Khoi Vu](https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93) | [Berlin](https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE) | 2:18 |

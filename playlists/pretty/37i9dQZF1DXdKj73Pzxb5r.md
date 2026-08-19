@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Atlesta
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,214 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,215 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 22 | [ROSES](https://open.spotify.com/track/5G4ijkq6GDdMYLKRMvz3rV) | [BEEMS](https://open.spotify.com/artist/3yMqTkJp45JOiDtMvfcS8r) | [REFLECTIONS](https://open.spotify.com/album/24Sb1huCPgcnMD0amvFZak) | 2:47 |
 | 23 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
 | 24 | [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 |
-| 25 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 |
+| 25 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:40 |
 | 26 | [Pikiran Yang Matang](https://open.spotify.com/track/4HZ4tasa7sislo5BbOOBfm) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Pikiran Yang Matang](https://open.spotify.com/album/2gdKHKZfqOqGCwJiyEe2K8) | 3:12 |
 | 27 | [Riuh Suara](https://open.spotify.com/track/5oQPQikJWsU0VlqZX2ym5m) | [Fostan](https://open.spotify.com/artist/0YmE9ep0aRPQtyj19FZdqj) | [Riuh Suara](https://open.spotify.com/album/1TSa48dGCMTZU399owez9V) | 5:19 |
 | 28 | [Warm Weather \- Live from Classic Love Songs](https://open.spotify.com/track/30uDQUslGz3nEMoeIpxLsz) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG), [Sheila Dara Aisha](https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh) | [Warm Weather \(Live from Classic Love Songs\)](https://open.spotify.com/album/04E6qJ3dAOWutgEka5TQFf) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,044 likes - 330 songs - 1 day 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,058 likes - 341 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -338,5 +338,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 328 | [Clouds](https://open.spotify.com/track/3lKWmAMpLDHNp5XWIAkDUR) | [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [Clouds](https://open.spotify.com/album/3yEgkrX4OzTkaoVAnUsglo) | 7:12 |
 | 329 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 |
 | 330 | [South](https://open.spotify.com/track/6ewMrXOPZWzzx7MbLmXkWS) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [Cardinals](https://open.spotify.com/album/3mPpH1l17FOvqo6YRjbMw8) | 5:40 |
+| 331 | [Endlessly \(feat\. BEA1991\) \- Radio Edit](https://open.spotify.com/track/4iJfToaAEtdhjn029TzDDg) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Endlessly \(feat\. BEA1991\) \- Radio Edit](https://open.spotify.com/album/3wEjcze4RdFlk4byKR9T9z) | 3:50 |
+| 332 | [Some Lovin'](https://open.spotify.com/track/5f8a5o83cFkWV5pzfAFUQp) | [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF) | [Sunset Breaker](https://open.spotify.com/album/4mAacSAE2aZwAv4SFccjBo) | 5:27 |
+| 333 | [TAA YA KESHO \- Enzo Siffredi's Disco Edit](https://open.spotify.com/track/5huGYfdUKU1hyi6GHjAutK) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ) | [TAA YA KESHO](https://open.spotify.com/album/4p4fZA1hUafYNBzDxixnC8) | 2:41 |
+| 334 | [Everybody Get Up](https://open.spotify.com/track/2cQqfqBxdoXryZMFzv8r87) | [Capriccio](https://open.spotify.com/artist/1OM5G1Q7diabd6kDwfGMLj) | [Everybody Get Up](https://open.spotify.com/album/4Piw6fA5cxWvZ47HfGSzow) | 3:00 |
+| 335 | [Got Funk? \(DJ Tonka Mix\)](https://open.spotify.com/track/5GcIIxcl9E7RbMMZ920Sat) | [The Funk Junkeez](https://open.spotify.com/artist/05kTQpfjC10P9CWQbyJay3), [DJ Tonka](https://open.spotify.com/artist/0s8zZnjADp3VDjGiBpQ0yx) | [Got Funk? \(Remixes\)](https://open.spotify.com/album/2IjI7hCpz3mqb7cAG9gxL2) | 6:04 |
+| 336 | [2 This](https://open.spotify.com/track/3w279MytnD2mTE35NZlDIK) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Deniz Tekin \(TR\)](https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [2 This](https://open.spotify.com/album/2oI52fF7Nw0jHuKYSYDZ86) | 3:07 |
+| 337 | [Mobile Groove](https://open.spotify.com/track/5dy1bdvVpdW62kizAWUACU) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Mobile Groove](https://open.spotify.com/album/2njt1aVBaYxJLhWsdffPvD) | 3:39 |
+| 338 | [Ride On Me](https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Ride On Me](https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4) | 3:49 |
+| 339 | [Landslide](https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Landslide](https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU) | 3:02 |
+| 340 | [Walking On A Dream \- Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/1amxeKLCkKqHmSLOGGs6Wr) | 3:52 |
+| 341 | [Disco Baile \- Dança Tardia Mix](https://open.spotify.com/track/7yi2lu0fRop8m7pdzBzCB2) | [Akalex](https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Disco Baile \(Dança Tardia Mix\)](https://open.spotify.com/album/3rrFiERlK4B7B25wUuQXZC) | 3:47 |
 
-Snapshot ID: `AAAAAKHkKM0vzHBNN+7UJWcBD8PghMfi`
+Snapshot ID: `AAAAAEZ44RmyJAww5/eDewTdwApS/dgq`

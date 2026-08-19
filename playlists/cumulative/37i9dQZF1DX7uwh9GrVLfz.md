@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: KNOCK OUT MONKEY
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: TOTALFAT
 
-911 songs - 2 day 0 hr 1 min
+913 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Betty](https://open.spotify.com/track/1xLlG6M2xQgLJA1WMgeORO) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Travel The Galaxy](https://open.spotify.com/album/4hgbIPdkKiarkm4cNqw3gd) | 4:36 | 2022-07-19 | 2023-10-25 |
 | [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 | 2023-03-28 |  |
 | [BIG FUCKIN' NOISE](https://open.spotify.com/track/40iH0JrI2n4UTKkzWgIWYq) | [Burl](https://open.spotify.com/artist/2ZgiouPek6RJYWMttaR7gw) | [JUST PUNK,GO!!](https://open.spotify.com/album/3MwwFxDX15mBkUCjkPaV0Z) | 2:41 | 2022-05-24 | 2022-07-24 |
+| [BIRDMAN](https://open.spotify.com/track/7vbCgfsSfRKuz3h3W1WCsS) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [BIRDMAN](https://open.spotify.com/album/5tvWHSaAqx2QWDveVqc0G6) | 4:40 | 2026-08-18 |  |
 | [BLESS](https://open.spotify.com/track/7gi73b1NfTb3K23qzXTkGY) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [NETH](https://open.spotify.com/album/3bX09wKzqYqEGEKSEaoS2J) | 2:35 | 2022-05-17 | 2022-07-27 |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-02-28 | 2023-11-16 |
 | [Blooming the Tank\-top](https://open.spotify.com/track/7BYmkuVFNzR0RvSStnZ9W0) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 2:14 | 2023-11-14 | 2023-11-29 |
@@ -96,7 +97,7 @@
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-05-11 |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 |  |
-| [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 | 2025-02-25 |  |
+| [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 | 2025-02-25 | 2026-08-19 |
 | [CHANGE](https://open.spotify.com/track/4n4VNZKDtShFyoM77L2Gni) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/5aVvzWfairbdVBAT4LnP18) | 2:23 | 2024-04-16 | 2025-03-19 |
 | [CHANGE](https://open.spotify.com/track/5T2GDBSTn6wM21iNWM6Eik) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/37bmqz9g2Y0PdOWcxQRKaX) | 2:23 | 2024-04-16 | 2024-04-19 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
@@ -269,7 +270,7 @@
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-04-19 |
 | [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 | 2023-01-11 |
 | [Juggling](https://open.spotify.com/track/70YGqUBNdA30qVJF7ugRwC) | [HPCP](https://open.spotify.com/artist/72kIwXb0A0YB76BqSt1JDw) | [Juggling](https://open.spotify.com/album/4vHwALMqMouRPeV542w1T2) | 2:58 | 2023-04-18 | 2023-07-05 |
-| [JUST A NUMBER](https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [JUST A NUMBER](https://open.spotify.com/album/6uUKinKzdRNdFAjvRqVlNT) | 2:19 | 2026-03-10 |  |
+| [JUST A NUMBER](https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [JUST A NUMBER](https://open.spotify.com/album/6uUKinKzdRNdFAjvRqVlNT) | 2:19 | 2026-03-10 | 2026-08-19 |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2022-12-20 | 2024-03-08 |
 | [Ka Waii Inu](https://open.spotify.com/track/5AIstB4OJX9BmqLbiG6766) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [Ka Waii Inu](https://open.spotify.com/album/36Ekc9YFr5GhzqLusz4IcJ) | 1:44 | 2022-06-07 | 2022-07-20 |
@@ -410,6 +411,7 @@
 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 | 2022-05-12 | 2024-06-01 |
 | [Open Up My Heart](https://open.spotify.com/track/3ITmLRVfTAQkdBgCUyrBeA) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS) | 3:43 | 2023-12-19 | 2024-04-19 |
 | [Orange Night](https://open.spotify.com/track/6KZPFuYlff4NA8Q9nIgWUv) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Orange Night](https://open.spotify.com/album/2O2s9JdtTXJtXGKShSQtel) | 3:34 | 2023-10-10 | 2023-11-01 |
+| [OUR CHANT](https://open.spotify.com/track/6u8ZiaiFwdoBmLPxx8ZONa) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [OUR CHANT](https://open.spotify.com/album/78JNVsNhCKNNoRNMNraZVJ) | 3:35 | 2026-08-18 |  |
 | [Our House](https://open.spotify.com/track/3ifwpICoKxqFIbGqkBMEVF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DIZZYLAND \-To Infinity & Beyond\-](https://open.spotify.com/album/3QZv7ZWvLzPmL0aJqx2QMM) | 1:54 | 2022-05-12 | 2022-07-28 |
 | [Our Song](https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Our Song](https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n) | 2:42 | 2025-10-14 |  |
 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 | 2022-10-25 | 2023-01-13 |

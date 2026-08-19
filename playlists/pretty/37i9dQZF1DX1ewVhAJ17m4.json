@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604417,
+  "num_followers": 604435,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Evil Is Contagious",
-        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
+        "name": "Wrist",
+        "url": "https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "Like Roses",
+          "url": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI"
         }
       ],
-      "duration_ms": 196097,
-      "name": "Evil Is Contagious",
-      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
+      "duration_ms": 202911,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -639,18 +635,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Wrist",
-        "url": "https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD"
+        "name": "Evil Is Contagious",
+        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
       },
       "artists": [
         {
-          "name": "Like Roses",
-          "url": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI"
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 202911,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz"
+      "duration_ms": 196097,
+      "name": "Evil Is Contagious",
+      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 208168,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "77 (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 173842,
       "name": "77 - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
+      },
+      "artists": [
+        {
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+        }
+      ],
+      "duration_ms": 208168,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Still There\u2019s a Glow",
         "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 168365,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "FAKE FEELINGS",
+        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
+      },
+      "artists": [
+        {
+          "name": "all in ur head",
+          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "FAKE FEELINGS",
+      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "LET'S DO SOMETHING STUPID!",
         "url": "https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 165106,
       "name": "Right Thing, Wrong Time (feat. State Champs)",
       "url": "https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "FAKE FEELINGS",
-        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
-      },
-      "artists": [
-        {
-          "name": "all in ur head",
-          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "FAKE FEELINGS",
-      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Someone You Need",
-        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "Someone You Need",
-      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "INMYFEELINGS",
         "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 212464,
       "name": "INMYFEELINGS",
       "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Someone You Need",
+        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "Someone You Need",
+      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Circulate",
-        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Circulate",
-      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Nice to Know Ya",
         "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "LANDSLIDE",
-        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
+        "name": "F.O.M.O.",
+        "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
         }
       ],
-      "duration_ms": 149943,
-      "name": "LANDSLIDE",
-      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
+      "duration_ms": 180563,
+      "name": "F.O.M.O.",
+      "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

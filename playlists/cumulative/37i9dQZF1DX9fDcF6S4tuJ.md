@@ -4,7 +4,7 @@
 
 > Music from all your favorite Disney Princesses, in one place!
 
-83 songs - 4 hr 3 min
+84 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Strong](https://open.spotify.com/track/7CMUQu028pU9oKOFMI6pgK) | [Sonna Rele](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:14 | 2022-10-07 |  |
 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 | 2022-10-07 |  |
 | [Time to Shine](https://open.spotify.com/track/1qDhlnqtKmW1VUcr7rcz6m) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Sofia the First: Royal Magic](https://open.spotify.com/album/1j0tuWhwfJUN7MbkVZYyQj) | 3:35 | 2026-05-12 |  |
+| [Time to Shine x Princess Things \(Mashup\) \- From "Disney Jr\. Music: Sofia the First: Royal Magic"](https://open.spotify.com/track/5ucu0vxmDOaimZ7XxXf2C2) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Time to Shine x Princess Things \(Mashup\) \[From "Disney Jr\. Music: Sofia the First: Royal Magic"\]](https://open.spotify.com/album/0B3dsbmhxJ4jN2MYka58ni) | 2:46 | 2026-08-18 |  |
 | [Touch The Sky](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave \(Original Soundtrack\)](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2022-10-07 |  |
 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 | 2022-10-07 | 2025-08-09 |
 | [Under the Sea \- From "The Little Mermaid Live!"](https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:01 | 2022-10-07 |  |

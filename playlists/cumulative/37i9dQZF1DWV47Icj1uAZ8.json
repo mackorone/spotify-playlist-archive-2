@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Insecure: Music from the HBO Original Series",
+        "url": "https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412746,
+      "name": "Just Sayin/I Tried",
+      "url": "https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP"
+    },
+    {
+      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 153678,
       "name": "Lovin' care",
       "url": "https://open.spotify.com/track/0snwRfpyISNV2KbcE2qi5x"

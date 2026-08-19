@@ -267,6 +267,32 @@
     },
     {
       "album": {
+        "name": "Pops by Gershwin",
+        "url": "https://open.spotify.com/album/5XDj9LQbR146F2jPn1XT9y"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1129000,
+      "name": "An American in Paris",
+      "url": "https://open.spotify.com/track/5CVsrupwZymCurjjZnKJEd"
+    },
+    {
+      "album": {
         "name": "Gershwin: Rhapsody in Blue & An American in Paris",
         "url": "https://open.spotify.com/album/7y2gHGuQhJmesRiNO8d8fK"
       },
@@ -290,7 +316,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 1102666,
       "name": "An American in Paris",
       "url": "https://open.spotify.com/track/7tMaOTu32tb7G2Ieb9ULY8"
@@ -531,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Louis Armstrong - Ambassador Of Jazz",
+        "url": "https://open.spotify.com/album/3NRBwvX8B43GPwaKvoz9YJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Bess Oh Where Is My Bess - Take 7",
+      "url": "https://open.spotify.com/track/4XANuyIDiVLpS31XaoVRLS"
+    },
+    {
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -692,7 +740,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 127506,
       "name": "Carnival of the Animals: XIV. Finale",
       "url": "https://open.spotify.com/track/34o2Cs7e6bhDyLIDo9NHKc"
@@ -795,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Jazz Milestones Of A Legend (Volume 2)",
+        "url": "https://open.spotify.com/album/6lijpcFrYlFDzGnk33Gce5"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132493,
+      "name": "Clara, Clara",
+      "url": "https://open.spotify.com/track/6Ix0GmwBVQ4UmwFAsc6glc"
+    },
+    {
+      "album": {
         "name": "Porgy and Bess Orginal Soundtrack",
         "url": "https://open.spotify.com/album/6NbKxWV0JWaSTEC04s7tmT"
       },
@@ -806,7 +872,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 132022,
       "name": "Clara, Clara",
       "url": "https://open.spotify.com/track/0WdBhy00aM0nMwyKwG4RTs"
@@ -982,7 +1048,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 642240,
       "name": "Cuban Overture",
       "url": "https://open.spotify.com/track/4yHx7vheDab2WI2KaKJlp7"
@@ -1181,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Crazy In Love",
+        "url": "https://open.spotify.com/album/31oP0TQVjziNjm2zcQrEXi"
+      },
+      "artists": [
+        {
+          "name": "Trudy Richards",
+          "url": "https://open.spotify.com/artist/1GNq2Q61FhY8llR7w4Npuw"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2S99AXadsDHfrvkmaYfclY"
+    },
+    {
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -1362,6 +1446,24 @@
       "duration_ms": 186289,
       "name": "Finale",
       "url": "https://open.spotify.com/track/7MWVH7pW2cRUNey45UFgSL"
+    },
+    {
+      "album": {
+        "name": "Lady and the Tramp (1955 Film Score)",
+        "url": "https://open.spotify.com/album/2bDCjSVK1wjEaPT5YpgtyR"
+      },
+      "artists": [
+        {
+          "name": "Oliver Wallace",
+          "url": "https://open.spotify.com/artist/497FibW7265st1H0UfpGb2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31608,
+      "name": "Finale (Peace on Earth)",
+      "url": "https://open.spotify.com/track/3H8IIZI6JdeAPWRRKDTnEl"
     },
     {
       "album": {
@@ -1723,6 +1825,32 @@
     },
     {
       "album": {
+        "name": "Gershwin: Porgy and Bess, Second Rhapsody & Cuban Overture",
+        "url": "https://open.spotify.com/album/4D9qJjd4KzxNh1NyGwfvL3"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638866,
+      "name": "Gershwin: Cuban Overture",
+      "url": "https://open.spotify.com/track/7BjKLdCKS6SSfmqDGjnCxg"
+    },
+    {
+      "album": {
         "name": "Gershwin: Songs",
         "url": "https://open.spotify.com/album/6aFK6TPiZxoiW3cOm8cbnJ"
       },
@@ -1738,7 +1866,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 79000,
       "name": "Gershwin: George Gershwin\u2019s Songbook: III. Do It Again!",
       "url": "https://open.spotify.com/track/5h6T13kSu54BYAuTO8JTrW"
@@ -1931,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/5pplTeBAdCT686ubsru4sy"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156499,
+      "name": "Gone, Gone, Gone",
+      "url": "https://open.spotify.com/track/5W6KBABgwJCHerTlS6uyal"
+    },
+    {
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -1942,7 +2088,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 123240,
       "name": "Gone, Gone, Gone",
       "url": "https://open.spotify.com/track/7JXspV8huWhAauiO8cGVLr"
@@ -2386,7 +2532,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 197933,
       "name": "I'll Build a Stairway to Paradise",
       "url": "https://open.spotify.com/track/3Hezg6pbMg16P0ULWT27Ef"
@@ -2412,6 +2558,24 @@
       "duration_ms": 182200,
       "name": "I'm a poached egg",
       "url": "https://open.spotify.com/track/2P4P55eCP2eBTYfQl6ncwk"
+    },
+    {
+      "album": {
+        "name": "The Complete Swing Time and Down Beat Recordings 1949-1952",
+        "url": "https://open.spotify.com/album/5Wjc13isw4ALxbnl3lpOYw"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "I'm Glad For Your Sake",
+      "url": "https://open.spotify.com/track/4FqVjtoL6gasXOlSo9EAb9"
     },
     {
       "album": {
@@ -3068,7 +3232,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 172026,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/6emQ1WjX5cYHPOxlwjSVfo"
@@ -3519,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/6YlVEUAlESM2XDeSsP8Mck"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Nocturne No. 20 In C Sharp Minor, Op. posth.",
+      "url": "https://open.spotify.com/track/4IXkJT50BYjgnjEiMQ0iy0"
+    },
+    {
+      "album": {
         "name": "COLLEGROVE",
         "url": "https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD"
       },
@@ -3588,6 +3774,24 @@
       "duration_ms": 302533,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/3uU9xb3RmfQEwbnlikdKJM"
+    },
+    {
+      "album": {
+        "name": "Music Legends Ella Fitzgerald : The Queen of Jazz",
+        "url": "https://open.spotify.com/album/7B2tnnifSjWcT3huqMmOcS"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192841,
+      "name": "Oh ! Lady Be Good",
+      "url": "https://open.spotify.com/track/0qWibmvlGQAG605S9UgKfi"
     },
     {
       "album": {
@@ -3730,7 +3934,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 156000,
       "name": "Oh, Bess, Oh Where Is My Bess - Porgy And Bess",
       "url": "https://open.spotify.com/track/2oneMMjAJKhyfsQeFMxYUp"
@@ -3788,7 +3992,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 241600,
       "name": "Oh, Lady Be Good",
       "url": "https://open.spotify.com/track/0NR8vZH2fmIG0HDqYnYMpS"
@@ -4175,6 +4379,36 @@
     },
     {
       "album": {
+        "name": "Gershwin: Concerto in F Major & Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/5BhAIgblYEYZlCOlhkhHje"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Andre Kostelanetz",
+          "url": "https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM"
+        },
+        {
+          "name": "Andr\u00e9 Kostelanetz Orchestra",
+          "url": "https://open.spotify.com/artist/2bGYqwJAjJlq3OLlGUtcte"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390533,
+      "name": "Piano Concerto in F Major: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/4PJqOpoMPZCZtqzfNMmZpZ"
+    },
+    {
+      "album": {
         "name": "Gershwin: I Got Rhythm/Piano Concerto in F/Rhapsody No.2, etc.",
         "url": "https://open.spotify.com/album/03xRpBgJGzWj3X0tcrOg3H"
       },
@@ -4198,7 +4432,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 766573,
       "name": "Piano Concerto in F: 1. Allegro",
       "url": "https://open.spotify.com/track/0EWCclJHzzzqSnDSRL43qq"
@@ -4716,10 +4950,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 650666,
       "name": "Porgy And Bess: Overture",
       "url": "https://open.spotify.com/track/159pOXfbpvaeyjsxKM37i6"
+    },
+    {
+      "album": {
+        "name": "Simply ... Lady Day! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2jJ60Qg532ifJGVK2MQeYR"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Billie Holliday and her orchestra",
+          "url": "https://open.spotify.com/artist/5VPIv4bHtFGouKtVvOiiox"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173050,
+      "name": "Porgy and Bess: Summertime",
+      "url": "https://open.spotify.com/track/6V12lfy9gVzwv5V6l4r6yU"
     },
     {
       "album": {
@@ -5174,7 +5430,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 174040,
       "name": "Slap That Bass",
       "url": "https://open.spotify.com/track/09yXz4KyyB3jhGZKPIK6lv"
@@ -5196,6 +5452,24 @@
       "duration_ms": 174040,
       "name": "Slap That Bass",
       "url": "https://open.spotify.com/track/1oYbqlkhiGnDUKmxtybAHX"
+    },
+    {
+      "album": {
+        "name": "Hollywood Legend",
+        "url": "https://open.spotify.com/album/0oqiAlrLH16G2ZC8iEXIjB"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Slap That Bass",
+      "url": "https://open.spotify.com/track/7ft1Ni2TyQuknAG01HfghW"
     },
     {
       "album": {
@@ -5228,10 +5502,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 109853,
       "name": "Stand Up And Fight",
       "url": "https://open.spotify.com/track/1C3X9PRRCYDu8P9Ys5ZDsm"
+    },
+    {
+      "album": {
+        "name": "George & Ira Gershwin",
+        "url": "https://open.spotify.com/album/097Gaghey9U1tnUgBSKKbd"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108946,
+      "name": "Stand Up and Fight",
+      "url": "https://open.spotify.com/track/2dHtjY29d2umIhvo6tBVYY"
     },
     {
       "album": {
@@ -5320,7 +5616,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 167121,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj"
@@ -5378,7 +5674,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 174210,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2bZ00g0QNNHnLkoEdR9IUk"
@@ -5791,6 +6087,32 @@
     },
     {
       "album": {
+        "name": "Prokofiev: Peter en de Wolf / Tchaikovsky: Nutcracker Suite",
+        "url": "https://open.spotify.com/album/1jkdnN43o7O3udrcZDuvoQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "The Nutcracker (Suite), Op. 71a, TH 35: I. Miniature Overture",
+      "url": "https://open.spotify.com/track/5eJf9LimpMWzWsECBa05EA"
+    },
+    {
+      "album": {
         "name": "Oh, Kay! (The Original Cast Album)",
         "url": "https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o"
       },
@@ -6183,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/4yClF06uCVCJ56Z7VlRur4"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Why Do I Love You",
+      "url": "https://open.spotify.com/track/2WapDJqr2ZLZs05YREkcUz"
+    },
+    {
+      "album": {
         "name": "The Complete Birth Of The Cool",
         "url": "https://open.spotify.com/album/2mth0Fzczu9JHVzoaAEucl"
       },
@@ -6194,7 +6534,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 221986,
       "name": "Why Do I Love You - Live At The Royal Rooster, New York, September 4, 1948 / Remastered",
       "url": "https://open.spotify.com/track/5NZ0z31vwGvlYw2Xad67US"
@@ -6256,6 +6596,24 @@
       "duration_ms": 185546,
       "name": "WISH - Korean Ver.",
       "url": "https://open.spotify.com/track/7uRWaWF70gvKmLhpY3FuaJ"
+    },
+    {
+      "album": {
+        "name": "Welcome to My Dream",
+        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195030,
+      "name": "Woodchopper\u2019s Ball",
+      "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
     },
     {
       "album": {

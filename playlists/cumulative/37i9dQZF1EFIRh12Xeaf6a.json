@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/0pnYReWt5KR8S6272Eyls6"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/77eW2Zub817V3PrhMq4iH5"
+    },
+    {
+      "album": {
         "name": "The Drifters: Essentials",
         "url": "https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1"
       },
@@ -92,6 +110,28 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "album": {
+        "name": "Chopin : 24 Etudes",
+        "url": "https://open.spotify.com/album/7hCtWy1Pz9mV2ogkJlrQct"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Werner Haas",
+          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114346,
+      "name": "12 \u00c9tudes, Op. 10: No. 1 in C Major \"Waterfall\"",
+      "url": "https://open.spotify.com/track/4cDq5So5CUg5IXtt3CBT8l"
     },
     {
       "album": {
@@ -167,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Wrap Around Joy",
+        "url": "https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "A Night This Side Of Dying",
+      "url": "https://open.spotify.com/track/4XhYnljcVklOn1t0odUPG2"
+    },
+    {
+      "album": {
         "name": "Breaking Up",
         "url": "https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa"
       },
@@ -178,10 +236,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 181560,
       "name": "A Night This Side of Dying",
       "url": "https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf"
+    },
+    {
+      "album": {
+        "name": "A Picture of You",
+        "url": "https://open.spotify.com/album/6YElCeg2b6tbgEqCK3QGVc"
+      },
+      "artists": [
+        {
+          "name": "Joe Brown",
+          "url": "https://open.spotify.com/artist/7kahNN1zgjhLViJkX7retp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "A Picture of You",
+      "url": "https://open.spotify.com/track/2j9rtpd802e51zd8IUlP53"
     },
     {
       "album": {
@@ -510,6 +586,24 @@
       "duration_ms": 203133,
       "name": "Back to California",
       "url": "https://open.spotify.com/track/3Z6TINjEOYAkyUs4EqfqDl"
+    },
+    {
+      "album": {
+        "name": "Let's Face The Music (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162706,
+      "name": "Ballerina - Remastered",
+      "url": "https://open.spotify.com/track/34VaaD2liI7funCOXzxfge"
     },
     {
       "album": {
@@ -914,7 +1008,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 145080,
       "name": "Chains - Remastered 2009",
       "url": "https://open.spotify.com/track/3JQWLa88R35d971o5bIImd"
@@ -972,6 +1066,24 @@
       "duration_ms": 143880,
       "name": "Cheating (Bonus Track)",
       "url": "https://open.spotify.com/track/5Yl623nUsrMf5QBe5dvzb3"
+    },
+    {
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Cherie, I Love You",
+      "url": "https://open.spotify.com/track/7LPPkBgnwPGiWMJ5e3qcku"
     },
     {
       "album": {
@@ -1065,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "Contigo - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ"
       },
@@ -1130,7 +1260,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 120720,
       "name": "Crying In The Rain",
       "url": "https://open.spotify.com/track/5cNKTXDRPrHJuRRv2bmasg"
@@ -1170,6 +1300,24 @@
       "duration_ms": 248600,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt"
+    },
+    {
+      "album": {
+        "name": "Ballads Of The Day",
+        "url": "https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178293,
+      "name": "Darling, Je Vous Aime Beaucoup - Remastered 1992",
+      "url": "https://open.spotify.com/track/6GgHTkhgXHIAa33TdhoVpk"
     },
     {
       "album": {
@@ -1357,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/4t3JszDMGnKP2W8xElXe2n"
+    },
+    {
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -1386,7 +1552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 167733,
       "name": "Don't Forget About Me - English Version",
       "url": "https://open.spotify.com/track/4xcetql7VB5LNzluIYrfah"
@@ -1422,10 +1588,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 143466,
       "name": "Don't Let Me Stand In Your Way",
       "url": "https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c"
+    },
+    {
+      "album": {
+        "name": "I Can't Believe That It's All Over",
+        "url": "https://open.spotify.com/album/7fNMbJIGHM7nPe5VZCfK3S"
+      },
+      "artists": [
+        {
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147563,
+      "name": "Don't Let Me Stand In Your Way",
+      "url": "https://open.spotify.com/track/0E4dDTuwXJaMXC4CXFHE3X"
     },
     {
       "album": {
@@ -1465,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Donna - Single Version",
+      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
+    },
+    {
+      "album": {
         "name": "\u30c1\u30a7\u30a4\u30f3\u30ba\u30fb\u30aa\u30d6\u30fb\u30e9\u30f4\u3001\u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3\u30fb\u30a4\u30e4\u30fc\u30ba 1962-1964",
         "url": "https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ"
       },
@@ -1476,7 +1678,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 167306,
       "name": "DON\u2019T SAY NOTHIN\u2019 BAD (ABOUT MY BABY)",
       "url": "https://open.spotify.com/track/5daFq8BS9F0wyOHzSBIsbA"
@@ -1663,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Bless Me Jah",
+        "url": "https://open.spotify.com/album/1EasUoBIouYGdn0w4xTRwh"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5OQApX0SS8PnzG6YVwPn3I"
+    },
+    {
+      "album": {
         "name": "Dreaming In Color",
         "url": "https://open.spotify.com/album/4VhgYmYwX9pu6S1O3IDEqA"
       },
@@ -1728,7 +1948,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 168573,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4sG208ZylYAV8cgz1xhcB5"
@@ -1933,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
+        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "Farewell To Arms",
+      "url": "https://open.spotify.com/track/0k3RnZaWU2Mph5dN1dIUiV"
+    },
+    {
+      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -2093,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "I Just Want to Stay Here and Love You",
+        "url": "https://open.spotify.com/album/3YrhKLikMGKR9ZdAX6KXZj"
+      },
+      "artists": [
+        {
+          "name": "Steve Lawrence",
+          "url": "https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p"
+        },
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136385,
+      "name": "Go Away Little Girl",
+      "url": "https://open.spotify.com/track/04QTAdvB2VHSGkaVrQR4uM"
+    },
+    {
+      "album": {
         "name": "Essential Classics, Vol. 16: Steve Lawrence",
         "url": "https://open.spotify.com/album/4QNsKDSEVji4sM98Yer9ej"
       },
@@ -2108,7 +2368,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 131264,
       "name": "Go Away Little Girl (2023 Remastered)",
       "url": "https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE"
@@ -2288,7 +2548,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 147200,
       "name": "Halfway to Paradise",
       "url": "https://open.spotify.com/track/5dUBXFkqGGLkl4Cf6A3AoU"
@@ -2468,7 +2728,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 156720,
       "name": "He Knows I Love Him Too Much",
       "url": "https://open.spotify.com/track/5bIZ0kat8I6l1UbwpHwGEA"
@@ -2630,7 +2890,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 136197,
       "name": "Help Me (Find the Way Back to Your Heart",
       "url": "https://open.spotify.com/track/06bZN8p1dBhpoQZLL5BmAD"
@@ -2648,7 +2908,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 135773,
       "name": "HER ROYAL MAJESTY",
       "url": "https://open.spotify.com/track/46whxvV6ClZevcKbPwXKZt"
@@ -2738,7 +2998,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 159520,
       "name": "HE\u2019S IN TOWN",
       "url": "https://open.spotify.com/track/6O8EwrqSfaZkeWx8gNuiif"
@@ -2864,7 +3124,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 126733,
       "name": "How Many Tears",
       "url": "https://open.spotify.com/track/5gd2WpEBaSaMAcvSPaIgBj"
@@ -2907,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "I Am In Love - Remastered",
+      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
+    },
+    {
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/0tgyeTIjag0u6wTtwoN4xA"
       },
@@ -2940,6 +3218,24 @@
       "duration_ms": 352060,
       "name": "I Can't Hear You No More",
       "url": "https://open.spotify.com/track/0eDpq3XyvGUyrf01jfUSCy"
+    },
+    {
+      "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "I Can't Leave You Alone (I Keep Holdin' On)",
+      "url": "https://open.spotify.com/track/05UOD6Y4NGV9yZLOFbO6FM"
     },
     {
       "album": {
@@ -3066,7 +3362,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 206520,
       "name": "I Didn't Have Any Summer Romance",
       "url": "https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ"
@@ -3596,7 +3892,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 129400,
       "name": "In My Baby's Eyes",
       "url": "https://open.spotify.com/track/32zbUpQkKszTiXse7wr1Ke"
@@ -3686,7 +3982,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 147573,
       "name": "It Might as Well Rain Until September",
       "url": "https://open.spotify.com/track/18NtcPaUBR58Lq6A6bMdXf"
@@ -4140,7 +4436,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 131466,
       "name": "Keep Your Love Locked",
       "url": "https://open.spotify.com/track/33qJXj0gUexHxx6NYxXNku"
@@ -4756,7 +5052,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 229906,
       "name": "Music",
       "url": "https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV"
@@ -4828,10 +5124,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 111000,
       "name": "My Golden Chance",
       "url": "https://open.spotify.com/track/57rmNbG3bPXZJzUZwPks2Z"
+    },
+    {
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "My Heart Tells Me (Should I Believe My Heart?)",
+      "url": "https://open.spotify.com/track/7hkRGmkCepXlmSmoGrmxG1"
     },
     {
       "album": {
@@ -5008,7 +5322,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 136126,
       "name": "Nobody's Perfect - Remastered",
       "url": "https://open.spotify.com/track/2xM7zSjKT06SCSe98acN51"
@@ -5048,7 +5362,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 154586,
       "name": "Oh No Not My Baby",
       "url": "https://open.spotify.com/track/31Q9wZ9P9tHp2zJLU3UF4H"
@@ -5289,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/0pnYReWt5KR8S6272Eyls6"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150546,
+      "name": "Orange Colored Sky (2002 - Remaster)",
+      "url": "https://open.spotify.com/track/0ZLk8B1vrz0DMomtbcVZuw"
+    },
+    {
+      "album": {
         "name": "Out In the Cold",
         "url": "https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91"
       },
@@ -5415,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Pisces, Aquarius, Capricorn & Jones Ltd.",
+        "url": "https://open.spotify.com/album/3NauSOiaCDwAUJVswXCoLO"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Pleasant Valley Sunday",
+      "url": "https://open.spotify.com/track/2yMqMxz19l3dpQirtIRdaz"
+    },
+    {
+      "album": {
         "name": "Pisces, Aquarius, Capricorn & Jones Ltd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF"
       },
@@ -5426,7 +5776,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 194466,
       "name": "Pleasant Valley Sunday - 2007 Remaster",
       "url": "https://open.spotify.com/track/2HqB3VSdiYmDkTTCPzVHOf"
@@ -5480,7 +5830,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 136026,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/022RNZj1eViVOTadshGBAF"
@@ -6029,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Brian Hyland - In Concert at Little Darlin's Rock 'n' Roll Palace (Live)",
+        "url": "https://open.spotify.com/album/29k9ZqK6fRK2Ndjga8XfbK"
+      },
+      "artists": [
+        {
+          "name": "Brian Hyland",
+          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158656,
+      "name": "Sealed With A Kiss - Live",
+      "url": "https://open.spotify.com/track/59sb8x5UZCPExOfcjAljh4"
+    },
+    {
+      "album": {
         "name": "Two Sevens Clash",
         "url": "https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH"
       },
@@ -6065,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/6gzNGsaj4xf5mpvPqB7hTh"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149973,
+      "name": "Send For Me",
+      "url": "https://open.spotify.com/track/4AeiLoSgIv80l67HpfsFxe"
+    },
+    {
+      "album": {
         "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
         "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
       },
@@ -6094,7 +6480,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 122706,
       "name": "Sharing You",
       "url": "https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K"
@@ -6173,6 +6559,24 @@
     },
     {
       "album": {
+        "name": "Don't Play That Song",
+        "url": "https://open.spotify.com/album/5QL7RNVpZIoIxElgdykaa8"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136106,
+      "name": "Show Me the Way",
+      "url": "https://open.spotify.com/track/2s3wZIroeTTsWFsya7JFPQ"
+    },
+    {
+      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -6184,7 +6588,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 139809,
       "name": "Show Me the Way - Mono",
       "url": "https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ"
@@ -6292,10 +6696,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 155695,
       "name": "So Goes Love (Unissued Single) - Remastered",
       "url": "https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3"
+    },
+    {
+      "album": {
+        "name": "Wooden Head (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3eUUJzFXFiugG57dEOgWLr"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158227,
+      "name": "So Goes Love - Remastered",
+      "url": "https://open.spotify.com/track/6O5tIpffzVUTeUQuWnTj7r"
     },
     {
       "album": {
@@ -6429,6 +6851,24 @@
     },
     {
       "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "Soldier Boy",
+      "url": "https://open.spotify.com/track/7xt1KHm7ToHgfOaNhvONRR"
+    },
+    {
+      "album": {
         "name": "Crazy Love (Hollywood Edition)",
         "url": "https://open.spotify.com/album/3y2IB0hPXgf2zfZFgeBhXM"
       },
@@ -6440,7 +6880,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 184093,
       "name": "Some Kind of Wonderful",
       "url": "https://open.spotify.com/track/1UQST36ygsRXTB97OdbnlS"
@@ -6645,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "Songs From St. Louis Blues",
+        "url": "https://open.spotify.com/album/0I3Rlvp11qSReT6oguQV4E"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147506,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/7Le6dfif9xuWEI1QjELlwt"
+    },
+    {
+      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -6663,6 +7121,24 @@
     },
     {
       "album": {
+        "name": "Pisces, Aquarius, Capricorn & Jones Ltd.",
+        "url": "https://open.spotify.com/album/3NauSOiaCDwAUJVswXCoLO"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265832,
+      "name": "Star Collector",
+      "url": "https://open.spotify.com/track/1cYvqJrC0egct53jd6gl3e"
+    },
+    {
+      "album": {
         "name": "Pisces, Aquarius, Capricorn & Jones Ltd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF"
       },
@@ -6674,7 +7150,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 266053,
       "name": "Star Collector - 2007 Remaster",
       "url": "https://open.spotify.com/track/0tnt3gxEkh3cK3zO95is7f"
@@ -6956,7 +7432,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 149800,
       "name": "Take Good Care Of My Baby",
       "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
@@ -7147,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "The House of Earl",
+        "url": "https://open.spotify.com/album/0ecsEPU09ZYFlxq5d5FzIo"
+      },
+      "artists": [
+        {
+          "name": "Earl Grant",
+          "url": "https://open.spotify.com/artist/0k3XbZNQTR8KVW2yWyJDDx"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140271,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/4C1KrvcJ9J5fLidrHlAci8"
+    },
+    {
+      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -7224,6 +7718,24 @@
       "duration_ms": 660800,
       "name": "The Jag",
       "url": "https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN"
+    },
+    {
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered 1998",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "album": {
@@ -7663,6 +8175,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/09MoQoHYnyusI79AeulNQK"
+    },
+    {
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/1Odt1ZFgD8g1QTjCVOg7dQ"
       },
@@ -7674,7 +8204,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 174000,
       "name": "Town Without Pity",
       "url": "https://open.spotify.com/track/5LNr78kW2P3mJvf9sqcBNI"
@@ -7699,6 +8229,24 @@
     },
     {
       "album": {
+        "name": "Twistin' the Night Away",
+        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Twistin' the Night Away",
+      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
+    },
+    {
+      "album": {
         "name": "Under My Feet",
         "url": "https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o"
       },
@@ -7714,6 +8262,24 @@
       "duration_ms": 174588,
       "name": "Under My Feet",
       "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "album": {
@@ -7807,6 +8373,24 @@
     },
     {
       "album": {
+        "name": "Nat King Cole's 8 Top Pops",
+        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158946,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
+    },
+    {
+      "album": {
         "name": "Take Good Care Of My Baby",
         "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
@@ -7818,7 +8402,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 139266,
       "name": "Walkin' With My Angel",
       "url": "https://open.spotify.com/track/4SRMCUgrwNFN7vUHvyMS7l"
@@ -7948,7 +8532,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 294573,
       "name": "We're Gonna Make It",
       "url": "https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL"
@@ -8056,7 +8640,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 148333,
       "name": "What A Sweet Thing That Was",
       "url": "https://open.spotify.com/track/69M1hKSe3E5uowQNwpwkHb"
@@ -8272,7 +8856,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 156400,
       "name": "When My Little Girl Is Smiling - Single Version",
       "url": "https://open.spotify.com/track/5acRm7GjPIhHsh9Ds3q783"
@@ -8348,6 +8932,24 @@
       "duration_ms": 172000,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/0Z7bBhS39A2459ujdt932i"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
     },
     {
       "album": {
@@ -8531,6 +9133,24 @@
     },
     {
       "album": {
+        "name": "Featuring Veronica",
+        "url": "https://open.spotify.com/album/0QPsV1BsAZTUl8zT1iy0wy"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "You Bet I Would",
+      "url": "https://open.spotify.com/track/0hT14KiE9AZsfIETrsSl8p"
+    },
+    {
+      "album": {
         "name": "The 25 Best Songs",
         "url": "https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq"
       },
@@ -8560,7 +9180,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 132205,
       "name": "You Bet I Would",
       "url": "https://open.spotify.com/track/3zf7h56EgKQsJTGPFdKXaJ"
@@ -8582,6 +9202,24 @@
       "duration_ms": 127386,
       "name": "You Bet I Would",
       "url": "https://open.spotify.com/track/1sXMxBBrnr7rUZLRORbvjY"
+    },
+    {
+      "album": {
+        "name": "You Don't Have To Say You Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "You Don't Have To Say You Love Me",
+      "url": "https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux"
     },
     {
       "album": {
@@ -8780,6 +9418,24 @@
       "duration_ms": 268866,
       "name": "You've Got a Friend - 2019 Remaster",
       "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "album": {
+        "name": "The Great Piano Lounge Collection, Vol. I",
+        "url": "https://open.spotify.com/album/2rZld22hdvpYzRE0EeAR2R"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "You\\'ve Got a Friend",
+      "url": "https://open.spotify.com/track/7AypmrKGFYV6wUog0yZa0D"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist met o.a\. Ray & Beer\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,803 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,819 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zonnebank](https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK) | [Ray & Beer](https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt) | [Zonnebank](https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E) | 3:04 |
-| 2 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ Larita](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |
-| 3 | [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 |
+| 2 | [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 |
+| 3 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ Larita](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |
 | 4 | [Do You Mind \- Remix](https://open.spotify.com/track/69UOKg0ctcOcYNfyH0BKt9) | [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [DJ Paleface](https://open.spotify.com/artist/4O5jQeIShGpcjxHwr1P0Gt), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Do You Mind \(Remix\)](https://open.spotify.com/album/61Z1B5MUoFjCftYWIsQDr4) | 3:29 |
 | 5 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
 | 6 | [Zomerblousje](https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb) | [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Zomerblousje](https://open.spotify.com/album/1djXceTDm9c0k2MDP4nTTv) | 1:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 59 | [Investeren In De Liefde](https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 2:57 |
 | 60 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
 
-Snapshot ID: `AAAAAJYRU5pQF6k8iUyTpwCVzSI3Hs85`
+Snapshot ID: `AAAAABKrzQnMSY/gwb1kJWMiWMkpOj2P`

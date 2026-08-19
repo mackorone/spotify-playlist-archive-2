@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Palavras Certas, Vol. 08",
+        "url": "https://open.spotify.com/album/5CuYSDmz1Pqzt1En1lqH6i"
+      },
+      "artists": [
+        {
+          "name": "Malla 100 Al\u00e7a",
+          "url": "https://open.spotify.com/artist/7JAMuiVqXYJR4lg0QNoGQD"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "84 Tempos",
+      "url": "https://open.spotify.com/track/1x2PJj5UtZ3wiG7kgrpmXI"
+    },
+    {
+      "album": {
         "name": "Os Grandes Sucessos",
         "url": "https://open.spotify.com/album/3vlRSRK4xoDium6sBesvq7"
       },
@@ -162,7 +180,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 198680,
       "name": "84 Tempos",
       "url": "https://open.spotify.com/track/5CnZEMwrmjdxp93OmjGVLC"
@@ -6592,7 +6610,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 147386,
       "name": "Hino Dos Machos - Ao Vivo",
       "url": "https://open.spotify.com/track/6UQLg0POcso0MAMvysNAZh"
@@ -8146,7 +8164,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 164997,
       "name": "Modo Conquista - Ao Vivo",
       "url": "https://open.spotify.com/track/6tWg5tle44ZAwm0YhOfPyI"
@@ -8172,7 +8190,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 162731,
       "name": "Modo Conquista - Ao Vivo",
       "url": "https://open.spotify.com/track/0GCgF9gZmA24idm1Drf5xa"
@@ -8298,7 +8316,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 163455,
       "name": "Mudou O Texto",
       "url": "https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1"
@@ -8338,6 +8356,24 @@
       "duration_ms": 163455,
       "name": "Mudou O Texto - Ao Vivo",
       "url": "https://open.spotify.com/track/4qwXyVg3jkTTRdFFgDtA7V"
+    },
+    {
+      "album": {
+        "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Mudou o Texto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2DxxhphlMAiQu5mKW12YRq"
     },
     {
       "album": {
@@ -10286,6 +10322,24 @@
       "duration_ms": 194203,
       "name": "Porque Eu Presto - Ao Vivo",
       "url": "https://open.spotify.com/track/6KF29VNGQdkBJdMjfTmFGA"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7o um Circo pra Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OpUEFDbMYs9hVizdVtQfy"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Porta-Retrato - Ao Vivo",
+      "url": "https://open.spotify.com/track/59htmpSHhAFNPAzb8ozGeF"
     },
     {
       "album": {
@@ -13950,7 +14004,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 228832,
       "name": "Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/1FLFffW65De85u6pRhrSNw"

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "low-res",
+        "url": "https://open.spotify.com/album/7rkhtgAWlFWTxFXfk9M1Cc"
+      },
+      "artists": [
+        {
+          "name": "blinder",
+          "url": "https://open.spotify.com/artist/6juJRLHxGjBVbtO7CYvhEe"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "480p",
+      "url": "https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ"
+    },
+    {
+      "album": {
         "name": "Mi Amigo Slow Joy",
         "url": "https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS"
       },
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 163871,
       "name": "bored. tired. torn.",
       "url": "https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa"
@@ -2196,6 +2214,24 @@
       "duration_ms": 267578,
       "name": "Burden",
       "url": "https://open.spotify.com/track/17JBaKcILsLf5uSVMU7CXZ"
+    },
+    {
+      "album": {
+        "name": "This Will End",
+        "url": "https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb"
+      },
+      "artists": [
+        {
+          "name": "nightdive",
+          "url": "https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238634,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB"
     },
     {
       "album": {
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 244820,
       "name": "Cellophane",
       "url": "https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX"
@@ -4513,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Don't Move",
+        "url": "https://open.spotify.com/album/37fe0FOmbbGDUygbS9jJac"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241999,
+      "name": "Don't Move",
+      "url": "https://open.spotify.com/track/3cXCctsuwJnTvJXNZ8Pv8K"
+    },
+    {
+      "album": {
         "name": "Glorious Sunset",
         "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
@@ -5660,6 +5714,24 @@
       "duration_ms": 254379,
       "name": "Full Round Table",
       "url": "https://open.spotify.com/track/2mX022csmPILfLhGGwctqn"
+    },
+    {
+      "album": {
+        "name": "Full Spectrum Dominance",
+        "url": "https://open.spotify.com/album/03NNXeLjWKludR2XIHx1rn"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215120,
+      "name": "Full Spectrum Dominance",
+      "url": "https://open.spotify.com/track/5sAuMXbKfqMDUr5RXHDND6"
     },
     {
       "album": {
@@ -7356,7 +7428,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 131929,
       "name": "i",
       "url": "https://open.spotify.com/track/6wIj3Cf2ASK19OZHaHjNtm"
@@ -12428,7 +12500,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 168515,
       "name": "Skully",
       "url": "https://open.spotify.com/track/3SQ6JzOXsm12xz7Pzk4sPx"

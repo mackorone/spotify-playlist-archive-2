@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 829 likes - 59 songs - 3 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 831 likes - 61 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 57 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 |
 | 58 | [Lloyd Dobler](https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [SOREN'S HOME II](https://open.spotify.com/album/7HpquLyhvRVx1YjoPWl5t0) | 2:40 |
 | 59 | [if there's nothing \(Hectic remix\)](https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [if there's nothing \(Hectic remix\)](https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo) | 3:44 |
+| 60 | [Euforia](https://open.spotify.com/track/6ZE7kFAYRTr8sN9hmNB8Zk) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [El Tiempo](https://open.spotify.com/album/2UFGBEFfLOnX2yDj2x9YNR) | 2:32 |
+| 61 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
 
-Snapshot ID: `AAAD5aEJJtWiBCG/v1Qc7SIcnp8zq9ji`
+Snapshot ID: `AAAD5y7YuflHOtZLpclyD7z3CypphOXa`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 348576,
+  "num_followers": 348597,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAD9Iy2YSRe3FYZas0jR9udS",
+  "snapshot_id": "aoJPAAAAAAAN9X8QK3T89c5w5T2VxV73",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos de Colecci\u00f3n, Vol.1",
+        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 188011,
       "name": "Una Tarde",
       "url": "https://open.spotify.com/track/2I7dNLPnIshiEaGllzNRvP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos de Colecci\u00f3n, Vol.1",
-        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
     },
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adi\u00f3s A Chalino",
-        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 186850,
-      "name": "Jorge Cazares",
-      "url": "https://open.spotify.com/track/7uyg1D20KT3R5tRlLSkkqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/4AnB5ytveD3ZfgfKqz6sBw"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/1YsTvffZ63Yo1eHkajbeQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adi\u00f3s A Chalino",
+        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 186850,
+      "name": "Jorge Cazares",
+      "url": "https://open.spotify.com/track/7uyg1D20KT3R5tRlLSkkqJ"
     },
     {
       "added_at": null,

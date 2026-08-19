@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "Time to Shine x Princess Things (Mashup) [From \"Disney Jr. Music: Sofia the First: Royal Magic\"]",
+        "url": "https://open.spotify.com/album/0B3dsbmhxJ4jN2MYka58ni"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166806,
+      "name": "Time to Shine x Princess Things (Mashup) - From \"Disney Jr. Music: Sofia the First: Royal Magic\"",
+      "url": "https://open.spotify.com/track/5ucu0vxmDOaimZ7XxXf2C2"
+    },
+    {
+      "album": {
         "name": "Brave (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
       },

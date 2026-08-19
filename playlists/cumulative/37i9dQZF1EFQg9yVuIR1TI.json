@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Dancing In The Dark - 1998 Remastered",
+      "url": "https://open.spotify.com/track/56C9kgD9wLknpD7dNOQu6F"
+    },
+    {
+      "album": {
         "name": "Rattle Them Bones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3YDH2JTlzj1Rv34nmaMfhz"
       },
@@ -370,10 +388,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 64227,
       "name": "Finale",
       "url": "https://open.spotify.com/track/63oEJsWq9dPjXk7Ij4jQw4"
+    },
+    {
+      "album": {
+        "name": "Lady and the Tramp (1955 Film Score)",
+        "url": "https://open.spotify.com/album/2bDCjSVK1wjEaPT5YpgtyR"
+      },
+      "artists": [
+        {
+          "name": "Oliver Wallace",
+          "url": "https://open.spotify.com/artist/497FibW7265st1H0UfpGb2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31608,
+      "name": "Finale (Peace on Earth)",
+      "url": "https://open.spotify.com/track/3H8IIZI6JdeAPWRRKDTnEl"
     },
     {
       "album": {
@@ -388,7 +424,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 31160,
       "name": "Finale (Peace on Earth) - From \"Lady and the Tramp\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk"
@@ -503,6 +539,24 @@
     },
     {
       "album": {
+        "name": "I've Gotta Be Me",
+        "url": "https://open.spotify.com/album/1DNtn7Fsu6oxk4rhPktUma"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95653,
+      "name": "I'm a Brass Band",
+      "url": "https://open.spotify.com/track/7c5dYRUYpdmUUcyCdxcNIX"
+    },
+    {
+      "album": {
         "name": "Sweet Charity",
         "url": "https://open.spotify.com/album/3FgYqc3QawZLZW3JuZsHXw"
       },
@@ -526,7 +580,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 214413,
       "name": "I'm A Brass Band - 1969 Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/58dFjlLMJ3LdFObFV1rQfm"
@@ -653,6 +707,24 @@
     },
     {
       "album": {
+        "name": "L'Integrale - N 1 - N 2",
+        "url": "https://open.spotify.com/album/444EFS9YOv1P2bmWwAX8w0"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gaslini",
+          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69000,
+      "name": "La Notte: Finale",
+      "url": "https://open.spotify.com/track/1wAH0sPaRlpjAp19IJuoz5"
+    },
+    {
+      "album": {
         "name": "The Astaire Story",
         "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
       },
@@ -718,7 +790,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 137800,
       "name": "Memories Are Made of This",
       "url": "https://open.spotify.com/track/0nAhw6BxYnZPZYg13jUnPX"
@@ -776,6 +848,32 @@
       "duration_ms": 147118,
       "name": "Memories Are Made of This",
       "url": "https://open.spotify.com/track/4OnIopyOa6CrqFaVlzlJCh"
+    },
+    {
+      "album": {
+        "name": "Simply ... Dino! (2020 Remaster)",
+        "url": "https://open.spotify.com/album/5rNyNqAACr8CblxYYMPW7K"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile",
+          "url": "https://open.spotify.com/artist/5lLwrwVHGlErj8cObYCWyi"
+        },
+        {
+          "name": "Studio Orchestra",
+          "url": "https://open.spotify.com/artist/3uLEaCSipnNQy3KvmwpDrl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134321,
+      "name": "Memories Are made of This",
+      "url": "https://open.spotify.com/track/2QbML4LdG8IrCwb2uk1YL5"
     },
     {
       "album": {
@@ -844,7 +942,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 162000,
       "name": "On The Sunny Side Of The Street - Remastered",
       "url": "https://open.spotify.com/track/6Q4m72Zmjc28NUgqOTcBoT"
@@ -1150,10 +1248,28 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 147497,
       "name": "Silent Night - Remastered",
       "url": "https://open.spotify.com/track/1gjBcw4TFnVl2GyLoAD8q8"
+    },
+    {
+      "album": {
+        "name": "Bing Crosby Gold: No. 1 Hits Plus",
+        "url": "https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Silent Night, Holy Night",
+      "url": "https://open.spotify.com/track/0XV3NDgpZBo05KkRwDyvUM"
     },
     {
       "album": {

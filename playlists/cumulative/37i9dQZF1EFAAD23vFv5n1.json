@@ -416,10 +416,32 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 195800,
       "name": "Bottiglie Vuote",
       "url": "https://open.spotify.com/track/31kO7My7HtRGRv0M20QZRN"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        },
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "Bottiglie Vuote (feat. Max Pezzali)",
+      "url": "https://open.spotify.com/track/5wpNF7XLTW4gLyU0NjVOL8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Ayra Starr
 
-1,522 songs - 3 day 6 hr 5 min
+1,524 songs - 3 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-02-13 | 2025-05-02 |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-21 | 2023-11-10 |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 | 2023-03-01 | 2023-04-28 |
+| [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 | 2026-08-18 |  |
 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 | 2025-12-12 | 2026-03-06 |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 | 2025-09-26 |
 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 | 2026-02-12 | 2026-04-10 |
@@ -688,6 +689,7 @@
 | [I Won't Let Go](https://open.spotify.com/track/1xCR3hwlTKBLjDJ1QTkZm0) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Higher](https://open.spotify.com/album/3A0GeqHDQUGvZ1sDtShqvu) | 3:43 | 2024-09-26 | 2024-09-28 |
 | [I Won't Let Go](https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Higher](https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck) | 3:43 | 2024-09-27 | 2024-11-08 |
 | [I Won't Miss A Thing](https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [I Won't Miss A Thing](https://open.spotify.com/album/6tAI8qCWzBSZYvsxU1qX3w) | 3:54 | 2025-07-03 | 2025-09-26 |
+| [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/track/2canotovAtInnPJgPbLiz2) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun), [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30) | 2:28 | 2026-08-18 |  |
 | [i'd love to be in love](https://open.spotify.com/track/6RtZCciU3pvPS4nVlEfQzu) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [i'd love to be in love](https://open.spotify.com/album/2Rk4IG8MIWEDgyMm49A1Y2) | 3:08 | 2026-05-18 | 2026-08-14 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-02-24 | 2023-03-18 |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-11-27 | 2026-02-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: S\u00e4m Wilder ",
+  "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: S\u00e4m Wilder",
   "name": "Popronde 2026",
   "tracks": [
     {
@@ -634,6 +634,32 @@
       "duration_ms": 156400,
       "name": "BIOTM",
       "url": "https://open.spotify.com/track/1wTqJ6Xumts0Sv8O3MxW9Q"
+    },
+    {
+      "album": {
+        "name": "Blijf Daar",
+        "url": "https://open.spotify.com/album/1uEoO2EDYVGXZdh0LxxXth"
+      },
+      "artists": [
+        {
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+        },
+        {
+          "name": "Ri\u00ebn",
+          "url": "https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid"
+        },
+        {
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Blijf Daar",
+      "url": "https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3"
     },
     {
       "album": {
@@ -2292,7 +2318,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 163453,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy"
@@ -2718,6 +2744,28 @@
       "duration_ms": 199266,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
+    },
+    {
+      "album": {
+        "name": "I'd Do It All Again (with Persia Holder)",
+        "url": "https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        },
+        {
+          "name": "Persia Holder",
+          "url": "https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148920,
+      "name": "I'd Do It All Again (with Persia Holder)",
+      "url": "https://open.spotify.com/track/2canotovAtInnPJgPbLiz2"
     },
     {
       "album": {
@@ -5544,7 +5592,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 150000,
       "name": "Stilte",
       "url": "https://open.spotify.com/track/4NT1xPFPqQfjVgPgNifPBY"

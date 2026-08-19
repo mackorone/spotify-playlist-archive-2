@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-540 songs - 1 day 9 hr 14 min
+541 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Arike Melle \- From" Saina Music Indie"](https://open.spotify.com/track/24EV22fWEsAXr45kzFj43m) | [Pranav Sooraj](https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I), [Devaharshan](https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0), [Shehi](https://open.spotify.com/artist/4dX1Vml5V6GkR3rh0QAojs) | [Arike Melle \(From" Saina Music Indie"\)](https://open.spotify.com/album/0tHvMJFIFJj9ocmHeqOfn2) | 4:21 | 2026-01-06 | 2026-04-21 |
 | [Arikil](https://open.spotify.com/track/4KxgXETBP15AxDNdk0AJNb) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [For Medusa](https://open.spotify.com/album/26ilEcdCsFgMEsje8ujku9) | 2:54 | 2024-06-24 | 2025-02-20 |
 | [Arikilaay](https://open.spotify.com/track/1FUruQVUFNzr5wjae5yqMJ) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm) | [Arikilaay](https://open.spotify.com/album/3L7rIf4rp0ncRmupn3qLBB) | 3:50 | 2023-06-26 | 2023-07-28 |
+| [Arimulla](https://open.spotify.com/track/6tNRFJDScbnLWNrOqIHeVv) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Bappu Velliparamba](https://open.spotify.com/artist/4wPOtTcGHqwZoAl9EgDBvL) | [Arimulla](https://open.spotify.com/album/3WM62NmLO3DO3NkN2vGV1k) | 2:39 | 2026-08-18 |  |
 | [Arutharuthu](https://open.spotify.com/track/1jopcodc8BmM3BsvM0NvEE) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 4:27 | 2023-10-06 | 2024-04-19 |
 | [Arutharuthu](https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I) | 4:27 | 2024-01-15 | 2026-05-05 |
 | [Arutharuthu](https://open.spotify.com/track/2pg3DGVU7eKaoBeDVC8o2P) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 4:27 | 2022-11-21 | 2023-11-05 |

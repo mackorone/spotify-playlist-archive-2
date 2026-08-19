@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86574,
+  "num_followers": 86572,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
-      },
-      "artists": [
-        {
-          "name": "supercatkei",
-          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
-        }
-      ],
-      "duration_ms": 176153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Rumah",
         "url": "https://open.spotify.com/album/5ewRhRooQ4J93Mz4vzaPkX"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 200093,
       "name": "Rumah",
       "url": "https://open.spotify.com/track/42cTAPfWxsDzPEjc9X0vMc"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
+      },
+      "artists": [
+        {
+          "name": "supercatkei",
+          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
+        }
+      ],
+      "duration_ms": 176153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
     },
     {
       "added_at": "2026-07-24 13:00:01",

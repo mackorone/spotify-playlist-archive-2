@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,100 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,106 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 41 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 42 | [Aben Wo Aha](https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd) | 5:12 |
 | 43 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
-| 44 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
-| 45 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 |
+| 44 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 |
+| 45 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
 | 46 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 47 | [Bribi Gyegye Wo](https://open.spotify.com/track/7fN2FjaBQ1RYqIcvCWNWXq) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Playboy](https://open.spotify.com/album/4SD9udK8YGf5HBarLWikZi) | 6:15 |
 | 48 | [Iron Boy](https://open.spotify.com/track/1sXlJilnVuMx9mMCYN9lMZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 6:09 |

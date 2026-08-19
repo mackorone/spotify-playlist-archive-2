@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
-  "num_followers": 41636,
+  "num_followers": 41646,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuiz/t62zd5mH13Zx/Amwddcg6C",
+  "snapshot_id": "AAAAAIrvoTf7bU0V/A5ewXsccRi86Kjc",
   "tracks": [
     {
       "added_at": "2026-07-03 12:10:50",
@@ -255,6 +255,26 @@
       "duration_ms": 171339,
       "name": "Minnal",
       "url": "https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl"
+    },
+    {
+      "added_at": "2026-08-18 11:27:32",
+      "album": {
+        "name": "Arimulla",
+        "url": "https://open.spotify.com/album/3WM62NmLO3DO3NkN2vGV1k"
+      },
+      "artists": [
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Bappu Velliparamba",
+          "url": "https://open.spotify.com/artist/4wPOtTcGHqwZoAl9EgDBvL"
+        }
+      ],
+      "duration_ms": 159574,
+      "name": "Arimulla",
+      "url": "https://open.spotify.com/track/6tNRFJDScbnLWNrOqIHeVv"
     },
     {
       "added_at": "2026-08-07 10:50:03",

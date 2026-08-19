@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 352147,
+  "num_followers": 352185,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+      },
+      "artists": [
+        {
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 225800,
       "name": "Santa Lucia",
       "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
-      },
-      "artists": [
-        {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-08-06 22:01:18",

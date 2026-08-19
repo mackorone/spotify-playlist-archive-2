@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 306866,
       "name": "Country Comfort",
       "url": "https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI"
@@ -3422,6 +3422,32 @@
       "duration_ms": 202653,
       "name": "Eight Hundred Dollar Shoes",
       "url": "https://open.spotify.com/track/0JzLcxaETEOha4njGktAJl"
+    },
+    {
+      "album": {
+        "name": "Mozart: Eine kleine Nachtmusik, K. 525; Symphony No. 32 (Overture), K. 318; Serenade K. 320 \"Posthorn Serenade\"",
+        "url": "https://open.spotify.com/album/6bIt4nIcJoAG4PKmLrdQda"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Eine kleine Nachtmusik, K. 525: II. Romance. Andante",
+      "url": "https://open.spotify.com/track/38ZSAhamRCnaFe13h0eaEC"
     },
     {
       "album": {
@@ -5738,7 +5764,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 275493,
       "name": "I Want Love",
       "url": "https://open.spotify.com/track/5rnMgctZxjKDNdqrVqg7Bm"
@@ -7193,6 +7219,24 @@
     },
     {
       "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302173,
+      "name": "Live Like Horses",
+      "url": "https://open.spotify.com/track/2KLJQEXMyfxMHmdkXIA0aq"
+    },
+    {
+      "album": {
         "name": "Live Like Horses",
         "url": "https://open.spotify.com/album/5BCFbF7KrmJGQnKcefeQs1"
       },
@@ -7208,7 +7252,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 309266,
       "name": "Live Like Horses - Studio Version",
       "url": "https://open.spotify.com/track/4R2PPsspHBGIH1Zm7RejDG"
@@ -8710,10 +8754,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 324573,
       "name": "Philadelphia Freedom",
       "url": "https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338836,
+      "name": "Philadelphia Freedom",
+      "url": "https://open.spotify.com/track/2sugALO4QoRqWi9ZZ0hFMm"
     },
     {
       "album": {
@@ -9154,7 +9216,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 154360,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/57U9E7zXKc2UIiXPUeSCYN"
@@ -9172,7 +9234,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 154360,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD"
@@ -11542,6 +11604,24 @@
       "duration_ms": 199133,
       "name": "Thank You Mama - Piano Demo",
       "url": "https://open.spotify.com/track/4YnVgdm9lKeXOEGuPQLW0D"
+    },
+    {
+      "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118209,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
     },
     {
       "album": {

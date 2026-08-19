@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 70168,
+  "num_followers": 70211,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADwMkj8ewkfDSD0VFCgPk4B",
+  "snapshot_id": "aoJPAAAAAADE53GlAJTgqquncU0oiF38",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Fire and Gasoline - A COLORS ENCORE",
+        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Linda Martell",
-          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
-        },
-        {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 158477,
-      "name": "SPAGHETTII",
-      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+      "duration_ms": 191162,
+      "name": "Fire and Gasoline - A COLORS ENCORE",
+      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
     },
     {
       "added_at": null,
@@ -595,22 +591,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire and Gasoline - A COLORS ENCORE",
-        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Linda Martell",
+          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 191162,
-      "name": "Fire and Gasoline - A COLORS ENCORE",
-      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
+      "duration_ms": 158477,
+      "name": "SPAGHETTII",
+      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
     },
     {
       "added_at": null,

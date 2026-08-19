@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Säm Wilder
 
-375 songs - 20 hr 19 min
+377 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Better Off Alone](https://open.spotify.com/track/28zxcWICI5ZaY6SwN6KPmN) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [Better Off Alone](https://open.spotify.com/album/6EsW6LqCLMn6RV4qs25WjA) | 2:29 | 2026-05-11 |  |
 | [Billen Bloot](https://open.spotify.com/track/7bG4qbVCnca4ohZsoJhUCd) | [Yung Volwassen](https://open.spotify.com/artist/5VrGtTnbcfrS3uaIqhNCfj) | [Billen Bloot](https://open.spotify.com/album/7jRXhjSIWiXpVym7mQWdHy) | 2:22 | 2025-05-07 | 2025-09-17 |
 | [BIOTM](https://open.spotify.com/track/1wTqJ6Xumts0Sv8O3MxW9Q) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [BIOTM](https://open.spotify.com/album/588vMmUGoktPqhe64li9hu) | 2:36 | 2025-05-07 | 2025-11-29 |
+| [Blijf Daar](https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0), [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Blijf Daar](https://open.spotify.com/album/1uEoO2EDYVGXZdh0LxxXth) | 2:19 | 2026-08-18 |  |
 | [blijven wachten](https://open.spotify.com/track/3OBKQCcY4Tc19GMdD6Ker2) | [Zoë Low](https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec) | [blijven wachten](https://open.spotify.com/album/1HICjIiuveiZYINIyXo7PU) | 3:06 | 2024-09-16 | 2025-05-08 |
 | [Blue Eyes](https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8) | [Luke Christoffel](https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC) | [Blue Eyes](https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR) | 3:12 | 2025-05-07 | 2026-05-12 |
 | [Blushing Over Nothing](https://open.spotify.com/track/05jB4DbQXCRTbtfhKHiJUl) | [HUNK](https://open.spotify.com/artist/1Et5MQj7bL3VRAXMYgShL1) | [Blushing Over Nothing](https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I) | 2:53 | 2024-07-01 | 2025-05-08 |
@@ -130,7 +131,7 @@
 | [Half As Cool](https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M) | [SUUS](https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu) | [Half As Cool](https://open.spotify.com/album/1fxacv1634svqjhx940BGv) | 2:43 | 2026-05-11 |  |
 | [HAMERTJE TIK](https://open.spotify.com/track/0OIITNnEeplZ0wxSSYYVn0) | [Thor Kissing](https://open.spotify.com/artist/6aYMaD2LzJWHYmR6bxeM0v) | [WINDKRACHT TIEN](https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y) | 2:31 | 2025-05-07 | 2026-05-12 |
 | [Hannah](https://open.spotify.com/track/4QdQVPGGm1w7Ulu7sGcAlN) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Selfhelpingmehelpmyself](https://open.spotify.com/album/6bETdAF0lCZyR17QfPfkYr) | 3:34 | 2025-05-07 | 2026-05-12 |
-| [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 | 2026-05-11 |  |
+| [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 | 2026-05-11 | 2026-08-19 |
 | [Hare In The Haze](https://open.spotify.com/track/2NXbXfOzOH2Xnrpgd0mb9e) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [Hare In The Haze](https://open.spotify.com/album/3s6HKOzR1fLxr6HGHGeXzJ) | 4:05 | 2025-07-16 | 2025-09-17 |
 | [Haya](https://open.spotify.com/track/653F68ka124m6JdlhwFWzU) | [Guusje Walstra](https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk) | [Haya](https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f) | 2:55 | 2024-07-01 | 2025-05-08 |
 | [Heart on the line](https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E) | [LAHAYE](https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH) | [Heart on the line](https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W) | 3:35 | 2026-05-11 |  |
@@ -154,6 +155,7 @@
 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 | 2024-10-21 | 2025-05-08 |
 | [I Never Wanna Be In Love](https://open.spotify.com/track/0qQ5LD2CBmsGYbGFMXHr9h) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [I Never Wanna Be In Love](https://open.spotify.com/album/2hZg4yKNAzAVIPJZmBhMtz) | 3:27 | 2026-05-15 |  |
 | [I Won't Back Down](https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh) | [I Won't Back Down](https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu) | 3:19 | 2025-05-07 | 2026-05-12 |
+| [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/track/2canotovAtInnPJgPbLiz2) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun), [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I'd Do It All Again \(with Persia Holder\)](https://open.spotify.com/album/1yvkYyLKmZpYNYqBIRbq30) | 2:28 | 2026-08-18 |  |
 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 | 2025-05-07 | 2026-05-12 |
 | [If/When](https://open.spotify.com/track/3mhKG8cpVd13TWOlhixHUa) | [Flora Sophi](https://open.spotify.com/artist/6uQxXBGiZTiuUJm0oFd4LS) | [If/When](https://open.spotify.com/album/2BpntQ9nmdqzdx5qLM7ncM) | 4:36 | 2025-05-07 | 2026-05-12 |
 | [iK](https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E) | [BUG](https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ) | [iK](https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp) | 2:10 | 2024-07-01 | 2025-05-08 |
@@ -306,7 +308,7 @@
 | [Spronk](https://open.spotify.com/track/2sVmduiZn95oMwC9M8I2q7) | [shoom](https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw) | [Spronk / De Slag om Vinkhuizen](https://open.spotify.com/album/7APExoMdmQATvX9rcDe2WT) | 4:23 | 2024-10-21 | 2025-05-08 |
 | [Stampij](https://open.spotify.com/track/6ds6wPSpV7XcQVxW9cR6Sk) | [JUNO](https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z) | [Stampij](https://open.spotify.com/album/0fmZFEPTDvGEVxE1xIIQXR) | 5:10 | 2025-11-28 | 2026-05-12 |
 | [Stap In De Boot](https://open.spotify.com/track/3dLwlfuf74d0C4w6cq5AYq) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Stap In De Boot](https://open.spotify.com/album/0uZliWWfhcGcL6XGzdqhi9) | 5:04 | 2025-11-28 | 2026-05-12 |
-| [Stilte](https://open.spotify.com/track/4NT1xPFPqQfjVgPgNifPBY) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Stilte](https://open.spotify.com/album/0UupZY6rtG3oVXVwUksxCL) | 2:30 | 2026-05-11 |  |
+| [Stilte](https://open.spotify.com/track/4NT1xPFPqQfjVgPgNifPBY) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Stilte](https://open.spotify.com/album/0UupZY6rtG3oVXVwUksxCL) | 2:30 | 2026-05-11 | 2026-08-19 |
 | [Strange Blood](https://open.spotify.com/track/42UOL729KAxmuoWfNnvykG) | [Daisy Bellis](https://open.spotify.com/artist/02ZU1dPQZa5aez0d62va4t) | [Strange Blood](https://open.spotify.com/album/6jPfqJLMl7Tw1dbWCdRFB1) | 2:48 | 2025-05-07 | 2026-05-12 |
 | [Stranger](https://open.spotify.com/track/3yJ2xDbJBa28WQ8Wag4UmN) | [LNDE](https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be) | [Stranger](https://open.spotify.com/album/1YYGYLfJqSYH34dgrxPkkt) | 3:22 | 2025-09-16 | 2026-05-12 |
 | [Sugarcoating](https://open.spotify.com/track/5yuP7geEdwhGCww3dEgtr2) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Sugarcoating](https://open.spotify.com/album/26iPo34TgS5CYexUPYODFX) | 4:26 | 2025-05-07 | 2025-07-17 |

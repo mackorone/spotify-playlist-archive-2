@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Cortis, Juicy J\)
 
-1,949 songs - 4 day 7 hr 57 min
+1,950 songs - 4 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [LIE LIE \(FEAT\. GIRIBOY\)](https://open.spotify.com/track/05myRLCO0MGKql3Xwv4Sqb) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [LIE LIE \(FEAT\. GIRIBOY\)](https://open.spotify.com/album/3GULQ9i3UOxHDAGUEhrbM2) | 3:06 | 2025-06-11 | 2025-09-09 |
 | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/track/7DNT98RushlHadPmT3qaiX) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/album/5WDXQ5ZLgRb7ckaKzk2AHw) | 3:04 | 2021-12-21 | 2022-07-03 |
 | [Life is a Bi…](https://open.spotify.com/track/4d79iPe88TzFewhFk2vrcy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Life is a Bi…](https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s) | 2:36 | 2021-12-18 | 2022-07-05 |
+| [LIFE IS A MOVIE \(feat\. DIMO REX\)](https://open.spotify.com/track/1i3LPhkfQUAnttPXKqp3Zz) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [ICY BABY](https://open.spotify.com/album/31kYq6DtW2hNGHKwzQ9WC4) | 2:46 | 2026-08-18 |  |
 | [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 | 2024-12-24 | 2025-06-12 |
 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 | 2023-12-15 | 2023-12-27 |
 | [LIFE LOVE LAZY \(Feat\. CHOILB\)](https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [roaming.](https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX) | 3:09 | 2024-03-21 | 2024-06-05 |
@@ -1264,7 +1265,7 @@
 | [Over\-Adaptation](https://open.spotify.com/track/4litdby90raKhdbjiCLK59) | [Lee Hyun Jun](https://open.spotify.com/artist/6HoP7A5DchkLchV82jDLDm) | [TRANSLATION ADDICTION](https://open.spotify.com/album/7J2r0QIm8X2owl5FEqTsiP) | 3:49 | 2022-08-17 | 2022-09-23 |
 | [Overclass](https://open.spotify.com/track/0TonzjCZUWODRE6wzLTTqr) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes EP](https://open.spotify.com/album/220KNMbQ5OF9XeLYT0AI9C) | 3:43 | 2023-07-05 | 2023-07-14 |
 | [OVERDRIVE](https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:55 | 2023-06-23 | 2023-09-15 |
-| [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 | 2026-06-30 |  |
+| [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 | 2026-06-30 | 2026-08-19 |
 | [P.S\. \(Feat\. Wonstein\)](https://open.spotify.com/track/7cveOcaMCOOQXutYwjqxpd) | [Yang Kyle](https://open.spotify.com/artist/4x5ZXHL71AGw8hI2pC4Y4l), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [RAP:PUBLIC FINAL](https://open.spotify.com/album/6Fe3AaeLDjpSHZy4CEJ1KU) | 4:13 | 2024-12-11 | 2025-04-25 |
 | [Package \(feat\. Khundi Panda\)](https://open.spotify.com/track/63n1VzpEsJBlD97CzlbBv1) | [NEWTOWN BANGERS](https://open.spotify.com/artist/5lpEfPHS5i3nblRzsm64i9), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [ANTI VOGUE](https://open.spotify.com/album/4RUymlrJTmHXgjQnRp1jBu) | 3:12 | 2022-08-31 | 2022-12-10 |
 | [Pacman's Punch Cipher](https://open.spotify.com/track/3wxNexCjTWVnURWS1n73uY) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Styliztik Jones](https://open.spotify.com/artist/2mQFOrRbYJtWZtJb4Re6hB), [Bizzy](https://open.spotify.com/artist/12ceFY8dHtc9XsIknO45Pa), [Jacob Santana](https://open.spotify.com/artist/5vZXzbVJQ70r0x0ldKuG8s), [Illson](https://open.spotify.com/artist/3tky4Wd4sPBqtiHVdAr9R8) | [Trust Me I Know Everything You Think I Don't Mixtape](https://open.spotify.com/album/4o9fJQ3QDSmWgXIhFGIkX4) | 5:21 | 2022-03-24 | 2022-04-20 |

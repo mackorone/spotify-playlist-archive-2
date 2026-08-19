@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,979 likes - 16 songs - 50 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,995 likes - 16 songs - 50 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 | 10 | [Blur](https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:46 |
 | 11 | [God Knows](https://open.spotify.com/track/31sakVrrESRDsoRsDlNWik) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 3:20 |
 | 12 | [Promise?](https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 |
-| 13 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
+| 13 | [georgia](https://open.spotify.com/track/58h1pJQkym9CRAt5Ubc4tG) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:54 |
 | 14 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 |
-| 15 | [georgia](https://open.spotify.com/track/58h1pJQkym9CRAt5Ubc4tG) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:54 |
-| 16 | [marrow](https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 |
+| 15 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
+| 16 | [karaoke](https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:45 |
 
-Snapshot ID: `aoD9gAAAAAC/W9tyaeJJqEewrUbVK+Ib`
+Snapshot ID: `aoJPAAAAAAAr6Qqz2E/pfwZAGDo4p7Tp`

@@ -11768,7 +11768,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 236842,
       "name": "Ittefaq",
       "url": "https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG"
@@ -18136,6 +18136,32 @@
       "duration_ms": 272141,
       "name": "Main Na Raha",
       "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+    },
+    {
+      "album": {
+        "name": "Main Nashe Mein",
+        "url": "https://open.spotify.com/album/6WlskqdPYmzj3Nn7pRxUGZ"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Khanijo",
+          "url": "https://open.spotify.com/artist/4rw24Kp8GUPToxrMHesi5S"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        },
+        {
+          "name": "The Junior",
+          "url": "https://open.spotify.com/artist/2mr9HPHNByJwhF8dzfsVRz"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Main Nashe Mein",
+      "url": "https://open.spotify.com/track/14tTt2k9lfX31FebV9tYpZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 164098,
+  "num_followers": 164102,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAjg13Rc6bFy9MLzjR8kjmy",
+  "snapshot_id": "aoJPAAAAAACXv6mLEwIoOVk9titSVsKd",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 393533,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/4Uiia5NmkyHEjHLK0IfwVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
       },
       "artists": [
         {
@@ -780,9 +764,25 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 376533,
-      "name": "Nothing Owed",
-      "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
+      "duration_ms": 393533,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/4Uiia5NmkyHEjHLK0IfwVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Rippling",
+      "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 123506,
-      "name": "Rippling",
-      "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
+      "duration_ms": 376533,
+      "name": "Nothing Owed",
+      "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
     },
     {
       "added_at": null,

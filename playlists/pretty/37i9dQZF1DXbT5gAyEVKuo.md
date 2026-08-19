@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Naomi Raine & Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,150 likes - 75 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,199 likes - 75 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 761 songs - 2 day 0 hr 54 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 765 songs - 2 day 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -769,5 +769,9 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 759 | [Give It Up](https://open.spotify.com/track/12ETjGIhfZnlNocWEOGpMO) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 3:55 |
 | 760 | [Yr City's a Sucker](https://open.spotify.com/track/4lL35nfQSgSvDsVFQtJ4Wp) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 9:22 |
 | 761 | [Slowdive \- XFM Session](https://open.spotify.com/track/5Cux3rsN6IjuhVF8fs99mG) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Introns](https://open.spotify.com/album/1COpEJLhNViHDdh2fRn72r) | 4:10 |
+| 762 | [Get Innocuous!](https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:11 |
+| 763 | [North American Scum](https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:28 |
+| 764 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
+| 765 | [Us V Them](https://open.spotify.com/track/6shyEhv7EqbnL2ZGcMdaHo) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 8:29 |
 
-Snapshot ID: `AAAr/cEDKpEvyta8HcB+yGgr2znIh9DO`
+Snapshot ID: `AAAsAYqYl/pnrc7V+wFjrGT+PBIVg+iD`

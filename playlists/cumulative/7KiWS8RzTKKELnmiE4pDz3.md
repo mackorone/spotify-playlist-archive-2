@@ -4,7 +4,7 @@
 
 > 
 
-1,543 songs - 3 day 11 hr 25 min
+1,544 songs - 3 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,6 +888,7 @@
 | [Myself!](https://open.spotify.com/track/1OIsxL4PVsEE9rSrdu93Co) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-11-02 | 2023-04-12 |
 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 | 2023-03-22 | 2023-12-14 |
 | [Nah Mean](https://open.spotify.com/track/3W2FgXliJL6SCGIrJ7vKNv) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:04 | 2022-12-23 | 2023-12-14 |
+| [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2026-08-18 |  |
 | [Naked](https://open.spotify.com/track/3P5mHpWlBKCJUVYz9QvOAd) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:45 | 2025-04-11 | 2026-02-08 |
 | [Natural High \(Even Higher Learning\)](https://open.spotify.com/track/3ohCjD05n2ref7VB9spqo0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Cold Day In Hell](https://open.spotify.com/album/41BZU6zamanfktOwa4OSL3) | 4:49 | 2026-01-14 |  |
 | [Need for Speed](https://open.spotify.com/track/7DHRqkAR1C6KWD08uKolQx) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Midnight in Malibu](https://open.spotify.com/album/4y8rrv9UMZGS9vBx0VVOFp) | 3:09 | 2024-05-02 | 2024-11-06 |

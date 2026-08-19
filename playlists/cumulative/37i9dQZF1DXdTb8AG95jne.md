@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SUMIN\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,390 songs - 3 day 12 hr 9 min
+1,391 songs - 3 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [GAME OVER ?](https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [LOVE&HATE](https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G) | 3:17 | 2026-04-06 | 2026-07-17 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-07-16 | 2024-12-07 |
 | [Gentle Breeze](https://open.spotify.com/track/0gywQujjcGhh1XAjMkjhwd) | [OLIVER](https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH) | [Gentle Breeze](https://open.spotify.com/album/5Cvj2fZ0NE49eYxq51UBvk) | 3:11 | 2021-12-21 | 2022-07-06 |
-| [GET AWAY!](https://open.spotify.com/track/5cA0vKpix2JAaalGe1G7Q4) | [Waking Suns](https://open.spotify.com/artist/0ij2MrO7mTpg6peTK6q6et), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy), [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5) | [GET AWAY!](https://open.spotify.com/album/3sGM3AsorNlGVUQ2hE7DPn) | 4:20 | 2026-08-07 |  |
+| [GET AWAY!](https://open.spotify.com/track/5cA0vKpix2JAaalGe1G7Q4) | [Waking Suns](https://open.spotify.com/artist/0ij2MrO7mTpg6peTK6q6et), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy), [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5) | [GET AWAY!](https://open.spotify.com/album/3sGM3AsorNlGVUQ2hE7DPn) | 4:20 | 2026-08-07 | 2026-08-19 |
 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 | 2025-06-05 |
 | [Getting Better Little By Little](https://open.spotify.com/track/4pGcdHIkxbuBkbLgE9TVh8) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Our time that was flowing calmly Vol.2](https://open.spotify.com/album/7E0bbatgoKoATgfnrXiwMr) | 4:06 | 2026-01-26 | 2026-02-28 |
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
@@ -1117,6 +1117,7 @@
 | [SURFER](https://open.spotify.com/track/394SLvh7rICTQKep7FnH5d) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [SURFER](https://open.spotify.com/album/1Vc4GVDQojuTTOXwoxu4T5) | 2:52 | 2021-12-21 | 2022-05-16 |
 | [Swan](https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd), [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Swan](https://open.spotify.com/album/0piGRjplHKONEbDxiHtdH2) | 3:27 | 2021-12-12 | 2022-07-29 |
 | [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-01-26 | 2026-03-04 |
+| [Sweetest](https://open.spotify.com/track/2Z4WJ6lFttemi3TIpSZ4rB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Sweetest](https://open.spotify.com/album/55hrj4PZ3eGm3XBkw2BE1P) | 3:02 | 2026-08-18 |  |
 | [Swim \- Virus Edit](https://open.spotify.com/track/5A2p3ewIaFMGpJN3P3L2hl) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3eSzJfr41r54E9HS3AJXAV) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [Swim In The Ocean](https://open.spotify.com/track/0UKegdEEbAmNYw1NMIGlwi) | [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Swim In The Ocean](https://open.spotify.com/album/6XA4hSAXBT13DKgBowNZ26) | 4:01 | 2022-02-10 | 2022-04-05 |
 | [SWIMMING](https://open.spotify.com/track/5kBbwUU7azLeOlZl4pEsZG) | [HYEEUN](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SWIMMING](https://open.spotify.com/album/4GcS4r0YR5LAuUoD5NMOTu) | 3:05 | 2021-12-21 | 2022-04-16 |

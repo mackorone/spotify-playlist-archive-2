@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Big Naughty\)
+> Trendy & Chill Korean R&B music\. \(Cover:  Colde\)
 
-934 songs - 2 day 1 hr 13 min
+935 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [First kiss \(Feat\. Sonny zero, Harms\)](https://open.spotify.com/track/1wInZv0I7D0EDrgfSRnC33) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [Harms](https://open.spotify.com/artist/6AEdu26JUdoNP01gO8sM0N) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:35 | 2022-04-22 | 2022-07-24 |
 | [First Meeting \(Feat\. Moon Sujin, BE′O\)](https://open.spotify.com/track/4Dpe82AV83yN9dS8Fn0KgK) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [BLEND](https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR) | 2:37 | 2024-06-12 | 2024-07-10 |
 | [Flight +82](https://open.spotify.com/track/5HLl0OKRVpIHtgHwDJzagR) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.2\-2](https://open.spotify.com/album/0gNaQL7iXpZHnzrvz12v1Y) | 2:48 | 2022-05-28 | 2022-06-10 |
-| [Flower \(Feat\. HAGA\)](https://open.spotify.com/track/57z0hwBdkJjQyTKBEzS0VE) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [HAGA](https://open.spotify.com/artist/2jVBqQhjFlqUSHIN3dcdZx) | [Hopeful Romantic](https://open.spotify.com/album/2TUXoQcdff7FuRXRzFEW7w) | 3:24 | 2026-07-29 |  |
+| [Flower \(Feat\. HAGA\)](https://open.spotify.com/track/57z0hwBdkJjQyTKBEzS0VE) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [HAGA](https://open.spotify.com/artist/2jVBqQhjFlqUSHIN3dcdZx) | [Hopeful Romantic](https://open.spotify.com/album/2TUXoQcdff7FuRXRzFEW7w) | 3:24 | 2026-07-29 | 2026-08-19 |
 | [Flying \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [4th Mini Album ?=3 GENEZIS3](https://open.spotify.com/album/2KHj5gzlNgcDyDSwfuC3si) | 3:15 | 2022-08-12 | 2022-08-19 |
 | [flying to the moon](https://open.spotify.com/track/5YzX30colrYsAWHm2voACK) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [flying to the moon](https://open.spotify.com/album/3ovuuQKTgY1W6BbF5Qx78g) | 3:29 | 2022-05-31 | 2022-07-24 |
 | [Fond](https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Circulation](https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by) | 3:46 | 2023-03-07 | 2023-03-14 |
@@ -669,6 +669,7 @@
 | [PRADA](https://open.spotify.com/track/0baJx4nGlfhylHDSlzj4bM) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [PRADA](https://open.spotify.com/album/7bNkxJREqmOfu6Mz4SNIHS) | 2:34 | 2022-04-19 | 2022-04-21 |
 | [Prescription](https://open.spotify.com/track/7bAdDCF5HouWbsHPwLAfYY) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Precious](https://open.spotify.com/album/5kSldVJSFCbuMmBgmSEQef) | 3:26 | 2022-06-29 | 2022-07-01 |
 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2023-12-16 | 2024-03-06 |
+| [PULL UP](https://open.spotify.com/track/5HVThrpHFfjp0bPqyCdKku) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [ICY BABY](https://open.spotify.com/album/31kYq6DtW2hNGHKwzQ9WC4) | 3:28 | 2026-08-18 |  |
 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 | 2023-06-14 |
 | [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 | 2026-05-27 | 2026-07-01 |
 | [Q&A](https://open.spotify.com/track/4hNcCU1IvB6Vaob6SNuaU3) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Q&A](https://open.spotify.com/album/5Wr4YTpwSvR0Z0SD2saGpC) | 2:57 | 2022-05-11 | 2022-05-29 |

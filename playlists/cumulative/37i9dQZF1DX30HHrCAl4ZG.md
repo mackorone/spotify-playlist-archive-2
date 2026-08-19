@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Hudson Freeman
 
-2,209 songs - 5 day 5 hr 17 min
+2,210 songs - 5 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1623,6 +1623,7 @@
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-25 | 2022-11-12 |
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-01-19 | 2024-03-02 |
 | [Rushh](https://open.spotify.com/track/1MKgLYh5VC8n1wKyeMe20n) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Rushh](https://open.spotify.com/album/1pKT67ESmAHQsVxdfSRbsx) | 3:10 | 2022-07-01 | 2022-07-30 |
+| [S'all Good](https://open.spotify.com/track/3mIqdG8PkazvXYorg6W6TH) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [S'all Good](https://open.spotify.com/album/2girpeIV79cmV98R8kD0Xb) | 3:02 | 2026-08-18 |  |
 | [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-14 | 2025-09-20 |
 | [Sage](https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:04 | 2025-11-07 | 2026-07-18 |
 | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/track/4j8Dz7TdDXoJ2z5zhqEwYX) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/album/6EPQ8xP6KHop02y6abUX3u) | 2:53 | 2021-06-07 | 2022-06-11 |

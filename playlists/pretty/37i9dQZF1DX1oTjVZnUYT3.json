@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 482984,
+  "num_followers": 483014,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Essa \u00c9 Pra Voc\u00eas",
-        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 266173,
       "name": "Palco",
       "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Essa \u00c9 Pra Voc\u00eas",
+        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
+      },
+      "artists": [
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -739,18 +739,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bicho De 7 Cabe\u00e7as",
-        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Taxi Lunar",
-      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Nos Botequins Da Vida",
         "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 190106,
       "name": "Olho por Olho",
       "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+        }
+      ],
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Faixa Amarela",
-      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Faixa Amarela",
+      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
     },
     {
       "added_at": "2021-11-26 03:18:52",

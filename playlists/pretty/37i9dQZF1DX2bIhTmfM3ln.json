@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 62207,
+  "num_followers": 62267,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-08-14 01:59:05",
       "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
+    },
+    {
+      "added_at": "2026-08-14 01:59:05",
+      "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 182790,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-08-14 01:59:05",
-      "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
     },
     {
       "added_at": "2026-08-14 01:59:05",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-08-14 01:59:05",
       "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-08-14 01:59:05",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
-    },
-    {
-      "added_at": "2026-08-14 01:59:05",
-      "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-08-14 01:59:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-14 01:59:05",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
-    },
-    {
-      "added_at": "2026-08-14 01:59:05",
-      "album": {
         "name": "RED PILL",
         "url": "https://open.spotify.com/album/1SKQZBp2bLPP3OMqoYAwkJ"
       },
@@ -923,6 +907,38 @@
       "duration_ms": 209514,
       "name": "HEAVENLY RACE",
       "url": "https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D"
+    },
+    {
+      "added_at": "2026-08-14 01:59:05",
+      "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+    },
+    {
+      "added_at": "2026-08-14 01:59:05",
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-08-14 01:59:05",
@@ -947,22 +963,6 @@
       "duration_ms": 196000,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt"
-    },
-    {
-      "added_at": "2026-08-14 01:59:05",
-      "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-08-14 01:59:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-08-14 01:59:05",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-08-14 01:59:05",
+      "album": {
         "name": "ON YOU (ii)",
         "url": "https://open.spotify.com/album/0pUPU8nToAwF09iTcUNGxH"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 205333,
       "name": "ON YOU - ii",
       "url": "https://open.spotify.com/track/1L7mx2rrY4CZEN7v7HsJna"
-    },
-    {
-      "added_at": "2026-08-14 01:59:05",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 196202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
     {
       "added_at": "2026-08-14 01:59:05",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-08-14 01:59:05",
       "album": {
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
+    },
+    {
+      "added_at": "2026-08-14 01:59:05",
+      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 171250,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
-    },
-    {
-      "added_at": "2026-08-14 01:59:05",
-      "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-08-14 01:59:05",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2026-08-14 01:59:05",
       "album": {
-        "name": "For Me, This Time",
-        "url": "https://open.spotify.com/album/2JF5YNoayMQ40NLPCtaOi9"
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
       },
       "artists": [
         {
-          "name": "Africaine",
-          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
         }
       ],
-      "duration_ms": 122410,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz"
+      "duration_ms": 186220,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
     }
   ],
   "unique_name": "AfroBae",

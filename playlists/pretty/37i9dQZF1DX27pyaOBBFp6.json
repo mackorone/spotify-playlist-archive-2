@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 26311,
+  "num_followers": 26314,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,38 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Karin Kent",
+          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Dans Je De Hele Nacht Met Mij?",
+      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste Van Boudewijn De Groot",
+        "url": "https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD"
+      },
+      "artists": [
+        {
+          "name": "Boudewijn de Groot",
+          "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Een Meisje Van Zestien",
+      "url": "https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Het Mooiste Van Wim Sonneveld",
         "url": "https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB"
       },
@@ -347,38 +379,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste Van Boudewijn De Groot",
-        "url": "https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD"
-      },
-      "artists": [
-        {
-          "name": "Boudewijn de Groot",
-          "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Een Meisje Van Zestien",
-      "url": "https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Karin Kent",
-          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Dans Je De Hele Nacht Met Mij?",
-      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Zai Zai Zai",
-        "url": "https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t"
-      },
-      "artists": [
-        {
-          "name": "Ben Cramer",
-          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
-        }
-      ],
-      "duration_ms": 185138,
-      "name": "Zai Zai Zai",
-      "url": "https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
         "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 171040,
       "name": "Brandend Zand",
       "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Zai Zai Zai",
+        "url": "https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t"
+      },
+      "artists": [
+        {
+          "name": "Ben Cramer",
+          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
+        }
+      ],
+      "duration_ms": 185138,
+      "name": "Zai Zai Zai",
+      "url": "https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Imca Marina",
-          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Harlekino",
-      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184944,
       "name": "Mooier Dan Rode Rozen",
       "url": "https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Imca Marina",
+          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Harlekino",
+      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
         }
       ],
-      "duration_ms": 209733,
-      "name": "Vanavond Om Kwart Over Zes Ben Ik Vrij",
-      "url": "https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR"
+      "duration_ms": 137360,
+      "name": "De Winter Was Lang",
+      "url": "https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
         }
       ],
-      "duration_ms": 137360,
-      "name": "De Winter Was Lang",
-      "url": "https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1"
+      "duration_ms": 209733,
+      "name": "Vanavond Om Kwart Over Zes Ben Ik Vrij",
+      "url": "https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste van De Heikrekels - Instrumentaal",
-        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
       "artists": [
         {
-          "name": "De Heikrekels",
-          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
+          "name": "Trea Dobbs",
+          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
         }
       ],
-      "duration_ms": 171551,
-      "name": "Jij Bent Voor Mij Alleen",
-      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
+      "duration_ms": 152626,
+      "name": "Ik Vraag Het Aan De Sterren",
+      "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+        "name": "Het Beste van De Heikrekels - Instrumentaal",
+        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
       "artists": [
         {
-          "name": "Trea Dobbs",
-          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+          "name": "De Heikrekels",
+          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
         }
       ],
-      "duration_ms": 152626,
-      "name": "Ik Vraag Het Aan De Sterren",
-      "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
+      "duration_ms": 171551,
+      "name": "Jij Bent Voor Mij Alleen",
+      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Hollandse Sterren Collectie",
+        "url": "https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jordaan",
+          "url": "https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e"
+        }
+      ],
+      "duration_ms": 134653,
+      "name": "Een Pikketanussie",
+      "url": "https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Hollandse Hits Top 100",
         "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hoes",
-          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
-      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "The Story of Indo Rock, Vol. 5",
         "url": "https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 182047,
       "name": "Ik Heb Me Weer Vergist",
       "url": "https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hoes",
+          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
+      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1387,22 +1403,6 @@
       "duration_ms": 216120,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Hollandse Sterren Collectie",
-        "url": "https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jordaan",
-          "url": "https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e"
-        }
-      ],
-      "duration_ms": 134653,
-      "name": "Een Pikketanussie",
-      "url": "https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt"
     },
     {
       "added_at": "2024-07-19 06:41:15",

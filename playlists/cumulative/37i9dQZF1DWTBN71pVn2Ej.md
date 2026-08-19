@@ -4,7 +4,7 @@
 
 > the best of modern alternative rock\. Cover: Basement
 
-897 songs - 2 day 3 hr 32 min
+901 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [25](https://open.spotify.com/track/4BVhT8hPa0RVTl5fixJlBR) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [25](https://open.spotify.com/album/3EafDY5hu3gxtoLfn2TKDL) | 3:07 | 2022-06-23 | 2022-08-13 |
 | [45](https://open.spotify.com/track/5USjlCAmUe7ujh6bgfgqi9) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [45](https://open.spotify.com/album/2S1Wn20X7sX2bk5AnVlwkv) | 3:05 | 2021-12-16 | 2022-01-28 |
 | [47.](https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Closer To;](https://open.spotify.com/album/34Bv0P1zXTnqLkL0B4ykXV) | 3:27 | 2024-11-22 | 2025-09-05 |
+| [480p](https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ) | [blinder](https://open.spotify.com/artist/6juJRLHxGjBVbtO7CYvhEe) | [low\-res](https://open.spotify.com/album/7rkhtgAWlFWTxFXfk9M1Cc) | 3:48 | 2026-08-18 |  |
 | [4U](https://open.spotify.com/track/2T1s4mN3JybGmimFX8zDTD) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Mi Amigo Slow Joy](https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS) | 3:32 | 2024-06-07 | 2024-07-16 |
 | [7 Seconds, 0 Decibels](https://open.spotify.com/track/6E8Aexx6ZtncuWl8dbin5Y) | [Car Underwater](https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF) | [Dagger Breaks Window](https://open.spotify.com/album/4uqzuq2jISc6QQp2zCUVTI) | 2:49 | 2026-06-17 |  |
 | [9 to 6](https://open.spotify.com/track/7z3mZr3Wpvi5XrAtXucjT4) | [geographics](https://open.spotify.com/artist/2QMOEU6pGuMSQg2aqZv3C9) | [9 to 6](https://open.spotify.com/album/6936VmvPztRd0oaI7EyPAF) | 2:12 | 2025-09-04 |  |
@@ -108,7 +109,7 @@
 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 | 2023-06-16 | 2023-10-14 |
 | [Bored Again](https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Bored Again](https://open.spotify.com/album/7kL4uWsTVVZEr2BPdh5lNi) | 3:27 | 2022-06-30 | 2022-10-08 |
 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 | 2024-03-01 | 2024-06-22 |
-| [bored\. tired\. torn.](https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [bored\. tired\. torn.](https://open.spotify.com/album/1iDIQfen7qk0y1XNJUdRAM) | 2:43 | 2025-04-18 |  |
+| [bored\. tired\. torn.](https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [bored\. tired\. torn.](https://open.spotify.com/album/1iDIQfen7qk0y1XNJUdRAM) | 2:43 | 2025-04-18 | 2026-08-19 |
 | [Borrowed](https://open.spotify.com/track/2oq0G2o0KHuyKxBoSEM6DN) | [Skeever](https://open.spotify.com/artist/2hwZtNH1ykR4CFp9xTY0VQ) | [Needle & Thread](https://open.spotify.com/album/5FzC8wCjWmXjQZ73HgKJVU) | 3:39 | 2024-11-15 |  |
 | [Bouncing in Blue](https://open.spotify.com/track/46XujpPTOFee7OygcdbwRr) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Bouncing in Blue](https://open.spotify.com/album/2UIdLEJQ76AQhKzvbR0D7j) | 5:37 | 2025-07-18 |  |
 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 | 2021-12-16 | 2022-03-25 |
@@ -129,6 +130,7 @@
 | [Bunny Man](https://open.spotify.com/track/6EBOq3nyD5vfZAHE7sGlaj) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/03sH5Msxg1MRYmmXlbUhO2) | 2:58 | 2021-12-16 | 2022-04-01 |
 | [Buoyancy](https://open.spotify.com/track/0QP7g52ZwptqZoP6FHQ370) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:09 | 2022-06-09 | 2022-09-07 |
 | [Burden](https://open.spotify.com/track/17JBaKcILsLf5uSVMU7CXZ) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Burden](https://open.spotify.com/album/1tSCIsiQV1aQo85Zbb5MdK) | 4:27 | 2023-09-08 | 2024-04-13 |
+| [Burial](https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB) | [nightdive](https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL) | [This Will End](https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb) | 3:58 | 2026-08-18 |  |
 | [Burn It Down](https://open.spotify.com/track/3OX31KXw9C7JWpY5GVQpsM) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Further / Burn It Down](https://open.spotify.com/album/5oTp8Rnk6Ou56WoSTLo9dW) | 3:17 | 2024-05-02 | 2024-07-09 |
 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 | 2021-12-16 | 2022-06-24 |
 | [Burning Like Violets](https://open.spotify.com/track/77RIyIGnTtiXAHoE3tKNC0) | [Better Half](https://open.spotify.com/artist/078nV9Dk8bSocpZGLLMIQ6) | [Burning Like Violets](https://open.spotify.com/album/3CAZHYWdCNIIi6vcBq8qLy) | 2:56 | 2023-07-28 | 2023-11-11 |
@@ -150,7 +152,7 @@
 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 | 2024-04-19 | 2024-10-19 |
 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 | 2021-12-16 | 2022-02-22 |
 | [Cellophane](https://open.spotify.com/track/1hKN1kdhCZ80PeTdSbiIKt) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/3KwC7ZqUBPkS02VmmV6Xlw) | 4:04 | 2024-01-26 | 2024-06-15 |
-| [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 | 2024-09-05 |  |
+| [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 | 2024-09-05 | 2026-08-19 |
 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 | 2022-01-13 | 2022-04-15 |
 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-02-17 | 2023-04-01 |
 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 | 2024-01-12 | 2024-01-27 |
@@ -256,6 +258,7 @@
 | [Dog Days](https://open.spotify.com/track/1DSAidjqyrbWnncVJFHHI9) | [Hippie Trim](https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet) | [Dog Days](https://open.spotify.com/album/0L2sIV6iq4FXfV8EWDt1XM) | 2:51 | 2024-04-26 | 2024-06-01 |
 | [Doll](https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Doll](https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q) | 1:54 | 2024-12-20 | 2025-02-05 |
 | [Don't Blink](https://open.spotify.com/track/0ruduTbBWx4IJibMyiMsdg) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Don't Blink](https://open.spotify.com/album/164xhM4RrTkcPYefR75Iy1) | 4:05 | 2024-08-23 | 2024-11-30 |
+| [Don't Move](https://open.spotify.com/track/3cXCctsuwJnTvJXNZ8Pv8K) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Don't Move](https://open.spotify.com/album/37fe0FOmbbGDUygbS9jJac) | 4:01 | 2026-08-18 |  |
 | [Done](https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 2:47 | 2023-04-07 | 2024-02-17 |
 | [Done](https://open.spotify.com/track/6Wc4I7yrNbhW7DYL7WD8AY) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 2:47 | 2023-03-24 | 2023-04-09 |
 | [Donnybrook](https://open.spotify.com/track/6g4avUTyT6Xoafkoat4Zb1) | [Holy Figures](https://open.spotify.com/artist/5MloJKqCcXBxPHJScw1NcW) | [New Superstitions](https://open.spotify.com/album/11Kz0KqGyKONG5Jh0iYny5) | 3:05 | 2023-03-31 | 2023-06-17 |
@@ -319,6 +322,7 @@
 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 | 2022-01-20 | 2022-06-03 |
 | [Full Heart](https://open.spotify.com/track/1grGsuX1el4X4f0R0M20AF) | [Columbus](https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA) | [Full Heart](https://open.spotify.com/album/38R1HaSF9323iJt6h1lb7b) | 3:29 | 2022-03-03 | 2022-07-01 |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-05-26 | 2022-09-07 |
+| [Full Spectrum Dominance](https://open.spotify.com/track/5sAuMXbKfqMDUr5RXHDND6) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Full Spectrum Dominance](https://open.spotify.com/album/03NNXeLjWKludR2XIHx1rn) | 3:35 | 2026-08-18 |  |
 | [Fun Facts](https://open.spotify.com/track/1vjTwx21Veo3c9B5tlIQhV) | [Keep](https://open.spotify.com/artist/0oPLf7tpRZAVZMHWA0Nu7W) | [Fun Facts](https://open.spotify.com/album/0ORkCuMcp2oUWWn3Wg1mkh) | 2:32 | 2025-04-04 |  |
 | [Further](https://open.spotify.com/track/44lz3Mt3IzPWWebPm2Glym) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Further / Burn It Down](https://open.spotify.com/album/5oTp8Rnk6Ou56WoSTLo9dW) | 3:03 | 2024-03-27 | 2024-05-03 |
 | [Future Proof](https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Future Proof](https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd) | 3:30 | 2024-01-26 | 2024-03-02 |
@@ -412,7 +416,7 @@
 | [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 | 2023-08-25 | 2024-02-03 |
 | [Hypernormalisation](https://open.spotify.com/track/2J0rZv5OT6Sop5M52ezhwO) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Hypernormalisation](https://open.spotify.com/album/2Meh2es5kGWqM1CcqgLt3i) | 3:27 | 2023-08-31 | 2024-01-04 |
 | [Hypodermic Sunshine](https://open.spotify.com/track/6XSEyo3CebbQCnUW5TJqC5) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Hypodermic Sunshine](https://open.spotify.com/album/6Gq2CGxhh8aEojqRgUbBfY) | 3:15 | 2023-08-31 | 2023-10-14 |
-| [i](https://open.spotify.com/track/6wIj3Cf2ASK19OZHaHjNtm) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [i](https://open.spotify.com/album/6JrsvITXlrdNqblb3nYTvR) | 2:11 | 2026-02-06 |  |
+| [i](https://open.spotify.com/track/6wIj3Cf2ASK19OZHaHjNtm) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [i](https://open.spotify.com/album/6JrsvITXlrdNqblb3nYTvR) | 2:11 | 2026-02-06 | 2026-08-19 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb) | 2:47 | 2022-09-30 | 2022-10-15 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/6UmsvKbBFOkDOxlgVIU6XY) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/3Anw877vaJLBkPoCCxVXVR) | 2:47 | 2022-10-14 | 2022-10-29 |
 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 | 2024-10-21 | 2025-01-18 |
@@ -692,7 +696,7 @@
 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 | 2023-03-31 | 2023-08-22 |
 | [Sitting Confused](https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG) | [Flowers For Emily](https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5) | [Sitting Confused](https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e) | 2:45 | 2024-01-12 | 2024-07-27 |
 | [Sixteen](https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Sixteen](https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY) | 3:44 | 2024-03-01 | 2024-04-19 |
-| [Skully](https://open.spotify.com/track/3SQ6JzOXsm12xz7Pzk4sPx) | [Jawdropped](https://open.spotify.com/artist/6AxlwzQp9748SDpdoSjqQa) | [Skully](https://open.spotify.com/album/4WHjBxWTqgoJ7iNnYnaqlg) | 2:48 | 2025-02-21 |  |
+| [Skully](https://open.spotify.com/track/3SQ6JzOXsm12xz7Pzk4sPx) | [Jawdropped](https://open.spotify.com/artist/6AxlwzQp9748SDpdoSjqQa) | [Skully](https://open.spotify.com/album/4WHjBxWTqgoJ7iNnYnaqlg) | 2:48 | 2025-02-21 | 2026-08-19 |
 | [SLAP](https://open.spotify.com/track/576fCBc5IBgj3EARjJrW6T) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [SONIC](https://open.spotify.com/album/2u6Q3uP3UfHPG2uXS5nPTF) | 3:51 | 2025-04-04 | 2025-09-05 |
 | [Sleepyhead](https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sleepyhead](https://open.spotify.com/album/53eyTL44Mlwj27s8BZjbm0) | 2:15 | 2023-07-14 | 2023-10-14 |
 | [Slide 2 Me](https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Slide 2 Me](https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi) | 2:37 | 2024-09-20 | 2024-10-05 |

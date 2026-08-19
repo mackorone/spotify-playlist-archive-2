@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,271 likes - 49 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,346 likes - 49 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

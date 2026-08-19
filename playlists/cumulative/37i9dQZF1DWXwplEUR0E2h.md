@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Ryan Castro
 
-272 songs - 14 hr 12 min
+273 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [KLKNTOKI](https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [KLKNTOKI](https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc) | 3:21 | 2023-09-30 | 2024-09-07 |
 | [La Fuga](https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0) | [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY) | [Nerdside](https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG) | 4:00 | 2025-12-25 | 2026-01-15 |
 | [La Matrícula](https://open.spotify.com/track/5AdaO2kBKuqgId3ibkRJf3) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Matrícula](https://open.spotify.com/album/3J8kBsavA60Uzu0WsFiztC) | 2:46 | 2024-02-16 | 2024-06-15 |
+| [La Monda](https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [La Monda](https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV) | 2:56 | 2026-08-18 |  |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2023-09-30 |  |
 | [LA ROMPE CORAZONES \(feat\. Hozwal\)](https://open.spotify.com/track/5aQQSaaFutM2LnbePJq5mh) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [365 días de aguante](https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC) | 3:30 | 2023-12-22 | 2024-05-18 |
 | [La Ruta](https://open.spotify.com/track/1rLEJvxnJyI8uqaQKxnbN8) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [La Ruta](https://open.spotify.com/album/7lFoAsoidKTQw5W56SozzI) | 2:40 | 2023-12-15 | 2024-01-20 |
@@ -158,7 +159,7 @@
 | [MI DIABLA Y MI DIOSA](https://open.spotify.com/track/7pWcwaILl84Pw72Fc87gcm) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [MI DIABLA Y MI DIOSA](https://open.spotify.com/album/2QEehMLUC9dIASX3Sy802Y) | 3:07 | 2024-05-10 | 2024-08-10 |
 | [Mi Novio Tiene Novia \- W Sound 02](https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Novio Tiene Novia \(W Sound 02\)](https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW) | 2:42 | 2024-10-11 | 2025-06-14 |
 | [MIA](https://open.spotify.com/track/728CYlabJRqWZG2er2Trul) | [AGUDELO888](https://open.spotify.com/artist/3awRE6jqoFW9iipvpPTCMM), [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [MIA](https://open.spotify.com/album/6gnfzv42EOXTYWF3ffDtn6) | 3:26 | 2025-06-13 | 2025-09-19 |
-| [Mil Veces](https://open.spotify.com/track/6GYaCM2ILUZAaW62kqI3sK) | [Juan Palacio](https://open.spotify.com/artist/1KTNuIeXk9dBwuqyH7TNXy) | [Mil Veces](https://open.spotify.com/album/7KkxtMpWGKhN71HAKWoiUz) | 2:48 | 2026-06-19 |  |
+| [Mil Veces](https://open.spotify.com/track/6GYaCM2ILUZAaW62kqI3sK) | [Juan Palacio](https://open.spotify.com/artist/1KTNuIeXk9dBwuqyH7TNXy) | [Mil Veces](https://open.spotify.com/album/7KkxtMpWGKhN71HAKWoiUz) | 2:48 | 2026-06-19 | 2026-08-19 |
 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 | 2024-05-17 | 2024-10-18 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2023-09-30 |  |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2023-09-30 |  |

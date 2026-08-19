@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,155 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,136 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
-| 2 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 2 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 3 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 | 4 | [can't be nothing but what i am](https://open.spotify.com/track/1VmbQReOH8U2zkxtZnOqae) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [can't be nothing but what i am](https://open.spotify.com/album/0GbmGm7MiBMuvDmj1sv4Os) | 2:48 |
 | 5 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0) | 2:49 |

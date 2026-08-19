@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Gus Dapperton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,952 likes - 201 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,901 likes - 201 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 18 | [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 |
 | 19 | [Hyper Independence](https://open.spotify.com/track/0sW0m4QcO3cLyeG2xDueOq) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Hyper Independence](https://open.spotify.com/album/4D22F5NOZ8rgmLYKfAJ2HX) | 3:32 |
 | 20 | [Pain is the Heart of Love](https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [Pain is the Heart of Love](https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17) | 4:05 |
-| 21 | [Makes no Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
+| 21 | [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
 | 22 | [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 |
 | 23 | [Friend or Foe](https://open.spotify.com/track/0WLvAxN0Wwd907cdULZ78w) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Friend or Foe](https://open.spotify.com/album/0Cb4PRCetIOMPxyHyqe8qC) | 2:41 |
 | 24 | [TETHERED](https://open.spotify.com/track/3T7dA8ChJjB3MO9BXAvWI7) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [TETHERED](https://open.spotify.com/album/3esZSIjwOc0gkaveIwToKd) | 3:22 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 38 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0) | 2:49 |
 | 39 | [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 |
 | 40 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
-| 41 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 41 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 42 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 |
 | 43 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
 | 44 | [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 106 | [Barii](https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 4:12 |
 | 107 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |
 | 108 | [Bone Collector](https://open.spotify.com/track/3EsL6WLnJvF6t3nuPBxRY2) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [The Thread](https://open.spotify.com/album/6x9IdAz7Br6NnlK7BBJubL) | 3:40 |
-| 109 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
+| 109 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
 | 110 | [Belt Loop](https://open.spotify.com/track/0Unm5jNI9srhLCutlTpzL1) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Belt Loop](https://open.spotify.com/album/0J962ZDgEJJWDPg1N1WRdC) | 3:24 |
 | 111 | [sucker punch !](https://open.spotify.com/track/0btEFu2NtMqxTdHwpp1svx) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [sucker punch !](https://open.spotify.com/album/2u2RAhN8yXLb5P4Glbskgo) | 2:04 |
 | 112 | [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 |

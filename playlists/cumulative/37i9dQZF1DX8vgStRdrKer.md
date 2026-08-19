@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-850 songs - 3 day 2 hr 7 min
+851 songs - 3 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [My Papa](https://open.spotify.com/track/2EZdxvhQQ4TM4bpSCNKJVy) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [My Papa](https://open.spotify.com/album/0y57n4C6UaDIhNZRFK3fhL) | 6:30 | 2025-11-07 | 2026-01-15 |
 | [My Prayer](https://open.spotify.com/track/0krXgqqRNthzcZb33awA4J) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew) | [My Prayer](https://open.spotify.com/album/0QfuwQkiU7MXWTwyNZzRDv) | 3:03 | 2025-06-27 | 2025-08-08 |
 | [My Secret Place \(Holy Spirit Take Over\)](https://open.spotify.com/track/5BAOWgioAf2ErmB0wjRqZo) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Secret Place \(Holy Spirit Take Over\)](https://open.spotify.com/album/0M2qtn0x6oRqQjDJ7JAGi9) | 8:50 | 2024-02-02 | 2025-06-20 |
+| [My Story](https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [My Story](https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU) | 7:22 | 2026-08-14 |  |
 | [My True Existence \- Live](https://open.spotify.com/track/6scfzYWAB8xMxgCLL7RwZz) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [My True Existence \(Live\)](https://open.spotify.com/album/49pSWkhrwXSsNj92qVywg7) | 17:27 | 2026-07-31 |  |
 | [My Whole Life](https://open.spotify.com/track/1AF0pdTy5CdhxxVxtA3s2H) | [Energio](https://open.spotify.com/artist/2WFKAMmxyoqKThUUqKSiT3) | [My Whole Life](https://open.spotify.com/album/2GVp1qUB5P9slBXHkMMF2Z) | 7:23 | 2025-07-04 | 2026-05-25 |
 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 | 2024-02-23 | 2025-06-27 |
@@ -576,7 +577,7 @@
 | [Oke Mmiri \- Live](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 8:24 | 2023-09-15 | 2023-11-14 |
 | [Old Church Basement \(feat\. Dante Bowe\)](https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:42 | 2023-09-15 | 2024-03-16 |
 | [OLD CLASSICS](https://open.spotify.com/track/4zcUIRgt8G3oqMXJM0BeIR) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [OLD CLASSICS](https://open.spotify.com/album/2mQVV6ZwmF2SokAz4qrhaa) | 11:47 | 2025-11-14 |  |
-| [Olilayakedinso](https://open.spotify.com/track/5LFCesKNKi39WWuayMHeqg) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Olilayakedinso](https://open.spotify.com/album/3ijAq3OcOp11IvIi7MdaUJ) | 2:19 | 2026-05-22 |  |
+| [Olilayakedinso](https://open.spotify.com/track/5LFCesKNKi39WWuayMHeqg) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Olilayakedinso](https://open.spotify.com/album/3ijAq3OcOp11IvIi7MdaUJ) | 2:19 | 2026-05-22 | 2026-08-19 |
 | [Olodumare](https://open.spotify.com/track/5WEuQzrRJIY319WGxTQzap) | [THETIMO](https://open.spotify.com/artist/4ocXP9f57pHcTw7XdvB1VK) | [Olodumare](https://open.spotify.com/album/3kv2UzzY6XJo3L4DyXC1m8) | 5:21 | 2025-08-01 | 2025-09-23 |
 | [Oloruko Aperire](https://open.spotify.com/track/48QoGRjNBnczAjWumJXU44) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx), [Damien Ollar](https://open.spotify.com/artist/677x4y8hdU2ZjSqjyoeRgF) | [Oloruko Aperire](https://open.spotify.com/album/2yM6S8VYCWtuBjSixb2wGe) | 4:55 | 2025-08-01 | 2025-08-13 |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-09-15 | 2024-03-16 |

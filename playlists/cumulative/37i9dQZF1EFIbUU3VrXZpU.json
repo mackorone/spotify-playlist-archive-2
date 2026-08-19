@@ -192,7 +192,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 209133,
       "name": "3:30 in the Morning (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6fVzk0ymuZBPwiLrfRmxjf"
@@ -1814,10 +1814,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 257506,
       "name": "Crank Me Up",
       "url": "https://open.spotify.com/track/19HGSYKWaHLgAM4d2znspF"
+    },
+    {
+      "album": {
+        "name": "Welcome To Fantasy Island",
+        "url": "https://open.spotify.com/album/0epOmt2PWB1NL6a0UXcqoI"
+      },
+      "artists": [
+        {
+          "name": "Adina Howard",
+          "url": "https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Crank Me Up feat. Missy Elliott",
+      "url": "https://open.spotify.com/track/67rZbu1odFB29MGKOdzyZK"
     },
     {
       "album": {

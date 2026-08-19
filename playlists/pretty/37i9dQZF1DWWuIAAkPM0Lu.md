@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og nye albums bl.a\. fra Lukas Graham og Ella Augusta ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,116 likes - 86 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,113 likes - 86 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

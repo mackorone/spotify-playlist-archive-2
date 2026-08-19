@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 145855,
+  "num_followers": 145881,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABtg1P1J2AjZRwiKo8znp8n",
+  "snapshot_id": "aoJPAAAAAAB6yTEU1k18Zu5NBInEXaNi",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 226493,
-      "name": "Set To Fail",
-      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
+      "duration_ms": 271120,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 271120,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
+      "duration_ms": 226493,
+      "name": "Set To Fail",
+      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
       "duration_ms": 245350,
       "name": "St. Catherine's Wheel",
       "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "Again We Rise",
+      "url": "https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "Again We Rise",
-      "url": "https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 218813,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/386p62g9kgvjExIVOKcHpP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Desolation",
-      "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
       "duration_ms": 187894,
       "name": "State Of Unrest",
       "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
     },
     {
       "added_at": null,

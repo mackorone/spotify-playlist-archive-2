@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 96704,
+  "num_followers": 96710,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAEACdVe9dcfBZrtQ4y+3tz",
+  "snapshot_id": "aoJPAAAAAADKBvTnu0uZQxBwK/rHNN8J",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
+      "duration_ms": 219866,
+      "name": "Apples",
+      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Apples",
-      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
+      "duration_ms": 227973,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
     },
     {
       "added_at": null,

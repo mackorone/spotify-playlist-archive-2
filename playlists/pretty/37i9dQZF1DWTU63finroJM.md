@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: THE DO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,574 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,572 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 20 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 |
 | 21 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
 | 22 | [stupid cupid luv!](https://open.spotify.com/track/21VVtTcXYq2ZWjJyptnLDS) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [stupid cupid luv!](https://open.spotify.com/album/09wOvte9tt0c4XXtQVI1ny) | 2:32 |
-| 23 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
-| 24 | [Rumah](https://open.spotify.com/track/42cTAPfWxsDzPEjc9X0vMc) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Rumah](https://open.spotify.com/album/5ewRhRooQ4J93Mz4vzaPkX) | 3:20 |
+| 23 | [Rumah](https://open.spotify.com/track/42cTAPfWxsDzPEjc9X0vMc) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Rumah](https://open.spotify.com/album/5ewRhRooQ4J93Mz4vzaPkX) | 3:20 |
+| 24 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
 | 25 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
 | 26 | [failed tailors](https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [failed tailors](https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05) | 2:42 |
 | 27 | [Read Your Mind](https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Read Your Mind](https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt) | 2:03 |

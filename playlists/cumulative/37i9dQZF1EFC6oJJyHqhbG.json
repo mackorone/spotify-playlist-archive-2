@@ -676,10 +676,32 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 205928,
       "name": "Electric Heaven",
       "url": "https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq"
+    },
+    {
+      "album": {
+        "name": "Electric Heaven",
+        "url": "https://open.spotify.com/album/7kj0ogoANmNMHRUqhDzw2v"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205544,
+      "name": "Electric Heaven",
+      "url": "https://open.spotify.com/track/2QGtkSwhGoBVZ7Gu9kCoXD"
     },
     {
       "album": {

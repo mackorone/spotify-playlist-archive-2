@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 125936,
+  "num_followers": 125943,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAChELH0A91bp8H1R6o5d9QP",
+  "snapshot_id": "aoJPAAAAAAA4BkoEV1eqcj7AIR/wxxV7",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 200613,
-      "name": "Noviembre (feat. Ely Guerra)",
-      "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
+      "duration_ms": 206694,
+      "name": "Convaleciente",
+      "url": "https://open.spotify.com/track/55uzTdtJjz4pHt51IoAJYI"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 206694,
-      "name": "Convaleciente",
-      "url": "https://open.spotify.com/track/55uzTdtJjz4pHt51IoAJYI"
+      "duration_ms": 200613,
+      "name": "Noviembre (feat. Ely Guerra)",
+      "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
       "duration_ms": 248720,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 201484,
+      "name": "Breve Historia de Alcohol y una Mujer",
+      "url": "https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW"
     },
     {
       "added_at": null,
@@ -591,54 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 201484,
-      "name": "Breve Historia de Alcohol y una Mujer",
-      "url": "https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -671,6 +639,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonando desde el Auditorio Nacional",
         "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 226466,
       "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Sin Mirar Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 209416,
-      "name": "Sin Mirar Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skannibal Party, Vol. 14",
-        "url": "https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn"
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Lamba Do Ska",
-      "url": "https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8"
+      "duration_ms": 242800,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
     },
     {
       "added_at": null,
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+        "name": "Skannibal Party, Vol. 14",
+        "url": "https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn"
       },
       "artists": [
         {
@@ -852,9 +836,25 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 212000,
-      "name": "No Puedo Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
+      "duration_ms": 228506,
+      "name": "Lamba Do Ska",
+      "url": "https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Nunca Digas Que No",
+      "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
     }
   ],
   "unique_name": "This Is Inspector",

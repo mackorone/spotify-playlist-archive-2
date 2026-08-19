@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Cherri Bomb, Jinx & The Royals and more",
+  "description": "With Die Mannequin, Mia Morris, Cherri Bomb and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 248376,
       "name": "Below Average",
       "url": "https://open.spotify.com/track/3wtRTHG1jcec4PCWhuuhdd"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 248174,
       "name": "Better in the Day",
       "url": "https://open.spotify.com/track/5cOPGhgJ9y6J6ErrOTKpi5"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 203440,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/011cR0KrGQqu7xyLDGNBav"
@@ -1450,6 +1450,24 @@
       "duration_ms": 231346,
       "name": "Blocking Out The Sun",
       "url": "https://open.spotify.com/track/4xfzXMtKocjSGzQLxyZMSd"
+    },
+    {
+      "album": {
+        "name": "Peace Sex & Tea - Single",
+        "url": "https://open.spotify.com/album/6GrOZrGSsxcWC2q7nNVYey"
+      },
+      "artists": [
+        {
+          "name": "TAT",
+          "url": "https://open.spotify.com/artist/1sdjlyYJxbkz7zeFjvwiCG"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167232,
+      "name": "Bloodstain",
+      "url": "https://open.spotify.com/track/5RZtPJceXmRhPEBTJ3gx32"
     },
     {
       "album": {
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 136642,
       "name": "Don\u2019t Stop the Music - Guitar TikTok Version",
       "url": "https://open.spotify.com/track/3blj1thvlo9s2CfnBAXgDM"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6XEmxbPWZN7JbZ230dPLkX"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 208666,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4kXObcVgUu9bQvgQj9pLEp"
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -5622,7 +5640,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -5936,7 +5954,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 159944,
       "name": "Keep Diggin",
       "url": "https://open.spotify.com/track/2e1L8kmgviwZ1mcgqWsoxC"
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -6026,7 +6044,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -6242,7 +6260,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -7248,7 +7266,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 202499,
       "name": "New Shirt",
       "url": "https://open.spotify.com/track/7Kf3bAUkl2zZpQGqaSptGz"
@@ -7882,7 +7900,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 209806,
       "name": "NOVA KANE",
       "url": "https://open.spotify.com/track/1Phkau8vCW6HUUfRWrqOy7"
@@ -8700,7 +8718,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -9186,7 +9204,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 175786,
       "name": "Sacrificial Lamb",
       "url": "https://open.spotify.com/track/5drW7JCdJyqCOAC3d7RVJE"
@@ -9294,7 +9312,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/5knt1NyZCbNd9dKuwEkU5O"
@@ -9312,7 +9330,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 181124,
       "name": "SCHIZOPHRENIA",
       "url": "https://open.spotify.com/track/2dZIg1wj1BIxdzfwVoeg8K"
@@ -9576,7 +9594,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -9976,7 +9994,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -10160,7 +10178,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -10506,7 +10524,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 164500,
       "name": "The Longest Time",
       "url": "https://open.spotify.com/track/5wemf1fpNRhbo18p6t8fL2"
@@ -10838,7 +10856,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 149324,
       "name": "Time's Up",
       "url": "https://open.spotify.com/track/0BpwRLe2rqbT6UOV9X6lDf"
@@ -11054,7 +11072,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 160732,
       "name": "Twenty Seven",
       "url": "https://open.spotify.com/track/6Y9nBNxMRXwL0JYvjsKbTN"
@@ -11360,7 +11378,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -11994,7 +12012,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"

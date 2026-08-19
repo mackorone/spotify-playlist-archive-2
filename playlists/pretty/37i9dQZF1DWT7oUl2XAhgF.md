@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,309 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,396 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

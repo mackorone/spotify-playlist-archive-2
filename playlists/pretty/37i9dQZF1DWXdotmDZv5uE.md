@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,825 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,812 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 42 | [El Tapatío](https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:59 |
 | 43 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 44 | [Jarabe Tapatío](https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Numero 1 Del Mariachi Vargas De Tecalitlan](https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy) | 2:36 |
-| 45 | [Lumbares](https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Lumbares](https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx) | 3:22 |
-| 46 | [Mucho Corazón \- Versión Radio](https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Radiolatina](https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1) | 4:06 |
+| 45 | [Mucho Corazón \- Versión Radio](https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Radiolatina](https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1) | 4:06 |
+| 46 | [Lumbares](https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Lumbares](https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx) | 3:22 |
 | 47 | [El Jalisciense](https://open.spotify.com/track/2cTKK7oTSaFDVkNabvTulK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 2:36 |
 | 48 | [Mermaid Sashimi](https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG) | [Mermaid Sashimi](https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X) | 4:52 |
 | 49 | [Decidir](https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Y si tuviera disquera](https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U) | 4:37 |
-| 50 | [Zenit](https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 4:34 |
-| 51 | [Can U Feel Me?](https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [Red Album](https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse) | 3:17 |
+| 50 | [Can U Feel Me?](https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [Red Album](https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse) | 3:17 |
+| 51 | [Zenit](https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 4:34 |
 | 52 | [Explotar](https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Explotar](https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL) | 3:11 |
 | 53 | [Todo Con Exceso](https://open.spotify.com/track/7GoWrG8SMUgNQOK5P7gyFX) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [Rock En Español \- Lo Mejor De Cuca](https://open.spotify.com/album/08zGkegYfFHnM4trm489QN) | 3:45 |
 | 54 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 61 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
 | 62 | [Besarte](https://open.spotify.com/track/18LrVWfCK1PDqoJrUv4heg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Besarte](https://open.spotify.com/album/5UvKuabUMdYmFRW3uku8Iv) | 3:39 |
 | 63 | [células adolescentes](https://open.spotify.com/track/0nQZqZDrPXqTCA1aAoQuL6) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [células adolescentes](https://open.spotify.com/album/4gg7Tkx76AySifr2gDqazm) | 2:54 |
-| 64 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
-| 65 | [Sin Ti](https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Nos Creían Mudos](https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih) | 3:36 |
+| 64 | [Sin Ti](https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Nos Creían Mudos](https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih) | 3:36 |
+| 65 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
 | 66 | [Super 8](https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV) | [La Dosis](https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7) | [La Dosis](https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ) | 3:24 |
 | 67 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
 | 68 | [Vudú](https://open.spotify.com/track/3NOqbsgsUlgDIqSyUGy85R) | [Garigoles](https://open.spotify.com/artist/4wPyNRBXqP3IZLVJP3AsTX) | [No esperes por el caos..\. este llega cada fin de semana](https://open.spotify.com/album/46DXNSqal3i2c4gq9BLPDB) | 3:50 |

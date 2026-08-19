@@ -258,6 +258,28 @@
     {
       "album": {
         "name": "birthday cake (duet)",
+        "url": "https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "birthday cake (duet)",
+      "url": "https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S"
+    },
+    {
+      "album": {
+        "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
       },
       "artists": [
@@ -272,7 +294,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 205280,
       "name": "birthday cake - duet",
       "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"

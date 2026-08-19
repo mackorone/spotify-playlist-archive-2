@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 44098,
+  "num_followers": 44132,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Ghazal",
-        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
-      },
-      "artists": [
-        {
-          "name": "Ammri",
-          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
-        },
-        {
-          "name": "Jang Dhillon",
-          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
-        }
-      ],
-      "duration_ms": 199511,
-      "name": "Ghazal",
-      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
-    },
-    {
-      "added_at": "2026-08-14 12:11:38",
-      "album": {
         "name": "Deewani",
         "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 184701,
       "name": "Deewani",
       "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
+    },
+    {
+      "added_at": "2026-08-14 12:11:38",
+      "album": {
+        "name": "Ghazal",
+        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
+      },
+      "artists": [
+        {
+          "name": "Ammri",
+          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        }
+      ],
+      "duration_ms": 199511,
+      "name": "Ghazal",
+      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
     },
     {
       "added_at": "2026-08-14 12:11:38",
@@ -943,22 +943,30 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Ni Mein Kamli Aa",
-        "url": "https://open.spotify.com/album/7B5kb2fzlv7yt75I0x0NEv"
+        "name": "Kaaga",
+        "url": "https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI"
       },
       "artists": [
         {
-          "name": "Monika Athwal",
-          "url": "https://open.spotify.com/artist/1JaJczN5yy3Bv1Hjct1iyZ"
+          "name": "Gulshan Meer",
+          "url": "https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP"
         },
         {
-          "name": "MR Music",
-          "url": "https://open.spotify.com/artist/3HitoCKdWKqWjvZeiH2a6D"
+          "name": "Sultana Nooran",
+          "url": "https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG"
+        },
+        {
+          "name": "Sahil Meer",
+          "url": "https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT"
+        },
+        {
+          "name": "Daman",
+          "url": "https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm"
         }
       ],
-      "duration_ms": 342047,
-      "name": "Ni Mein Kamli Aa",
-      "url": "https://open.spotify.com/track/0Iwrvl0JoQj2JbAgdwwHjc"
+      "duration_ms": 225454,
+      "name": "Kaaga",
+      "url": "https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA"
     }
   ],
   "unique_name": "Punjabi Ghazals & Qawwalis",

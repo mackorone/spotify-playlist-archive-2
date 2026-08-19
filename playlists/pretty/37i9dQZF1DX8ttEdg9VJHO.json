@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368110,
+  "num_followers": 368094,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/1Z2pVASFfcibcjjvgD8thx"
+      },
+      "artists": [
+        {
+          "name": "Cammy Barnes",
+          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
+        }
+      ],
+      "duration_ms": 194210,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/04qoyDX07T8beAtmhbp5hc"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/1Z2pVASFfcibcjjvgD8thx"
-      },
-      "artists": [
-        {
-          "name": "Cammy Barnes",
-          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
-        }
-      ],
-      "duration_ms": 194210,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/04qoyDX07T8beAtmhbp5hc"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Don't Stop The Car",
-        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Don't Stop The Car",
-      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/0oHB2HAnWAToJvn7c4qZIt"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 179893,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/4oWMKNeoD1ghLCy37m0wQ1"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Don't Stop The Car",
+        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Don't Stop The Car",
+      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
     },
     {
       "added_at": "2026-08-06 22:00:47",

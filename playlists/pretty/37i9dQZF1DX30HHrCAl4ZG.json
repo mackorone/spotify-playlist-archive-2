@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Hudson Freeman",
-  "num_followers": 804487,
+  "num_followers": 804488,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKjqF+VAdymizOZK9EH3Rz6DPPG",
+  "snapshot_id": "AAAAAK5Jgu/zdyD+/iyaswDizFuYNsX+",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:35",
@@ -71,6 +71,22 @@
       "duration_ms": 243302,
       "name": "7563",
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "added_at": "2026-08-18 22:27:25",
+      "album": {
+        "name": "S'all Good",
+        "url": "https://open.spotify.com/album/2girpeIV79cmV98R8kD0Xb"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 182239,
+      "name": "S'all Good",
+      "url": "https://open.spotify.com/track/3mIqdG8PkazvXYorg6W6TH"
     },
     {
       "added_at": "2026-08-07 18:35:53",

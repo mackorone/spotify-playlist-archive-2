@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石川紅奈
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山中千尋
 
-562 songs - 1 day 21 hr 47 min
+566 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,15 +215,18 @@
 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 | 2022-09-20 | 2024-12-18 |
 | [JAPAN THREE](https://open.spotify.com/track/23O1af2u7yEmUjlJRcGP8C) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [JAPAN THREE](https://open.spotify.com/album/4rWMwDiCeLEmohFIEoCfLE) | 2:26 | 2022-11-15 | 2022-11-17 |
 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 | 2022-11-15 | 2024-12-18 |
+| [Just to Cross the Night](https://open.spotify.com/track/5gmyYTTxpKg3k5KPjVJtyS) | [epice](https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy) | [Just to Cross the Night](https://open.spotify.com/album/45GTMxoZYY0I8VJxKTaFtV) | 4:13 | 2026-08-18 |  |
 | [K.K.'s Cane](https://open.spotify.com/track/3JjUNwTiFKNoNaH4bpehXx) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [K.K.'s Cane](https://open.spotify.com/album/0OLQpJ5nxp1Fjx2x66dJzp) | 5:34 | 2025-11-05 | 2026-02-04 |
 | [Kakegae no Naikoto](https://open.spotify.com/track/4LnowXhPcaJjOXnOxoNuyy) | [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Trio IV: The Mountains, They Listen](https://open.spotify.com/album/5x9i8TmnKJWU6n9CGRIxbP) | 3:29 | 2025-12-09 | 2026-02-23 |
 | [Kaleidoscope](https://open.spotify.com/track/4wtH5mVAQbjEyqL6enhjaq) | [吉野智子](https://open.spotify.com/artist/7wdSnrntWTYBi1vePAG0oh) | [Kaleidoscope](https://open.spotify.com/album/3xKn46XVCHugdlJmRlxVYS) | 6:38 | 2023-01-24 | 2023-03-08 |
 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 | 2024-08-06 |  |
 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 | 2024-09-17 |  |
+| [kopfkino](https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [kopfkino](https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN) | 3:03 | 2026-08-18 |  |
 | [Kowree Sambazzi](https://open.spotify.com/track/39WZQw0C5qQ9SEw2OGyMIT) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Bembe Segue](https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4) | [KJM COVERS Kyoto Jazz Massive 30th Anniversary Compilation](https://open.spotify.com/album/64tGM8VnNcS2EMWLdmtSbI) | 6:06 | 2024-12-17 | 2025-01-02 |
 | [La Ritournelle](https://open.spotify.com/track/4J5oY955l3aXEmOJ7KS5l1) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Revival](https://open.spotify.com/album/0T9WYNXV8oI1cd0pGachtb) | 4:34 | 2023-01-24 | 2023-04-19 |
 | [Ladies Love Mercedes](https://open.spotify.com/track/6U1b0PMdLncRbYWxKWIAkE) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [Revisited!](https://open.spotify.com/album/4X7rmRm4qONLH4815bRdse) | 3:22 | 2026-06-25 |  |
 | [Last Recollection](https://open.spotify.com/track/1i5dlXpWm2qyygCqeaGPD5) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [We'll be always on your side](https://open.spotify.com/album/5qD1q5sIgRJaU1mnvtdwHT) | 3:38 | 2022-09-06 | 2022-12-21 |
+| [Lawns](https://open.spotify.com/track/73oEK8YsyuFMtfeAjJmWrA) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Lawns](https://open.spotify.com/album/7meblDWRnHycYkKYEWtbZe) | 4:10 | 2026-08-18 |  |
 | [Left Eye](https://open.spotify.com/track/4SK4LWklb4hZn58MB3uXKq) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Left Eye](https://open.spotify.com/album/5rJ7aRujo2w9txa1m7Fy8t) | 6:40 | 2024-06-11 | 2024-09-18 |
 | [Les Fleurs](https://open.spotify.com/track/5qZlBTwuQDR2FUB6cWQeDY) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Les Fleurs](https://open.spotify.com/album/65G0cgLf48rPAtl9GmZEec) | 5:12 | 2026-07-28 |  |
 | [Life](https://open.spotify.com/track/1foVQBPHeze4jhdKtQCFFs) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS) | [Life](https://open.spotify.com/album/3kMapkyqMsAi6Hi5I5lfbc) | 3:56 | 2024-07-09 | 2024-08-28 |
@@ -251,6 +254,7 @@
 | [massive](https://open.spotify.com/track/5ZLhUcvJ8XVOQ8syjyPYod) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [GOOD LUCK SOUND TRACKS 2](https://open.spotify.com/album/5BDrpgNmD2rtFlLr6zKj2P) | 3:51 | 2026-07-17 |  |
 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/79o3fOmpXxhcxMa7mikdhW) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Life / Master Blaster \(Jammin'\)](https://open.spotify.com/album/3KJOzHhk0troKxezPhNDuf) | 4:36 | 2024-08-06 | 2024-09-18 |
 | [merry pitch'n](https://open.spotify.com/track/13N5C1T7JzgtabFHDOVOlN) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [merry pitch'n](https://open.spotify.com/album/1vA6gYERxgJGNTcr0SHLtl) | 3:44 | 2025-02-18 | 2025-04-05 |
+| [Metamorphose](https://open.spotify.com/track/5ieaFuii1CPqtb3MnOEh5l) | [杉山寛](https://open.spotify.com/artist/2zEVxOLSb6U1OA1uKHQIZw) | [Metamorphose](https://open.spotify.com/album/0xwUq5iVUJjcs5A8aN7KXM) | 6:42 | 2026-08-18 |  |
 | [MICHi](https://open.spotify.com/track/7G0ernmqIEHG1kamOyVf7P) | [Hiroaki Nakahara](https://open.spotify.com/artist/0SEnJE6D4QGANQU6IYGEq5) | [MICHi](https://open.spotify.com/album/6kgCFfESnmaT25jB5oseTz) | 3:37 | 2026-03-17 | 2026-04-23 |
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-09-06 | 2023-01-20 |
 | [Mile in the green](https://open.spotify.com/track/7rkZY26t32ha7lGHGnsGH7) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 7:03 | 2022-12-27 | 2023-04-19 |

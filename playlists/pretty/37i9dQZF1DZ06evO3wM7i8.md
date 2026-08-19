@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,705 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,709 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 41 | [After You're Gone](https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 3:07 |
 | 42 | [Place de Brouckere](https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:56 |
 | 43 | [Viper's Dream](https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Maurice Meunier](https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru), [Eddie Bernard](https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [Jacques Martinon](https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 3:01 |
-| 44 | [Out of Nowhere](https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 3:16 |
+| 44 | [Georgia on My Mind](https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [l'inoubliable](https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc) | 3:14 |
 | 45 | [Nagasaki](https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:51 |
-| 46 | [Lover Man \(Oh, Where Can You Be?\) \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/4w473yXLEtb4tVQ592R8dE) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:10 |
-| 47 | [Georgia on My Mind](https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [l'inoubliable](https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc) | 3:14 |
+| 46 | [Out of Nowhere](https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 3:16 |
+| 47 | [Lover Man \(Oh, Where Can You Be?\) \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/4w473yXLEtb4tVQ592R8dE) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:10 |
 | 48 | [Swingtime in Springtime](https://open.spotify.com/track/2agAxheoBhskd2Od2No85G) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Souvenirs de Django Reinhardt \(Jazz Connoisseur\)](https://open.spotify.com/album/3gG6ulFkKUeWw39WEazp4F) | 3:07 |
 | 49 | [The Sheik of Araby](https://open.spotify.com/track/6RKY7AM4QBgUM8KTVm6wXl) | [Ted Snyder](https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Hot Club de France Quintet](https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj) | [Reinhardt, Django: Swingin' With Django \(1937\)](https://open.spotify.com/album/0bpNyv4X1eyYKRSnbtkpX3) | 3:08 |
 
-Snapshot ID: `aoD9gAAAAABi3pjeW1CTycc5sgfG5Rrh`
+Snapshot ID: `aoJPAAAAAAASpDIutPJrRPG4L3pz2Cw2`

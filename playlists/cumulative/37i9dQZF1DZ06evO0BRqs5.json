@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 233433,
       "name": "Decay",
       "url": "https://open.spotify.com/track/51owOM1QNjD2YNrm9jUNQQ"
@@ -1248,6 +1248,24 @@
       "duration_ms": 265053,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30aa\u30e2\u30a4",
       "url": "https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ca\u30e0\u30b1",
+        "url": "https://open.spotify.com/album/43rN9V34h3yp3n8LBdBalR"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "\u30cf\u30ca\u30e0\u30b1",
+      "url": "https://open.spotify.com/track/6qpbuxmxdJ6JD5xcclzZSD"
     },
     {
       "album": {

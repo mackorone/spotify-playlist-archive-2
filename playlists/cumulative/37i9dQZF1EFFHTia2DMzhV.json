@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 286093,
       "name": "A Fellow Needs A Girl",
       "url": "https://open.spotify.com/track/7C7lRq6GjavadXmQQ0kEey"
@@ -162,6 +162,24 @@
       "duration_ms": 297560,
       "name": "A Fellow Needs A Girl",
       "url": "https://open.spotify.com/track/2h85GfydrYHNA5m90Mr5zC"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "A Fellow Needs A Girl - alternate take",
+      "url": "https://open.spotify.com/track/5NOhmkFcxuCtcn45VLIdJM"
     },
     {
       "album": {
@@ -531,6 +549,24 @@
     },
     {
       "album": {
+        "name": "South Pacific - Original 1949 Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/37a5gwhtE6ZZbllt6PsnfC"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205923,
+      "name": "Bali Ha'i",
+      "url": "https://open.spotify.com/track/49x68Stt4KZQ1EvlHKG0A3"
+    },
+    {
+      "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
       },
@@ -546,7 +582,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 219400,
       "name": "Bali Ha'i - (From the 20th Century-Fox film \"South Pacific\")",
       "url": "https://open.spotify.com/track/3xeZCv2zJguniFYYvGQceq"
@@ -1442,10 +1478,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 164066,
       "name": "I Whistle A Happy Tune",
       "url": "https://open.spotify.com/track/5Z2gU4zFvyZ1qlnazZ9U6s"
+    },
+    {
+      "album": {
+        "name": "The Voice of Hollywood",
+        "url": "https://open.spotify.com/album/5Rg4ZQsnsscTcu1rRHd3P1"
+      },
+      "artists": [
+        {
+          "name": "Marni Nixon",
+          "url": "https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164813,
+      "name": "I Whistle a Happy Tune",
+      "url": "https://open.spotify.com/track/6Y2TR6aosaUpbJ8eBVm8v6"
     },
     {
       "album": {
@@ -1609,6 +1663,28 @@
     },
     {
       "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255226,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+    },
+    {
+      "album": {
         "name": "EMI Country Masters: 50 Originals",
         "url": "https://open.spotify.com/album/7JzqaIlXUcX5ncpe3iIqhU"
       },
@@ -1757,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Carousel ( 1956 Film Score)",
+        "url": "https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w"
+      },
+      "artists": [
+        {
+          "name": "Barbara Ruick",
+          "url": "https://open.spotify.com/artist/3hlVtWfnDNqQUVFmLq0hkK"
+        },
+        {
+          "name": "Claramae Turner",
+          "url": "https://open.spotify.com/artist/1pgamPzALsuRmrdn1iHxVZ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "June Is Bustin' Out All Over",
+      "url": "https://open.spotify.com/track/6pPRqrIhOSTcRVWKp3xX83"
+    },
+    {
+      "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
       },
@@ -1772,7 +1870,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 405320,
       "name": "June Is Bustin' Out All Over",
       "url": "https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9"
@@ -1820,6 +1918,24 @@
       "duration_ms": 176840,
       "name": "Lonely Room",
       "url": "https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2sQaBIgG1D3Qshi0g5snI8"
     },
     {
       "album": {
@@ -2070,7 +2186,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 140893,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0"
@@ -2800,7 +2916,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 222173,
       "name": "Shall We Dance?",
       "url": "https://open.spotify.com/track/4Xj4BdsvDCyXXs8g3H9vkU"
@@ -3184,7 +3300,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 260000,
       "name": "Surrey With The Fringe On Top",
       "url": "https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6"
@@ -3586,7 +3702,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 163049,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/1PSnRPPB8jxLwu6OyMplq3"
@@ -3665,6 +3781,32 @@
     },
     {
       "album": {
+        "name": "The Sound Of Music",
+        "url": "https://open.spotify.com/album/4B1Anoo4xyFeabCkRWXjHs"
+      },
+      "artists": [
+        {
+          "name": "Mary Martin",
+          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
+        },
+        {
+          "name": "Theodore Bikel",
+          "url": "https://open.spotify.com/artist/67p0NB8haJlULQy2gr4iKZ"
+        },
+        {
+          "name": "Children",
+          "url": "https://open.spotify.com/artist/4RCqqSOKpCh0k0PsWRa3Ps"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "The Sound Of Music",
+      "url": "https://open.spotify.com/track/1hS3SioYY0NGhTIBXHiuG7"
+    },
+    {
+      "album": {
         "name": "Music from Rodgers & Hammerstein's the Sound of Music",
         "url": "https://open.spotify.com/album/2yFRTGeDAeNeL5F4g63zWc"
       },
@@ -3680,6 +3822,24 @@
       "duration_ms": 251680,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/0dxSPAlOCyQQk7aBkHpmRe"
+    },
+    {
+      "album": {
+        "name": "Mary Martin Sings Richard Rodgers",
+        "url": "https://open.spotify.com/album/5DdTWHeesJyIA2jBVfCzP4"
+      },
+      "artists": [
+        {
+          "name": "Mary Martin",
+          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "The Sound of Music - Bonus Track from 'South Pacific'",
+      "url": "https://open.spotify.com/track/5RQeK1Sf06Qon4IL7qHesY"
     },
     {
       "album": {
@@ -3752,7 +3912,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 195613,
       "name": "The Sound of Music - Reprise",
       "url": "https://open.spotify.com/track/6gLozZ4U1u2ZG8sjCuXSoE"
@@ -3816,6 +3976,32 @@
       "duration_ms": 209117,
       "name": "The Student Serenade from the Student Prince",
       "url": "https://open.spotify.com/track/3BGKqOh9Entxma8K03wRqu"
+    },
+    {
+      "album": {
+        "name": "Gordon MacRae - Greatest Hits",
+        "url": "https://open.spotify.com/album/7CanZpnDy3yEsP5DN7Az6x"
+      },
+      "artists": [
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        },
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Charlotte Greenwood",
+          "url": "https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293133,
+      "name": "The Surrey with the Fringe on Top (From Oklahoma)",
+      "url": "https://open.spotify.com/track/2okfraIAWPYig5lZx1aOd1"
     },
     {
       "album": {

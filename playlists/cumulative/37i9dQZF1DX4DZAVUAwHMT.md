@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Royal Blood
 
-1,505 songs - 3 day 12 hr 44 min
+1,506 songs - 3 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,6 +804,7 @@
 | [Man on The Moon](https://open.spotify.com/track/5axqHofGz7te1YRAVJiXPA) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Man on The Moon](https://open.spotify.com/album/6vTJpzK34hbmKzrftG34G8) | 2:30 | 2025-05-08 | 2025-07-11 |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2025-09-19 |
 | [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 | 2025-01-31 | 2025-05-09 |
+| [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-18 |  |
 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 | 2024-01-26 | 2024-04-19 |
 | [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 | 2025-11-21 | 2025-12-05 |
 | [Martyr](https://open.spotify.com/track/5ovUlg2CHDD1o8O4wmdgPg) | [Bitch Falcon](https://open.spotify.com/artist/6NsNTjFVfNwUfLpKbsmt4x) | [Staring at Clocks](https://open.spotify.com/album/2DUy25DJvnDCWPf6ui6fFd) | 3:33 | 2024-03-08 | 2024-03-09 |

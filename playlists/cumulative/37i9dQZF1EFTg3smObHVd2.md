@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 7 hr 12 min
+125 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Say You're Wrong](https://open.spotify.com/track/0WbSs6CUc3UQxy4VjkaKIu) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Like A Woman](https://open.spotify.com/album/7sTP5Nk2rQJpXpPrJFRdyN) | 2:50 | 2024-02-27 |  |
 | [Sexy Love](https://open.spotify.com/track/5ZEm9wX8MwWLARMOwlarWD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:31 | 2024-02-27 |  |
 | [SHOW ME THE WAY](https://open.spotify.com/track/30Naxz6cEyiqGcv5MSVnuY) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Zadie Smith](https://open.spotify.com/artist/7N0diSByEc14gBuIstYSHB) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:40 | 2024-02-27 |  |
-| [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 | 2024-02-27 |  |
+| [SING](https://open.spotify.com/track/3kFmUPhWXmprYMSCxOtR2u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:07 | 2026-08-18 |  |
+| [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 | 2024-02-27 | 2026-08-19 |
 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 | 2024-02-27 |  |
 | [Sounds Like Heaven](https://open.spotify.com/track/7gVhz7lwTgAYHE5IEWAGrn) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:26 | 2024-02-27 |  |
 | [Stars](https://open.spotify.com/track/7lkwr08KZ3un9SKYNHZhf9) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stars](https://open.spotify.com/album/1vL7KWDVXbMncqdJQOImn7) | 6:28 | 2025-02-11 |  |

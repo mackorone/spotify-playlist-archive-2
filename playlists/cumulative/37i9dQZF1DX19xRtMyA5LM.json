@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Een exclusieve nieuwe track van Jack\u2757\ufe0f<a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
+  "description": "Twee exclusieve nieuwe tracks van Jack \u2757\ufe0f <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -10876,6 +10876,10 @@
         {
           "name": "Mesy",
           "url": "https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk"
+        },
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
         }
       ],
       "date_added": "2026-08-13",
@@ -11122,6 +11126,24 @@
       "duration_ms": 125977,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/2yBeSlB2ou99IppHsoKn6w"
+    },
+    {
+      "album": {
+        "name": "Wayne Rooney",
+        "url": "https://open.spotify.com/album/3ez4U5BxI9wj7ulAFpw5GQ"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Wayne Rooney",
+      "url": "https://open.spotify.com/track/1uJdbQ7DSdrL7qsqTn6M3y"
     },
     {
       "album": {

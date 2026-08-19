@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21825,
+  "num_followers": 21832,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2025-10-10 00:01:09",
-      "album": {
-        "name": "Halleluyah",
-        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 416232,
-      "name": "Halleluyah",
-      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
-    },
-    {
       "added_at": "2024-09-30 14:25:52",
       "album": {
         "name": "Nara",
@@ -403,6 +387,22 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+    },
+    {
+      "added_at": "2025-10-10 00:01:09",
+      "album": {
+        "name": "Halleluyah",
+        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 416232,
+      "name": "Halleluyah",
+      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -677,26 +677,6 @@
       "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "Benefit",
-        "url": "https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        },
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 419027,
-      "name": "Benefit",
-      "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
-    },
-    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "Beautiful One",
@@ -715,6 +695,26 @@
       "duration_ms": 329042,
       "name": "Beautiful One",
       "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
+    },
+    {
+      "added_at": "2025-10-17 00:01:26",
+      "album": {
+        "name": "Benefit",
+        "url": "https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 419027,
+      "name": "Benefit",
+      "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
     },
     {
       "added_at": "2025-12-19 00:01:10",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "ABBA FATHER (raw)",
-        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 68869,
-      "name": "ABBA FATHER - raw",
-      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Breakthrough",
@@ -955,6 +939,22 @@
       "duration_ms": 180000,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
+    },
+    {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "ABBA FATHER (raw)",
+        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 68869,
+      "name": "ABBA FATHER - raw",
+      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1015,6 +1015,22 @@
       "duration_ms": 336585,
       "name": "My Daddy Loves Me",
       "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "God Is Cooking",
+        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Oruko",
+      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
     },
     {
       "added_at": "2026-07-24 00:01:56",
@@ -1101,20 +1117,20 @@
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
-      "added_at": "2026-08-14 00:01:28",
+      "added_at": "2026-07-31 00:01:30",
       "album": {
-        "name": "God Is Cooking",
-        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
+        "name": "Ina Son Ka",
+        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
       },
       "artists": [
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+          "name": "Dr Becky Paul-Enenche",
+          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Oruko",
-      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
+      "duration_ms": 220318,
+      "name": "Ina Son Ka",
+      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
     },
     {
       "added_at": "2026-06-12 08:46:43",
@@ -1135,22 +1151,6 @@
       "duration_ms": 497779,
       "name": "We Worship You",
       "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
-    },
-    {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "Ina Son Ka",
-        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
-      },
-      "artists": [
-        {
-          "name": "Dr Becky Paul-Enenche",
-          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
-        }
-      ],
-      "duration_ms": 220318,
-      "name": "Ina Son Ka",
-      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
+      "added_at": "2026-08-14 00:01:28",
       "album": {
-        "name": "K'OSENI",
-        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
       },
       "artists": [
         {
-          "name": "Teninlanimi",
-          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
         }
       ],
-      "duration_ms": 187826,
-      "name": "K'OSENI",
-      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
+      "duration_ms": 442538,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1271,6 +1271,22 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "K'OSENI",
+        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
+      },
+      "artists": [
+        {
+          "name": "Teninlanimi",
+          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "K'OSENI",
+      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
       "added_at": "2026-04-24 00:01:08",
@@ -1321,22 +1337,6 @@
       "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Miracle Walking (Radio Edit)",
-        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
-      },
-      "artists": [
-        {
-          "name": "Freke Umoh",
-          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Miracle Walking - Radio Edit",
-      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
-    },
-    {
       "added_at": "2026-07-24 00:01:56",
       "album": {
         "name": "AGABA",
@@ -1351,6 +1351,22 @@
       "duration_ms": 163215,
       "name": "AGABA",
       "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1375,38 +1391,18 @@
     {
       "added_at": "2026-08-14 00:01:28",
       "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+        "name": "Eze Mo (Live)",
+        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
         }
       ],
-      "duration_ms": 442538,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
-    },
-    {
-      "added_at": "2026-07-24 00:01:56",
-      "album": {
-        "name": "YESU",
-        "url": "https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el"
-      },
-      "artists": [
-        {
-          "name": "Vblaiz",
-          "url": "https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca"
-        },
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "YESU",
-      "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"
+      "duration_ms": 530000,
+      "name": "Eze Mo (Live)",
+      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1451,6 +1447,26 @@
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
+    },
+    {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "YESU",
+        "url": "https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el"
+      },
+      "artists": [
+        {
+          "name": "Vblaiz",
+          "url": "https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca"
+        },
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "YESU",
+      "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1523,22 +1539,6 @@
       "duration_ms": 248054,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
-    },
-    {
-      "added_at": "2026-07-03 00:01:27",
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp"
-      },
-      "artists": [
-        {
-          "name": "Veekeyz",
-          "url": "https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF"
     }
   ],
   "unique_name": "Blessed",

@@ -27724,7 +27724,7 @@
       },
       "artists": [
         {
-          "name": "Q",
+          "name": "Q Marsden",
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
@@ -45611,6 +45611,24 @@
     },
     {
       "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/0bUiOSfOyMqNh21G4doqd0"
+      },
+      "artists": [
+        {
+          "name": "megiapa",
+          "url": "https://open.spotify.com/artist/35t5sI1WDcFQFzTfMGEBs2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135306,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5fkknJWuOSrhdxbsuQxU94"
+    },
+    {
+      "album": {
         "name": "Ophia",
         "url": "https://open.spotify.com/album/0H05eDh4G11JsoUpT5fSue"
       },
@@ -53390,7 +53408,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 251739,
       "name": "See Me (Max Tundra Remix)",
       "url": "https://open.spotify.com/track/2siynSZ5RH2sInOxDwqtje"
@@ -54870,7 +54888,7 @@
       },
       "artists": [
         {
-          "name": "Q",
+          "name": "Q Marsden",
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
@@ -59628,7 +59646,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 157683,
       "name": "Sweet n\u2019 Sour",
       "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
@@ -68652,6 +68670,28 @@
       "duration_ms": 123344,
       "name": "WISH U WERE...",
       "url": "https://open.spotify.com/track/4Vbv5Ny93RPp0oKjXM7Nkb"
+    },
+    {
+      "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386020,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
     },
     {
       "album": {

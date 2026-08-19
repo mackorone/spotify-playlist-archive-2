@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 116639,
+  "num_followers": 116691,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "2 \u00e9 Demais",
         "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 267960,
       "name": "Pintura \u00edntima - Compacto",
       "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Um Raio Laser",
-        "url": "https://open.spotify.com/album/7inldfPDvUkQCvJkBrsf0m"
+        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
+        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
       "artists": [
         {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
         }
       ],
-      "duration_ms": 206360,
-      "name": "Um raio laser",
-      "url": "https://open.spotify.com/track/2s1BwI22Ay6ZagD1ube6yn"
+      "duration_ms": 162600,
+      "name": "Emori\u00f4",
+      "url": "https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn"
     }
   ],
   "unique_name": "Baile Maravilha",

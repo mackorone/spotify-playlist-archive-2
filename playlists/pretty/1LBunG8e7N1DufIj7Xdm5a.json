@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 281,
+  "num_followers": 282,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJtRwzjnMM1BWZaN6lcf2PcR6uF6jt",
+  "snapshot_id": "AAAJuZy+chKn5AOtyIyWMMJnLS9ENeJ2",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -76667,6 +76667,70 @@
       "duration_ms": 139885,
       "name": "DON'T LET YOU GO - Special Version Live",
       "url": "https://open.spotify.com/track/17zT71yHtIr4hEGrLNcdno"
+    },
+    {
+      "added_at": "2026-08-18 09:44:08",
+      "album": {
+        "name": "Got Your Gun",
+        "url": "https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx"
+      },
+      "artists": [
+        {
+          "name": "Revenant Sun",
+          "url": "https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA"
+        }
+      ],
+      "duration_ms": 230671,
+      "name": "Got Your Gun",
+      "url": "https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh"
+    },
+    {
+      "added_at": "2026-08-18 15:17:14",
+      "album": {
+        "name": "The Devils Name",
+        "url": "https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z"
+      },
+      "artists": [
+        {
+          "name": "Spacebreaker",
+          "url": "https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE"
+        }
+      ],
+      "duration_ms": 209072,
+      "name": "The Devils Name",
+      "url": "https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k"
+    },
+    {
+      "added_at": "2026-08-18 23:21:03",
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V"
+    },
+    {
+      "added_at": "2026-08-18 23:29:58",
+      "album": {
+        "name": "Viajero del Tiempo",
+        "url": "https://open.spotify.com/album/5ueAQ14A9yhL2OgWa1WADX"
+      },
+      "artists": [
+        {
+          "name": "RELUCIENTE",
+          "url": "https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99"
+        }
+      ],
+      "duration_ms": 330456,
+      "name": "Viajero del Tiempo",
+      "url": "https://open.spotify.com/track/5fXv91jyW5roZBefIaJoXW"
     }
   ],
   "unique_name": "playlist spotify free",

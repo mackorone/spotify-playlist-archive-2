@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: Benjamin",
+  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: Louis du Sauzay",
   "name": "GLOW",
   "tracks": [
     {
@@ -7618,6 +7618,32 @@
       "duration_ms": 178557,
       "name": "Despacha",
       "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+    },
+    {
+      "album": {
+        "name": "Despertador",
+        "url": "https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Anne Louise",
+          "url": "https://open.spotify.com/artist/6lTGKVOQgWwyEo24373ciw"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106483,
+      "name": "Despertador",
+      "url": "https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2"
     },
     {
       "album": {
@@ -25208,7 +25234,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 176073,
       "name": "QUE LOUCURA - Remix",
       "url": "https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi"

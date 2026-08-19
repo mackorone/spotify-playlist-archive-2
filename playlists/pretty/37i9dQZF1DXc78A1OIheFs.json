@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19379,
+  "num_followers": 19377,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/4t9vOwy3LFYcre771GzHy4"
-      },
-      "artists": [
-        {
-          "name": "TWOFACED",
-          "url": "https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Road From 26",
         "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 196393,
       "name": "Blue Eyed M\u0101ori",
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/4t9vOwy3LFYcre771GzHy4"
+      },
+      "artists": [
+        {
+          "name": "TWOFACED",
+          "url": "https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "halftime oranges",
-        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "halftime oranges",
-      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "halftime oranges",
+        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "halftime oranges",
+      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
       "artists": [
         {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 164070,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
       },
       "artists": [
         {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
         }
       ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+      "duration_ms": 164070,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Troubles",
-        "url": "https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY"
-      },
-      "artists": [
-        {
-          "name": "EDYONTHEBEAT",
-          "url": "https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC"
-        },
-        {
-          "name": "Donson PK",
-          "url": "https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Troubles",
-      "url": "https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Troubles",
+        "url": "https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY"
+      },
+      "artists": [
+        {
+          "name": "EDYONTHEBEAT",
+          "url": "https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC"
+        },
+        {
+          "name": "Donson PK",
+          "url": "https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Troubles",
+      "url": "https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf"
-      },
-      "artists": [
-        {
-          "name": "Flamingo Pier",
-          "url": "https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8"
-        }
-      ],
-      "duration_ms": 211398,
-      "name": "No Excuses",
-      "url": "https://open.spotify.com/track/0PuxAQgCYmfLBabuVR7OlY"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
       },
@@ -991,34 +975,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+          "name": "Flamingo Pier",
+          "url": "https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
+      "duration_ms": 211398,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/0PuxAQgCYmfLBabuVR7OlY"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1039,6 +1007,38 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Game",
-        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
-        }
-      ],
-      "duration_ms": 337188,
-      "name": "Game",
-      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+        }
+      ],
+      "duration_ms": 337188,
+      "name": "Game",
+      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
     },
     {
       "added_at": "2026-08-06 14:00:15",

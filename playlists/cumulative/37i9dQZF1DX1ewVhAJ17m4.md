@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-620 songs - 1 day 7 hr 11 min
+621 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [F Around and Find Out](https://open.spotify.com/track/3C8tj7hBuJcYSssNOQjMPw) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [F Around and Find Out](https://open.spotify.com/album/22om6gslrsQ8Kxqx7KCXym) | 3:33 | 2022-09-09 | 2022-11-11 |
 | [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-07-06 | 2023-09-15 |
 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 | 2023-02-03 | 2023-02-18 |
+| [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 | 2026-07-24 |  |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-17 | 2023-04-26 |
 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 | 2023-03-31 | 2024-04-19 |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-15 | 2026-03-28 |
@@ -314,7 +315,7 @@
 | [KILL\[H\]ER](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [KILL\[H\]ER](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 | 2025-05-16 |
 | [King Kong](https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [King Kong](https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E) | 3:26 | 2026-05-09 |  |
 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 | 2025-05-15 | 2026-03-28 |
-| [LANDSLIDE](https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [LANDSLIDE](https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF) | 2:29 | 2025-06-23 |  |
+| [LANDSLIDE](https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [LANDSLIDE](https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF) | 2:29 | 2025-06-23 | 2026-08-19 |
 | [Last First Date](https://open.spotify.com/track/7EG5uI3JPSMaGgexmhsyzb) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Last First Date](https://open.spotify.com/album/0xlpiaHLJNZ7aksc9RGJtW) | 2:58 | 2021-12-20 | 2022-10-07 |
 | [Lately](https://open.spotify.com/track/2S4TKNuAVR0nZDsEwOU7Ff) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6) | [Lately](https://open.spotify.com/album/2MSwYhP12GYM8zETFwUiOP) | 3:51 | 2025-08-07 | 2026-02-21 |
 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 | 2024-03-22 | 2025-05-05 |

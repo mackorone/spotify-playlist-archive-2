@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAB8iqC4JO40RlIJLo6uZ60+",
+  "snapshot_id": "aoJPAAAAAADaz3pEyR1+oWASvK7PtY1Q",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
+        "name": "A.A.F.B-Sides",
+        "url": "https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 174396,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
+      "duration_ms": 198520,
+      "name": "4 Wheel Truck",
+      "url": "https://open.spotify.com/track/3IgTe28roXdZtmvIUTcO7W"
     },
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.A.F.B-Sides",
-        "url": "https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s"
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 198520,
-      "name": "4 Wheel Truck",
-      "url": "https://open.spotify.com/track/3IgTe28roXdZtmvIUTcO7W"
+      "duration_ms": 174396,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUMP (feat. Steve Vai & Travis Barker) [PEDRO SAMPAIO Remix / Coca-Cola Anthem for the FIFA World Cup 26\u2122]",
-        "url": "https://open.spotify.com/album/0w12oT9jXYqaOUofQByQsg"
+        "name": "JUMP (feat. Steve Vai & Travis Barker) [Coca-Cola Anthem for the FIFA World Cup 26\u2122]",
+        "url": "https://open.spotify.com/album/3y7padDq5LgNJrzo9cYXrx"
       },
       "artists": [
         {
@@ -466,15 +466,11 @@
         {
           "name": "Travis Barker",
           "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 159230,
-      "name": "JUMP (feat. Steve Vai & Travis Barker) - PEDRO SAMPAIO Remix / Coca-Cola Anthem for the FIFA World Cup 26\u2122",
-      "url": "https://open.spotify.com/track/2t2IgVB1PN54dXzIq0k3EW"
+      "duration_ms": 208326,
+      "name": "JUMP (feat. Steve Vai & Travis Barker) - Coca-Cola Anthem for the FIFA World Cup 26\u2122",
+      "url": "https://open.spotify.com/track/3rw7X1utxqRRCig2Bxua7K"
     },
     {
       "added_at": null,

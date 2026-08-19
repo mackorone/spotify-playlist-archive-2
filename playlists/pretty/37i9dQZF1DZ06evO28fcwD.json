@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28401,
+  "num_followers": 28403,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABANs+WEOciN+OvBnFpm7ZP",
+  "snapshot_id": "aoJPAAAAAABlh16oN5Z30LoLzoBRJHAI",
   "tracks": [
     {
       "added_at": null,
@@ -615,42 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isitimela",
-        "url": "https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Thandiwe Wami",
-      "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walk In The Light",
-        "url": "https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj"
-      },
-      "artists": [
-        {
-          "name": "Sipho Makhabane",
-          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 316700,
-      "name": "Walk In The Light",
-      "url": "https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
       },
@@ -671,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Isitimela",
+        "url": "https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Thandiwe Wami",
+      "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 280333,
       "name": "Peace Train/Isitimela Sokuthula",
       "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk In The Light",
+        "url": "https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj"
+      },
+      "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 316700,
+      "name": "Walk In The Light",
+      "url": "https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "This Little Light of Mine (Bonus Track)",
+      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Journey Of Dreams",
         "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "This Little Light of Mine (Bonus Track)",
-      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesame Street: Jim Henson: A Sesame Street Celebration, Vol. 2",
         "url": "https://open.spotify.com/album/4WYTk7iadQtxiFryOKHM7W"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Honeyeater\u2019s Song",
+        "url": "https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P"
+      },
+      "artists": [
+        {
+          "name": "Stornoway",
+          "url": "https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "The Honeyeater\u2019s Song",
+      "url": "https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 216586,
       "name": "Pauline",
       "url": "https://open.spotify.com/track/0ahYb1FP9tiIUQbA164pPo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Honeyeater\u2019s Song",
-        "url": "https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P"
-      },
-      "artists": [
-        {
-          "name": "Stornoway",
-          "url": "https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "The Honeyeater\u2019s Song",
-      "url": "https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE"
     },
     {
       "added_at": null,

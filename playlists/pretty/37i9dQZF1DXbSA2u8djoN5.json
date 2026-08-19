@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23502,
+  "num_followers": 23501,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
+      },
+      "artists": [
+        {
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
+        }
+      ],
+      "duration_ms": 192890,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Morgana",
-        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
-      },
-      "artists": [
-        {
-          "name": "F.Charm",
-          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
-        }
-      ],
-      "duration_ms": 192890,
-      "name": "Morgana",
-      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Corina",
-        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
-      },
-      "artists": [
-        {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
-        },
-        {
-          "name": "Lexi Cali",
-          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Corina",
-      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "Eu Beu / 3 Pahare",
         "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 200100,
       "name": "Eu Beu / 3 Pahare",
       "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Corina",
+        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Lexi Cali",
+          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Corina",
+      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
     },
     {
       "added_at": "2026-08-13 21:00:11",

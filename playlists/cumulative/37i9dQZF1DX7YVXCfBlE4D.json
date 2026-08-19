@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 144093,
       "name": "En un Beso la Vida",
       "url": "https://open.spotify.com/track/2PX70JKFb0643xkuUBjwtn"
@@ -6622,6 +6622,24 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "album": {
+        "name": "Personalidad - Los Grandes Trios",
+        "url": "https://open.spotify.com/album/3hO8uhdSJfkTLwGaMSKmxP"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/6KdZx53HkoPOgQAvhLq56A"
     },
     {
       "album": {

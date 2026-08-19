@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Phoebe Bridgers
 
-1,123 songs - 2 day 18 hr 28 min
+1,124 songs - 2 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [Let's Do It Again!](https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Let's Do It Again!](https://open.spotify.com/album/5pZ5WWoM7SbZhxMKPKPSce) | 4:31 | 2026-02-20 | 2026-05-01 |
 | [Let's Go Swimming](https://open.spotify.com/track/2f7IZQDBK8uCckTPRn4XdJ) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Let's Go Swimming](https://open.spotify.com/album/4CKsINjnNa1hfJjSpyNqi8) | 4:14 | 2025-02-21 | 2025-04-04 |
 | [Let's Leave Together](https://open.spotify.com/track/7xv3o3szm1R3zQDc95Q0eA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Let's Leave Together](https://open.spotify.com/album/7J2HCZc3g9V0KAq2DhAo7b) | 3:20 | 2025-01-31 | 2025-03-21 |
-| [Let's Make A \(Fucking\) Baby](https://open.spotify.com/track/4Bpq0ra8YsD9nFuiFGZLkB) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Let's Make A \(Fucking\) Baby](https://open.spotify.com/album/16i1l4ektijapcSxpTaqxG) | 3:04 | 2026-08-06 |  |
+| [Let's Make A \(Fucking\) Baby](https://open.spotify.com/track/4Bpq0ra8YsD9nFuiFGZLkB) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Let's Make A \(Fucking\) Baby](https://open.spotify.com/album/16i1l4ektijapcSxpTaqxG) | 3:04 | 2026-08-06 | 2026-08-19 |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 | 2025-02-21 |
 | [Lies](https://open.spotify.com/track/7DD3iOfX65OAFelDaFhHG4) | [walt disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Lies](https://open.spotify.com/album/0FRSTYKATt1EC92YwI2h4J) | 3:38 | 2026-07-23 |  |
 | [LIFE](https://open.spotify.com/track/2piZnAQmdM4kwdKTdeKevR) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [LIFE](https://open.spotify.com/album/11UH2nnKfxCzdhWXkffIOE) | 3:16 | 2026-07-02 | 2026-07-17 |
@@ -624,6 +624,7 @@
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2026-06-19 |
 | [Mantis](https://open.spotify.com/track/4H7gZWrCfKN4Yc8HMGvmNw) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Mantis/Sugar Plum](https://open.spotify.com/album/0GGa1FKiyveo2FPZnvDkKh) | 4:40 | 2026-02-27 | 2026-03-27 |
 | [Mariah Carey Through Death Valley](https://open.spotify.com/track/6xrhxjsnOftHxbHTSVIpwF) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Mariah Carey Through Death Valley](https://open.spotify.com/album/1dekkm4VaT0T90wG5KfqJM) | 2:47 | 2025-03-04 | 2025-04-04 |
+| [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-18 |  |
 | [Marina](https://open.spotify.com/track/2FVcKnDZFvkqiTmHgbp20p) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Marina](https://open.spotify.com/album/5fKoEJLEQGcSXrPxW3ST53) | 3:25 | 2026-08-13 |  |
 | [Marks To Prove It](https://open.spotify.com/track/5VR7bYgk4TaJ1ZyNScT1sm) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Marks To Prove It](https://open.spotify.com/album/7oHYVWE7EH2WFdZ36N2rEU) | 4:14 | 2024-11-01 | 2025-09-03 |
 | [marry me to dopamine](https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [marry me to dopamine](https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7) | 3:33 | 2026-02-20 | 2026-03-27 |

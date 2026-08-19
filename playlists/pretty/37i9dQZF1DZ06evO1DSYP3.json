@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5772,
+  "num_followers": 5773,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAACbFDo8sufjMUHogktUw6yZ",
+  "snapshot_id": "aoJPAAAAAAAqRjkZ/Uu17UFT/rBC6zob",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "1 Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        }
+      ],
+      "duration_ms": 178888,
+      "name": "HUH ALRIGHT (feat. SOB X RBE & 1 Umbrella)",
+      "url": "https://open.spotify.com/track/1Wq1g1du9cYC8wnrRFaQRu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -350,19 +374,11 @@
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "1 Umbrella",
-          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
-        },
-        {
-          "name": "SOB X RBE",
-          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
         }
       ],
-      "duration_ms": 178888,
-      "name": "HUH ALRIGHT (feat. SOB X RBE & 1 Umbrella)",
-      "url": "https://open.spotify.com/track/1Wq1g1du9cYC8wnrRFaQRu"
+      "duration_ms": 140708,
+      "name": "AWW YEAH",
+      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
     },
     {
       "added_at": null,
@@ -450,11 +466,15 @@
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
         }
       ],
-      "duration_ms": 140708,
-      "name": "AWW YEAH",
-      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
+      "duration_ms": 198786,
+      "name": "10 OUTTA 10 (feat. Karri)",
+      "url": "https://open.spotify.com/track/2ZwQF2GwNrftvhKnrQm3pp"
     },
     {
       "added_at": null,
@@ -519,26 +539,6 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OUT THE BOX",
-        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "10 OUTTA 10 (feat. Karri)",
-      "url": "https://open.spotify.com/track/2ZwQF2GwNrftvhKnrQm3pp"
     },
     {
       "added_at": null,
@@ -631,6 +631,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "OUT THE BOX",
+        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Clyde Carson",
+          "url": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        },
+        {
+          "name": "Ezale",
+          "url": "https://open.spotify.com/artist/3aQfxjMj5uxPLW4RCgIaSL"
+        }
+      ],
+      "duration_ms": 242203,
+      "name": "BAY BOYZ 4EVER (feat. Clyde Carson, Iamsu! & Ezale)",
+      "url": "https://open.spotify.com/track/6WxDe7zjxPleg5MAfNAzOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Connected And Respected",
         "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
       },
@@ -651,22 +679,6 @@
       "duration_ms": 221287,
       "name": "Boy (feat. P-Lo)",
       "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -703,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
       },
       "artists": [
         {
@@ -712,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -743,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OUT THE BOX",
         "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
       },
@@ -752,21 +780,13 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Clyde Carson",
-          "url": "https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        },
-        {
-          "name": "Ezale",
-          "url": "https://open.spotify.com/artist/3aQfxjMj5uxPLW4RCgIaSL"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 242203,
-      "name": "BAY BOYZ 4EVER (feat. Clyde Carson, Iamsu! & Ezale)",
-      "url": "https://open.spotify.com/track/6WxDe7zjxPleg5MAfNAzOm"
+      "duration_ms": 220160,
+      "name": "FXCKIN HATER (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/1ffYjtf97k2iKoSNGWxkTH"
     },
     {
       "added_at": null,
@@ -838,15 +858,11 @@
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 220160,
-      "name": "FXCKIN HATER (feat. Killer Mike)",
-      "url": "https://open.spotify.com/track/1ffYjtf97k2iKoSNGWxkTH"
+      "duration_ms": 147449,
+      "name": "WTD",
+      "url": "https://open.spotify.com/track/26wokRXpfiNADlqqNLSkMY"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 218453,
       "name": "Mad",
       "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OUT THE BOX",
-        "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 147449,
-      "name": "WTD",
-      "url": "https://open.spotify.com/track/26wokRXpfiNADlqqNLSkMY"
     },
     {
       "added_at": null,

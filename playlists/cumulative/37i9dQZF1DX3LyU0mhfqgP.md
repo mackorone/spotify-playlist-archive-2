@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Benjamin
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Louis du Sauzay
 
-1,897 songs - 4 day 6 hr 53 min
+1,898 songs - 4 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Delirium](https://open.spotify.com/track/0hWfRjZl5UlAYHDR53DXHD) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Delirium](https://open.spotify.com/album/5RXm5WS9Ti06O2MIf8InS5) | 3:11 | 2026-06-08 |  |
 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 | 2026-03-10 | 2026-04-14 |
 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 | 2025-09-09 | 2025-12-04 |
+| [Despertador](https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Anne Louise](https://open.spotify.com/artist/6lTGKVOQgWwyEo24373ciw), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH) | [Despertador](https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31) | 1:46 | 2026-08-18 |  |
 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 | 2023-05-09 | 2023-06-02 |
 | [deszcz](https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję EP](https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR) | 2:22 | 2024-07-09 | 2024-07-31 |
 | [Deus](https://open.spotify.com/track/3EUoNfRGwahMTsEDNjG62U) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Deus](https://open.spotify.com/album/7CU5FOCJUHTytQN7bCV2c0) | 2:50 | 2025-09-09 | 2025-12-04 |
@@ -1338,7 +1339,7 @@
 | [put me back together](https://open.spotify.com/track/2ABe8nKeaF0XMGhusX5VYr) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [put me back together](https://open.spotify.com/album/1JafWAXlaQAxT7M2TVU9aB) | 3:38 | 2023-11-14 | 2023-11-30 |
 | [Putinho piru rodado](https://open.spotify.com/track/2xWZoSILC4KIwaoX2Z1xGe) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [DJ CARLOZS](https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU) | [Putinho piru rodado](https://open.spotify.com/album/0GVlkwFO5lmv6xLD7YpqTo) | 3:30 | 2026-07-14 | 2026-08-12 |
 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2023-09-12 | 2023-11-14 |
-| [QUE LOUCURA \- Remix](https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi) | [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [QUE LOUCURA \(Remix\)](https://open.spotify.com/album/6sFBaXx0Qe52YIYnpuXX4T) | 2:56 | 2026-08-11 |  |
+| [QUE LOUCURA \- Remix](https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi) | [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [QUE LOUCURA \(Remix\)](https://open.spotify.com/album/6sFBaXx0Qe52YIYnpuXX4T) | 2:56 | 2026-08-11 | 2026-08-19 |
 | [QUEEN BEE](https://open.spotify.com/track/610e5WBvyN2PL1DTlwca4E) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [QUEEN BEE](https://open.spotify.com/album/3tH8bW2JNQML1IQU9Si0Bs) | 2:28 | 2021-12-17 | 2022-01-29 |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-10-07 | 2022-11-27 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2025-05-13 | 2025-05-20 |

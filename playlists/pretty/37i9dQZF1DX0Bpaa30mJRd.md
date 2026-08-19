@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 ### [スタジオ地図 \-Studio Chizu\-](https://open.spotify.com/playlist/37i9dQZF1DX0Bpaa30mJRd)
 
-> スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
+> スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。Music from Studio Chizu films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,665 likes - 86 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,695 likes - 86 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 85 | [2056](https://open.spotify.com/track/1ZmTFaumHNmZQmroStp3ae) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 1:06 |
 | 86 | [きときと](https://open.spotify.com/track/1YMv9zuMrmlJocuAzrrMLH) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [スタジオ地図 Music Journey Vol\. 2 \- 高木正勝 うたの時間](https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4) | 2:58 |
 
-Snapshot ID: `AAAAAF0+krZOHrkaPdSjGP8Wo/bvn2j5`
+Snapshot ID: `AAAAAGX6optUrNBXh1Xl9r2e5k3ASJoD`

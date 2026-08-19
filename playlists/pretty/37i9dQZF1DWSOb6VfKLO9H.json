@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110673,
+  "num_followers": 110698,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Visionair",
+        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "DomDoen",
+      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 164900,
       "name": "Dansen Op Labanta",
       "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Visionair",
-        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
-      },
-      "artists": [
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "DomDoen",
-      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1567,30 +1567,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Nachtvlinder",
-        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 147467,
-      "name": "Go Go Club",
-      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
       },
@@ -1615,22 +1591,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "My B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
+        "name": "Nachtvlinder",
+        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
       },
       "artists": [
         {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
         },
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         }
       ],
-      "duration_ms": 154077,
-      "name": "My B\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
+      "duration_ms": 147467,
+      "name": "Go Go Club",
+      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "My B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 154077,
+      "name": "My B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "VBALERT",
         "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
       },
@@ -1667,6 +1667,26 @@
       "duration_ms": 200816,
       "name": "Naar Beneden",
       "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1691,26 +1711,6 @@
       "duration_ms": 218753,
       "name": "fallin'",
       "url": "https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gate 16",
-        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
       "artists": [
         {
@@ -1968,13 +1968,17 @@
           "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
         },
         {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         }
       ],
-      "duration_ms": 203446,
-      "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
-      "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
+      "duration_ms": 164884,
+      "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
+      "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2067,8 +2071,8 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+        "name": "Gate 16",
+        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
       "artists": [
         {
@@ -2080,17 +2084,13 @@
           "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
         },
         {
-          "name": "BKO",
-          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
         }
       ],
-      "duration_ms": 164884,
-      "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
-      "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
+      "duration_ms": 203446,
+      "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
+      "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
     },
     {
       "added_at": "2024-07-19 06:38:33",

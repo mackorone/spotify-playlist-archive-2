@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover:  Tiana Major9
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,847 likes - 170 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,855 likes - 170 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 58 | [On Demand](https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO) | [Imani Imani](https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ) | [Papercut](https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf) | 2:41 |
 | 59 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
 | 60 | [DID YOU MOVE?](https://open.spotify.com/track/5qAJU71AfadQO8VrmZuujG) | [Veronica](https://open.spotify.com/artist/6u7k7tbT583IHziqzFAC8j) | [DID YOU MOVE?](https://open.spotify.com/album/229SVrbKan2ks7saTexvz0) | 3:53 |
-| 61 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 61 | [Just For A Moment \(feat\. Dende\) \- Acoustic](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 62 | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya) | 4:46 |
 | 63 | [Foreign](https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Foreign](https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk) | 3:23 |
 | 64 | [Coming Home \(with G Herbo\)](https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Coming Home \(with G Herbo\)](https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j) | 3:32 |

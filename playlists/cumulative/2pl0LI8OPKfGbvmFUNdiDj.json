@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "B!tch",
+        "url": "https://open.spotify.com/album/5bkMKZjEHxdsB6chVzgXZt"
+      },
+      "artists": [
+        {
+          "name": "Mr.Moss",
+          "url": "https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "B!tch",
+      "url": "https://open.spotify.com/track/6yuAizja4nZcTgGHARMGbR"
+    },
+    {
+      "album": {
         "name": "Back 2 Back",
         "url": "https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2"
       },
@@ -1356,6 +1374,24 @@
       "duration_ms": 313669,
       "name": "Big Momma's Door",
       "url": "https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160508,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni"
     },
     {
       "album": {

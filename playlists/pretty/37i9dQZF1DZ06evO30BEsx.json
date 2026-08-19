@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2056,
+  "num_followers": 2057,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAA5R2T7p1vfaQmUcSVXyXg2",
+  "snapshot_id": "aoJPAAAAAAB3a/uXPsjxbCFuDQ7x6p2/",
   "tracks": [
     {
       "added_at": null,
@@ -547,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 817826,
-      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dunckel: Wake",
         "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 252866,
       "name": "Wake",
       "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 817826,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
     },
     {
       "added_at": null,
@@ -1091,30 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Sequence for Ga\u00efa",
-      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1143,6 +1119,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -1167,6 +1167,34 @@
       "duration_ms": 223200,
       "name": "Piazzolla / Orch. Ducros: Oblivion",
       "url": "https://open.spotify.com/track/4tOxKuseWFcXCv2Ro4t6Qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 313600,
+      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: II. Adagio",
+      "url": "https://open.spotify.com/track/4KggTORwddWKbadt65VtoS"
     },
     {
       "added_at": null,
@@ -1203,34 +1231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: II. Adagio",
-      "url": "https://open.spotify.com/track/4KggTORwddWKbadt65VtoS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schubert: String Quintet, Op. 163 & Lieder",
         "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
       },
@@ -1251,6 +1251,30 @@
       "duration_ms": 913335,
       "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
       "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
+        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 385493,
+      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
+      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
     },
     {
       "added_at": null,
@@ -1331,30 +1355,6 @@
       "duration_ms": 514866,
       "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: I. Allegro",
       "url": "https://open.spotify.com/track/6h860nB6ABrrYz605MQHHu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
-        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 385493,
-      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
-      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

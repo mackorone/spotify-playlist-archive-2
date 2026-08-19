@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from Ayra Starr,  Tinashe, M00tion & Ez Maestro and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,919 likes - 62 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,940 likes - 62 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

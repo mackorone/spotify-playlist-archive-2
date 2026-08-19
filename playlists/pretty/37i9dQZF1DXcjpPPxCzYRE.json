@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 444062,
+  "num_followers": 444099,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Trist\u00e1n, Ahora Con Reloj",
         "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "El Sitio de Mi Recreo",
         "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
       },
@@ -1259,18 +1291,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
       "artists": [
         {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
         }
       ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1287,38 +1319,6 @@
       "duration_ms": 166336,
       "name": "Un d\u00eda de julio",
       "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 195524,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Ada Road",
+        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
+      },
+      "artists": [
+        {
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Ada Road",
+      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "girlhood",
         "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Ada Road",
-        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
       },
       "artists": [
         {
-          "name": "MAVICA",
-          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Ada Road",
-      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
+      "duration_ms": 140800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1631,22 +1647,6 @@
       "duration_ms": 209591,
       "name": "No Valdr\u00e1 La Pena",
       "url": "https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "201 - Directo en Casa Grito",
+        "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 236494,
+      "name": "Cerrar los ojos - Directo en Casa Grito",
+      "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Algo Fugaz",
         "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 137101,
       "name": "Algo Fugaz",
       "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "201 - Directo en Casa Grito",
-        "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 236494,
-      "name": "Cerrar los ojos - Directo en Casa Grito",
-      "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Tan brillant",
         "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 188411,
       "name": "Tan brillant",
       "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Algo F\u00edsico",
+        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Algo F\u00edsico",
+      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
     },
     {
       "added_at": "2026-07-30 22:00:26",

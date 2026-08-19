@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,159 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,176 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 27 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
 | 28 | [Get Away](https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival](https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP) | 3:31 |
 | 29 | [Home](https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi), [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Home](https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3) | 3:35 |
-| 30 | [Good on You](https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Good on You](https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt) | 3:41 |
-| 31 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
+| 30 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
+| 31 | [Good on You](https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Good on You](https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt) | 3:41 |
 | 32 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz Tokelau](https://open.spotify.com/artist/5ShiAPEQ5yAKJkcFcD6fBG) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 |
 | 33 | [Hey](https://open.spotify.com/track/2MYtK8CJ6uw3VwDIv6OUDB) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Sammy Johnson](https://open.spotify.com/album/0YAPhFaGCiljva2vLUIbtq) | 3:26 |
 | 34 | [Thinking About You](https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Keep Rising](https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD) | 6:01 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 51 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
 | 52 | [Always with You](https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Always with You](https://open.spotify.com/album/3TEomtRmmPSIvL5tozcHV2) | 3:17 |
 | 53 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 54 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
-| 55 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
+| 54 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
+| 55 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
 | 56 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
 | 57 | [Long Ago](https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC) | [Herbs](https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA) | [Sensitive To A Smile](https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg) | 4:19 |
 | 58 | [Keep That Smile](https://open.spotify.com/track/0XP9YQ2NPHELEc71XD0XZm) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi) | [Keep That Smile](https://open.spotify.com/album/60wNqoSqh81ht02EhQdoXO) | 3:24 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 66 | [Coming Home](https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1) | 5:32 |
 | 67 | [Country Mon](https://open.spotify.com/track/3ldK4fR05sXHEgX6UEGO0V) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Country Mon](https://open.spotify.com/album/52UufU9ngjQuCvak9HJ8KA) | 4:25 |
 | 68 | [Mama Don't Cry](https://open.spotify.com/track/1vqgV0o8TX1m1QAiTB3ka8) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Mama Don't Cry](https://open.spotify.com/album/7lubqAJW6Lj4CV9255FkaD) | 3:04 |
-| 69 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
-| 70 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
+| 69 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
+| 70 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
 | 71 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
 | 72 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 |
 | 73 | [Miss Royal](https://open.spotify.com/track/25ADTLaBfhag349FYvkkXd) | [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi), [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Miss Royal](https://open.spotify.com/album/3ZBgyNM9cNy6ahyqovVCzf) | 3:29 |

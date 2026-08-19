@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,455 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,469 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 49 | [Revelate \(Funkhaus Version\)](https://open.spotify.com/track/453oVdKnFk2PX89zV0QXfh) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:40 |
 | 50 | [Lay Me Down \| Ring of Fire](https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Set List \(Live\)](https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u) | 4:06 |
 
-Snapshot ID: `aoD9gAAAAAA/kP4jgot8HL0k21penN7E`
+Snapshot ID: `aoJPAAAAAABTEk11Wkw5MeMLwU3pZ3mD`

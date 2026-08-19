@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 908929,
+  "num_followers": 908883,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,18 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "THUG LIFE",
-        "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL"
+        "name": "Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
       },
       "artists": [
         {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
         }
       ],
-      "duration_ms": 121394,
-      "name": "THUG LIFE",
-      "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
+      "duration_ms": 147730,
+      "name": "Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -203,18 +199,22 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Tr\u00e4nen",
-        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
+        "name": "THUG LIFE",
+        "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL"
       },
       "artists": [
         {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 147730,
-      "name": "Tr\u00e4nen",
-      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
+      "duration_ms": 121394,
+      "name": "THUG LIFE",
+      "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
+        "name": "BANGBANGBANG",
+        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "duration_ms": 132186,
+      "name": "BANGBANGBANG",
+      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
         "name": "KOMM N\u00c4HER",
         "url": "https://open.spotify.com/album/0OJKAf3ZhqDrVx0aTgsEWx"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "BANGBANGBANG",
-        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
+        "name": "Xalaz",
+        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
       },
       "artists": [
         {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
         }
       ],
-      "duration_ms": 132186,
-      "name": "BANGBANGBANG",
-      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
+      "duration_ms": 92653,
+      "name": "Xalaz",
+      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -431,22 +447,6 @@
       "duration_ms": 234280,
       "name": "COMEBACCC",
       "url": "https://open.spotify.com/track/1n7Z2V4TgFMmNLejaDj9rm"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
-        "name": "Xalaz",
-        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
-      },
-      "artists": [
-        {
-          "name": "Yc",
-          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
-        }
-      ],
-      "duration_ms": 92653,
-      "name": "Xalaz",
-      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
         "name": "Mungu",
         "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 144080,
       "name": "Mungu",
       "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
-        "name": "MON FR\u00c8RE",
-        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
-      },
-      "artists": [
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "MON FR\u00c8RE",
-      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
+        "name": "Sommernacht",
+        "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
+      },
+      "artists": [
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 201843,
+      "name": "Sommernacht",
+      "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 191062,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
-        "name": "Sommernacht",
-        "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
-      },
-      "artists": [
-        {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 201843,
-      "name": "Sommernacht",
-      "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Gasolina",
-        "url": "https://open.spotify.com/album/1J1ZqguNMzfDpjw0t9uXT6"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 151165,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/1J1ZqguNMzfDpjw0t9uXT6"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 151165,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
         "name": "Bend Over 2",
         "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "EL FENOMENO",
-        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "EL FENOMENO",
-      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "FOREVER RR",
         "url": "https://open.spotify.com/album/6PggRtQxw5oJHGVWE7OhJI"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "VILLAIN / EXCITING",
-        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
       },
       "artists": [
         {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+          "name": "Kuto",
+          "url": "https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR"
         }
       ],
-      "duration_ms": 136615,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
+      "duration_ms": 128000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
+        "name": "VILLAIN / EXCITING",
+        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
       },
       "artists": [
         {
-          "name": "Kuto",
-          "url": "https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR"
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
         }
       ],
-      "duration_ms": 128000,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
+      "duration_ms": 136615,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Wach",
-        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Wach",
-      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "GTS",
         "url": "https://open.spotify.com/album/41BMJrVVmLUwZ3uAtUv27D"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 119973,
       "name": "GTS",
       "url": "https://open.spotify.com/track/3VKn4mxdxaQNm5Hc5h20BW"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Flightmode",
-        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
-      },
-      "artists": [
-        {
-          "name": "Lyno Nine8",
-          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "CCTV",
         "url": "https://open.spotify.com/album/4KPzzYvMqvIVzfmTTtDa99"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 145339,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Flightmode",
+        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
+      },
+      "artists": [
+        {
+          "name": "Lyno Nine8",
+          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
     },
     {
       "added_at": "2026-08-13 22:01:32",

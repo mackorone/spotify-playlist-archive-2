@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-351 songs - 18 hr 1 min
+352 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,8 +163,8 @@
 | [if we never met](https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:25 | 2024-06-07 | 2025-12-18 |
 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 | 2024-06-07 |  |
 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 | 2024-06-07 |  |
-| [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 | 2024-06-07 |  |
-| [ilym \(feat\. ROSIE\)](https://open.spotify.com/track/6iT0ZdQcHwzQDNcAC2oDKX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [ilym \(feat\. ROSIE\)](https://open.spotify.com/album/4GuRdYgybjIWKTD5uPsiqU) | 3:56 | 2024-06-07 |  |
+| [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 | 2024-06-07 | 2026-08-19 |
+| [ilym \(feat\. ROSIE\)](https://open.spotify.com/track/6iT0ZdQcHwzQDNcAC2oDKX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [ilym \(feat\. ROSIE\)](https://open.spotify.com/album/4GuRdYgybjIWKTD5uPsiqU) | 3:56 | 2024-06-07 | 2026-08-19 |
 | [In My Bed](https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:09 | 2024-06-07 |  |
 | [In My Head](https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 2:54 | 2025-07-17 |  |
 | [In My Head](https://open.spotify.com/track/0eH1kRmBIrFA1voIUSM0c1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/7I9Y2DHOoBjmzxsGPq3R3e) | 3:22 | 2025-07-02 |  |
@@ -333,6 +333,7 @@
 | [Tiny Raisin](https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Tiny Raisin](https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs) | 2:58 | 2026-05-19 | 2026-07-13 |
 | [tlit21c](https://open.spotify.com/track/1ZlnsAT3J7vmf0xuOMHD9V) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 1:06 | 2024-06-07 |  |
 | [to the grave](https://open.spotify.com/track/5V7wh1SBtYZTqRLEsBuZAL) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:57 | 2024-06-07 |  |
+| [Together \- Extended Mix](https://open.spotify.com/track/1PxIIdly8Ay5WEEfIySck7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together \(Extended Mix\)](https://open.spotify.com/album/084MtajR1jPHmqQsIFJ1c7) | 4:45 | 2026-08-18 |  |
 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 | 2024-06-07 |  |
 | [Tribe](https://open.spotify.com/track/471WEvxNMHIoybCV9lw64v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41) | [Pitch Perfect 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ghztb1E7auvrtaXmcRqbV) | 3:09 | 2024-06-07 |  |
 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 | 2024-06-07 |  |

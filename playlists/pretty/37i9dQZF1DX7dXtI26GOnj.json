@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino aqui! Ay ay ay \ud83d\udd25  foto: Pedro Sampaio, Cachirula, LOOJAN",
-  "num_followers": 246711,
+  "num_followers": 246750,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-08-07 12:20:07",
       "album": {
-        "name": "Choka Choka",
-        "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 131562,
-      "name": "Choka Choka",
-      "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
-    },
-    {
-      "added_at": "2026-08-07 12:20:07",
-      "album": {
         "name": "CALOR",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 201254,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
+    },
+    {
+      "added_at": "2026-08-07 12:20:07",
+      "album": {
+        "name": "Choka Choka",
+        "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 131562,
+      "name": "Choka Choka",
+      "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
     },
     {
       "added_at": "2026-08-07 12:20:07",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-1,429 songs - 3 day 6 hr 11 min
+1,430 songs - 3 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 | 2022-01-02 | 2026-01-04 |
 | [LA CITA FRESITA 2](https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [LA CITA FRESITA 2](https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA) | 2:55 | 2026-08-16 |  |
 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 | 2025-08-29 | 2026-04-15 |
+| [La Ciudad del Sol](https://open.spotify.com/track/2HM9TjXLJFaMWe0q05ej2h) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 3:26 | 2026-08-18 |  |
 | [La Ciudad del Sol](https://open.spotify.com/track/6jG2NTJ2RAStd83iErUMNs) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/4SB8Z3zer5jxA6JDifKlKm) | 3:26 | 2026-05-20 | 2026-05-22 |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-05-07 | 2022-12-25 |
 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 | 2025-01-18 | 2025-03-12 |
@@ -947,7 +948,7 @@
 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 | 2023-08-23 | 2024-11-09 |
 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-05-03 | 2023-07-02 |
 | [Pacas De Billetes](https://open.spotify.com/track/5pnj8s1C1LnwkiIRrsLXSg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-07-01 | 2023-08-24 |
-| [Pajarillo](https://open.spotify.com/track/5Wl63Bz4pPacZwAOIIy61w) | [El Cartel De Nuevo Leon](https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7) | [14 Exitos Historia Musical](https://open.spotify.com/album/6cl0k9zRt5SyAIy1OKYjvp) | 4:01 | 2026-08-17 |  |
+| [Pajarillo](https://open.spotify.com/track/5Wl63Bz4pPacZwAOIIy61w) | [El Cartel De Nuevo Leon](https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7) | [14 Exitos Historia Musical](https://open.spotify.com/album/6cl0k9zRt5SyAIy1OKYjvp) | 4:01 | 2026-08-17 | 2026-08-19 |
 | [Palabra de Hombre](https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:16 | 2021-03-30 | 2021-03-31 |
 | [PANA RABBIT](https://open.spotify.com/track/46h0OjWsF2NCPeNktyJhRz) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ACOMODO](https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv) | 2:39 | 2026-05-30 | 2026-06-01 |
 | [Pancake](https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:02 | 2023-07-01 | 2023-07-07 |

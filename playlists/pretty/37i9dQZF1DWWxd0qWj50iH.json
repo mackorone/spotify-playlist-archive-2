@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 610277,
+  "num_followers": 610238,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Whale Call",
-        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 259503,
-      "name": "Whale Call",
-      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "All I Need To Hear",
@@ -279,6 +263,22 @@
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
     },
     {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "every day is a game",
@@ -495,22 +511,6 @@
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
-    },
-    {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240508,
-      "name": "JUPiTER",
-      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Older",
@@ -871,6 +855,22 @@
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240508,
+      "name": "JUPiTER",
+      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 174972,
       "name": "Ain't It Easy",
       "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "A Stranger Desired",
-        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Oblivion",
@@ -1559,6 +1543,22 @@
       "duration_ms": 233111,
       "name": "Meet Me At The Record Store",
       "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "A Stranger Desired",
+        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     }
   ],
   "unique_name": "Gentle",

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
-  "num_followers": 368366,
+  "num_followers": 368376,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
-        "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
-      "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
+        "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
+      "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Una Limosna",
         "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 172422,
       "name": "Una Limosna",
       "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
-      },
-      "artists": [
-        {
-          "name": "Kaylanie Barrera",
-          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
-        }
-      ],
-      "duration_ms": 223402,
-      "name": "La Noche de Mi Mal",
-      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
+      },
+      "artists": [
+        {
+          "name": "Kaylanie Barrera",
+          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
+        }
+      ],
+      "duration_ms": 223402,
+      "name": "La Noche de Mi Mal",
+      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 199887,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Que Ganas De No Verte Nunca M\u00e1s",
         "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 209920,
       "name": "Que Ganas De No Verte Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 199887,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
     },
     {
       "added_at": "2026-08-14 06:00:30",

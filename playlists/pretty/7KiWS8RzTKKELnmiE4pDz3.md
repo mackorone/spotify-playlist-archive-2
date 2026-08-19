@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 323 songs - 20 hr 38 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 324 songs - 20 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,5 +331,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 321 | [Another Wave \(feat\. Shad Da God & Duke\)](https://open.spotify.com/track/59Whq4nWsrKSoLQpl6GDZa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT), [Shad Da God](https://open.spotify.com/artist/2z1ZZSBRCNYjOZmUcA3rSQ) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:53 |
 | 322 | [1st Time \(feat\. Talib Kweli\)](https://open.spotify.com/track/2CZfcW6PIhgHKXNhvvMNXI) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Movies on Demand 2](https://open.spotify.com/album/1bEiqvJthWswKYMmqVX5fi) | 3:27 |
 | 323 | [Steppin Out](https://open.spotify.com/track/4iw9biJplthfCNgkJBa1Wc) | [Big Gipp](https://open.spotify.com/artist/7e36DF0IaZI4JXfIf95ppT) | [Mutant Mindframe](https://open.spotify.com/album/0mKl7kr8rXXT7NyBYJAsFk) | 4:34 |
+| 324 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 
-Snapshot ID: `AAAgp5cCepmhHeKlXyyGnMem41TzIwVK`
+Snapshot ID: `AAAgqN2Mlycxd0wtBOVH8+KrfXuZVv86`

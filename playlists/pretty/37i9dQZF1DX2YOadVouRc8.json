@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 49098,
+  "num_followers": 49115,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 152921,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/4JdAphk4Heans88mgkIpKH"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 152921,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/4JdAphk4Heans88mgkIpKH"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "Splendid (with ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 170000,
       "name": "Splendid (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 136533,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
         "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
         "url": "https://open.spotify.com/album/1vUCTdPUb0hFi3CsE0aPqn"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 136533,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -927,58 +927,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Understand Me",
-        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Understand Me",
-      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
-        "name": "Uche Jumbo",
-        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 148269,
-      "name": "Uche Jumbo",
-      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        }
-      ],
-      "duration_ms": 187463,
-      "name": "cease & desist",
-      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -999,6 +947,58 @@
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Understand Me",
+        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Sunset in Paris",
-        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Sunset in Paris",
-      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Sunset in Paris",
+        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Sunset in Paris",
+      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Popstar - Side A",
-        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 128053,
-      "name": "Simone",
-      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "STINGY",
         "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 220206,
       "name": "STINGY",
       "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Popstar - Side A",
+        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 128053,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 181304,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2026-08-14 00:01:40",

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0uMhFStb8r4YbyHy4HxyWZ"
@@ -240,6 +240,28 @@
       "duration_ms": 259680,
       "name": "'Til I Hear You Sing",
       "url": "https://open.spotify.com/track/7wjyHjLaFo7WAO3fc4inaJ"
+    },
+    {
+      "album": {
+        "name": "\"Beethoven\" - C\u00e9cile Ousset Plays Piano Variations",
+        "url": "https://open.spotify.com/album/5rKkv0lLI1rkChF4geZqMT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Cecile Ousset",
+          "url": "https://open.spotify.com/artist/2Beg10ePH6fr3eAOVXn1Uj"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39546,
+      "name": "15 Piano Variations and Fugue in E flat, Op. 35 -\"Eroica Variations\": Variation 6",
+      "url": "https://open.spotify.com/track/4IvILBWq7CMIEfqnIUimyj"
     },
     {
       "album": {
@@ -468,7 +490,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 39293,
       "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 14 (Live)",
       "url": "https://open.spotify.com/track/74MvukOoEiquUpPQSEawOG"
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 271053,
       "name": "All I Ask of You",
       "url": "https://open.spotify.com/track/1GBGeHz74220GMyG02fp26"
@@ -1870,7 +1892,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
@@ -2586,7 +2608,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 285026,
       "name": "As If We Never Said Goodbye",
       "url": "https://open.spotify.com/track/56iaNP2rfebKJjyr9uRkH7"
@@ -2604,7 +2626,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 294106,
       "name": "As If We Never Said Goodbye",
       "url": "https://open.spotify.com/track/3xJQNJIsIfQDNQxXJrvs5p"
@@ -2974,10 +2996,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 186533,
       "name": "Bad Cinderella",
       "url": "https://open.spotify.com/track/22AXQvhG4Nc3VcVaPgp6Jr"
+    },
+    {
+      "album": {
+        "name": "Bad Cinderella (from \"Andrew Lloyd Webber's Cinderella\")",
+        "url": "https://open.spotify.com/album/3s0POaeqndKSD8lYB3cgCn"
+      },
+      "artists": [
+        {
+          "name": "Sierra Nelson",
+          "url": "https://open.spotify.com/artist/7nLIY86aCHjy4FAOPwd7J7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182804,
+      "name": "Bad Cinderella (from \"Andrew Lloyd Webber's Cinderella\")",
+      "url": "https://open.spotify.com/track/63YXp4lYs6fN950xcJAs47"
     },
     {
       "album": {
@@ -4280,10 +4320,36 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 227626,
       "name": "Close Every Door",
       "url": "https://open.spotify.com/track/0r4Him6bTl93aEaC0gvTuD"
+    },
+    {
+      "album": {
+        "name": "Joseph and the Amazing Technicolor Dreamcoat (1993 Los Angeles Cast Recording)",
+        "url": "https://open.spotify.com/album/2wMQNOcmKGIOZ6rLPhk98z"
+      },
+      "artists": [
+        {
+          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1993 Los Angeles Cast",
+          "url": "https://open.spotify.com/artist/41VDOAcGeEjhuR7CkhVeR6"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Michael Damian",
+          "url": "https://open.spotify.com/artist/1Wb1iP9BzMJyjm5nXtBUFP"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "Close Every Door",
+      "url": "https://open.spotify.com/track/51egejhLrTY4rgO4xYK0qT"
     },
     {
       "album": {
@@ -4504,7 +4570,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 208373,
       "name": "Come Back with the Same Look in Your Eyes",
       "url": "https://open.spotify.com/track/0shqfeHuDaeSmQxDP8HoxS"
@@ -4533,6 +4599,28 @@
     },
     {
       "album": {
+        "name": "Song and Dance (Live at the Palace Theatre) (Remastered 2005)",
+        "url": "https://open.spotify.com/album/4xm2Qcf3Jm2lPSll9n98MH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Marti Webb",
+          "url": "https://open.spotify.com/artist/40mIDxRW5aqgFGVjBed4qf"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Come Back with the Same Look in Your Eyes - Live",
+      "url": "https://open.spotify.com/track/7dRqFE9jlfBdXJcfTXRuOd"
+    },
+    {
+      "album": {
         "name": "Non Ti Posso Lasciare",
         "url": "https://open.spotify.com/album/65lRjxnm5IaFyrdsRC0DRj"
       },
@@ -4544,10 +4632,28 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 194360,
       "name": "Come Sinfonia",
       "url": "https://open.spotify.com/track/4sJBtby2jVNqYbCJi0yv44"
+    },
+    {
+      "album": {
+        "name": "I Grandi Successi di Pino Donaggio",
+        "url": "https://open.spotify.com/album/14YvmXWMQ1tTfu5vicG8iD"
+      },
+      "artists": [
+        {
+          "name": "Pino Donaggio",
+          "url": "https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Come sinfonia",
+      "url": "https://open.spotify.com/track/7y0weeTSPdnWQjbvQQRqvo"
     },
     {
       "album": {
@@ -5862,10 +5968,40 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 216933,
       "name": "Don't Cry for Me Argentina",
       "url": "https://open.spotify.com/track/7jup0fSS8K38GhvqrAcDuJ"
+    },
+    {
+      "album": {
+        "name": "Performs Andrew Lloyd Webber",
+        "url": "https://open.spotify.com/album/0guiyAeIqSsak4HCXnYcYu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4xd7dzKtrSaUHXcV0kAWCS"
+        },
+        {
+          "name": "Herv\u00e9 Roy",
+          "url": "https://open.spotify.com/artist/50SE2xW4Tw6IlY9clcoHRU"
+        },
+        {
+          "name": "Tim Rice",
+          "url": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216213,
+      "name": "Don't Cry for Me Argentina (from \"Evita\")",
+      "url": "https://open.spotify.com/track/6vmV3ydpUvdUywkngv7mGD"
     },
     {
       "album": {
@@ -6119,6 +6255,28 @@
     },
     {
       "album": {
+        "name": "Nur ein Blick (Songs von Sunset Boulevard)",
+        "url": "https://open.spotify.com/album/7qN9AlJvON30InFktbVKp2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Daniela Ziegler",
+          "url": "https://open.spotify.com/artist/00hGXxEVVk9jP8cupCBpMh"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Ein gutes Jahr",
+      "url": "https://open.spotify.com/track/3ynVw1bjUzJ92wRdXW0FsA"
+    },
+    {
+      "album": {
         "name": "Sunset Boulevard (Deutsche Gesamtaufnahme)",
         "url": "https://open.spotify.com/album/1Y5LZs0DqJMv3gUsnQn1fh"
       },
@@ -6156,7 +6314,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 187200,
       "name": "Ein gutes Jahr",
       "url": "https://open.spotify.com/track/1OjfAVVK4OGr49htrvsues"
@@ -6646,6 +6804,24 @@
       "duration_ms": 244840,
       "name": "Evermore Without You",
       "url": "https://open.spotify.com/track/2EUabpQ0yT5mB8mlFmOiSy"
+    },
+    {
+      "album": {
+        "name": "Letter Full of Tears (Remastered Edition)",
+        "url": "https://open.spotify.com/album/0OCfCGb37wvoAZ1fFg5ggq"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124341,
+      "name": "Every Beat of My Heart",
+      "url": "https://open.spotify.com/track/6U887BZF8gKUbf9bQLfAjy"
     },
     {
       "album": {
@@ -8339,6 +8515,28 @@
     },
     {
       "album": {
+        "name": "Selections from Cats (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/50y7CAPujhHGzV9wDDdcFA"
+      },
+      "artists": [
+        {
+          "name": "\"Cats\" 1983 Broadway Cast",
+          "url": "https://open.spotify.com/artist/2cez574BwRD00PGEbNl4SH"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "Grizabella",
+      "url": "https://open.spotify.com/track/6WgcB5ENSDLUpqi5IrDvZd"
+    },
+    {
+      "album": {
         "name": "Cats",
         "url": "https://open.spotify.com/album/4L31enU4WxiYnPcWFQ2mRf"
       },
@@ -9742,7 +9940,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -11552,7 +11750,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 127093,
       "name": "John Nineteen Forty-One - Remastered 2021",
       "url": "https://open.spotify.com/track/3hvZOntjk8z7ksw5ccr67n"
@@ -12718,10 +12916,28 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 132133,
       "name": "Let's Talk About You",
       "url": "https://open.spotify.com/track/3LcjgYZgsbuQujIyW6Dchb"
+    },
+    {
+      "album": {
+        "name": "Song & Dance (2007 Remastered Version)",
+        "url": "https://open.spotify.com/album/51URGxT0WNnC8Y7DDD154p"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133253,
+      "name": "Let's Talk About You - 2007 Remaster",
+      "url": "https://open.spotify.com/track/32fucP3FnjmwdoVDKPEghp"
     },
     {
       "album": {
@@ -13304,7 +13520,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 235160,
       "name": "Love Changes Everything (with Shaggy)",
       "url": "https://open.spotify.com/track/1cCtVZ9pNfUCPmbBuVxrGI"
@@ -14230,6 +14446,24 @@
       "duration_ms": 768640,
       "name": "Medley: Down Once More / Track Down This Murderer - From 'The Phantom Of The Opera' Motion Picture",
       "url": "https://open.spotify.com/track/5i7onLU8iJDQdc8V1A7NbR"
+    },
+    {
+      "album": {
+        "name": "Ebstein",
+        "url": "https://open.spotify.com/album/3NK5OzHMUEgwoAIeUiPYsu"
+      },
+      "artists": [
+        {
+          "name": "Katja Ebstein",
+          "url": "https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229706,
+      "name": "Mehr will ich nicht von dir",
+      "url": "https://open.spotify.com/track/0B6WmYFVUrIdcghNdYn8mr"
     },
     {
       "album": {
@@ -16050,7 +16284,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 293680,
       "name": "Other Pleasures - Live",
       "url": "https://open.spotify.com/track/1eGSqgpbRxuHHsib3RFwCh"
@@ -17116,7 +17350,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 233964,
       "name": "Phantom of the Opera",
       "url": "https://open.spotify.com/track/2lfriBv2NFfhzlLpSRhbLi"
@@ -17138,7 +17372,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 237911,
       "name": "Phantom of the Opera",
       "url": "https://open.spotify.com/track/3WNjBWUbxF1y8NyuBMen5u"
@@ -17262,10 +17496,36 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 188760,
       "name": "Pharaoh Story",
       "url": "https://open.spotify.com/track/3DVymhG4g5NmYzalSNBP3Q"
+    },
+    {
+      "album": {
+        "name": "Joseph and the Amazing Technicolor Dreamcoat (1993 Los Angeles Cast Recording)",
+        "url": "https://open.spotify.com/album/2wMQNOcmKGIOZ6rLPhk98z"
+      },
+      "artists": [
+        {
+          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1993 Los Angeles Cast",
+          "url": "https://open.spotify.com/artist/41VDOAcGeEjhuR7CkhVeR6"
+        },
+        {
+          "name": "Kelli Rabke",
+          "url": "https://open.spotify.com/artist/5aqXGr9yNrDlDdueLcmW1i"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Pharaoh Story",
+      "url": "https://open.spotify.com/track/491PbfINDrHmgiXHToWDCh"
     },
     {
       "album": {
@@ -17413,6 +17673,36 @@
     },
     {
       "album": {
+        "name": "Jesus Christ Superstar",
+        "url": "https://open.spotify.com/album/32tSaPx5IHoxZiZHXLhH61"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Tim Rice",
+          "url": "https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh"
+        },
+        {
+          "name": "Ian Gillan",
+          "url": "https://open.spotify.com/artist/4QCflfSOonkybNw5D7GqGk"
+        },
+        {
+          "name": "Barry Dennen",
+          "url": "https://open.spotify.com/artist/6m662dmlJ57GKO4wo9AWga"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "Pilate And Christ",
+      "url": "https://open.spotify.com/track/411GNfOk13daEcupYgXktU"
+    },
+    {
+      "album": {
         "name": "Jesus Christ Superstar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/72B4nP6lGLaenlP8Bdrrrj"
       },
@@ -17428,7 +17718,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 178893,
       "name": "Pilate And Christ - From \"Jesus Christ Superstar\" Soundtrack",
       "url": "https://open.spotify.com/track/73N0U5M1eQEGBQNGZHsfTz"
@@ -17708,10 +17998,40 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 109213,
       "name": "Poor, Poor Pharaoh",
       "url": "https://open.spotify.com/track/7s2iU5EgsjBf3DmiKEsWAN"
+    },
+    {
+      "album": {
+        "name": "Joseph and the Amazing Technicolor Dreamcoat (1993 Los Angeles Cast Recording)",
+        "url": "https://open.spotify.com/album/2wMQNOcmKGIOZ6rLPhk98z"
+      },
+      "artists": [
+        {
+          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1993 Los Angeles Cast",
+          "url": "https://open.spotify.com/artist/41VDOAcGeEjhuR7CkhVeR6"
+        },
+        {
+          "name": "Kelli Rabke",
+          "url": "https://open.spotify.com/artist/5aqXGr9yNrDlDdueLcmW1i"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Robert Torti",
+          "url": "https://open.spotify.com/artist/74O4p56lGTiMYsF9WxkNNC"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113666,
+      "name": "Poor, Poor Pharaoh",
+      "url": "https://open.spotify.com/track/4Jq0zP0bGm4PljInCJnSiY"
     },
     {
       "album": {
@@ -17878,10 +18198,60 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 209733,
       "name": "Prima Donna",
       "url": "https://open.spotify.com/track/73WJCsy9JPvjvcpnL7SFyE"
+    },
+    {
+      "album": {
+        "name": "The Phantom of the Opera (1999 Japanese Cast Version)",
+        "url": "https://open.spotify.com/album/7oK0KYLFaofvgZP3EqYvEw"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko Nishijima",
+          "url": "https://open.spotify.com/artist/0TqBTLhrMXalTAoubl4i7C"
+        },
+        {
+          "name": "Daisuke Yanase",
+          "url": "https://open.spotify.com/artist/3E9NiibK8ykaIJML55PkLd"
+        },
+        {
+          "name": "Akira Aoyama",
+          "url": "https://open.spotify.com/artist/0zuIraW51AV3hWuxR7xifo"
+        },
+        {
+          "name": "Gekidan Shiki Long-Run Cast",
+          "url": "https://open.spotify.com/artist/23N6AecubitgqwUXMqaT76"
+        },
+        {
+          "name": "Minako Akimoto",
+          "url": "https://open.spotify.com/artist/6CyUeFO2D7VuprgkrJQYYT"
+        },
+        {
+          "name": "Kazuyo Kawai",
+          "url": "https://open.spotify.com/artist/22p5gG3apVa5jA08Ms9RYy"
+        },
+        {
+          "name": "Morimasa Sagawa",
+          "url": "https://open.spotify.com/artist/0K7dei7J53bOvRUQEU2xMw"
+        },
+        {
+          "name": "Kiyotaka Imai",
+          "url": "https://open.spotify.com/artist/1RjnbvEmyvqJLUAuE2CrEm"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Prima Donna",
+      "url": "https://open.spotify.com/track/5Pg1ei3ZEeV3qERre3Hvg3"
     },
     {
       "album": {
@@ -18088,10 +18458,32 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 99400,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/7HXRlTLLnc2FjeUmbbFDZU"
+    },
+    {
+      "album": {
+        "name": "Joseph and the Amazing Technicolor Dreamcoat (1993 Los Angeles Cast Recording)",
+        "url": "https://open.spotify.com/album/2wMQNOcmKGIOZ6rLPhk98z"
+      },
+      "artists": [
+        {
+          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1993 Los Angeles Cast",
+          "url": "https://open.spotify.com/artist/41VDOAcGeEjhuR7CkhVeR6"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101026,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/08juL4fQK8JBAEuCGCnzCl"
     },
     {
       "album": {
@@ -18136,7 +18528,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 113800,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/2S02JjQfVckjPPp3jM742h"
@@ -18583,6 +18975,24 @@
     },
     {
       "album": {
+        "name": "The Original Ray Charles",
+        "url": "https://open.spotify.com/album/2mSc8OyExFK1JSF8gFjWXC"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Ray Charles Blues",
+      "url": "https://open.spotify.com/track/6GsjyTWoOdhBOIuemlxUj5"
+    },
+    {
+      "album": {
         "name": "Tell Me On A Sunday",
         "url": "https://open.spotify.com/album/4iDnjr7h9wm23fcIWT7FEQ"
       },
@@ -18740,6 +19150,40 @@
       "duration_ms": 256306,
       "name": "Requiem for Evita - Edit",
       "url": "https://open.spotify.com/track/3orOXFHduG5xnlS2u6pr13"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Messe de Requiem; Cantique de Jean Racine",
+        "url": "https://open.spotify.com/album/0u3hURUzCFiGNxoYq7uLeD"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Choir of St. John's College, Cambridge",
+          "url": "https://open.spotify.com/artist/1fwwl0jxv972y7OpKpL6Ax"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "George Guest",
+          "url": "https://open.spotify.com/artist/3DRH7rF3cYnN6kRuWid07b"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Requiem, Op. 48: 7. In paradisum",
+      "url": "https://open.spotify.com/track/59dR0KXvYl6hemrDTzxPW5"
     },
     {
       "album": {
@@ -19192,7 +19636,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 235200,
       "name": "Requiem: VII. Pie Jesu",
       "url": "https://open.spotify.com/track/0Xm46GVlQM2SMK4hsZYk04"
@@ -19264,7 +19708,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 90560,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 16 - Live",
       "url": "https://open.spotify.com/track/6rZZKgnJb8BQIPfacbwspB"
@@ -19294,10 +19738,54 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 118040,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 17 - Live",
       "url": "https://open.spotify.com/track/7MUuxQ4SG9IohUaF1vYVwJ"
+    },
+    {
+      "album": {
+        "name": "Sergei Rachmaninoff: Complete RCA Recordings",
+        "url": "https://open.spotify.com/album/2LFInxWGmE78xU7ETxqNb9"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81306,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVI - Allegretto",
+      "url": "https://open.spotify.com/track/4tSavquovWaOWtHYU0wc8n"
+    },
+    {
+      "album": {
+        "name": "Sergei Rachmaninoff: Complete RCA Recordings",
+        "url": "https://open.spotify.com/album/2LFInxWGmE78xU7ETxqNb9"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102960,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVII - (Allegretto)",
+      "url": "https://open.spotify.com/track/6Wv2TrCjiGkPZCPcdMoFvi"
     },
     {
       "album": {
@@ -21040,7 +21528,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 186826,
       "name": "Sunset Boulevard",
       "url": "https://open.spotify.com/track/1fzPQZHN7a330XQ2F8CMLj"
@@ -23204,10 +23692,40 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 266666,
       "name": "The Lady's Paying",
       "url": "https://open.spotify.com/track/6MuCX576YoPckbjeOo3hHk"
+    },
+    {
+      "album": {
+        "name": "Sunset Boulevard (2007 Remaster)",
+        "url": "https://open.spotify.com/album/1dvNp1cKn1SLsj4IIQ6QTH"
+      },
+      "artists": [
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Nicolas Colicos",
+          "url": "https://open.spotify.com/artist/0S0YgEIV6dO0iXdFootMDR"
+        },
+        {
+          "name": "Kevin Anderson",
+          "url": "https://open.spotify.com/artist/5RSJN1bL0BLhKKKCanj4Ym"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259986,
+      "name": "The Lady's Paying - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1ZFon1Q9CB9ZwU6uhe20te"
     },
     {
       "album": {
@@ -23425,6 +23943,32 @@
     },
     {
       "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Phantom Of The Opera Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Michael Crawford",
+          "url": "https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341106,
+      "name": "The Music of the Night",
+      "url": "https://open.spotify.com/track/6Lnp4uVcMO2huN8ysWaKlP"
+    },
+    {
+      "album": {
         "name": "The Phantom of the Opera (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fs1YLCt6JVsLcfRM9kVzQ"
       },
@@ -23440,7 +23984,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 342026,
       "name": "The Music of the Night",
       "url": "https://open.spotify.com/track/3A1bnDYnhtQEL3r5OIk1zg"
@@ -26549,6 +27093,32 @@
     },
     {
       "album": {
+        "name": "Song and Dance (Live at the Palace Theatre) (Remastered 2005)",
+        "url": "https://open.spotify.com/album/4xm2Qcf3Jm2lPSll9n98MH"
+      },
+      "artists": [
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Harry Rabinowitz",
+          "url": "https://open.spotify.com/artist/7fhs5jWVmqKeYAU5iF6xFe"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85880,
+      "name": "Variation 15 - Live",
+      "url": "https://open.spotify.com/track/3Ay3HeZIHn7lKsGOx7vH8W"
+    },
+    {
+      "album": {
         "name": "Song & Dance (2007 Remastered Version)",
         "url": "https://open.spotify.com/album/51URGxT0WNnC8Y7DDD154p"
       },
@@ -26748,7 +27318,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 48840,
       "name": "Variation 6 - 2007 Remaster",
       "url": "https://open.spotify.com/track/7w7W2iw89b8dVAIqgKB7J8"
@@ -28078,10 +28648,32 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 222946,
       "name": "Wishing You Were Somehow Here Again",
       "url": "https://open.spotify.com/track/34yWwcaPdGikvpuRuLb9Y8"
+    },
+    {
+      "album": {
+        "name": "Sarah Brightman Sings the Music of Andrew Lloyd Webber",
+        "url": "https://open.spotify.com/album/0hNC1PxZPV0aJKiDKU2jid"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228440,
+      "name": "Wishing You Were Somehow Here Again",
+      "url": "https://open.spotify.com/track/0Pf3RofOcMA99rqWqizVXR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16936,
+  "num_followers": 16944,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAACAbMeLFE5PUv5m0v0bidcG",
+  "snapshot_id": "aoJPAAAAAAAoSV3zYvYv2OrntVDNGviN",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Amo Te Ver de Juju",
-      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
+      "duration_ms": 262400,
+      "name": "T\u00e3o Gostoso",
+      "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 262400,
-      "name": "T\u00e3o Gostoso",
-      "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
+      "duration_ms": 160000,
+      "name": "Amo Te Ver de Juju",
+      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tente Outra Vez",
-        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Sebrae Nosso Canto",
-          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
-        }
-      ],
-      "duration_ms": 114196,
-      "name": "Tente Outra Vez",
-      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aju",
         "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 204013,
       "name": "O Suficiente (feat. N.I.N.A)",
       "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tente Outra Vez",
+        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
+        }
+      ],
+      "duration_ms": 114196,
+      "name": "Tente Outra Vez",
+      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Novo Tom",
         "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 290769,
       "name": "Um Novo Tom",
       "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
     },
     {
       "added_at": null,

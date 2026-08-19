@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla",
-  "num_followers": 6757,
+  "num_followers": 6756,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
+        "name": "Never Thought I Could (Part 1)",
+        "url": "https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm"
+    },
+    {
+      "added_at": "2026-07-24 13:33:59",
+      "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S"
-    },
-    {
-      "added_at": "2026-07-24 13:33:59",
-      "album": {
-        "name": "Never Thought I Could (Part 1)",
-        "url": "https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "Fort",
-        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Fort",
-      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
-    },
-    {
-      "added_at": "2026-07-24 13:33:59",
-      "album": {
         "name": "My Hallelujah",
         "url": "https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 179893,
       "name": "My Hallelujah",
       "url": "https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6"
+    },
+    {
+      "added_at": "2026-07-24 13:33:59",
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
-    },
-    {
-      "added_at": "2026-07-24 13:33:59",
-      "album": {
         "name": "All The Things",
         "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 181000,
       "name": "All The Things",
       "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
+    },
+    {
+      "added_at": "2026-07-24 13:33:59",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "Letting go",
-        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
-      },
-      "artists": [
-        {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Letting go",
-      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
-    },
-    {
-      "added_at": "2026-07-24 13:33:59",
-      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 148800,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8"
+    },
+    {
+      "added_at": "2026-07-24 13:33:59",
+      "album": {
+        "name": "Letting go",
+        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Letting go",
+      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
     },
     {
       "added_at": "2026-07-24 13:33:59",

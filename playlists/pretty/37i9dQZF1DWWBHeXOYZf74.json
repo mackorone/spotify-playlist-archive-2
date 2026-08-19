@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Sophia Stel",
-  "num_followers": 1326459,
+  "num_followers": 1326457,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdxwlBkjZlHOZ79mPVf9WK+cKfI",
+  "snapshot_id": "AAAAAPZNNNqyZHKpUHL1RrSHIcu2uDAm",
   "tracks": [
     {
       "added_at": "2026-08-14 04:02:21",
@@ -23,22 +23,6 @@
       "duration_ms": 310596,
       "name": "Now I've Got A Lot You Know",
       "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
-    },
-    {
-      "added_at": "2026-08-14 04:02:21",
-      "album": {
-        "name": "outernet \u958b\u304f",
-        "url": "https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        }
-      ],
-      "duration_ms": 120827,
-      "name": "gaga",
-      "url": "https://open.spotify.com/track/0vS87q256EOA3p80doMehD"
     },
     {
       "added_at": "2026-08-07 04:01:57",
@@ -89,6 +73,26 @@
       "url": "https://open.spotify.com/track/7i89LR6mmiB2hPLbw9U0il"
     },
     {
+      "added_at": "2026-08-18 21:34:06",
+      "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 386020,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
+    },
+    {
       "added_at": "2026-08-17 14:57:53",
       "album": {
         "name": "Pure Devotion",
@@ -123,22 +127,6 @@
     {
       "added_at": "2026-08-14 04:02:21",
       "album": {
-        "name": "elmyra",
-        "url": "https://open.spotify.com/album/65y4iXOL3zrW1njXzX3yQj"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 283386,
-      "name": "elmyra",
-      "url": "https://open.spotify.com/track/5pedzmyyKGTs8PV23dnvbc"
-    },
-    {
-      "added_at": "2026-08-14 04:02:21",
-      "album": {
         "name": "The World Keeps Spinning",
         "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
       },
@@ -157,22 +145,6 @@
       "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
     },
     {
-      "added_at": "2026-08-14 04:02:21",
-      "album": {
-        "name": "I Lied, You Lied",
-        "url": "https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF"
-    },
-    {
       "added_at": "2026-07-10 05:01:48",
       "album": {
         "name": "Zero",
@@ -189,6 +161,38 @@
       "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
     },
     {
+      "added_at": "2026-08-18 21:34:06",
+      "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/0bUiOSfOyMqNh21G4doqd0"
+      },
+      "artists": [
+        {
+          "name": "megiapa",
+          "url": "https://open.spotify.com/artist/35t5sI1WDcFQFzTfMGEBs2"
+        }
+      ],
+      "duration_ms": 135306,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5fkknJWuOSrhdxbsuQxU94"
+    },
+    {
+      "added_at": "2026-08-14 04:02:21",
+      "album": {
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF"
+    },
+    {
       "added_at": "2026-08-09 16:09:27",
       "album": {
         "name": "DO YOU SEE ME?",
@@ -196,7 +200,7 @@
       },
       "artists": [
         {
-          "name": "Q",
+          "name": "Q Marsden",
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
@@ -227,6 +231,22 @@
       "duration_ms": 180002,
       "name": "Needle",
       "url": "https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD"
+    },
+    {
+      "added_at": "2026-08-14 04:02:21",
+      "album": {
+        "name": "outernet \u958b\u304f",
+        "url": "https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "gaga",
+      "url": "https://open.spotify.com/track/0vS87q256EOA3p80doMehD"
     },
     {
       "added_at": "2026-08-14 04:02:21",
@@ -287,6 +307,22 @@
     {
       "added_at": "2026-08-14 04:02:21",
       "album": {
+        "name": "elmyra",
+        "url": "https://open.spotify.com/album/65y4iXOL3zrW1njXzX3yQj"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 283386,
+      "name": "elmyra",
+      "url": "https://open.spotify.com/track/5pedzmyyKGTs8PV23dnvbc"
+    },
+    {
+      "added_at": "2026-08-14 04:02:21",
+      "album": {
         "name": "1980",
         "url": "https://open.spotify.com/album/4R0ikpuB5IQVkoSPFWxMFJ"
       },
@@ -335,22 +371,6 @@
       "duration_ms": 91585,
       "name": "Tender",
       "url": "https://open.spotify.com/track/7bcfMYWR2ItosoulqmDxgv"
-    },
-    {
-      "added_at": "2026-08-07 04:01:57",
-      "album": {
-        "name": "Sunshine / P4P",
-        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 220044,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
     },
     {
       "added_at": "2026-08-07 04:01:57",
@@ -475,6 +495,22 @@
       "duration_ms": 137984,
       "name": "I Wonder (feat. Phoelix)",
       "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
+    },
+    {
+      "added_at": "2026-08-07 04:01:57",
+      "album": {
+        "name": "Sunshine / P4P",
+        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 220044,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
     },
     {
       "added_at": "2026-07-31 04:02:41",
@@ -877,26 +913,6 @@
       "url": "https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4"
     },
     {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "See Me (Max Tundra Remix)",
-        "url": "https://open.spotify.com/album/1JaB1fSkBcOP9GVM0MvBA5"
-      },
-      "artists": [
-        {
-          "name": "Gemma",
-          "url": "https://open.spotify.com/artist/0aSXz49xJK9JAz8U6d3FVy"
-        },
-        {
-          "name": "Max Tundra",
-          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "See Me (Max Tundra Remix)",
-      "url": "https://open.spotify.com/track/2siynSZ5RH2sInOxDwqtje"
-    },
-    {
       "added_at": "2026-07-03 04:02:06",
       "album": {
         "name": "AK Cuts: Vol. 4",
@@ -1008,7 +1024,7 @@
       },
       "artists": [
         {
-          "name": "Q",
+          "name": "Q Marsden",
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
@@ -1479,22 +1495,6 @@
       "duration_ms": 239648,
       "name": "Time Will Help",
       "url": "https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm"
-    },
-    {
-      "added_at": "2026-07-03 04:02:06",
-      "album": {
-        "name": "Sweet n\u2019 Sour",
-        "url": "https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 157683,
-      "name": "Sweet n\u2019 Sour",
-      "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
     },
     {
       "added_at": "2026-07-03 04:02:06",

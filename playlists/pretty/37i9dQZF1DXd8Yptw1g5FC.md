@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > emir taha ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,784 likes - 132 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,761 likes - 132 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

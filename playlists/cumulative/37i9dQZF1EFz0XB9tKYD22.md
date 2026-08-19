@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-445 songs - 1 day 2 hr 14 min
+446 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [Plain Jane](https://open.spotify.com/track/1vooH2ubQm33QhksSPLFGY) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 3:28 | 2024-07-11 |  |
 | [Plain Jane](https://open.spotify.com/track/6FrmKMVrl4ga3lGup2QZ2M) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 3:28 | 2024-02-27 | 2024-07-12 |
 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 | 2024-02-27 |  |
-| [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 | 2024-02-27 |  |
+| [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 | 2024-02-27 | 2026-08-19 |
+| [Raincoat](https://open.spotify.com/track/7JGiTf252HMEIJW9uuSeyV) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 | 2026-08-18 |  |
 | [Real Talk](https://open.spotify.com/track/6XfnCGAaNjvmUHClivmzGj) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Real Talk](https://open.spotify.com/album/0HrllaJBNh6palq7JyRGRp) | 3:06 | 2025-11-27 |  |
 | [Real Talk](https://open.spotify.com/track/7wTu1LogP8hGm0wYoiS73m) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Real Talk](https://open.spotify.com/album/3siJExEI1ib1c1gUqjwqFa) | 3:06 | 2024-02-27 | 2025-11-28 |
 | [Redneck Love Song](https://open.spotify.com/track/4Fq3qtut7HdtxUVnsAEPDd) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:09 | 2024-07-12 |  |

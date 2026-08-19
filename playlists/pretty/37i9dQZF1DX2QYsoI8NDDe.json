@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Majo Aguilar",
-  "num_followers": 575368,
+  "num_followers": 575366,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
+        "name": "Y Qu\u00e9",
+        "url": "https://open.spotify.com/album/26jxQmK7QAuvHiQ9lGe5oh"
+      },
+      "artists": [
+        {
+          "name": "Alisson Joan",
+          "url": "https://open.spotify.com/artist/65sDAqnzGih8hYzqtZqitw"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
         "name": "Cambias Mi Mundo",
         "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 176714,
       "name": "Soy Fan",
       "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
-        "name": "Y Qu\u00e9",
-        "url": "https://open.spotify.com/album/26jxQmK7QAuvHiQ9lGe5oh"
-      },
-      "artists": [
-        {
-          "name": "Alisson Joan",
-          "url": "https://open.spotify.com/artist/65sDAqnzGih8hYzqtZqitw"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "Y Qu\u00e9",
-      "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Zapatos Que Aprietan",
-        "url": "https://open.spotify.com/album/4VyXwM08CTSjCvzYam4V2Z"
-      },
-      "artists": [
-        {
-          "name": "Ximena ramos",
-          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Zapatos Que Aprietan",
-      "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
         "name": "PLAKOZONA INVENTADA",
         "url": "https://open.spotify.com/album/00Wa4Fi7zCjGgH6JyCDXru"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 149027,
       "name": "PLAKOZONA INVENTADA",
       "url": "https://open.spotify.com/track/7n8en2dDawQ9flafWLoqPz"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
+        "name": "Zapatos Que Aprietan",
+        "url": "https://open.spotify.com/album/4VyXwM08CTSjCvzYam4V2Z"
+      },
+      "artists": [
+        {
+          "name": "Ximena ramos",
+          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Zapatos Que Aprietan",
+      "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201340,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
+        "name": "Regresa La Reina",
+        "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Millan",
+          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+        }
+      ],
+      "duration_ms": 155375,
+      "name": "Regresa La Reina",
+      "url": "https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
         "name": "Mirando desde afuera",
         "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Regresa La Reina",
-        "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
+        "name": "Herencias De Mi Madre",
+        "url": "https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91"
       },
       "artists": [
         {
-          "name": "Mariana Millan",
-          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+          "name": "Chayito Valdez Hija",
+          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
         }
       ],
-      "duration_ms": 155375,
-      "name": "Regresa La Reina",
-      "url": "https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r"
+      "duration_ms": 155000,
+      "name": "Una Noche Me Embriague",
+      "url": "https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -951,6 +967,22 @@
       "duration_ms": 176000,
       "name": "Ni Al 50",
       "url": "https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
+        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Una Palomita (En Vivo)",
+      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -975,22 +1007,6 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Una Palomita (En Vivo)",
-      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
         "name": "No Puedo Odiarte",
         "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
       },
@@ -1011,8 +1027,8 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Herencias De Mi Madre",
-        "url": "https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91"
+        "name": "Herencias De Mi Madre (Volumen 2)",
+        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
       },
       "artists": [
         {
@@ -1020,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Una Noche Me Embriague",
-      "url": "https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj"
+      "duration_ms": 138931,
+      "name": "La Silla Vac\u00eda",
+      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
         "name": "Eterna e Inolvidable",
         "url": "https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6"
       },
@@ -1103,38 +1135,6 @@
       "duration_ms": 222730,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
-        "name": "Herencias De Mi Madre (Volumen 2)",
-        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez Hija",
-          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
-        }
-      ],
-      "duration_ms": 138931,
-      "name": "La Silla Vac\u00eda",
-      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -1180,7 +1180,7 @@
           "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 212309,
+      "duration_ms": 213237,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
     },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
         "name": "Algunas Canciones Romanticas",
         "url": "https://open.spotify.com/album/155GEFtzsqj9iMhZNjEwKh"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 215483,
       "name": "Maldito Sea Tu Amor",
       "url": "https://open.spotify.com/track/1N2sjSxjlMu0za92rIXrcL"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "All\u00e1 Donde Vayas",
-        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "All\u00e1 Donde Vayas",
-      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
         "name": "El Hielo Est\u00e1 Quemando",
         "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 189884,
       "name": "El Hielo Est\u00e1 Quemando",
       "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 178022,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 178022,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
         "name": "La M\u00e1s Bella",
         "url": "https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 228238,
       "name": "La M\u00e1s Bella",
       "url": "https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK"
+    },
+    {
+      "added_at": "2026-08-14 06:00:28",
+      "album": {
+        "name": "Bandera Roja",
+        "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 169808,
+      "name": "Bandera Roja",
+      "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2026-08-14 06:00:28",
       "album": {
-        "name": "Bandera Roja",
-        "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
+        "name": "Sufriendo a Solas (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO"
       },
       "artists": [
         {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+          "name": "Kaylanie Barrera",
+          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
         }
       ],
-      "duration_ms": 169808,
-      "name": "Bandera Roja",
-      "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
+      "duration_ms": 294002,
+      "name": "Sufriendo a Solas",
+      "url": "https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ"
     },
     {
       "added_at": "2026-08-14 06:00:28",
@@ -1671,22 +1687,6 @@
       "duration_ms": 238500,
       "name": "Un Abrazo - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-08-14 06:00:28",
-      "album": {
-        "name": "Sufriendo a Solas (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO"
-      },
-      "artists": [
-        {
-          "name": "Kaylanie Barrera",
-          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
-        }
-      ],
-      "duration_ms": 294002,
-      "name": "Sufriendo a Solas",
-      "url": "https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ"
     },
     {
       "added_at": "2026-08-14 06:00:28",

@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143040,
+  "num_followers": 143077,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA9/ng/AGWjfBCcLxRN8ZM++TkdaZuo",
+  "snapshot_id": "AAA+C+bSnnv4cGe39gjb94F5s0crbfaN",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -1115,6 +1115,26 @@
       "duration_ms": 212973,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
+    },
+    {
+      "added_at": "2026-08-18 13:57:40",
+      "album": {
+        "name": "by your side",
+        "url": "https://open.spotify.com/album/16VEANzjnjmBUcIFFtDQnI"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        },
+        {
+          "name": "Wil$on",
+          "url": "https://open.spotify.com/artist/1YYdd69HF5WzeQwk5DVNIO"
+        }
+      ],
+      "duration_ms": 171378,
+      "name": "by your side",
+      "url": "https://open.spotify.com/track/5q27t4UOADUfqSS7Z03KCB"
     },
     {
       "added_at": "2026-08-03 13:46:17",
@@ -2845,6 +2865,150 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2026-08-18 23:04:53",
+      "album": {
+        "name": "Driveway Conversations",
+        "url": "https://open.spotify.com/album/1IkJfO9HUhqeZ4gyZKQtMZ"
+      },
+      "artists": [
+        {
+          "name": "Teni Rane",
+          "url": "https://open.spotify.com/artist/1LgYsLK1CCquN54uMTANVM"
+        }
+      ],
+      "duration_ms": 236456,
+      "name": "Driveway Conversations",
+      "url": "https://open.spotify.com/track/1bCgdbxK4HxHPFkRBqVtUi"
+    },
+    {
+      "added_at": "2026-08-18 23:04:13",
+      "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/1odqZxsOiX9w48X1IGxKy8"
+      },
+      "artists": [
+        {
+          "name": "YUNIER BOY",
+          "url": "https://open.spotify.com/artist/5wPqxU0CFIDOcnyWUp0ECW"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/5oo6XoZG7SMgthlGy7vgZE"
+    },
+    {
+      "added_at": "2026-08-18 23:03:42",
+      "album": {
+        "name": "All for Themselves",
+        "url": "https://open.spotify.com/album/6gsaMCGyEfd1cHSLgAA7CP"
+      },
+      "artists": [
+        {
+          "name": "Jalen Sky",
+          "url": "https://open.spotify.com/artist/2hcZmIXnWfCS8s7RzWxS60"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "All for Themselves",
+      "url": "https://open.spotify.com/track/4LikVDbCpxOPhQU9yGYSXH"
+    },
+    {
+      "added_at": "2026-08-18 23:03:28",
+      "album": {
+        "name": "The Pathless Chosen",
+        "url": "https://open.spotify.com/album/1WxM3olPhIIcMpOsbzGMfz"
+      },
+      "artists": [
+        {
+          "name": "Brian Gore Guitar Poet",
+          "url": "https://open.spotify.com/artist/25AYr5VhHQgsZUDzwgIGPb"
+        }
+      ],
+      "duration_ms": 264249,
+      "name": "The Pathless Chosen",
+      "url": "https://open.spotify.com/track/6rSFz0PDec0FRBKKz27A4f"
+    },
+    {
+      "added_at": "2026-08-18 23:02:49",
+      "album": {
+        "name": "Burnt",
+        "url": "https://open.spotify.com/album/0ILnWsaqMy7UKGTPBmuCCZ"
+      },
+      "artists": [
+        {
+          "name": "Ari K",
+          "url": "https://open.spotify.com/artist/7FlhUnCDSkfjp6xDxAxHKM"
+        }
+      ],
+      "duration_ms": 233814,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/44G9JlOm6GM4jE8ZZBsvWz"
+    },
+    {
+      "added_at": "2026-08-18 23:01:52",
+      "album": {
+        "name": "Carnival of Cupid",
+        "url": "https://open.spotify.com/album/6G8F21cSHmvNTLofdjp9pX"
+      },
+      "artists": [
+        {
+          "name": "AmaJa",
+          "url": "https://open.spotify.com/artist/7oHUXvORKX7EJnkvfiHPZo"
+        }
+      ],
+      "duration_ms": 143158,
+      "name": "origami (stallion)",
+      "url": "https://open.spotify.com/track/18aOYRSs9RFUnzF6j0anFP"
+    },
+    {
+      "added_at": "2026-08-18 23:02:23",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/2sh24FYz7FkQKqY1FjN1kq"
+      },
+      "artists": [
+        {
+          "name": "Mike Goodrick",
+          "url": "https://open.spotify.com/artist/2A63azK3jx91MJfuL0WbJA"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/6XYvAnnEshBwGtPXGySA41"
+    },
+    {
+      "added_at": "2026-08-18 23:04:38",
+      "album": {
+        "name": "White dress",
+        "url": "https://open.spotify.com/album/7g4OE2etBJsIthQTyZnDKf"
+      },
+      "artists": [
+        {
+          "name": "Rau Lito",
+          "url": "https://open.spotify.com/artist/0x5mmT5r3g5kOz7zHz1IiD"
+        }
+      ],
+      "duration_ms": 202052,
+      "name": "White dress",
+      "url": "https://open.spotify.com/track/5PM6S3UCc5s5NzxwnexLvR"
+    },
+    {
+      "added_at": "2026-08-18 23:03:05",
+      "album": {
+        "name": "Needed U (Radio Edit)",
+        "url": "https://open.spotify.com/album/0ueZYHivF29aMEhIKeidRO"
+      },
+      "artists": [
+        {
+          "name": "LOOMX",
+          "url": "https://open.spotify.com/artist/6bUh49Tv2N5PqWgt24SUOc"
+        }
+      ],
+      "duration_ms": 204643,
+      "name": "Needed U - Radio Edit",
+      "url": "https://open.spotify.com/track/2LeRyUtliUB6myxbG8EOYJ"
+    },
+    {
       "added_at": "2026-08-17 06:01:52",
       "album": {
         "name": "BARCELONA",
@@ -3283,158 +3447,6 @@
       "duration_ms": 154015,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1mLtR4wo2bIgTEnP9OMffU"
-    },
-    {
-      "added_at": "2026-08-08 06:01:12",
-      "album": {
-        "name": "DON'T TELL YOUR BOSS",
-        "url": "https://open.spotify.com/album/7rrRCZpjk46XYs8XEOddJW"
-      },
-      "artists": [
-        {
-          "name": "Adam \u00d6men",
-          "url": "https://open.spotify.com/artist/1BmKUysigTPxBgOvD9vpY6"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "DON'T TELL YOUR BOSS",
-      "url": "https://open.spotify.com/track/6Xl24bRSFtoAyY08nGVBcF"
-    },
-    {
-      "added_at": "2026-08-08 12:01:11",
-      "album": {
-        "name": "Italaw\u00e1, Vol. 1",
-        "url": "https://open.spotify.com/album/6LJizNWA6LTRj4gGL5m1sY"
-      },
-      "artists": [
-        {
-          "name": "Kitani",
-          "url": "https://open.spotify.com/artist/6C5wrVETCwVr4adObktcpD"
-        },
-        {
-          "name": "Scruwa",
-          "url": "https://open.spotify.com/artist/6G6TiruL2BbaHKFkaVtQUl"
-        }
-      ],
-      "duration_ms": 179330,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6eMTtja78nwY57vkwvfk8B"
-    },
-    {
-      "added_at": "2026-08-08 12:01:08",
-      "album": {
-        "name": "I Never Asked",
-        "url": "https://open.spotify.com/album/6xPBbKUwIL3AR0HiXmy5Hg"
-      },
-      "artists": [
-        {
-          "name": "John F Martin",
-          "url": "https://open.spotify.com/artist/5IUP5fYToGhEX2QxIWnQ48"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I Never Asked",
-      "url": "https://open.spotify.com/track/0a4ITxGxngmypDkng4Kjbk"
-    },
-    {
-      "added_at": "2026-08-08 06:05:30",
-      "album": {
-        "name": "Hilary Roberts",
-        "url": "https://open.spotify.com/album/0KPyLj972hoeZyrUJaWrg2"
-      },
-      "artists": [
-        {
-          "name": "Hilary Roberts",
-          "url": "https://open.spotify.com/artist/24YMDJn7c34S76v0pDlgkw"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Ringer",
-      "url": "https://open.spotify.com/track/5hFUznPRrZKMtDptnz5Oj1"
-    },
-    {
-      "added_at": "2026-08-07 18:04:25",
-      "album": {
-        "name": "Leaving Our Lives",
-        "url": "https://open.spotify.com/album/5apLPewZus1LvQPpNlfHtT"
-      },
-      "artists": [
-        {
-          "name": "Mynd Reader",
-          "url": "https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Leaving Our Lives",
-      "url": "https://open.spotify.com/track/7nESKCOZY6jTGsEgDCv9sf"
-    },
-    {
-      "added_at": "2026-08-07 14:02:39",
-      "album": {
-        "name": "California Sun",
-        "url": "https://open.spotify.com/album/0AxvYVdvarfmfBkeNZ8jHD"
-      },
-      "artists": [
-        {
-          "name": "Samuel Jack",
-          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
-        }
-      ],
-      "duration_ms": 178579,
-      "name": "California Sun",
-      "url": "https://open.spotify.com/track/2A4ZhHdXpUeMyQT79Wl5eH"
-    },
-    {
-      "added_at": "2026-08-07 13:57:41",
-      "album": {
-        "name": "Keep on Movin'",
-        "url": "https://open.spotify.com/album/086EK4it0TuYY4CP32HFtW"
-      },
-      "artists": [
-        {
-          "name": "The Surf Shack",
-          "url": "https://open.spotify.com/artist/628G7lulsvWfLN5MYAy1KD"
-        },
-        {
-          "name": "Sir Eskapad",
-          "url": "https://open.spotify.com/artist/60jVskFtJLY592TcKVPytW"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Keep on Movin'",
-      "url": "https://open.spotify.com/track/53tpV2OkT2pO8aLGYrhJLU"
-    },
-    {
-      "added_at": "2026-08-07 13:56:13",
-      "album": {
-        "name": "Something (To Believe In)",
-        "url": "https://open.spotify.com/album/3SUKjWGCjINkMOM45Kb87y"
-      },
-      "artists": [
-        {
-          "name": "MAXN",
-          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
-        }
-      ],
-      "duration_ms": 189711,
-      "name": "Something (To Believe In)",
-      "url": "https://open.spotify.com/track/2D2f1anPTIXrmDc0FCRwJl"
-    },
-    {
-      "added_at": "2026-08-07 12:03:31",
-      "album": {
-        "name": "Where Do I Start?",
-        "url": "https://open.spotify.com/album/4hfKPtv3JP5tp0ELTaidXd"
-      },
-      "artists": [
-        {
-          "name": "Marian Mulock",
-          "url": "https://open.spotify.com/artist/7L8CxnOq1JXYvIKhQTaf7b"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Before You Tell Me",
-      "url": "https://open.spotify.com/track/1FJ5dcBGo2GiIU8dzX1Rca"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

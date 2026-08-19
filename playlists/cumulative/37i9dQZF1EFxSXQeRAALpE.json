@@ -1168,10 +1168,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 328066,
       "name": "Finale",
       "url": "https://open.spotify.com/track/0kAWlfMyn1ah4y5iKUkngI"
+    },
+    {
+      "album": {
+        "name": "The Hunchback of Notre Dame (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/6KpStFxRlr2jBWpZkyUeUO"
+      },
+      "artists": [
+        {
+          "name": "The Hunchback of Notre Dame Company",
+          "url": "https://open.spotify.com/artist/4Nly4f9OJveVxIyXbOPEFL"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 822960,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/1tXceHaqznS3gVbIwYxmZV"
     },
     {
       "album": {
@@ -2202,10 +2220,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Thai Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0i7L85MLeYOIGvhh9JNXor"
+      },
+      "artists": [
+        {
+          "name": "Wichayanee Pearklin",
+          "url": "https://open.spotify.com/artist/5DvmdkHb32o0RWWeTWnjsP"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/4TgRvKKOALsTpCNL88jylo"
     },
     {
       "album": {

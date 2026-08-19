@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > KAYTRANADA celebrates the release of his new album with a takeover with that bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,540 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,539 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 17 | [Earth Juice](https://open.spotify.com/track/0HbFx4r50LQkPZfAMAyB9N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Where Have I Known You Before](https://open.spotify.com/album/1LAARZVfnq12x7Ueei4jx7) | 3:46 |
 | 18 | [LUSHES \- AFRODUB DUB](https://open.spotify.com/track/542bk11QoIPN1d6O7EQZxU) | [GEOTHEORY](https://open.spotify.com/artist/3iIFBDnPEFpR6PCF0Tuh6w) | [SOUL RECOVERY DISK \(THE MIXES\)](https://open.spotify.com/album/7lc3BDCM3j8CRNUe1Z1KPU) | 7:00 |
 | 19 | [GULLIBLE](https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [GULLIBLE](https://open.spotify.com/album/3J3hQHIAUdScU2PgBH2xbO) | 3:12 |
-| 20 | [THE HIDE](https://open.spotify.com/track/5vmdxAlYMaMfKQRibZL5iu) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:02 |
+| 20 | [THE HIDE](https://open.spotify.com/track/5vmdxAlYMaMfKQRibZL5iu) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:02 |
 | 21 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
 | 22 | [unfinished business](https://open.spotify.com/track/12IP3NG2rCZPgTSxh0qAUc) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:06 |
 | 23 | [Dirrty \(feat\. Redman\)](https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:58 |

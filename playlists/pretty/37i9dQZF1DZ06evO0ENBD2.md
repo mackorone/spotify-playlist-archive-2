@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,989,021 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,988,994 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
 | 2 | [Radio Ga Ga \- Live in Budapest](https://open.spotify.com/track/7mbMiEqBzdGgwEQRFVOxaV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Radio Ga Ga \(Live in Budapest\)](https://open.spotify.com/album/2i3G9uRIMioVziTJ4T5fxI) | 6:11 |
 | 3 | [Don't Stop Me Now](https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 3:29 |
-| 4 | [Under Pressure \(feat\. David Bowie\)](https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd) | 4:08 |
-| 5 | [Another One Bites The Dust](https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 3:34 |
+| 4 | [Another One Bites The Dust](https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 3:34 |
+| 5 | [Under Pressure \(feat\. David Bowie\)](https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd) | 4:08 |
 | 6 | [Bohemian Rhapsody](https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 5:55 |
 | 7 | [We Will Rock You](https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 2:02 |
-| 8 | [Radio Ga Ga](https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC) | 5:49 |
-| 9 | [Crazy Little Thing Called Love](https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 2:43 |
+| 8 | [Crazy Little Thing Called Love](https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 2:43 |
+| 9 | [Radio Ga Ga](https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC) | 5:49 |
 | 10 | [Somebody To Love](https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:57 |
 | 11 | [Killer Queen](https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx) | 3:00 |
 | 12 | [We Are The Champions](https://open.spotify.com/track/0saBeiGcu2dECTvAknHPzL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 3:00 |
 | 13 | [I Want To Break Free](https://open.spotify.com/track/5lmMeytpSOBTzFYRS32fwA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:43 |
-| 14 | [Love Of My Life](https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:39 |
-| 15 | [The Show Must Go On](https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:31 |
+| 14 | [The Show Must Go On](https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:31 |
+| 15 | [Love Of My Life](https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:39 |
 | 16 | [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 |
 | 17 | [Cool Cat](https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Edition\)](https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6) | 3:29 |
 | 18 | [Good Old\-Fashioned Lover Boy](https://open.spotify.com/track/1FXeqJV13iMAeOohMpwJnA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/37wsnfOsPkbXkDMbVL242d) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever](https://open.spotify.com/album/44tpjRgHiOt5ByV2KESi6K) | 3:27 |
 | 50 | [Who Wants to Live Forever \- Stranger Things Remix](https://open.spotify.com/track/3jhO40EobK5cQFo0QuUFaY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/3apsijVtRaziEzZZn5Uc2a) | 2:47 |
 
-Snapshot ID: `aoD9gAAAAADseDPDjr1fBUlE4ejQSUjp`
+Snapshot ID: `aoJPAAAAAADUKB4+OWBjC2Os9Y5nMF4N`

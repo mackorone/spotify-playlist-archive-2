@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6QvQCarjaeuT9QNZvbEGXJ\">Juna Ara</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:2gzylqKH4MMjL9FAMkULif\">Oliwia Janusz</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 175618,
       "name": "Anagram",
       "url": "https://open.spotify.com/track/0YIoEwrNk4HcHJu7EA84VB"
@@ -18336,7 +18336,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 219181,
       "name": "Finansowa",
       "url": "https://open.spotify.com/track/31oCDDD8PmcvVCI7WdME7k"
@@ -26093,6 +26093,24 @@
     },
     {
       "album": {
+        "name": "Kafejka na Ochocie",
+        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Kafejka na Ochocie",
+      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
+    },
+    {
+      "album": {
         "name": "Sold Out",
         "url": "https://open.spotify.com/album/60RH7xRaQnszyCvlWpZBlp"
       },
@@ -31092,7 +31110,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 196000,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
@@ -32656,7 +32674,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 178819,
       "name": "love witch",
       "url": "https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9"
@@ -37737,6 +37755,24 @@
     },
     {
       "album": {
+        "name": "My",
+        "url": "https://open.spotify.com/album/2BbRooImwqRxcIGqJk5YYP"
+      },
+      "artists": [
+        {
+          "name": "Jonasz Gulgowski",
+          "url": "https://open.spotify.com/artist/1TW98o6ZBD1sgX79s58DhN"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "My",
+      "url": "https://open.spotify.com/track/1I4O7oDFPYI6ksobPPiZm6"
+    },
+    {
+      "album": {
         "name": "My Business",
         "url": "https://open.spotify.com/album/0fSvj4zddk3FQZtzlwaY9p"
       },
@@ -41396,7 +41432,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 178500,
       "name": "Nie musz\u0119 mie\u0107 nic",
       "url": "https://open.spotify.com/track/2315J0BhNqSKWcqGcPHkvf"
@@ -42210,6 +42246,24 @@
       "duration_ms": 186240,
       "name": "Nie Zapraszam",
       "url": "https://open.spotify.com/track/7cuwUosTZJIcrcdBDeTe5g"
+    },
+    {
+      "album": {
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "album": {
@@ -47934,6 +47988,24 @@
       "duration_ms": 197791,
       "name": "Outro",
       "url": "https://open.spotify.com/track/2JbsNDUsq2Tt7A2d79uMhF"
+    },
+    {
+      "album": {
+        "name": "Over-",
+        "url": "https://open.spotify.com/album/5mWub8fkg1G2LTqzXoxmK3"
+      },
+      "artists": [
+        {
+          "name": "Zofia",
+          "url": "https://open.spotify.com/artist/6aSYVHiqhAT0C4t63ryOef"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209820,
+      "name": "Over-",
+      "url": "https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl"
     },
     {
       "album": {
@@ -57401,6 +57473,24 @@
     },
     {
       "album": {
+        "name": "Salton Sea (Creeper)",
+        "url": "https://open.spotify.com/album/4jgQG0avuTNC4rv6hN8LE7"
+      },
+      "artists": [
+        {
+          "name": "Ola Bird",
+          "url": "https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Salton Sea (Creeper)",
+      "url": "https://open.spotify.com/track/4CeSnmCamiqimujc4D2Uqc"
+    },
+    {
+      "album": {
         "name": "salty",
         "url": "https://open.spotify.com/album/3CQOKWrFJP0NYtclmo68Ko"
       },
@@ -66083,6 +66173,24 @@
     },
     {
       "album": {
+        "name": "THAT'S MY SWAG",
+        "url": "https://open.spotify.com/album/5ibPa6XSEOAYyJ7tWtgu5r"
+      },
+      "artists": [
+        {
+          "name": "Janek Bidiuk",
+          "url": "https://open.spotify.com/artist/6N750kTaZdAypOStcgDqDZ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "THAT'S MY SWAG",
+      "url": "https://open.spotify.com/track/1SWYFWDK3ewkrV9D2gDgo1"
+    },
+    {
+      "album": {
         "name": "The Animal Thing",
         "url": "https://open.spotify.com/album/2fIFfJABVVqbqQz3s8ZRPM"
       },
@@ -68606,7 +68714,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 301465,
       "name": "Trzy jab\u0142ka",
       "url": "https://open.spotify.com/track/3hJurUosg3ArOuxCr50CPX"
@@ -70524,6 +70632,24 @@
       "duration_ms": 178818,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/10G3uITnOFD0XPBm27rlNx"
+    },
+    {
+      "album": {
+        "name": "Unikat",
+        "url": "https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y"
+      },
+      "artists": [
+        {
+          "name": "Oliwia Janusz",
+          "url": "https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207511,
+      "name": "Unikat",
+      "url": "https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8"
     },
     {
       "album": {
@@ -80348,7 +80474,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 206272,
       "name": "Zosta\u0144my przyjaci\u00f3\u0142mi",
       "url": "https://open.spotify.com/track/1qjCc3MbrR7V1KIEm1MIU0"

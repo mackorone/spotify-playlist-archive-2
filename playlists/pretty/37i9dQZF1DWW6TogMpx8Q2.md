@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Zpecial
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,362 likes - 124 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,365 likes - 124 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

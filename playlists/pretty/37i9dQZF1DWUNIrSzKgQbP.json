@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1641577,
+  "num_followers": 1641382,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Fine (feat. Paul Kelly)",
         "url": "https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 262840,
       "name": "Fine (feat. Paul Kelly)",
       "url": "https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Let There Be Music",
+        "url": "https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP"
+      },
+      "artists": [
+        {
+          "name": "Bonny Doon",
+          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Let There Be Music",
+      "url": "https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "So Long Little Miss Sunshine",
         "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 205448,
       "name": "Who Wants",
       "url": "https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Let There Be Music",
-        "url": "https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP"
-      },
-      "artists": [
-        {
-          "name": "Bonny Doon",
-          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Let There Be Music",
-      "url": "https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Copper Changes Color",
-        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 190453,
       "name": "Julia",
       "url": "https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Copper Changes Color",
+        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Shark Smile",
+      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Ancient Light",
         "url": "https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
     }
   ],
   "unique_name": "Summer Acoustic",

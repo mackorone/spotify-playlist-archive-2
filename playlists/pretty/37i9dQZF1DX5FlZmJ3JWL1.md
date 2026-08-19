@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,337 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,354 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 39 | [Freak \(Tricky Disco\)](https://open.spotify.com/track/6955Aq4HnJ6dP3jvcptwCM) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP), [Discotronic](https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4) | [Freak \(Tricky Disco\)](https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu) | 2:00 |
 | 40 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |
 | 41 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
-| 42 | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [Pat B](https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb) | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW) | 2:15 |
-| 43 | [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 |
+| 42 | [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 |
+| 43 | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [Pat B](https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb) | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW) | 2:15 |
 | 44 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 |
 | 45 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
 | 46 | [It's My Life \- Techno Remix](https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat), [Jawny Sparklez](https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi) | [It's My Life \(Techno Remix\)](https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2) | 2:54 |
 | 47 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 48 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 |
 | 49 | [Kids](https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Kids](https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv) | 2:09 |
-| 50 | [Get Ur Freak On](https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Get Ur Freak On](https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx) | 2:04 |
+| 50 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
 
 Snapshot ID: `AAAAAKACjhlaPuxvAGaAClPE+TzvN7ia`

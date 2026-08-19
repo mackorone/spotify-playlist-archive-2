@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! An affirmation song collection full of heartfelt, lovely moments, high vibrational energy and strong songs that make you feel unstoppable.
 
-[Topsify](https://open.spotify.com/user/topsify) - 466,079 likes - 100 songs - 5 hr 52 min
+[Topsify](https://open.spotify.com/user/topsify) - 466,022 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 7 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 8 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 9 | [Stay with You](https://open.spotify.com/track/4Jss05NzDRiZYYTqRFg9EN) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let Love In \(20th Anniversary Edition\)](https://open.spotify.com/album/6dRaftlP9DBYK0JWuQeW9M) | 3:56 |
-| 10 | [Home To Me](https://open.spotify.com/track/1mPyG0CnY5CyTwIl75xpc9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Home To Me](https://open.spotify.com/album/7ejAy2uKe6rQ64iLxSxSvA) | 3:00 |
-| 11 | [I Want You To Dance](https://open.spotify.com/track/0xIhdaxHn6bq6WDKMEnjzQ) | [Jacky](https://open.spotify.com/artist/1hq5MKOjcZUsLNeg8eFCom) | [I Want You To Dance](https://open.spotify.com/album/6JmuSOFrGnr5xpi9zNurJg) | 2:49 |
-| 12 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 13 | [Keeping Your Head Up](https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q) | 3:28 |
-| 14 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
-| 15 | [Reset](https://open.spotify.com/track/3X2vOpSLETmmoVNh0uKpux) | [Arno](https://open.spotify.com/artist/7clLDAzMmxPQ6EHQ3fgHMA) | [Reset](https://open.spotify.com/album/67ar8vQEV2DLVyJ7gFpoVv) | 2:40 |
+| 10 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
+| 11 | [Home To Me](https://open.spotify.com/track/1mPyG0CnY5CyTwIl75xpc9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Home To Me](https://open.spotify.com/album/7ejAy2uKe6rQ64iLxSxSvA) | 3:00 |
+| 12 | [I Want You To Dance](https://open.spotify.com/track/0xIhdaxHn6bq6WDKMEnjzQ) | [Jacky](https://open.spotify.com/artist/1hq5MKOjcZUsLNeg8eFCom) | [I Want You To Dance](https://open.spotify.com/album/6JmuSOFrGnr5xpi9zNurJg) | 2:49 |
+| 13 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 14 | [Keeping Your Head Up](https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q) | 3:28 |
+| 15 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 16 | [Love’s a Gun](https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Love’s a Gun](https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy) | 2:59 |
 | 17 | [Hey There Trouble](https://open.spotify.com/track/4udscmFnGYXh4cA5ZJF0o5) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Hey There Trouble](https://open.spotify.com/album/4s2Z4loU0Ts0GMhxcRUdmI) | 2:34 |
 | 18 | [Golden Summer](https://open.spotify.com/track/3lYgqouLKmlQTjkzzP16pZ) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Golden Summer](https://open.spotify.com/album/41zJcI0x5a9UMb42BSS2lS) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 100 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
 
-Snapshot ID: `AAAJL3/IKds+BTlU+TU9jem6kFZlZyAe`
+Snapshot ID: `AAAJMW+L7EDOtzOjAuIVi4gocQxNsMBh`

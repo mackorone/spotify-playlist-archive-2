@@ -1,13 +1,29 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Royal Blood",
-  "num_followers": 1460601,
+  "num_followers": 1460513,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbyCdSrWCkLs41AtSK8o8TogFoJ",
+  "snapshot_id": "AAAAACMMY/2u3i9YmMa1N7imnrCFOusG",
   "tracks": [
+    {
+      "added_at": "2026-08-18 10:31:45",
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
     {
       "added_at": "2026-08-13 23:00:24",
       "album": {

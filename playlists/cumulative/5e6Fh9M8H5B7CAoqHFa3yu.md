@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,472 songs - 6 day 1 hr 27 min
+2,476 songs - 6 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1000 Mile Drift \(Adrian Sherwood Mix\)](https://open.spotify.com/track/7boe7zXZ1YObXa5YuX7CdF) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 5:50 | 2024-08-31 |  |
 | [126 Géneros](https://open.spotify.com/track/5Uw2JJzoWg25VOZp4XRHSH) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [126 Géneros](https://open.spotify.com/album/1nGEL8KNbLDl1r1DT6OG5W) | 3:55 | 2026-01-24 |  |
 | [2.0](https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:49 | 2026-04-12 |  |
+| [20's](https://open.spotify.com/track/7255Bh8e0ZLIDBvYFlMfno) | [Marcaru](https://open.spotify.com/artist/2Q3iMMfyD9Nb9F48laSLc4) | [20's](https://open.spotify.com/album/24XLeJiivd85xaxBB3S3d0) | 2:44 | 2026-08-18 |  |
 | [2000 People On The DanceFloor](https://open.spotify.com/track/5ItueoVSpO0CYtRFH1VoJW) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s), [Jax](https://open.spotify.com/artist/710dp9V6IG8pvIbpcBNjn3) | [2000 People On The DanceFloor](https://open.spotify.com/album/4V9VX8vXoz3XyqhKAU5gcY) | 2:18 | 2024-07-08 |  |
 | [2024](https://open.spotify.com/track/1DzUQzF2EydcNY3OwDTKK6) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [2024](https://open.spotify.com/album/37xQeONV0xkc2Dix46vtT3) | 5:27 | 2024-12-30 |  |
 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 | 2025-08-23 |  |
@@ -2005,6 +2006,7 @@
 | [Sueños](https://open.spotify.com/track/4NPc4VitZ7t65xPgse19PR) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Groove Of Meditation](https://open.spotify.com/album/08YRGkqUUqKxOmijsGj271) | 5:13 | 2024-03-25 |  |
 | [Sueňos](https://open.spotify.com/track/4oHuaoF6L4Ya42NVKiGgsj) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Sueňos](https://open.spotify.com/album/65etujVdTNuGmXe6F7VrsO) | 5:13 | 2024-03-17 |  |
 | [Sugar](https://open.spotify.com/track/0muGUh8IlNxu6uiYzon870) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [0 Zero](https://open.spotify.com/artist/7sKtPpxCBiKUfe3LDydaxZ), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K), [Cesi kont](https://open.spotify.com/artist/2OR5Fqoo8nSTPUOuOoQj55), [Dante](https://open.spotify.com/artist/2Ge4iFPaB02diUSh3FJy1r) | [Harmon](https://open.spotify.com/album/3mnNx8oxfH9IOpXbjyuigF) | 2:42 | 2025-10-17 |  |
+| [Summer Drift](https://open.spotify.com/track/2RU3H8DMErDTsXemUa5iey) | [Cflow](https://open.spotify.com/artist/12p5MtJNJ2E9AtLouRQxQF) | [Summer Drift](https://open.spotify.com/album/0wNmJmaeyZspiO7u1XjD4d) | 4:25 | 2026-08-18 |  |
 | [Summer Rain](https://open.spotify.com/track/6KdmlljQVKULvy3GQmZRCH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summer Rain](https://open.spotify.com/album/1iQUHaUbjh5cVtAHf0lz5e) | 1:50 | 2026-02-05 |  |
 | [SUMMERTIME](https://open.spotify.com/track/085CtRz2vrCJnU622dRzWb) | [DONTListen](https://open.spotify.com/artist/6it7KWGoNjdIR2AOTzqMGW) | [SUMMERTIME](https://open.spotify.com/album/74xHUDyXEjognp7jcTHbW5) | 3:20 | 2025-03-13 |  |
 | [Summertime](https://open.spotify.com/track/1ZFp8VqkVqtoDyHN2DqG8U) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summertime](https://open.spotify.com/album/5lvXKEIhhOFJdskGf6BlEf) | 4:47 | 2026-02-05 |  |
@@ -2234,6 +2236,7 @@
 | [Tuscan Breeze](https://open.spotify.com/track/5H5thy4j7g7oTRt4G2oo7Z) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [Tuscan Breeze](https://open.spotify.com/album/1NeGeVX7ZfX7AiZme0oi8z) | 3:02 | 2025-11-15 |  |
 | [Tutto è Zero](https://open.spotify.com/track/1FmVS9T0WjWiR2ni31f4rT) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 3:24 | 2023-03-15 |  |
 | [Twilight Ribbit](https://open.spotify.com/track/5c3PzYGjZ4StGgQArI5FcA) | [Ear Crimes](https://open.spotify.com/artist/5u9VKowwLX8qWNwv3RZ77G) | [Twilight Ribbit](https://open.spotify.com/album/7kfYCwOkhlgGDpXEzvFLJR) | 2:38 | 2026-07-21 |  |
+| [Twisted](https://open.spotify.com/track/1mGvvyLacsnDLQOhQOmg3o) | [Yxngex](https://open.spotify.com/artist/0d0dXzwgVkfOBeOZEfCdbz), [Velll](https://open.spotify.com/artist/3IQkPreO643OIfIdJHKx37), [Tee El](https://open.spotify.com/artist/26toZDZj8tnjsNOZVsvBZy) | [End Of The Line](https://open.spotify.com/album/32Sq6609YnxfoSMG3cuD3U) | 3:21 | 2026-08-18 |  |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2024-03-04 |  |
 | [Tócame](https://open.spotify.com/track/2wqJij98B0rouH14batoif) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Tócame](https://open.spotify.com/album/4dWm6sgedDn3maMz8HjZ0P) | 2:32 | 2025-11-25 |  |
 | [Tükröm](https://open.spotify.com/track/66lj9fWMUcvwcFjy9WxMEp) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Felejtsd el!](https://open.spotify.com/album/2BvhBusLCqco5GyiSinxSV) | 4:09 | 2025-12-17 |  |
@@ -2306,6 +2309,7 @@
 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Vuelve a Ser Inevitable](https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB) | 2:20 | 2026-04-25 |  |
 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
+| [Wading In The Water](https://open.spotify.com/track/10XJf0lXpUmgHWBq7K3hui) | [Blair Jollands](https://open.spotify.com/artist/5p9yXFiNqgv9Nl6zr3Fhy8) | [Little Comet](https://open.spotify.com/album/3Dy7knxrjjZpGmaYbVb6OP) | 4:23 | 2026-08-18 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |
 | [Walk](https://open.spotify.com/track/36ljAvtG4reh3K95d8vPkD) | [Blushtone](https://open.spotify.com/artist/3Oy3N7DzjmLpat1DSUqO82) | [Walk](https://open.spotify.com/album/0alB43j0Gl2cBJUaRxS9Nn) | 2:37 | 2025-06-06 |  |

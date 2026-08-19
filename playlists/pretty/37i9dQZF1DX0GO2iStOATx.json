@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 235827,
+  "num_followers": 235861,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -9,28 +9,20 @@
   "snapshot_id": "AAAAAIcbI/HlI1j+vT7ZpbKnskC2AqZV",
   "tracks": [
     {
-      "added_at": "2026-06-12 07:40:28",
+      "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Ranjha",
-        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 184058,
-      "name": "Ranjha",
-      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
+      "duration_ms": 190000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -129,20 +121,28 @@
       "url": "https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO"
     },
     {
-      "added_at": "2026-06-12 05:30:19",
+      "added_at": "2026-06-12 07:40:28",
       "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
     },
     {
       "added_at": "2026-06-12 05:30:19",

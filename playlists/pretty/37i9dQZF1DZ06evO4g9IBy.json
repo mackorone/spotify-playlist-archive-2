@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 174036,
+  "num_followers": 174044,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAj4QK0NVgAHeSUD9VK7ZWU",
+  "snapshot_id": "aoJPAAAAAAAB5rUQaZRdAycuhNv4//7g",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 275840,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 255186,
       "name": "Sable on Blond - 2016 Remaster",
       "url": "https://open.spotify.com/track/2u8fEGC5PpKDDb2cvg1dkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 275840,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
     },
     {
       "added_at": null,
@@ -379,26 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buckingham Nicks",
-        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
       "artists": [
         {
-          "name": "Buckingham Nicks",
-          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
-        },
-        {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 179014,
-      "name": "Crying in the Night",
-      "url": "https://open.spotify.com/track/3FBJq7wLTogeipvXMbTNrU"
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
     },
     {
       "added_at": null,
@@ -423,18 +415,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+        "name": "Buckingham Nicks",
+        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
       "artists": [
         {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
+      "duration_ms": 179014,
+      "name": "Crying in the Night",
+      "url": "https://open.spotify.com/track/3FBJq7wLTogeipvXMbTNrU"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 294920,
+      "name": "Sorcerer",
+      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 294920,
-      "name": "Sorcerer",
-      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
       "duration_ms": 279110,
       "name": "Dreams - Album Mix",
       "url": "https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Trouble in Shangri-La",
+      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
     },
     {
       "added_at": null,
@@ -555,42 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Trouble in Shangri-La",
-      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 435793,
       "name": "Frozen Love",
       "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 133630,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 130950,
       "name": "Without a Leg to Stand On",
       "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
       "duration_ms": 224773,
       "name": "I Sing for Things",
       "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Angel",
         "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 259066,
       "name": "Maybe Love Will Change Your Mind",
       "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timespace - The Best Of Stevie Nicks",
-        "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "Whole Lotta Trouble",
-      "url": "https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
       "duration_ms": 231709,
       "name": "Don't Let Me Down Again",
       "url": "https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Blue Lamp - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB"
     }
   ],
   "unique_name": "This Is Stevie Nicks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation\. Chill vibes \| Romantic dinner 2026 \| Romantische Muziek ❤️ Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 483,478 likes - 110 songs - 7 hr 14 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 483,450 likes - 110 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 44 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 45 | [Because of You](https://open.spotify.com/track/3PHYPaguCDKLK1a9cp3uXZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/3xkK5tqB1kP84ZzWPnJ1x3) | 3:39 |
 | 46 | [Irreplaceable](https://open.spotify.com/track/3qim3nNFg4aSTLZDLAFXhx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp) | 3:47 |
-| 47 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
+| 47 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
 | 48 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 49 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 50 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |

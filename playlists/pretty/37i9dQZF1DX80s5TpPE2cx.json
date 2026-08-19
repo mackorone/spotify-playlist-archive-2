@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21192,
+  "num_followers": 21201,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 231183,
       "name": "After Six",
       "url": "https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
       },
       "artists": [
         {
-          "name": "Ogranya",
-          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp"
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
         }
       ],
-      "duration_ms": 174366,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG"
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
       "artists": [
         {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp"
         }
       ],
-      "duration_ms": 174000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+      "duration_ms": 174366,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG"
     },
     {
       "added_at": "2025-06-20 07:45:33",

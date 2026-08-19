@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188068,
+  "num_followers": 188067,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-08-17 13:01:21",
       "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2026-08-17 13:01:21",
+      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
-    },
-    {
-      "added_at": "2026-08-17 13:01:21",
-      "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
-      },
-      "artists": [
-        {
-          "name": "Snazzy",
-          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
     },
     {
       "added_at": "2026-08-17 13:01:21",

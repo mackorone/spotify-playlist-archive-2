@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 5 hr 49 min
+112 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Loved You Once](https://open.spotify.com/track/6cc7nzmG4iClAyl47BOf2Z) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 2:28 | 2026-03-07 |  |
 | [Lover Like Me](https://open.spotify.com/track/5ridnYlD0YKj0N1vg3i5tB) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Lover Like Me](https://open.spotify.com/album/1UTDDoGZMIIlseBO4Lp9qa) | 3:10 | 2026-03-07 |  |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-03-07 |  |
-| [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 | 2026-03-07 |  |
+| [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 | 2026-03-07 | 2026-08-19 |
+| [Lush Life \(feat\. Tinie Tempah\) \- Dancehall Remix](https://open.spotify.com/track/0PmGcxEwhYYudOYWiwQFQO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:23 | 2026-08-18 |  |
 | [Lush Life \- Retro Version](https://open.spotify.com/track/4O5ygqTjiXLWo9HASGsk8E) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life \(Retro Version\)](https://open.spotify.com/album/329TF77PAYo1NqXsAskjfu) | 3:13 | 2026-03-07 |  |
 | [Mermaid](https://open.spotify.com/track/1zeH4lyTUZBp567d6K6zTM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Mermaid](https://open.spotify.com/album/5sPNx1gl1y4GmrRitZqzf3) | 3:31 | 2026-03-07 |  |
 | [My Girl](https://open.spotify.com/track/3CZtwixJvnRkfgNOxaF3Dn) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:27 | 2026-03-07 |  |

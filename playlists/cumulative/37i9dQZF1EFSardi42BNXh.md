@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-45 songs - 2 hr 17 min
+46 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [BAD BITCH](https://open.spotify.com/track/0ypgX9hLm9BEfJ7ldtFAgH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:17 | 2026-07-28 |  |
 | [Bad Ideas](https://open.spotify.com/track/41K8qlXVHE5cDv7eifdk4G) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:59 | 2023-12-30 |  |
-| [Bored](https://open.spotify.com/track/0H2aPW6EdKHfOZ9AzVnod4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:03 | 2023-12-30 |  |
+| [Bored](https://open.spotify.com/track/0H2aPW6EdKHfOZ9AzVnod4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:03 | 2023-12-30 | 2026-08-19 |
+| [Bored](https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Bored](https://open.spotify.com/album/1mpAhcCw0EtoczmnbXjXBU) | 3:04 | 2026-08-18 |  |
 | [Breakdown](https://open.spotify.com/track/2pNHoMwNO51wMCi7XcGqdb) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:38 | 2026-07-28 |  |
 | [Broken Record](https://open.spotify.com/track/1wLlBbOu8hXNKMVSbUYAxE) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:06 | 2026-06-28 |  |
 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/7lti7VdGyzUC8qTlVnslwR) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 | 2023-12-30 |  |

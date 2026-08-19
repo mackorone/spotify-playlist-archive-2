@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Erykah Badu & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,985 likes - 275 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,982 likes - 275 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 31 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
 | 32 | [like it was\. \[bonus track\]](https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon \(Director's Cut\)](https://open.spotify.com/album/6HDOmDgxzVWIhBAKDGI4tV) | 3:20 |
 | 33 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
-| 34 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 34 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 35 | [Put Up](https://open.spotify.com/track/1di5wVDR3Y4tKOaiuhFQ5B) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Put Up](https://open.spotify.com/album/46yLNPmVixjtMo5zR0sQ4q) | 2:52 |
 | 36 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 37 | [Sinner, Pt\. 2 \(feat\. Jessie Reyez\)](https://open.spotify.com/track/1iG7FrvACI1mnOC6zK9zP6) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Sinner, Pt\. 2 \(feat\. Jessie Reyez\)](https://open.spotify.com/album/5m3omg0e11FPu2E8j0Jcy0) | 2:48 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 92 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
 | 93 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
 | 94 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
-| 95 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
+| 95 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
 | 96 | [SHOW&PROVE](https://open.spotify.com/track/5q111ttCRv7SEHUyFAsVVR) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [EGO RUINS EVERYTHING](https://open.spotify.com/album/1qQoqhO6w4lfMNI7rSqz49) | 3:00 |
 | 97 | [Barii](https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 4:12 |
 | 98 | [Anything Could Happen](https://open.spotify.com/track/6WOovMUKaVhuFhOBc1QihF) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Anything Could Happen](https://open.spotify.com/album/3mTlfNdFWB2iwyhfA7SppW) | 3:44 |
@@ -196,7 +196,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 186 | [Moth 2 A Flame](https://open.spotify.com/track/5cZzLZHm25ccAisqkwHg2n) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Moth 2 A Flame](https://open.spotify.com/album/3NoSBQE8qOogDyK46qhoiz) | 2:33 |
 | 187 | [RAX](https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [RAX](https://open.spotify.com/album/01kT2Oh03HzYUpIP8nrCaM) | 2:54 |
 | 188 | [Down Bad](https://open.spotify.com/track/49hvtfulvEJ3kiac97TNNL) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Alchemy](https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a) | 4:02 |
-| 189 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 189 | [Just For A Moment \(feat\. Dende\) \- Acoustic](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 190 | [Voices In My Head](https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Voices In My Head](https://open.spotify.com/album/3Zg0vOH7zsN17dAAngLP8s) | 2:51 |
 | 191 | [Energy](https://open.spotify.com/track/05emgoB0Fg2DhOGrfTRTY2) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Energy](https://open.spotify.com/album/6Y3iRo05ckfykXYtjxX2sk) | 3:13 |
 | 192 | [Slide](https://open.spotify.com/track/0QhQnZNRJeVz0Eu21ik078) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Slide](https://open.spotify.com/album/2aHZBZ8EFKm9q10eKXIGw3) | 3:44 |

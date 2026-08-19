@@ -1,12 +1,12 @@
 {
   "description": "This is R\u00dcF\u00dcS DU SOL. The essential tracks, all in one playlist.",
-  "num_followers": 504911,
+  "num_followers": 505175,
   "original_name": "This Is R\u00dcF\u00dcS DU SOL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAACU9d4vVV3zLSUKzOZhXYJH",
+  "snapshot_id": "aoJPAAAAAACqyzPhF4Ax+F8v4/a4YYAC",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/7kWLSsy2KfSFPhbbNysnns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 229337,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 281084,
-      "name": "Brighter",
-      "url": "https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 108253,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/124hDFQWCBm3PI3RRXU2fH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 281084,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 325000,
-      "name": "Desert Night",
-      "url": "https://open.spotify.com/track/3absRUCrN1eRMe9Wg04zgg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 181960,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1qMGujcR5TWGxvCismyc6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 325000,
+      "name": "Desert Night",
+      "url": "https://open.spotify.com/track/3absRUCrN1eRMe9Wg04zgg"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 243760,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Two Clocks",
-      "url": "https://open.spotify.com/track/4ynDU2MqVAUmh9nWxoPYVj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhale / Exhale Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 413859,
       "name": "New York - Fahlberg Remix",
       "url": "https://open.spotify.com/track/7uQ6n8cAnm3yTb5QSwrTVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Two Clocks",
+      "url": "https://open.spotify.com/track/4ynDU2MqVAUmh9nWxoPYVj"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 222687,
-      "name": "Modest Life",
-      "url": "https://open.spotify.com/track/0zWYh6P2LatyIs2w8fk6Qw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhale / Exhale Remixed, Vol. 2",
         "url": "https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 258196,
       "name": "Exhale - &friends & David Mackay Remix",
       "url": "https://open.spotify.com/track/3ct1EhKSNsCGkKDepzSc0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 222687,
+      "name": "Modest Life",
+      "url": "https://open.spotify.com/track/0zWYh6P2LatyIs2w8fk6Qw"
     },
     {
       "added_at": null,

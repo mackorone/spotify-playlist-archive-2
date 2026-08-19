@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252767,
+      "name": "It Gets Better - Forever Mix",
+      "url": "https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc"
+    },
+    {
+      "album": {
         "name": "It's Better When We Fake It",
         "url": "https://open.spotify.com/album/6C5zGGKbqzWO6N2dn9LbEC"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 156168,
+  "num_followers": 156193,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADy0UhB8t4/s2+SZDMTzfO+",
+  "snapshot_id": "aoJPAAAAAAAyJbihNOmnqswIy6NfjZEY",
   "tracks": [
     {
       "added_at": null,
@@ -658,11 +658,15 @@
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
         }
       ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
+      "duration_ms": 286903,
+      "name": "Atopos",
+      "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
     },
     {
       "added_at": null,
@@ -722,15 +726,11 @@
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Kasimyn",
-          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
         }
       ],
-      "duration_ms": 286903,
-      "name": "Atopos",
-      "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
+      "duration_ms": 44405,
+      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
     },
     {
       "added_at": null,

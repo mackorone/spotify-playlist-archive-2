@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Brent Faiyaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,861 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,840 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 22 | [One Sided](https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [One Sided](https://open.spotify.com/album/6LppWJEdvUgGInucQBWX34) | 3:02 |
 | 23 | [Dream Girl](https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dream Girl](https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i) | 2:32 |
 | 24 | [Don’t Break Her Heart](https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Don’t Break Her Heart](https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY) | 3:44 |
-| 25 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 25 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 26 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 |
 | 27 | [Be My Lady \(feat\. T.I.\)](https://open.spotify.com/track/2ybhHqxhYRf8Ocyn8insuo) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Love/Hate II](https://open.spotify.com/album/0UEsbk4JvLrat2XrluDWUp) | 4:50 |
 | 28 | [Recommend](https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Recommend](https://open.spotify.com/album/1guKBOUhoB5kkgwrgAEFpq) | 2:38 |

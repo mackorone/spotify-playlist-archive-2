@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 242 songs - 22 hr 38 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 243 songs - 22 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,5 +250,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 240 | [Satisfied](https://open.spotify.com/track/2BirbjcIsHDyoNTfzAfkyG) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied](https://open.spotify.com/album/6CImRMVY60VHBVCGysxFff) | 5:17 |
 | 241 | [Can't Stop Loving You](https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Can't Stop Loving You](https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX) | 3:25 |
 | 242 | [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 |
+| 243 | [It Gets Better \- Forever Mix](https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:12 |
 
-Snapshot ID: `AAABQ450weM+pYBwYEwbZ1vlm/jRb6Oj`
+Snapshot ID: `AAABRB6LaCMWi3N84tvazPRFwX91XVLg`

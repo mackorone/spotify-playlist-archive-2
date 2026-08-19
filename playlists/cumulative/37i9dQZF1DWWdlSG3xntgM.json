@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 342576,
       "name": "Ai Kh\u1ed5 V\u00ec Ai",
       "url": "https://open.spotify.com/track/1xJoJzNejKKw9qpoFjxKUR"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 278623,
       "name": "Ng\u01b0\u1eddi y\u00eau c\u00f4 \u0111\u01a1n",
       "url": "https://open.spotify.com/track/4XM1Y4jyxqcmBRKRSfUD7r"
@@ -4264,6 +4264,24 @@
       "duration_ms": 328573,
       "name": "Phu\u0301t cu\u00f4\u0301i",
       "url": "https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc"
+    },
+    {
+      "album": {
+        "name": "Nh\u1ea1c V\u00e0ng",
+        "url": "https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345038,
+      "name": "Ph\u00fat Cu\u1ed1i",
+      "url": "https://open.spotify.com/track/4FLihjIRiOYhMKsQQ0dg7J"
     },
     {
       "album": {
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 306300,
       "name": "Tr\u0103ng T\u1ecf Hai Mi\u1ec1n",
       "url": "https://open.spotify.com/track/1v9FCQ3Vs2hD58XXZR5H12"

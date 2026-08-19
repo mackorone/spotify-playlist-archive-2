@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The best pop music right now ft\. Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,866 likes - 84 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,777 likes - 84 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

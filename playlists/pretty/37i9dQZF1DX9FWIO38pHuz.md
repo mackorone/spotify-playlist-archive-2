@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Our editors' top picks for the best Funk songs of the year\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,042 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,041 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 44 | [ee](https://open.spotify.com/track/6mVr0WhXvMdP5C4h1m2aac) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [OFF BEAT](https://open.spotify.com/album/2DYou3lm2fgjgP5mk08nKN) | 2:04 |
 | 45 | [Keep On](https://open.spotify.com/track/51Qg3XRB5zTGpi3S49f2Ph) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Keep On](https://open.spotify.com/album/1aVzMhEYvdVDwvzLVtfKBe) | 4:00 |
 | 46 | [Pyramid of the Sun](https://open.spotify.com/track/26jQhSZWeMXDxhuVjtQnla) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [Pyramid of the Sun](https://open.spotify.com/album/2mAjo1YOC5nmZjujlk6QmX) | 4:31 |
-| 47 | [African Beauty](https://open.spotify.com/track/7oYw3s3dPCP38GF9p9kSwo) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Cobra Queen](https://open.spotify.com/album/1LMAktT0V8jfUufB1uPPsS) | 3:03 |
+| 47 | [African Beauty](https://open.spotify.com/track/7oYw3s3dPCP38GF9p9kSwo) | [Funk Jazz Soul](https://open.spotify.com/artist/2Rljbc6VJKnTmMVxsc6hPE) | [Cobra Queen](https://open.spotify.com/album/1LMAktT0V8jfUufB1uPPsS) | 3:03 |
 | 48 | [MalaMiles](https://open.spotify.com/track/63i6dlp5atddQSi7V2EvIl) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Federico Malaman](https://open.spotify.com/artist/0yDSaA49FQGIzoVsa2Tj7x), [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB), [Christian Meyer](https://open.spotify.com/artist/1ZnXzibh5kHPgK2iNTaWcY), [Filippo Vignato](https://open.spotify.com/artist/65TUhI0t7gubxPxcyvIz4Q) | [Summertime / MalaMiles](https://open.spotify.com/album/2mEVH7wHyBIdr3Jkzc2Dwd) | 4:03 |
 | 49 | [Wrong Turn](https://open.spotify.com/track/3mWbe25jgcrW3YjeLLtbgP) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Jerry Léonide](https://open.spotify.com/artist/5Af1TsVHdJnJKt6R9kInBe), [Kevin Reveyrand](https://open.spotify.com/artist/6e8iJWw2WfJQjYmZPFmmra) | [Status Quo](https://open.spotify.com/album/0kbdRU8fGz15dmhPrWygqB) | 5:24 |
 | 50 | [Along The Coast](https://open.spotify.com/track/07Sa86wC3tmFwvLeshtUgb) | [Simon Oslender](https://open.spotify.com/artist/5VJSyBgSYK1K2b45QCSJsM), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun) | [Along The Coast](https://open.spotify.com/album/0aDqGYl1WzNPR0P9x4q3vq) | 6:04 |

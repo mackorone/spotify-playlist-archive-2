@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,645 likes - 80 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,817 likes - 80 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

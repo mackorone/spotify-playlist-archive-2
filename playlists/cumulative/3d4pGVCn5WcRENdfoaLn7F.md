@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-423 songs - 1 day 1 hr 22 min
+425 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-05 |
 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 | 2026-01-21 |
 | [Beyond The Light](https://open.spotify.com/track/3ilkk0LvxRJliKSrTQF22e) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Beyond The Light](https://open.spotify.com/album/3PdgpJKrEf1cZDRlW3qcfO) | 3:23 | 2026-01-24 | 2026-02-25 |
+| [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-08-18 |  |
 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 | 2026-05-17 |
 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 | 2025-12-13 | 2026-01-05 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 | 2026-01-05 |
@@ -113,6 +114,7 @@
 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 | 2025-12-03 | 2026-01-05 |
 | [Erinnerungen](https://open.spotify.com/track/5AKMbE3VUKTQcaHPsb16k6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Erinnerungen](https://open.spotify.com/album/0bd8FyoYz7sC0zZl911zya) | 3:06 | 2026-01-15 | 2026-02-25 |
 | [Está na Hora](https://open.spotify.com/track/6WrxIMkY6e661lGed0vDUo) | [Percivais](https://open.spotify.com/artist/3ctSG1qg916RpEUCXlO1rc) | [Está na Hora](https://open.spotify.com/album/35ysxYJz1e8TAfAwFKXbqq) | 4:18 | 2026-06-28 | 2026-08-08 |
+| [Euforia](https://open.spotify.com/track/6ZE7kFAYRTr8sN9hmNB8Zk) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [El Tiempo](https://open.spotify.com/album/2UFGBEFfLOnX2yDj2x9YNR) | 2:32 | 2026-08-18 |  |
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-05-26 | 2026-08-08 |
 | [Fake](https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh) | [Tina Debs](https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe) | [Fake](https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL) | 3:46 | 2026-02-16 | 2026-03-27 |
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-23 |  |

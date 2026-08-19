@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Nina Winder\-Lind
 
-498 songs - 1 day 8 hr 7 min
+499 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Getting Killed](https://open.spotify.com/track/4gXvwRoP7GYoipYRTXQUxW) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 4:44 | 2025-10-02 |  |
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-06-14 | 2025-03-22 |
 | [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 | 2024-06-14 | 2024-11-16 |
-| [Glamour Magick](https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Glamour Magick](https://open.spotify.com/album/7sClkddld26FI0xg2IFoND) | 4:30 | 2026-07-16 |  |
+| [Glamour Magick](https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Glamour Magick](https://open.spotify.com/album/7sClkddld26FI0xg2IFoND) | 4:30 | 2026-07-16 | 2026-08-19 |
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-07-18 | 2025-04-17 |
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-10-06 | 2025-01-31 |
 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 | 2024-11-15 | 2025-05-09 |
@@ -385,6 +385,7 @@
 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 | 2024-06-14 | 2025-03-22 |
 | [Skin On Skin](https://open.spotify.com/track/122FrmjHy0x5IJtvo2KiVB) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Skin On Skin](https://open.spotify.com/album/6fdKohnIlpVFtyqC9TbSq4) | 3:20 | 2024-08-14 | 2024-10-07 |
 | [Skyworks](https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 4:20 | 2026-06-18 |  |
+| [Sleeping](https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Sleeping](https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V) | 3:32 | 2026-08-13 |  |
 | [Sliced by a Fingernail](https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sliced by a Fingernail](https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1) | 4:08 | 2026-04-30 | 2026-07-26 |
 | [SLUGLIFE](https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SLUGLIFE](https://open.spotify.com/album/38gPPBhvhAMdyPe8keDAnf) | 4:43 | 2026-01-12 | 2026-03-19 |
 | [Snares](https://open.spotify.com/track/382qAtuQEUpqa4ILGWfeWY) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Microtonic](https://open.spotify.com/album/2a7WAptRLsXA4dOnGIdn5a) | 4:41 | 2025-02-28 | 2025-04-12 |

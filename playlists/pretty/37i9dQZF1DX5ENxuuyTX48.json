@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: For Revenge",
-  "num_followers": 37349,
+  "num_followers": 37352,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -452,7 +452,7 @@
           "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 284463,
+      "duration_ms": 280000,
       "name": "Berapa Kali Kita Akan Saling Memaafkan",
       "url": "https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd"
     },
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
+        "name": "Sudah Tahu Tuhan Kita Berbeda",
+        "url": "https://open.spotify.com/album/7EAshI20RwWEFLHhuxhKbb"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        },
+        {
+          "name": "Momo",
+          "url": "https://open.spotify.com/artist/7xqIvUdaaSypbtL6pFbW18"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Sudah Tahu Tuhan Kita Berbeda",
+      "url": "https://open.spotify.com/track/17JYicZJSXhHJ3FCY9pv6L"
+    },
+    {
+      "added_at": "2026-08-13 17:00:37",
+      "album": {
         "name": "Tuhan Tahu Kita Saling Cinta",
         "url": "https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx"
       },
@@ -883,22 +903,18 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Sudah Tahu Tuhan Kita Berbeda",
-        "url": "https://open.spotify.com/album/7EAshI20RwWEFLHhuxhKbb"
+        "name": "Pergilah Kasih",
+        "url": "https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv"
       },
       "artists": [
         {
-          "name": "e\u0144au",
-          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
-        },
-        {
-          "name": "Momo",
-          "url": "https://open.spotify.com/artist/7xqIvUdaaSypbtL6pFbW18"
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
         }
       ],
-      "duration_ms": 232615,
-      "name": "Sudah Tahu Tuhan Kita Berbeda",
-      "url": "https://open.spotify.com/track/17JYicZJSXhHJ3FCY9pv6L"
+      "duration_ms": 257785,
+      "name": "Pergilah Kasih",
+      "url": "https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -915,22 +931,6 @@
       "duration_ms": 190762,
       "name": "Gurun Hujan",
       "url": "https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7"
-    },
-    {
-      "added_at": "2026-08-13 17:00:37",
-      "album": {
-        "name": "Pergilah Kasih",
-        "url": "https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv"
-      },
-      "artists": [
-        {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
-        }
-      ],
-      "duration_ms": 257785,
-      "name": "Pergilah Kasih",
-      "url": "https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Kita Buat Menyenangkan",
-        "url": "https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Kita Buat Menyenangkan",
-      "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
-    },
-    {
-      "added_at": "2026-08-13 17:00:37",
-      "album": {
         "name": "I Miss You Every Brand New Day (From \"Spider-Man: Brand New Day\" Movie)",
         "url": "https://open.spotify.com/album/0oHozoyyDMK8Txgqf3e6xk"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 240109,
       "name": "I Miss You Every Brand New Day - From \"Spider-Man: Brand New Day\" Movie",
       "url": "https://open.spotify.com/track/0I30Y8ENk7RLUsyFj9VElJ"
+    },
+    {
+      "added_at": "2026-08-13 17:00:37",
+      "album": {
+        "name": "Kita Buat Menyenangkan",
+        "url": "https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Kita Buat Menyenangkan",
+      "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Semoga Hanya di Mimpi",
-        "url": "https://open.spotify.com/album/5DCtxBnBnAOhzScagNmDQz"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 232423,
-      "name": "Laut yang Tenang",
-      "url": "https://open.spotify.com/track/4qqMPUmuvVukyvFHHPty2H"
-    },
-    {
-      "added_at": "2026-08-13 17:00:37",
-      "album": {
         "name": "SUPER EKSIS",
         "url": "https://open.spotify.com/album/7q6KTNDz0hFOyCe6IUTJrO"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 146250,
       "name": "NACKAL (Mama Papa Larang)",
       "url": "https://open.spotify.com/track/1OJgIOexFa1aIp33EH8BF6"
+    },
+    {
+      "added_at": "2026-08-13 17:00:37",
+      "album": {
+        "name": "Semoga Hanya di Mimpi",
+        "url": "https://open.spotify.com/album/5DCtxBnBnAOhzScagNmDQz"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 232423,
+      "name": "Laut yang Tenang",
+      "url": "https://open.spotify.com/track/4qqMPUmuvVukyvFHHPty2H"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Takkan Terulang",
-        "url": "https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zee",
-          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 221070,
-      "name": "Takkan Terulang",
-      "url": "https://open.spotify.com/track/52TvMf96O8YsQrmpMMZEzP"
-    },
-    {
-      "added_at": "2026-08-13 17:00:37",
-      "album": {
         "name": "Telepati",
         "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
       },
@@ -1535,22 +1515,22 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Sumpah Mati",
-        "url": "https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h"
+        "name": "Takkan Terulang",
+        "url": "https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN"
       },
       "artists": [
         {
-          "name": "Niki Becker",
-          "url": "https://open.spotify.com/artist/3BnWKeGbGMSqwTGd5Yy4CD"
+          "name": "Vanessa Zee",
+          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
         },
         {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
         }
       ],
-      "duration_ms": 208970,
-      "name": "Sumpah Mati",
-      "url": "https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y"
+      "duration_ms": 221070,
+      "name": "Takkan Terulang",
+      "url": "https://open.spotify.com/track/52TvMf96O8YsQrmpMMZEzP"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -1579,6 +1559,26 @@
       "duration_ms": 223058,
       "name": "Dalam Diam",
       "url": "https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8"
+    },
+    {
+      "added_at": "2026-08-13 17:00:37",
+      "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h"
+      },
+      "artists": [
+        {
+          "name": "Niki Becker",
+          "url": "https://open.spotify.com/artist/3BnWKeGbGMSqwTGd5Yy4CD"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "duration_ms": 208970,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Sempurnanya Aku",
-        "url": "https://open.spotify.com/album/3rq58ZVUSgptnwT3aqqqKR"
-      },
-      "artists": [
-        {
-          "name": "NPD",
-          "url": "https://open.spotify.com/artist/1TyOcqrycLx6L5U9ULfW40"
-        }
-      ],
-      "duration_ms": 228851,
-      "name": "Sempurnanya Aku",
-      "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
-    },
-    {
-      "added_at": "2026-08-13 17:00:37",
-      "album": {
         "name": "Jagat Rasa",
         "url": "https://open.spotify.com/album/7hlS6Qo6pkJJhTj4hlOa5G"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 217464,
       "name": "Jagat Rasa",
       "url": "https://open.spotify.com/track/7hdbQm5MDOGozVSmrHm8Mw"
+    },
+    {
+      "added_at": "2026-08-13 17:00:37",
+      "album": {
+        "name": "Bila",
+        "url": "https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "duration_ms": 152374,
+      "name": "Bila",
+      "url": "https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr"
     },
     {
       "added_at": "2026-08-13 17:00:37",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-08-13 17:00:37",
       "album": {
-        "name": "Bila",
-        "url": "https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN"
+        "name": "Sempurnanya Aku",
+        "url": "https://open.spotify.com/album/3rq58ZVUSgptnwT3aqqqKR"
       },
       "artists": [
         {
-          "name": "Aku Jeje",
-          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+          "name": "NPD",
+          "url": "https://open.spotify.com/artist/1TyOcqrycLx6L5U9ULfW40"
         }
       ],
-      "duration_ms": 152374,
-      "name": "Bila",
-      "url": "https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr"
+      "duration_ms": 228851,
+      "name": "Sempurnanya Aku",
+      "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
     },
     {
       "added_at": "2026-08-13 17:00:37",

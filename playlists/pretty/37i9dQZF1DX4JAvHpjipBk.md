@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Phoebe Bridgers, KATSEYE, Becky G, Quavo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,615,639 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,615,396 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 65 | [August](https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [August](https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB) | 3:33 |
 | 66 | [The Rot](https://open.spotify.com/track/0BXd8OZonjsjn6VelekrpD) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [The Rot](https://open.spotify.com/album/04TXLv2JHrjWwedE0e4BvF) | 3:16 |
 | 67 | [MY BLOCK \(ft\. PLUTO\)](https://open.spotify.com/track/1QTcxhshVabucxneUvTrXC) | [SMJ](https://open.spotify.com/artist/4pDtAjA47T0lTKu97HfNfq), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [PLEASURE TO MEET YOU](https://open.spotify.com/album/4XqLQZQCGJea014jHi6lY0) | 2:44 |
-| 68 | [Makes no Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
+| 68 | [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
 | 69 | [Paint a Picture](https://open.spotify.com/track/0WZ1lcM0Z10DqWOtTWDIQD) | [Trueblood](https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG) | [Paint a Picture](https://open.spotify.com/album/786PBlhhYSbfT09Omt5DUE) | 3:18 |
 | 70 | [Lucky](https://open.spotify.com/track/2dZw6STl48SQl6CSelgSlr) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Lucky](https://open.spotify.com/album/1dzdYRYEbHSqOjm5bgmR9q) | 3:32 |
 | 71 | [Fuck ICE](https://open.spotify.com/track/17gruJALXacfb0xDOXqZNK) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Fuck ICE](https://open.spotify.com/album/6a1ARlrYl9D1OYMyj79suo) | 2:18 |

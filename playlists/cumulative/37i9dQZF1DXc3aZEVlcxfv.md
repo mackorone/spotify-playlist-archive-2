@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-669 songs - 1 day 20 hr 54 min
+670 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Excess Love](https://open.spotify.com/track/3AK2yLrBpakAcnYBMPBhrw) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/2ZiJzL4GjNFUQhzHeiF6LO) | 6:36 | 2024-09-30 | 2026-03-20 |
 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2025-02-14 | 2025-11-28 |
 | [Eze](https://open.spotify.com/track/473dXnzpbJAXQqInLsiHkL) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Eze](https://open.spotify.com/album/1kYxEPFi116upFBJUiaaRO) | 4:13 | 2026-01-23 | 2026-02-27 |
+| [Eze Mo \(Live\)](https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Mo \(Live\)](https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX) | 8:50 | 2026-08-14 |  |
 | [Fagbara](https://open.spotify.com/track/5VgJ8aUFVKF3xKEgnVB5eP) | [Minister Ladi](https://open.spotify.com/artist/1CZMF086ntegA8ZQXaEhsX), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Fagbara](https://open.spotify.com/album/2qcw7IDw2TtuVYMV8HS8T2) | 2:45 | 2025-09-19 | 2025-11-07 |
 | [Faithfulness](https://open.spotify.com/track/2oslblHv8mLtujL18UEpCK) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Beauty Ben](https://open.spotify.com/artist/5r4o4ePBQDLWdQe1ALggze), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Faithfulness](https://open.spotify.com/album/4rjbbRkKwW2bX7JxOMx7jT) | 2:43 | 2025-01-24 | 2025-02-28 |
 | [Fast And Pray](https://open.spotify.com/track/4FFo1LEm7omfaPEFpodoGK) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Fast And Pray](https://open.spotify.com/album/5aw4n54VorXh91eSwrZ281) | 2:42 | 2025-03-07 | 2025-05-02 |
@@ -334,7 +335,7 @@
 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 | 2025-01-03 | 2025-09-05 |
 | [Jesu Ni](https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Jesu Ni](https://open.spotify.com/album/45nDWS71Eu1YxtnlDgupdn) | 3:11 | 2026-03-02 | 2026-05-01 |
 | [JESUS](https://open.spotify.com/track/4KZZLqQTcY2YfbEviV7bzf) | [Dr Joe Ebi](https://open.spotify.com/artist/5p5hQ6etqr9a2rLdSkjgO6), [Zoe Ebi\-Adoga](https://open.spotify.com/artist/1CLXZzitYXLnDnZVEE2Wep) | [JESUS](https://open.spotify.com/album/1O9AB2HcLOhfvzVaR6Zalu) | 4:10 | 2024-10-11 | 2025-03-07 |
-| [Jesus](https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF) | [Veekeyz](https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw) | [Jesus](https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp) | 4:38 | 2026-07-03 |  |
+| [Jesus](https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF) | [Veekeyz](https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw) | [Jesus](https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp) | 4:38 | 2026-07-03 | 2026-08-19 |
 | [JESUS \- Acoustic Version](https://open.spotify.com/track/697RxMNB5lPeOqASJ8a9Um) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [JESUS \(Acoustic Version\)](https://open.spotify.com/album/1MLCsznCAwcFzLRuzQFuix) | 4:36 | 2025-08-01 | 2025-10-03 |
 | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/album/6rqAYrPXgVDBMpgFSP9Iin) | 2:11 | 2025-11-21 | 2026-01-15 |
 | [Jesus Loves You \- LIVE AT SOZO EMPERIA](https://open.spotify.com/track/2OfWraIjYuA02bQAJUjq9t) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Jesus Loves You \(LIVE AT SOZO EMPERIA\)](https://open.spotify.com/album/4wUWj3T2bpgM6LOXzVdI8P) | 8:29 | 2025-02-28 | 2025-03-28 |

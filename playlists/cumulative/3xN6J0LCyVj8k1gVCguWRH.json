@@ -4185,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "All for Themselves",
+        "url": "https://open.spotify.com/album/6gsaMCGyEfd1cHSLgAA7CP"
+      },
+      "artists": [
+        {
+          "name": "Jalen Sky",
+          "url": "https://open.spotify.com/artist/2hcZmIXnWfCS8s7RzWxS60"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "All for Themselves",
+      "url": "https://open.spotify.com/track/4LikVDbCpxOPhQU9yGYSXH"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5bAxfKhlr9zWTHr0vcOKoC"
       },
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 195291,
       "name": "Before You Tell Me",
       "url": "https://open.spotify.com/track/1FJ5dcBGo2GiIU8dzX1Rca"
@@ -15637,6 +15655,28 @@
     },
     {
       "album": {
+        "name": "by your side",
+        "url": "https://open.spotify.com/album/16VEANzjnjmBUcIFFtDQnI"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        },
+        {
+          "name": "Wil$on",
+          "url": "https://open.spotify.com/artist/1YYdd69HF5WzeQwk5DVNIO"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171378,
+      "name": "by your side",
+      "url": "https://open.spotify.com/track/5q27t4UOADUfqSS7Z03KCB"
+    },
+    {
+      "album": {
         "name": "Event Horizon EP",
         "url": "https://open.spotify.com/album/6J0WuEJIPjzlOQblikWSfy"
       },
@@ -16096,7 +16136,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 178579,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/2A4ZhHdXpUeMyQT79Wl5eH"
@@ -28157,6 +28197,24 @@
     },
     {
       "album": {
+        "name": "Burnt",
+        "url": "https://open.spotify.com/album/0ILnWsaqMy7UKGTPBmuCCZ"
+      },
+      "artists": [
+        {
+          "name": "Ari K",
+          "url": "https://open.spotify.com/artist/7FlhUnCDSkfjp6xDxAxHKM"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233814,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/44G9JlOm6GM4jE8ZZBsvWz"
+    },
+    {
+      "album": {
         "name": "DON'T TELL YOUR BOSS",
         "url": "https://open.spotify.com/album/7rrRCZpjk46XYs8XEOddJW"
       },
@@ -28168,7 +28226,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 195692,
       "name": "DON'T TELL YOUR BOSS",
       "url": "https://open.spotify.com/track/6Xl24bRSFtoAyY08nGVBcF"
@@ -29802,6 +29860,24 @@
       "duration_ms": 172147,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/09SbfON8Ku2P4XOw3HNqq6"
+    },
+    {
+      "album": {
+        "name": "Driveway Conversations",
+        "url": "https://open.spotify.com/album/1IkJfO9HUhqeZ4gyZKQtMZ"
+      },
+      "artists": [
+        {
+          "name": "Teni Rane",
+          "url": "https://open.spotify.com/artist/1LgYsLK1CCquN54uMTANVM"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236456,
+      "name": "Driveway Conversations",
+      "url": "https://open.spotify.com/track/1bCgdbxK4HxHPFkRBqVtUi"
     },
     {
       "album": {
@@ -35173,6 +35249,24 @@
     },
     {
       "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/1odqZxsOiX9w48X1IGxKy8"
+      },
+      "artists": [
+        {
+          "name": "YUNIER BOY",
+          "url": "https://open.spotify.com/artist/5wPqxU0CFIDOcnyWUp0ECW"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/5oo6XoZG7SMgthlGy7vgZE"
+    },
+    {
+      "album": {
         "name": "Feel the Vibes",
         "url": "https://open.spotify.com/album/6zOHOQh3agr56enobsRKg3"
       },
@@ -38760,7 +38854,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 179330,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6eMTtja78nwY57vkwvfk8B"
@@ -50122,7 +50216,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 229880,
       "name": "I Never Asked",
       "url": "https://open.spotify.com/track/0a4ITxGxngmypDkng4Kjbk"
@@ -56304,7 +56398,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 212459,
       "name": "Keep on Movin'",
       "url": "https://open.spotify.com/track/53tpV2OkT2pO8aLGYrhJLU"
@@ -58994,7 +59088,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 182320,
       "name": "Leaving Our Lives",
       "url": "https://open.spotify.com/track/7nESKCOZY6jTGsEgDCv9sf"
@@ -72151,6 +72245,24 @@
     },
     {
       "album": {
+        "name": "Needed U (Radio Edit)",
+        "url": "https://open.spotify.com/album/0ueZYHivF29aMEhIKeidRO"
+      },
+      "artists": [
+        {
+          "name": "LOOMX",
+          "url": "https://open.spotify.com/artist/6bUh49Tv2N5PqWgt24SUOc"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204643,
+      "name": "Needed U - Radio Edit",
+      "url": "https://open.spotify.com/track/2LeRyUtliUB6myxbG8EOYJ"
+    },
+    {
+      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/4iw4FdB8UmzbCREoJ0A4fd"
       },
@@ -78238,6 +78350,24 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
+        "name": "Carnival of Cupid",
+        "url": "https://open.spotify.com/album/6G8F21cSHmvNTLofdjp9pX"
+      },
+      "artists": [
+        {
+          "name": "AmaJa",
+          "url": "https://open.spotify.com/artist/7oHUXvORKX7EJnkvfiHPZo"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143158,
+      "name": "origami (stallion)",
+      "url": "https://open.spotify.com/track/18aOYRSs9RFUnzF6j0anFP"
     },
     {
       "album": {
@@ -87380,7 +87510,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 176546,
       "name": "Ringer",
       "url": "https://open.spotify.com/track/5hFUznPRrZKMtDptnz5Oj1"
@@ -95732,7 +95862,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 189711,
       "name": "Something (To Believe In)",
       "url": "https://open.spotify.com/track/2D2f1anPTIXrmDc0FCRwJl"
@@ -105431,6 +105561,24 @@
     },
     {
       "album": {
+        "name": "The Pathless Chosen",
+        "url": "https://open.spotify.com/album/1WxM3olPhIIcMpOsbzGMfz"
+      },
+      "artists": [
+        {
+          "name": "Brian Gore Guitar Poet",
+          "url": "https://open.spotify.com/artist/25AYr5VhHQgsZUDzwgIGPb"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264249,
+      "name": "The Pathless Chosen",
+      "url": "https://open.spotify.com/track/6rSFz0PDec0FRBKKz27A4f"
+    },
+    {
+      "album": {
         "name": "Finding Forever",
         "url": "https://open.spotify.com/album/5159VIYNslxNMzF3m53kSu"
       },
@@ -110082,6 +110230,24 @@
       "duration_ms": 187774,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/0SlGIyPCLbIFtOT3UhAFsR"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/2sh24FYz7FkQKqY1FjN1kq"
+      },
+      "artists": [
+        {
+          "name": "Mike Goodrick",
+          "url": "https://open.spotify.com/artist/2A63azK3jx91MJfuL0WbJA"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/6XYvAnnEshBwGtPXGySA41"
     },
     {
       "album": {
@@ -117874,6 +118040,24 @@
       "duration_ms": 204750,
       "name": "white boy i sat next to on the plane",
       "url": "https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy"
+    },
+    {
+      "album": {
+        "name": "White dress",
+        "url": "https://open.spotify.com/album/7g4OE2etBJsIthQTyZnDKf"
+      },
+      "artists": [
+        {
+          "name": "Rau Lito",
+          "url": "https://open.spotify.com/artist/0x5mmT5r3g5kOz7zHz1IiD"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202052,
+      "name": "White dress",
+      "url": "https://open.spotify.com/track/5PM6S3UCc5s5NzxwnexLvR"
     },
     {
       "album": {

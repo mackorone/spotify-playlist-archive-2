@@ -1,13 +1,145 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.",
-  "num_followers": 33076,
+  "num_followers": 33125,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAOfN7pb2t/Tpi9fKgFjjJymE6Oe0ew",
+  "snapshot_id": "AAAOhxaaHhkUuQyrmM/gNKtR6m7icAGn",
   "tracks": [
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 213062,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Woman In The Mirror",
+        "url": "https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        },
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 185562,
+      "name": "Shooting Star (with Restless Road)",
+      "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166735,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Find Me In A Bar",
+        "url": "https://open.spotify.com/album/65EXOFQd5UrQ30867PIQZx"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 142245,
+      "name": "Find Me In A Bar",
+      "url": "https://open.spotify.com/track/5XCTaEv5vPnJJDP7T7s9Gh"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Things You Didn't Know",
+        "url": "https://open.spotify.com/album/0n01CamOVVt8w9v3v6Ytz2"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "duration_ms": 233836,
+      "name": "Come Home to You",
+      "url": "https://open.spotify.com/track/5ZaLvzpXMB7rQBTl6wG1Yt"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "The Acrobat",
+        "url": "https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 148995,
+      "name": "ordinary love song",
+      "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/7iYdhcIVeCALmHZDB8mdR5"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 187393,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/2aVFzBzcEmkkK8UW1HgRMF"
+    },
     {
       "added_at": "2026-08-07 16:19:38",
       "album": {
@@ -31,66 +163,18 @@
     {
       "added_at": "2026-08-07 16:19:38",
       "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+        "name": "Heart You Didn't Break",
+        "url": "https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Find Me In A Bar",
-        "url": "https://open.spotify.com/album/65EXOFQd5UrQ30867PIQZx"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 142245,
-      "name": "Find Me In A Bar",
-      "url": "https://open.spotify.com/track/5XCTaEv5vPnJJDP7T7s9Gh"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Keep It Peachy",
-        "url": "https://open.spotify.com/album/6kaUbA3snbhNGbkc5T2e4x"
-      },
-      "artists": [
-        {
-          "name": "Bellah Mae",
-          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
-        }
-      ],
-      "duration_ms": 151868,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/7MoJlwFW8LUy5dkZUjh0kq"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Things You Didn't Know",
-        "url": "https://open.spotify.com/album/0n01CamOVVt8w9v3v6Ytz2"
-      },
-      "artists": [
-        {
-          "name": "Emily Ann Roberts",
-          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
-        }
-      ],
-      "duration_ms": 233836,
-      "name": "Come Home to You",
-      "url": "https://open.spotify.com/track/5ZaLvzpXMB7rQBTl6wG1Yt"
+      "duration_ms": 192185,
+      "name": "Heart You Didn't Break",
+      "url": "https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN"
     },
     {
       "added_at": "2026-08-07 16:19:38",
@@ -111,6 +195,22 @@
     {
       "added_at": "2026-08-07 16:19:38",
       "album": {
+        "name": "Keep It Peachy",
+        "url": "https://open.spotify.com/album/6kaUbA3snbhNGbkc5T2e4x"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 151868,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/7MoJlwFW8LUy5dkZUjh0kq"
+    },
+    {
+      "added_at": "2026-08-07 16:19:38",
+      "album": {
         "name": "I Ain't No Cowboy",
         "url": "https://open.spotify.com/album/0yx1Y4gQni0WqCbBfietQv"
       },
@@ -127,38 +227,6 @@
     {
       "added_at": "2026-08-07 16:19:38",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 166735,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Heart You Didn't Break",
-        "url": "https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 192185,
-      "name": "Heart You Didn't Break",
-      "url": "https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
       },
@@ -171,22 +239,6 @@
       "duration_ms": 191970,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "The Acrobat",
-        "url": "https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 148995,
-      "name": "ordinary love song",
-      "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
     },
     {
       "added_at": "2026-08-07 16:19:38",
@@ -223,22 +275,6 @@
       "duration_ms": 228836,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/7iYdhcIVeCALmHZDB8mdR5"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 187393,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/2aVFzBzcEmkkK8UW1HgRMF"
     },
     {
       "added_at": "2026-08-07 16:19:38",
@@ -543,26 +579,6 @@
       "duration_ms": 195194,
       "name": "Girl Out In Nevada",
       "url": "https://open.spotify.com/track/1PWaYO4hyrQDD8AeOcy90k"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Woman In The Mirror",
-        "url": "https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        },
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 185562,
-      "name": "Shooting Star (with Restless Road)",
-      "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
     },
     {
       "added_at": "2026-08-07 16:19:38",
@@ -1467,22 +1483,6 @@
       "duration_ms": 215439,
       "name": "Two Trains (feat. Marcus King)",
       "url": "https://open.spotify.com/track/23cBxlsY43hiuiLwXn5Xkn"
-    },
-    {
-      "added_at": "2026-08-07 16:19:38",
-      "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 213062,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "added_at": "2026-08-07 16:19:38",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAWhZ5LXYeoPIj2TLdAPglF",
+  "snapshot_id": "aoJPAAAAAADZ90tWK6TN70WGBbkLpdI0",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Earth / Air",
-      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
+      "duration_ms": 182454,
+      "name": "Fire / Water",
+      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 182454,
-      "name": "Fire / Water",
-      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
+      "duration_ms": 258000,
+      "name": "Air / Water",
+      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
     },
     {
       "added_at": null,
@@ -324,25 +324,29 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Air / Water",
-      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
+      "duration_ms": 155294,
+      "name": "Earth / Air",
+      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Recent Futures",
-        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
+        "name": "Unexpected Music II",
+        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
       },
       "artists": [
         {
           "name": "Celia Hollander",
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        },
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 229625,
-      "name": "Vacant & Encouraging My Trophy Houseplant",
-      "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
+      "duration_ms": 327887,
+      "name": "Will O Wisp",
+      "url": "https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN"
     },
     {
       "added_at": null,
@@ -395,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unexpected Music II",
-        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        },
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Will O Wisp",
-      "url": "https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recent Futures",
         "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
       },
@@ -424,25 +408,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 381120,
-      "name": "Santa Ana Wind Burn",
-      "url": "https://open.spotify.com/track/6kFiQFLoxhBexCDquCFqlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 114551,
-      "name": "Water / Fire",
-      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
+      "duration_ms": 229625,
+      "name": "Vacant & Encouraging My Trophy Houseplant",
+      "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
     },
     {
       "added_at": null,
@@ -463,6 +431,38 @@
       "duration_ms": 308000,
       "name": "Friendly Glow",
       "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 114551,
+      "name": "Water / Fire",
+      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recent Futures",
+        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 381120,
+      "name": "Santa Ana Wind Burn",
+      "url": "https://open.spotify.com/track/6kFiQFLoxhBexCDquCFqlc"
     },
     {
       "added_at": null,

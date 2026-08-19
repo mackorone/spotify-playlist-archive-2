@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Andy C
 
-1,292 songs - 3 day 3 hr 25 min
+1,293 songs - 3 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Hooked \(On A Feeling\)](https://open.spotify.com/track/7CGRpbovLSEoaLlL5UKqvh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Sophie\-Grace](https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt) | [Hooked \(On A Feeling\)](https://open.spotify.com/album/7rjAAdIWlanmu1aVPj5HVT) | 3:21 | 2025-06-05 | 2025-09-26 |
 | [Horizon](https://open.spotify.com/track/3ardTKlR7VEELLh8iI3bpK) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Horizon](https://open.spotify.com/album/2wa8v5NH5ATaXZRqJEeQ94) | 3:00 | 2023-11-10 | 2024-05-17 |
 | [Horizon](https://open.spotify.com/track/6x6kuDhr2y4Ly3weZFje2C) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Horizon](https://open.spotify.com/album/3iz9Lv2t1ZkVCZ35yNRtA7) | 3:27 | 2026-02-20 | 2026-06-12 |
+| [Hoverfly](https://open.spotify.com/track/0Q7ftlfflhME92u9oOH7bj) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Serpnt](https://open.spotify.com/artist/1y3FQPKIZ1jkoDBndgvQmX) | [Hoverfly](https://open.spotify.com/album/3GoLlYx2ZyXvXtLQSCOu7I) | 4:27 | 2026-08-18 |  |
 | [How I Like It](https://open.spotify.com/track/7KqTLatpmKtzHZslclrYdr) | [Harley D](https://open.spotify.com/artist/477hz7cR6hdGtsNQ5aj168) | [How I Like It EP](https://open.spotify.com/album/0nYiy1OAgL9S19PqJtiBcd) | 4:13 | 2022-04-08 | 2022-04-21 |
 | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/album/0AykD0vZXh4qotarIZaein) | 2:33 | 2024-07-11 | 2025-01-17 |
 | [Hydra](https://open.spotify.com/track/0WRJOtOojgRSe0KSBoiOH6) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Hydra](https://open.spotify.com/album/1Hw7Ldk0hSQ0pDHaK9F9bv) | 4:30 | 2022-06-23 | 2022-09-03 |
@@ -903,7 +904,7 @@
 | [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 | 2022-04-08 | 2023-07-14 |
 | [Radio \- Remix](https://open.spotify.com/track/68kvypOTqfhvq4Se0HUIjN) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [Radio Remix](https://open.spotify.com/album/5t0y40M7XhW0V5PgYsKpXP) | 3:14 | 2024-02-23 | 2024-09-13 |
 | [Rage](https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rage](https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35) | 2:38 | 2024-02-02 | 2024-08-23 |
-| [Rage Days](https://open.spotify.com/track/6h9ckbO36zzMJ2H5GdnV7S) | [Mix'Elle](https://open.spotify.com/artist/43QGdvDr2wO4x1Y8wbeovp), [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [Rage Days](https://open.spotify.com/album/4KmpFnF9cHZInIXsVATOfP) | 4:05 | 2026-04-16 |  |
+| [Rage Days](https://open.spotify.com/track/6h9ckbO36zzMJ2H5GdnV7S) | [Mix'Elle](https://open.spotify.com/artist/43QGdvDr2wO4x1Y8wbeovp), [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [Rage Days](https://open.spotify.com/album/4KmpFnF9cHZInIXsVATOfP) | 4:05 | 2026-04-16 | 2026-08-19 |
 | [Raggamuffin](https://open.spotify.com/track/2BgaXr2yrSxwhMqNhsGiDf) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa), [GU:STUFF](https://open.spotify.com/artist/4LxndbBHPg0Da15ZjB74ZR) | [Raggamuffin](https://open.spotify.com/album/3Y071HqrUq3wln4GW0i7sX) | 3:21 | 2024-04-12 | 2024-09-27 |
 | [Rain Dance](https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Rain Dance](https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi) | 3:09 | 2024-02-23 | 2024-08-23 |
 | [Rain Is Falling](https://open.spotify.com/track/7Lo3mb75tBVVXiW4UAWEo5) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Rain Is Falling](https://open.spotify.com/album/4CWfu90gA1ldOGF4xYt78m) | 3:18 | 2026-05-14 |  |

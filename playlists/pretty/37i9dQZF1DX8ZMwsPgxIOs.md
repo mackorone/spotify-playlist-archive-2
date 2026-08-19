@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Space 92
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,290 likes - 198 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,306 likes - 198 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

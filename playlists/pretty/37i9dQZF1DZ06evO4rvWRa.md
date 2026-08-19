@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,636,360 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636,356 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 47 | [Land Of The Heroes](https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:56 |
 | 48 | [Force](https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:00 |
 | 49 | [Not Home](https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Not Home](https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM) | 2:00 |
-| 50 | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Edward Artemyev](https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K) | 3:00 |
+| 50 | [Golden Bird](https://open.spotify.com/track/4xN8kkpF1chwOwRYkcFBTm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [刘宇](https://open.spotify.com/artist/5AmzB7BZvNguo4OgrzOyg7), [Chuanzi](https://open.spotify.com/artist/2RAzRjAZmbbdeX8eUJ8ckF) | [Golden Bird](https://open.spotify.com/album/4F7aLIs0UqEc1jD5aiX9VA) | 3:30 |
 
-Snapshot ID: `aoD9gAAAAACZlyZFwlaXHJ4VJ6Mq5PUK`
+Snapshot ID: `aoJPAAAAAABhkeQIDpHC2QEA8Cep2qmS`

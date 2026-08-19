@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,943 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,979 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 28 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 |
 | 29 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 30 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
-| 31 | [Crazy Love](https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy) | 5:41 |
-| 32 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
+| 31 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
+| 32 | [Crazy Love](https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy) | 5:41 |
 | 33 | [Texas](https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb), [Steve Miller](https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Up Close](https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9) | 6:02 |
 | 34 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |
-| 35 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
-| 36 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
+| 35 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
+| 36 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
 | 37 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
 | 38 | [Cold, Cold Feeling](https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 5:19 |
 | 39 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |

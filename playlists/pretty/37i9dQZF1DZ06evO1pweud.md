@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1pweud.md) - [plain]
 
 > This is The Marías\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,464 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,516 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1pweud.md) - [plain]
 | 37 | [I Like It](https://open.spotify.com/track/3Vm6yiTPfhFeUHD4gt42cZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:23 |
 | 38 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 |
 | 39 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
-| 40 | [Déjate Llevar](https://open.spotify.com/track/4eevohYu5jHXgnCitivUVT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:43 |
+| 40 | [Memoria De Paz \(feat\. The Marías\)](https://open.spotify.com/track/1GSq4WFwPcqRNObLWhqGC3) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 3:42 |
+| 41 | [Déjate Llevar](https://open.spotify.com/track/4eevohYu5jHXgnCitivUVT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:43 |
 
-Snapshot ID: `aoD9gAAAAAD0B5QXXZMuGjCS0vf2GIwg`
+Snapshot ID: `aoJPAAAAAAA2sRLrnsfu843dJJtuJ5Gf`

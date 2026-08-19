@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,603 likes - 105 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,711 likes - 105 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

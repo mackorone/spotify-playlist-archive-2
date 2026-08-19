@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Nina Winder-Lind",
-  "num_followers": 93568,
+  "num_followers": 93571,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Kick Stones (The Boys)",
-        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "Kick Stones (The Boys)",
-      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 299042,
       "name": "Garden",
       "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
     },
     {
       "added_at": "2026-08-14 13:20:01",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Oh No Now My",
-        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+        "name": "Kick Stones (The Boys)",
+        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
       },
       "artists": [
         {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Oh No Now My",
-      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
+      "duration_ms": 236167,
+      "name": "Kick Stones (The Boys)",
+      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
         "name": "Renascent",
         "url": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 204200,
       "name": "Sargasso Sea",
       "url": "https://open.spotify.com/track/4Oy185yBcxHHi5x2sa6iiv"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 227070,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 170473,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
         "name": "Heaven Knows You're Lonely",
         "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
+        "name": "Massive Champion",
+        "url": "https://open.spotify.com/album/0mL98BOnYAVFSCYV9x5ZXK"
       },
       "artists": [
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
         }
       ],
-      "duration_ms": 170473,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
+      "duration_ms": 188973,
+      "name": "Lentils",
+      "url": "https://open.spotify.com/track/6lrXjOMYPjbyKozRybtQxo"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -763,22 +779,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Massive Champion",
-        "url": "https://open.spotify.com/album/0mL98BOnYAVFSCYV9x5ZXK"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "Lentils",
-      "url": "https://open.spotify.com/track/6lrXjOMYPjbyKozRybtQxo"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "haven\u2019t found love.",
         "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Something Else to Give",
-        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 285183,
-      "name": "Something Else to Give",
-      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "Tunnels",
         "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/1nxl2vB89z0kQIWvh7LZWA"
+        "name": "Something Else to Give",
+        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
       },
       "artists": [
         {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
         }
       ],
-      "duration_ms": 207166,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/26KwVbIh7uWnHBfEVfVar8"
+      "duration_ms": 285183,
+      "name": "Something Else to Give",
+      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -871,6 +855,22 @@
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/1nxl2vB89z0kQIWvh7LZWA"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 207166,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/26KwVbIh7uWnHBfEVfVar8"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "duration_ms": 147460,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
         "name": "pick me up",
         "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 230866,
       "name": "Spin",
       "url": "https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl"
-      },
-      "artists": [
-        {
-          "name": "Maddie Ashman",
-          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
-        }
-      ],
-      "duration_ms": 147460,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Terrestrials",
-        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 260877,
-      "name": "Skyworks",
-      "url": "https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "Dog Eared",
         "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 219503,
       "name": "Planets",
       "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
+        "name": "Terrestrials",
+        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 260877,
+      "name": "Skyworks",
+      "url": "https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
         "name": "My New Band Believe",
         "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Nothing Happens Twice",
-        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 222395,
-      "name": "Nothing Happens Twice",
-      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "I quit",
         "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "Cameos",
-        "url": "https://open.spotify.com/album/1Uts53saLs17xjrNjZ1STw"
-      },
-      "artists": [
-        {
-          "name": "Django Django",
-          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Cameos",
-      "url": "https://open.spotify.com/track/0bdEpK83erx3mPwSqxGGNP"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 165121,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
+        "name": "Cameos",
+        "url": "https://open.spotify.com/album/1Uts53saLs17xjrNjZ1STw"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Cameos",
+      "url": "https://open.spotify.com/track/0bdEpK83erx3mPwSqxGGNP"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
-        "name": "For Love of Grace & the Hereafter",
-        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 223925,
-      "name": "mother-of-pearl",
-      "url": "https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
         "name": "The Scythe",
         "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 223925,
+      "name": "mother-of-pearl",
+      "url": "https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk"
     },
     {
       "added_at": "2026-08-13 23:00:30",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-08-13 23:00:30",
       "album": {
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 212391,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
+    },
+    {
+      "added_at": "2026-08-13 23:00:30",
+      "album": {
         "name": "The Ever After",
         "url": "https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 334216,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
-    },
-    {
-      "added_at": "2026-08-13 23:00:30",
-      "album": {
-        "name": "Glamour Magick",
-        "url": "https://open.spotify.com/album/7sClkddld26FI0xg2IFoND"
-      },
-      "artists": [
-        {
-          "name": "Arab Strap",
-          "url": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
-        }
-      ],
-      "duration_ms": 270785,
-      "name": "Glamour Magick",
-      "url": "https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA"
     }
   ],
   "unique_name": "The Listening Post",

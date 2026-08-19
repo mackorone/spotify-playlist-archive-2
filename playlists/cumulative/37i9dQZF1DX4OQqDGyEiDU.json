@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
+  "description": "Explore the current wave of VOCALOID culture. Cover: r-906",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 144720,
       "name": "Baumkuchen_EndCredits",
       "url": "https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt"
@@ -2665,6 +2665,36 @@
     },
     {
       "album": {
+        "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+        "url": "https://open.spotify.com/album/5yD1foXGvYr9j2oACkXUzt"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "\u3055\u305f\u3071\u3093P",
+          "url": "https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130770,
+      "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
+      "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
+    },
+    {
+      "album": {
         "name": "Coin locker Baby",
         "url": "https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg"
       },
@@ -3467,6 +3497,36 @@
     },
     {
       "album": {
+        "name": "QUIET (feat. \u91cd\u97f3\u30c6\u30c8, \u53ef\u4e0d & \u96e8\u8863)",
+        "url": "https://open.spotify.com/album/1EKVwtyBNuZ1aw5BGCKv0W"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        },
+        {
+          "name": "\u96e8\u8863",
+          "url": "https://open.spotify.com/artist/2YIRIvdv4GqnPnZ1McL8zZ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "QUIET (feat. \u91cd\u97f3\u30c6\u30c8, \u53ef\u4e0d & \u96e8\u8863)",
+      "url": "https://open.spotify.com/track/7iFCc4f4jVHWUDmSLapYUg"
+    },
+    {
+      "album": {
         "name": "troy",
         "url": "https://open.spotify.com/album/3a1HOc9H3mko6rhStgCjws"
       },
@@ -3889,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Shogi Ichiban\uff01",
+        "url": "https://open.spotify.com/album/2mR4FupM4TEkVqACzUksPb"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3053\u3074",
+          "url": "https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Shogi Ichiban\uff01",
+      "url": "https://open.spotify.com/track/0wu9Z0ZIqhAO7WJSUXLD9Q"
+    },
+    {
+      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/3sWobIbTGugakWItFl0lex"
       },
@@ -3976,7 +4054,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 203604,
       "name": "STAY SWEET (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/4qwHvbaYYKbQsFBlrgGWwp"
@@ -9726,7 +9804,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 151000,
       "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/20izQWOsvLql59j6x6l0B5"
@@ -11161,6 +11239,28 @@
     },
     {
       "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u306e\u71b1\u5531 (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/4spuhIU7umL3zMmsJPWVta"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6f20\u6ce2\u65b0",
+          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109818,
+      "name": "\u521d\u97f3\u30df\u30af\u306e\u71b1\u5531 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/24STJuziq0fMsav7YI0y8E"
+    },
+    {
+      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -12424,7 +12524,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 107812,
       "name": "\u653e\u9001",
       "url": "https://open.spotify.com/track/14OXQziwIkpL3wGTCLBJiP"
@@ -13190,7 +13290,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 148733,
       "name": "\u73fe\u8c61\u03b1 (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/1H8xN8Rj62uLRx4rI1hzfO"
@@ -13704,7 +13804,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"

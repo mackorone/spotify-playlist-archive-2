@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 273816,
       "name": "Do It Again (feat. Big Sean)",
       "url": "https://open.spotify.com/track/6v7oiq30EJIqXwse0ilHlz"
@@ -2357,6 +2357,40 @@
     },
     {
       "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "SayItAintTone",
+          "url": "https://open.spotify.com/artist/46sJ8zrDC0sfmersWSyYMd"
+        },
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284819,
+      "name": "Woke Up (feat. SayItAintTone, Earlly Mac, Mike Posner & James Fauntleroy)",
+      "url": "https://open.spotify.com/track/52eQm0lgpTEPBfLvF6y6Kv"
+    },
+    {
+      "album": {
         "name": "Good Music Chicago",
         "url": "https://open.spotify.com/album/4TQQatT1Z2q4iIPcja4zGB"
       },
@@ -2380,7 +2414,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 284866,
       "name": "Woke Up (feat. Sayitainttone, Early Mac, Mike Posner)",
       "url": "https://open.spotify.com/track/521RyvUnbvmrNz896aacPa"

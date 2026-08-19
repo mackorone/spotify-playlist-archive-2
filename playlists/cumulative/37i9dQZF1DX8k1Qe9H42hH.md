@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-135 songs - 6 hr 19 min
+136 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/337NNxsOqWueShlE1lozpQ) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2024-03-01 |  |
 | [Rockabye Baby](https://open.spotify.com/track/1UE6gmD89HzSCtsmbah7OC) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 1:25 | 2024-03-01 | 2026-06-27 |
 | [Rumbly in My Tumbly](https://open.spotify.com/track/6Wce2SYdU7ockSkIJ894ca) | [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) | [Songs and Story: Winnie the Pooh and the Honey Tree](https://open.spotify.com/album/2h7GDf31ar6zI2SkHrQ9TE) | 1:23 | 2024-03-01 |  |
+| [See You Soon](https://open.spotify.com/track/4zuUywR4fXQS358rOje7HC) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Ozzy Fox](https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i), [Mama Fox](https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN), [Papa Fox](https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU) | [Disney Jr\. Music: Ozzy Fox](https://open.spotify.com/album/3qIYY3YJVzFfnVxzsIJt09) | 2:09 | 2026-08-18 |  |
 | [Sleep, Little Child](https://open.spotify.com/track/4kwK5Bf7ZCFiovd8IBMMaR) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:18 | 2024-06-13 | 2025-01-16 |
 | [So Close](https://open.spotify.com/track/78AXcNfPl3rdNF1jZFW8W4) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Winter Songs](https://open.spotify.com/album/5mfmSSVrt4BOZScMKLROKd) | 2:29 | 2024-12-12 | 2025-01-16 |
 | [So This Is Love \- From "Cinderella"](https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Disney Princess: The Ultimate Song Collection](https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ) | 1:32 | 2025-03-06 |  |
@@ -107,7 +108,7 @@
 | [The Mandalorian](https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz) | [Nick Pingree](https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 2:58 | 2024-05-03 | 2025-01-16 |
 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 | 2024-03-01 |  |
 | [The Second Star to the Right](https://open.spotify.com/track/6xCGeEPkWhshDnNIpqqUvS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Love Songs](https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4) | 2:48 | 2024-03-01 |  |
-| [The Spectrum Song](https://open.spotify.com/track/1jizBrx02j3woGLyc6qkmK) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 1:02 | 2025-06-20 |  |
+| [The Spectrum Song](https://open.spotify.com/track/1jizBrx02j3woGLyc6qkmK) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 1:02 | 2025-06-20 | 2026-08-19 |
 | [This Is Halloween](https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 4:35 | 2024-03-01 | 2025-06-21 |
 | [This Wish](https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Wish](https://open.spotify.com/album/3SYfKw3qLbZqeXhMKhW8mI) | 3:36 | 2024-04-19 | 2025-01-16 |
 | [This Wish \- Orgel Version](https://open.spotify.com/track/7rxTDN1TVl1mqxhBTPLqkH) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol\. 2](https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn) | 4:56 | 2025-01-16 | 2025-03-07 |

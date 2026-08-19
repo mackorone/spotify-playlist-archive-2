@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-559 songs - 1 day 7 hr 42 min
+561 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S) | [Bonolo Solomon](https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT) | [Autumn Leaves](https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL) | 3:11 | 2026-05-28 |  |
 | [Avatar](https://open.spotify.com/track/4jvDddu5cVPq4ogsmSEeQ9) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Avatar](https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f) | 4:28 | 2025-12-26 | 2026-01-15 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2025-12-09 | 2026-01-05 |
+| [B!tch](https://open.spotify.com/track/6yuAizja4nZcTgGHARMGbR) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [B!tch](https://open.spotify.com/album/5bkMKZjEHxdsB6chVzgXZt) | 3:24 | 2026-08-18 |  |
 | [Back 2 Back](https://open.spotify.com/track/7K02ichOW2ETR9CpgGe66n) | [Flav Gabry](https://open.spotify.com/artist/6HnknQDdmkAh8IIr2Z6rh5), [Slim Spitta](https://open.spotify.com/artist/5nfwr1v0kuonRC9Vnb573t) | [Back 2 Back](https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2) | 4:24 | 2026-03-05 | 2026-05-26 |
 | [backseat confessions](https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA) | [DeMonte Lavon](https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K) | [backseat confessions](https://open.spotify.com/album/2ZxJeVllW06njTXqorI5P4) | 4:27 | 2026-04-22 | 2026-05-26 |
 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 | 2025-12-30 | 2026-01-25 |
@@ -81,6 +82,7 @@
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-28 | 2026-01-25 |
 | [Better Now](https://open.spotify.com/track/7DBegQYOfNSU6yldagfco6) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Better Now](https://open.spotify.com/album/2BRvr1z1PMXALclzfx99Zq) | 3:15 | 2026-02-15 |  |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-25 |
+| [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-08-18 |  |
 | [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 | 2026-01-05 |
 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 | 2026-02-08 |  |
 | [Black Lashes](https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:02 | 2026-05-05 | 2026-06-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,635 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,620 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 2 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 | 3 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
 | 4 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
-| 5 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
-| 6 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
+| 5 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
+| 6 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
 | 7 | [School](https://open.spotify.com/track/4rN5JelPY9qa05kvG6TTzQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 4:23 |
 | 8 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
 | 9 | [Crash Out](https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Crash Out](https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB) | 3:10 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 19 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
 | 20 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 |
 | 21 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
-| 22 | [creeper](https://open.spotify.com/track/2Dw0lHrjRQjDIM44WOU0Ao) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [creeper + seed](https://open.spotify.com/album/6ztPWOeqHhdfndBwbjlk25) | 2:40 |
-| 23 | [U&I](https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [U&I](https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C) | 2:32 |
+| 22 | [U&I](https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [U&I](https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C) | 2:32 |
+| 23 | [creeper](https://open.spotify.com/track/2Dw0lHrjRQjDIM44WOU0Ao) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [creeper + seed](https://open.spotify.com/album/6ztPWOeqHhdfndBwbjlk25) | 2:40 |
 | 24 | [QVC \(feat\. Leon Thomas\)](https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 3:04 |
 | 25 | [TEMPERATURE](https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [TEMPERATURE](https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy) | 2:37 |
 | 26 | [Demain t'es ou](https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Demain t'es ou](https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk) | 2:36 |

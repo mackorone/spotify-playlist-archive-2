@@ -5950,10 +5950,40 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 145813,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/1HejpjNLuM5reFjeTnYfj9"
+    },
+    {
+      "album": {
+        "name": "Goat Food",
+        "url": "https://open.spotify.com/album/3qmbmC46WOFVHHA8mJ40ZX"
+      },
+      "artists": [
+        {
+          "name": "I In Team",
+          "url": "https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B"
+        },
+        {
+          "name": "Nick Sanville",
+          "url": "https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB"
+        },
+        {
+          "name": "Phonosapien",
+          "url": "https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/3jj1qRsDIvU4zgMo3YKDkD"
     },
     {
       "album": {

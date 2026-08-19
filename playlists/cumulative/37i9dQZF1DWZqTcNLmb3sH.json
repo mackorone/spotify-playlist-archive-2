@@ -2470,6 +2470,24 @@
     {
       "album": {
         "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
+        "url": "https://open.spotify.com/album/4Y8jmSC1KMp58hmxKoks0P"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79062,
+      "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
+      "url": "https://open.spotify.com/track/3TLCp2fyTmKgEOJU0P4jQ2"
+    },
+    {
+      "album": {
+        "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
         "url": "https://open.spotify.com/album/0S6PTwkCcOssG17kDoNCex"
       },
       "artists": [
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 238446,
       "name": "Avvanantha Appanivanu - (From \u201cPremada Oorali\u201d)",
       "url": "https://open.spotify.com/track/6sL62NnWUXp8dUdKKukwiM"
@@ -16002,7 +16020,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 228048,
       "name": "Hellallallo (From \"Peddi\") [KANNADA]",
       "url": "https://open.spotify.com/track/5xKA3HFZ0UTKFJ1zxGJrby"
@@ -20946,7 +20964,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 303320,
       "name": "Kaananada Kannika (From \"Madanika'')",
       "url": "https://open.spotify.com/track/6NaeOw9IUI8SwFoj9H0MQg"
@@ -28955,6 +28973,28 @@
     },
     {
       "album": {
+        "name": "Modala Preethi (From \"Rashi'')",
+        "url": "https://open.spotify.com/album/5TeNghsVRT0MH4UE1JIqvW"
+      },
+      "artists": [
+        {
+          "name": "Vijay palegar",
+          "url": "https://open.spotify.com/artist/2MHs3X8z1Gn1c9U6Pe8Nm6"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197349,
+      "name": "Modala Preethi (From \"Rashi'')",
+      "url": "https://open.spotify.com/track/7skKeww0ZOOJlymyY9mYYk"
+    },
+    {
+      "album": {
         "name": "Modala Premada (From \"Vyuha\")",
         "url": "https://open.spotify.com/album/0ksb429ajq3MjoHXr1UG4l"
       },
@@ -33786,7 +33826,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 266590,
       "name": "Neenobbale (From \"Life Today (Kannada)\")",
       "url": "https://open.spotify.com/track/4k6yhERNSWuyBiqkCg4kQK"
@@ -34966,7 +35006,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 195344,
       "name": "Ninnane Nannane (From \"Karikaada - Kannada\")",
       "url": "https://open.spotify.com/track/7bQOZ0XdsMPH9oQUVfnZYr"
@@ -42988,7 +43028,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 272571,
       "name": "Shathashathamaanagalinda (From \"Graamaayana\")",
       "url": "https://open.spotify.com/track/1deSlWyWKA5uycSQOkVKkJ"
@@ -47868,6 +47908,36 @@
       "duration_ms": 213183,
       "name": "Usuraadakondhu Uddesha Saaku (from \"Apple Cut\")",
       "url": "https://open.spotify.com/track/4ez55aevD7KvzZLGIlEwus"
+    },
+    {
+      "album": {
+        "name": "Usure Needhan Pulla (From \"Mandaadi\")",
+        "url": "https://open.spotify.com/album/3bWtAs4ifJRW0SI99MQm3H"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Jayashree Mathimaran",
+          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225394,
+      "name": "Usure Needhan Pulla (From \"Mandaadi\")",
+      "url": "https://open.spotify.com/track/01ds4D8iuPXUfIpY0kOxeb"
     },
     {
       "album": {

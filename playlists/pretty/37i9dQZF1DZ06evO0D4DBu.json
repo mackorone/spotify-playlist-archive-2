@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210778,
+  "num_followers": 210779,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAB9+j4rlE776piFlmb1g2k2",
+  "snapshot_id": "aoJPAAAAAACUPhF542p7ZUheuccYZK+i",
   "tracks": [
     {
       "added_at": null,
@@ -1071,22 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 4 (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
         }
       ],
-      "duration_ms": 229244,
-      "name": "I Love You (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

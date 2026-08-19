@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Honey Bxby and JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,005 likes - 198 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,009 likes - 198 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 11 | [DEJAVU \(feat\. Swavay\)](https://open.spotify.com/track/2ZPbTV6fSzyIOF5cQZ7E9r) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [I'll Be Home Soon](https://open.spotify.com/album/5hsc55Vmer7Kj3726DJQPM) | 3:05 |
 | 12 | [SWERVE](https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [SWERVE](https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr) | 2:51 |
 | 13 | [I LOVE YOUR BODY](https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [I LOVE YOUR BODY](https://open.spotify.com/album/1TREZBcJvxodOvigkTQYDQ) | 2:34 |
-| 14 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 14 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 15 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
 | 16 | [Proud](https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Proud](https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6) | 2:10 |
 | 17 | [why can't u n i b friends?](https://open.spotify.com/track/6YA9DzD0YRCofMauyAgStz) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [from me to me](https://open.spotify.com/album/0PbyLn7tTbHifvJFzi74rd) | 2:17 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 51 | [PushPlay](https://open.spotify.com/track/6ziVvzCJejkyZ75nncyvel) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb) | [PushPlay](https://open.spotify.com/album/6jutBM7dDHY1EXXaqybH5k) | 2:49 |
 | 52 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
 | 53 | [Down Bad](https://open.spotify.com/track/49hvtfulvEJ3kiac97TNNL) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Alchemy](https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a) | 4:02 |
-| 54 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 54 | [Just For A Moment \(feat\. Dende\) \- Acoustic](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 55 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
 | 56 | [Stuntin](https://open.spotify.com/track/0kOIgPakbZqEDMoUX1qiSR) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Payback Is A Dog](https://open.spotify.com/album/0wcQqcmAoYqsp835JHZ6rV) | 3:18 |
 | 57 | [WHY](https://open.spotify.com/track/4OzjfVigxDkg8TyZPTGadi) | [Devin Donnell](https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc) | [WHY](https://open.spotify.com/album/1fOtiQaNoDgDNL8XvZvj8K) | 1:46 |

@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 86016,
+  "num_followers": 86037,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Heavy (feat. Your Smith)",
+      "url": "https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Catching Eyes",
         "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
       },
@@ -883,22 +903,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Pala",
-        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 302573,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -919,6 +923,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Pala",
+        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 302573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 228543,
       "name": "Su\u00e9ltame, Bogot\u00e1",
       "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Your Smith",
-          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Heavy (feat. Your Smith)",
-      "url": "https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt"
     },
     {
       "added_at": "2024-06-28 21:13:36",

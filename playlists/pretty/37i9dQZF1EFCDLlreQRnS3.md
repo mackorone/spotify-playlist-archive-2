@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 36 | [Something I Said](https://open.spotify.com/track/6G580OEhNGxpoIhESLGJer) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/2IUckyI6j37ShT0rgQGGWd) | 4:08 |
 | 37 | [Erase](https://open.spotify.com/track/4Ak5fQbKiNLFoi4MHGIi0Y) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/4VC1vcqYAFhRJnc1v4wLML) | 3:59 |
 | 38 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/5oSJP58Y84CLGZgJor08Jl), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
-| 39 | [Crush](https://open.spotify.com/track/7sejIu4IkJNO64hVmgwGLu) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Crush](https://open.spotify.com/album/0PqMtDy7Xr6jNI6gddjYXg) | 2:35 |
-| 40 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
+| 39 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
+| 40 | [Crush](https://open.spotify.com/track/7sejIu4IkJNO64hVmgwGLu) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Crush](https://open.spotify.com/album/0PqMtDy7Xr6jNI6gddjYXg) | 2:35 |
 | 41 | [Under The Influence](https://open.spotify.com/track/4HjJ8y3A5fPE5EY42v6oUn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Under The Influence](https://open.spotify.com/album/0Ltfj4RLfRD1oEC5a2C7Q7) | 2:54 |
 | 42 | [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:41 |
 | 43 | [Fast Lane](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Fast Lane](https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6) | 2:00 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 143 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 144 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcZ2RAAAAAAbxWAXFFkn3ics17s+cTTf`
+Snapshot ID: `AcZ8DAAAAADYQZo3Zxai53C8B+SyIw99`

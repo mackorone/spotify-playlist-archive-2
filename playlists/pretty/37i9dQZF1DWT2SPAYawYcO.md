@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Peking Duk, Troye Sivan, Phoebe Bridgers, KATSEYE, Jungle, Wade Forster + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,729 likes - 92 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,683 likes - 92 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

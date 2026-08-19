@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Trueno &amp; Maria Becerra",
-  "num_followers": 51333,
+  "num_followers": 51320,
   "original_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAVUq+d6iiZ8NkMK+rsZTYqVlUlgdSr",
+  "snapshot_id": "AAAVV94uOv1lUySnC5udU0vGgYCAH0PU",
   "tracks": [
     {
       "added_at": "2026-08-14 14:35:21",
@@ -123,6 +123,22 @@
       "duration_ms": 222222,
       "name": "Dai Dai - Spanish Version",
       "url": "https://open.spotify.com/track/4FgqM9iu6uY5vJavkDrP6W"
+    },
+    {
+      "added_at": "2026-08-18 20:14:58",
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
     },
     {
       "added_at": "2026-08-07 02:32:59",
@@ -317,26 +333,6 @@
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
     },
     {
-      "added_at": "2026-04-24 15:13:45",
-      "album": {
-        "name": "TURR4ZO",
-        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 169597,
-      "name": "90s",
-      "url": "https://open.spotify.com/track/4JVmGFR0Qfx2XzF2pNg46Z"
-    },
-    {
       "added_at": "2026-06-09 17:09:58",
       "album": {
         "name": "\u00bfY ahora qu\u00e9 +?",
@@ -467,6 +463,26 @@
       "duration_ms": 219201,
       "name": "Hola \u00bfAlo?",
       "url": "https://open.spotify.com/track/4cs20eWc7SEpCaiUMptubl"
+    },
+    {
+      "added_at": "2026-08-18 20:56:52",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": "2025-11-28 13:27:27",

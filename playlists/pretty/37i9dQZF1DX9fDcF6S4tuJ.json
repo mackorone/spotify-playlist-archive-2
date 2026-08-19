@@ -1,12 +1,12 @@
 {
   "description": "Music from all your favorite Disney Princesses, in one place!",
-  "num_followers": 1013348,
+  "num_followers": 1013566,
   "original_name": "Disney Princess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJVCL8u9TVRU8KpTs52SrwHfjqJB",
+  "snapshot_id": "AAAAAAEaKHW2z6evGZAXc9jLL9QNvZ1v",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:33",
@@ -1363,6 +1363,26 @@
       "duration_ms": 167933,
       "name": "Dig a Little Deeper",
       "url": "https://open.spotify.com/track/7kh64k3P9Fk4EsA6vOdwmj"
+    },
+    {
+      "added_at": "2026-08-18 13:36:08",
+      "album": {
+        "name": "Time to Shine x Princess Things (Mashup) [From \"Disney Jr. Music: Sofia the First: Royal Magic\"]",
+        "url": "https://open.spotify.com/album/0B3dsbmhxJ4jN2MYka58ni"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 166806,
+      "name": "Time to Shine x Princess Things (Mashup) - From \"Disney Jr. Music: Sofia the First: Royal Magic\"",
+      "url": "https://open.spotify.com/track/5ucu0vxmDOaimZ7XxXf2C2"
     },
     {
       "added_at": "2026-06-26 04:01:33",

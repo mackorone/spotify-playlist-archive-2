@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 906769,
+  "num_followers": 906977,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
         "name": "I Never Knew",
         "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "$MONEY",
-        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
         }
       ],
-      "duration_ms": 154898,
-      "name": "$MONEY",
-      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -727,6 +711,22 @@
       "duration_ms": 190000,
       "name": "Patigo",
       "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
+        "name": "$MONEY",
+        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 154898,
+      "name": "$MONEY",
+      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
+        "name": "Gotta Be Cool",
+        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "Gotta Be Cool",
+      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
         "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
         "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 180362,
       "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
       "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
-        "name": "Gotta Be Cool",
-        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
-      },
-      "artists": [
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        }
-      ],
-      "duration_ms": 231774,
-      "name": "Gotta Be Cool",
-      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -955,30 +955,6 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "Gets Like That (Jamie Jones Remix)",
-        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Gets Like That - Jamie Jones Remix",
-      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
         "name": "Holding You Back",
         "url": "https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT"
       },
@@ -1003,6 +979,46 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
+        "name": "Gets Like That (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Gets Like That - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
+        "name": "We Not Tired",
+        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "We Not Tired",
+      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
       },
@@ -1019,26 +1035,6 @@
       "duration_ms": 156000,
       "name": "Chica",
       "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
-        "name": "Even Angels Ghost",
-        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        },
-        {
-          "name": "Kindora",
-          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Even Angels Ghost",
-      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "We Not Tired",
-        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+        "name": "Even Angels Ghost",
+        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Kindora",
+          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
         }
       ],
-      "duration_ms": 172921,
-      "name": "We Not Tired",
-      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
+      "duration_ms": 262976,
+      "name": "Even Angels Ghost",
+      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "Me Sabe Bien",
-        "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
+        "name": "And When Love Speaks",
+        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
       },
       "artists": [
         {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 223124,
-      "name": "Me Sabe Bien",
-      "url": "https://open.spotify.com/track/0rKn7ZEDCE3rNIiQwfkO0i"
+      "duration_ms": 212177,
+      "name": "And When Love Speaks",
+      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "And When Love Speaks",
-        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
+        "name": "Me Sabe Bien",
+        "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
         }
       ],
-      "duration_ms": 212177,
-      "name": "And When Love Speaks",
-      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
+      "duration_ms": 223124,
+      "name": "Me Sabe Bien",
+      "url": "https://open.spotify.com/track/0rKn7ZEDCE3rNIiQwfkO0i"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -1703,6 +1703,22 @@
       "duration_ms": 236481,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -1763,22 +1779,6 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
-        "name": "Coastal Transmissions EP",
-        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "duration_ms": 220168,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
     },
     {
       "added_at": "2026-08-13 23:00:13",
@@ -1851,6 +1851,38 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
+        "name": "Coastal Transmissions EP",
+        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 220168,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
+    },
+    {
+      "added_at": "2026-08-13 23:00:13",
+      "album": {
         "name": "I See You Baby (feat. Gramma Funk) [DJ BORING Remix]",
         "url": "https://open.spotify.com/album/1bovzlu16XzLE6WbV2nHKS"
       },
@@ -1875,22 +1907,6 @@
     {
       "added_at": "2026-08-13 23:00:13",
       "album": {
-        "name": "Close 2 U",
-        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 129097,
-      "name": "Close 2 U",
-      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
         "name": "M\u00e1s Tiempo Vol. 2",
         "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 380625,
       "name": "The Whistle Tune",
       "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-08-13 23:00:13",
-      "album": {
-        "name": "Want To Know",
-        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Want To Know",
-      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },
     {
       "added_at": "2026-08-13 23:00:13",

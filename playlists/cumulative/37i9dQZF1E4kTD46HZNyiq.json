@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -5850,7 +5850,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 244503,
       "name": "Do You Really",
       "url": "https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00"
@@ -11024,10 +11024,28 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 228260,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
+    },
+    {
+      "album": {
+        "name": "i hope you know",
+        "url": "https://open.spotify.com/album/33zCP1Z4UuDnqkYBwSOmY3"
+      },
+      "artists": [
+        {
+          "name": "Troy Ogletree",
+          "url": "https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193216,
+      "name": "i hope you know",
+      "url": "https://open.spotify.com/track/3J32FbwHUIfjEWmIg31u76"
     },
     {
       "album": {
@@ -11442,7 +11460,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 266202,
       "name": "I Want You Close",
       "url": "https://open.spotify.com/track/1u55xtADWRwoOLzMZx0vTx"
@@ -11716,7 +11734,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -11940,7 +11958,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 296426,
       "name": "If Only for Tonight",
       "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
@@ -14718,7 +14736,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 233467,
       "name": "Magic",
       "url": "https://open.spotify.com/track/5Z4DxvV4ifNFpJIyvuZBcx"
@@ -14754,7 +14772,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 237272,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6Pij7wPMJHDgpaq4ooqoit"
@@ -18526,7 +18544,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 234545,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/2ZzQw84swNCgc4IEHS7leB"
@@ -18728,7 +18746,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 264672,
       "name": "Radio Wave",
       "url": "https://open.spotify.com/track/1sYjoqDQnZSM55boArF4w2"
@@ -19398,7 +19416,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Runaround",
       "url": "https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH"
@@ -20866,7 +20884,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 212416,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/3I3cztm9B7DIryjEegY1AY"
@@ -20920,7 +20938,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 228080,
       "name": "Soundtrack",
       "url": "https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK"
@@ -21374,7 +21392,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/1g4iJDDM1tBIE0cIVVkscX"
@@ -25660,7 +25678,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 222750,
       "name": "With You",
       "url": "https://open.spotify.com/track/1eZfQxzuj9HzQ0SrPJAhOy"

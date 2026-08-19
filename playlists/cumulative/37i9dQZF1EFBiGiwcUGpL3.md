@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 7 hr 37 min
+115 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 | 2024-06-07 |  |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2024-06-07 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/16iuL2edjRJUyChRp8lkxN) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [The Story So Far](https://open.spotify.com/album/4yaWoYzuaNWgshF1lvjs2F) | 4:11 | 2024-06-07 | 2026-02-13 |
-| [Once In A Lifetime](https://open.spotify.com/track/29cd2pFF9ltQ5viRWGlbR7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:11 | 2026-02-12 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/29cd2pFF9ltQ5viRWGlbR7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:11 | 2026-02-12 | 2026-08-19 |
+| [Once In A Lifetime](https://open.spotify.com/track/2MwbEvnTm0klMXjto8u3ak) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Once In A Lifetime](https://open.spotify.com/album/2K5zG9t2ZtHoZE8IU6Xgrg) | 4:16 | 2026-08-18 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/10TLpTjjLKcpBN6kayS0mI) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 5:53 | 2025-08-23 | 2025-10-04 |
 | [One Day Longer](https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Songwriter](https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48) | 4:07 | 2025-11-25 |  |
 | [Out On My Own](https://open.spotify.com/track/3vis2zgOYKGs9nOjwssXF9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:56 | 2024-06-07 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2589449,
+  "num_followers": 2589404,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -274,10 +274,6 @@
         {
           "name": "CYRIL",
           "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
         }
       ],
       "duration_ms": 151875,
@@ -887,6 +883,22 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -903,22 +915,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1227,8 +1223,8 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Don't Wanna Go Home (feat. Henry Camamile)",
-        "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
       },
       "artists": [
         {
@@ -1236,13 +1232,13 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Henry Camamile",
-          "url": "https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 157717,
-      "name": "Don't Wanna Go Home (feat. Henry Camamile)",
-      "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
+      "duration_ms": 207187,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1291,6 +1287,22 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
         "name": "Like A Child",
         "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
       },
@@ -1315,24 +1327,8 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
-        "name": "7 Days",
-        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
+        "name": "Don't Wanna Go Home (feat. Henry Camamile)",
+        "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
       },
       "artists": [
         {
@@ -1340,13 +1336,13 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Henry Camamile",
+          "url": "https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB"
         }
       ],
-      "duration_ms": 207187,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
+      "duration_ms": 157717,
+      "name": "Don't Wanna Go Home (feat. Henry Camamile)",
+      "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1371,6 +1367,26 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
+        "name": "Other Dimension",
+        "url": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "duration_ms": 204462,
+      "name": "Other Dimension",
+      "url": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1483,6 +1499,22 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
         "name": "Roses (feat. Richard Judge)",
         "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
       },
@@ -1503,22 +1535,6 @@
       "duration_ms": 164307,
       "name": "Roses (feat. Richard Judge)",
       "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1611,26 +1627,6 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Other Dimension",
-        "url": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        }
-      ],
-      "duration_ms": 204462,
-      "name": "Other Dimension",
-      "url": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
         "name": "NEWORLD II",
         "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
@@ -1651,26 +1647,6 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
         "name": "Torture of the Heart",
         "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
       },
@@ -1687,6 +1663,26 @@
       "duration_ms": 202248,
       "name": "Torture of the Heart",
       "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1727,30 +1723,6 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "On My Own (Feat. Darla Jade)",
-        "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
-        }
-      ],
-      "duration_ms": 220439,
-      "name": "On My Own (Feat. Darla Jade)",
-      "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/2NnCa9OR5WBlOFU9JIPnpn"
       },
@@ -1775,18 +1747,26 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+        "name": "On My Own (Feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
       },
       "artists": [
         {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
         }
       ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+      "duration_ms": 220439,
+      "name": "On My Own (Feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1803,6 +1783,22 @@
       "duration_ms": 156428,
       "name": "Electrify",
       "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1831,6 +1827,22 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
+        "name": "Can't Stop Loving You",
+        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
         "name": "Gravity (feat. SACHA)",
         "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
       },
@@ -1855,18 +1867,22 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Can't Stop Loving You",
-        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
       },
       "artists": [
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
         }
       ],
-      "duration_ms": 205106,
-      "name": "Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -1891,26 +1907,6 @@
       "duration_ms": 163555,
       "name": "Don't Want Your Love - R\u00d8Z Remix",
       "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
-        "name": "Coming In Heavy",
-        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Coming In Heavy",
-      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-08-14 04:00:29",
@@ -2323,6 +2319,26 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
+        "name": "Short Stop",
+        "url": "https://open.spotify.com/album/0Q0dqm7mFU4UhTveiWrRXP"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 225584,
+      "name": "Short Stop",
+      "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
       },
@@ -2447,26 +2463,6 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Short Stop",
-        "url": "https://open.spotify.com/album/0Q0dqm7mFU4UhTveiWrRXP"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 225584,
-      "name": "Short Stop",
-      "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
       },
@@ -2543,22 +2539,6 @@
     {
       "added_at": "2026-08-14 04:00:29",
       "album": {
-        "name": "Picasso",
-        "url": "https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 260039,
-      "name": "Picasso",
-      "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
-    },
-    {
-      "added_at": "2026-08-14 04:00:29",
-      "album": {
         "name": "Listen To Me",
         "url": "https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8"
       },
@@ -2571,6 +2551,22 @@
       "duration_ms": 107076,
       "name": "Listen To Me",
       "url": "https://open.spotify.com/track/1nPlHQEL4IeM1mDGjseodk"
+    },
+    {
+      "added_at": "2026-08-14 04:00:29",
+      "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 260039,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
     },
     {
       "added_at": "2026-08-14 04:00:29",

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Janek Bidiuk
 
-947 songs - 1 day 22 hr 12 min
+948 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
 | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 | 2026-08-11 |
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
+| [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 | 2026-08-13 |  |
 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 | 2025-04-24 | 2025-08-20 |
 | [Kamień z serca](https://open.spotify.com/track/7zbQXoTGpZWpTekjTxfv7L) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Kamień z serca](https://open.spotify.com/album/748zCQqQwaa18ZqOExNGon) | 3:52 | 2024-06-28 | 2024-08-02 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-28 | 2024-10-26 |
@@ -915,7 +916,7 @@
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-06-28 | 2024-09-20 |
 | [Zabij](https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Zabij](https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx) | 3:46 | 2025-09-30 | 2025-11-29 |
 | [ZABIJE JĄ](https://open.spotify.com/track/2o49vdLmbUvqWtGGsjRa8o) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl), [Barto Katt](https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W) | [ZABIJE JĄ](https://open.spotify.com/album/1bGyot2UMe8tGfRZdwlXNO) | 2:03 | 2025-12-05 | 2025-12-12 |
-| [ZACHODY](https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ZACHODY](https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi) | 2:39 | 2026-07-16 |  |
+| [ZACHODY](https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ZACHODY](https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi) | 2:39 | 2026-07-16 | 2026-08-19 |
 | [zachody i wschody](https://open.spotify.com/track/4t3zMkgWZdmAcHqIr2coxU) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [zachody i wschody](https://open.spotify.com/album/0N4hQMNPZtnctuGHgXr2zB) | 2:08 | 2025-06-05 | 2025-07-11 |
 | [Zachód Słońca](https://open.spotify.com/track/2D7qsWBWiOED4L5xeyhXZB) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [Zachód Słońca](https://open.spotify.com/album/6DZC4yhbLTDu5xyDfH6FWe) | 2:28 | 2024-06-28 | 2024-09-14 |
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-08-30 | 2024-11-08 |

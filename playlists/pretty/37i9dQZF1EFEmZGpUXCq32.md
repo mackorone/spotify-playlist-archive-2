@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 2 | [24](https://open.spotify.com/track/68RhNM8ehkarnEKnCkqlsp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:17 |
 | 3 | [RATHER BE](https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:51 |
 | 4 | [G3 N15](https://open.spotify.com/track/2MismgPSA3HxJUEV2pEl25) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:12 |
-| 5 | [KEEPER](https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:42 |
+| 5 | [KEEPER \(feat\. Teddy Swims\)](https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:43 |
 | 6 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 7 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |
 | 8 | [BACKUP PLAN](https://open.spotify.com/track/4ZHRQhbfmZ2wHEqCICm3bs) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:10 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 88 | [Dreaming Of](https://open.spotify.com/track/46l1Wgtbzy74JDQ4Wkylwq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:52 |
 | 89 | [Get Lifted](https://open.spotify.com/track/2YNj851f4yznA4FnEFHMTE) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 3:25 |
 | 90 | [Prayer](https://open.spotify.com/track/1ctOqrmjxmJTy8nZhJxFq5) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Bishop Carlton Pearson](https://open.spotify.com/artist/6rXCRf0IiimPocIkaVPaSE) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 1:56 |
-| 91 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
-| 92 | [Gotcha Now](https://open.spotify.com/track/2kxdAwQFiWie1WfhgJWCvX) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
+| 91 | [Gotcha Now](https://open.spotify.com/track/2kxdAwQFiWie1WfhgJWCvX) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
+| 92 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
 | 93 | [Shoutin Music](https://open.spotify.com/track/3zvHWHUDaEu8Z8jv1OIZHT) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 2:26 |
 | 94 | [Go Down](https://open.spotify.com/track/6QWerSSM3jBxJpw3k2gd3w) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:21 |
 | 95 | [Spook](https://open.spotify.com/track/7umDQBZF1qudei5WqO0Ygj) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c), [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL) | [Spook](https://open.spotify.com/album/347qJZdcoABaKLoC5hnGMv) | 4:52 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 120 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
 | 121 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcZ2RAAAAACRjU9anFUI6IvU6ppyEbTZ`
+Snapshot ID: `AcZ75AAAAAAkksUF6ToAvWM5J3GihtJi`

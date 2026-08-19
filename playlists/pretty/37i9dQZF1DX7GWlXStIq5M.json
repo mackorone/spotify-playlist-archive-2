@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Laura Schadeck",
-  "num_followers": 357736,
+  "num_followers": 357697,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
-        "name": "veneza",
-        "url": "https://open.spotify.com/album/0KDr7i9QxsKgq9n5zd0AXg"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jr",
-          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "veneza",
-      "url": "https://open.spotify.com/track/52TmF4X55FgLoGNoclyxre"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
+        "name": "veneza",
+        "url": "https://open.spotify.com/album/0KDr7i9QxsKgq9n5zd0AXg"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "veneza",
+      "url": "https://open.spotify.com/track/52TmF4X55FgLoGNoclyxre"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
+        "name": "juro",
+        "url": "https://open.spotify.com/album/15DyIDkY6Rdi7i1QzTUa4H"
+      },
+      "artists": [
+        {
+          "name": "UNNA X",
+          "url": "https://open.spotify.com/artist/0WNiUQbsRbS1Q5UXGAtN8V"
+        }
+      ],
+      "duration_ms": 195477,
+      "name": "juro",
+      "url": "https://open.spotify.com/track/0SECdKc6JpbLwsw5mRbqOU"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
-        "name": "juro",
-        "url": "https://open.spotify.com/album/15DyIDkY6Rdi7i1QzTUa4H"
-      },
-      "artists": [
-        {
-          "name": "UNNA X",
-          "url": "https://open.spotify.com/artist/0WNiUQbsRbS1Q5UXGAtN8V"
-        }
-      ],
-      "duration_ms": 195477,
-      "name": "juro",
-      "url": "https://open.spotify.com/track/0SECdKc6JpbLwsw5mRbqOU"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
         "name": "MOSAICO",
         "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 156694,
       "name": "TALVEZ",
       "url": "https://open.spotify.com/track/4BuvuVojKBW8jLiTdLStkY"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
+        "name": "COVARDIA",
+        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        }
+      ],
+      "duration_ms": 161088,
+      "name": "COVARDIA",
+      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 164833,
       "name": "Vida de Rei, Vida de C\u00e3o",
       "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
-        "name": "COVARDIA",
-        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
-      },
-      "artists": [
-        {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        }
-      ],
-      "duration_ms": 161088,
-      "name": "COVARDIA",
-      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
         "name": "Mais Que Isso",
         "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
-      },
-      "artists": [
-        {
-          "name": "Lorenza Pozza",
-          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
         "name": "Tento",
         "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
       },
       "artists": [
         {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+          "name": "Lorenza Pozza",
+          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+      "duration_ms": 220750,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -867,6 +867,22 @@
       "duration_ms": 191304,
       "name": "Emocionalmente Indispon\u00edvel",
       "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -923,22 +939,6 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
-        "name": "Eu N\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Eu N\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
         "name": "Te Amar Me D\u00e1 Asas",
         "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 195124,
       "name": "Te Amar Me D\u00e1 Asas",
       "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
+        "name": "Eu N\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Eu N\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
     },
     {
       "added_at": "2026-08-17 13:35:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-17 13:35:19",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
-    },
-    {
-      "added_at": "2026-08-17 13:35:19",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+    },
+    {
+      "added_at": "2026-08-17 13:35:19",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     },
     {
       "added_at": "2026-08-17 13:35:19",

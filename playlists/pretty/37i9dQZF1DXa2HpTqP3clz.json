@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168505,
+  "num_followers": 168509,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Nowhere Next",
         "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "What Did the Blackbird Say to the Crow",
         "url": "https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 148889,
       "name": "Rain Crow",
       "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Granite Mills",
-        "url": "https://open.spotify.com/album/4mEWJk9xqbyMMN1btlIGFM"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Granite Mills",
-      "url": "https://open.spotify.com/track/3MiSYmtNM9z7SIsNFLuSGN"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -659,6 +639,26 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Granite Mills",
+        "url": "https://open.spotify.com/album/4mEWJk9xqbyMMN1btlIGFM"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Granite Mills",
+      "url": "https://open.spotify.com/track/3MiSYmtNM9z7SIsNFLuSGN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Hubbardville Store",
-        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
-      },
-      "artists": [
-        {
-          "name": "Lost Dog Street Band",
-          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Hubbardville Store",
-      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Hubbardville Store",
+        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
+      },
+      "artists": [
+        {
+          "name": "Lost Dog Street Band",
+          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Hubbardville Store",
+      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 207000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -823,22 +823,6 @@
       "duration_ms": 158480,
       "name": "Will You Ever Be Mine",
       "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -883,18 +867,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -911,6 +895,22 @@
       "duration_ms": 189887,
       "name": "Wanderers Like Me",
       "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Hillside",
         "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
       "artists": [
         {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Della Jane's Heart",
         "url": "https://open.spotify.com/album/0qyVNOJ46PCOTgqwSy6HQT"
       },
@@ -1211,42 +1211,6 @@
       "duration_ms": 170093,
       "name": "Possum Up a 'Simmon Tree",
       "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Come Out Of My Blues (feat. Tim O'Brien)",
-        "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Come Out Of My Blues (feat. Tim O'Brien)",
-      "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1267,6 +1231,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 214306,
       "name": "Last Road Going Home",
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Come Out Of My Blues (feat. Tim O'Brien)",
+        "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Come Out Of My Blues (feat. Tim O'Brien)",
+      "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Lost John",
-        "url": "https://open.spotify.com/album/0ZFN0BBsuuQNin3bD4elvx"
+        "name": "Dovetail Cabin",
+        "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
       "artists": [
         {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        },
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
         }
       ],
-      "duration_ms": 154475,
-      "name": "Lost John",
-      "url": "https://open.spotify.com/track/5ydOwOiedCOttOb6ur4rNj"
+      "duration_ms": 172533,
+      "name": "Dovetail Cabin",
+      "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
     },
     {
       "added_at": "2026-08-14 04:01:26",

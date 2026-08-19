@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239174,
+  "num_followers": 239210,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABlfgWx6DsaeCKzGmDBblmX",
+  "snapshot_id": "aoJPAAAAAACi+w6c5ShToLjcgvTjGpAT",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vasito Rojo",
+        "url": "https://open.spotify.com/album/16vZdfkoygFhCkYeB110nc"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 193835,
+      "name": "Vasito Rojo",
+      "url": "https://open.spotify.com/track/1No7C7WcgX0xMM6qBKJMmT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "El Movimiento Alterado",
-          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Carteles Unidos",
-      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Zapopan (En Vivo)",
         "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
@@ -875,18 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         }
       ],
-      "duration_ms": 154357,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     }
   ],
   "unique_name": "This Is El Komander",

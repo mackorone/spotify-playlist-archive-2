@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Maggie Rose",
-  "num_followers": 427549,
+  "num_followers": 427599,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 235427,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
         "name": "In the Hour of Chaos",
         "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 250520,
       "name": "Searchlight (ft. Kashus Culpepper)",
       "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 235427,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Sushi and Coca-Cola",
-        "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 157414,
-      "name": "Sushi and Coca-Cola",
-      "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Sushi and Coca-Cola",
+        "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 157414,
+      "name": "Sushi and Coca-Cola",
+      "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Fire Drill",
         "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 222793,
       "name": "Fire Drill",
       "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Lonely Girl",
         "url": "https://open.spotify.com/album/6gKOvK6vpMO33AtX0XdsGv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177064,
       "name": "Lonely Girl",
       "url": "https://open.spotify.com/track/3XMf0EMpPQUjINX6KR5ZjI"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
         "name": "It's Been Too Long (Since I've Loved Someone)",
         "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "A Real Fine Mess (Deluxe Version)",
         "url": "https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Weekend Lover & Used To It",
-        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Aviary: Act 1",
         "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 222937,
       "name": "Slipping",
       "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Weekend Lover & Used To It",
+        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Grace Love and the True Loves",
-        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
       },
       "artists": [
         {
-          "name": "Grace Love and the True Loves",
-          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Nobody Sweeter",
-      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+        "name": "Grace Love and the True Loves",
+        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
       },
       "artists": [
         {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+          "name": "Grace Love and the True Loves",
+          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
         }
       ],
-      "duration_ms": 246453,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
+      "duration_ms": 183266,
+      "name": "Nobody Sweeter",
+      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5uVf4u9MmFPupC5OWAIO6c"
-      },
-      "artists": [
-        {
-          "name": "Bleau Otis",
-          "url": "https://open.spotify.com/artist/2pT5IVYUOWdwhtlNTPAmuM"
-        }
-      ],
-      "duration_ms": 236117,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2Sb97oqsd2gqUJ0lS24FAe"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Here You Come Again (with Max Abrams)",
         "url": "https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5uVf4u9MmFPupC5OWAIO6c"
       },
       "artists": [
         {
-          "name": "Balto",
-          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+          "name": "Bleau Otis",
+          "url": "https://open.spotify.com/artist/2pT5IVYUOWdwhtlNTPAmuM"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Lost on the Young",
-      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
+      "duration_ms": 236117,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2Sb97oqsd2gqUJ0lS24FAe"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1575,6 +1559,22 @@
       "duration_ms": 231729,
       "name": "Blind Ambition",
       "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+      },
+      "artists": [
+        {
+          "name": "Balto",
+          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Lost on the Young",
+      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
         "name": "Theosophy",
         "url": "https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 225098,
       "name": "Hang My Head in Shame",
       "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
-        "name": "Waterfallin'",
-        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Waterfallin'",
-      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
     }
   ],
   "unique_name": "the new retro",

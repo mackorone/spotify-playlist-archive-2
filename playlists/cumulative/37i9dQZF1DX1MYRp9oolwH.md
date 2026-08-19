@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Srinivasa Mangapuram
+> Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
-455 songs - 1 day 5 hr 17 min
+456 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Chikiri Chikiri \(From "Peddi"\) \[TELUGU\]](https://open.spotify.com/track/41GTIflnHCWqHgYq7israx) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Balaji](https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH) | [Chikiri Chikiri \(From "Peddi"\) \[TELUGU\]](https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO) | 4:33 | 2025-11-07 | 2026-05-12 |
 | [Chilaka \(From "Thellakaagitham"\)](https://open.spotify.com/track/0fF2INV3W1UJALLC2Ctif7) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Chilaka \(From "Thellakaagitham"\)](https://open.spotify.com/album/3RxaWICAznFhAdPe11zkPe) | 4:45 | 2026-06-30 |  |
 | [Chingari \(From "VISA \- Vintara Saradaga"\)](https://open.spotify.com/track/4pdqNcjVz9sPjBg1mJY0rS) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Sanare](https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl) | [Chingari \(From "VISA \- Vintara Saradaga"\)](https://open.spotify.com/album/4vllh0l0jwoA9x15BLZHBz) | 3:53 | 2026-07-02 |  |
+| [Chinni Chinni \(From "Itllu Arjuna"\)](https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Chinni Chinni \(From "Itllu Arjuna"\)](https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg) | 4:10 | 2026-08-18 |  |
 | [Chinni Gundelo \(From "Andhra King Taluka"\)](https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Chinni Gundelo \(From "Andhra King Taluka"\)](https://open.spotify.com/album/2YsJF3plTQyCecg2NwFlnW) | 2:54 | 2025-11-11 | 2026-05-12 |
 | [Chinnodi Gundello \(From "Sri Chidambaram"\)](https://open.spotify.com/track/36yu7zpBRBtY33441QiikD) | [Chandra Sekar](https://open.spotify.com/artist/3mFC6ufwf91qqGEiJOKLcT), [Ravi Cherukuri](https://open.spotify.com/artist/1CAk9px2kznI0ashY7duO7), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Koti Mamidala](https://open.spotify.com/artist/7MoO67dvdRjbNRawzjG1BK) | [Chinnodi Gundello \(From "Sri Chidambaram"\)](https://open.spotify.com/album/20iqW59Zd1XjLW9kMquD4R) | 3:45 | 2026-03-10 | 2026-07-07 |
 | [Chinuku Sadiga Cheragaa \(From "Gulliver"\)](https://open.spotify.com/track/01EE3vxbrySwrrdDRJVJuq) | [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Ganti Murali](https://open.spotify.com/artist/41ZNefZcD3ZUn0GPVd4W3Z), [Raja Tabla](https://open.spotify.com/artist/7BgjzIGzycjLIjq06cHLnv) | [Chinuku Sadiga Cheragaa \(From "Gulliver"\)](https://open.spotify.com/album/7waddWXA3LTJcKFguDDKxS) | 4:33 | 2026-06-08 |  |

@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Disney Princess Ambient: Chimes",
+        "url": "https://open.spotify.com/album/5sB6jWigJm4t3oLnkz4RCp"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        },
+        {
+          "name": "Lucky West",
+          "url": "https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225630,
+      "name": "Beauty and the Beast (Chimes, Babbling Brook)",
+      "url": "https://open.spotify.com/track/3j264SFILDzj8yPQFnugLX"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
@@ -4634,7 +4656,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 173960,
       "name": "Waiting On A Miracle",
       "url": "https://open.spotify.com/track/7MiAxVXJ0VQHXxUZVZG8bJ"
@@ -4656,6 +4678,28 @@
       "duration_ms": 161813,
       "name": "Waiting On A Miracle - Instrumental",
       "url": "https://open.spotify.com/track/59Oxnmf5QDvKmUlgeC7j8S"
+    },
+    {
+      "album": {
+        "name": "Disney Princess Ambient: Chimes",
+        "url": "https://open.spotify.com/album/5sB6jWigJm4t3oLnkz4RCp"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        },
+        {
+          "name": "Lucky West",
+          "url": "https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271633,
+      "name": "Waiting on a Wish (Chimes, Rain)",
+      "url": "https://open.spotify.com/track/08cfaTZv3x6ZRynTITrny8"
     },
     {
       "album": {
@@ -5436,7 +5480,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 126655,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/5ZEXmUHVvu8DHp0QWq0EAl"

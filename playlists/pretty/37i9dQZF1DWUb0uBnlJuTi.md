@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,804 likes - 200 songs - 15 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,847 likes - 200 songs - 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 16 | [Pyramid of the Sun](https://open.spotify.com/track/26jQhSZWeMXDxhuVjtQnla) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [Pyramid of the Sun](https://open.spotify.com/album/2mAjo1YOC5nmZjujlk6QmX) | 4:31 |
 | 17 | [Ventura](https://open.spotify.com/track/6Te6TByygnONS4JyJC0ruN) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Ventura](https://open.spotify.com/album/2DaMTB2MtDuRWIb2WeLedU) | 2:28 |
 | 18 | [It's Your World \- Single Version](https://open.spotify.com/track/0iRopWFR87lMESKFtcs3Md) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [It's Your World](https://open.spotify.com/album/6G9tEJRppAR7FQ3PVAwxj3) | 5:54 |
-| 19 | [African Beauty](https://open.spotify.com/track/7oYw3s3dPCP38GF9p9kSwo) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Cobra Queen](https://open.spotify.com/album/1LMAktT0V8jfUufB1uPPsS) | 3:03 |
+| 19 | [African Beauty](https://open.spotify.com/track/7oYw3s3dPCP38GF9p9kSwo) | [Funk Jazz Soul](https://open.spotify.com/artist/2Rljbc6VJKnTmMVxsc6hPE) | [Cobra Queen](https://open.spotify.com/album/1LMAktT0V8jfUufB1uPPsS) | 3:03 |
 | 20 | [Chester](https://open.spotify.com/track/5dhf8TmyCUZWISLKd4BxUT) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Ari Teitel](https://open.spotify.com/artist/5BslPFggi05SizO8Ewwg03), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Chester](https://open.spotify.com/album/0hBOyE7mLZx1KZr4Q33E0C) | 2:08 |
 | 21 | [ee](https://open.spotify.com/track/6mVr0WhXvMdP5C4h1m2aac) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [OFF BEAT](https://open.spotify.com/album/2DYou3lm2fgjgP5mk08nKN) | 2:04 |
 | 22 | [Life from Below](https://open.spotify.com/track/7qhBrciO8EiTeSJ58T61OP) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Life from Below](https://open.spotify.com/album/5y0MDB62cM5fpfqVIHKbUI) | 3:42 |

@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Daichi Yamamoto
 
-611 songs - 1 day 19 hr 49 min
+614 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Endgame 3404](https://open.spotify.com/track/233OyZq9RYTq33crv2pcZN) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Endgame 3404](https://open.spotify.com/album/2EQ0C32Gjv90BXPNZUQc41) | 4:04 | 2025-09-18 | 2026-02-28 |
 | [Endless Gray](https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 3:40 | 2024-11-14 | 2025-03-07 |
 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 | 2026-07-16 |  |
+| [Erica](https://open.spotify.com/track/2Z9pLISmDkBYca5vV3ZGQe) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Erica](https://open.spotify.com/album/2za32h1tOcCNzlTqpMiUXB) | 5:08 | 2026-08-18 |  |
 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Itay Simhovich](https://open.spotify.com/artist/7aMuvoIBnkIiZFIPjSHRju) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 | 2026-05-26 |  |
 | [Eternal Orbit](https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Eternal Orbit](https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD) | 4:47 | 2026-01-22 |  |
 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 | 2025-09-11 | 2026-03-13 |
@@ -283,6 +284,7 @@
 | [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/track/5BQzjZCF41jwSoZUDB74dw) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/album/5lpMbruWkd3p3YAXjZJSjh) | 2:53 | 2024-08-08 | 2024-11-08 |
 | [Knock on Your Door](https://open.spotify.com/track/2UKqtkRB0uoplAMNTGr6yW) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Big State](https://open.spotify.com/artist/3XdqfC7tTSpGu81PKfsQmv) | [Knock on Your Door](https://open.spotify.com/album/1rcPyrK3zdN0rRUlwtvQcN) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Komorebi](https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Komorebi](https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5) | 5:41 | 2025-01-24 | 2025-06-13 |
+| [kopfkino](https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [kopfkino](https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN) | 3:03 | 2026-08-18 |  |
 | [Kowree Sambazzi](https://open.spotify.com/track/39WZQw0C5qQ9SEw2OGyMIT) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Bembe Segue](https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4) | [KJM COVERS Kyoto Jazz Massive 30th Anniversary Compilation](https://open.spotify.com/album/64tGM8VnNcS2EMWLdmtSbI) | 6:06 | 2024-12-05 | 2025-06-06 |
 | [Lady](https://open.spotify.com/track/0mgWABjocA4Zm3sz0oyr3v) | [Kumail](https://open.spotify.com/artist/2JYgvhoagKBhBYkpD0gIKj) | [Mudbrown](https://open.spotify.com/album/4uwncsJAPlSJ34JNJGbDRK) | 3:12 | 2026-04-09 |  |
 | [Last Laugh](https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Chaos](https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ) | 3:08 | 2024-06-27 | 2024-08-16 |
@@ -417,6 +419,7 @@
 | [Ra](https://open.spotify.com/track/65QqzOBCUjxbAV1fu1XVJv) | [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Ra](https://open.spotify.com/album/6WltOBGyDNg24XAZP9IUbo) | 5:24 | 2024-12-13 | 2025-01-25 |
 | [Raccoon](https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Raccoon](https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q) | 3:33 | 2026-04-16 |  |
 | [Rainbow](https://open.spotify.com/track/528pHUtcTjp4D3UxouB4CE) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Rainbow](https://open.spotify.com/album/56Vm4sUP1hRYDqBA7K0hGv) | 3:45 | 2026-06-19 |  |
+| [Rainy Harbor](https://open.spotify.com/track/4PFc9pO2CZz8oKDxk8v40c) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [SHIMONAKA](https://open.spotify.com/album/5pcwfegc4RVnoWDV5T8MUa) | 2:50 | 2026-08-18 |  |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-06-27 | 2024-09-20 |
 | [REBIRTH OF SLICK \(COOL LIKE DAT\)](https://open.spotify.com/track/2mcw3TBOZLMJ5DveyfcA3k) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [REBIRTH OF SLICK \(COOL LIKE DAT\)](https://open.spotify.com/album/6AZsAsjSYahsVDKGMcgiYN) | 3:04 | 2025-07-10 | 2025-09-12 |
 | [red in tokyo](https://open.spotify.com/track/4ENpPwWJZlmLwFO1XlfOjE) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [red in tokyo](https://open.spotify.com/album/59Eqc0zSSeKAr3pbvftIAw) | 2:36 | 2025-09-18 | 2026-03-13 |

@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 204853,
       "name": "Awakened",
       "url": "https://open.spotify.com/track/40C9roqtfJTPaMsmHKXKpr"
@@ -6400,7 +6400,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 202900,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0Y8PoXk2QZ0hVKK5pAHms7"
@@ -29879,6 +29879,28 @@
     },
     {
       "album": {
+        "name": "\u300c\u306d\u3048\u3001\u8a00\u3063\u3061\u3083\u3046\u3088\u3002\u300d",
+        "url": "https://open.spotify.com/album/14kMFgfCFcoQBzPEwjiv6N"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        },
+        {
+          "name": "\u30a2\u30aa\u30ef\u30a4\u30d5\u30a1\u30a4",
+          "url": "https://open.spotify.com/artist/26GOjmK4PXXHaRArHl61IN"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236946,
+      "name": "\u300c\u306d\u3048\u3001\u8a00\u3063\u3061\u3083\u3046\u3088\u3002\u300d",
+      "url": "https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9"
+    },
+    {
+      "album": {
         "name": "\u300c\u50d5\u306f...\u300d",
         "url": "https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s"
       },
@@ -30990,6 +31012,24 @@
       "duration_ms": 229573,
       "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
       "url": "https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ"
+    },
+    {
+      "album": {
+        "name": "\u300e\u6620\u753b\u3061\u3044\u304b\u308f \u4eba\u9b5a\u306e\u5cf6\u306e\u3072\u307f\u3064\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Part1",
+        "url": "https://open.spotify.com/album/7xx5V6cnXjC9CNcpbdBQpm"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30c1\u30ef\u30ec\uff08CV.\u7530\u4e2d\u8aa0\u4eba\uff09",
+          "url": "https://open.spotify.com/artist/22WLGArDVTIq1DKE6ScSP5"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180943,
+      "name": "\u304f\u3064\u305a\u308c",
+      "url": "https://open.spotify.com/track/7GKnUaCSps9im9sZRUbM66"
     },
     {
       "album": {
@@ -33922,6 +33962,24 @@
       "duration_ms": 211184,
       "name": "\u30a4\u30d3\u30c4\u30ca\u30b3\u30c8\u30d0",
       "url": "https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u00d7 BOS - \u4e3b\u984c\u6b4c\u305f\u3061\u306e\u5bb4 -",
+        "url": "https://open.spotify.com/album/6AeX9J38dxprHjWNInX1RI"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5LRQlveTUJIPpJdhEwUW21"
     },
     {
       "album": {
@@ -42052,7 +42110,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 71552,
       "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089 (\u30cf\u30c1\u30ef\u30ecver.)",
       "url": "https://open.spotify.com/track/7gSGM3nvGQyIcc8Dixendy"

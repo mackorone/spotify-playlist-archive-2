@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 154357,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
@@ -2126,6 +2126,28 @@
       "duration_ms": 173125,
       "name": "Una Noche En Culiac\u00e1n",
       "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
+    },
+    {
+      "album": {
+        "name": "Vasito Rojo",
+        "url": "https://open.spotify.com/album/16vZdfkoygFhCkYeB110nc"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193835,
+      "name": "Vasito Rojo",
+      "url": "https://open.spotify.com/track/1No7C7WcgX0xMM6qBKJMmT"
     },
     {
       "album": {

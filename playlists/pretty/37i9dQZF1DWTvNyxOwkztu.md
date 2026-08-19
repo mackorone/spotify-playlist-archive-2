@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,010,191 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010,135 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 36 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
 | 37 | [Oro \(feat\. Sofiane Pamart\)](https://open.spotify.com/track/58ip4yjN2Ho65FQQ0hmJAc) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Oro \(feat\. Sofiane Pamart\)](https://open.spotify.com/album/4GGzMyM3MeJk4iFN3f4woK) | 2:45 |
 | 38 | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD) | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/album/19z4cBAVhTPI1TwFkDrTSU) | 2:24 |
-| 39 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 |
-| 40 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 |
+| 39 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 |
+| 40 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 |
 | 41 | [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 |
 | 42 | [The Lovers](https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [The Lovers](https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11) | 3:24 |
 | 43 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 97 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
 | 98 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
 | 99 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 |
-| 100 | [Trouble Symphony](https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Trouble Symphony](https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos) | 3:56 |
+| 100 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
 
 Snapshot ID: `AAAAAIJYrEBDEZvL31IGOUq+S0E7B/Du`

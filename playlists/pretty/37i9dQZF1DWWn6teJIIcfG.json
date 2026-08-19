@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223184,
+  "num_followers": 223188,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 237600,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
+        "name": "The Sound Of Snow",
+        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 120493,
       "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
       "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
-        "name": "The Sound Of Snow",
-        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "The Sound of Snow",
-      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -1355,6 +1355,34 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
+        "name": "Mozart: Piano Concerto No. 24 in C Minor \u2014 Beethoven: Piano Concerto No. 3 in C Minor; 32 Variations in C Minor",
+        "url": "https://open.spotify.com/album/1H2f1NcNMFQm9jxpQiAn2x"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Rafal Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        },
+        {
+          "name": "Dresdner Philharmonie",
+          "url": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        }
+      ],
+      "duration_ms": 536493,
+      "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
+      "url": "https://open.spotify.com/track/7HctY4t430gXK358KQDruZ"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
         "name": "Mozart: Piano Concertos Nos. 23 & 14",
         "url": "https://open.spotify.com/album/0cELjDo3vmobZZ1GNexBOB"
       },
@@ -1407,30 +1435,6 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
         "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
         "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
       },
@@ -1455,6 +1459,30 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -1495,34 +1523,6 @@
       "duration_ms": 110583,
       "name": "Dancing Michelangelo - Andante Piano Sessions",
       "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
-        "name": "Mozart: Piano Concerto No. 24 in C Minor \u2014 Beethoven: Piano Concerto No. 3 in C Minor; 32 Variations in C Minor",
-        "url": "https://open.spotify.com/album/1H2f1NcNMFQm9jxpQiAn2x"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Rafal Blechacz",
-          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
-        },
-        {
-          "name": "Dresdner Philharmonie",
-          "url": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        }
-      ],
-      "duration_ms": 536493,
-      "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
-      "url": "https://open.spotify.com/track/7HctY4t430gXK358KQDruZ"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
         "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
         "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 106320,
       "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
       "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
-        "name": "Chordal Drift",
-        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
-      },
-      "artists": [
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        },
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 182965,
-      "name": "Chordal Drift",
-      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
         "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
         "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 221400,
       "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
       "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
+        "name": "Chordal Drift",
+        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
+      },
+      "artists": [
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        },
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 182965,
+      "name": "Chordal Drift",
+      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
         "name": "Barbella: Mandolin Concerto in D Major: II. Andantino",
         "url": "https://open.spotify.com/album/3Hv6HfQgtLiNwpyuB7GuIv"
       },
@@ -2131,30 +2111,6 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
-        "name": "Tchaikovsky: Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
-        "url": "https://open.spotify.com/album/0RTnFw9279oDwm89sM8o0v"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Anne-Sophie Mutter",
-          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
-        },
-        {
-          "name": "Lambert Orkis",
-          "url": "https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
-      "url": "https://open.spotify.com/track/3LRRy5Afbkhp56QQnDPrff"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
         "name": "Telemann Edition, Vol. 1",
         "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
       },
@@ -2179,6 +2135,26 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
         "name": "Carve the Runes Then Be Content With Silence",
         "url": "https://open.spotify.com/album/1GhkRKKCDDDi5iVrWXybbd"
       },
@@ -2191,6 +2167,30 @@
       "duration_ms": 265665,
       "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
       "url": "https://open.spotify.com/track/6uTEe5tHsfdbFMN1uHe31k"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
+        "name": "Tchaikovsky: Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
+        "url": "https://open.spotify.com/album/0RTnFw9279oDwm89sM8o0v"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Lambert Orkis",
+          "url": "https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
+      "url": "https://open.spotify.com/track/3LRRy5Afbkhp56QQnDPrff"
     },
     {
       "added_at": "2026-08-14 04:00:55",
@@ -2347,6 +2347,26 @@
     {
       "added_at": "2026-08-14 04:00:55",
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
+      },
+      "artists": [
+        {
+          "name": "Peter Sculthorpe",
+          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+        },
+        {
+          "name": "Richard Narroway",
+          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
+        }
+      ],
+      "duration_ms": 147429,
+      "name": "Requiem for Cello Alone: IV. Lacrimosa",
+      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
+    },
+    {
+      "added_at": "2026-08-14 04:00:55",
+      "album": {
         "name": "Variations concertantes, Op. 17/MWV Q 19/I. Thema",
         "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
       },
@@ -2367,26 +2387,6 @@
       "duration_ms": 65560,
       "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
       "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
-    },
-    {
-      "added_at": "2026-08-14 04:00:55",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
-      },
-      "artists": [
-        {
-          "name": "Peter Sculthorpe",
-          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
-        },
-        {
-          "name": "Richard Narroway",
-          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
-        }
-      ],
-      "duration_ms": 147429,
-      "name": "Requiem for Cello Alone: IV. Lacrimosa",
-      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
     },
     {
       "added_at": "2026-08-14 04:00:55",

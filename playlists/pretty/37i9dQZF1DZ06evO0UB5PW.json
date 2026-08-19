@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 64053,
+  "num_followers": 64062,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAIGVK4pbwwq7MfmTwAi60A",
+  "snapshot_id": "aoJPAAAAAABGs06MKpA9GUPY/D3bEYdt",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes for Dinner",
-        "url": "https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 297619,
-      "name": "Snakes for Dinner",
-      "url": "https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emperor of Sand",
         "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 303106,
       "name": "Steambreather",
       "url": "https://open.spotify.com/track/4Ut80ggQbyiJN2pGCs7VfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snakes for Dinner",
+        "url": "https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 297619,
+      "name": "Snakes for Dinner",
+      "url": "https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Crystal Skull",
-      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
+      "duration_ms": 209932,
+      "name": "Pushing the Tides",
+      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 209932,
-      "name": "Pushing the Tides",
-      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
+      "duration_ms": 204866,
+      "name": "Crystal Skull",
+      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Colony of Birchmen",
-      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
+      "duration_ms": 377695,
+      "name": "Sickle and Peace",
+      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
       },
       "artists": [
         {
@@ -520,25 +520,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 377695,
-      "name": "Sickle and Peace",
-      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 354306,
-      "name": "Crack the Skye",
-      "url": "https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B"
+      "duration_ms": 259693,
+      "name": "Colony of Birchmen",
+      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
     },
     {
       "added_at": null,
@@ -555,22 +539,6 @@
       "duration_ms": 294440,
       "name": "Ancient Kingdom",
       "url": "https://open.spotify.com/track/0k8CNAD5ADcMCOdTOMxUHk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cold Dark Place",
-        "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 312600,
-      "name": "Blue Walsh",
-      "url": "https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz"
     },
     {
       "added_at": null,
@@ -600,9 +568,25 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 654293,
-      "name": "The Czar: Usurper / Escape / Martyr / Spiral",
-      "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
+      "duration_ms": 354306,
+      "name": "Crack the Skye",
+      "url": "https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cold Dark Place",
+        "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 312600,
+      "name": "Blue Walsh",
+      "url": "https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 654293,
+      "name": "The Czar: Usurper / Escape / Martyr / Spiral",
+      "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunter (Deluxe)",
         "url": "https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 220133,
       "name": "Curl of the Burl",
       "url": "https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Ghost of Karelia",
-      "url": "https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Ghost of Karelia",
+      "url": "https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunter (Deluxe)",
         "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 330880,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 327480,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 485018,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 327480,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
     },
     {
       "added_at": null,

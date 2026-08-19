@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With David Von Beahm, Haneke Twins, MIK's Reaction and more
+> With Whispergun, Lockjaw, David Von Beahm and more
 
 925 songs - 2 day 15 hr 17 min
 

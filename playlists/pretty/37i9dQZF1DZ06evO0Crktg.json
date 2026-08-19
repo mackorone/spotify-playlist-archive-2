@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343581,
+  "num_followers": 343613,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABBj7kgBaw2kmvzRhTYfaJq",
+  "snapshot_id": "aoJPAAAAAAA2x0M2Z+bqJrDiAhfs/Dvg",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/4OVMATxRz2l2A90vNtD9vc"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1fUOwm18y5rk7etl5mA5a8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/4OVMATxRz2l2A90vNtD9vc"
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 198115,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/1fUOwm18y5rk7etl5mA5a8"
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 254277,
       "name": "Life",
       "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Same Asshole",
-      "url": "https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15"
     },
     {
       "added_at": null,

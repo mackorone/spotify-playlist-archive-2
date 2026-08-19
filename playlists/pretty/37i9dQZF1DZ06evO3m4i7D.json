@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAACH9B8aUc/5L846NSSus2hg",
+  "snapshot_id": "aoJPAAAAAADjaus9id8p2/Lcz5nGiszc",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Perro",
+        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 151697,
+      "name": "De Perro",
+      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen Que Soy Belic\u00f3n",
         "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 197294,
       "name": "Dicen Que Soy Belic\u00f3n",
       "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Perro",
-        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 151697,
-      "name": "De Perro",
-      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
     },
     {
       "added_at": null,

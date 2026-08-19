@@ -4,14 +4,14 @@
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-62 songs - 4 hr 1 min
+63 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Nacht Alleen](https://open.spotify.com/track/7tV4oNcFWW85uwKL7JPOTV) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [4us](https://open.spotify.com/album/1d27T3U7K7WixFp0Ja6pLz) | 3:59 | 2022-10-11 |  |
 | [Adios Amor](https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:28 | 2022-10-11 |  |
 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 | 2022-10-11 |  |
-| [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 | 2022-10-11 |  |
+| [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 | 2022-10-11 | 2026-08-19 |
 | [Als Je Wint](https://open.spotify.com/track/2MISpsFh9ThVYR8rYyLcAm) | [Henny Vrienten](https://open.spotify.com/artist/3W6yvJOtMHLNQViXsXAqcH), [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [Nederpop Hits uit de 80's \- deel 2](https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT) | 3:39 | 2022-10-11 |  |
 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 | 2022-10-11 |  |
 | [Anne](https://open.spotify.com/track/073xKaUAkGFxOZ1aHWXel7) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Anne \(Deutsche Version\)](https://open.spotify.com/album/3TAwCzDg088pPwykWFOK3D) | 3:44 | 2022-10-11 |  |
@@ -59,6 +59,7 @@
 | [Open Einde](https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:51 | 2022-10-11 |  |
 | [Oude Maasweg](https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Hard Voor Weinig \(20 singles\)](https://open.spotify.com/album/7wvQAqYh8vDvXRscEuxjVt) | 3:28 | 2022-10-11 |  |
 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 | 2022-10-11 |  |
+| [Pa](https://open.spotify.com/track/3WuphonBW94Yecg9jEsRTE) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:39 | 2022-10-11 |  |
 | [Pierrot](https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2) | [Bonnie St\. Claire](https://open.spotify.com/artist/4241gEqmLtq8iCZybFquzK) | [Favorieten Expres](https://open.spotify.com/album/0tozdNweUVwfbGuQwywE2Q) | 3:14 | 2022-10-11 |  |
 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 | 2022-10-11 |  |
 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 | 2022-10-11 |  |

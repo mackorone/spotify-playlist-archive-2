@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 66291,
       "name": "Always in My Heart",
       "url": "https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 156403,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/5xuJWkruuozU1po4XJ8V2M"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 120586,
       "name": "Blue Ribbon Bunny",
       "url": "https://open.spotify.com/track/4yMmgJkRp0B5XDaU7BGQhH"
@@ -750,6 +750,40 @@
       "duration_ms": 70167,
       "name": "Come on and Roll",
       "url": "https://open.spotify.com/track/3pE9DRIWTRe0kMn5Bximnn"
+    },
+    {
+      "album": {
+        "name": "Disney Jr. Music: Ozzy Fox",
+        "url": "https://open.spotify.com/album/3qIYY3YJVzFfnVxzsIJt09"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        },
+        {
+          "name": "Mama Fox",
+          "url": "https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN"
+        },
+        {
+          "name": "Papa Fox",
+          "url": "https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU"
+        },
+        {
+          "name": "Suki Squirrel",
+          "url": "https://open.spotify.com/artist/4JOvJQr4Jbyz66RgcBaXpP"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122308,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/1AjghcyHkCdSiKHyDxJEV1"
     },
     {
       "album": {
@@ -1226,7 +1260,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 144229,
       "name": "Glow Webs Glow - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/29dZo6xmKqGCZsUNoiUGAh"
@@ -1956,7 +1990,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 131189,
       "name": "It's Jeff",
       "url": "https://open.spotify.com/track/0S1PjjMHpZiXy8CANVWSBg"
@@ -3399,6 +3433,36 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Ozzy Fox",
+        "url": "https://open.spotify.com/album/3qIYY3YJVzFfnVxzsIJt09"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        },
+        {
+          "name": "Mama Fox",
+          "url": "https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN"
+        },
+        {
+          "name": "Papa Fox",
+          "url": "https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118378,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/4Lz92RhqAiH5UkOfPXx0pz"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Fancy Nancy",
         "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
       },
@@ -3866,7 +3930,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 59989,
       "name": "Spideys Don't Give Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
@@ -3888,7 +3952,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 143997,
       "name": "Spin, Spin, Spin",
       "url": "https://open.spotify.com/track/0Rg8DsZMeG8Fq6JjEoeQeM"
@@ -4608,7 +4672,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 129626,
       "name": "Trace-E Shake",
       "url": "https://open.spotify.com/track/6JWVBscbdaU6R0EV3XICdP"
@@ -4782,7 +4846,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 93610,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/5GRdz09Ypyvpzpvwh4Ts3g"
@@ -5098,7 +5162,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 71556,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/0k616mS4Rij2yDNACPqhxK"

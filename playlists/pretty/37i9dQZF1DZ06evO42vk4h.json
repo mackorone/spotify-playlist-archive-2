@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4219,
+  "num_followers": 4222,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAKAcPIPbymWaogWem6B282",
+  "snapshot_id": "aoJPAAAAAABpYnA300R6qO7LGQm84tpZ",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ngizimesele (DJEFF Remix)",
+        "url": "https://open.spotify.com/album/2fKvGXWeKRB99mrZh1AuLM"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "DJEFF",
+          "url": "https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Ngizimesele - DJEFF Remix",
+      "url": "https://open.spotify.com/track/2low3h9mHoXH4ArjtOQyQf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
       },
@@ -575,34 +603,6 @@
       "duration_ms": 197142,
       "name": "Indlela - Radio Edit",
       "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ngizimesele (DJEFF Remix)",
-        "url": "https://open.spotify.com/album/2fKvGXWeKRB99mrZh1AuLM"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "DJEFF",
-          "url": "https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Ngizimesele - DJEFF Remix",
-      "url": "https://open.spotify.com/track/2low3h9mHoXH4ArjtOQyQf"
     },
     {
       "added_at": null,
@@ -707,6 +707,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akhiwe",
+        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Bayathetha",
+      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Injabulo",
         "url": "https://open.spotify.com/album/27G0LtCymT8ZqbseROrTCg"
       },
@@ -739,46 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akhiwe",
-        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Bayathetha",
-      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Delakufa",
-      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabela",
         "url": "https://open.spotify.com/album/5ssdselA40ebuIQ5Xrkj1u"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 214285,
       "name": "Sabela - Radio Edit",
       "url": "https://open.spotify.com/track/4vo1w5vq45B7b0klANJZHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 249983,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
     },
     {
       "added_at": null,
@@ -835,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos to Jozi",
-        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+        "name": "Sizophelelaphi",
+        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
       },
       "artists": [
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         }
       ],
-      "duration_ms": 249983,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+      "duration_ms": 259285,
+      "name": "Sizophelelaphi",
+      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
     },
     {
       "added_at": null,
@@ -879,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sizophelelaphi",
-        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "Sizophelelaphi",
-      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onole Kae (feat. CowBoii)",
         "url": "https://open.spotify.com/album/6QFhPrr8KbLhFlErQq0Sea"
       },
@@ -923,30 +923,6 @@
       "duration_ms": 440837,
       "name": "Onole Kae (feat. CowBoii)",
       "url": "https://open.spotify.com/track/0KQT0AbkQSGkClVEV0W6eh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canex Music Factory (Abidjan)",
-        "url": "https://open.spotify.com/album/7c1CjhhJHH4pHwIcqPiM9p"
-      },
-      "artists": [
-        {
-          "name": "REINE ABLAA",
-          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 249927,
-      "name": "I'm on my way",
-      "url": "https://open.spotify.com/track/26UzaTXlONYVj375gM4eBF"
     },
     {
       "added_at": null,
@@ -1003,6 +979,30 @@
       "duration_ms": 433850,
       "name": "Ayhambi",
       "url": "https://open.spotify.com/track/1DgrC8wW9FJgZzcXJ49GY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canex Music Factory (Abidjan)",
+        "url": "https://open.spotify.com/album/7c1CjhhJHH4pHwIcqPiM9p"
+      },
+      "artists": [
+        {
+          "name": "REINE ABLAA",
+          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 249927,
+      "name": "I'm on my way",
+      "url": "https://open.spotify.com/track/26UzaTXlONYVj375gM4eBF"
     },
     {
       "added_at": null,
@@ -1171,6 +1171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church Grooves (10th Commandment)",
+        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Synth Song",
+      "url": "https://open.spotify.com/track/6qYYbimYXbz2VvIeMFsEui"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "University Of Kalawa Jazmee",
         "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
       },
@@ -1271,30 +1287,6 @@
       "duration_ms": 432144,
       "name": "iThuba - Deep House Mix",
       "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Izandla",
-        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 225535,
-      "name": "Izandla - Radio Edit",
-      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
     }
   ],
   "unique_name": "This Is OSKIDO",

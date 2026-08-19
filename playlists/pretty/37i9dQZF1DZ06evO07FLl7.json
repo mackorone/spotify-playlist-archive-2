@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAABbgAzbTK6+LDvQUcik3txO",
+  "snapshot_id": "aoJPAAAAAABEnkecy0rqbVRYEelwu+v7",
   "tracks": [
     {
       "added_at": null,
@@ -263,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquele Tipo de Som",
-        "url": "https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV"
-      },
-      "artists": [
-        {
-          "name": "Pinotti",
-          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        }
-      ],
-      "duration_ms": 155926,
-      "name": "Aquele Tipo de Som",
-      "url": "https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 196990,
       "name": "Boxok\u00ea",
       "url": "https://open.spotify.com/track/2c9w7HlmwbZzSSRNoMO5ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquele Tipo de Som",
+        "url": "https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV"
+      },
+      "artists": [
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        }
+      ],
+      "duration_ms": 155926,
+      "name": "Aquele Tipo de Som",
+      "url": "https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "Bem Longe do Fim",
-      "url": "https://open.spotify.com/track/28dQMrPIlNMFg5dyRqzO2x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
         "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 221801,
       "name": "Perfeito \u00c9 o Mar - Ao Vivo",
       "url": "https://open.spotify.com/track/3shUMU2J7zVI8Bsvr3Pxc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "Bem Longe do Fim",
+      "url": "https://open.spotify.com/track/28dQMrPIlNMFg5dyRqzO2x"
     },
     {
       "added_at": null,
@@ -535,54 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo (Remix)",
-        "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 340423,
-      "name": "Dentro Ali - Remix",
-      "url": "https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 224512,
-      "name": "S\u00f3 um Tempo",
-      "url": "https://open.spotify.com/track/65rmbJVvTil9exNJqloMPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
       },
@@ -611,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 224512,
+      "name": "S\u00f3 um Tempo",
+      "url": "https://open.spotify.com/track/65rmbJVvTil9exNJqloMPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
       },
@@ -627,6 +599,34 @@
       "duration_ms": 240213,
       "name": "Good Trip",
       "url": "https://open.spotify.com/track/7FQWyJOiIeM7VHvPlSwLpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo (Remix)",
+        "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 340423,
+      "name": "Dentro Ali - Remix",
+      "url": "https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1"
     },
     {
       "added_at": null,
@@ -863,18 +863,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
+        "name": "Mango02",
+        "url": "https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk"
       },
       "artists": [
         {
+          "name": "Afroito",
+          "url": "https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue"
+        },
+        {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Theo Zagrae",
+          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
         }
       ],
-      "duration_ms": 189240,
-      "name": "Calma Preta",
-      "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"
+      "duration_ms": 191460,
+      "name": "Magenta",
+      "url": "https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A"
     },
     {
       "added_at": null,
@@ -911,34 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mango02",
-        "url": "https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk"
-      },
-      "artists": [
-        {
-          "name": "Afroito",
-          "url": "https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Theo Zagrae",
-          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Magenta",
-      "url": "https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
       },
@@ -948,9 +932,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/0AplPtzxaA6j9itdfQQ6vV"
+      "duration_ms": 189240,
+      "name": "Calma Preta",
+      "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"
     },
     {
       "added_at": null,
@@ -1007,6 +991,22 @@
       "duration_ms": 218592,
       "name": "Patr\u00e3o",
       "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/0AplPtzxaA6j9itdfQQ6vV"
     },
     {
       "added_at": null,

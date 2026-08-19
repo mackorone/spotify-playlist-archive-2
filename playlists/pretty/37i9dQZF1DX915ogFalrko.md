@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,068 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,067 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 50 | [Electric Soul](https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Somewhere In Between](https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk) | 2:52 |
 | 51 | [Quand on arrive en ville](https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Quand on arrive en ville](https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE) | 3:38 |
 | 52 | [De Cara a la Pared](https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:15 |
-| 53 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 |
-| 54 | [Can't Help Myself](https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Can't Help Myself](https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA) | 2:18 |
+| 53 | [Can't Help Myself](https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Can't Help Myself](https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA) | 2:18 |
+| 54 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 |
 | 55 | [Till the End](https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Everything in Between](https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK) | 3:33 |
 | 56 | [Vacances](https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Matahari](https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV) | 4:21 |
 | 57 | [Cry to Me](https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Junk](https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A) | 2:43 |

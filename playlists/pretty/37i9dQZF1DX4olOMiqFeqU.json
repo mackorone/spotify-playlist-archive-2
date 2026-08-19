@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2424666,
+  "num_followers": 2424444,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Sa Susunod Na Lang",
-        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 214606,
-      "name": "Sa Susunod Na Lang",
-      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -179,18 +171,26 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "Sa Susunod Na Lang",
+        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 214606,
+      "name": "Sa Susunod Na Lang",
+      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Pa-umaga",
-        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Pa-umaga",
-      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 361106,
       "name": "Nandito Ako",
       "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
+        "name": "Pa-umaga",
+        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 189019,
+      "name": "Pa-umaga",
+      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+        "name": "Balisong (Transformed)",
+        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
         }
       ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+      "duration_ms": 163571,
+      "name": "Balisong - Transformed",
+      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Balisong (Transformed)",
-        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
       "artists": [
         {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
         }
       ],
-      "duration_ms": 163571,
-      "name": "Balisong - Transformed",
-      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -847,30 +847,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Titig",
-        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
+        "name": "Twelve: Fifty One (International Version)",
+        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
       "artists": [
         {
-          "name": "MC Einstein",
-          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Jekkpot",
-          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
+          "name": "krissy & ericka",
+          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
         }
       ],
-      "duration_ms": 259114,
-      "name": "Titig",
-      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+      "duration_ms": 246280,
+      "name": "12:51",
+      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
     }
   ],
   "unique_name": "OPM Favorites",

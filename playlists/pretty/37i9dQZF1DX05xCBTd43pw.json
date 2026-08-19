@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37616,
+  "num_followers": 37617,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Time to Shine",
-        "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 163338,
-      "name": "Time to Shine",
-      "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Have I Lost My Magic?",
         "url": "https://open.spotify.com/album/0zWh0MPnuwAfcbEhGFpZ22"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 238112,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0bQxBiXkXeM8bvNKrJ2z9q"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Time to Shine",
+        "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 163338,
+      "name": "Time to Shine",
+      "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "backbone",
         "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 173414,
       "name": "backbone",
       "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Don't Let Him Go",
         "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
@@ -775,6 +791,22 @@
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -795,34 +827,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+        "name": "Playgrounds In Ruins (Deluxe)",
+        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+      "duration_ms": 203370,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Playgrounds In Ruins (Deluxe)",
-        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 203370,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+      },
+      "artists": [
+        {
+          "name": "Tobias Jensen",
+          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
+        },
+        {
+          "name": "Tobias Carshey",
+          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -943,22 +963,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
       "artists": [
         {
-          "name": "Tobias Jensen",
-          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
-        },
-        {
-          "name": "Tobias Carshey",
-          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -979,18 +995,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Where Do Lost Dreams Go?",
+        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Solong",
+          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+      "duration_ms": 329898,
+      "name": "Where Do Lost Dreams Go?",
+      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Where Do Lost Dreams Go?",
-        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
-      },
-      "artists": [
-        {
-          "name": "Solong",
-          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
-        }
-      ],
-      "duration_ms": 329898,
-      "name": "Where Do Lost Dreams Go?",
-      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 188337,
       "name": "Moved On",
       "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1123,22 +1139,6 @@
       "duration_ms": 184893,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Take Me Dancing",
-        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        },
-        {
-          "name": "CRIMER",
-          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+          "name": "Shem Thomas",
+          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
         }
       ],
-      "duration_ms": 163231,
-      "name": "Take Me Dancing",
-      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
+      "duration_ms": 164089,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
+        "name": "Take Me Dancing",
+        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
       },
       "artists": [
         {
-          "name": "Shem Thomas",
-          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        },
+        {
+          "name": "CRIMER",
+          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
         }
       ],
-      "duration_ms": 164089,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+      "duration_ms": 163231,
+      "name": "Take Me Dancing",
+      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "MAGAZINE",
-        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
       "artists": [
         {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 192157,
-      "name": "MAGAZINE",
-      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+        "name": "MAGAZINE",
+        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
+      "duration_ms": 192157,
+      "name": "MAGAZINE",
+      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1619,38 +1619,34 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Born With A Broken Heart",
-        "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
+        "name": "Playgrounds In Ruins",
+        "url": "https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Marc Storace",
-          "url": "https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 186175,
-      "name": "Born With A Broken Heart",
-      "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
+      "duration_ms": 199261,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ"
     },
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
       },
       "artists": [
         {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     }
   ],
   "unique_name": "Swiss Made",

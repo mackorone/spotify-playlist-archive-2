@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,105 likes - 54 songs - 3 hr 1 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,106 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 52 | [5 День](https://open.spotify.com/track/06mRNsQnoRr46AOj0CHBjb) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [5 День](https://open.spotify.com/album/0VJiRSvYM2RQORPHTO2UW6) | 1:54 |
 | 53 | [Falling](https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [Falling](https://open.spotify.com/album/6siMNfpjoJNPSGhKIJZwxr) | 2:27 |
 | 54 | [Do you like it that way](https://open.spotify.com/track/1znJonSXmxeTYceBuMgrix) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Do you like it that way](https://open.spotify.com/album/59YCENlsKrzYGrvRN5weKC) | 4:29 |
+| 55 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
+| 56 | [B!tch](https://open.spotify.com/track/6yuAizja4nZcTgGHARMGbR) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [B!tch](https://open.spotify.com/album/5bkMKZjEHxdsB6chVzgXZt) | 3:24 |
 
-Snapshot ID: `AAAEOdvHbSaLWF5l4Bz3vhVLePIZtKky`
+Snapshot ID: `AAAEO8jdcsULksWcbvv6TBOZh/zP0OOO`

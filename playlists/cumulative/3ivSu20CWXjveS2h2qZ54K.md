@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-8,982 songs - 20 day 18 hr 1 min
+8,983 songs - 20 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4898,6 +4898,7 @@
 | [Maria Magdalena](https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Maria Magdalena](https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8) | 2:36 | 2025-03-07 | 2025-03-15 |
 | [mariah](https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 2:48 | 2026-02-27 | 2026-03-07 |
 | [Mariah Carey](https://open.spotify.com/track/69JEwBvoXZ8KhOfrgHOiZc) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Mariah Carey](https://open.spotify.com/album/2iSBQgytqbQNlGEBIBagsQ) | 2:14 | 2024-06-14 | 2024-06-22 |
+| [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-18 |  |
 | [MARIMACHO](https://open.spotify.com/track/1lqHQULzFpHDRfthEHl9Q1) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PIONERAS \(BSO Pioneras\. Solo querían jugar\)](https://open.spotify.com/album/1T2wV97MQgaf9Is9G0LrYk) | 4:08 | 2026-05-29 | 2026-06-06 |
 | [MARIMANDONA](https://open.spotify.com/track/6vxRfzTb3I2gzEj1oSgBR5) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [MARIMANDONA](https://open.spotify.com/album/76BJb5AXkS93oaFLMbCNQ4) | 1:42 | 2026-05-29 | 2026-06-06 |
 | [Mariposas](https://open.spotify.com/track/21LQ8pcodFpT2ZikZbUSGR) | [Carlos Gris](https://open.spotify.com/artist/7J1AIio0UJ409iyYKMcr8T) | [Mariposas](https://open.spotify.com/album/4NrziuYC02mDR4ZntEC83y) | 4:09 | 2025-11-28 | 2025-12-06 |

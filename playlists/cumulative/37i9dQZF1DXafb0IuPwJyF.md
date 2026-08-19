@@ -2,7 +2,7 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: King Gnu
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Ado
 
 1,844 songs - 4 day 18 hr 1 min
 

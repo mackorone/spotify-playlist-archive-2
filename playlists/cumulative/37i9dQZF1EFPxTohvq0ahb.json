@@ -885,6 +885,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonatas, Rondo, Andante favori, F\u00fcr Elise",
+        "url": "https://open.spotify.com/album/0m5iboyuJLlKAPw5fptbtI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "F\u00fcr Elise, Bagatelle in A Minor, WoO 59",
+      "url": "https://open.spotify.com/track/5DqijskSZb6Kdu2TUWpQS3"
+    },
+    {
+      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -1242,10 +1264,40 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 192560,
       "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
       "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm"
+    },
+    {
+      "album": {
+        "name": "Listen Again",
+        "url": "https://open.spotify.com/album/2pdfV2U48rhyEiK1J1ViF1"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tanaka Alice",
+          "url": "https://open.spotify.com/artist/0vrVHMPa8KLGtxdNxc6ONP"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193341,
+      "name": "Hey Mama (feat. Nicki Minaj, TANAKA ALICE & Afrojack)",
+      "url": "https://open.spotify.com/track/19UJXRWv1AXlvf6PAfsuxY"
     },
     {
       "album": {
@@ -1644,10 +1696,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 300373,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi"
+    },
+    {
+      "album": {
+        "name": "80's Hip-Hop 4 Babies, Vol. 1",
+        "url": "https://open.spotify.com/album/4xZH6qGepDg9wUCvG8643S"
+      },
+      "artists": [
+        {
+          "name": "The Lullabeats",
+          "url": "https://open.spotify.com/artist/41izmYWIbbsEk6TvUMYshU"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142933,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/55jQYM4ymxWGMaDT4B63Pf"
     },
     {
       "album": {
@@ -3274,7 +3344,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Gunna
 
-893 songs - 1 day 20 hr 51 min
+894 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Games Women Play](https://open.spotify.com/track/4XwVObmSna9zn4hOtWrptC) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Games Women Play](https://open.spotify.com/album/5i8tr5l6kLG0UQNqt4Ry3K) | 2:48 | 2023-02-17 | 2023-07-22 |
 | [Gang Slide](https://open.spotify.com/track/2N2kx4jJG4683NoO3NMvpw) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Gang Slide](https://open.spotify.com/album/45M7sfNhqk9oCM7lN5nBXt) | 2:27 | 2024-02-09 | 2024-02-24 |
 | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h) | 2:51 | 2024-06-14 | 2024-06-22 |
-| [Gates Flow 2 \(She Don't Wanna\)](https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:53 | 2026-04-17 |  |
+| [Gates Flow 2 \(She Don't Wanna\)](https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:53 | 2026-04-17 | 2026-08-19 |
 | [Get Away](https://open.spotify.com/track/0EWkHy6MFQxu5Hg6SPlEur) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:19 | 2023-09-01 | 2023-12-16 |
 | [Get Away \(feat\. Loe Shimmy\)](https://open.spotify.com/track/1PScfd4Mz9NBasUAfoojHc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:56 | 2023-06-02 | 2023-07-15 |
 | [Get Low With Me](https://open.spotify.com/track/2TjhQDIOOEuhuAQaN0VCpd) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Get Low With Me](https://open.spotify.com/album/2Jq7LRn29qRtnKW5ok3pGi) | 3:24 | 2026-06-26 |  |
@@ -658,6 +658,7 @@
 | [Say Luv](https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Say Luv](https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet) | 2:20 | 2023-07-07 | 2023-10-14 |
 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 | 2026-04-24 | 2026-05-30 |
 | [Say Too Much](https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 3:13 | 2023-10-13 | 2023-11-18 |
+| [Say What \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 4:16 | 2026-08-18 |  |
 | [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 | 2021-10-22 | 2022-06-11 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-07 | 2023-10-14 |
 | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu) | 3:13 | 2023-02-24 | 2023-10-28 |

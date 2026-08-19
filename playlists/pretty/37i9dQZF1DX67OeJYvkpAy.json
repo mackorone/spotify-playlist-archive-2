@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109489,
+  "num_followers": 109479,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Moston Vale (Freestyle)",
         "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 100466,
       "name": "Moston Vale - Freestyle",
       "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
+      },
+      "artists": [
+        {
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "NOT THAT DEEP",
-        "url": "https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3"
+        "name": "Smoke Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C"
       },
       "artists": [
         {
-          "name": "somecallmewale",
-          "url": "https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI"
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
         }
       ],
-      "duration_ms": 240295,
-      "name": "NOT THAT DEEP",
-      "url": "https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV"
+      "duration_ms": 82038,
+      "name": "weed to my left, chip to my right",
+      "url": "https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Smoke Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C"
+        "name": "NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3"
       },
       "artists": [
         {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+          "name": "somecallmewale",
+          "url": "https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI"
         }
       ],
-      "duration_ms": 82038,
-      "name": "weed to my left, chip to my right",
-      "url": "https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65"
+      "duration_ms": 240295,
+      "name": "NOT THAT DEEP",
+      "url": "https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Deleted (Alfonzo)",
+        "url": "https://open.spotify.com/album/0RLhWZNL0pkURtBvO7vmDF"
+      },
+      "artists": [
+        {
+          "name": "Genie",
+          "url": "https://open.spotify.com/artist/4NVPPjqtov1aWSJHMlpY6Z"
+        },
+        {
+          "name": "Tom Teimouri",
+          "url": "https://open.spotify.com/artist/3l3hZpgpvXfeZN1YBVLLlx"
+        }
+      ],
+      "duration_ms": 226046,
+      "name": "Deleted (Alfonzo)",
+      "url": "https://open.spotify.com/track/3JMvrZ3B2v0e7W4JP88MNV"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Deleted (Alfonzo)",
-        "url": "https://open.spotify.com/album/0RLhWZNL0pkURtBvO7vmDF"
-      },
-      "artists": [
-        {
-          "name": "Genie",
-          "url": "https://open.spotify.com/artist/4NVPPjqtov1aWSJHMlpY6Z"
-        },
-        {
-          "name": "Tom Teimouri",
-          "url": "https://open.spotify.com/artist/3l3hZpgpvXfeZN1YBVLLlx"
-        }
-      ],
-      "duration_ms": 226046,
-      "name": "Deleted (Alfonzo)",
-      "url": "https://open.spotify.com/track/3JMvrZ3B2v0e7W4JP88MNV"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1391,6 +1391,38 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 134193,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "2:30AM",
         "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
       },
@@ -1403,6 +1435,42 @@
       "duration_ms": 182937,
       "name": "2:30AM",
       "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "9AM",
+        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
+      },
+      "artists": [
+        {
+          "name": "Drizdoneit",
+          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
+        },
+        {
+          "name": "Jbandz",
+          "url": "https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "9AM",
+      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1435,22 +1503,6 @@
       "duration_ms": 97436,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1523,22 +1575,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 134193,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Next Up - S3-E47",
         "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
@@ -1575,22 +1611,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "9AM",
-        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
-      },
-      "artists": [
-        {
-          "name": "Drizdoneit",
-          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
-        },
-        {
-          "name": "Jbandz",
-          "url": "https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU"
-        }
-      ],
-      "duration_ms": 172199,
-      "name": "9AM",
-      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "One Mic",
         "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2025-10-10 12:01:08",

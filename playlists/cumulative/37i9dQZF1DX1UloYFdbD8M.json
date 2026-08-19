@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Arimulla",
+        "url": "https://open.spotify.com/album/3WM62NmLO3DO3NkN2vGV1k"
+      },
+      "artists": [
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Bappu Velliparamba",
+          "url": "https://open.spotify.com/artist/4wPOtTcGHqwZoAl9EgDBvL"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159574,
+      "name": "Arimulla",
+      "url": "https://open.spotify.com/track/6tNRFJDScbnLWNrOqIHeVv"
+    },
+    {
+      "album": {
         "name": "Rithu",
         "url": "https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr"
       },

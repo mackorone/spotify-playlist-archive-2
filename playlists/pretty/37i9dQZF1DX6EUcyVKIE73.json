@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92125,
+  "num_followers": 92138,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
+        "name": "Saradamani",
+        "url": "https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII"
+      },
+      "artists": [
+        {
+          "name": "Vishwa Mohan Bhatt",
+          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
+        },
+        {
+          "name": "Sukhvinder Singh Namdhari",
+          "url": "https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h"
+        }
+      ],
+      "duration_ms": 643933,
+      "name": "Romantic Dhun",
+      "url": "https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
         "name": "Taaron Bhari Raat - Raga Malkauns",
         "url": "https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 1224466,
       "name": "Chandrakaush Alap",
       "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Saradamani",
-        "url": "https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII"
-      },
-      "artists": [
-        {
-          "name": "Vishwa Mohan Bhatt",
-          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
-        },
-        {
-          "name": "Sukhvinder Singh Namdhari",
-          "url": "https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h"
-        }
-      ],
-      "duration_ms": 643933,
-      "name": "Romantic Dhun",
-      "url": "https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Tarana Yaman",
-        "url": "https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J"
-      },
-      "artists": [
-        {
-          "name": "Ronkini Gupta",
-          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
-        }
-      ],
-      "duration_ms": 608000,
-      "name": "Tarana Yaman",
-      "url": "https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Jugalbandi II",
         "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
       },
@@ -431,22 +415,34 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+        "name": "Tarana Yaman",
+        "url": "https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J"
       },
       "artists": [
         {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+          "name": "Ronkini Gupta",
+          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
         }
       ],
-      "duration_ms": 835312,
-      "name": "Komal Rishabh Asavari - Jhaptaal",
-      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
+      "duration_ms": 608000,
+      "name": "Tarana Yaman",
+      "url": "https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Shringar: The Many Moods of Love - Volume 3",
+        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Shankar, Aneesh Pradhan",
+          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
+        }
+      ],
+      "duration_ms": 764526,
+      "name": "Jadoo Bharey Torey Nain",
+      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -471,18 +467,42 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Shringar: The Many Moods of Love - Volume 3",
-        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
       },
       "artists": [
         {
-          "name": "Lakshmi Shankar, Aneesh Pradhan",
-          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 764526,
-      "name": "Jadoo Bharey Torey Nain",
-      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Navyaa",
+        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+      },
+      "artists": [
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        },
+        {
+          "name": "Tejovrush Joshi",
+          "url": "https://open.spotify.com/artist/1IKhVfKv1Hh0l6XwygDEpi"
+        }
+      ],
+      "duration_ms": 580000,
+      "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
+      "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -515,26 +535,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Navyaa",
-        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
-      },
-      "artists": [
-        {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
-        },
-        {
-          "name": "Tejovrush Joshi",
-          "url": "https://open.spotify.com/artist/1IKhVfKv1Hh0l6XwygDEpi"
-        }
-      ],
-      "duration_ms": 580000,
-      "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
-      "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Signature Series, Vol. 3",
         "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
       },
@@ -547,54 +547,6 @@
       "duration_ms": 1273906,
       "name": "Rag Marwa, Part 2",
       "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
-        "url": "https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB"
-      },
-      "artists": [
-        {
-          "name": "Ronkini Gupta",
-          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
-        }
-      ],
-      "duration_ms": 449320,
-      "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
-      "url": "https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
-      },
-      "artists": [
-        {
-          "name": "Jyoti Debnath",
-          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
-        }
-      ],
-      "duration_ms": 335109,
-      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Sangeet Sartaj Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO"
-      },
-      "artists": [
-        {
-          "name": "Pandit Bhimsen Joshi",
-          "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
-        }
-      ],
-      "duration_ms": 1947364,
-      "name": "Raga Asavari Todi",
-      "url": "https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -623,6 +575,54 @@
       "duration_ms": 1633890,
       "name": "Dev Dev Sat Sang - Khayal Vilambit - Jhap Taal / Maanat Nahin - Raag Sawani - Khayal Drut - Teentaal",
       "url": "https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Debnath",
+          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
+        }
+      ],
+      "duration_ms": 335109,
+      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
+        "url": "https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB"
+      },
+      "artists": [
+        {
+          "name": "Ronkini Gupta",
+          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+        }
+      ],
+      "duration_ms": 449320,
+      "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
+      "url": "https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Sangeet Sartaj Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO"
+      },
+      "artists": [
+        {
+          "name": "Pandit Bhimsen Joshi",
+          "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
+        }
+      ],
+      "duration_ms": 1947364,
+      "name": "Raga Asavari Todi",
+      "url": "https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Saptrang",
-        "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
       },
       "artists": [
         {
-          "name": "Ustad Sultan Khan",
-          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
-        },
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
         }
       ],
-      "duration_ms": 1896026,
-      "name": "Rag Gurjari Todi",
-      "url": "https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS"
+      "duration_ms": 1045427,
+      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
+      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -755,6 +751,26 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
+        "name": "Saptrang",
+        "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
+      },
+      "artists": [
+        {
+          "name": "Ustad Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "duration_ms": 1896026,
+      "name": "Rag Gurjari Todi",
+      "url": "https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
         "name": "Sangeet Sataj Vol. 1 & 2",
         "url": "https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
+        "name": "The Best Of Girija Deva",
+        "url": "https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH"
       },
       "artists": [
         {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+          "name": "Girija Devi, Kishan Maharaj, Ramesh Mishra",
+          "url": "https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF"
         }
       ],
-      "duration_ms": 1045427,
-      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
-      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
+      "duration_ms": 542600,
+      "name": "Jhama Jham - Thumri",
+      "url": "https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -807,22 +823,6 @@
       "duration_ms": 1048794,
       "name": "Chhayanat: Sakhi Mora in Rupak",
       "url": "https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "The Best Of Girija Deva",
-        "url": "https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH"
-      },
-      "artists": [
-        {
-          "name": "Girija Devi, Kishan Maharaj, Ramesh Mishra",
-          "url": "https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF"
-        }
-      ],
-      "duration_ms": 542600,
-      "name": "Jhama Jham - Thumri",
-      "url": "https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW"
     },
     {
       "added_at": "2026-07-29 09:24:36",

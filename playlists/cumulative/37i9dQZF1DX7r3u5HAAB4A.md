@@ -4,7 +4,7 @@
 
 > A melting pot of Caribbean culture\. Cover: Masicka
 
-370 songs - 18 hr 9 min
+371 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,12 +81,13 @@
 | [Crazy](https://open.spotify.com/track/7aA9SCzJuvj3pfqMUmryfp) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Crazy](https://open.spotify.com/album/0rNGUhljXFbcnGSoaxnb1c) | 3:13 | 2025-02-21 | 2025-03-01 |
 | [Crime Minister](https://open.spotify.com/track/1uGcGsEpBGekvxExZ47wQX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Generals](https://open.spotify.com/album/34pXk8FLwubuVmCFOAO24P) | 3:44 | 2025-03-21 | 2025-03-29 |
 | [Cry Wolf](https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cry Wolf](https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK) | 3:27 | 2025-10-10 | 2025-10-25 |
+| [Cryin](https://open.spotify.com/track/0MEWsHxTAndV9hV6lf81Em) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:39 | 2026-08-18 |  |
 | [Cut The Link](https://open.spotify.com/track/4vmSIXuD6f3I3Ap0RAMLmi) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Cut The Link](https://open.spotify.com/album/3uhAtGve245x44l7Yc2afC) | 3:22 | 2025-01-24 | 2025-02-08 |
 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 | 2026-08-14 |  |
 | [Cyah Behave](https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G) | 2:41 | 2026-02-13 | 2026-05-09 |
 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 | 2024-08-29 | 2026-05-09 |
 | [Dance Pon Me](https://open.spotify.com/track/5QAkndPQOLg72jJIsHEY8n) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance Pon Me](https://open.spotify.com/album/6FYMnjlhhyoThcscYjPHqF) | 2:26 | 2025-12-05 | 2026-04-18 |
-| [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/track/4uqzkSQkjkxIkF9GPeYkpQ) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/album/1vBusIa8NYBoKMCQmKn4Sq) | 2:34 | 2026-02-27 |  |
+| [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/track/4uqzkSQkjkxIkF9GPeYkpQ) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/album/1vBusIa8NYBoKMCQmKn4Sq) | 2:34 | 2026-02-27 | 2026-08-19 |
 | [Dangerous](https://open.spotify.com/track/2MBg1KNO6H3aYHOnS8phqi) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [MUSE](https://open.spotify.com/album/0yWpywE2F4Iv2xXimZC8kf) | 3:18 | 2025-02-28 | 2025-04-12 |
 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 | 2025-05-09 |  |
 | [Dating Szn](https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dating Szn](https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK) | 2:55 | 2024-12-06 |  |

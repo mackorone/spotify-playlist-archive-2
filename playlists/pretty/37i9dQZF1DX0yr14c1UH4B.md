@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Morgan Harper\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,664 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,663 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 7 | [How Is It Fair](https://open.spotify.com/track/2QfZ8N6DpJs1Hv3dr5YFdQ) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [How Is It Fair](https://open.spotify.com/album/7aH66oScu7kGloQRjOYXfc) | 4:11 |
 | 8 | [Nothing Really Changes](https://open.spotify.com/track/3t3biITmzgT9QhLsTMbn5j) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Nothing Really Changes](https://open.spotify.com/album/0qhXTpejDxZ5apyxlAt8fh) | 5:53 |
 | 9 | [White Lightning](https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 4:24 |
-| 10 | [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 |
+| 10 | [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 |
 | 11 | [FLOWERS](https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [FLOWERS](https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4) | 3:14 |
 | 12 | [Alone Again \(feat\. Ogi\)](https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [It Could Be Worse](https://open.spotify.com/album/0rer7IRAdCVWcLODgq2rX0) | 3:08 |
 | 13 | [Where Is the Love](https://open.spotify.com/track/7r4MsuNZDYEgTxc1zYHKsS) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Where Is the Love](https://open.spotify.com/album/3vX4wLSVpzrL3vr6CFXuVv) | 4:02 |

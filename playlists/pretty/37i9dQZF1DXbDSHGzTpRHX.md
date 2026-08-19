@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,470 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,472 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 44 | [Union Station](https://open.spotify.com/track/4mfw5jKn6jgPQiUIuCcA2D) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Union Station](https://open.spotify.com/album/26LtPoT9dRbtp0GTC7y1im) | 3:16 |
 | 45 | [CLOUD](https://open.spotify.com/track/7yeWt7sq2oRlEZWv880u9E) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Tradition](https://open.spotify.com/album/4zETbpGKT1FHsEZq3QFQUR) | 3:00 |
 | 46 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
-| 47 | [Lavender](https://open.spotify.com/track/2S7ORjggE2JPyamVM7FKio) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Forest Green](https://open.spotify.com/album/6CHVguUQo6SITKthJgkrnT) | 2:18 |
+| 47 | [Lavender](https://open.spotify.com/track/2S7ORjggE2JPyamVM7FKio) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Forest Green](https://open.spotify.com/album/6CHVguUQo6SITKthJgkrnT) | 2:18 |
 | 48 | [Blue Skies](https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq) | 5:04 |
 | 49 | [Untitled](https://open.spotify.com/track/2IoEP9SKwBpm4DL89MKTDZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Untitled](https://open.spotify.com/album/0Ycva8sqd96rxJAQhYFqSt) | 2:59 |
 | 50 | [Run Tings \(feat\. Dounia\)](https://open.spotify.com/track/0wYYZ1ag9YbdVKFxoWo6yO) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU), [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Press L To Continue](https://open.spotify.com/album/0kYqF9RnizQlTrVpIrRmac) | 2:49 |

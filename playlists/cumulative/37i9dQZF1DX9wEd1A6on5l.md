@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-922 songs - 1 day 19 hr 28 min
+923 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [All Over You](https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv) | [Deobi](https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI) | [All Over You](https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb) | 2:25 | 2026-04-20 |  |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-12 | 2026-01-23 |
 | [All U Need](https://open.spotify.com/track/3wlfYeqX6Myn2PW6qsgu69) | [DHREY](https://open.spotify.com/artist/37YlqSH2vvBYNwWZLO8VbI) | [All U Need](https://open.spotify.com/album/0Grk5OsVjM85FaLQDp7OIS) | 2:35 | 2025-06-27 | 2025-07-05 |
-| [Allergies](https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Allergies](https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp) | 2:53 | 2026-06-12 |  |
+| [Allergies](https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Allergies](https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp) | 2:53 | 2026-06-12 | 2026-08-19 |
 | [Allonsy](https://open.spotify.com/track/134ATgu95x349r7c83DWO5) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allonsy](https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs) | 2:02 | 2026-01-14 |  |
 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 | 2023-09-14 | 2023-09-28 |
 | [Alubarika](https://open.spotify.com/track/6WJlYrrcn8LSuyf7SXrzKH) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Alubarika](https://open.spotify.com/album/6UE6hOPE7sgGHFzAfWYvW3) | 2:49 | 2025-04-04 | 2025-05-10 |
@@ -293,6 +293,7 @@
 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-25 | 2024-11-22 |
 | [FAR AWAY](https://open.spotify.com/track/5JLVtRVBfLjfysl4EMI8l2) | [Alté](https://open.spotify.com/artist/7lOjbAzTHP7PVJvK8zqyYW) | [FAR AWAY](https://open.spotify.com/album/634QDSXxfJhzrUaw6sWJhQ) | 2:53 | 2025-03-31 | 2025-04-25 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-05-23 |
+| [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 | 2026-08-14 |  |
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-05-31 | 2025-02-25 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-29 | 2025-04-01 |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-02 | 2023-01-20 |

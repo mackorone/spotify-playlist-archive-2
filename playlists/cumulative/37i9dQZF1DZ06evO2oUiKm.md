@@ -4,7 +4,7 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-100 songs - 6 hr 18 min
+101 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 | 2025-04-13 | 2026-07-18 |
 | [I Don't Know How to Love Him](https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m) | 4:19 | 2024-12-14 | 2025-04-13 |
 | [I Don't Know How to Love Him](https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV) | [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM) | 3:50 | 2025-11-25 | 2026-02-24 |
-| [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya) | 4:46 | 2026-07-18 |  |
+| [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/06cz05YQ32UqnLjxYGrOvj) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Don't You Want Me](https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj) | 4:46 | 2026-08-19 |  |
+| [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya) | 4:46 | 2026-07-18 | 2026-08-19 |
 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2024-12-14 |  |
 | [I Want You \- Interlude](https://open.spotify.com/track/6Hur7QmuHJsPG59BNRw1pn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 1:08 | 2025-06-08 | 2025-06-26 |
 | [I'm Here](https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:31 | 2024-12-14 |  |

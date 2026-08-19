@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-222 songs - 10 hr 7 min
+223 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/285xiuxDq0tEg2RuISS3Eu) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 1:54 | 2024-07-26 | 2025-08-14 |
 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/5Mhe4bhcStvCgpuar6cBLU) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 1:54 | 2025-08-13 |  |
 | [In the Big Blue World \- Soundtrack](https://open.spotify.com/track/6IWLd6rZMrnCPljO4g7ULN) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Nemo](https://open.spotify.com/artist/1A1lV9pQKY76rAIKpCo5XH), [Mr\. Ray](https://open.spotify.com/artist/4sg6oPVhVM2nnzxvmdbGra), [Tad](https://open.spotify.com/artist/6vAHjYcwjfvdN4RzrmaJoT), [Pearl](https://open.spotify.com/artist/63K41oNnFj76LN2FWzzT35), [Sheldon](https://open.spotify.com/artist/2Th7tmMNVx3PbmZuu04N6b), [Reef Dads](https://open.spotify.com/artist/2wBrpp3b8y0yyO7JPFnqm9), [Ensemble \- Finding Nemo](https://open.spotify.com/artist/3keGuE3MCvWeoPa5rEoCE3) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 4:26 | 2024-07-26 |  |
-| [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2024-07-26 |  |
+| [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2024-07-26 | 2026-08-19 |
+| [Into the Unknown](https://open.spotify.com/track/4TgRvKKOALsTpCNL88jylo) | [Wichayanee Pearklin](https://open.spotify.com/artist/5DvmdkHb32o0RWWeTWnjsP), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Thai Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0i7L85MLeYOIGvhh9JNXor) | 3:14 | 2026-08-18 |  |
 | [Introductie](https://open.spotify.com/track/2sMv4bVBbl4tBLYPouURIf) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Originele Nederlandstalige Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3kL8E8BhaivWmyOjnms0gl) | 0:59 | 2024-07-26 | 2025-01-19 |
 | [Introduction](https://open.spotify.com/track/1Q2LSwfLHmGz9VQfimOcUZ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Banda Sonora Original en Español/Edición Deluxe\)](https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2) | 0:59 | 2025-01-18 | 2025-01-20 |
 | [Introduction](https://open.spotify.com/track/3bKrv0iUs9pUCRGYKJbFDX) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [La Reine des Neiges 2 \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT) | 0:59 | 2025-01-19 |  |

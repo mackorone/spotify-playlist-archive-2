@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23394,
+  "num_followers": 23400,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,30 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
+        "name": "OBSESI\u00d3N",
+        "url": "https://open.spotify.com/album/6p7x7K1sQBCHqOOp8I6grr"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Distobal",
+          "url": "https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD"
+        }
+      ],
+      "duration_ms": 229684,
+      "name": "OBSESI\u00d3N",
+      "url": "https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
         "name": "BOTA",
         "url": "https://open.spotify.com/album/5Xw8FNiCERbuX6OLlhYjNd"
       },
@@ -243,30 +267,6 @@
       "duration_ms": 175935,
       "name": "No Sign of Weakness",
       "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "OBSESI\u00d3N",
-        "url": "https://open.spotify.com/album/6p7x7K1sQBCHqOOp8I6grr"
-      },
-      "artists": [
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Distobal",
-          "url": "https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD"
-        }
-      ],
-      "duration_ms": 229684,
-      "name": "OBSESI\u00d3N",
-      "url": "https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Fiona",
-        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
-      },
-      "artists": [
-        {
-          "name": "BENSH47",
-          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Fiona",
-      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
+        "name": "Fiona",
+        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
+      },
+      "artists": [
+        {
+          "name": "BENSH47",
+          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Fiona",
+      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
         "name": "Sem nada",
         "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
       },
@@ -663,6 +663,38 @@
       "duration_ms": 156038,
       "name": "Sem nada",
       "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
+        "name": "OUTRA VIBE",
+        "url": "https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        },
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "bernardo",
+          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "OUTRA VIBE",
+      "url": "https://open.spotify.com/track/55lABBf5SmAsYupb0Lt5Ww"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -791,40 +823,8 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "OUTRA VIBE",
-        "url": "https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe"
-      },
-      "artists": [
-        {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
-        },
-        {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
-        },
-        {
-          "name": "Mc J9",
-          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "bernardo",
-          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "OUTRA VIBE",
-      "url": "https://open.spotify.com/track/55lABBf5SmAsYupb0Lt5Ww"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "Dengo",
-        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
+        "name": "Porta Aberta",
+        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
       "artists": [
         {
@@ -836,13 +836,13 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         },
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
         }
       ],
-      "duration_ms": 245841,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
+      "duration_ms": 167853,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
@@ -907,24 +923,8 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "Porta Aberta",
-        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
       },
       "artists": [
         {
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         },
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         }
       ],
-      "duration_ms": 167853,
-      "name": "Porta Aberta",
-      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
+      "duration_ms": 245841,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -963,6 +963,30 @@
       "duration_ms": 190588,
       "name": "12 de Junho",
       "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
+        "name": "A Beira Mar",
+        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
+      },
+      "artists": [
+        {
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+        },
+        {
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        },
+        {
+          "name": "D3jav\u00fa",
+          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "A Beira Mar",
+      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -999,30 +1023,6 @@
       "duration_ms": 191463,
       "name": "Halo",
       "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "A Beira Mar",
-        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
-      },
-      "artists": [
-        {
-          "name": "Jhayam",
-          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
-        },
-        {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        },
-        {
-          "name": "D3jav\u00fa",
-          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "A Beira Mar",
-      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2026-08-14 17:39:37",

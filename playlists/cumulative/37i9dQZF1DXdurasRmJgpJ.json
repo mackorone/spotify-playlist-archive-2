@@ -5356,7 +5356,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 243317,
       "name": "Vivarium",
       "url": "https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL"
@@ -6564,7 +6564,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 206586,
       "name": "\u30aa\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z"
@@ -9445,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "\u7f6a\u3068\u7f70\u3068\u96e8\u3068\u30ad\u30b9 (\u4f50\u91ce\u52c7\u6597&\u5409\u7530\u4ec1\u4eba)",
+        "url": "https://open.spotify.com/album/6coCTo3qfCK6IMlGwPJdVw"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222293,
+      "name": "\u7f6a\u3068\u7f70\u3068\u96e8\u3068\u30ad\u30b9 (\u4f50\u91ce\u52c7\u6597&\u5409\u7530\u4ec1\u4eba)",
+      "url": "https://open.spotify.com/track/4xw02DYvl9ktqLrz4IRd2L"
+    },
+    {
+      "album": {
         "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
         "url": "https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku"
       },
@@ -9604,6 +9622,24 @@
       "duration_ms": 181755,
       "name": "\u88f8\u8db3\u306e\u30c1\u30a7\u30c3\u30b3\u30ea\u30fc",
       "url": "https://open.spotify.com/track/6jAvoParpWFORg8pqmbMdz"
+    },
+    {
+      "album": {
+        "name": "\u898b\u77e5\u3089\u306c\u7cf8",
+        "url": "https://open.spotify.com/album/4VC9eBVetDJVqwfdGxGb35"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "\u898b\u77e5\u3089\u306c\u7cf8",
+      "url": "https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj"
     },
     {
       "album": {

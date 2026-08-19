@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18529,
+  "num_followers": 18533,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAA4t/Qf51ll/M5dySskWoq/",
+  "snapshot_id": "aoJPAAAAAAA1Tc4NywavDPEQvZta50/B",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Jyn Erso & Hope Suite",
+      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Jyn Erso & Hope Suite",
-      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "Enterprising Young Men",
-      "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 255296,
       "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
       "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Enterprising Young Men",
+      "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Off to Work",
-      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 250293,
       "name": "The Fantastic Four: First Steps Main Theme Extended Version",
       "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Off to Work",
+      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
     },
     {
       "added_at": null,

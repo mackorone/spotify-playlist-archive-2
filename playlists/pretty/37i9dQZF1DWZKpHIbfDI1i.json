@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Xavi y Lenin Ram\u00edrez en portada",
-  "num_followers": 864391,
+  "num_followers": 864553,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,18 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
-        "name": "66 am",
-        "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
+        "name": "Ll\u00e9vala a La Luna",
+        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
       },
       "artists": [
         {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        },
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 240000,
-      "name": "66 am",
-      "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
+      "duration_ms": 164214,
+      "name": "Ll\u00e9vala a La Luna",
+      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -527,18 +523,22 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
-        "name": "Ll\u00e9vala a La Luna",
-        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
+        "name": "66 am",
+        "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
         }
       ],
-      "duration_ms": 164214,
-      "name": "Ll\u00e9vala a La Luna",
-      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
+      "duration_ms": 240000,
+      "name": "66 am",
+      "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -671,6 +671,30 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
+        "name": "Pa la Ma\u00f1a",
+        "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 159937,
+      "name": "Pa la Ma\u00f1a",
+      "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
+    },
+    {
+      "added_at": "2026-08-14 06:00:21",
+      "album": {
         "name": "\u00bfSER\u00c1 EL ALCOHOL?",
         "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
       },
@@ -707,30 +731,6 @@
       "duration_ms": 172066,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
-    },
-    {
-      "added_at": "2026-08-14 06:00:21",
-      "album": {
-        "name": "Pa la Ma\u00f1a",
-        "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 159937,
-      "name": "Pa la Ma\u00f1a",
-      "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -867,6 +867,42 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167968,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
+    },
+    {
+      "added_at": "2026-08-14 06:00:21",
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "En La Misma Cama",
+      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
+    },
+    {
+      "added_at": "2026-08-14 06:00:21",
+      "album": {
         "name": "pAL_veranito.mp3",
         "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
@@ -891,42 +927,6 @@
       "duration_ms": 169846,
       "name": "pongo remix",
       "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
-    },
-    {
-      "added_at": "2026-08-14 06:00:21",
-      "album": {
-        "name": "MUDA",
-        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "En La Misma Cama",
-      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
-    },
-    {
-      "added_at": "2026-08-14 06:00:21",
-      "album": {
-        "name": "Cham\u00e1n",
-        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167968,
-      "name": "Cham\u00e1n",
-      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
+        "name": "SUPERESTRELLA",
+        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
+    },
+    {
+      "added_at": "2026-08-14 06:00:21",
+      "album": {
         "name": "La Buena",
         "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
       },
@@ -1055,26 +1071,6 @@
       "duration_ms": 136585,
       "name": "La Buena",
       "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
-    },
-    {
-      "added_at": "2026-08-14 06:00:21",
-      "album": {
-        "name": "Ya No Me Duele Tanto",
-        "url": "https://open.spotify.com/album/0gWb3xqFfk27f5emLC111j"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 169537,
-      "name": "Ya No Me Duele Tanto",
-      "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
-        "name": "SUPERESTRELLA",
-        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+        "name": "Ya No Me Duele Tanto",
+        "url": "https://open.spotify.com/album/0gWb3xqFfk27f5emLC111j"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 156923,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
+      "duration_ms": 169537,
+      "name": "Ya No Me Duele Tanto",
+      "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        },
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 158487,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
-    },
-    {
-      "added_at": "2026-08-14 06:00:21",
-      "album": {
         "name": "D\u00e9jese Querer",
         "url": "https://open.spotify.com/album/1LBfSR6f9VY1Q6pPaALXW3"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 132722,
       "name": "D\u00e9jese Querer",
       "url": "https://open.spotify.com/track/21MStpNy1zVsIhpizMuoPW"
+    },
+    {
+      "added_at": "2026-08-14 06:00:21",
+      "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 158487,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
     },
     {
       "added_at": "2026-08-14 06:00:21",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2026-08-14 06:00:21",
       "album": {
-        "name": "beam",
-        "url": "https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm"
+        "name": "VITILIGO",
+        "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
       },
       "artists": [
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 186874,
-      "name": "beam",
-      "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
+      "duration_ms": 169098,
+      "name": "VITILIGO",
+      "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
     },
     {
       "added_at": "2026-08-14 06:00:21",

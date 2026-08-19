@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 116492,
+  "num_followers": 116525,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADXsOYPUSZFNmcBpkpirUwy",
+  "snapshot_id": "aoJPAAAAAADM0LaNzAWa0BaWp1mNaEk+",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Dirty Looks",
+      "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nice To Meet You (feat. Lainey Wilson)",
         "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Dirty Looks",
-      "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Younger You (featuring Lainey Wilson) [From the \"Hannah Montana 20th Anniversary Special\"]",
         "url": "https://open.spotify.com/album/3vClILXGeaZyBu4IqdpDAG"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 167800,
       "name": "Younger You (featuring Lainey Wilson) - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/3Gk6bI1kJDkEftel3suQSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Hold My Halo",
-      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Atta Girl",
+      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 227400,
       "name": "GO HOME W U",
       "url": "https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Atta Girl",
-      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Hillbilly Hippie",
+      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 179811,
       "name": "Thicc As Thieves (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Hillbilly Hippie",
-      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workin' Overtime",
-        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 197685,
-      "name": "Workin' Overtime",
-      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Woman (Lainey Wilson Version)",
         "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 212175,
       "name": "Wild Woman - Lainey Wilson Version",
       "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workin' Overtime",
+        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 197685,
+      "name": "Workin' Overtime",
+      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
     },
     {
       "added_at": null,

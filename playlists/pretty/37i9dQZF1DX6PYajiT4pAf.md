@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Luis Fonsi, Anuel AA, benny blanco x Mora x Ovy On The Drums, Al Safir x Omar Montes y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,455 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,463 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 42 | [UN TBT ;\) \(feat\. Fraaninii, Beefsoup\)](https://open.spotify.com/track/6WpGzioKehmNWFYc3xR8Wy) | [LA GG](https://open.spotify.com/artist/4fRds1OyVsJicr3XCMM6uM), [Fraaninii](https://open.spotify.com/artist/2Cdtph9pCFhVavepL8HZtf), [Beefsoup](https://open.spotify.com/artist/4x5xPIG11uVJHJgCFSSAzf) | [UN TBT ;\) \(feat\. Fraaninii, Beefsoup\)](https://open.spotify.com/album/7zOg7b8T0N3nTxAvaaWCNi) | 2:36 |
 | 43 | [awe awe](https://open.spotify.com/track/1jQktD8FT48iv4Fz11ElaE) | [Diara](https://open.spotify.com/artist/0fppkzuQV4SQqCciw1ofXx), [Young Wolf Beatz](https://open.spotify.com/artist/2vNfZ6uqRZwbyLsrBQgLIt), [iseekarlo](https://open.spotify.com/artist/3j4R4YNDy0bqJ2io0ieObP) | [more sugar](https://open.spotify.com/album/65fsHxaMulfDRIsBH4yWU1) | 3:03 |
 | 44 | [Tengo todo lo que quiero](https://open.spotify.com/track/4fdMsA97sc2nuUvi3aUtRM) | [POLAZ](https://open.spotify.com/artist/6AxBpVEUx13QJrdgd0uGpM), [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Tengo todo lo que quiero](https://open.spotify.com/album/2JLNqmD0qyzLQhZxVIB22j) | 1:49 |
-| 45 | [FISICZ](https://open.spotify.com/track/4ReaMugn0ScsXZQkXgIbdR) | [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524) | [NYC TAPES](https://open.spotify.com/album/2grCk6610TOZ0QazGeduAX) | 2:21 |
+| 45 | [FISICZ](https://open.spotify.com/track/4ReaMugn0ScsXZQkXgIbdR) | [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524), [Papo2oo4](https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2) | [NYC TAPES](https://open.spotify.com/album/2grCk6610TOZ0QazGeduAX) | 2:21 |
 | 46 | [Sweet Devotion](https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Sweet Devotion](https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg) | 3:08 |
 | 47 | [EE\-OO ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢](https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [GOBLIN](https://open.spotify.com/artist/6vfRizJ3fbwxBxyEzZoEfG) | [EE\-OO ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢](https://open.spotify.com/album/7rqFyCqT3DczGfy4Ib873J) | 2:51 |
 | 48 | [BIZARRO](https://open.spotify.com/track/4K5T3rcZiETa8wVT9YnoJf) | [Ian Iris](https://open.spotify.com/artist/6CdLBoFNKbvBZudfOoRac4) | [BIZARRO](https://open.spotify.com/album/4MfQFUcrSMsWSHD3w0r83J) | 2:56 |

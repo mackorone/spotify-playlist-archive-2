@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 161656,
       "name": "A Nu\u017c",
       "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
@@ -7432,6 +7432,24 @@
       "duration_ms": 168333,
       "name": "Wiatr",
       "url": "https://open.spotify.com/track/3KWWFT878MW91P22IealNu"
+    },
+    {
+      "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
     },
     {
       "album": {

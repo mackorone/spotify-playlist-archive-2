@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 618004,
+  "num_followers": 618072,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-08-13 22:01:21",
       "album": {
+        "name": "Si Te Pones de Mi Parte",
+        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 319218,
+      "name": "Si Te Pones de Mi Parte",
+      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
+    },
+    {
+      "added_at": "2026-08-13 22:01:21",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
-    },
-    {
-      "added_at": "2026-08-13 22:01:21",
-      "album": {
-        "name": "Si Te Pones de Mi Parte",
-        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 319218,
-      "name": "Si Te Pones de Mi Parte",
-      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
     },
     {
       "added_at": "2026-08-13 22:01:21",

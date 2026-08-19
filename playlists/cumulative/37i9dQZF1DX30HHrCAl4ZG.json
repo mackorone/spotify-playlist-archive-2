@@ -29627,6 +29627,24 @@
     },
     {
       "album": {
+        "name": "S'all Good",
+        "url": "https://open.spotify.com/album/2girpeIV79cmV98R8kD0Xb"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182239,
+      "name": "S'all Good",
+      "url": "https://open.spotify.com/track/3mIqdG8PkazvXYorg6W6TH"
+    },
+    {
+      "album": {
         "name": "Safeandsound",
         "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
       },

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-592 songs - 1 day 0 hr 41 min
+593 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [let up](https://open.spotify.com/track/79LW20kYsfGPXIU6UEXkHC) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/3xIi8UWc8EG3qKhSnhPZ9o) | 3:04 | 2022-09-22 | 2022-11-28 |
 | [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2020-09-18 | 2022-07-21 |
 | [Life moves fast, so take my hand.](https://open.spotify.com/track/67N6n2BFVxoZJ085I7UwpN) | [pigbaby](https://open.spotify.com/artist/6bY6N1PHP9mSt8fZ1V2hHd) | [Life moves fast, so take my hand.](https://open.spotify.com/album/17EqbqNeKeVznFr0Z7uxoF) | 3:19 | 2024-04-12 | 2024-04-29 |
-| [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 | 2026-07-18 |  |
+| [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 | 2026-07-18 | 2026-08-19 |
 | [Lofi Just Colleagues](https://open.spotify.com/track/2kTCoVdNSA48FZH8lV3xAR) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Just Colleagues](https://open.spotify.com/album/4evSVnCgwLIdxp2DOXsoiI) | 3:20 | 2019-06-14 | 2019-08-13 |
 | [Lofi Keanu Level Lonely](https://open.spotify.com/track/2I5Gnq6Cbws0Sw2AFNWrGP) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Keanu Level Lonely](https://open.spotify.com/album/3gVRNPuo2EiUZiIcPT2IK4) | 2:53 | 2020-11-06 | 2022-07-08 |
 | [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 | 2020-03-27 | 2026-06-10 |
@@ -391,6 +391,7 @@
 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 | 2020-06-19 |  |
 | [Papayaberry](https://open.spotify.com/track/2wWlTrI1hF4MTf8fS9dAQb) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Snaxx](https://open.spotify.com/album/55cgr9FoU9jQ56xRtOQCXI) | 1:26 | 2019-06-14 | 2021-12-20 |
 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2023-05-25 |  |
+| [pastels](https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [pastels](https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG) | 2:08 | 2026-08-07 |  |
 | [Perfect Your Own](https://open.spotify.com/track/0ehy55QZL3X2oHqbmJwsbB) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Jazz Sessions](https://open.spotify.com/album/7HhTefYFbHAb6UPCh1GPJo) | 3:07 | 2019-05-26\* | 2020-01-14 |
 | [Pico](https://open.spotify.com/track/2FbsTN9G2FaPR3VathE4Hr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Pico](https://open.spotify.com/album/0KShUCdCUmicwnDk2WQBZY) | 1:36 | 2019-05-26\* | 2020-03-27 |
 | [piece of you](https://open.spotify.com/track/07a7G5dHYhnqK5pqICfzV2) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [piece of you](https://open.spotify.com/album/1yhEihD2M0bqImpJ64hiUW) | 2:49 | 2022-08-04 | 2022-10-23 |

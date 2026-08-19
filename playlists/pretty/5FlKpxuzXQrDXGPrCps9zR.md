@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 15 songs - 46 min 37 sec
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 20 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,10 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 13 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
 | 14 | [Slow Dancin'](https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Slow Dancin'](https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8) | 2:04 |
 | 15 | [One Beat Away](https://open.spotify.com/track/3DUpidac5G2faRayaksqMq) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Camp Rock – Cast](https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:49 |
+| 16 | [My Own Drum](https://open.spotify.com/track/2RDddCX7014dyVsTkNzL2w) | [Casey Trotter](https://open.spotify.com/artist/3rT58iotPIAcFbjO2YjdKc), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:52 |
+| 17 | [Echo](https://open.spotify.com/track/4Q52xQuRWjMS4G4mcUhlkJ) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Lumi Pollack](https://open.spotify.com/artist/7keuWJj8bdN00mkEAfovAk), [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Casey Trotter](https://open.spotify.com/artist/3rT58iotPIAcFbjO2YjdKc), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:21 |
+| 18 | [Work In Progress](https://open.spotify.com/track/0alBceN9ba6BzDZgX64uvx) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Lumi Pollack](https://open.spotify.com/artist/7keuWJj8bdN00mkEAfovAk), [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Casey Trotter](https://open.spotify.com/artist/3rT58iotPIAcFbjO2YjdKc), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 3:18 |
+| 19 | [We Rock](https://open.spotify.com/track/7LAvnWNp8sojHaKwTgAY1q) | [Connect 3](https://open.spotify.com/artist/5VO7OPvja8CKKy7zvmmb8F), [Camp Rock – Cast](https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:44 |
+| 20 | [Brand New Day](https://open.spotify.com/track/7fWqPukuuFHFuZO8AXBtQh) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 3:21 |
 
-Snapshot ID: `AAAB4Vzjxp1sxFbFn2aUyX3ilXTgS/UZ`
+Snapshot ID: `AAAB6fdARQviIW2YlkdSyEMffZoX/zB4`

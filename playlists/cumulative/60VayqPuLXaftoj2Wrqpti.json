@@ -45725,7 +45725,7 @@
         },
         {
           "name": "ashnymph",
-          "url": "https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o"
+          "url": "https://open.spotify.com/artist/0M5DlAIERwGXGEpgx1Vauz"
         }
       ],
       "date_added": "2026-08-17",
@@ -60015,24 +60015,6 @@
     },
     {
       "album": {
-        "name": "DO YOU SEE ME?",
-        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "date_added": "2026-08-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173144,
-      "name": "hey there [i have a compulsive complex]",
-      "url": "https://open.spotify.com/track/5ch2CzcDYTvFyz2uF8Fl8f"
-    },
-    {
-      "album": {
         "name": "hey there [i have a compulsive complex]",
         "url": "https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA"
       },
@@ -60048,6 +60030,24 @@
       "duration_ms": 173570,
       "name": "hey there [i have a compulsive complex]",
       "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
+    },
+    {
+      "album": {
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
+      },
+      "artists": [
+        {
+          "name": "Q Marsden",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173144,
+      "name": "hey there [i have a compulsive complex]",
+      "url": "https://open.spotify.com/track/5ch2CzcDYTvFyz2uF8Fl8f"
     },
     {
       "album": {

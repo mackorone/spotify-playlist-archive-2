@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Hailey Benedict
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,217 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,212 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 23 | [Love Me Like No Other](https://open.spotify.com/track/1LD7ngKYEGdHkMJWOJo6DA) | [Annika](https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo) | [Love Me Like No Other](https://open.spotify.com/album/7oMtemwcbxae4SjeF7sxEA) | 2:59 |
 | 24 | [Watering The Lawn](https://open.spotify.com/track/01VCZZhGO8RBYH76rcbsq8) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Watering The Lawn](https://open.spotify.com/album/0ZvABwbjvFoGCrWRz0UPJX) | 3:27 |
 | 25 | [It Was Always You](https://open.spotify.com/track/3Ckmgu52wwsXH1LfNdwEiV) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [It Was Always You](https://open.spotify.com/album/6m5GFrZ4D3mkIVVXbnCX0R) | 3:07 |
-| 26 | [After Dark](https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [After Dark](https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx) | 3:01 |
+| 26 | [After Dark \(Carry Me Home\)](https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [After Dark \(Carry Me Home\)](https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx) | 3:01 |
 | 27 | [Happy Wife, Happy Life](https://open.spotify.com/track/2FlTZQujBBpVmXxk1VUGG5) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Anger Management](https://open.spotify.com/album/6vdhFBxAy9YzmHz19l2qDN) | 2:59 |
 | 28 | [Cabin in the Woods](https://open.spotify.com/track/6t3z7SzfJfMIscvCfc1MSb) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Cabin in the Woods](https://open.spotify.com/album/0cF2hdkxg2UbUtjYmKs1nb) | 3:12 |
 | 29 | [seen enough](https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [seen enough](https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9) | 3:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,388 likes - 75 songs - 4 hr 20 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,395 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 40 | [on the spaceway \(frfr\)](https://open.spotify.com/track/5VHhnn9ZkYdm2sZPgL9NtF) | [megiapa](https://open.spotify.com/artist/35t5sI1WDcFQFzTfMGEBs2) | [on the spaceway \(frfr\)](https://open.spotify.com/album/75pbziBMuTMVBIGkm2GW2B) | 2:59 |
 | 41 | [Don’t You Want Me \(with Cat Power\)](https://open.spotify.com/track/2uadrfFrPg8kQccUr36aEc) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Don't You Want Me](https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj) | 4:35 |
 | 42 | [cherry spice](https://open.spotify.com/track/1hk7Zjum7tiJ2Rcmxu4Zy9) | [moonvine](https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF) | [cherry spice](https://open.spotify.com/album/7BP7dM0DP2QEqG9I4VpRZh) | 2:28 |
-| 43 | [False Prophet \- ashnymph Remix](https://open.spotify.com/track/6MmaYfKSqZeJc6xwdFw9uR) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x), [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [False Prophet \(ashnymph Remix\)](https://open.spotify.com/album/6laQXPbjXSk3AFhFVscCtm) | 4:46 |
+| 43 | [False Prophet \- ashnymph Remix](https://open.spotify.com/track/6MmaYfKSqZeJc6xwdFw9uR) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x), [ashnymph](https://open.spotify.com/artist/0M5DlAIERwGXGEpgx1Vauz) | [False Prophet \(ashnymph Remix\)](https://open.spotify.com/album/6laQXPbjXSk3AFhFVscCtm) | 4:46 |
 | 44 | [Unfinished Concrete Initials \(feat\. Hemlock Ernst\)](https://open.spotify.com/track/2Wt1gECVAcYvaYLXvUFLvH) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Hemlock Ernst](https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa) | [DOOMED!](https://open.spotify.com/album/68u9jhydxogDOTQ9EBzzWI) | 2:54 |
 | 45 | [Even Angels Ghost](https://open.spotify.com/track/7z7ryj6ayB8z6MPKMm7JbT) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 4:22 |
 | 46 | [More Delusional](https://open.spotify.com/track/66DoJJdfDEAIUdnKGahV5U) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [The Voices Became Louder](https://open.spotify.com/album/7k459NSQumr4hllwcUKrJf) | 2:48 |
 | 47 | [Bobby](https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:59 |
-| 48 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/5ch2CzcDYTvFyz2uF8Fl8f) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 48 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/5ch2CzcDYTvFyz2uF8Fl8f) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 49 | [Swimmer](https://open.spotify.com/track/1lSVLZNZ68QWYcjj44etuC) | [Rachel Ewen](https://open.spotify.com/artist/3GTwiIvzPhV8yyJG86doxZ) | [Swimmer](https://open.spotify.com/album/4CItJ9IcbOlEII3kb3xEpC) | 3:38 |
 | 50 | [Wall Between Us](https://open.spotify.com/track/5MxqdGMFBIKSHWc07Ml4aU) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Wall Between Us](https://open.spotify.com/album/21mCPKZCeRRLvdN6UuH5k3) | 2:41 |
 | 51 | [CONTROL](https://open.spotify.com/track/5jVnsiAv69IZiRsqDZVALc) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [TWINSTAR](https://open.spotify.com/album/3rM47P8MOmCrzBvPXyJx3K) | 2:36 |

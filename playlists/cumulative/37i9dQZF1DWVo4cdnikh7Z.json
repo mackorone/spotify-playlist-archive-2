@@ -27403,7 +27403,7 @@
       "artists": [
         {
           "name": "Maara",
-          "url": "https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y"
+          "url": "https://open.spotify.com/artist/75e3dgVrtpm2BF1nj76egN"
         },
         {
           "name": "Ramya Nambessan",
@@ -56614,7 +56614,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 122400,
       "name": "Tomato Thakkali",
       "url": "https://open.spotify.com/track/1xJHcypcCv1wzNPy4PPmVe"
@@ -62986,6 +62986,36 @@
       "duration_ms": 185801,
       "name": "Villain Yaaru (From \"Leo\")",
       "url": "https://open.spotify.com/track/6p8DwAh6wJ7S6jmpyYlBYp"
+    },
+    {
+      "album": {
+        "name": "Villali Veerane (From \"Irumudi Kattu\")",
+        "url": "https://open.spotify.com/album/2melHrrmFckzUTLwtzqPYj"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        },
+        {
+          "name": "Sunkara Anjaneyulu",
+          "url": "https://open.spotify.com/artist/2vuGaUQNHHGEKUkhP6FjJW"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180157,
+      "name": "Villali Veerane (From \"Irumudi Kattu\")",
+      "url": "https://open.spotify.com/track/0QpIL3WQxLdX5RRDwPOiWN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5mzvaN29YKtfK4wmctgEqv\">MEZZANERA</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:4vA9K7BZzkqFAh9hQfXwiD\">Gioac</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -4808,6 +4808,24 @@
       "duration_ms": 197066,
       "name": "Black Eagle",
       "url": "https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW"
+    },
+    {
+      "album": {
+        "name": "Black Moon Botanica",
+        "url": "https://open.spotify.com/album/6jZitlCG9J8tIVDvOYaeAQ"
+      },
+      "artists": [
+        {
+          "name": "Forse Danzica",
+          "url": "https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242415,
+      "name": "Black Moon Botanica",
+      "url": "https://open.spotify.com/track/5Pn4NY0FKPbD8f6W3LQnIK"
     },
     {
       "album": {
@@ -30800,7 +30818,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 115550,
       "name": "PROMETTILO",
       "url": "https://open.spotify.com/track/330eb1FdY4VVbk9BxMm4ah"
@@ -30915,6 +30933,28 @@
     },
     {
       "album": {
+        "name": "PUNCH",
+        "url": "https://open.spotify.com/album/2UlJwVj0Bn7l72zUyG41MG"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Crybaby",
+          "url": "https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257926,
+      "name": "PUNCH",
+      "url": "https://open.spotify.com/track/7gZss68Fd1NkvrQ1EfuJED"
+    },
+    {
+      "album": {
         "name": "Punto e a capo",
         "url": "https://open.spotify.com/album/1mB5d9KmlC62drAZxz4BVd"
       },
@@ -30974,6 +31014,24 @@
       "duration_ms": 188003,
       "name": "PUZZA DI MARKETING",
       "url": "https://open.spotify.com/track/5yt1ZzicTyF5GyQV0JAErL"
+    },
+    {
+      "album": {
+        "name": "qnd sono triste!!!!",
+        "url": "https://open.spotify.com/album/1N1BXhVfodTUnMoWAaI4aU"
+      },
+      "artists": [
+        {
+          "name": "Gioac",
+          "url": "https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "qnd sono triste!!!!",
+      "url": "https://open.spotify.com/track/3A2G3Uz2WfGrNrKpUlqk8k"
     },
     {
       "album": {
@@ -35798,7 +35856,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 207500,
       "name": "SOTTOVOCE",
       "url": "https://open.spotify.com/track/5CA1r5AgFYSwpwFcIdZvgA"
@@ -37676,7 +37734,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 131500,
       "name": "te non ci 6",
       "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"

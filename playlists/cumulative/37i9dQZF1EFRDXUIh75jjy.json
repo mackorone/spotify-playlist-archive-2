@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 233025,
       "name": "ilym",
       "url": "https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 236081,
       "name": "ilym (feat. ROSIE)",
       "url": "https://open.spotify.com/track/6iT0ZdQcHwzQDNcAC2oDKX"
@@ -6048,6 +6048,24 @@
       "duration_ms": 237746,
       "name": "to the grave",
       "url": "https://open.spotify.com/track/5V7wh1SBtYZTqRLEsBuZAL"
+    },
+    {
+      "album": {
+        "name": "Together (Extended Mix)",
+        "url": "https://open.spotify.com/album/084MtajR1jPHmqQsIFJ1c7"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285353,
+      "name": "Together - Extended Mix",
+      "url": "https://open.spotify.com/track/1PxIIdly8Ay5WEEfIySck7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,832 likes - 151 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,784 likes - 151 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 54 | [smooth talkin'](https://open.spotify.com/track/3BtqvwGKnZ57NIsREGHM1t) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [smooth talkin'](https://open.spotify.com/album/408VPaeMn18Kw6paSxr0uw) | 3:17 |
 | 55 | [It's so fine](https://open.spotify.com/track/0BI04Da7YLU10A36jlirJd) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [It's so fine](https://open.spotify.com/album/5D5ymdmlSHDG7umrBcZ3hy) | 2:58 |
 | 56 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
-| 57 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 57 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 58 | [Take Me to Sunrise](https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Take Me to Sunrise](https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy) | 3:14 |
 | 59 | [2 Young \(feat\. Sophia Lynn\)](https://open.spotify.com/track/4SGaj6KxiXqv0HWUTRZ3r9) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Sophia Lynn](https://open.spotify.com/artist/0RlQ4ihvlLfWi6jcwmYq6G) | [7 Seas](https://open.spotify.com/album/7tSygPr4FlXym3HTRMRA8B) | 3:10 |
 | 60 | [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,530 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,568 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 34 | [Mi Gente](https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx) | 5:28 |
 | 35 | [Estamos en Salsa](https://open.spotify.com/track/4WkSEWIBJGXYQvPPgFdK64) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa](https://open.spotify.com/album/3xAW3AUVOVmrWFse5Oo25G) | 4:50 |
 | 36 | [Yerberito Moderno](https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:41 |
-| 37 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
-| 38 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 37 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 38 | [Traigo De Todo](https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Traigo De Todo](https://open.spotify.com/album/2LcTqOXdADXCBBQd6gcYkJ) | 4:22 |
 | 39 | [Aguanile](https://open.spotify.com/track/3EVhVW2ixQuzt92qmFWGD6) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 6:09 |
-| 40 | [Traigo De Todo](https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Traigo De Todo](https://open.spotify.com/album/2LcTqOXdADXCBBQd6gcYkJ) | 4:22 |
+| 40 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 41 | [Agua De Clavelito](https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g) | 6:22 |
 | 42 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [We Must Be Doing Something Right](https://open.spotify.com/album/0e6r15KH883uqbc8iWqpyC) | 5:33 |
 | 43 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |

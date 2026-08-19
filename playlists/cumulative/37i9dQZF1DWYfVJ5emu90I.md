@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-218 songs - 10 hr 33 min
+219 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [PAKI PAKI \- Remix](https://open.spotify.com/track/6XNvYDkoYUkRN3T53pkmYh) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [XakiMichele](https://open.spotify.com/artist/0bot17BSmicmNGtN9txwwR) | [PAKI PAKI \(Remix\)](https://open.spotify.com/album/1VQA20bmUiPYObLIdGqfYq) | 2:31 | 2022-11-19 | 2023-05-24 |
 | [Pineapple Express](https://open.spotify.com/track/0JxrXQ4fFG3ZK8i1GHAT5K) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [Yellow Pierrot](https://open.spotify.com/album/4JCITnnPrpSLijfhj5zPa3) | 1:58 | 2022-11-19 | 2023-05-24 |
 | [POP KILLERS](https://open.spotify.com/track/0JKLH3MfvHtHPGzWaPbaXO) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/3dyCh1FE71PhGCYAQfIw6C) | 2:39 | 2022-11-19 | 2023-06-22 |
-| [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 | 2024-02-27 |  |
+| [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 | 2024-02-27 | 2026-08-19 |
 | [PPAP](https://open.spotify.com/track/43VQeu11B8muwxxmTgklyI) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [The Race](https://open.spotify.com/album/7D6SzmtTlyIRrTwsyp7VA9) | 2:09 | 2022-11-19 | 2024-04-19 |
 | [priceless](https://open.spotify.com/track/3667F7zdsetcaPwwucYddi) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Homunculu$](https://open.spotify.com/artist/7DNQRBgbj9BOYu3mz8dTyi) | [Delicate](https://open.spotify.com/album/78I7c2SxQsfWt23YyAAIyf) | 1:32 | 2022-11-19 | 2024-04-19 |
 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 | 2025-11-26 |  |
@@ -160,6 +160,7 @@
 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 | 2022-11-19 | 2024-02-14 |
 | [ROMANÉE \-CONTI](https://open.spotify.com/track/4J8OZi1ItHMcLjU1TIOgvI) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd) | [THE MESSAGE III](https://open.spotify.com/album/0yVWJKqJ9jOVneyR1tjIUW) | 3:29 | 2022-11-19 | 2023-05-24 |
 | [Run It Back](https://open.spotify.com/track/1eWlti11pK0nmijVe4kxMG) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 3:32 | 2023-01-13 | 2023-06-22 |
+| [Running Wheel](https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Running Wheel](https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e) | 2:17 | 2026-08-19 |  |
 | [s2000](https://open.spotify.com/track/4o5e4C8yItyb107bggqWfe) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [s2000](https://open.spotify.com/album/3HZopZsgwsotS6jhQeNsUa) | 2:42 | 2024-04-24 | 2024-06-20 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-13 | 2024-08-22 |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2022-11-19 | 2024-04-19 |

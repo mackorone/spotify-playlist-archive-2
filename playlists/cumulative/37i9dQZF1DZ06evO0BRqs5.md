@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-99 songs - 7 hr 10 min
+100 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Dance with me](https://open.spotify.com/track/1G48etb0pwMYpqlCVpM955) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:48 | 2022-10-24 | 2023-10-06 |
 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 | 2022-06-09 |  |
 | [dear brightness](https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [INNOCENCE](https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI) | 4:39 | 2022-06-09 |  |
-| [Decay](https://open.spotify.com/track/51owOM1QNjD2YNrm9jUNQQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER / 絵空事](https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu) | 3:53 | 2026-04-30 |  |
+| [Decay](https://open.spotify.com/track/51owOM1QNjD2YNrm9jUNQQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER / 絵空事](https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu) | 3:53 | 2026-04-30 | 2026-08-19 |
 | [DRUM](https://open.spotify.com/track/3z81WD6YBsBq3QBzm5YrVG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [MONSTER / 絵空事](https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu) | 4:07 | 2026-04-26 |  |
 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 | 2022-10-21 | 2026-03-21 |
 | [FROATIN'](https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-06-09 |  |
@@ -73,6 +73,7 @@
 | [シリウス\(TV Size ver.\)](https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [シリウス\(TV Size ver.\)](https://open.spotify.com/album/5y9EoOfyfcOwi3fKenxlLj) | 1:29 | 2022-10-12 | 2023-01-20 |
 | [シンシアの光](https://open.spotify.com/track/1mJgEIOFtgA4Ako3Xlyxo4) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:17 | 2022-06-09 |  |
 | [ツナガルオモイ](https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:25 | 2022-06-09 | 2026-05-24 |
+| [ハナムケ](https://open.spotify.com/track/6qpbuxmxdJ6JD5xcclzZSD) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ハナムケ](https://open.spotify.com/album/43rN9V34h3yp3n8LBdBalR) | 4:03 | 2026-08-19 |  |
 | [ヒトカケラの勇気](https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 3:52 | 2022-06-09 |  |
 | [ヒトリトヒトリ](https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:39 | 2022-06-09 | 2022-10-13 |
 | [フェイスレス](https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:26 | 2022-06-09 | 2026-05-16 |

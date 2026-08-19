@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 439626,
+  "num_followers": 439593,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
+        "name": "Manda La Plena Moh",
+        "url": "https://open.spotify.com/album/6wJ61YVrC8GtqMWziylvsW"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 155025,
+      "name": "Formal",
+      "url": "https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 161167,
       "name": "TENGO GANAS",
       "url": "https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
-        "name": "Manda La Plena Moh",
-        "url": "https://open.spotify.com/album/6wJ61YVrC8GtqMWziylvsW"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 155025,
-      "name": "Formal",
-      "url": "https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU"
     },
     {
       "added_at": "2026-05-04 03:38:53",
@@ -1487,42 +1487,6 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
-        "name": "Estas Ganas",
-        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 166998,
-      "name": "Estas Ganas",
-      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -1547,6 +1511,26 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
         "name": "Pasaporte",
         "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 266787,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
+        "name": "Estas Ganas",
+        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 166998,
+      "name": "Estas Ganas",
+      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
     },
     {
       "added_at": "2026-05-04 03:38:53",

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2116492,
+  "num_followers": 2116522,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Save It For Later",
         "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "All I Ever Wanted Was You",
-        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
-      },
-      "artists": [
-        {
-          "name": "The Sways",
-          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "All I Ever Wanted Was You",
-      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "OptiMYSTIC",
-        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 232754,
-      "name": "OptiMYSTIC",
-      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "OptiMYSTIC",
+        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 232754,
+      "name": "OptiMYSTIC",
+      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Until the Hunter",
-        "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
-      },
-      "artists": [
-        {
-          "name": "Hope Sandoval & The Warm Inventions",
-          "url": "https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5"
-        },
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 450986,
-      "name": "Let Me Get There",
-      "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 246506,
       "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
       "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Until the Hunter",
+        "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
+      },
+      "artists": [
+        {
+          "name": "Hope Sandoval & The Warm Inventions",
+          "url": "https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5"
+        },
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 450986,
+      "name": "Let Me Get There",
+      "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Shaking Hands With Elvis",
+        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 209087,
+      "name": "Hollywood Forever Cemetery",
+      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "Shaking Hands With Elvis",
-        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 209087,
-      "name": "Hollywood Forever Cemetery",
-      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "En Garde",
-        "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
-      },
-      "artists": [
-        {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        }
-      ],
-      "duration_ms": 220175,
-      "name": "Teenage Drug",
-      "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "En Garde",
+        "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "duration_ms": 220175,
+      "name": "Teenage Drug",
+      "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Hurt By You",
         "url": "https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 230339,
       "name": "Hurt By You",
       "url": "https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Does This Go Faster?",
-        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Does This Go Faster?",
-      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Does This Go Faster?",
+        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Does This Go Faster?",
+      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "The Color That Suits You",
         "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 293037,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Modern Woman",
+        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Modern Woman",
+      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
     },
     {
       "added_at": "2026-07-31 00:00:14",

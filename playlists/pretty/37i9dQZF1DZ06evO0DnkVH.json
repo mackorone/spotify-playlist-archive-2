@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 208837,
+  "num_followers": 208846,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADH+GLpjgEsIRmnM0vMHYzd",
+  "snapshot_id": "aoJPAAAAAAC0pP3uXjaGGgMnO8udKW9F",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 304306,
-      "name": "Somewhere In Between - 2018 Remaster",
-      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 304306,
+      "name": "Somewhere In Between - 2018 Remaster",
+      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -471,38 +471,6 @@
       "duration_ms": 282173,
       "name": "Love And Anger - 2018 Remaster",
       "url": "https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 332613,
-      "name": "How To Be Invisible",
-      "url": "https://open.spotify.com/track/26MIynckGNn231BFt9ZjDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 61533,
-      "name": "Aerial Tal - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
     },
     {
       "added_at": null,
@@ -539,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 61533,
+      "name": "Aerial Tal - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -551,22 +535,6 @@
       "duration_ms": 224760,
       "name": "Never Be Mine - 2018 Remaster",
       "url": "https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 509200,
-      "name": "Nocturn - 2018 Remaster",
-      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
     },
     {
       "added_at": null,
@@ -603,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 332613,
+      "name": "How To Be Invisible",
+      "url": "https://open.spotify.com/track/26MIynckGNn231BFt9ZjDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 253933,
       "name": "The Dreaming",
       "url": "https://open.spotify.com/track/2pl1aMLPcte0dHWHSJ1mr0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 85893,
-      "name": "Prelude - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
     },
     {
       "added_at": null,
@@ -667,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 509200,
+      "name": "Nocturn - 2018 Remaster",
+      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 341306,
-      "name": "Prologue - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Of The Other Sides",
         "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
       },
@@ -708,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 294600,
-      "name": "Experiment IV - Remastered 2025",
-      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
+      "duration_ms": 299106,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI"
     },
     {
       "added_at": null,
@@ -772,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI"
+      "duration_ms": 294600,
+      "name": "Experiment IV - Remastered 2025",
+      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
     },
     {
       "added_at": null,
@@ -807,6 +775,38 @@
       "duration_ms": 194426,
       "name": "Full House - 2018 Remaster",
       "url": "https://open.spotify.com/track/3rds168fWqxkyYnyIvH3Ed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "Rocket's Tail - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3e28PghAqr6vlfIckqsKcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Shoes",
+        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 257111,
+      "name": "And So Is Love - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/636xq3U1tZUi4wHL2h7Jfp"
     }
   ],
   "unique_name": "This Is Kate Bush",

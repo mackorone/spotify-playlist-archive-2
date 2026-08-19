@@ -2861,6 +2861,28 @@
     },
     {
       "album": {
+        "name": "CHEMISTRY",
+        "url": "https://open.spotify.com/album/1FEBb1DocI7uuEFm28yhmp"
+      },
+      "artists": [
+        {
+          "name": "EMBER",
+          "url": "https://open.spotify.com/artist/5ihbdoATPWOfWATpAqWykJ"
+        },
+        {
+          "name": "Gabriel Eli",
+          "url": "https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230232,
+      "name": "CHEMISTRY",
+      "url": "https://open.spotify.com/track/3woxFt7ElBaNSqIwpQ6Wuv"
+    },
+    {
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR"
       },

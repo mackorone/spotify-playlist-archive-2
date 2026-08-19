@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Kinky en portada. ",
-  "num_followers": 961201,
+  "num_followers": 961064,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-07-03 06:00:13",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:13",
-      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
+    },
+    {
+      "added_at": "2026-07-03 06:00:13",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2026-07-03 06:00:13",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-07-03 06:00:13",
       "album": {
+        "name": "Perro de Pavlov",
+        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "duration_ms": 197271,
+      "name": "Perro de Pavlov",
+      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
+    },
+    {
+      "added_at": "2026-07-03 06:00:13",
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-07-03 06:00:13",
       "album": {
-        "name": "Perro de Pavlov",
-        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
-      },
-      "artists": [
-        {
-          "name": "Los Concorde",
-          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
-        }
-      ],
-      "duration_ms": 197271,
-      "name": "Perro de Pavlov",
-      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
-    },
-    {
-      "added_at": "2026-07-03 06:00:13",
-      "album": {
         "name": "No Olvidamos",
         "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
       },
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-03 06:00:13",
       "album": {
+        "name": "Maria Barracuda",
+        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
+    },
+    {
+      "added_at": "2026-07-03 06:00:13",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
-    },
-    {
-      "added_at": "2026-07-03 06:00:13",
-      "album": {
-        "name": "Maria Barracuda",
-        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Barracuda",
-          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
     },
     {
       "added_at": "2026-07-03 06:00:13",

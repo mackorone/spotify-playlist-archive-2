@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-401 songs - 22 hr 5 min
+402 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 | 2024-08-28 |  |
 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 | 2023-12-30 |  |
 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3zG8GtVDcRLUPNDeIvzY7i) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:35 | 2023-12-30 |  |
-| [Easy Lover \- Tabata Remix 128 Bpm](https://open.spotify.com/track/2SrZhPd7yOFxmMnNnaoBxM) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [40 Tabata Hits Fall 2022 Workout Session \(20 Sec\. Work and 10 Sec\. Rest Cycles With Vocal Cues / High Intensity Interval Training Compilation for Fitness & Workout\)](https://open.spotify.com/album/0VMeeDg0AygUDfpYQzxr0i) | 4:15 | 2025-06-27 |  |
+| [Easy Lover \- Tabata Remix 128 Bpm](https://open.spotify.com/track/2SrZhPd7yOFxmMnNnaoBxM) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [40 Tabata Hits Fall 2022 Workout Session \(20 Sec\. Work and 10 Sec\. Rest Cycles With Vocal Cues / High Intensity Interval Training Compilation for Fitness & Workout\)](https://open.spotify.com/album/0VMeeDg0AygUDfpYQzxr0i) | 4:15 | 2025-06-27 | 2026-08-19 |
+| [Easy Lover \- Workout Remix 128 Bpm](https://open.spotify.com/track/7LyqON3ywke1PeotTWgBDZ) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [Hard Music For Cardio Workout 2023 Session \(60 Minutes Non\-Stop Mixed Compilation for Fitness & Workout \- 128 Bpm / 32 Count\)](https://open.spotify.com/album/5UDc3hTeEVE6JoCwOgcgiD) | 4:15 | 2026-08-18 |  |
 | [Easy Lover \- Workout Remix 140 Bpm](https://open.spotify.com/track/3r36au0ztmAKCiPLKr6nIJ) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [Kick Boxing Fall 2022 Workout Session \(60 Minutes Non\-Stop Mixed Compilation for Fitness & Workout \- 140 Bpm / 32 Count\)](https://open.spotify.com/album/2wpWGNSbdTSjjOJiwYuiSt) | 3:53 | 2023-12-30 | 2025-06-28 |
 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 | 2024-04-23 |  |
 | [Either Way](https://open.spotify.com/track/4f49NZW0PuKOGo1Sz6v6gz) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(Official Video\)](https://open.spotify.com/album/6OBdlaBLFdclnF4n9aBZLv) | 3:05 | 2024-01-01 | 2024-02-01 |

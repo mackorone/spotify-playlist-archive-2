@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17122,
+  "num_followers": 17129,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/10evLNLrgCUrShWYttpITu"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 206454,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Los Nuevos Reyes",
         "url": "https://open.spotify.com/album/6q7NqAYt7mBBpAdA0lyfAo"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 231100,
       "name": "La Canci\u00f3n De Los Dos",
       "url": "https://open.spotify.com/track/3zVwgwb0Q9ZAoJdp949VXJ"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/10evLNLrgCUrShWYttpITu"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 206454,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Isla Pa Dos (Wawawao)",
-        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 137691,
-      "name": "Isla Pa Dos (Wawawao)",
-      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "11:11pm",
         "url": "https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195481,
       "name": "11:11pm",
       "url": "https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Isla Pa Dos (Wawawao)",
+        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Isla Pa Dos (Wawawao)",
+      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Pailas Parcera",
-        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
       "artists": [
         {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 188936,
-      "name": "Pailas Parcera",
-      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-06-26 04:59:12",
@@ -1231,22 +1227,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Pailas Parcera",
+        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+      },
+      "artists": [
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Pailas Parcera",
+      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "ni una foto",
+        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+        }
+      ],
+      "duration_ms": 192385,
+      "name": "ni una foto",
+      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Yo Quisiera",
         "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "ni una foto",
-        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
       },
       "artists": [
         {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
         }
       ],
-      "duration_ms": 192385,
-      "name": "ni una foto",
-      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1683,22 +1699,6 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 155613,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2026-06-19 04:59:04",

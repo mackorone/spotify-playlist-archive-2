@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Shakthisree Gopalan",
-  "num_followers": 108074,
+  "num_followers": 108141,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,34 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
         "name": "Alpha",
         "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
       },
@@ -727,34 +755,6 @@
       "duration_ms": 204000,
       "name": "Massacre",
       "url": "https://open.spotify.com/track/0oZKar3pGTDlDhOLzJxDle"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -819,6 +819,30 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
         "name": "Alpha",
         "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 160026,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/2JBnAP4CJoG3XQTMor1qoP"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
-        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 255584,
-      "name": "Chand Mera Dil - Shreya Ghoshal",
-      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Baby Do Die Do - Title Track",
-        "url": "https://open.spotify.com/album/1cWo4wBkod68TKq8DvrKs2"
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
       },
       "artists": [
         {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Arjun Iyer",
-          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         }
       ],
-      "duration_ms": 166640,
-      "name": "Baby Do Die Do - Title Track",
-      "url": "https://open.spotify.com/track/4OkexLok7lP8X9H635fKrQ"
+      "duration_ms": 207000,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Seven And a Half Dates",
-        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+        "name": "Baby Do Die Do - Title Track",
+        "url": "https://open.spotify.com/album/1cWo4wBkod68TKq8DvrKs2"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Arjun Iyer",
+          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Duniya",
-      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
+      "duration_ms": 166640,
+      "name": "Baby Do Die Do - Title Track",
+      "url": "https://open.spotify.com/track/4OkexLok7lP8X9H635fKrQ"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
-      },
-      "artists": [
-        {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
-        }
-      ],
-      "duration_ms": 230904,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
         "name": "Call Me Bae (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        }
+      ],
+      "duration_ms": 230904,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
         "name": "Saanware",
         "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "giraft",
-        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
-      },
-      "artists": [
-        {
-          "name": "Shalmali Kholgade",
-          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "giraft",
-      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
         "name": "Birha",
         "url": "https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv"
       },
@@ -1371,82 +1355,18 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Kya Batayein",
-        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+        "name": "giraft",
+        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
       },
       "artists": [
         {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        },
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
         }
       ],
-      "duration_ms": 260640,
-      "name": "Kya Batayein",
-      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
-        "name": "Mainu Ki Pata",
-        "url": "https://open.spotify.com/album/1DOe8ovWwYeiUUhpLWC1lx"
-      },
-      "artists": [
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mainu Ki Pata",
-      "url": "https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
-        "name": "Adatein",
-        "url": "https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        },
-        {
-          "name": "Charan Preet",
-          "url": "https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Adatein",
-      "url": "https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
-        "name": "Dil Ki Giraft",
-        "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
-      },
-      "artists": [
-        {
-          "name": "Dhairya Sharma",
-          "url": "https://open.spotify.com/artist/0iN0jINxS8965AGWQvGj1n"
-        }
-      ],
-      "duration_ms": 246374,
-      "name": "Dil Ki Giraft",
-      "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
+      "duration_ms": 168075,
+      "name": "giraft",
+      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1475,6 +1395,86 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
+        "name": "Kya Batayein",
+        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Kya Batayein",
+      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
+        "name": "Adatein",
+        "url": "https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Charan Preet",
+          "url": "https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Adatein",
+      "url": "https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
+        "name": "Mainu Ki Pata",
+        "url": "https://open.spotify.com/album/1DOe8ovWwYeiUUhpLWC1lx"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mainu Ki Pata",
+      "url": "https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
+        "name": "Dil Ki Giraft",
+        "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
+      },
+      "artists": [
+        {
+          "name": "Dhairya Sharma",
+          "url": "https://open.spotify.com/artist/0iN0jINxS8965AGWQvGj1n"
+        }
+      ],
+      "duration_ms": 246374,
+      "name": "Dil Ki Giraft",
+      "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
         "name": "Ek Din (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 267272,
       "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
         "name": "Behte Jana Hai",
         "url": "https://open.spotify.com/album/5FbDVzw5Y0OiYj5qocRLyA"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
       "artists": [
         {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
         }
       ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        }
-      ],
-      "duration_ms": 268989,
-      "name": "Tu Kuja",
-      "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
         "name": "Maa Behen",
         "url": "https://open.spotify.com/album/5tNzAiZuG5T2EYUOJL3lWI"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 205087,
       "name": "Yeh Kaisi Raat",
       "url": "https://open.spotify.com/track/7jV1IQyHNpu1n7MNkTgmB2"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "duration_ms": 268989,
+      "name": "Tu Kuja",
+      "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
     },
     {
       "added_at": "2026-08-14 13:29:28",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-08-14 13:29:28",
       "album": {
+        "name": "Ho Jaa",
+        "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "duration_ms": 212909,
+      "name": "Ho Jaa",
+      "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
+    },
+    {
+      "added_at": "2026-08-14 13:29:28",
+      "album": {
         "name": "Tum Mere Hona",
         "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 189356,
       "name": "Tum Mere Hona",
       "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
-    },
-    {
-      "added_at": "2026-08-14 13:29:28",
-      "album": {
-        "name": "Ho Jaa",
-        "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
-      },
-      "artists": [
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        }
-      ],
-      "duration_ms": 212909,
-      "name": "Ho Jaa",
-      "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
     }
   ],
   "unique_name": "EQUAL India",

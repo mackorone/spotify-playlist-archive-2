@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "Ivie And Duke Vol 2",
+        "url": "https://open.spotify.com/album/5OKLbINAcZkdjibWW9d6CN"
+      },
+      "artists": [
+        {
+          "name": "Ivie Anderson",
+          "url": "https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "A Lonely Co-Ed",
+      "url": "https://open.spotify.com/track/2VERuOjNs50QNeXrbGNeu3"
+    },
+    {
+      "album": {
         "name": "La chanson de Duke",
         "url": "https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk"
       },
@@ -136,7 +158,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 216371,
       "name": "Absinthe",
       "url": "https://open.spotify.com/track/7eB4SpTgVxvZWuIeyixPR0"
@@ -154,7 +176,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 212613,
       "name": "Absinthe",
       "url": "https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f"
@@ -269,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Summer Jazz: Duke Ellington",
+        "url": "https://open.spotify.com/album/3GUoYGLAuvGq0lMHWJhq4j"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "All Heart - Alternate Take 1",
+      "url": "https://open.spotify.com/track/2yvEGzQja1GppV7WAa1Y4j"
+    },
+    {
+      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book (Expanded Edition)",
         "url": "https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle"
       },
@@ -280,7 +320,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 242333,
       "name": "All Heart - Rehearsal",
       "url": "https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU"
@@ -822,10 +862,28 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 184906,
       "name": "Brown Betty",
       "url": "https://open.spotify.com/track/4iAhWLrolGmYuQgkvSW1sP"
+    },
+    {
+      "album": {
+        "name": "Duke Ellington",
+        "url": "https://open.spotify.com/album/0iEn31RUJfsIvipkrNXMdJ"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "Brown Betty",
+      "url": "https://open.spotify.com/track/2JvSnQhgBWBxHDYQkeJdpm"
     },
     {
       "album": {
@@ -1332,10 +1390,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 221200,
       "name": "Drawing Room Blues",
       "url": "https://open.spotify.com/track/1WqFswiLuP8cji7nskoepu"
+    },
+    {
+      "album": {
+        "name": "Lush Life: The Music of Billy Strayhorn",
+        "url": "https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452866,
+      "name": "Drawing Room Blues",
+      "url": "https://open.spotify.com/track/3xo33eEAxrs1zKPoZmuZ9Z"
     },
     {
       "album": {
@@ -1473,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Black, Brown and Beige",
+        "url": "https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262194,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/59kGczZStaWRgvj4hNwfc3"
+    },
+    {
+      "album": {
         "name": "Lady and the Tramp",
         "url": "https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk"
       },
@@ -1484,10 +1582,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 31160,
       "name": "Finale (Peace on Earth) - From \"Lady and the Tramp\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196346,
+      "name": "Fine And Mellow",
+      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
     },
     {
       "album": {
@@ -1716,10 +1832,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 145426,
       "name": "I'm Checkin' Out, Goom'bye",
       "url": "https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99"
+    },
+    {
+      "album": {
+        "name": "Hungry For Love - Her First Recordings, Vol. 2",
+        "url": "https://open.spotify.com/album/3yxr74Wuak4SNRNVM2RcU9"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "If I Could See the World (Through the Eyes of a Child)",
+      "url": "https://open.spotify.com/track/3821HZu61jFR4dTC1CUv5d"
     },
     {
       "album": {
@@ -2082,10 +2216,28 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 389493,
       "name": "Johnny Come Lately",
       "url": "https://open.spotify.com/track/6klmQRMwixVFcjxUndqTp3"
+    },
+    {
+      "album": {
+        "name": "Never No Lament: The Blanton-Webster Band",
+        "url": "https://open.spotify.com/album/2gVe4gvBXKlCLDeS3BaUfL"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "Johnny Come Lately - 1999 Remastered",
+      "url": "https://open.spotify.com/track/2HwAx0PZwU9dZu003SSFWw"
     },
     {
       "album": {
@@ -2215,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Never No Lament: The Blanton-Webster Band",
+        "url": "https://open.spotify.com/album/2gVe4gvBXKlCLDeS3BaUfL"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Just A-Sittin' and A-Rockin' - 1999 Remastered",
+      "url": "https://open.spotify.com/track/5UaaO5hMTr0o5wxDuMcYUz"
+    },
+    {
+      "album": {
         "name": "Take the \"A\" Train",
         "url": "https://open.spotify.com/album/4LZaK3coPn1M0KOvkSHeCc"
       },
@@ -2226,7 +2396,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 213426,
       "name": "Just a-Sittin' and a-Rockin' - 2001 - Remaster",
       "url": "https://open.spotify.com/track/5JZxO4q8pHQ0yYtu4p5Cdf"
@@ -2287,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Columbia Original Masters",
+        "url": "https://open.spotify.com/album/5fbLqwnBp6h14aOyJPebtT"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Killin' Myself",
+      "url": "https://open.spotify.com/track/1pdyxhWLJwwemBHtFBoVo2"
+    },
+    {
+      "album": {
         "name": "Cotton",
         "url": "https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH"
       },
@@ -2298,7 +2486,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 145684,
       "name": "Killin' Myself (Original Mix)",
       "url": "https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq"
@@ -2359,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "A Lull At Dawn",
+        "url": "https://open.spotify.com/album/3vBudSt5jFtqjWtHFdqM0Y"
+      },
+      "artists": [
+        {
+          "name": "Barney Bigard",
+          "url": "https://open.spotify.com/artist/28IxhsTl0mELeGN9E5J0Oh"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Lament For Javanette",
+      "url": "https://open.spotify.com/track/4Gex5q15k2QbxVD0UsP7hP"
+    },
+    {
+      "album": {
         "name": "The Great Ellington Units",
         "url": "https://open.spotify.com/album/7e30t2p2PEwyMLPDkvDni4"
       },
@@ -2374,7 +2580,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 171466,
       "name": "Lament for Javanette",
       "url": "https://open.spotify.com/track/1yKDOMEjp4mvH9rweDJWa4"
@@ -2691,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "The Ink Spots",
+        "url": "https://open.spotify.com/album/2GhNokYQo1eDL9ujpfgL3f"
+      },
+      "artists": [
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2PbAi85pVqZrx7qjncT7i4"
+    },
+    {
+      "album": {
         "name": "If I Didn't Care (Restored 2024)",
         "url": "https://open.spotify.com/album/7KXaWuflRENjAv86k91uiw"
       },
@@ -2702,7 +2926,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 181297,
       "name": "Maybe - Restored 2024",
       "url": "https://open.spotify.com/track/1PHfzRErp8TG3bd6yJKpfJ"
@@ -2903,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237168,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/1L87y7SgZXesDdGNv6jof6"
+    },
+    {
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -2994,7 +3236,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 278083,
       "name": "Newport Up",
       "url": "https://open.spotify.com/track/6nTU78IraUploReW0vasAl"
@@ -3048,10 +3290,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 191986,
       "name": "Noir bleu",
       "url": "https://open.spotify.com/track/28IAo2AR6RQLV0EsfgLi5t"
+    },
+    {
+      "album": {
+        "name": "A Lull At Dawn",
+        "url": "https://open.spotify.com/album/3vBudSt5jFtqjWtHFdqM0Y"
+      },
+      "artists": [
+        {
+          "name": "Barney Bigard",
+          "url": "https://open.spotify.com/artist/28IxhsTl0mELeGN9E5J0Oh"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192104,
+      "name": "Noir Bleu",
+      "url": "https://open.spotify.com/track/1sgEQ1fg0M2g6gbysplLS8"
     },
     {
       "album": {
@@ -3092,7 +3352,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 186440,
       "name": "Nutcracker Suite (Arr. Ellington & Strayhorn): Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
       "url": "https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE"
@@ -3359,6 +3619,28 @@
     },
     {
       "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650666,
+      "name": "Porgy And Bess: Overture",
+      "url": "https://open.spotify.com/track/159pOXfbpvaeyjsxKM37i6"
+    },
+    {
+      "album": {
         "name": "A Swedish Tribute to Duke",
         "url": "https://open.spotify.com/album/3wxLQMh9dK8qpBzuELb651"
       },
@@ -3552,10 +3834,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 175893,
       "name": "Progressive Gavotte",
       "url": "https://open.spotify.com/track/3URrsgBM7nSEhbfPd9J3US"
+    },
+    {
+      "album": {
+        "name": "BD Music Presents Billy Strayhorn Played by Duke Ellington",
+        "url": "https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "Progressive Gavotte",
+      "url": "https://open.spotify.com/track/3oFAGcJEFML6PfHTnK5tMe"
     },
     {
       "album": {
@@ -3610,6 +3910,24 @@
       "duration_ms": 429026,
       "name": "Pt. II-Blues to Be There - Live",
       "url": "https://open.spotify.com/track/4aKm1xEQAaEF1tDuQ4YMuJ"
+    },
+    {
+      "album": {
+        "name": "Ellington at Newport 1956 (Complete)",
+        "url": "https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331773,
+      "name": "Pt. III-Newport Up - Live",
+      "url": "https://open.spotify.com/track/2wlu9LI7bloXrDfkQKrEWw"
     },
     {
       "album": {
@@ -3848,7 +4166,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 179333,
       "name": "Satin Doll",
       "url": "https://open.spotify.com/track/02E4skBHp6ZyoEDgXHcQgu"
@@ -3884,7 +4202,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 156000,
       "name": "Smada",
       "url": "https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8"
@@ -3938,7 +4256,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 191546,
       "name": "Something To Live For",
       "url": "https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO"
@@ -4014,6 +4332,24 @@
       "duration_ms": 139400,
       "name": "Sonnet In Search of a Moor",
       "url": "https://open.spotify.com/track/4gnSAjbegG0GIlQTwyG6VI"
+    },
+    {
+      "album": {
+        "name": "RCA Original Masters",
+        "url": "https://open.spotify.com/album/1udjDWJutFcZExBdG9KgQJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Star Dust - 1989 Remastered",
+      "url": "https://open.spotify.com/track/1G9ec0LJUkQc7RJ5txMhMY"
     },
     {
       "album": {
@@ -4347,6 +4683,32 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: The Nutcracker, Op. 71",
+        "url": "https://open.spotify.com/album/303pCEwULmyjFJa5zwbgYy"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62640,
+      "name": "The Nutcracker, Op. 71, Act II: No. 12, Divertissement: d. Trepak (Russian Dance)",
+      "url": "https://open.spotify.com/track/6dfzY2hkrCYGgJIOuhGiuS"
+    },
+    {
+      "album": {
         "name": "Such Sweet Thunder (Expanded Edition)",
         "url": "https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA"
       },
@@ -4536,10 +4898,28 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 189640,
       "name": "Tigress",
       "url": "https://open.spotify.com/track/0noCHxitAlY7F4lDCSyuag"
+    },
+    {
+      "album": {
+        "name": "Afro Bossa",
+        "url": "https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington Orchestra",
+          "url": "https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Tigress",
+      "url": "https://open.spotify.com/track/0GFz3zVfYlFgVNxmlf3LxT"
     },
     {
       "album": {
@@ -4579,6 +4959,36 @@
     },
     {
       "album": {
+        "name": "Crosby, Bing: Some of These Days (1931-1933)",
+        "url": "https://open.spotify.com/album/7uVA7pG20okz4Tt1f84MPM"
+      },
+      "artists": [
+        {
+          "name": "Samuel M. Lewis",
+          "url": "https://open.spotify.com/artist/1D1nGlhOU1C1vAlwnTUelD"
+        },
+        {
+          "name": "Victor Young",
+          "url": "https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Victor Young Orchestra",
+          "url": "https://open.spotify.com/artist/3EQ5IozQSPnosaIdHxwA2r"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2orMq4m4fROSPJW7IJX7zr"
+    },
+    {
+      "album": {
         "name": "Black Moonlight Vol. 5",
         "url": "https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j"
       },
@@ -4590,7 +5000,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 191346,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m"
@@ -4684,7 +5094,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 323198,
       "name": "Triple Play",
       "url": "https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3"
@@ -4710,6 +5120,24 @@
       "duration_ms": 373328,
       "name": "Triple Play (Live)",
       "url": "https://open.spotify.com/track/4B15zMlAX4C6wOVTuKbGsW"
+    },
+    {
+      "album": {
+        "name": "Carnegie Hall Concert, December 1947",
+        "url": "https://open.spotify.com/album/2C96phV5dN4DqedysLq8Fd"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372666,
+      "name": "Triple Play - Live",
+      "url": "https://open.spotify.com/track/2BpigBdU6MYkjHRCxbEwfi"
     },
     {
       "album": {

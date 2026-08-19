@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 178116,
+  "num_followers": 178200,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAhOW7TVDd5ess7WGzMUTRB",
+  "snapshot_id": "aoJPAAAAAABs0BtsgHdSOBQ9VmAt6bQe",
   "tracks": [
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
+        "name": "When I'm Down",
+        "url": "https://open.spotify.com/album/4j5u2UH5L7qGhkodeRxBZm"
       },
       "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 148673,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
+      "duration_ms": 164680,
+      "name": "When I'm Down",
+      "url": "https://open.spotify.com/track/556l9P7WVZVyYUBjT1YFTT"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I'm Down",
-        "url": "https://open.spotify.com/album/4j5u2UH5L7qGhkodeRxBZm"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
       },
       "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 164680,
-      "name": "When I'm Down",
-      "url": "https://open.spotify.com/track/556l9P7WVZVyYUBjT1YFTT"
+      "duration_ms": 148673,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "added_at": null,

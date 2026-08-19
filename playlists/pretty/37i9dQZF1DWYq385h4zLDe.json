@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a call from the ancestors. Listen to all of your favorite music from the world of Moana. Disney's Live-Action Moana, now in theaters.",
-  "num_followers": 89339,
+  "num_followers": 89376,
   "original_name": "Moana Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTH7C0MNKPp+U6usBQGssZOjzZ1",
+  "snapshot_id": "AAAAAAr6iPpExE68cNFdVploMJE0TMDv",
   "tracks": [
     {
       "added_at": "2026-07-13 17:21:58",
@@ -55,58 +55,6 @@
       "duration_ms": 191044,
       "name": "We Know The Way",
       "url": "https://open.spotify.com/track/1TtwbjxWnoEljmkmSNb0of"
-    },
-    {
-      "added_at": "2026-07-31 21:05:43",
-      "album": {
-        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
-        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        }
-      ],
-      "duration_ms": 192229,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/4Hqqd6SX3eWXM6QdcE1Dol"
-    },
-    {
-      "added_at": "2026-07-31 21:05:43",
-      "album": {
-        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
-        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
-      },
-      "artists": [
-        {
-          "name": "Iam Tongi",
-          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
-        },
-        {
-          "name": "Paula Fuga",
-          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
-        }
-      ],
-      "duration_ms": 219607,
-      "name": "In The Waves",
-      "url": "https://open.spotify.com/track/5POQd0NUc2xApv7wwgBDlW"
-    },
-    {
-      "added_at": "2026-07-31 21:05:43",
-      "album": {
-        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
-        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
-      },
-      "artists": [
-        {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        }
-      ],
-      "duration_ms": 222837,
-      "name": "Your Dad",
-      "url": "https://open.spotify.com/track/6czX41kOGmpeHz2uw0oMOw"
     },
     {
       "added_at": "2026-07-13 17:21:58",
@@ -440,6 +388,58 @@
       },
       "artists": [
         {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 192229,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/4Hqqd6SX3eWXM6QdcE1Dol"
+    },
+    {
+      "added_at": "2026-07-31 21:05:43",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "duration_ms": 219607,
+      "name": "In The Waves",
+      "url": "https://open.spotify.com/track/5POQd0NUc2xApv7wwgBDlW"
+    },
+    {
+      "added_at": "2026-07-31 21:05:43",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "duration_ms": 222837,
+      "name": "Your Dad",
+      "url": "https://open.spotify.com/track/6czX41kOGmpeHz2uw0oMOw"
+    },
+    {
+      "added_at": "2026-07-31 21:05:43",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
           "name": "Becca Hatch",
           "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
         }
@@ -515,6 +515,138 @@
       "duration_ms": 172657,
       "name": "Strength Of A Woman",
       "url": "https://open.spotify.com/track/0HqN7ZQ6PlW7nb7s4y5np7"
+    },
+    {
+      "added_at": "2026-08-18 13:35:31",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Fia",
+          "url": "https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W"
+        }
+      ],
+      "duration_ms": 240568,
+      "name": "Toloa (Those Who Love You)",
+      "url": "https://open.spotify.com/track/147wtoBL8eMNR8RYiCxKZM"
+    },
+    {
+      "added_at": "2026-08-18 13:35:31",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "Kennyon Brown",
+          "url": "https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5"
+        },
+        {
+          "name": "Donell Lewis",
+          "url": "https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "Omai",
+      "url": "https://open.spotify.com/track/0pOT5MXXRjhDfGqCZHdqm9"
+    },
+    {
+      "added_at": "2026-08-18 13:35:31",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Aaradhna",
+          "url": "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+        }
+      ],
+      "duration_ms": 148136,
+      "name": "Be",
+      "url": "https://open.spotify.com/track/2FOAjUFbSYi5V00EDmEvz7"
+    },
+    {
+      "added_at": "2026-08-18 13:35:31",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        },
+        {
+          "name": "Keilana",
+          "url": "https://open.spotify.com/artist/0sTRDBYOb5QZxS37eMbfpx"
+        }
+      ],
+      "duration_ms": 224271,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3peCobivctt64JmuyhPpwp"
+    },
+    {
+      "added_at": "2026-08-18 13:35:31",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Fatai",
+          "url": "https://open.spotify.com/artist/34OMadP955CwymrTGJUbsw"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
+        }
+      ],
+      "duration_ms": 231885,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3u91wg6gYzf7Jhr2LbTfKE"
+    },
+    {
+      "added_at": "2026-08-18 13:35:31",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Tiana Nonosina Liufau",
+          "url": "https://open.spotify.com/artist/4Nyfze4NkzTaFCfgs6ZOM4"
+        },
+        {
+          "name": "Mevina",
+          "url": "https://open.spotify.com/artist/5QN9beOvlgtrevxYvqUu1p"
+        },
+        {
+          "name": "Rex Atirai",
+          "url": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW"
+        },
+        {
+          "name": "Afatia Thompson",
+          "url": "https://open.spotify.com/artist/5UVHjis6GMGf6KgRBOQqzD"
+        },
+        {
+          "name": "Chesser Cowan",
+          "url": "https://open.spotify.com/artist/1Dg0enmoDYItSr4n8eAFlu"
+        },
+        {
+          "name": "Kaumakaiwa Kanaka'ole",
+          "url": "https://open.spotify.com/artist/2ZDc7TO4cAbMXtDVv28hH4"
+        }
+      ],
+      "duration_ms": 243642,
+      "name": "T\u0100TOU",
+      "url": "https://open.spotify.com/track/1Vk8w6CP7nbMQPb19YihDP"
     },
     {
       "added_at": "2026-06-15 16:00:02",

@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 1077840,
+  "num_followers": 1078049,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
-        "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
-      },
-      "artists": [
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 220929,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 2 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/6R2B8rmhp25wFHIGZPmYYI"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 231642,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3hm4axDodp2jFEDohQfXxV"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
+        "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
+      },
+      "artists": [
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 220929,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9"
       },
@@ -867,34 +851,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 5",
-        "url": "https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut"
+        "name": "START-UP (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 233939,
-      "name": "All with You",
-      "url": "https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
-      },
-      "artists": [
-        {
-          "name": "\uc5d0\uc774 \uc2a4\ud0c0\uc77c",
-          "url": "https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "\uc544\uc26c\uc6b4 \ub9c8\uc74c\uc778\uac78",
-      "url": "https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG"
+      "duration_ms": 215880,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -920,6 +888,22 @@
       },
       "artists": [
         {
+          "name": "\uc5d0\uc774 \uc2a4\ud0c0\uc77c",
+          "url": "https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "\uc544\uc26c\uc6b4 \ub9c8\uc74c\uc778\uac78",
+      "url": "https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
+      },
+      "artists": [
+        {
           "name": "HowL",
           "url": "https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad"
         }
@@ -927,6 +911,22 @@
       "duration_ms": 223746,
       "name": "Love U",
       "url": "https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 233939,
+      "name": "All with You",
+      "url": "https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/6AD37A2yi3XJgsSdEwfyYi"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 232798,
       "name": "I\u2032ll Be There",
       "url": "https://open.spotify.com/track/61957qi95EnJmPoklmcc5p"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Descendants Of The Sun Pt.7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
       },
       "artists": [
         {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
+      },
+      "artists": [
+        {
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "Borrow your night (Romance 101 X 10CM)",
         "url": "https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 187840,
       "name": "Borrow your night (Romance 101 X 10CM)",
       "url": "https://open.spotify.com/track/5KVLNQ87MPlHDXR8WXXZmh"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "Descendants Of The Sun Pt.8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 226108,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "Descendants Of The Sun Pt.8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 226108,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "KING THE LAND (Original Television Soundtrack), Pt.9",
         "url": "https://open.spotify.com/album/1RbPDmimZAOVVbyHyjwXhq"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "SECRET GARDEN DRAMA OST Part.5",
-        "url": "https://open.spotify.com/album/7Kj4iWxj46ndA8bZPJrJqy"
-      },
-      "artists": [
-        {
-          "name": "HYUN BIN",
-          "url": "https://open.spotify.com/artist/7u0vBjg2cyEOum1UzgH8W6"
-        }
-      ],
-      "duration_ms": 271220,
-      "name": "The man",
-      "url": "https://open.spotify.com/track/2OGANfvwjjyCGshEfeG0FX"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Healer (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "SECRET GARDEN DRAMA OST Part.5",
+        "url": "https://open.spotify.com/album/7Kj4iWxj46ndA8bZPJrJqy"
+      },
+      "artists": [
+        {
+          "name": "HYUN BIN",
+          "url": "https://open.spotify.com/artist/7u0vBjg2cyEOum1UzgH8W6"
+        }
+      ],
+      "duration_ms": 271220,
+      "name": "The man",
+      "url": "https://open.spotify.com/track/2OGANfvwjjyCGshEfeG0FX"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Heartstrings OST Part.1",
-        "url": "https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ"
-      },
-      "artists": [
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
-        }
-      ],
-      "duration_ms": 191007,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 12",
         "url": "https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 259786,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Heartstrings OST Part.1",
+        "url": "https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "duration_ms": 191007,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6"
     },
     {
       "added_at": "2024-10-10 07:07:00",

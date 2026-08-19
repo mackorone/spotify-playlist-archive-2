@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,251 likes - 100 songs - 5 hr 26 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,250 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 24 | [Wildfire](https://open.spotify.com/track/6rdVVTP8Fs5AmMYanwCrCc) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wildfire](https://open.spotify.com/album/31kQqaQfEmz85o5POXCYc9) | 3:21 |
 | 25 | [Feels Like Forever](https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Feels Like Forever](https://open.spotify.com/album/1O59CVuNp3WHcV7lgRnoHm) | 3:12 |
 | 26 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
-| 27 | [After Dark](https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [After Dark](https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx) | 3:01 |
+| 27 | [After Dark \(Carry Me Home\)](https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [After Dark \(Carry Me Home\)](https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx) | 3:01 |
 | 28 | [Sweet Lady](https://open.spotify.com/track/3qki7H1syBM1mvFXAVgjn8) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward](https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V) | 2:59 |
 | 29 | [Half The Man](https://open.spotify.com/track/0vvYTzRfvQJO5BGt7Em0yy) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half The Man](https://open.spotify.com/album/67x0OJEVWnsNZc7vtEGDoB) | 3:56 |
 | 30 | [Nothing On Me](https://open.spotify.com/track/1V5SxmanpeqEjZIUfCWp5T) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Nothing On Me](https://open.spotify.com/album/7hwI2tNyQeVRShLYQrVoxv) | 2:36 |

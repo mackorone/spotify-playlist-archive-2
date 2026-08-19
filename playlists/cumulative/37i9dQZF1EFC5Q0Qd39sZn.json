@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Songs I Love To Share",
+        "url": "https://open.spotify.com/album/4FuFwDx8bMkGQyXRq846mx"
+      },
+      "artists": [
+        {
+          "name": "Albert West",
+          "url": "https://open.spotify.com/artist/00BQd3WIu5VBBP2y1NvIrk"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203755,
+      "name": "Give A Little Love",
+      "url": "https://open.spotify.com/track/3ZSqsAUFzHgzhSKifVP4Md"
+    },
+    {
+      "album": {
         "name": "Hammond & West",
         "url": "https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe"
       },
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 208960,
       "name": "Give A Little Love",
       "url": "https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW"
@@ -3618,10 +3636,28 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 242800,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/55UDEdpcearZqBPO2aZaGV"
+    },
+    {
+      "album": {
+        "name": "Prizefighter: Hit After Hit",
+        "url": "https://open.spotify.com/album/3uv9CneS6dRiW20j3chkMM"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245186,
+      "name": "How Do I Live (2014 Re-Recorded Version)",
+      "url": "https://open.spotify.com/track/4m9XlfZPQVbTCogCBMsteb"
     },
     {
       "album": {
@@ -3823,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1IJbRzdrd9RH7mSvcUtufE"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "I Confess",
+      "url": "https://open.spotify.com/track/68qaKYgWGd9WgxrKrQzazc"
+    },
+    {
+      "album": {
         "name": "Hot On the Trail (Expanded Edition)",
         "url": "https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl"
       },
@@ -3834,7 +3888,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 302200,
       "name": "I Confess - 12\" Dance Mix",
       "url": "https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090"
@@ -7604,10 +7658,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 218520,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/19THgiXrY9qs0fn8jF6GZz"
+    },
+    {
+      "album": {
+        "name": "7th Symphony",
+        "url": "https://open.spotify.com/album/5I3AYgFwAzIQlYM2XImPfb"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Doug Robb",
+          "url": "https://open.spotify.com/artist/5pE0is81jUeW6fxW84age3"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/40L3j5BHvEGz8hcNdJTtpB"
     },
     {
       "album": {

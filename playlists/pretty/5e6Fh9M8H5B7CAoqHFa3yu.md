@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 351 likes - 2,551 songs - 6 day 5 hr 56 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 352 likes - 2,555 songs - 6 day 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2559,5 +2559,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2549 | [New Beginnings](https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [New Beginnings](https://open.spotify.com/album/3ugLThsefNvx96vqsIxRkz) | 2:29 |
 | 2550 | [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 |
 | 2551 | [Pieces of What Remains](https://open.spotify.com/track/5QQTMMGeU7V3FPyOROA8xN) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [Love Was Over 2](https://open.spotify.com/album/5LifJ9RHvyofajKP1YZrGl) | 4:34 |
+| 2552 | [Wading In The Water](https://open.spotify.com/track/10XJf0lXpUmgHWBq7K3hui) | [Blair Jollands](https://open.spotify.com/artist/5p9yXFiNqgv9Nl6zr3Fhy8) | [Little Comet](https://open.spotify.com/album/3Dy7knxrjjZpGmaYbVb6OP) | 4:23 |
+| 2553 | [Twisted](https://open.spotify.com/track/1mGvvyLacsnDLQOhQOmg3o) | [Yxngex](https://open.spotify.com/artist/0d0dXzwgVkfOBeOZEfCdbz), [Velll](https://open.spotify.com/artist/3IQkPreO643OIfIdJHKx37), [Tee El](https://open.spotify.com/artist/26toZDZj8tnjsNOZVsvBZy) | [End Of The Line](https://open.spotify.com/album/32Sq6609YnxfoSMG3cuD3U) | 3:21 |
+| 2554 | [Summer Drift](https://open.spotify.com/track/2RU3H8DMErDTsXemUa5iey) | [Cflow](https://open.spotify.com/artist/12p5MtJNJ2E9AtLouRQxQF) | [Summer Drift](https://open.spotify.com/album/0wNmJmaeyZspiO7u1XjD4d) | 4:25 |
+| 2555 | [20's](https://open.spotify.com/track/7255Bh8e0ZLIDBvYFlMfno) | [Marcaru](https://open.spotify.com/artist/2Q3iMMfyD9Nb9F48laSLc4) | [20's](https://open.spotify.com/album/24XLeJiivd85xaxBB3S3d0) | 2:44 |
 
-Snapshot ID: `AAAK1kd7FeAmqkevedVrVWmn6Jm6Qlib`
+Snapshot ID: `AAAK2o80sG0oZRhr7Oq9YtdAc598th4a`

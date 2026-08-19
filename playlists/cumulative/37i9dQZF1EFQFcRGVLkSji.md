@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 9 hr 44 min
+206 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [WHAT WENT WRONG???](https://open.spotify.com/track/4eD4CdjhBrdXr88GRiljiL) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:37 | 2025-06-01 | 2026-04-26 |
 | [WHAT WENT WRONG???](https://open.spotify.com/track/64QtYtadxc92BJwnGnsuEc) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:37 | 2026-04-25 |  |
 | [What Would Pluto Do](https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:02 | 2025-06-01 |  |
-| [what’s happenin? \(feat\. Ledbyher\)](https://open.spotify.com/track/7lCxAYYoTG7fpFnmti9Kpq) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:13 | 2026-05-28 |  |
+| [what’s happenin? \(feat\. Ledbyher\)](https://open.spotify.com/track/6n6Ms6N7lYYSc4TQA8BApx) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 2:13 | 2026-08-18 |  |
+| [what’s happenin? \(feat\. Ledbyher\)](https://open.spotify.com/track/7lCxAYYoTG7fpFnmti9Kpq) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:13 | 2026-05-28 | 2026-08-19 |
 | [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 | 2025-07-09 |  |
 | [Who Wit Me](https://open.spotify.com/track/6SlEbe7ae9NBK6QjM6tR0l) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2025-06-01 |  |
 | [Wild](https://open.spotify.com/track/0HQkNYuExxqtYMHfPBexOR) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Wild](https://open.spotify.com/album/6RQZUVur7VDCgdFQ7rRUph) | 2:36 | 2025-06-01 |  |

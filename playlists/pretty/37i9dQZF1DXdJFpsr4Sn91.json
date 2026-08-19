@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59736,
+  "num_followers": 59729,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -431,38 +431,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Economy PLUS",
-        "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
-      },
-      "artists": [
-        {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Economy PLUS",
-      "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg"
       },
@@ -483,6 +451,38 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Economy PLUS",
+        "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Economy PLUS",
+      "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Badabim (My Kind Of Terapiaa)",
         "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Jokaisen hymyn takana",
-        "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
-      },
-      "artists": [
-        {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Jokaisen hymyn takana",
-      "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Pelkk\u00e4 kirosana",
         "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 192949,
       "name": "Pelkk\u00e4 kirosana",
       "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Jokaisen hymyn takana",
+        "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Jokaisen hymyn takana",
+      "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Hei Supermario (feat. Samuell)",
-        "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
-      },
-      "artists": [
-        {
-          "name": "DOG HUSTLERS",
-          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
-        },
-        {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        }
-      ],
-      "duration_ms": 114206,
-      "name": "Hei Supermario (feat. Samuell)",
-      "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
         "url": "https://open.spotify.com/album/6HPxidIevlLoAMToenpZCw"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 181607,
       "name": "en tunne",
       "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Hei Supermario (feat. Samuell)",
+        "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
+      },
+      "artists": [
+        {
+          "name": "DOG HUSTLERS",
+          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
+        },
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        }
+      ],
+      "duration_ms": 114206,
+      "name": "Hei Supermario (feat. Samuell)",
+      "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Tilulilulauluja",
-        "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Tilulilulauluja",
-      "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "V\u00e4rit",
         "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Tilulilulauluja",
+        "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Tilulilulauluja",
+      "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "110%",
-        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
-      },
-      "artists": [
-        {
-          "name": "Frans Harju",
-          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "110%",
-      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Sukupuu",
         "url": "https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 185600,
       "name": "Sukupuu",
       "url": "https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "110%",
+        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
+      },
+      "artists": [
+        {
+          "name": "Frans Harju",
+          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "110%",
+      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
     },
     {
       "added_at": "2026-06-25 21:00:31",

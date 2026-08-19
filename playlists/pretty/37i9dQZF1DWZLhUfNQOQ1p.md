@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,478 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,586 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 3 | [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 |
 | 4 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 5 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 |
-| 6 | [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 |
-| 7 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
+| 6 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
+| 7 | [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 |
 | 8 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
 | 9 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 |
 | 10 | [Negroni Love](https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Negroni Love](https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s) | 2:38 |

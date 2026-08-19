@@ -1,12 +1,12 @@
 {
   "description": "#fyp songs voor je playlist met o.a. Ray & Beer. <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
-  "num_followers": 50803,
+  "num_followers": 50819,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYRU5pQF6k8iUyTpwCVzSI3Hs85",
+  "snapshot_id": "AAAAABKrzQnMSY/gwb1kJWMiWMkpOj2P",
   "tracks": [
     {
       "added_at": "2026-08-13 09:29:39",
@@ -23,6 +23,30 @@
       "duration_ms": 184656,
       "name": "Zonnebank",
       "url": "https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK"
+    },
+    {
+      "added_at": "2026-08-13 09:29:39",
+      "album": {
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 125357,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
       "added_at": "2026-08-13 09:29:39",
@@ -51,30 +75,6 @@
       "duration_ms": 121512,
       "name": "Cheerio Summer Mix",
       "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
-    },
-    {
-      "added_at": "2026-08-13 09:29:39",
-      "album": {
-        "name": "Mi Chico (Official - Jason Derulo x Melody)",
-        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
-      },
-      "artists": [
-        {
-          "name": "DJ Goja",
-          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 125357,
-      "name": "Mi Chico - Official - Jason Derulo x Melody",
-      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
       "added_at": "2026-08-13 09:29:39",

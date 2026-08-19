@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,811 likes - 278 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,808 likes - 278 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 25 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU) | 2:54 |
 | 26 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
 | 27 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 |
-| 28 | [TIT FOR TAT](https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:57 |
-| 29 | [Rock Bottom](https://open.spotify.com/track/1n8ZUpQ0iVY6gVBgEUdA2Q) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:18 |
+| 28 | [Rock Bottom](https://open.spotify.com/track/1n8ZUpQ0iVY6gVBgEUdA2Q) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:18 |
+| 29 | [TIT FOR TAT](https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:57 |
 | 30 | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie To Me \(feat\. Julia Michaels\)](https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT) | 2:29 |
 | 31 | [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 |
 | 32 | [The Feeling](https://open.spotify.com/track/7E390nZTMqEbrNC1TmHd42) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 4:04 |
@@ -281,10 +281,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 271 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 |
 | 272 | [Who You Are](https://open.spotify.com/track/3xg7PX8PzLHzvejaShh2tt) | [Julia](https://open.spotify.com/artist/3iKuQ9K89SSUkTH67EILJf) | [Super Girl](https://open.spotify.com/album/1Cc0VhEOuzBebDytKToJmC) | 3:17 |
 | 273 | [how do we get back to love?](https://open.spotify.com/track/0ksqaOzbJ9G2Z3UoBQpT1m) | [FIELDS](https://open.spotify.com/artist/5BLQASl9i5xT1xsB40S1HO) | [how do we get back to love?](https://open.spotify.com/album/2MQwrv39ialAwb8SmXOHU2) | 3:19 |
-| 274 | [Easy Lover \- Tabata Remix 128 Bpm](https://open.spotify.com/track/2SrZhPd7yOFxmMnNnaoBxM) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [40 Tabata Hits Fall 2022 Workout Session \(20 Sec\. Work and 10 Sec\. Rest Cycles With Vocal Cues / High Intensity Interval Training Compilation for Fitness & Workout\)](https://open.spotify.com/album/0VMeeDg0AygUDfpYQzxr0i) | 4:15 |
-| 275 | [Follow Me](https://open.spotify.com/track/1yXfzJv2XPRkb0yO1mdEH7) | [James Eagle](https://open.spotify.com/artist/3wwS8vlx9xmeH9fRrVjAgc) | [Garden Music](https://open.spotify.com/album/2a8A9URycJ8IZZjOPUt5pY) | 1:41 |
+| 274 | [Follow Me](https://open.spotify.com/track/1yXfzJv2XPRkb0yO1mdEH7) | [James Eagle](https://open.spotify.com/artist/3wwS8vlx9xmeH9fRrVjAgc) | [Garden Music](https://open.spotify.com/album/2a8A9URycJ8IZZjOPUt5pY) | 1:41 |
+| 275 | [Easy Lover \- Workout Remix 128 Bpm](https://open.spotify.com/track/7LyqON3ywke1PeotTWgBDZ) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [Hard Music For Cardio Workout 2023 Session \(60 Minutes Non\-Stop Mixed Compilation for Fitness & Workout \- 128 Bpm / 32 Count\)](https://open.spotify.com/album/5UDc3hTeEVE6JoCwOgcgiD) | 4:15 |
 | 276 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 277 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 278 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcZ2RAAAAACTIWGLAEKgMdnvG7bh5BZq`
+Snapshot ID: `AcZ75AAAAACa+xbbkTZgu5mZrb/iPaBT`

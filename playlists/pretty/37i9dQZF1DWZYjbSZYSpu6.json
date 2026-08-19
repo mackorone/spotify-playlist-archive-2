@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: DAYOUNG, Jay Park)",
-  "num_followers": 392855,
+  "num_followers": 392858,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-08-07 01:29:11",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 244669,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
-    },
-    {
-      "added_at": "2026-08-07 01:29:11",
-      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -315,18 +295,22 @@
     {
       "added_at": "2026-08-07 01:29:11",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
       },
       "artists": [
         {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
     },
     {
       "added_at": "2026-08-07 01:29:11",
@@ -347,6 +331,22 @@
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
+    },
+    {
+      "added_at": "2026-08-07 01:29:11",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-08-07 01:29:11",

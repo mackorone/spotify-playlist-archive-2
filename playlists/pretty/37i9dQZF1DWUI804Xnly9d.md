@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,162 likes - 74 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,188 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 53 | [Zihaal e Miskin \- Acoustic Version](https://open.spotify.com/track/5pdlxHg7rN1Fwu7s5FBz5b) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin \(Acoustic Version\)](https://open.spotify.com/album/5ZPtE4inm85dD7lyUp68RM) | 4:06 |
 | 54 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 |
 | 55 | [Awaara](https://open.spotify.com/track/6e57KndbKvAeQzzSXiNjbn) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Awaara](https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF) | 2:52 |
-| 56 | [Yaaron \- Unplugged](https://open.spotify.com/track/1Bc4g3Z7ctklJz3IFRpHIj) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Home Session](https://open.spotify.com/album/3VdOS1TsIJojJH8yKBgu39) | 3:12 |
+| 56 | [Yaaron \- Unplugged](https://open.spotify.com/track/1Bc4g3Z7ctklJz3IFRpHIj) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Home Session](https://open.spotify.com/album/3VdOS1TsIJojJH8yKBgu39) | 3:12 |
 | 57 | [Hissa](https://open.spotify.com/track/7q4M600wYwnYjqzMRz49yS) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq), [Abhi Solanki](https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob) | [Hissa](https://open.spotify.com/album/6Ei4UzqkF6PgJGi9QNneUa) | 3:01 |
 | 58 | [Koi Khwab](https://open.spotify.com/track/7KHeGvdKguMx2skcrIKaVh) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [Sheeba Alam](https://open.spotify.com/artist/7gTKX7BKhCiz4aZx6W5nkH), [Israt Tonni](https://open.spotify.com/artist/0mg1A2jSH2hI5TUEdz6Glh), [Valerii Kurtesov](https://open.spotify.com/artist/41SsNhMS20TDzhI4EOPWuo) | [Koi Khwab](https://open.spotify.com/album/389jYBhedE6oiaxkP4MCyl) | 2:55 |
 | 59 | [Tu Hai Jahan](https://open.spotify.com/track/76lcc6s4CMwUi5WTx4eOVh) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [Tu Hai Jahan](https://open.spotify.com/album/5OraAICpQhKRJ3DlP7P8aa) | 3:57 |

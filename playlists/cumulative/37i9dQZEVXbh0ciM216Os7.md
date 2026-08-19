@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,657 songs - 9 day 13 hr 29 min
+3,658 songs - 9 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-02 | 2025-05-24 |
 | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo) | 2:47 | 2023-06-23 | 2023-07-16 |
 | [BANG BANG! \(My Neurodivergent Anthem\) \- Galantis & Misha K VIP Mix](https://open.spotify.com/track/1vz6ErQBR3A0nsA2NSDVYu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Misha K](https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q) | [BANG BANG! \(My Neurodivergent Anthem\) \[Galantis & Misha K VIP Mix\]](https://open.spotify.com/album/5MdCn0CN06fzh8TcuHRPFy) | 2:34 | 2023-07-21 | 2023-08-05 |
-| [BANG!](https://open.spotify.com/track/1HejpjNLuM5reFjeTnYfj9) | [I In Team](https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B), [Nick Sanville](https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB), [Phonosapien](https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa), [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [BANG!](https://open.spotify.com/album/0vAyLT72VKsbSo6xYxSXWR) | 2:25 | 2026-08-14 |  |
+| [BANG!](https://open.spotify.com/track/1HejpjNLuM5reFjeTnYfj9) | [I In Team](https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B), [Nick Sanville](https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB), [Phonosapien](https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa), [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [BANG!](https://open.spotify.com/album/0vAyLT72VKsbSo6xYxSXWR) | 2:25 | 2026-08-14 | 2026-08-19 |
+| [BANG!](https://open.spotify.com/track/3jj1qRsDIvU4zgMo3YKDkD) | [I In Team](https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B), [Nick Sanville](https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB), [Phonosapien](https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa), [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [Goat Food](https://open.spotify.com/album/3qmbmC46WOFVHHA8mJ40ZX) | 2:25 | 2026-08-14 |  |
 | [Banks](https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 3:41 | 2024-06-28 | 2024-07-06 |
 | [Baptism](https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ) | [Attica Riots](https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4) | [Life's a Sugar Pill](https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s) | 3:05 | 2023-12-08 | 2024-01-07 |
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-03-28 | 2025-04-01 |

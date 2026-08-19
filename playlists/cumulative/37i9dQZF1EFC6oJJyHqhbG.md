@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 10 hr 23 min
+175 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Dumb Blonde \(feat\. Nicki Minaj\)](https://open.spotify.com/track/1Spmq0UazGU6ovMIlGldZX) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:34 | 2024-02-27 |  |
 | [Easy](https://open.spotify.com/track/0HueVzDTD7sTvE7w4S4DZ1) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:51 | 2024-02-27 | 2025-07-07 |
 | [Easy](https://open.spotify.com/track/6BuIFQSbCEXftXMEmJZ4gb) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic \(Play Hard Edition\)](https://open.spotify.com/album/2wxjqSACJVvxCe09Id9JjC) | 3:51 | 2025-07-06 |  |
-| [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 | 2024-06-02 |  |
+| [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 | 2024-06-02 | 2026-08-19 |
+| [Electric Heaven](https://open.spotify.com/track/2QGtkSwhGoBVZ7Gu9kCoXD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Electric Heaven](https://open.spotify.com/album/7kj0ogoANmNMHRUqhDzw2v) | 3:25 | 2026-08-18 |  |
 | [Erase](https://open.spotify.com/track/7qiLJPzgKNFAM7WsSSOffu) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF) | [Erase](https://open.spotify.com/album/6ZB0iifdGX1JzZhwoujZIv) | 3:24 | 2024-02-27 |  |
 | [Everything but You](https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 | 2024-06-02 |  |
 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 | 2024-02-27 | 2025-05-05 |

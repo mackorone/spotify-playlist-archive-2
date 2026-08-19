@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 819231,
+  "num_followers": 819301,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "The Price of Admission",
-        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Heaven Passing Through",
-      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+      "duration_ms": 240800,
+      "name": "Heaven Passing Through",
+      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
-      },
-      "artists": [
-        {
-          "name": "The American Spirit",
-          "url": "https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Sons & Daughters",
-      "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 191182,
       "name": "John Came Home",
       "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
+      },
+      "artists": [
+        {
+          "name": "The American Spirit",
+          "url": "https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Sons & Daughters",
+      "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Blossom Talk",
-        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
-      },
-      "artists": [
-        {
-          "name": "Hestina",
-          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
-        }
-      ],
-      "duration_ms": 213590,
-      "name": "You Don't Fool Me",
-      "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "What Does It Matter Now?",
         "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 275720,
       "name": "What Does It Matter Now?",
       "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Blossom Talk",
+        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
+      },
+      "artists": [
+        {
+          "name": "Hestina",
+          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
+        }
+      ],
+      "duration_ms": 213590,
+      "name": "You Don't Fool Me",
+      "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
-        "name": "Blossom Talk",
-        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
-      },
-      "artists": [
-        {
-          "name": "Hestina",
-          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
         "name": "Boy From The North (ADA / USA)",
         "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 196946,
       "name": "Conman Coming",
       "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
+        "name": "Blossom Talk",
+        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
+      },
+      "artists": [
+        {
+          "name": "Hestina",
+          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
     },
     {
       "added_at": "2026-08-14 04:01:04",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-08-14 04:01:04",
       "album": {
+        "name": "Raise Hell",
+        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
+    },
+    {
+      "added_at": "2026-08-14 04:01:04",
+      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
-    },
-    {
-      "added_at": "2026-08-14 04:01:04",
-      "album": {
-        "name": "Raise Hell",
-        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
     }
   ],
   "unique_name": "Southern Gothic",

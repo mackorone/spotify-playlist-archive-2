@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 94266,
+  "num_followers": 94264,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -707,8 +707,8 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "CURSI",
-        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 181813,
-      "name": "CURSI",
-      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
+      "duration_ms": 161617,
+      "name": "Ni\u00f1o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -791,8 +791,8 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+        "name": "CURSI",
+        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 161617,
-      "name": "Ni\u00f1o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+      "duration_ms": 181813,
+      "name": "CURSI",
+      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Pinamar",
         "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 179800,
       "name": "Pinamar",
       "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Me da igual",
-        "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        },
-        {
-          "name": "Jaze",
-          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Llamame",
         "url": "https://open.spotify.com/album/3qx0TEK0UIW4bceOm50D8f"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 208790,
       "name": "Llamame",
       "url": "https://open.spotify.com/track/52pBr4O7TlAQ7rDS8TPxlf"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        },
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "El Club",
         "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Mi D\u00eda",
-        "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
-      },
-      "artists": [
-        {
-          "name": "Joystick",
-          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
-        }
-      ],
-      "duration_ms": 213197,
-      "name": "Mi D\u00eda",
-      "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "La Burbuja",
         "url": "https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 230179,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Mi D\u00eda",
+        "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
+      },
+      "artists": [
+        {
+          "name": "Joystick",
+          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
+        }
+      ],
+      "duration_ms": 213197,
+      "name": "Mi D\u00eda",
+      "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
     },
     {
       "added_at": "2024-09-20 03:00:00",

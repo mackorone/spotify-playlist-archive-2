@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,470 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,472 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 29 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
 | 30 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
 | 31 | [Mi mamá](https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones ¡Tope guay!](https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb) | 3:55 |
-| 32 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
-| 33 | [En Mi Mundo \- From "Violetta" Music from the TV Series](https://open.spotify.com/track/1GJqULuKQWN1ltMEOJuhes) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:32 |
+| 32 | [En Mi Mundo \- From "Violetta" Music from the TV Series](https://open.spotify.com/track/1GJqULuKQWN1ltMEOJuhes) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:32 |
+| 33 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
 | 34 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
 | 35 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
 | 36 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |

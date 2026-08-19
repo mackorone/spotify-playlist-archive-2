@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Tokimeki Records",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: milet",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -6992,6 +6992,24 @@
       "duration_ms": 282262,
       "name": "CHRISTMAS AFTERNOON",
       "url": "https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu"
+    },
+    {
+      "album": {
+        "name": "Made of Glass",
+        "url": "https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252680,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
     },
     {
       "album": {
@@ -21805,6 +21823,24 @@
     },
     {
       "album": {
+        "name": "L\u3068R",
+        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "L\u3068R",
+      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
+    },
+    {
+      "album": {
         "name": "M2M",
         "url": "https://open.spotify.com/album/52fD5zD8d6Irj4uQdPPJW5"
       },
@@ -27156,7 +27192,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 182666,
       "name": "OUT",
       "url": "https://open.spotify.com/track/7g4Anq7H9YaaAaZq548Yhi"
@@ -56102,7 +56138,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 264175,
       "name": "\u4e16\u754c",
       "url": "https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9"
@@ -57880,7 +57916,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 290323,
       "name": "\u529b\u8aac",
       "url": "https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI"
@@ -69052,7 +69088,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 235837,
       "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"

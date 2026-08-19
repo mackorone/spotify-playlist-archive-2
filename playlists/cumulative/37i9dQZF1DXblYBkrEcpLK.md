@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-883 songs - 2 day 9 hr 53 min
+885 songs - 2 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-30 | 2025-07-23 |
 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-10 | 2023-12-09 |
 | [Étoile](https://open.spotify.com/track/5pkzGvJdSCHt6JOPkiPtKl) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [大橋彩香 Acoustic Mini Album "Étoile"](https://open.spotify.com/album/5Cwb2gyvDQEg1ZXXFw3yRH) | 4:52 | 2022-06-21 | 2022-07-27 |
+| [「ねえ、言っちゃうよ。」](https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [アオワイファイ](https://open.spotify.com/artist/26GOjmK4PXXHaRArHl61IN) | [「ねえ、言っちゃうよ。」](https://open.spotify.com/album/14kMFgfCFcoQBzPEwjiv6N) | 3:56 | 2026-08-18 |  |
 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 | 2024-04-16 | 2026-02-25 |
 | [あかね組活動日誌 \~ねうしとらうたつみうまひつじさるとりいぬい大集合!\~](https://open.spotify.com/track/0eOj1qfNImOsgMx7JEF0jg) | [あかね組ねうしとらうたつみうまひつじさるとりいぬい](https://open.spotify.com/artist/7t1E2O4FsCTX2pCO2mCaQc) | [あかね組活動日誌 \~ねうしとらうたつみうまひつじさるとりいぬい大集合!\~](https://open.spotify.com/album/5yI38ltooUZjIdfjuXI2wK) | 1:30 | 2022-07-07 | 2022-07-15 |
 | [あかね組活動日誌 \~丑班\~](https://open.spotify.com/track/2GaCHfMNvt4XJQkpYy0APQ) | [シオン\(CV.長谷川育美\)](https://open.spotify.com/artist/6cYzaEh49WHxm2bmY3WuJn), [スズラン\(CV.遠野ひかる\)](https://open.spotify.com/artist/2u4atG8YmBQuvsmYbgfSOm), [アジサイ\(CV.古賀 葵\)](https://open.spotify.com/artist/6oZprLtuilM2S4ahxtKGRt) | [あかね組活動日誌 \~丑班\~](https://open.spotify.com/album/15ldhsrxxjokjKBMsn3XyJ) | 1:30 | 2022-06-24 | 2022-07-07 |
@@ -488,6 +489,7 @@
 | [ぐだふわエブリデー](https://open.spotify.com/track/6dm1oiProLnoNAbvJQej7Z) | [悠木碧](https://open.spotify.com/artist/3NHsVALs96Q7psOrZ4UtZS) | [ぐだふわエブリデー](https://open.spotify.com/album/1SWWzVxV7S1QRei81zHO0b) | 4:03 | 2022-07-19 | 2022-07-29 |
 | [こいのうた](https://open.spotify.com/track/0vZcAOkeoTQqBdL928g3KE) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [こいのうた（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/6hKvK1eBPSlpY4MOGPPrKd) | 3:57 | 2024-09-12 | 2024-10-09 |
 | [ここで息をして](https://open.spotify.com/track/1P1PgGMrzIVMju7TOqMGBy) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ここで息をして](https://open.spotify.com/album/645lnQYZ88qwKJpKnY6bDc) | 3:36 | 2022-06-12 | 2022-07-17 |
+| [これはぼくたちの生存のあらすじ](https://open.spotify.com/track/51pypU0qsKgWwiPdMuCzmi) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [これはぼくたちの生存のあらすじ](https://open.spotify.com/album/1SUzJ7tRQjNDySYuJUqd26) | 3:54 | 2026-08-18 |  |
 | [ごまかし](https://open.spotify.com/track/2xxaEkevNabHj6CDgX0BZT) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 4:13 | 2022-06-09 | 2022-07-14 |
 | [さよならの夏～コクリコ坂から～](https://open.spotify.com/track/7wlIzvt8gdV06UeI2F2gT1) | [にんじん](https://open.spotify.com/artist/3ps908XhbWfXA6kG3H4UXd) | [スタジオジブリトリビュートアルバム「ジブリをうたう その2」](https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt) | 4:54 | 2026-02-24 | 2026-05-27 |
 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2024-04-16 |  |
@@ -532,7 +534,7 @@
 | [やじるし→](https://open.spotify.com/track/0YZ5yXsaCX6McaJccpBHBn) | [ぽかぽかイオン](https://open.spotify.com/artist/6zKJblakB7LUnUtmo29gtf) | [TVアニメーション「スローループ」オープニングテーマ やじるし→\(ぽかぽか盤\)](https://open.spotify.com/album/4Oi47jpVzfSyT57fxoLqsS) | 4:31 | 2022-07-07 | 2022-07-20 |
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-06-12 | 2022-07-22 |
 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-02-13 | 2025-01-09 |
-| [わたしシュガースパイス](https://open.spotify.com/track/3JmagYOBsOwYxhuKQA8NYZ) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [グッバイ・ララバイ](https://open.spotify.com/album/7m7bX9ag4J9jpGjeez0m94) | 3:30 | 2026-08-04 |  |
+| [わたしシュガースパイス](https://open.spotify.com/track/3JmagYOBsOwYxhuKQA8NYZ) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [グッバイ・ララバイ](https://open.spotify.com/album/7m7bX9ag4J9jpGjeez0m94) | 3:30 | 2026-08-04 | 2026-08-19 |
 | [アイカナデテ](https://open.spotify.com/track/2q4zHd9yWO8vC4bhmvz3zD) | [Emiri Kato](https://open.spotify.com/artist/65hDc9PNOizEJym4qYBqHH) | [vivid](https://open.spotify.com/album/26JskhfRwejJkH7w7vByLj) | 4:06 | 2022-06-21 | 2022-06-23 |
 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-11-07 | 2025-07-22 |
 | [アイデンティティ](https://open.spotify.com/track/71QTJO9rk8eoYJr0hAXCEw) | [Mada Mitakoto no Nai Sekai](https://open.spotify.com/artist/0p1pmY1X6Waf3rd4K5vY5y) | [アイデンティティ](https://open.spotify.com/album/13J9iXtAdVT6a9lFBwqLYb) | 2:34 | 2023-10-17 | 2023-11-02 |
@@ -797,7 +799,7 @@
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-06-09 | 2023-07-27 |
 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 | 2023-07-25 |  |
 | [気まぐれロマンティック](https://open.spotify.com/track/6Bn7lQDh5d6HvTt3HoORoa) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [気まぐれロマンティック（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/290puuORxQhcxS2UStQgM5) | 3:52 | 2024-09-12 | 2024-10-09 |
-| [気味が悪いんだからねっ](https://open.spotify.com/track/3hyNZA0uhduY32EVZWTIC3) | [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i) | [気味が悪いんだからねっ](https://open.spotify.com/album/0eK1XZS14rQqmtia00MAyU) | 3:42 | 2026-07-06 |  |
+| [気味が悪いんだからねっ](https://open.spotify.com/track/3hyNZA0uhduY32EVZWTIC3) | [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i) | [気味が悪いんだからねっ](https://open.spotify.com/album/0eK1XZS14rQqmtia00MAyU) | 3:42 | 2026-07-06 | 2026-08-19 |
 | [水金地火木土天アーメン](https://open.spotify.com/track/0t0CKBliuACCAYWZASwty0) | [しろねこ堂](https://open.spotify.com/artist/5B7n7JOXqyipnSfQomyyVE) | [映画「きみの色」オリジナル・サウンドトラック all is colour within](https://open.spotify.com/album/2y9JG6xtvqTwvxSUzDhXZI) | 3:53 | 2024-08-29 | 2024-09-13 |
 | [永遠のAria](https://open.spotify.com/track/0yXKDbjWQoqm9LbZMfp1E9) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [雨宮天 BEST ALBUM \- BLUE \-](https://open.spotify.com/album/0KBii2IOydFQTkKzqjHkWs) | 3:19 | 2022-06-21 | 2022-07-12 |
 | [流れ星へ](https://open.spotify.com/track/4H7BFIbTKW66WcCbZZU9Hd) | [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe), [スリーライツ](https://open.spotify.com/artist/6RMcwW6VGECjqfKTPTRZSn), [星野光\(CV.井上麻里奈\)](https://open.spotify.com/artist/2JQNwbQUfwlZ39EHAysZDD), [大気光\(CV.早見沙織\)](https://open.spotify.com/artist/0ceOybSIg6DzdoT4jnZ6Ml), [夜天光\(CV.佐倉綾音\)](https://open.spotify.com/artist/6sgYkuPgjdV9fTgE5kCevR) | [ムーンライト伝説/流れ星へ](https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv) | 3:55 | 2023-06-08 | 2023-07-05 |

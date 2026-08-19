@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1234,
+  "num_followers": 1241,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGy1TQbAumjggQLn3CZGY5z0T4jkYs",
+  "snapshot_id": "AAAG0lyuR6qc8GhUkkNtwd9zvjXT2MVN",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1227,6 +1227,118 @@
       "duration_ms": 293893,
       "name": "Once More Again (Alternative Version)",
       "url": "https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB"
+    },
+    {
+      "added_at": "2026-08-18 03:10:09",
+      "album": {
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/77QeTIYP5ncHLOLApybVHp"
+      },
+      "artists": [
+        {
+          "name": "Karyttah",
+          "url": "https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu"
+        }
+      ],
+      "duration_ms": 213009,
+      "name": "New Age (Promo)",
+      "url": "https://open.spotify.com/track/3wy959j1xWgbXFqMBRP6sS"
+    },
+    {
+      "added_at": "2026-08-18 03:17:13",
+      "album": {
+        "name": "Three Women",
+        "url": "https://open.spotify.com/album/5TSkCSq6ddPL7lzazQ5Alk"
+      },
+      "artists": [
+        {
+          "name": "Bianca Rastafiore",
+          "url": "https://open.spotify.com/artist/0J9iB1rMMqrCPxvRIYcOME"
+        }
+      ],
+      "duration_ms": 228521,
+      "name": "The moment has gone",
+      "url": "https://open.spotify.com/track/4GIloW1HH12hMDdpccLQAC"
+    },
+    {
+      "added_at": "2026-08-18 03:20:46",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/6PEwi2VdrTDb4DVYSo6pom"
+      },
+      "artists": [
+        {
+          "name": "The Dead Hearts",
+          "url": "https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO"
+        }
+      ],
+      "duration_ms": 259735,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/45fRaHQs6hOtqtnMjmXdA8"
+    },
+    {
+      "added_at": "2026-08-18 03:25:10",
+      "album": {
+        "name": "Bittersweet Coming Of Age",
+        "url": "https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 194486,
+      "name": "Bittersweet Coming Of Age",
+      "url": "https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2"
+    },
+    {
+      "added_at": "2026-08-18 03:33:07",
+      "album": {
+        "name": "Liberdade Liberal",
+        "url": "https://open.spotify.com/album/1Fa4CiQV9k4nkdxo3GAMbf"
+      },
+      "artists": [
+        {
+          "name": "Punkzilla!",
+          "url": "https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9"
+        }
+      ],
+      "duration_ms": 130163,
+      "name": "Liberdade Liberal",
+      "url": "https://open.spotify.com/track/6SrAFNIwdnE6K9F75NzTen"
+    },
+    {
+      "added_at": "2026-08-18 03:56:40",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5GCWSi13Cx0ggZKxr4CJFc"
+      },
+      "artists": [
+        {
+          "name": "The American Hotel System",
+          "url": "https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ"
+        }
+      ],
+      "duration_ms": 251755,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/60J0FaM0STeb72RTyIXKbf"
+    },
+    {
+      "added_at": "2026-08-18 04:07:14",
+      "album": {
+        "name": "Where Did You Sleep Last Night",
+        "url": "https://open.spotify.com/album/0xLiJzAYXwsMjN97xRJjZ5"
+      },
+      "artists": [
+        {
+          "name": "Right Proper",
+          "url": "https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375"
+        }
+      ],
+      "duration_ms": 277740,
+      "name": "Where Did You Sleep Last Night",
+      "url": "https://open.spotify.com/track/5vMHbAgEDngb6bD2XLbkl6"
     }
   ],
   "unique_name": "Unsigned Rock",

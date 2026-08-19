@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 261675,
+  "num_followers": 261700,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -751,8 +751,8 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -823,6 +823,38 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -843,38 +875,6 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 201766,
-      "name": "how do you dance?",
-      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/62dp34XfSWYPUKXrZinum0"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 218430,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "all in",
         "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 173000,
       "name": "twin flames",
       "url": "https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/62dp34XfSWYPUKXrZinum0"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 218430,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 199380,
+      "name": "i hope my cat loves me",
+      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "PAGTATAG!",
         "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 199380,
-      "name": "i hope my cat loves me",
-      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "would you be mine?",
-        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
-      },
-      "artists": [
-        {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
-        }
-      ],
-      "duration_ms": 190432,
-      "name": "would you be mine?",
-      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "RABBITHOLE",
         "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "would you be mine?",
+        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "duration_ms": 190432,
+      "name": "would you be mine?",
+      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
     },
     {
       "added_at": "2026-08-07 04:12:22",

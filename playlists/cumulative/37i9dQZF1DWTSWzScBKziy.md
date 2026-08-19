@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Joseph O'Brien
 
-1,478 songs - 3 day 18 hr 18 min
+1,479 songs - 3 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,6 +885,7 @@
 | [My Life Is What You Make It](https://open.spotify.com/track/6EO5hozAVGH4jzzHKoywfz) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [My Life Is What You Make It](https://open.spotify.com/album/0WLVEFPAIT3Gu4p7vLcrlF) | 4:53 | 2025-02-22 | 2025-03-22 |
 | [My Lord Provided \- Radio Version](https://open.spotify.com/track/19qgs1hdCFfOn56Dmvxhib) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [My Lord Provided \(Radio Version\)](https://open.spotify.com/album/2pk8eHUcJ1LmUpX4GLSp9a) | 3:54 | 2024-07-26 | 2024-10-12 |
 | [My Redeemer Lives \(He Lives\)](https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Southland](https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK) | [My Redeemer Lives \(He Lives\)](https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0) | 4:35 | 2026-07-17 |  |
+| [My Salvation](https://open.spotify.com/track/1S3OPAd9dI14Rj4ri9dGKa) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [My Salvation](https://open.spotify.com/album/1qfMSy6sxlci51SDef6hWz) | 5:10 | 2026-08-07 |  |
 | [My Story](https://open.spotify.com/track/6uxnr27f2bH42y93CvIDtu) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [My Story](https://open.spotify.com/album/2J88Pmd6CwuRJxTEH988Zc) | 3:58 | 2025-06-06 | 2025-07-20 |
 | [Mysterious Ways](https://open.spotify.com/track/2Rjfbwh11Ert2CRQ2syZgx) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Mysterious Ways](https://open.spotify.com/album/5M36isNdU3OOFG4OZe2LXq) | 3:21 | 2025-05-02 | 2025-06-07 |
 | [Mystery \- Studio Version](https://open.spotify.com/track/5hOOgsIklPCKcpmvnlRbq0) | [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Mystery \(Studio Version\)](https://open.spotify.com/album/42gOosTvPr3nkQUFpljdCy) | 3:18 | 2026-02-20 | 2026-04-05 |
@@ -1351,7 +1352,7 @@
 | [WANNA SING](https://open.spotify.com/track/7orhTkuPQcltwqm8enW7NW) | [Gabe von Oven](https://open.spotify.com/artist/4gN7QE1KMr6kQn3rbBiIrp) | [WANNA SING](https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk) | 2:32 | 2026-08-07 |  |
 | [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 | 2026-07-17 | 2026-08-08 |
 | [War Zone](https://open.spotify.com/track/072jyfLBmx0yNS39xDd6wu) | [Abigail Hope](https://open.spotify.com/artist/4By8kZOqd9ZIv1IpJNt36g) | [War Zone](https://open.spotify.com/album/7Lr2LqujCtePVE07RHheWG) | 3:07 | 2026-04-17 | 2026-05-20 |
-| [Washed](https://open.spotify.com/track/0R6OTAbLWkd8HLoFDz0sJn) | [Grace + Max](https://open.spotify.com/artist/1slHwQqkai0tDfw5GzCHBr) | [Washed](https://open.spotify.com/album/0cJoHybsM3BFeg5uWgsySd) | 3:32 | 2026-08-07 |  |
+| [Washed](https://open.spotify.com/track/0R6OTAbLWkd8HLoFDz0sJn) | [Grace + Max](https://open.spotify.com/artist/1slHwQqkai0tDfw5GzCHBr) | [Washed](https://open.spotify.com/album/0cJoHybsM3BFeg5uWgsySd) | 3:32 | 2026-08-07 | 2026-08-19 |
 | [WASTE SOME TIME](https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WASTE SOME TIME](https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY) | 3:26 | 2026-04-04 | 2026-05-02 |
 | [Watch What God Can Do](https://open.spotify.com/track/0082DGHpaawqnVyoOZklqz) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Watch What God Can Do](https://open.spotify.com/album/6XO8eRVCeK9XsnCuBE81MY) | 3:40 | 2024-08-09 | 2024-11-30 |
 | [Water](https://open.spotify.com/track/5Knkjy1aPJ8jy9FtrTXHbd) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Water](https://open.spotify.com/album/1KRH1xhztA1pXh3WgneFRx) | 3:36 | 2026-02-20 | 2026-03-22 |

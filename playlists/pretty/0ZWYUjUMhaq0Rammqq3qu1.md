@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Your back to school soundtrack is here: lots of fun, a little bit of sass, &amp; a ton of heart to keep students motivated and power you through all the usage of brainpower \- and ALL the feelings \- to start the new year of learning ahead! For students of all ages: it's the 2026 Back To School playlist!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,103 likes - 93 songs - 5 hr 25 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,087 likes - 93 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

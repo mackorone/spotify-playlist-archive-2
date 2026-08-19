@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "It's A Great Life",
+        "url": "https://open.spotify.com/album/5Zw1AvstPCXlfbSJRA6Gl3"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154213,
+      "name": "I Miss You Already",
+      "url": "https://open.spotify.com/track/0v7phnneFRXoB7ECffugXv"
+    },
+    {
+      "album": {
         "name": "Classic Country Gold",
         "url": "https://open.spotify.com/album/7fpp1Q64fGPj0XXXh92ovu"
       },
@@ -2912,7 +2930,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"

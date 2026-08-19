@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 35687,
+  "num_followers": 35744,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAACpVuAoo0TWRvXrF9u9bA+M",
+  "snapshot_id": "aoJPAAAAAAAR6DNe+GZXRO368+AiOtv7",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Night Night Parade Lullaby",
-      "url": "https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC"
+      "duration_ms": 255250,
+      "name": "Great Big Sea Lullaby",
+      "url": "https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 255250,
-      "name": "Great Big Sea Lullaby",
-      "url": "https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF"
+      "duration_ms": 241000,
+      "name": "Night Night Parade Lullaby",
+      "url": "https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Glow-in-the-Dark Shapes Dance",
-        "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 213938,
-      "name": "The Glow-in-the-Dark Shapes Dance",
-      "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Day (Good Morning Dance)",
         "url": "https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 176609,
       "name": "Brand New Day - Good Morning Dance",
       "url": "https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Glow-in-the-Dark Shapes Dance",
+        "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 213938,
+      "name": "The Glow-in-the-Dark Shapes Dance",
+      "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop Digging",
-        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 245411,
-      "name": "Don't Stop Digging",
-      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
         "url": "https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 454854,
       "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
       "url": "https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Stop Digging",
+        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 245411,
+      "name": "Don't Stop Digging",
+      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danny Go! Sleep Music, Vol. 2 (Lullaby Version)",
-        "url": "https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe"
+        "name": "Bluey Theme (Acapella Version)",
+        "url": "https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 361800,
-      "name": "Drive Drive - Lullaby Version",
-      "url": "https://open.spotify.com/track/1vyjaKy596iNHSMw6jrBJM"
+      "duration_ms": 70218,
+      "name": "Bluey Theme - Acapella Version",
+      "url": "https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS"
     }
   ],
   "unique_name": "This Is Danny Go!",

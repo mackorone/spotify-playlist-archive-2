@@ -1,15 +1,35 @@
 {
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N\">Richard Rodgers (of Rodgers & Hammerstein)</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "num_followers": 691,
+  "num_followers": 692,
   "original_name": "Written By Richard Rodgers (of Rodgers & Hammerstein)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AcZ2RAAAAAAruHLr9tnNeNnS4dDsbPs1",
+  "snapshot_id": "AcZ75AAAAAC+eCgYBFE8JBO+oaBqKAYO",
   "tracks": [
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "How Do You Like It? [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
@@ -57,23 +77,7 @@
       "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Sound Of Music (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
-      },
-      "artists": [
-        {
-          "name": "Julie Andrews",
-          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
-        }
-      ],
-      "duration_ms": 140893,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Boss Tenor",
         "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5"
@@ -133,7 +137,7 @@
       "url": "https://open.spotify.com/track/6aNMGfwdGyELNGCuqs5ldU"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum"
@@ -149,7 +153,7 @@
       "url": "https://open.spotify.com/track/6B6bbawvTbCFyzFIxuMJQI"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5"
@@ -169,7 +173,7 @@
       "url": "https://open.spotify.com/track/6IepN5nR2WGxVCVNFxIgbu"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Workin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
@@ -185,7 +189,7 @@
       "url": "https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
@@ -201,7 +205,7 @@
       "url": "https://open.spotify.com/track/1GeECVH4Msg1zLm8DExkbH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Standards & Ballads",
         "url": "https://open.spotify.com/album/3tqWiJf0QKpxX2IItsAl24"
@@ -217,7 +221,7 @@
       "url": "https://open.spotify.com/track/1X6KKaO70YuZ6tux2nPovP"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
@@ -233,7 +237,7 @@
       "url": "https://open.spotify.com/track/0daJyYh2m6OP46fAnZroz3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -277,7 +281,7 @@
       "url": "https://open.spotify.com/track/2KXPjCIpLgd59z7KSxVzh0"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -321,7 +325,7 @@
       "url": "https://open.spotify.com/track/1O6e8ewSwx8ijeMoVUrW5I"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -361,7 +365,23 @@
       "url": "https://open.spotify.com/track/1bZ0kpUo5XOOmvbOAXEVP6"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/5mKKz70X5wTSypnWxSQhTN"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 186691,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/0OOzIQjNBcV4wTbb3UTbY4"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "7 rings (Remix)",
         "url": "https://open.spotify.com/album/6FK2NjcZxGIGmFjKfOkrNi"
@@ -381,23 +401,7 @@
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 259706,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
@@ -413,7 +417,7 @@
       "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
@@ -429,7 +433,7 @@
       "url": "https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Music From The Motion Picture When Harry Met Sally...",
         "url": "https://open.spotify.com/album/1cBOynPpxPBybMSsy62AT1"
@@ -445,7 +449,7 @@
       "url": "https://open.spotify.com/track/3sZ8WzywEfy4quuQ05rOT3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "My Heart Cries",
         "url": "https://open.spotify.com/album/1x3qLHVC4DHBV8j6kRddVM"
@@ -461,7 +465,7 @@
       "url": "https://open.spotify.com/track/0wAtFj61WZQpKX3g79eyT2"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -489,7 +493,7 @@
       "url": "https://open.spotify.com/track/08uHhxF3b1tUi9mmUhKHZj"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
@@ -509,10 +513,10 @@
       "url": "https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/1nUREJEUkPZgEreAOOlX69"
+        "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
       },
       "artists": [
         {
@@ -520,12 +524,12 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 224226,
+      "duration_ms": 225006,
       "name": "My Romance",
-      "url": "https://open.spotify.com/track/1tA6JwGMcQ3EzlH69QLZZd"
+      "url": "https://open.spotify.com/track/1IHECgKLEKs5eGtJlUtxHY"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Out Here",
         "url": "https://open.spotify.com/album/55Q4ZwCcrGigFZuYFqa155"
@@ -541,7 +545,7 @@
       "url": "https://open.spotify.com/track/2tzwzfBlHxQsFtf3Yvhlf3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "WomanChild",
         "url": "https://open.spotify.com/album/5YCRRRDoXPoPg2tHjiCXLM"
@@ -557,7 +561,7 @@
       "url": "https://open.spotify.com/track/5Wavz3HaZaM0RFuslNpjxz"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
@@ -573,7 +577,7 @@
       "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -589,7 +593,7 @@
       "url": "https://open.spotify.com/track/7jpbYyc0FzaISVxdJbtrGr"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -609,7 +613,7 @@
       "url": "https://open.spotify.com/track/4Ohepr2J1G5LJ8I6fvDq1x"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Uptown, Downtown",
         "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
@@ -625,7 +629,7 @@
       "url": "https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
@@ -653,7 +657,23 @@
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Night And Day - Remastered 1998",
+      "url": "https://open.spotify.com/track/3JPykdXkCds32OP5hzxm7j"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/13aKlygoQB1yeU4MEpW8in"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/6XZSedMgcXKSTal1vSaCRf"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/1938FeAi8kI7w9TpbgQWgP"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Best FRED ZINNEMANN Movie Themes",
         "url": "https://open.spotify.com/album/2ouUKPPIQUyDysNQrQZCVE"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/37ZAXJkdunm9ABV99fnWuN"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2VMX9CVAtvrSaKTwVhYglr"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/57ZSKA1UVoKIXy8VSHKPpt"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Featuring",
         "url": "https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/6xzQ9phLCPuT5vpi6zMVrk"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/0Xdmtw3GC8pMk06N63yVDj"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Come Closer",
         "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/1XpAUgrfJpM3qSLaiaYUxj"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "We Kiss In A Shadow",
         "url": "https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P"
@@ -885,7 +905,7 @@
       "url": "https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Forever Friends",
         "url": "https://open.spotify.com/album/4KZq9nqoQ3HbUIGVA9HaVa"
@@ -901,7 +921,7 @@
       "url": "https://open.spotify.com/track/1ftCPj0yiXuhKmsu2H6BdX"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Miles Davis And Horns",
         "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
@@ -917,7 +937,7 @@
       "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Movin' With Nancy",
         "url": "https://open.spotify.com/album/5iiFf9TUtdMZOP0atl9gnJ"
@@ -933,7 +953,7 @@
       "url": "https://open.spotify.com/track/3UiVOSQ8iFw8xIdaogXsSe"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Essential Masters",
         "url": "https://open.spotify.com/album/6mwOeeFn7jRKPAAaJr9pYp"
@@ -949,7 +969,7 @@
       "url": "https://open.spotify.com/track/0ktwrpGSIxU66A1EtXMWCo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
@@ -965,7 +985,7 @@
       "url": "https://open.spotify.com/track/5o0WOGxd44mWbocCkyc0uH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
@@ -985,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1S6e1Mkcx0KkCmXmxdDG1J"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Gordon MacRae - Greatest Hits",
         "url": "https://open.spotify.com/album/7CanZpnDy3yEsP5DN7Az6x"
@@ -1009,7 +1029,23 @@
       "url": "https://open.spotify.com/track/6zKx9rkqsnFDIvIe8V41KH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 236053,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2sQaBIgG1D3Qshi0g5snI8"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
@@ -1033,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "In The Wee Small Hours",
         "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
@@ -1049,10 +1085,10 @@
       "url": "https://open.spotify.com/track/0nyElOCpUSqLyzg1cD6dQe"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ"
+        "url": "https://open.spotify.com/album/4fV2OAJ2Ujyy4p21UpOFKU"
       },
       "artists": [
         {
@@ -1060,12 +1096,12 @@
           "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
         }
       ],
-      "duration_ms": 216240,
+      "duration_ms": 211278,
       "name": "I Wish I Were in Love Again",
-      "url": "https://open.spotify.com/track/1AzhyJpGjqsBJpoKHqj5BB"
+      "url": "https://open.spotify.com/track/58RfDiMPHvTeH7sxfQiCSv"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
@@ -1085,75 +1121,31 @@
       "url": "https://open.spotify.com/track/7bpekJEVJcOntT9ohNh2Kz"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
-        "name": "In Love Again",
-        "url": "https://open.spotify.com/album/7A0Seo0D1W2OmEEu8gbyjZ"
+        "name": "Gordon MacRae - Greatest Hits",
+        "url": "https://open.spotify.com/album/7CanZpnDy3yEsP5DN7Az6x"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
         },
         {
-          "name": "Colin Oxley",
-          "url": "https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs"
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
         },
         {
-          "name": "David Newton",
-          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
-        },
-        {
-          "name": "Jasper Kviberg",
-          "url": "https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy"
-        },
-        {
-          "name": "Jim Tomlinson",
-          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
-        },
-        {
-          "name": "Simon Thorpe",
-          "url": "https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm"
+          "name": "Charlotte Greenwood",
+          "url": "https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Shall We Dance?",
-      "url": "https://open.spotify.com/track/4Xj4BdsvDCyXXs8g3H9vkU"
+      "duration_ms": 293133,
+      "name": "The Surrey with the Fringe on Top (From Oklahoma)",
+      "url": "https://open.spotify.com/track/2okfraIAWPYig5lZx1aOd1"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Giants Of Jazz: Eliane Elias",
-        "url": "https://open.spotify.com/album/1l0YJVQc77qZVy9qFyKiEh"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 386493,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/4yv0zk9Xn0QxOcJHXUy8Jh"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Surrey With The Fringe On Top",
-      "url": "https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Deliver",
         "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
@@ -1169,7 +1161,7 @@
       "url": "https://open.spotify.com/track/5FwN877RnDZt5X7z0nqzGP"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sound Of Music (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5"
@@ -1197,7 +1189,39 @@
       "url": "https://open.spotify.com/track/3RTBlpt7w5Ea04luBX9NxM"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Christopher Martin - EP",
+        "url": "https://open.spotify.com/album/6QUUIEamKN8ZmnUblDRjyb"
+      },
+      "artists": [
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "duration_ms": 208011,
+      "name": "Girlfriends",
+      "url": "https://open.spotify.com/track/3BgQ4g7WXIDZDT4RLq0ozm"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "This Can't Be Love",
+      "url": "https://open.spotify.com/track/3YVpYtBaAaqigrAbeGwPMx"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I (The 2015 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB"
@@ -1229,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1N5uQtJb5LvQ00FWAjtptC"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "American Standard",
         "url": "https://open.spotify.com/album/0wwpYXYdn6MSrWHZv4nyFh"
@@ -1245,23 +1269,7 @@
       "url": "https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Stepping Out (Remastered)",
-        "url": "https://open.spotify.com/album/5Nx6h9D5D590z97dOv7VcO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 270213,
-      "name": "This Can\u2019t Be Love - Remastered",
-      "url": "https://open.spotify.com/track/2dr81lIlZJXoigFFLPfu6x"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Sonny's Crib",
         "url": "https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA"
@@ -1281,7 +1289,7 @@
       "url": "https://open.spotify.com/track/1f7EWS1kruAco1sc1W614Q"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "On The Street Where You Live",
         "url": "https://open.spotify.com/album/3bEDRBAUxgvyTShJHpxIkA"
@@ -1297,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3ugiRcjam4qDXqOWkMpoUp"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Guitar Music for Relaxing",
         "url": "https://open.spotify.com/album/4jDEMeuP21VUlB0Hs0y3JE"
@@ -1313,7 +1321,7 @@
       "url": "https://open.spotify.com/track/6VYerSXtDlmpcRz9Jrpml4"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mitzi Gaynor Sings",
         "url": "https://open.spotify.com/album/72BW0Dfh1Ms4CNwVD7KUGo"
@@ -1329,7 +1337,7 @@
       "url": "https://open.spotify.com/track/7j42cXsxhgClrigvlsBdej"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "False Idols",
         "url": "https://open.spotify.com/album/1YCA4AwpkNVg8yzfiTBoHS"
@@ -1345,7 +1353,7 @@
       "url": "https://open.spotify.com/track/2DfR99Uwbx3pc8bMzcvB7X"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/3vIieAlnUmoEeMC0js9p0m"
@@ -1361,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4aNZEdW6OAHMChI1dTXFwL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Bossa Antigua",
         "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
@@ -1377,7 +1385,23 @@
       "url": "https://open.spotify.com/track/0cAzO63ixihjrv2Fz04q0u"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Cryin' for the Beloved",
+        "url": "https://open.spotify.com/album/2ImphuVAP1tbkMdJ8ftrjM"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Ten Cents a Dance",
+      "url": "https://open.spotify.com/track/7qeVNINPtcDeQZVcg5VPQz"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Oklahoma! (Original Broadway Cast 1943)",
         "url": "https://open.spotify.com/album/1EqFgtBnrEQ3Uyp33jetaT"
@@ -1405,7 +1429,7 @@
       "url": "https://open.spotify.com/track/48BRpMpXaopFrbkMvuqzrD"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Beyond The Sea O.S.T.",
         "url": "https://open.spotify.com/album/5ZfPr3L1QlCS4DAEhbMu67"
@@ -1421,87 +1445,7 @@
       "url": "https://open.spotify.com/track/1PtxH2pq6ANzBa6vPQusxk"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Saturday",
-        "url": "https://open.spotify.com/album/6Nnzx8ibbSpz3zJcdE47qq"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean Wright",
-          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
-        }
-      ],
-      "duration_ms": 587440,
-      "name": "Saturday - Dimitri from Paris Remix",
-      "url": "https://open.spotify.com/track/4BkvWpbjarlOMSzaJHJsTY"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "This Is June Christy",
-        "url": "https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "You Took Advantage Of Me - Remastered",
-      "url": "https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Cryin' for the Beloved",
-        "url": "https://open.spotify.com/album/2ImphuVAP1tbkMdJ8ftrjM"
-      },
-      "artists": [
-        {
-          "name": "Ruth Etting",
-          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Ten Cents a Dance",
-      "url": "https://open.spotify.com/track/7qeVNINPtcDeQZVcg5VPQz"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Reggae Anthology: Music Is The Rod",
-        "url": "https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk"
-      },
-      "artists": [
-        {
-          "name": "Garnet Silk",
-          "url": "https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Everything I've Got",
-      "url": "https://open.spotify.com/track/1Zh8BXvxFNDZceyIz6bG2j"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "By Request",
-        "url": "https://open.spotify.com/album/4UM7lHyZMHzj6o5PpmtAqp"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Sweetest Sounds",
-      "url": "https://open.spotify.com/track/3KmFKS3s2pySq6MK4f53NZ"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
@@ -1517,7 +1461,55 @@
       "url": "https://open.spotify.com/track/526RZHnkSJs51Zqr3LW3qZ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/6Nnzx8ibbSpz3zJcdE47qq"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Wright",
+          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
+        }
+      ],
+      "duration_ms": 587440,
+      "name": "Saturday - Dimitri from Paris Remix",
+      "url": "https://open.spotify.com/track/4BkvWpbjarlOMSzaJHJsTY"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "This Is June Christy",
+        "url": "https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "You Took Advantage Of Me - Remastered",
+      "url": "https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "By Request",
+        "url": "https://open.spotify.com/album/4UM7lHyZMHzj6o5PpmtAqp"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Sweetest Sounds",
+      "url": "https://open.spotify.com/track/3KmFKS3s2pySq6MK4f53NZ"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Haywire Mac",
         "url": "https://open.spotify.com/album/4lv5NIEdsrjgsbcPZWkfPh"
@@ -1533,7 +1525,7 @@
       "url": "https://open.spotify.com/track/4aJKkm3GYi8rCYPbhV8r0b"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mitzi and Morris At the Movies",
         "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
@@ -1549,7 +1541,7 @@
       "url": "https://open.spotify.com/track/71abmFQjzSB7DUq4MxET7F"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
@@ -1569,7 +1561,7 @@
       "url": "https://open.spotify.com/track/2gHJQUD3XDpesXvcOoIBs5"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
@@ -1585,7 +1577,23 @@
       "url": "https://open.spotify.com/track/4BlSoGubODlTUB594lXdBc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "South Pacific - Original 1949 Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/37a5gwhtE6ZZbllt6PsnfC"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        }
+      ],
+      "duration_ms": 205923,
+      "name": "Bali Ha'i",
+      "url": "https://open.spotify.com/track/49x68Stt4KZQ1EvlHKG0A3"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Passage of Time",
         "url": "https://open.spotify.com/album/4Jm3FfpxzjVYXVqJMCxPOs"
@@ -1601,7 +1609,23 @@
       "url": "https://open.spotify.com/track/5cdXbtQ6i6OmALSrO01fBq"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Voice of Hollywood",
+        "url": "https://open.spotify.com/album/5Rg4ZQsnsscTcu1rRHd3P1"
+      },
+      "artists": [
+        {
+          "name": "Marni Nixon",
+          "url": "https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "I Whistle a Happy Tune",
+      "url": "https://open.spotify.com/track/6Y2TR6aosaUpbJ8eBVm8v6"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Essential Classics, Vol. 402: Shirley Jones",
         "url": "https://open.spotify.com/album/0xvV06Wge36ieBJ2ltIAup"
@@ -1621,55 +1645,7 @@
       "url": "https://open.spotify.com/track/5JpqdICIHNvSkFsnB7G1S1"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "South Pacific (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
-      },
-      "artists": [
-        {
-          "name": "Bloody Mary",
-          "url": "https://open.spotify.com/artist/0qU4ACuOtta4asBwNalSkk"
-        },
-        {
-          "name": "The Ken Darby Singers",
-          "url": "https://open.spotify.com/artist/78KqMiKmzLeBjvh0LwCTlp"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Bali Ha'i - (From the 20th Century-Fox film \"South Pacific\")",
-      "url": "https://open.spotify.com/track/3xeZCv2zJguniFYYvGQceq"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The King And I (The 2015 Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB"
-      },
-      "artists": [
-        {
-          "name": "Kelli O'Hara",
-          "url": "https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9"
-        },
-        {
-          "name": "Jake Lucas",
-          "url": "https://open.spotify.com/artist/2hSOFaZO0polYIuLpbAtAx"
-        },
-        {
-          "name": "Ted Sperling",
-          "url": "https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2"
-        },
-        {
-          "name": "Orchestra",
-          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "I Whistle A Happy Tune",
-      "url": "https://open.spotify.com/track/5Z2gU4zFvyZ1qlnazZ9U6s"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
@@ -1685,7 +1661,7 @@
       "url": "https://open.spotify.com/track/6ddd4OhO0bvYb1iTZb421r"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mitzi and Morris At the Movies",
         "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
@@ -1705,7 +1681,7 @@
       "url": "https://open.spotify.com/track/1wrmfmLogYsH5lcs0VntZZ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
@@ -1721,7 +1697,7 @@
       "url": "https://open.spotify.com/track/4BKxQQcll17isb1T6OL3fo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mitzi and Morris At the Movies",
         "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
@@ -1741,7 +1717,7 @@
       "url": "https://open.spotify.com/track/5GzKP0NRBRJIlv0Jg6UU6y"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -1761,7 +1737,7 @@
       "url": "https://open.spotify.com/track/6PhehL1B9KoHF8OYP8NsIh"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
@@ -1777,7 +1753,7 @@
       "url": "https://open.spotify.com/track/1qjQkToZIwvNjve8EG8u48"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Marvelous Mrs. Maisel: Season 1 (Music From The Prime Original Series)",
         "url": "https://open.spotify.com/album/2aZqQ4xF5qTlEhrXmyJtcu"
@@ -1797,7 +1773,7 @@
       "url": "https://open.spotify.com/track/75tcdNn1SLvufUs3SY6Emw"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Oklahoma! (Expanded Edition/Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8"
@@ -1817,7 +1793,7 @@
       "url": "https://open.spotify.com/track/3DDjnXfx7le9azKLjqQ8k1"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
@@ -1833,7 +1809,7 @@
       "url": "https://open.spotify.com/track/0sqkZeU248LS8Hs5xco8eL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Essential Classics, Vol. 402: Shirley Jones",
         "url": "https://open.spotify.com/album/0xvV06Wge36ieBJ2ltIAup"
@@ -1853,7 +1829,27 @@
       "url": "https://open.spotify.com/track/1zTuSkHG9DmQq9JvYLYDSr"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Essential Classics, Vol. 402: Shirley Jones",
+        "url": "https://open.spotify.com/album/0xvV06Wge36ieBJ2ltIAup"
+      },
+      "artists": [
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        }
+      ],
+      "duration_ms": 175599,
+      "name": "All Er Nuthin'",
+      "url": "https://open.spotify.com/track/3KkAmvEeHCcETccAHjlhms"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/4tNqn0l06EKcfVHZD0OQxg"
@@ -1873,7 +1869,7 @@
       "url": "https://open.spotify.com/track/33XFHLAzZj6sQt4qsKT0mm"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Oklahoma!",
         "url": "https://open.spotify.com/album/7sK7Az10aqaN6ZYTTeNWQq"
@@ -1889,7 +1885,7 @@
       "url": "https://open.spotify.com/track/7cFthBIOeSgKLIFM7kEpfo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Top Hat: Hits From Hollywood",
         "url": "https://open.spotify.com/album/7g2TJ6XllrcHOMS74ntDk7"
@@ -1905,7 +1901,7 @@
       "url": "https://open.spotify.com/track/49xhKmaxk1zI5i6gpOCk8J"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Invitation to Musicals",
         "url": "https://open.spotify.com/album/5EKnIOzeGPRzhcAgyzMUZ8"
@@ -1929,27 +1925,27 @@
       "url": "https://open.spotify.com/track/7GNNyqBNMIduv6qL6tql8H"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
-        "name": "Essential Classics, Vol. 402: Shirley Jones",
-        "url": "https://open.spotify.com/album/0xvV06Wge36ieBJ2ltIAup"
+        "name": "Carousel ( 1956 Film Score)",
+        "url": "https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w"
       },
       "artists": [
         {
-          "name": "Shirley Jones",
-          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+          "name": "Barbara Ruick",
+          "url": "https://open.spotify.com/artist/3hlVtWfnDNqQUVFmLq0hkK"
         },
         {
-          "name": "Gordon MacRae",
-          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+          "name": "Claramae Turner",
+          "url": "https://open.spotify.com/artist/1pgamPzALsuRmrdn1iHxVZ"
         }
       ],
-      "duration_ms": 175599,
-      "name": "All Er Nuthin'",
-      "url": "https://open.spotify.com/track/3KkAmvEeHCcETccAHjlhms"
+      "duration_ms": 218906,
+      "name": "June Is Bustin' Out All Over",
+      "url": "https://open.spotify.com/track/6pPRqrIhOSTcRVWKp3xX83"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "R&H Goes Pop!",
         "url": "https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI"
@@ -1969,7 +1965,7 @@
       "url": "https://open.spotify.com/track/1tjRhMpR7h9UdGMfvfho36"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Kenton In Hi-Fi",
         "url": "https://open.spotify.com/album/5rX287e1tFCBOkjObugghB"
@@ -1985,7 +1981,7 @@
       "url": "https://open.spotify.com/track/7xmtq49duxRAK9WCsIxqDU"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2001,27 +1997,7 @@
       "url": "https://open.spotify.com/track/62mne52yH6QFDPGyPRNuWe"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "'Carousel' 2018 Broadway Cast",
-          "url": "https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt"
-        }
-      ],
-      "duration_ms": 405320,
-      "name": "June Is Bustin' Out All Over",
-      "url": "https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "In The Land Of Hi-Fi",
         "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
@@ -2037,7 +2013,7 @@
       "url": "https://open.spotify.com/track/72oOMzR9hrLVyT5JKbaMaJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Slaughter on 10th Avenue",
         "url": "https://open.spotify.com/album/1L2lo2rf5H3Y6FJkiNfHTU"
@@ -2053,7 +2029,7 @@
       "url": "https://open.spotify.com/track/2f4Dn5ikkaNmU1AH6GvTLj"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Merry Christmas Lil Mama: The Gift That Keeps On Giving",
         "url": "https://open.spotify.com/album/1ytfpLuUC11zEpbq4yM9Uu"
@@ -2073,7 +2049,7 @@
       "url": "https://open.spotify.com/track/77Ebl1kH2QncjJMNsOWnws"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2093,7 +2069,7 @@
       "url": "https://open.spotify.com/track/0GizGMSb4RtwnAk2TGsEJL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I: Music From The Motion Picture (Remastered 2001)",
         "url": "https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b"
@@ -2117,7 +2093,7 @@
       "url": "https://open.spotify.com/track/7urCfcy0bKsKOIAwW1rugR"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
@@ -2133,7 +2109,23 @@
       "url": "https://open.spotify.com/track/0vOt8nqnfS8u06Uz63tqRc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "It's Got To Be Love",
+      "url": "https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Throwing Up Butterflies",
         "url": "https://open.spotify.com/album/5agogztNPNQMEXZMxMGxXT"
@@ -2149,7 +2141,7 @@
       "url": "https://open.spotify.com/track/3SOCYTnAeCGGBGRwQHIOMR"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
@@ -2173,7 +2165,7 @@
       "url": "https://open.spotify.com/track/4ijeob1Gf0P365Slo9I9ai"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Oklahoma! (2019 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP"
@@ -2189,23 +2181,7 @@
       "url": "https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "It's Got To Be Love",
-      "url": "https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
@@ -2221,7 +2197,7 @@
       "url": "https://open.spotify.com/track/6acWzOulmtyL9UT5EANEm0"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Harder.....Faster",
         "url": "https://open.spotify.com/album/1TWGskVhgRKP8PWWcVsJTs"
@@ -2237,7 +2213,7 @@
       "url": "https://open.spotify.com/track/12L4dzzXcKSlXglVmqGdJY"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/7A0Seo0D1W2OmEEu8gbyjZ"
@@ -2273,7 +2249,7 @@
       "url": "https://open.spotify.com/track/5WCz5P1bwDHehsAJ0v6fPo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Fly Me To The Moon And The Bossa Nova Pops",
         "url": "https://open.spotify.com/album/2250KBTlhtnbb4kDApa2IH"
@@ -2289,7 +2265,7 @@
       "url": "https://open.spotify.com/track/2nccD8njSGtdsZtmqZEYl7"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
@@ -2305,7 +2281,7 @@
       "url": "https://open.spotify.com/track/1uZKqHaj0jQYoF1DqmQUUD"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I (The 2015 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB"
@@ -2329,7 +2305,7 @@
       "url": "https://open.spotify.com/track/2WIdd3pjdZ8wwGghGIZtPJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I",
         "url": "https://open.spotify.com/album/0tlzLJMJqzoYoc8Kb8UxRE"
@@ -2345,7 +2321,7 @@
       "url": "https://open.spotify.com/track/5OvUiUMdZXjp0Lo88BIR4X"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2365,7 +2341,7 @@
       "url": "https://open.spotify.com/track/79Suj4FDZjynTAxZy7BP83"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "State Fair (Original Motion Picture Soundtracks 1945 & 1962)",
         "url": "https://open.spotify.com/album/4ujwry5njx0K4xKFF220UR"
@@ -2385,7 +2361,7 @@
       "url": "https://open.spotify.com/track/6q5UOPPx7LqyXxv5Q8kBES"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2417,7 +2393,7 @@
       "url": "https://open.spotify.com/track/1AV0Wf5HUvWQltBBReuwls"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Loads of Love",
         "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
@@ -2433,7 +2409,7 @@
       "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I (The 2015 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB"
@@ -2457,7 +2433,7 @@
       "url": "https://open.spotify.com/track/260zXOAiMXBR5annwDYRZS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Impossible Things",
         "url": "https://open.spotify.com/album/2fDgMOIPVpUsIJZyw8xaJm"
@@ -2477,7 +2453,7 @@
       "url": "https://open.spotify.com/track/2gxwyopbW6ii6tDa15BKdx"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I (The 2015 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB"
@@ -2497,7 +2473,7 @@
       "url": "https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2517,7 +2493,7 @@
       "url": "https://open.spotify.com/track/6LbkEYIVemBYdPQeHzdgTG"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2549,51 +2525,7 @@
       "url": "https://open.spotify.com/track/5hLQMMAEUz2T0xMmrJ5GbS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Beginning 1975",
-        "url": "https://open.spotify.com/album/15Gx6rLODhyfw7zgtiRjXp"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "A Lady Must Live",
-      "url": "https://open.spotify.com/track/2HLoMbcIXeiD9TsQCDETHX"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Sound of Music (Original Broadway Cast 1959)",
-        "url": "https://open.spotify.com/album/21s4nbxQDUTDgqvpFewP0k"
-      },
-      "artists": [
-        {
-          "name": "Mark Hellinger Theatre Orchestra",
-          "url": "https://open.spotify.com/artist/27ARc5Svme0s5yXIuUnse6"
-        },
-        {
-          "name": "Frederick Dvonch",
-          "url": "https://open.spotify.com/artist/3PTEv5PB7Y60Xs26d5OE9f"
-        },
-        {
-          "name": "Mark Hellinger Theatre Cast Ensemble",
-          "url": "https://open.spotify.com/artist/1b9pnt4AsTyHWWQSenDTFG"
-        },
-        {
-          "name": "Mary Martin",
-          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
-        }
-      ],
-      "duration_ms": 163049,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/1PSnRPPB8jxLwu6OyMplq3"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
@@ -2609,7 +2541,39 @@
       "url": "https://open.spotify.com/track/6s0pDeoqLEDYye5uxrbXT9"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Mary Martin Sings Richard Rodgers",
+        "url": "https://open.spotify.com/album/5DdTWHeesJyIA2jBVfCzP4"
+      },
+      "artists": [
+        {
+          "name": "Mary Martin",
+          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "The Sound of Music - Bonus Track from 'South Pacific'",
+      "url": "https://open.spotify.com/track/5RQeK1Sf06Qon4IL7qHesY"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Beginning 1975",
+        "url": "https://open.spotify.com/album/15Gx6rLODhyfw7zgtiRjXp"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "A Lady Must Live",
+      "url": "https://open.spotify.com/track/2HLoMbcIXeiD9TsQCDETHX"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Here's To Life",
         "url": "https://open.spotify.com/album/2wGW87aOvooeJ5r8eTYg4W"
@@ -2625,7 +2589,7 @@
       "url": "https://open.spotify.com/track/42IvbPaWb7VZjXT3CiXJcK"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Carousel ( 1956 Film Score)",
         "url": "https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w"
@@ -2645,7 +2609,7 @@
       "url": "https://open.spotify.com/track/0qWFfmu78XFDGlKghWKWpw"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Jamal At The Penthouse",
         "url": "https://open.spotify.com/album/1IDi2yArdVMg8OMtCa6GoI"
@@ -2661,7 +2625,7 @@
       "url": "https://open.spotify.com/track/2oul7sJpLyCFRtKyOf6FKF"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr"
@@ -2677,7 +2641,7 @@
       "url": "https://open.spotify.com/track/0XozREIqWKZZYjXTg4xUSs"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
@@ -2693,7 +2657,7 @@
       "url": "https://open.spotify.com/track/59HuSbmuMaGWrEINPtvkjS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
@@ -2709,7 +2673,7 @@
       "url": "https://open.spotify.com/track/0YWalniHwyyri3YjdEbD8H"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Everything I've Got",
         "url": "https://open.spotify.com/album/62Lb1NJWvKYnZ5UcidJ7T2"
@@ -2725,7 +2689,7 @@
       "url": "https://open.spotify.com/track/7sNCJGb7lhIE0a5gzE8gCi"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
@@ -2741,7 +2705,7 @@
       "url": "https://open.spotify.com/track/2pN4qCOAANvkYPfdsrw4sH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I (The 2015 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB"
@@ -2781,7 +2745,7 @@
       "url": "https://open.spotify.com/track/5qxRAENdF27JukelTn5aK5"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Songs That Got Away",
         "url": "https://open.spotify.com/album/5kd8kszLWEQXdizJ2Q3dfe"
@@ -2797,7 +2761,7 @@
       "url": "https://open.spotify.com/track/3TyUPxBrAFRKL5Wq2v7qWD"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Sings Songs From White Christmas And Other Yuletide Favorites",
         "url": "https://open.spotify.com/album/1Tt0HLfCWLhBp5IX4rs4ZM"
@@ -2817,7 +2781,23 @@
       "url": "https://open.spotify.com/track/7z5uj8K6MpuK5992tf7tbk"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "A Fellow Needs A Girl - alternate take",
+      "url": "https://open.spotify.com/track/5NOhmkFcxuCtcn45VLIdJM"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mirror Starts Moving Without Me",
         "url": "https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK"
@@ -2833,23 +2813,7 @@
       "url": "https://open.spotify.com/track/1cE5EAGzW4DYOQXhXEOou7"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Only the Beginning / Black Sheep Boy",
-        "url": "https://open.spotify.com/album/25juTvFz2VxEPSiWz4zib7"
-      },
-      "artists": [
-        {
-          "name": "Joel Grey",
-          "url": "https://open.spotify.com/artist/64WqSGPXrSf1YbxoimVNbd"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "You Mustn't Kick It Around",
-      "url": "https://open.spotify.com/track/787jMCTWWUcdirC4JyArXB"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -2873,7 +2837,23 @@
       "url": "https://open.spotify.com/track/3iEZYdCTjDNjCBEt8mwIll"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Only the Beginning / Black Sheep Boy",
+        "url": "https://open.spotify.com/album/25juTvFz2VxEPSiWz4zib7"
+      },
+      "artists": [
+        {
+          "name": "Joel Grey",
+          "url": "https://open.spotify.com/artist/64WqSGPXrSf1YbxoimVNbd"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "You Mustn't Kick It Around",
+      "url": "https://open.spotify.com/track/787jMCTWWUcdirC4JyArXB"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "South Pacific (New Broadway Cast Recording (2008))",
         "url": "https://open.spotify.com/album/1FDBiOMTfadi88X2jtcArB"
@@ -2901,7 +2881,7 @@
       "url": "https://open.spotify.com/track/2FD5bVR5k3QjJl5UxrHi6e"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -2969,23 +2949,23 @@
       "url": "https://open.spotify.com/track/10y79LdaQHJItKmpZZ4tnc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
-        "name": "On Broadway",
-        "url": "https://open.spotify.com/album/6PgyXbhD147WFYn6lvR7AJ"
+        "name": "Kelly Great",
+        "url": "https://open.spotify.com/album/4RX191nC2urGKhYyazdJ79"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 286093,
-      "name": "A Fellow Needs A Girl",
-      "url": "https://open.spotify.com/track/7C7lRq6GjavadXmQQ0kEey"
+      "duration_ms": 471690,
+      "name": "What Know",
+      "url": "https://open.spotify.com/track/0nq45J1lt7prHZW40adSOn"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Carousel (1956 Film Score)",
         "url": "https://open.spotify.com/album/4fXwRlO5DT76P6kstSoqj2"
@@ -3001,7 +2981,47 @@
       "url": "https://open.spotify.com/track/5EArTvUrlV675hSxoWCBMd"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "On Your Toes",
+        "url": "https://open.spotify.com/album/67N2AQY2Zi9gJYugar5aRn"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Bobby Van",
+          "url": "https://open.spotify.com/artist/55JmnmLzPPJZETa5zAJC3H"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "The 3 B's - On Your Toes/1954 Original Broadway Cast/Remastered",
+      "url": "https://open.spotify.com/track/6EwZln3NglH8wsE5IXlwjL"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/01XJS15vduKMEJzf6LC5bn"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "I Do Not Know A Day I Did Not Love You",
+      "url": "https://open.spotify.com/track/78F86UeJSo1IoFhc6ehRhM"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Cinderella (Original Television Cast Recording)",
         "url": "https://open.spotify.com/album/7pZhd8nyjuy8tMbmQCJ4uc"
@@ -3029,7 +3049,7 @@
       "url": "https://open.spotify.com/track/5jOc6CoMFa6sDMNa9JX140"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Allegro (First Complete Recording)",
         "url": "https://open.spotify.com/album/330NYPTqcBSAO1ekWC8TO2"
@@ -3049,7 +3069,7 @@
       "url": "https://open.spotify.com/track/3xT7ifC673rw3UfFORShPq"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3073,7 +3093,7 @@
       "url": "https://open.spotify.com/track/54RrDpGkzALDbVqKy0ag30"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3097,7 +3117,7 @@
       "url": "https://open.spotify.com/track/67Ll8q38tCnDLyoev3wPlp"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey",
         "url": "https://open.spotify.com/album/2b5r7QCdMY0v825HHAaw21"
@@ -3121,7 +3141,31 @@
       "url": "https://open.spotify.com/track/6eAqLRvZlo4dijcxo3A9h3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Sound Of Music",
+        "url": "https://open.spotify.com/album/4B1Anoo4xyFeabCkRWXjHs"
+      },
+      "artists": [
+        {
+          "name": "Mary Martin",
+          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
+        },
+        {
+          "name": "Theodore Bikel",
+          "url": "https://open.spotify.com/artist/67p0NB8haJlULQy2gr4iKZ"
+        },
+        {
+          "name": "Children",
+          "url": "https://open.spotify.com/artist/4RCqqSOKpCh0k0PsWRa3Ps"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "The Sound Of Music",
+      "url": "https://open.spotify.com/track/1hS3SioYY0NGhTIBXHiuG7"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sweetest Swingin' Sounds Of No Strings",
         "url": "https://open.spotify.com/album/0EcIjwyUAwRP8Hvyc15bUN"
@@ -3137,55 +3181,7 @@
       "url": "https://open.spotify.com/track/3YsQuYgpHJseCt1Ezt0HAe"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Sound Of Music (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1jD04dq3jRnTUYt4bwT378"
-      },
-      "artists": [
-        {
-          "name": "Mary Martin",
-          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
-        },
-        {
-          "name": "Theodore Bikel",
-          "url": "https://open.spotify.com/artist/67p0NB8haJlULQy2gr4iKZ"
-        },
-        {
-          "name": "Lauri Peters",
-          "url": "https://open.spotify.com/artist/6NbAHhqijQ4WVJFaovU83O"
-        },
-        {
-          "name": "William Snowden",
-          "url": "https://open.spotify.com/artist/7MlpvDCvsT50rugjnDvtM9"
-        },
-        {
-          "name": "Kathy Dunn",
-          "url": "https://open.spotify.com/artist/5MRQIpcCqMsdlle1w0tFwb"
-        },
-        {
-          "name": "Joseph Stewart",
-          "url": "https://open.spotify.com/artist/1kEjq5x0FNbeFEj3LX9nyV"
-        },
-        {
-          "name": "Marilyn Rogers",
-          "url": "https://open.spotify.com/artist/0ZugnGveH64xneVq2oRvnU"
-        },
-        {
-          "name": "Mary Susan Locke",
-          "url": "https://open.spotify.com/artist/5vt49YZLRj6ryXzcwnVmvU"
-        },
-        {
-          "name": "Evanna Lien",
-          "url": "https://open.spotify.com/artist/3Ebb2lHxbbKiMnJ2PKJaNT"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "The Sound of Music - Reprise",
-      "url": "https://open.spotify.com/track/6gLozZ4U1u2ZG8sjCuXSoE"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Blue Moon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ep5vaL5yz3XSgZCCTOXTj"
@@ -3201,7 +3197,7 @@
       "url": "https://open.spotify.com/track/0pbKvXylgjNJyRIqRMvPQv"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3225,7 +3221,7 @@
       "url": "https://open.spotify.com/track/569FoXMMFmzSfM4aJLIQEb"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "If I Ruled The World: Songs For The Jet Set",
         "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
@@ -3241,7 +3237,7 @@
       "url": "https://open.spotify.com/track/3xjYElc3X3CNKYP3dSc9xo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "If I Ruled The World: Songs For The Jet Set",
         "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
@@ -3257,7 +3253,7 @@
       "url": "https://open.spotify.com/track/5tr4Ow4vDOPbcgthT5xp69"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "My Name Is Barbra, Two...",
         "url": "https://open.spotify.com/album/3d0a3RAyrLLdkOEpChw7uh"
@@ -3273,23 +3269,7 @@
       "url": "https://open.spotify.com/track/3M2py042wTo3dvzby37xyd"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "60 Years: The Artistry of Tony Bennett",
-        "url": "https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "I Do Not Know a Day I Did Not Love You",
-      "url": "https://open.spotify.com/track/23zwjPsg87H9KVpUfG100K"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3313,7 +3293,7 @@
       "url": "https://open.spotify.com/track/5vEirdbF9vdiErKCeoQG48"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -3345,7 +3325,7 @@
       "url": "https://open.spotify.com/track/54M3EexxQub1ODUBOQgtmK"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Cinderella (Original Television Cast Recording)",
         "url": "https://open.spotify.com/album/7pZhd8nyjuy8tMbmQCJ4uc"
@@ -3377,7 +3357,7 @@
       "url": "https://open.spotify.com/track/3hdGQUrF2UkVvP4PcghmR1"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3401,7 +3381,7 @@
       "url": "https://open.spotify.com/track/0gOTUeTdQ9nxPMqo4qv3tX"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3425,7 +3405,7 @@
       "url": "https://open.spotify.com/track/2vyEAjfNrrsehzjY0bsl9x"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3449,10 +3429,10 @@
       "url": "https://open.spotify.com/track/5qEmlArfSomoXtOkss5HT2"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
-        "name": "Bing: His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+        "name": "Bing Crosby Gold: No. 1 Hits Plus",
+        "url": "https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ"
       },
       "artists": [
         {
@@ -3460,12 +3440,12 @@
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 173200,
-      "name": "Down By The River - Single Version",
-      "url": "https://open.spotify.com/track/61y4b9KVuaqc347er7vZzs"
+      "duration_ms": 173040,
+      "name": "Down By The River",
+      "url": "https://open.spotify.com/track/35NPohlR7eJfSvu8kKBYYV"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey (1952 Broadway Cast)",
         "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
@@ -3481,7 +3461,7 @@
       "url": "https://open.spotify.com/track/0mX8IFooUYgQqNq4sPCuks"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "My Name Is Barbra, Two...",
         "url": "https://open.spotify.com/album/3d0a3RAyrLLdkOEpChw7uh"
@@ -3497,7 +3477,23 @@
       "url": "https://open.spotify.com/track/5IvP20Y1S5lh3dIi3nnY6I"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Blossom Dearie, Soubrette: Sings Broadway Hits Songs",
+        "url": "https://open.spotify.com/album/4wZKDdG8LhLQTHSlaQcUHj"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Too Good For The Average Man",
+      "url": "https://open.spotify.com/track/45peDcqdx1GJ53g2mtJXbl"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea",
         "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
@@ -3521,7 +3517,7 @@
       "url": "https://open.spotify.com/track/3IdIiXQRNFUWzoG5u2ytGS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "100 Fiedler Favorites",
         "url": "https://open.spotify.com/album/3HKbNGgqCr0ExYgGcPFv9F"
@@ -3541,7 +3537,7 @@
       "url": "https://open.spotify.com/track/6kUB4PjzrDsiNcqgdiUqll"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Complete Decca Singles Vol. 3: 1942-1949",
         "url": "https://open.spotify.com/album/5Ci7FT8FBuEgoQ38wbx575"
@@ -3557,23 +3553,7 @@
       "url": "https://open.spotify.com/track/5nVMC2NBCyVnW5OIjG7lpD"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Blossom Dearie, Soubrette: Sings Broadway Hits Songs",
-        "url": "https://open.spotify.com/album/4wZKDdG8LhLQTHSlaQcUHj"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Too Good For The Average Man",
-      "url": "https://open.spotify.com/track/45peDcqdx1GJ53g2mtJXbl"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/0tHrECcuwdE34Mn8JkE4Mq"
@@ -3589,7 +3569,7 @@
       "url": "https://open.spotify.com/track/0jotNIy7dVgKAeiBsBOWzD"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea, Vol. 2",
         "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
@@ -3613,7 +3593,7 @@
       "url": "https://open.spotify.com/track/5qjWMvBeiWw3j9Ff6gTbRK"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea, Vol. 2",
         "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
@@ -3637,7 +3617,7 @@
       "url": "https://open.spotify.com/track/7vQoonTyBfTYF6rccknHPy"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea, Vol. 2",
         "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
@@ -3661,7 +3641,7 @@
       "url": "https://open.spotify.com/track/605NYlfr0qSG227qGPpW5z"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Victory at Sea, Vol. 2",
         "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
@@ -3685,7 +3665,7 @@
       "url": "https://open.spotify.com/track/4gttCXj49egSoR0bchhTlL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey (1952 Broadway Cast)",
         "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
@@ -3701,7 +3681,7 @@
       "url": "https://open.spotify.com/track/0IzvUGd3adOchJaGIkIVRL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "R&H Goes Pop!",
         "url": "https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI"
@@ -3717,7 +3697,23 @@
       "url": "https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "A Tree In The Park",
+      "url": "https://open.spotify.com/track/62AoaBw64WJhWtkNrk6Auv"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Sing",
         "url": "https://open.spotify.com/album/2Z2pe1WMI0NvD94AU0z679"
@@ -3733,7 +3729,7 @@
       "url": "https://open.spotify.com/track/47RTO3V1doYZ745ec82lwh"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -3765,7 +3761,7 @@
       "url": "https://open.spotify.com/track/2M0anLy4dVfrmx0aYBgttF"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -3793,7 +3789,7 @@
       "url": "https://open.spotify.com/track/31pVlocnjCbA1Xti1ObV21"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Complete Jazz Sessions, 1962",
         "url": "https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC"
@@ -3809,7 +3805,47 @@
       "url": "https://open.spotify.com/track/6BmSCO5TU6vbN2hLog5F5c"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Modern Jazz Performances Of Songs From Pal Joey",
+        "url": "https://open.spotify.com/album/0MkitMx7Ax85kr2tDflhry"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        },
+        {
+          "name": "Red Mitchell",
+          "url": "https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Take Him",
+      "url": "https://open.spotify.com/track/5XFeIdKbKJy2j7d9G0PeVZ"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Legendary Performer",
+        "url": "https://open.spotify.com/album/0axJx1eOS6W0FbM5QT0R9a"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 150800,
+      "name": "Sentimental Me - 1991 Remastered",
+      "url": "https://open.spotify.com/track/60thv0ckjCnMZ3w62HQg6B"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/5EzgUCV2xSuTgy7Q1DgL9k"
@@ -3829,7 +3865,7 @@
       "url": "https://open.spotify.com/track/1h0CDB8lB0LDt7sStuUtZh"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -3873,7 +3909,7 @@
       "url": "https://open.spotify.com/track/3vBN5ffDLx0tTqw9nFdEzX"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Story So Far...",
         "url": "https://open.spotify.com/album/2zXRkiLc7kdek7Gv97suTW"
@@ -3889,7 +3925,7 @@
       "url": "https://open.spotify.com/track/0V0rfnCEz4wPIOh684f6Nu"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Lee Wiley Sings the Songs of Rodgers & Hart and Arlen",
         "url": "https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN"
@@ -3905,7 +3941,7 @@
       "url": "https://open.spotify.com/track/5ApEpww97vNSC4ET6F7WJc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Lee Wiley Sings the Songs of Rodgers & Hart and Arlen",
         "url": "https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN"
@@ -3921,7 +3957,7 @@
       "url": "https://open.spotify.com/track/3auz1OA6D0RDf1MGlRdy57"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey",
         "url": "https://open.spotify.com/album/2b5r7QCdMY0v825HHAaw21"
@@ -3937,7 +3973,7 @@
       "url": "https://open.spotify.com/track/2iHkq79NGzxyXADQaK6w1c"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Boys From Syracuse",
         "url": "https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI"
@@ -3953,7 +3989,7 @@
       "url": "https://open.spotify.com/track/1UrtDAAP14hubfmCRR6IBe"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The King And I (2000 London Cast Recording)",
         "url": "https://open.spotify.com/album/1LrDMY3CY39UC107XulUtE"
@@ -3969,7 +4005,7 @@
       "url": "https://open.spotify.com/track/4rIBBY2ODjtkbEzyGe4ivD"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -4001,7 +4037,7 @@
       "url": "https://open.spotify.com/track/01OstllripJ6X4iR5QtVe9"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey (1952 Broadway Cast)",
         "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
@@ -4017,7 +4053,23 @@
       "url": "https://open.spotify.com/track/2FKZspC4gDD8FOz8Sj1Juc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Complete Jazz Sessions, 1962",
+        "url": "https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/1KveNzPtQOlX5q0nNG6xIY"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Complete Jazz Sessions, 1962",
         "url": "https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC"
@@ -4033,7 +4085,35 @@
       "url": "https://open.spotify.com/track/5Ga4cvsdRPYfXsfeCaFvPP"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Midnight Samba",
+        "url": "https://open.spotify.com/album/0eWuhYs13jrA0K35EkO6Wf"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Newton Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/5yS1gOuYkYFFmSejT6ugiV"
+        },
+        {
+          "name": "Norman Gimbel",
+          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5UwHoutOl9yjKRutqA44uI"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Sammy's Back On Broadway",
         "url": "https://open.spotify.com/album/1IbSivbOygwUjO4YmAq7YX"
@@ -4049,7 +4129,7 @@
       "url": "https://open.spotify.com/track/3GSwYMNHtGsI5NUvIMuOg3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Detroit Soul Ambassador",
         "url": "https://open.spotify.com/album/32mGVAOcuZRKw8AHXtArMS"
@@ -4065,7 +4145,7 @@
       "url": "https://open.spotify.com/track/22mHFCaNFZ3KmtBI7fDqt1"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4085,7 +4165,7 @@
       "url": "https://open.spotify.com/track/3b80F0zGAL0E6rBRo8PrjB"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey (1952 Broadway Cast)",
         "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
@@ -4101,7 +4181,7 @@
       "url": "https://open.spotify.com/track/4DKZi2P6gIRPtqXuWk8Ubi"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4121,23 +4201,23 @@
       "url": "https://open.spotify.com/track/3C1lU6T1DTcvxvGj5W6svi"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
-        "name": "Pal Joey (1952 Broadway Cast)",
-        "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
+        "name": "No Strings (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
       },
       "artists": [
         {
-          "name": "Original Broadway Cast of 'Pal Joey'",
-          "url": "https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR"
+          "name": "Diahann Carroll",
+          "url": "https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Take Him",
-      "url": "https://open.spotify.com/track/7EwbOEBwyvLRiN9Vf9gMsq"
+      "duration_ms": 114066,
+      "name": "You Don't Tell Me",
+      "url": "https://open.spotify.com/track/3eEcGQFM12d9PcMg3FBdLo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4157,7 +4237,7 @@
       "url": "https://open.spotify.com/track/6HRpFbe2yK4d89i6layssz"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey (1952 Broadway Cast)",
         "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
@@ -4173,7 +4253,7 @@
       "url": "https://open.spotify.com/track/7IlJrHM843aQ0qgtuRlw3l"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mildred Bailey, Mrs Swing",
         "url": "https://open.spotify.com/album/2cVr6IKbeRcvr8KawaAOMq"
@@ -4189,27 +4269,7 @@
       "url": "https://open.spotify.com/track/2ZQ8so5VXsrygQSqdBq7FQ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "More Victory At Sea",
-        "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
-      },
-      "artists": [
-        {
-          "name": "Robert Russell Bennett",
-          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
-        },
-        {
-          "name": "Richard Rodgers",
-          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
-        }
-      ],
-      "duration_ms": 318333,
-      "name": "The Turkey Shoot - 1992 Remastered",
-      "url": "https://open.spotify.com/track/1tz3be7DSLoi5uLsfOnO1V"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "BD Music Presents Fred Astaire",
         "url": "https://open.spotify.com/album/7pMw3xsJIaUfvdNXrkVcZi"
@@ -4229,7 +4289,27 @@
       "url": "https://open.spotify.com/track/62IDSYoLycgspDWsDx3VsJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "More Victory At Sea",
+        "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
+      },
+      "artists": [
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        }
+      ],
+      "duration_ms": 318333,
+      "name": "The Turkey Shoot - 1992 Remastered",
+      "url": "https://open.spotify.com/track/1tz3be7DSLoi5uLsfOnO1V"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Allegro (First Complete Recording)",
         "url": "https://open.spotify.com/album/330NYPTqcBSAO1ekWC8TO2"
@@ -4257,23 +4337,7 @@
       "url": "https://open.spotify.com/track/6C5KiUH9vo0HyEAciGPttq"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "No Strings (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
-      },
-      "artists": [
-        {
-          "name": "Diahann Carroll",
-          "url": "https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx"
-        }
-      ],
-      "duration_ms": 114066,
-      "name": "You Don't Tell Me",
-      "url": "https://open.spotify.com/track/3eEcGQFM12d9PcMg3FBdLo"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4293,7 +4357,7 @@
       "url": "https://open.spotify.com/track/6Nm0Zzr6CNPykTXKjoz8MO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -4341,7 +4405,7 @@
       "url": "https://open.spotify.com/track/3kMKMGBrrx0fIszME8h0Xq"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4361,7 +4425,7 @@
       "url": "https://open.spotify.com/track/14w79Y3WV7kLYuTpV5IgRB"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4381,7 +4445,7 @@
       "url": "https://open.spotify.com/track/3GC9KXihfBUlzKpUk0oeW2"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4401,7 +4465,7 @@
       "url": "https://open.spotify.com/track/3QKxQnjakTMhIbrM7QCqAo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4421,7 +4485,7 @@
       "url": "https://open.spotify.com/track/0CYGFUigOUGnvcTagtpJBS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Boys From Syracuse",
         "url": "https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI"
@@ -4437,7 +4501,7 @@
       "url": "https://open.spotify.com/track/1H3EmoZdmHm8P9hGx1QCoJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4457,39 +4521,7 @@
       "url": "https://open.spotify.com/track/0CRqrnZrKBgaXg2Xd7meGE"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "A Tree In The Park",
-      "url": "https://open.spotify.com/track/62AoaBw64WJhWtkNrk6Auv"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Complete Jazz Sessions, 1962",
-        "url": "https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/1KveNzPtQOlX5q0nNG6xIY"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Lee Wiley Sings the Songs of Rodgers & Hart and Arlen",
         "url": "https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN"
@@ -4505,7 +4537,7 @@
       "url": "https://open.spotify.com/track/6l7JuPoes8y16jbTyjPLME"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Babes In Arms (1999 New York Cast Recording)",
         "url": "https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1"
@@ -4545,7 +4577,7 @@
       "url": "https://open.spotify.com/track/3VMFwHnd3FBPO2FmZUXxee"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "More Victory At Sea",
         "url": "https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY"
@@ -4565,7 +4597,7 @@
       "url": "https://open.spotify.com/track/3wR7rTXK5lisDbWLrSQLwc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -4597,7 +4629,7 @@
       "url": "https://open.spotify.com/track/5o3T5aivhNQ8uFBKhsQGRc"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -4629,7 +4661,7 @@
       "url": "https://open.spotify.com/track/3FZ00HOiaeqdDtmiImOFvt"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz? (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua"
@@ -4665,7 +4697,39 @@
       "url": "https://open.spotify.com/track/2rIrpaVRGJHdUHm0s51fxa"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Complete Jazz Sessions, 1962",
+        "url": "https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Be My Host",
+      "url": "https://open.spotify.com/track/0ZJwxK4nxh4Cdb3PmO7Squ"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "No Strings (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
+      },
+      "artists": [
+        {
+          "name": "Richard Kiley",
+          "url": "https://open.spotify.com/artist/29l80PEg44YRkDbCK0U5OB"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "How Sad",
+      "url": "https://open.spotify.com/track/1mRBrmEId8KVSQ6VlPWU3S"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/13X1r6iXBTLIwYy6IPgDsT"
@@ -4681,7 +4745,7 @@
       "url": "https://open.spotify.com/track/7lvNDdhO4lpTM0wPAWojDH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "On Your Toes (Broadway Revival Cast 1954)",
         "url": "https://open.spotify.com/album/6GksNchKf0tOhhHIQT7RSa"
@@ -4709,7 +4773,7 @@
       "url": "https://open.spotify.com/track/6NfeKNghDMuxZh8whNbSJ5"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Babes In Arms (1999 New York Cast Recording)",
         "url": "https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1"
@@ -4733,7 +4797,7 @@
       "url": "https://open.spotify.com/track/7A3OubU9DLaR0chrVBQBi4"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Sweetest Swingin' Sounds Of No Strings",
         "url": "https://open.spotify.com/album/0EcIjwyUAwRP8Hvyc15bUN"
@@ -4749,23 +4813,7 @@
       "url": "https://open.spotify.com/track/4waCfqopGKKwQz6tEcgL1W"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "No Strings (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
-      },
-      "artists": [
-        {
-          "name": "Richard Kiley",
-          "url": "https://open.spotify.com/artist/29l80PEg44YRkDbCK0U5OB"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "How Sad",
-      "url": "https://open.spotify.com/track/1mRBrmEId8KVSQ6VlPWU3S"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Complete Decca Masters (Plus)",
         "url": "https://open.spotify.com/album/1FB5UJKvWTEVyFBAbHwIP0"
@@ -4785,7 +4833,7 @@
       "url": "https://open.spotify.com/track/0xUs23Mi82LctvF6CG4KCs"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Barbara Lea",
         "url": "https://open.spotify.com/album/43I5NU50WU2aRXUDr4FTWV"
@@ -4801,7 +4849,7 @@
       "url": "https://open.spotify.com/track/3VXvtRPbJzx9rzmCdamzJJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Essential Masters",
         "url": "https://open.spotify.com/album/48cLhsV1BbBBCXC4sPmpOG"
@@ -4817,23 +4865,7 @@
       "url": "https://open.spotify.com/track/0eEDhK6Ufu0jISnWRxmACv"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "\u00c9xitos de \"Lorenz Hart\"",
-        "url": "https://open.spotify.com/album/1ovxnp3ttC8H0EhQ61q39J"
-      },
-      "artists": [
-        {
-          "name": "Lorenz Hart",
-          "url": "https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC"
-        }
-      ],
-      "duration_ms": 218406,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/0m2TMyxtTunXwnXVkWz8pG"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -4857,7 +4889,23 @@
       "url": "https://open.spotify.com/track/7epz5of6riyJWdK6hMQBtw"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "\u00c9xitos de \"Lorenz Hart\"",
+        "url": "https://open.spotify.com/album/1ovxnp3ttC8H0EhQ61q39J"
+      },
+      "artists": [
+        {
+          "name": "Lorenz Hart",
+          "url": "https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC"
+        }
+      ],
+      "duration_ms": 218406,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/0m2TMyxtTunXwnXVkWz8pG"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Babes In Arms (1999 New York Cast Recording)",
         "url": "https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1"
@@ -4885,23 +4933,7 @@
       "url": "https://open.spotify.com/track/2CJVusPx4IWAgmJyV6ocGR"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Legendary Performer",
-        "url": "https://open.spotify.com/album/0axJx1eOS6W0FbM5QT0R9a"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 150800,
-      "name": "Sentimental Me - 1991 Remastered",
-      "url": "https://open.spotify.com/track/60thv0ckjCnMZ3w62HQg6B"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -4929,7 +4961,7 @@
       "url": "https://open.spotify.com/track/3tZWiMDVu8NUZo8UC8yTTV"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Babes In Arms (1999 New York Cast Recording)",
         "url": "https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1"
@@ -4969,7 +5001,7 @@
       "url": "https://open.spotify.com/track/7hRmMKBRcfEN0B7g1zMBUv"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "\u00c9xitos de \"Lorenz Hart\"",
         "url": "https://open.spotify.com/album/1ovxnp3ttC8H0EhQ61q39J"
@@ -4985,7 +5017,7 @@
       "url": "https://open.spotify.com/track/7fRC861S4G4DX9K136xvU1"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Dave Pell Octet Plays Rodgers & Hart",
         "url": "https://open.spotify.com/album/1muhbtz2yxWhNhyK4X1hMv"
@@ -5001,7 +5033,7 @@
       "url": "https://open.spotify.com/track/2hfZlDKc6JwyKcbf9hWML7"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Country Impressions",
         "url": "https://open.spotify.com/album/4vdLU82TSa8OT95b1QbYWY"
@@ -5017,7 +5049,7 @@
       "url": "https://open.spotify.com/track/37GnIPOmExnsEBnVV0N2hW"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Louie Louie",
         "url": "https://open.spotify.com/album/3DQQ9TxmisMaErhmzpLGlH"
@@ -5037,7 +5069,7 @@
       "url": "https://open.spotify.com/track/37mSVS8UtmUZAPCCuq6y7W"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Babes In Arms (1999 New York Cast Recording)",
         "url": "https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1"
@@ -5065,7 +5097,7 @@
       "url": "https://open.spotify.com/track/0gyhZAmMXjFCOYpDBHzNIJ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Boys From Syracuse",
         "url": "https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI"
@@ -5081,7 +5113,7 @@
       "url": "https://open.spotify.com/track/37YqcZnUkoknLISdoiYIwb"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Allegro (First Complete Recording)",
         "url": "https://open.spotify.com/album/330NYPTqcBSAO1ekWC8TO2"
@@ -5097,7 +5129,7 @@
       "url": "https://open.spotify.com/track/7jRdggDAXcZhmppv650kdI"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "From The Heart",
         "url": "https://open.spotify.com/album/4rvJbUohpGYUd7EUh7BnKn"
@@ -5113,39 +5145,23 @@
       "url": "https://open.spotify.com/track/4maCmCylOp7XCNz5pyPAPm"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
-        "name": "The Complete Jazz Sessions, 1962",
-        "url": "https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC"
+        "name": "No Strings (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+          "name": "Diahann Carroll",
+          "url": "https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx"
         }
       ],
-      "duration_ms": 186613,
-      "name": "Be My Host",
-      "url": "https://open.spotify.com/track/0ZJwxK4nxh4Cdb3PmO7Squ"
+      "duration_ms": 189600,
+      "name": "An Orthodox Fool",
+      "url": "https://open.spotify.com/track/7H5kMnA5m9yuLLfXV5yGNL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Grandes Orquestas",
-        "url": "https://open.spotify.com/album/76pDsbODfIfc0Wf1OUv4pT"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz",
-          "url": "https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM"
-        }
-      ],
-      "duration_ms": 93946,
-      "name": "The Girl Friend",
-      "url": "https://open.spotify.com/track/6vyXt6LTcunZ5Z1wJeGFAg"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -5173,7 +5189,7 @@
       "url": "https://open.spotify.com/track/4hQ8xPrcN1L8kEbeff6KV6"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Kleinmeister",
         "url": "https://open.spotify.com/album/7iLU32VjgscMWebg2Jtq5Q"
@@ -5189,23 +5205,7 @@
       "url": "https://open.spotify.com/track/52v7sjzTgPTVl2jlVlEdLd"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "No Strings (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
-      },
-      "artists": [
-        {
-          "name": "Diahann Carroll",
-          "url": "https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "An Orthodox Fool",
-      "url": "https://open.spotify.com/track/7H5kMnA5m9yuLLfXV5yGNL"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -5233,7 +5233,7 @@
       "url": "https://open.spotify.com/track/0JwHZtVUW4PK6yyle8Mkjt"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -5257,7 +5257,7 @@
       "url": "https://open.spotify.com/track/3iFpQi6sSyhQfHAE4q7IAH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "On Your Toes (Broadway Revival Cast 1954)",
         "url": "https://open.spotify.com/album/6GksNchKf0tOhhHIQT7RSa"
@@ -5281,27 +5281,7 @@
       "url": "https://open.spotify.com/track/0FCGszonC2e9yuWOEXZPOo"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "No Strings (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
-      },
-      "artists": [
-        {
-          "name": "Richard Kiley",
-          "url": "https://open.spotify.com/artist/29l80PEg44YRkDbCK0U5OB"
-        },
-        {
-          "name": "Diahann Carroll",
-          "url": "https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/0I3cmwdhKV1QvzpkzDtZQp"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -5325,7 +5305,7 @@
       "url": "https://open.spotify.com/track/22ffwykwcgyTusxCUosEu4"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Music from Our Soul",
         "url": "https://open.spotify.com/album/2KzLJo53SVprwqF1CB86vD"
@@ -5353,7 +5333,7 @@
       "url": "https://open.spotify.com/track/087eSvcD3CfCqooUnEVxqL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "On Your Toes (Broadway Revival Cast 1954)",
         "url": "https://open.spotify.com/album/6GksNchKf0tOhhHIQT7RSa"
@@ -5385,7 +5365,7 @@
       "url": "https://open.spotify.com/track/52gShQMNpU454iykUQkH1K"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "By Jupiter (1967 Off-Broadway Revival Cast Recording)",
         "url": "https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl"
@@ -5401,7 +5381,7 @@
       "url": "https://open.spotify.com/track/6nABcCNQDPepUfCarb1wgi"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Dawn Upshaw Sings Rodgers & Hart",
         "url": "https://open.spotify.com/album/5WfKuSoHpAZ66yTVphN9JX"
@@ -5425,7 +5405,7 @@
       "url": "https://open.spotify.com/track/7HxHA3dEo7mVVCEojxwRNP"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Manhattan Playboys - American Light Classics",
         "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
@@ -5449,7 +5429,7 @@
       "url": "https://open.spotify.com/track/3F9Vm9mgJRdV60qMr3YCpR"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -5497,7 +5477,7 @@
       "url": "https://open.spotify.com/track/6ViIGY0ccjs6y5P8dlbg22"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Women With Attitude",
         "url": "https://open.spotify.com/album/4P91Hu1uk3OzKeRrD7bXd5"
@@ -5513,7 +5493,7 @@
       "url": "https://open.spotify.com/track/1a2NHVSL4sp4nJcnFMbEyH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Struttin' At The World's Fair",
         "url": "https://open.spotify.com/album/7cNu86alJYAiIwUPTTbfKU"
@@ -5529,7 +5509,7 @@
       "url": "https://open.spotify.com/track/2o041UoE3JDzToXlGKSsUv"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Sing Me A Swing Song",
         "url": "https://open.spotify.com/album/0IPTjh7ZZB3jL8WWS78wqw"
@@ -5545,7 +5525,7 @@
       "url": "https://open.spotify.com/track/5nQEhCU0lgTS3zwqv7flj5"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hart: Songs from the Shows",
         "url": "https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY"
@@ -5573,7 +5553,7 @@
       "url": "https://open.spotify.com/track/1LYVlppi7F7eBojIBZvJaC"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Pal Joey (1995 Original New York Cast)",
         "url": "https://open.spotify.com/album/1etGLImerWgKPaXEQYNobr"
@@ -5593,7 +5573,7 @@
       "url": "https://open.spotify.com/track/3dF0VJW4pG477Du3LL7da4"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
@@ -5617,7 +5597,7 @@
       "url": "https://open.spotify.com/track/4xbnX1XzW1ITJLsHizGAEg"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Bobby Short Celebrates Rodgers & Hart",
         "url": "https://open.spotify.com/album/08pUGyS4rVWwbskaXdANx8"
@@ -5633,7 +5613,7 @@
       "url": "https://open.spotify.com/track/0LoFIYFIUq1O69LF12YJPQ"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Bobby Short Celebrates Rodgers & Hart",
         "url": "https://open.spotify.com/album/08pUGyS4rVWwbskaXdANx8"
@@ -5649,7 +5629,7 @@
       "url": "https://open.spotify.com/track/54w6Uvh6Bs93bwFFSFdDF6"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Boys From Syracuse",
         "url": "https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI"
@@ -5665,7 +5645,27 @@
       "url": "https://open.spotify.com/track/0fRyfq6KEuBFXl1H5PnY5E"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "No Strings (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
+      },
+      "artists": [
+        {
+          "name": "Noelle Adam",
+          "url": "https://open.spotify.com/artist/3bfVlsmRMYKBQ1m6pddZXG"
+        },
+        {
+          "name": "Alvin Epstein",
+          "url": "https://open.spotify.com/artist/3a33IFTkv76i1TQS0MqNX5"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "La-La-La",
+      "url": "https://open.spotify.com/track/55KtOxuoN2wQFEpMeM7CKd"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Babes In Arms",
         "url": "https://open.spotify.com/album/41wmXo2Rt7pL2ytQobJ10s"
@@ -5685,7 +5685,7 @@
       "url": "https://open.spotify.com/track/2u1Ps0OPCSxe8NrRFD6GYO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "All That Jazz, Vol. 90: Mingus Meets Norvo \u2013 The Collaboration (2017 Remaster)",
         "url": "https://open.spotify.com/album/1csfheraw1XMnWqLUGuE3z"
@@ -5713,7 +5713,7 @@
       "url": "https://open.spotify.com/track/3ARmu73sTM7wIqAilUE5gC"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hart: Songs from the Shows",
         "url": "https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY"
@@ -5741,7 +5741,7 @@
       "url": "https://open.spotify.com/track/1zOQBrLaw0D3Z1Jf0U15Mg"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Do I Hear a Waltz?",
         "url": "https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0"
@@ -5757,7 +5757,7 @@
       "url": "https://open.spotify.com/track/7qy2nwVyUScahd4lZveFZu"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Mary Martin Sings / Richard Rodgers Plays",
         "url": "https://open.spotify.com/album/2putGK7O1pn6afKg8aT6xi"
@@ -5777,7 +5777,7 @@
       "url": "https://open.spotify.com/track/45XVueHaqIJ4F5RA8f1pvi"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -5801,7 +5801,7 @@
       "url": "https://open.spotify.com/track/1tA5Jsex1hDBT47lM78fSh"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "When The Snow Is On The Roses",
         "url": "https://open.spotify.com/album/5IS6sYAmwp86XoDf8HC9Ay"
@@ -5817,7 +5817,75 @@
       "url": "https://open.spotify.com/track/03Dxg72BQs95iQkodgZJFp"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "A Night at the Theater",
+        "url": "https://open.spotify.com/album/7Lot3vzmVllhUDjQPYEmXC"
+      },
+      "artists": [
+        {
+          "name": "Jessica Weidman",
+          "url": "https://open.spotify.com/artist/1dP7ySEvGBqTvvn4i8z5GH"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "The Alto\u2019s Lament",
+      "url": "https://open.spotify.com/track/4cLASImEceUnxPoKBKQOhz"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "The Story So Far...",
+        "url": "https://open.spotify.com/album/2zXRkiLc7kdek7Gv97suTW"
+      },
+      "artists": [
+        {
+          "name": "Rose Marie Jun",
+          "url": "https://open.spotify.com/artist/0Vr2OpTxZP05kXh7FazHmJ"
+        }
+      ],
+      "duration_ms": 161306,
+      "name": "Everybody Loves Leona",
+      "url": "https://open.spotify.com/track/2MOWOZtSVxJ4VXhXxtpsJ3"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Do I Hear a Waltz?",
+        "url": "https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Moon in My Window",
+      "url": "https://open.spotify.com/track/2qNW88mNLodRLtD910yxLE"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "On Your Toes (1983 Broadway Revival Cast)",
+        "url": "https://open.spotify.com/album/1bBqDpzL3msLxDbuo1mqoD"
+      },
+      "artists": [
+        {
+          "name": "Lara Teeter",
+          "url": "https://open.spotify.com/artist/6H1FSs4UZV8ADKLduFgLbg"
+        },
+        {
+          "name": "John Yap",
+          "url": "https://open.spotify.com/artist/00nfwMY19NEvMutq0neftB"
+        }
+      ],
+      "duration_ms": 158692,
+      "name": "Questions and Answers (The Three B's)",
+      "url": "https://open.spotify.com/track/1ttqOv1TYCfjjy27P8pUK5"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Simply Broadway",
         "url": "https://open.spotify.com/album/5vXFcCf7G5CpzN7MWC6ZD3"
@@ -5841,75 +5909,7 @@
       "url": "https://open.spotify.com/track/2ie2DPp8oYLtD58nwx6eIH"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "A Night at the Theater",
-        "url": "https://open.spotify.com/album/7Lot3vzmVllhUDjQPYEmXC"
-      },
-      "artists": [
-        {
-          "name": "Jessica Weidman",
-          "url": "https://open.spotify.com/artist/1dP7ySEvGBqTvvn4i8z5GH"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "The Alto\u2019s Lament",
-      "url": "https://open.spotify.com/track/4cLASImEceUnxPoKBKQOhz"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "The Story So Far...",
-        "url": "https://open.spotify.com/album/2zXRkiLc7kdek7Gv97suTW"
-      },
-      "artists": [
-        {
-          "name": "Rose Marie Jun",
-          "url": "https://open.spotify.com/artist/0Vr2OpTxZP05kXh7FazHmJ"
-        }
-      ],
-      "duration_ms": 161306,
-      "name": "Everybody Loves Leona",
-      "url": "https://open.spotify.com/track/2MOWOZtSVxJ4VXhXxtpsJ3"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Do I Hear a Waltz?",
-        "url": "https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Moon in My Window",
-      "url": "https://open.spotify.com/track/2qNW88mNLodRLtD910yxLE"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "On Your Toes (1983 Broadway Revival Cast)",
-        "url": "https://open.spotify.com/album/1bBqDpzL3msLxDbuo1mqoD"
-      },
-      "artists": [
-        {
-          "name": "Lara Teeter",
-          "url": "https://open.spotify.com/artist/6H1FSs4UZV8ADKLduFgLbg"
-        },
-        {
-          "name": "John Yap",
-          "url": "https://open.spotify.com/artist/00nfwMY19NEvMutq0neftB"
-        }
-      ],
-      "duration_ms": 158692,
-      "name": "Questions and Answers (The Three B's)",
-      "url": "https://open.spotify.com/track/1ttqOv1TYCfjjy27P8pUK5"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "By Jupiter (1967 Off-Broadway Revival Cast Recording)",
         "url": "https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl"
@@ -5925,7 +5925,7 @@
       "url": "https://open.spotify.com/track/2SoYHwYcuQ2LaqYnXuF2f2"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -5941,7 +5941,7 @@
       "url": "https://open.spotify.com/track/3N9ln4fWVEvq2SE0i0kFnO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Richard Rogers: Command Performance",
         "url": "https://open.spotify.com/album/76tseuxljEgZJwiP1RJ8s2"
@@ -5957,7 +5957,7 @@
       "url": "https://open.spotify.com/track/6YUqBeSUMYg35ntYkoZ6E3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hart: Songs from the Shows",
         "url": "https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY"
@@ -5985,27 +5985,7 @@
       "url": "https://open.spotify.com/track/0AEK5mXxEovfOcaw1fSiUT"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "No Strings (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn"
-      },
-      "artists": [
-        {
-          "name": "Noelle Adam",
-          "url": "https://open.spotify.com/artist/3bfVlsmRMYKBQ1m6pddZXG"
-        },
-        {
-          "name": "Alvin Epstein",
-          "url": "https://open.spotify.com/artist/3a33IFTkv76i1TQS0MqNX5"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "La-La-La",
-      "url": "https://open.spotify.com/track/55KtOxuoN2wQFEpMeM7CKd"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Blue Room (The Music Of Rodgers & Hart - Original Recordings 1926 - 1927)",
         "url": "https://open.spotify.com/album/66TTnHzsh9HC74DWpsEsGY"
@@ -6025,7 +6005,7 @@
       "url": "https://open.spotify.com/track/6qAB1ImEqLpsvAB3K82T9I"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6041,7 +6021,7 @@
       "url": "https://open.spotify.com/track/759jerZunufrH7XU6vd4PS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rodgers & Hart: Songs from the Shows",
         "url": "https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY"
@@ -6069,7 +6049,7 @@
       "url": "https://open.spotify.com/track/5j4hx5PLw6B3mZSHmX1aSr"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6089,7 +6069,7 @@
       "url": "https://open.spotify.com/track/6xNDaL7NdI23uTxtBkHqEs"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "A Connecticut Yankee - Original Broadway Cast",
         "url": "https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh"
@@ -6109,7 +6089,7 @@
       "url": "https://open.spotify.com/track/1ejdkmcuPPi1rFEBYD0u6Y"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Behind the Curtain - Broadway Composers & Lyricists Sing Their Songs",
         "url": "https://open.spotify.com/album/0YXUWVX1yF2VP8H0llWQTS"
@@ -6125,7 +6105,7 @@
       "url": "https://open.spotify.com/track/76VLkCuG7iQHwJT1JwkXBO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Smash Song Hits by Rodgers & Hart",
         "url": "https://open.spotify.com/album/2wvr5n6mleHMPmiXkGDCv2"
@@ -6145,7 +6125,7 @@
       "url": "https://open.spotify.com/track/3ewJOBNYDB8utP7crgHr5g"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "By Jupiter (1967 Off-Broadway Revival Cast Recording)",
         "url": "https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl"
@@ -6161,7 +6141,7 @@
       "url": "https://open.spotify.com/track/4YSt1z0TsYC45igIjC1UXu"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "By Jupiter (1967 Off-Broadway Revival Cast Recording)",
         "url": "https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl"
@@ -6177,7 +6157,7 @@
       "url": "https://open.spotify.com/track/2g50wolJ6e6sFzgOvPap6r"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "By Jupiter (1967 Off-Broadway Revival Cast Recording)",
         "url": "https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl"
@@ -6193,7 +6173,7 @@
       "url": "https://open.spotify.com/track/4KVj5KAJTKiJcbAnXq6hc5"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "A Connecticut Yankee - Original Broadway Cast",
         "url": "https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh"
@@ -6209,7 +6189,7 @@
       "url": "https://open.spotify.com/track/3Fqnt0l35nwtPBWnnbqb1R"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6233,7 +6213,7 @@
       "url": "https://open.spotify.com/track/0RwaNAIKTa1V7d80RH6rfO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6261,7 +6241,7 @@
       "url": "https://open.spotify.com/track/16Hg2WM3DdQU3kMVe9Xp62"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Selections From Victory At Sea, War And Remembrance & Other Favorites",
         "url": "https://open.spotify.com/album/7nt38HuGwWM9BgEc7qCzdq"
@@ -6285,7 +6265,7 @@
       "url": "https://open.spotify.com/track/1CL0bPf6dr7fUqrvu3fiUb"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6301,7 +6281,7 @@
       "url": "https://open.spotify.com/track/6sHjiDKhviVimNFyik2Rgm"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6317,7 +6297,7 @@
       "url": "https://open.spotify.com/track/48REPh28xAVT5o6k69w58w"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "A Connecticut Yankee - Original Broadway Cast",
         "url": "https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh"
@@ -6333,7 +6313,7 @@
       "url": "https://open.spotify.com/track/01YhOo04ivdw3SBaGH91AO"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Rex (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz"
@@ -6349,7 +6329,23 @@
       "url": "https://open.spotify.com/track/7lV93cvaU5RjR3BaxYgUQS"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Remastered Classics, Vol. 6, Billy May",
+        "url": "https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw"
+      },
+      "artists": [
+        {
+          "name": "Billy May & His Orchestra",
+          "url": "https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw"
+        }
+      ],
+      "duration_ms": 142119,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/1bFEqg4kTbdQEVaia2o0jJ"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Kostelanetz Plays Richard Rodgers",
         "url": "https://open.spotify.com/album/776usvENKACM75MxyRMjWR"
@@ -6369,7 +6365,7 @@
       "url": "https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Oklahoma! (Original Broadway Cast 1943)",
         "url": "https://open.spotify.com/album/1EqFgtBnrEQ3Uyp33jetaT"
@@ -6393,7 +6389,7 @@
       "url": "https://open.spotify.com/track/0lwtgfd7Asz21a3sexSbnj"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6413,7 +6409,7 @@
       "url": "https://open.spotify.com/track/2JQfPvlIhhAaZh74leLiF8"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "I Remember Mama (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/12Dms3retCzMNho556jlir"
@@ -6433,23 +6429,7 @@
       "url": "https://open.spotify.com/track/7yvJ4aQUSiKEExpqu5Okbb"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/0FTj8xA6hPncO0vAp7BaNg"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "Something Doesn't Happen - from the Broadway musical \"Two by Two\"",
-      "url": "https://open.spotify.com/track/46pVoOqNn39vVWEe55A12x"
-    },
-    {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6465,7 +6445,23 @@
       "url": "https://open.spotify.com/track/36wyN9hN03WOq5go0EPCjE"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/0FTj8xA6hPncO0vAp7BaNg"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "Something Doesn't Happen - from the Broadway musical \"Two by Two\"",
+      "url": "https://open.spotify.com/track/46pVoOqNn39vVWEe55A12x"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Dancing On The Ceiling (The Music Of Rodgers & Hart - Original Recordings 1927 - 1930)",
         "url": "https://open.spotify.com/album/19hSpv9OssFTkyWB5uKUVq"
@@ -6481,7 +6477,7 @@
       "url": "https://open.spotify.com/track/3zEU0GPWRWk9Ni0QDHzi5r"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Edie Adams",
         "url": "https://open.spotify.com/album/423tutuajJ4iOZ4DCUGquI"
@@ -6501,7 +6497,7 @@
       "url": "https://open.spotify.com/track/23Aa0sqtxrNlvs81nWx3sI"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6521,7 +6517,7 @@
       "url": "https://open.spotify.com/track/3xrL9MuDA3koIrpOsLvJiL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6541,7 +6537,7 @@
       "url": "https://open.spotify.com/track/2OffszmvWPLyKTYST1FySs"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6561,7 +6557,7 @@
       "url": "https://open.spotify.com/track/1pUgkSBwZTRMIOLe6RqK0U"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6581,7 +6577,7 @@
       "url": "https://open.spotify.com/track/5JKQkqNfKWCnF7lCXoyWKK"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6597,7 +6593,7 @@
       "url": "https://open.spotify.com/track/5n3F5Q9Ywh5bG877yd4UAL"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6613,7 +6609,7 @@
       "url": "https://open.spotify.com/track/7y0l70mnPNHQtMRew7Dq92"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
@@ -6633,7 +6629,7 @@
       "url": "https://open.spotify.com/track/7FB7WYkUWB4RC4He3SL9CA"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Blue Room (The Music Of Rodgers & Hart - Original Recordings 1926 - 1927)",
         "url": "https://open.spotify.com/album/66TTnHzsh9HC74DWpsEsGY"
@@ -6653,7 +6649,7 @@
       "url": "https://open.spotify.com/track/5j3nAC6Qi021Ntwbpj5YLh"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The Songs of Rodgers and Hart",
         "url": "https://open.spotify.com/album/0kAu7M0OKzKwdv7WrFUMl7"
@@ -6685,7 +6681,7 @@
       "url": "https://open.spotify.com/track/0HSRvzW1fHDXYL6V3Bp7MW"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Escape from New York (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/10loIW5T89s8nLCa73GxiF"
@@ -6701,23 +6697,27 @@
       "url": "https://open.spotify.com/track/19StSmBVKXxXH66CB0vrWC"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Dearest Enemy",
-        "url": "https://open.spotify.com/album/7fuQb6l4iSJSOfHwzq0MYo"
+        "url": "https://open.spotify.com/album/3zQO3mgLNgLCGFozpfGYEB"
       },
       "artists": [
         {
-          "name": "Cyril Ritchard & Chorus",
-          "url": "https://open.spotify.com/artist/1jSYHtyZRHcVhvyh7Jh1gL"
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        },
+        {
+          "name": "Cyril Ritchard",
+          "url": "https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr"
         }
       ],
       "duration_ms": 144893,
       "name": "Sweet Peter",
-      "url": "https://open.spotify.com/track/6s0VmlgfeasPS5dFaQ2q18"
+      "url": "https://open.spotify.com/track/2ExH7ADUaT024TCwrvPP5J"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "Top 100 Classics - The Very Best of Harold 'Scrappy'Lambert",
         "url": "https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH"
@@ -6733,7 +6733,23 @@
       "url": "https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3"
     },
     {
-      "added_at": "2026-08-17 01:40:10",
+      "added_at": "2026-08-18 01:40:10",
+      "album": {
+        "name": "Spotlight Karaoke Vol. 17 (Cinderella)",
+        "url": "https://open.spotify.com/album/7Coeacnm2P5DFi46ZhZP0r"
+      },
+      "artists": [
+        {
+          "name": "Charttraxx Karaoke",
+          "url": "https://open.spotify.com/artist/4zjsIwpsKH0a8aXYHWWOqc"
+        }
+      ],
+      "duration_ms": 88450,
+      "name": "Exit Music - Karaoke Version in the style of Cinderella",
+      "url": "https://open.spotify.com/track/4zCZyZ8z3BnweAtYxUT1hL"
+    },
+    {
+      "added_at": "2026-08-18 01:40:10",
       "album": {
         "name": "The View from Pompey's Head (Music from the Original 1955 Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk"

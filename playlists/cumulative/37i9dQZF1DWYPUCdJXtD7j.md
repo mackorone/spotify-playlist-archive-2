@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Au feu les pompiers](https://open.spotify.com/track/3aIKoEFOhLjsgm7mVvVrBq) | [Catherine Vaniscotte](https://open.spotify.com/artist/1f77Nsy3M8OxLYr6yt0vPd) | [Comptines Volume 1](https://open.spotify.com/album/7bHnhDcykNiJ150e7ABUWB) | 1:00 | 2021-04-14 |  |
+| [Au feu les pompiers](https://open.spotify.com/track/3aIKoEFOhLjsgm7mVvVrBq) | [Comptines.net](https://open.spotify.com/artist/0VTMQuf26LpoZpdUovOb30), [Catherine Vaniscotte](https://open.spotify.com/artist/1f77Nsy3M8OxLYr6yt0vPd) | [Comptines Volume 1](https://open.spotify.com/album/7bHnhDcykNiJ150e7ABUWB) | 1:00 | 2021-04-14 |  |
 | [Bicyclette patins à roulettes](https://open.spotify.com/track/5SVs9UvqiTYWI8H9Zf3EmV) | [Anne Sylvestre](https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn) | [Les Fabulettes, vol\. 4 : La ville aux enfants](https://open.spotify.com/album/2CYdJJvfYGWRJpwXmRrnCx) | 2:01 | 2021-04-14 |  |
 | [Camion, ça fait prout](https://open.spotify.com/track/4cHFwZgRYdwkJ3oXA28K36) | [Henri Dès](https://open.spotify.com/artist/0CY3kcceNHCysHMl8u7duy) | [Henri Dès, Vol\. 6: Le beau tambour](https://open.spotify.com/album/6XxnmZ0kZJtB1QIkYxgu87) | 3:24 | 2021-04-14 |  |
 | [Comme Eddy Merckx sur son velo](https://open.spotify.com/track/1F6Gju4MSKO08o0bBikWyM) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [L'union fait la force](https://open.spotify.com/album/5pXsdNlKgalQFNxrpGnIDt) | 2:57 | 2021-04-14 |  |

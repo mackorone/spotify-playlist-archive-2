@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,881 likes - 175 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,909 likes - 175 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

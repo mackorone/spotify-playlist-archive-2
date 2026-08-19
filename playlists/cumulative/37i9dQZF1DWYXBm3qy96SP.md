@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Zebrahead
 
-2,229 songs - 5 day 9 hr 46 min
+2,230 songs - 5 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Better Angels](https://open.spotify.com/track/67bFBplBzPlVTswkzXXBfC) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Better Angels](https://open.spotify.com/album/7pJiwEr1iURhwnoamMIbal) | 3:42 | 2026-06-11 | 2026-06-19 |
 | [Better Left Unsaid](https://open.spotify.com/track/36ktIIw7DOCSodyqO3nsPB) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Better Left Unsaid](https://open.spotify.com/album/4P5FGoVB47l0tcYp39XnX6) | 2:51 | 2023-10-19 | 2023-10-27 |
 | [Better Luck Next Time](https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Better Luck Next Time](https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu) | 3:53 | 2023-10-26 | 2023-11-03 |
-| [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 | 2026-06-11 |  |
+| [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 | 2026-06-11 | 2026-08-19 |
 | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/track/11BIdkGoqRisAm21nXcTFx) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/album/0BqTnZD4dmxKVg7ZYgmmXY) | 2:39 | 2024-01-04 | 2024-01-12 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 | 2023-08-18 |
 | [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 | 2026-05-14 | 2026-05-22 |
@@ -536,7 +536,7 @@
 | [dirty wedding dress](https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [dirty wedding dress](https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w) | 4:49 | 2026-03-12 | 2026-05-29 |
 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 | 2024-01-11 | 2024-01-19 |
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-19 | 2023-11-24 |
-| [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-07 |  |
+| [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-07 | 2026-08-19 |
 | [Diving in After You](https://open.spotify.com/track/3EDpOGFvsriOrCQ9P8DJbj) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Diving in After You](https://open.spotify.com/album/4IMHZKSN6dXybcaaw7Wzzm) | 3:00 | 2024-02-29 | 2024-04-26 |
 | [Dizzy](https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:44 | 2023-04-13 | 2023-04-21 |
 | [Do It Again](https://open.spotify.com/track/3IglwgxQ04acpQabSK8kfk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Do It Again](https://open.spotify.com/album/4TE7hHhIEsa4pan0KtVj4Q) | 4:13 | 2024-02-08 | 2024-02-16 |
@@ -739,7 +739,7 @@
 | [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-02 | 2026-07-03 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 | 2023-07-21 |
 | [Gangstalker](https://open.spotify.com/track/6C0qKH9p82UgaubxH7R9nn) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Gangstalker](https://open.spotify.com/album/2kjHcBgQxQ0bvUlJVOz5g0) | 2:34 | 2026-05-28 | 2026-06-26 |
-| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-06 | 2026-08-14 |
+| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-06 |  |
 | [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-06-06 | 2024-06-21 |
 | [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 | 2026-07-30 | 2026-08-10 |
 | [gauche](https://open.spotify.com/track/1BQpylIOzyQqlQb08nhjmF) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [gauche](https://open.spotify.com/album/6ymHFX28InwLHNnEgY7EGh) | 2:56 | 2023-10-19 | 2023-10-27 |
@@ -787,6 +787,7 @@
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-03-30 | 2023-07-07 |
 | [Going Kokomo](https://open.spotify.com/track/51p3vKgHGVYjWr63eGH6jd) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Going Kokomo](https://open.spotify.com/album/3j83OoSgq6I6CFUq5Wlxl6) | 3:10 | 2023-03-30 | 2023-04-01 |
 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-04-09 |  |
+| [GOING UNDER \(with Paledusk\)](https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2) | 3:09 | 2026-08-17 |  |
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-15 | 2023-06-30 |
 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 | 2023-04-20 | 2023-04-28 |
 | [Golden Harbor](https://open.spotify.com/track/4nz2wBxuWeRJ802fKQqjbp) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Golden Harbor](https://open.spotify.com/album/3gxT6F1LrpWqiG6X6m7ggT) | 2:36 | 2024-05-23 | 2024-06-07 |
@@ -1200,7 +1201,7 @@
 | [Make Us Whole Again](https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Make Us Whole Again](https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i) | 3:52 | 2026-03-12 | 2026-04-16 |
 | [Make\-up is a Lie](https://open.spotify.com/track/1ubJkE9q1un1hIHbDfJ8Tg) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Make\-up is a Lie](https://open.spotify.com/album/0jyLLWr93rCySb4oKjhxxX) | 3:09 | 2026-03-12 | 2026-03-25 |
 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 | 2024-02-29 | 2024-04-05 |
-| [Makes no Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 | 2026-08-17 |  |
+| [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 | 2026-08-17 |  |
 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-11 | 2026-03-13 |
 | [Man Down](https://open.spotify.com/track/0zwTWAaEvnHoGIoRIPG0oD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Man Down](https://open.spotify.com/album/2hPc8LFCi2HzeW1BdSw8TH) | 3:03 | 2023-09-07 | 2023-09-15 |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-06-19 | 2025-08-13 |

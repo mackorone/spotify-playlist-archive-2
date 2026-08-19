@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,403 likes - 159 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,407 likes - 159 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 11 | [Nothing Happens Twice](https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nothing Happens Twice](https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9) | 3:42 |
 | 12 | [NOTHING BETTER THAN THIS](https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [NOTHING BETTER THAN THIS](https://open.spotify.com/album/78D6ZKU4ejLoZF7ghxaqTP) | 2:38 |
 | 13 | [Race Car Driver](https://open.spotify.com/track/7j9wdLhis4MYplephHszTI) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Science](https://open.spotify.com/album/4uZ9ILuVr2w2vVx4HtgW5n) | 2:33 |
-| 14 | [Makes no Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
+| 14 | [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 |
 | 15 | [pretty little wreck](https://open.spotify.com/track/5E20wifIo9SPgYSFiboExO) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [pretty little wreck](https://open.spotify.com/album/7y25EesHbjD552Aquq2Vtf) | 1:58 |
 | 16 | [TETHERED](https://open.spotify.com/track/3T7dA8ChJjB3MO9BXAvWI7) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [TETHERED](https://open.spotify.com/album/3esZSIjwOc0gkaveIwToKd) | 3:22 |
 | 17 | [The Bar Is Set So Low](https://open.spotify.com/track/03DwJni1Yw6RcgWmTsraea) | [The Format](https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf) | [The Bar Is Set So Low](https://open.spotify.com/album/0MNBLTiEFMditBtNfi0dcr) | 2:45 |

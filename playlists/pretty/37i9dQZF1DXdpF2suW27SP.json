@@ -1,6 +1,6 @@
 {
   "description": "Julinho Ksd entra na zona. ",
-  "num_followers": 191800,
+  "num_followers": 191810,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
@@ -315,14 +315,10 @@
     {
       "added_at": "2026-08-13 23:00:11",
       "album": {
-        "name": "EX n\u00e3o \u00e9 Plano B",
+        "name": "Ex n\u00e3o \u00e9 Plano B",
         "url": "https://open.spotify.com/album/7qoxTIAKVtCJO1yu6cZaSs"
       },
       "artists": [
-        {
-          "name": "ROCHA.SNJ",
-          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
-        },
         {
           "name": "Dbraz",
           "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
@@ -330,10 +326,14 @@
         {
           "name": "Simba.",
           "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        },
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
         }
       ],
       "duration_ms": 134615,
-      "name": "EX n\u00e3o \u00e9 Plano B",
+      "name": "Ex n\u00e3o \u00e9 Plano B",
       "url": "https://open.spotify.com/track/76K950pTxuGVZyxKkl4o8j"
     },
     {
@@ -815,7 +815,7 @@
     {
       "added_at": "2026-08-13 23:00:11",
       "album": {
-        "name": "Coca Cola",
+        "name": "coca cola",
         "url": "https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G"
       },
       "artists": [
@@ -837,7 +837,7 @@
         }
       ],
       "duration_ms": 219175,
-      "name": "Coca Cola",
+      "name": "coca cola",
       "url": "https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT"
     },
     {
@@ -1223,7 +1223,7 @@
     {
       "added_at": "2026-08-13 23:00:11",
       "album": {
-        "name": "AfterHours",
+        "name": "AFTERHOURS",
         "url": "https://open.spotify.com/album/1A3KgyELfj7Npb3zZAeBJU"
       },
       "artists": [
@@ -1245,7 +1245,7 @@
         }
       ],
       "duration_ms": 176666,
-      "name": "AfterHours",
+      "name": "AFTERHOURS",
       "url": "https://open.spotify.com/track/1liMuad86a8bz9IqisJGWJ"
     },
     {

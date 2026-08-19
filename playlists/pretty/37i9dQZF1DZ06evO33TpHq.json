@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 66261,
+  "num_followers": 66266,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAADERgStDhCykhpedlGnKL97",
+  "snapshot_id": "aoJPAAAAAAAJ1udOuU/xHhdDKJz/mUIQ",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalm 8 (Hall\u00e9)",
+        "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Psalm 8 (Hall\u00e9)",
+      "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -323,26 +339,6 @@
       "duration_ms": 290133,
       "name": "Great Things",
       "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": null,
@@ -383,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
       "artists": [
         {
@@ -392,13 +388,13 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         },
         {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 227448,
-      "name": "Psalm 8 (from the Angel Film DAVID)",
-      "url": "https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3"
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": null,
@@ -419,6 +415,30 @@
       "duration_ms": 325791,
       "name": "Praise The Lord Forever",
       "url": "https://open.spotify.com/track/70LE3Qk0VsT1Hw5MtHaueA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Miri Mesika",
+          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
+        }
+      ],
+      "duration_ms": 208183,
+      "name": "Why God - My God",
+      "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
     },
     {
       "added_at": null,
@@ -455,30 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Miri Mesika",
-          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
-        }
-      ],
-      "duration_ms": 208183,
-      "name": "Why God - My God",
-      "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God",
         "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
@@ -491,6 +487,22 @@
       "duration_ms": 233720,
       "name": "Your Love Awakens Me",
       "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -527,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -563,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints (Deluxe)",
         "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
@@ -595,6 +575,22 @@
       "duration_ms": 277600,
       "name": "Flowers (with Jamie MacDonald)",
       "url": "https://open.spotify.com/track/6wGoOROkXRICGwbj3vrKNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
     },
     {
       "added_at": null,
@@ -823,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear Has No Power",
-        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Fear Has No Power",
-      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -851,6 +831,22 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,

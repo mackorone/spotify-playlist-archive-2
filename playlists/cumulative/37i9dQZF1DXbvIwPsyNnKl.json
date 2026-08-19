@@ -9349,6 +9349,28 @@
     },
     {
       "album": {
+        "name": "Viva La Raza",
+        "url": "https://open.spotify.com/album/02i2Bhz1EoOCgz8pCp1Jd7"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "THUGSTA",
+          "url": "https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199369,
+      "name": "Viva La Raza",
+      "url": "https://open.spotify.com/track/4A7c3xEnNDLk718zDwC6ip"
+    },
+    {
+      "album": {
         "name": "Wa Na Wa - Spotify Singles",
         "url": "https://open.spotify.com/album/49HuZw2rqL5Uw3ZPiTxR4B"
       },

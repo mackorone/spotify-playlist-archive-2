@@ -52,10 +52,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 183380,
       "name": "Bored",
       "url": "https://open.spotify.com/track/0H2aPW6EdKHfOZ9AzVnod4"
+    },
+    {
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/1mpAhcCw0EtoczmnbXjXBU"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        },
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184401,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne"
     },
     {
       "album": {

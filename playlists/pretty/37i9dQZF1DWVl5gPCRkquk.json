@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1953573,
+  "num_followers": 1953557,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
+      "added_at": "2026-08-03 22:34:11",
+      "album": {
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
+    },
+    {
       "added_at": "2026-07-24 04:02:14",
       "album": {
         "name": "Rust.",
@@ -323,22 +339,6 @@
       "duration_ms": 254213,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
-    },
-    {
-      "added_at": "2026-08-03 22:34:11",
-      "album": {
-        "name": "All I Ever Wanted Was You",
-        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
-      },
-      "artists": [
-        {
-          "name": "The Sways",
-          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "All I Ever Wanted Was You",
-      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 193333,
       "name": "Take Back Thy Gift",
       "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Light Sides",
-        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 243087,
-      "name": "Beginner",
-      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Room On Your Shoulder",
         "url": "https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 206146,
       "name": "Room On Your Shoulder",
       "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Light Sides",
+        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 243087,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "The Voyager",
-        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "The Voyager",
-      "url": "https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Peanut",
         "url": "https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 190318,
       "name": "Red and Neon",
       "url": "https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "The Voyager",
+        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "The Voyager",
+      "url": "https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl"
     }
   ],
   "unique_name": "Chill Folk",

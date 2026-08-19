@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Hyldon",
-  "num_followers": 353253,
+  "num_followers": 353241,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "veneza",
-        "url": "https://open.spotify.com/album/0KDr7i9QxsKgq9n5zd0AXg"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jr",
-          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "veneza",
-      "url": "https://open.spotify.com/track/52TmF4X55FgLoGNoclyxre"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -231,18 +215,18 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
-        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
+        "name": "veneza",
+        "url": "https://open.spotify.com/album/0KDr7i9QxsKgq9n5zd0AXg"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
         }
       ],
-      "duration_ms": 208607,
-      "name": "Semeia",
-      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
+      "duration_ms": 185238,
+      "name": "veneza",
+      "url": "https://open.spotify.com/track/52TmF4X55FgLoGNoclyxre"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -263,6 +247,22 @@
       "duration_ms": 250880,
       "name": "Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
+        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 208607,
+      "name": "Semeia",
+      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -455,22 +455,18 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Punto Muerto",
-        "url": "https://open.spotify.com/album/2LbMl8yquJnbhqF18eSoo3"
+        "name": "Todo Sempre",
+        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
       },
       "artists": [
         {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 120091,
-      "name": "Punto Muerto",
-      "url": "https://open.spotify.com/track/2GBA7z3iXINkXreGRD8Cct"
+      "duration_ms": 238000,
+      "name": "Todo Sempre",
+      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -495,18 +491,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Todo Sempre",
-        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
+        "name": "Punto Muerto",
+        "url": "https://open.spotify.com/album/2LbMl8yquJnbhqF18eSoo3"
       },
       "artists": [
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Todo Sempre",
-      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
+      "duration_ms": 120091,
+      "name": "Punto Muerto",
+      "url": "https://open.spotify.com/track/2GBA7z3iXINkXreGRD8Cct"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Flor de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
       },
@@ -579,6 +563,38 @@
       "duration_ms": 204537,
       "name": "Flor de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Em Sil\u00eancio o Afeto Cresce",
+        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Perdi Meu Rumo Na Sua Boca",
+      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -623,38 +639,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Em Sil\u00eancio o Afeto Cresce",
-        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
-      },
-      "artists": [
-        {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Perdi Meu Rumo Na Sua Boca",
-      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Vende-se Lembran\u00e7a",
-        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Tanto Voc\u00ea",
-      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Nua Ideia",
         "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 233229,
       "name": "Nua Ideia",
       "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Vende-se Lembran\u00e7a",
+        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Tanto Voc\u00ea",
+      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Inofensiva Flor (Primeiro Ato)",
-        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 179029,
-      "name": "N\u00e3o Sento \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Vamos Combinar",
         "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "Inofensiva Flor (Primeiro Ato)",
+        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "N\u00e3o Sento \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Homem com H",
         "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Eu Venho de Longe",
-        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+        "name": "Mariana Nolasco Sessions 3",
+        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 223009,
-      "name": "Eu Venho de Longe",
-      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+      "duration_ms": 149825,
+      "name": "Deus me proteja - Sessions",
+      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -815,22 +815,6 @@
       "duration_ms": 220689,
       "name": "romance",
       "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Mariana Nolasco Sessions 3",
-        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Deus me proteja - Sessions",
-      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "Eu Venho de Longe",
+        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "Eu Venho de Longe",
+      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
         "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "A Estrada",
-        "url": "https://open.spotify.com/album/1a5g2hXIYXHohl8SzT1HNx"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        },
-        {
-          "name": "Tavinho Moura",
-          "url": "https://open.spotify.com/artist/73DUuItQ5uVSxo50mQi5VT"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Chegada",
-      "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -931,6 +911,42 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "A Estrada",
+        "url": "https://open.spotify.com/album/1a5g2hXIYXHohl8SzT1HNx"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        },
+        {
+          "name": "Tavinho Moura",
+          "url": "https://open.spotify.com/artist/73DUuItQ5uVSxo50mQi5VT"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Chegada",
+      "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "S\u00f3 Quero Te Amar",
+        "url": "https://open.spotify.com/album/5Nxy7aGj0SayXmRNlEJGGf"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "duration_ms": 155302,
+      "name": "S\u00f3 Quero Te Amar",
+      "url": "https://open.spotify.com/track/5AKthff2UBBcZn5P288SBr"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -947,6 +963,22 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        }
+      ],
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -971,38 +1003,6 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        }
-      ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "S\u00f3 Quero Te Amar",
-        "url": "https://open.spotify.com/album/5Nxy7aGj0SayXmRNlEJGGf"
-      },
-      "artists": [
-        {
-          "name": "Dani Black",
-          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
-        }
-      ],
-      "duration_ms": 155302,
-      "name": "S\u00f3 Quero Te Amar",
-      "url": "https://open.spotify.com/track/5AKthff2UBBcZn5P288SBr"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        },
-        {
-          "name": "Alberto Continentino",
-          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Pontes no Ar",
-      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "25 Anos de M\u00fasica",
         "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 220826,
       "name": "Me Ajuda",
       "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Alberto Continentino",
+          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Pontes no Ar",
+      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "\u00c1frica Em Mim",
+        "url": "https://open.spotify.com/album/6qUWp2kF7yyNpEUkI7yLW0"
+      },
+      "artists": [
+        {
+          "name": "Solange Cesarovna",
+          "url": "https://open.spotify.com/artist/00OixBxoLXqSDiA9uyYAqh"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "duration_ms": 202555,
+      "name": "\u00c1frica Em Mim",
+      "url": "https://open.spotify.com/track/7qkHJZGB3s2jAXgTBAmbiQ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Disparada Ao Vivo Em B\u00fazios",
         "url": "https://open.spotify.com/album/0OiBMiXCve71eWjFR4fn4G"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 174565,
       "name": "SEM DRAMAS",
       "url": "https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "\u00c1frica Em Mim",
-        "url": "https://open.spotify.com/album/6qUWp2kF7yyNpEUkI7yLW0"
-      },
-      "artists": [
-        {
-          "name": "Solange Cesarovna",
-          "url": "https://open.spotify.com/artist/00OixBxoLXqSDiA9uyYAqh"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        }
-      ],
-      "duration_ms": 202555,
-      "name": "\u00c1frica Em Mim",
-      "url": "https://open.spotify.com/track/7qkHJZGB3s2jAXgTBAmbiQ"
     }
   ],
   "unique_name": "Divina MPB",

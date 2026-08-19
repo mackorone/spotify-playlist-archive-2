@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 9 hr 46 min
+187 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,12 +127,13 @@
 | [Ni Me Enteré](https://open.spotify.com/track/4riV4eAt1AKaFZShAWAMPB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 2:47 | 2022-06-04 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-06-04 |  |
 | [no eres tu\(soy yo\)](https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:01 | 2022-12-15 | 2025-06-28 |
-| [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7Bav9vC5ctdkMythpKostV) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:53 | 2023-12-13 |  |
+| [No Es Normal](https://open.spotify.com/track/0COqeWp74Nsv8iv7ArRqXe) | [Juan Arnedo OK](https://open.spotify.com/artist/3X4OHPHoUJe1tAZGvpktPm) | [No Es Normal](https://open.spotify.com/album/13Zr7LvQTdYpYvRwnl7wIC) | 2:20 | 2026-08-18 |  |
+| [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7Bav9vC5ctdkMythpKostV) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:53 | 2023-12-13 | 2026-08-19 |
 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 | 2022-06-04 |  |
 | [No Me Acuerdo](https://open.spotify.com/track/6oVRRFFyxTg1ybUz3iDHOq) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [No Me Acuerdo \(Official Video\)](https://open.spotify.com/album/0ys1OYqQnRszIx4XEGHNpG) | 3:40 | 2023-12-14 | 2024-02-02 |
 | [No Más](https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [No Más](https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ) | 2:32 | 2022-06-04 |  |
 | [No Puedo Olvidarte](https://open.spotify.com/track/7zjypMHkfebXAOQVO2fsFy) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 2:45 | 2023-06-22 |  |
-| [No Te Vayas](https://open.spotify.com/track/1q1sjzJpUYEkTbA9Uz0qrU) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:20 | 2022-06-04 |  |
+| [No Te Vayas](https://open.spotify.com/track/1q1sjzJpUYEkTbA9Uz0qrU) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:20 | 2022-06-04 | 2026-08-19 |
 | [No Te Vayas](https://open.spotify.com/track/6IMginNB6XuHac0Ks164Zr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [No Te Vayas \(Official Video\)](https://open.spotify.com/album/2j6L7lWUNCizTXJxaiYFbf) | 3:22 | 2023-12-16 | 2024-01-30 |
 | [No Te Vayas \- Remix](https://open.spotify.com/track/2eFI2PHNaLq7GacI7elvLk) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [No Te Vayas \(Remix\)](https://open.spotify.com/album/4DU6GMEyzb1WLfXMxzS0bF) | 3:18 | 2022-06-04 |  |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-08-02 |  |

@@ -35,22 +35,6 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Why Aren't You Suckin' My Dick?",
-        "url": "https://open.spotify.com/album/2lvRtCSWqxoVnqO2aO7RQl"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 201934,
-      "name": "Why Aren't You Suckin' My Dick?",
-      "url": "https://open.spotify.com/track/0DCSchgvashJmjW9JeGoJM"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
         "name": "Nostalgia EP",
         "url": "https://open.spotify.com/album/3pTZy5S0FrRBIB9FqcXzwY"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 212166,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/04djrIRsjKnHhTgQhOk2Nr"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Why Aren't You Suckin' My Dick?",
+        "url": "https://open.spotify.com/album/2lvRtCSWqxoVnqO2aO7RQl"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 201934,
+      "name": "Why Aren't You Suckin' My Dick?",
+      "url": "https://open.spotify.com/track/0DCSchgvashJmjW9JeGoJM"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -83,6 +83,26 @@
       "duration_ms": 183911,
       "name": "BAD HiPPiE (with MiHALi)",
       "url": "https://open.spotify.com/track/2u5FvWhFwLjUtRbNFmFxUP"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -123,22 +143,30 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+        "name": "Goat Food",
+        "url": "https://open.spotify.com/album/3qmbmC46WOFVHHA8mJ40ZX"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "I In Team",
+          "url": "https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B"
         },
         {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+          "name": "Nick Sanville",
+          "url": "https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB"
+        },
+        {
+          "name": "Phonosapien",
+          "url": "https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         }
       ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
+      "duration_ms": 145813,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/3jj1qRsDIvU4zgMo3YKDkD"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -163,34 +191,6 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/0vAyLT72VKsbSo6xYxSXWR"
-      },
-      "artists": [
-        {
-          "name": "I In Team",
-          "url": "https://open.spotify.com/artist/6BzXklrlzEsHNlwKMG396B"
-        },
-        {
-          "name": "Nick Sanville",
-          "url": "https://open.spotify.com/artist/0jYduQw2qYqB04KHDCmtEB"
-        },
-        {
-          "name": "Phonosapien",
-          "url": "https://open.spotify.com/artist/5drd0EiQElXnTNtodgUkRa"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/1HejpjNLuM5reFjeTnYfj9"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
         "name": "LIQUID CRACK",
         "url": "https://open.spotify.com/album/12WhGBOmAadtfeGiP22oBN"
       },
@@ -211,34 +211,6 @@
       "duration_ms": 192052,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/4kwslS4Kknwe0BU19XIUnz"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Natural Blues (TECIE)",
-        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        }
-      ],
-      "duration_ms": 252857,
-      "name": "Natural Blues (TECIE)",
-      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -275,18 +247,30 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Saw You Stand",
-        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+        "name": "Natural Blues (TECIE)",
+        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
         }
       ],
-      "duration_ms": 289187,
-      "name": "Saw You Stand",
-      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
+      "duration_ms": 252857,
+      "name": "Natural Blues (TECIE)",
+      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -307,86 +291,18 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "The Time Of My Life",
-        "url": "https://open.spotify.com/album/3cioBqHvC9NN9SQVSQP5Uh"
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
       },
       "artists": [
         {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 237458,
-      "name": "The Time Of My Life",
-      "url": "https://open.spotify.com/track/5APLZ2fyg5ksgX5t3xh4G9"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "HUN",
-        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 275227,
-      "name": "Horsemen",
-      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "This Ring (25th Anniversary) (Remastered 2026)",
-        "url": "https://open.spotify.com/album/12I65mTRhgyB2DiDWcArnF"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 355334,
-      "name": "This Ring (25th Anniversary) (Remastered 2026)",
-      "url": "https://open.spotify.com/track/2wit2ysL7kcRH5rmpYINCb"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -411,6 +327,58 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/3cioBqHvC9NN9SQVSQP5Uh"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/5APLZ2fyg5ksgX5t3xh4G9"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "This Ring (25th Anniversary) (Remastered 2026)",
+        "url": "https://open.spotify.com/album/12I65mTRhgyB2DiDWcArnF"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 355334,
+      "name": "This Ring (25th Anniversary) (Remastered 2026)",
+      "url": "https://open.spotify.com/track/2wit2ysL7kcRH5rmpYINCb"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
         "name": "Nimrods Original Soundtrack",
         "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
       },
@@ -427,18 +395,34 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Can\u2019t Take My Eyes Off You",
-        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 150442,
-      "name": "Can\u2019t Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "HUN",
+        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 275227,
+      "name": "Horsemen",
+      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -463,106 +447,18 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Whatchu Bringing?",
-        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+        "name": "Can\u2019t Take My Eyes Off You",
+        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
       },
       "artists": [
         {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 163935,
-      "name": "Stop Being Late (feat. J. Ivy)",
-      "url": "https://open.spotify.com/track/4vi1vMGebwMS8KzumrEPDw"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "rappers suck.",
-        "url": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r"
-      },
-      "artists": [
-        {
-          "name": "Cletus Strap",
-          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "nonchalant - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/0eUoSdKd1bh6nvnyBTbLHp"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Hookah Baby",
-        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Hookah Baby",
-      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
-      },
-      "artists": [
-        {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 279779,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Still Crying",
-        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249654,
-      "name": "Still Crying",
-      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+      "duration_ms": 150442,
+      "name": "Can\u2019t Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -611,6 +507,110 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
+        "name": "Hookah Baby",
+        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Hookah Baby",
+      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "rappers suck.",
+        "url": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r"
+      },
+      "artists": [
+        {
+          "name": "Cletus Strap",
+          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 221539,
+      "name": "nonchalant - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/0eUoSdKd1bh6nvnyBTbLHp"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Still Crying",
+        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249654,
+      "name": "Still Crying",
+      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Whatchu Bringing?",
+        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 163935,
+      "name": "Stop Being Late (feat. J. Ivy)",
+      "url": "https://open.spotify.com/track/4vi1vMGebwMS8KzumrEPDw"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "On Melancholy Hill",
+        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 186144,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
         "name": "Whatchu Bringing?",
         "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 279779,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
         "name": "Philip Glass: Evening Song No.3",
         "url": "https://open.spotify.com/album/3UqOjOrakeACSn8Zk3joZs"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 271371,
       "name": "Evening Song No.3 for Solo Violin",
       "url": "https://open.spotify.com/track/58JaKRhM1DnaK1vLGT3Oy9"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "On Melancholy Hill",
-        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 186144,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
     },
     {
       "added_at": "2026-08-14 04:00:00",

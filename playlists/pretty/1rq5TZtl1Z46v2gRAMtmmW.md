@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,983 likes - 81 songs - 4 hr 33 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,987 likes - 81 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 5 | [Live By You](https://open.spotify.com/track/5mtlKEDbzO1a4Nz8q7odng) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Live By You](https://open.spotify.com/album/1EgStPVLsZqTf1yi1sTntI) | 1:50 |
 | 6 | [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 |
 | 7 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
-| 8 | [Bad Bara](https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Bad Bara](https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg) | 4:05 |
-| 9 | [IJUSTIDONTKNOW](https://open.spotify.com/track/44A3GN7Hhqxk7Wry9r5XZQ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [IJUSTIDONTKNOW](https://open.spotify.com/album/26jm3a6bcsXFrnJVt0ovjU) | 3:56 |
+| 8 | [NOBLEHILL](https://open.spotify.com/track/53GWk0ewbWWiAQGLTLrgog) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [NOBLEHILL](https://open.spotify.com/album/5uL4Q15vIs2vCT9ns1KbYR) | 3:50 |
+| 9 | [Bad Bara](https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Bad Bara](https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg) | 4:05 |
 | 10 | [Is It Over Now?](https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Is It Over Now?](https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv) | 3:39 |
 | 11 | [Grilled Lobster](https://open.spotify.com/track/6JWc3cBOFjN2RZk9Rb8qFl) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Grilled Lobster](https://open.spotify.com/album/1dyX9GA2E1molGiYdQs8uW) | 1:52 |
 | 12 | [Drift](https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fire on the Water / Drift](https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t) | 4:30 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 20 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |
 | 21 | [Ayewah!](https://open.spotify.com/track/699jhhlEw8rI4t35r7kTTt) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Tony Quattro](https://open.spotify.com/artist/2UsUlCr8yNT7vpjw076zyt) | [Ayewah!](https://open.spotify.com/album/7sWITAYpmzV4zQntcDAwnG) | 5:04 |
 | 22 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |
-| 23 | [GO](https://open.spotify.com/track/3gcB7Y9TZh1kXcsih6PV8G) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [GO](https://open.spotify.com/album/66AezudlxGDS69F7J7Vjvx) | 3:06 |
+| 23 | [IJUSTIDONTKNOW](https://open.spotify.com/track/44A3GN7Hhqxk7Wry9r5XZQ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [IJUSTIDONTKNOW](https://open.spotify.com/album/26jm3a6bcsXFrnJVt0ovjU) | 3:56 |
 | 24 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 |
 | 25 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
 | 26 | [CAPTAIN KERNEL](https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [BIG MAMA](https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS) | 3:04 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 80 | [Can’t Take My Eyes Off You](https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Can’t Take My Eyes Off You](https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2) | 2:30 |
 | 81 | [Azadi](https://open.spotify.com/track/1ilS3EJjhVRNOJ0vPAlrJ0) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Canal View](https://open.spotify.com/album/15DN2DZn9TqWYHfP18qIT4) | 3:04 |
 
-Snapshot ID: `AAAR4yk2WDuKHLXqDKc0e2gOm6x2YIHl`
+Snapshot ID: `AAAR51ehDEzV1tB/v1xx+ATD7qW1H4RI`

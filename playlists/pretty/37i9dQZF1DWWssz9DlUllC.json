@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Zhus Djo",
-  "num_followers": 95500,
+  "num_followers": 95562,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -351,30 +351,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Guide",
-        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 127565,
-      "name": "Guide",
-      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Guide",
+        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 127565,
+      "name": "Guide",
+      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "Merlinpiano",
+        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
+      },
+      "artists": [
+        {
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        }
+      ],
+      "duration_ms": 148910,
+      "name": "Merlinpiano",
+      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "Raba",
         "url": "https://open.spotify.com/album/1TJcvsmHnnQ15DfWfNKTPn"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Merlinpiano",
-        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
-      },
-      "artists": [
-        {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
-        }
-      ],
-      "duration_ms": 148910,
-      "name": "Merlinpiano",
-      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "DEJAVU II",
         "url": "https://open.spotify.com/album/4LYOiRxGGiXSANKzUbPTzx"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 176008,
       "name": "DEJAVU II",
       "url": "https://open.spotify.com/track/4dPWQXfgq2jFNsPrUNX1l6"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1175,22 +1191,6 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "Shakabulizzy",
-        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Shakabulizzy",
-      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "eko",
+        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "eko",
+      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "RnBling",
         "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 155526,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "eko",
-        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "eko",
-      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "OFE NSALA",
-        "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 130084,
-      "name": "OFE NSALA",
-      "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "Kupe",
         "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
       },
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "OFE NSALA",
+        "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 130084,
+      "name": "OFE NSALA",
+      "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "WYD / MOFO",
         "url": "https://open.spotify.com/album/5q3lVVlQ8U7UlPMbrXZxAd"
       },
@@ -1579,22 +1579,46 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "PA\u00a5 M\u20ac",
-        "url": "https://open.spotify.com/album/13umdDCSUK4Lls4kNdVosA"
+        "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
+        "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
       "artists": [
         {
-          "name": "Kobilou",
-          "url": "https://open.spotify.com/artist/2DL38TZNK8x8hxvnxNkQB5"
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
         },
         {
-          "name": "Aibrid",
-          "url": "https://open.spotify.com/artist/6eGNSDjuuUepYdy32k1zXS"
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
         }
       ],
-      "duration_ms": 136821,
-      "name": "PA\u00a5 M\u20ac",
-      "url": "https://open.spotify.com/track/45DKrbHmJ3gNoTVKQroKDw"
+      "duration_ms": 358550,
+      "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
+      "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
     }
   ],
   "unique_name": "afro-piano",

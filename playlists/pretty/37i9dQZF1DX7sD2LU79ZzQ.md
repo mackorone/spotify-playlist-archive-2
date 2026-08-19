@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Petra Sihombing
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,108 likes - 131 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,122 likes - 131 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 42 | [Sudah Tahu Tuhan Kita Berbeda](https://open.spotify.com/track/17JYicZJSXhHJ3FCY9pv6L) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Momo](https://open.spotify.com/artist/7xqIvUdaaSypbtL6pFbW18) | [Sudah Tahu Tuhan Kita Berbeda](https://open.spotify.com/album/7EAshI20RwWEFLHhuxhKbb) | 3:52 |
 | 43 | [Rabun Jauh](https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Rabun Jauh](https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM) | 2:55 |
 | 44 | [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 |
-| 45 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 |
+| 45 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:40 |
 | 46 | [Si Baik](https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Si Baik](https://open.spotify.com/album/4XX0Rgksb8B562ynOz63oV) | 4:16 |
 | 47 | [honk!](https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [honk!](https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc) | 2:15 |
 | 48 | [Bendera](https://open.spotify.com/track/2sKajxXGp1Gzdb4InZ8TME) | [Glitter](https://open.spotify.com/artist/71MEhfwtdSht8OZJGlDx1c) | [Bendera](https://open.spotify.com/album/5l5Z5wqc5kViSPQJm62I4P) | 3:23 |

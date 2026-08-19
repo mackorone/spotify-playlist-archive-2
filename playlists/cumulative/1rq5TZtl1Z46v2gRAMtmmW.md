@@ -4,7 +4,7 @@
 
 > 
 
-564 songs - 1 day 12 hr 19 min
+565 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
 | [Gnawa](https://open.spotify.com/track/7BXa6HC5lF5HsZsWvOfTll) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Prophet and The Madman](https://open.spotify.com/album/15qVqwTKsJtJ0dsES8TXof) | 7:15 | 2025-08-22 | 2025-09-18 |
-| [GO](https://open.spotify.com/track/3gcB7Y9TZh1kXcsih6PV8G) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [GO](https://open.spotify.com/album/66AezudlxGDS69F7J7Vjvx) | 3:06 | 2026-06-23 |  |
+| [GO](https://open.spotify.com/track/3gcB7Y9TZh1kXcsih6PV8G) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [GO](https://open.spotify.com/album/66AezudlxGDS69F7J7Vjvx) | 3:06 | 2026-06-23 | 2026-08-19 |
 | [go! \- George Daniel Remix](https://open.spotify.com/track/0wtbc9t9qvEX5ELtUHJNJX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [go! \(George Daniel Remixes\)](https://open.spotify.com/album/7ItBR9lQlb3LNXeiSy25IG) | 3:41 | 2024-09-19 | 2025-01-25 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-24 | 2023-10-17 |
 | [Gone](https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Gone](https://open.spotify.com/album/2fSm1YvQwa77zAQ7PRBUnI) | 2:14 | 2024-06-11 | 2024-08-28 |
@@ -370,6 +370,7 @@
 | [NNeed U](https://open.spotify.com/track/6V7etlptf86aDDwjOKFEPG) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2) | [NNeed U](https://open.spotify.com/album/1JOFUxYXfdlvz3GfL7LFUD) | 4:44 | 2025-07-14 | 2025-11-07 |
 | [No More](https://open.spotify.com/track/56US40GllguPaCuhGcgeUj) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [No More](https://open.spotify.com/album/0TknEB1buXXJWCDutEIHtB) | 3:53 | 2026-07-29 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-25 | 2024-05-18 |
+| [NOBLEHILL](https://open.spotify.com/track/53GWk0ewbWWiAQGLTLrgog) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [NOBLEHILL](https://open.spotify.com/album/5uL4Q15vIs2vCT9ns1KbYR) | 3:50 | 2026-08-18 |  |
 | [Not \- BBC Radio 1 Session](https://open.spotify.com/track/70jr15kpcFlZAyJ8hotjIg) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Not \(BBC Radio 1 Session\)](https://open.spotify.com/album/09LbxjE3uVSxeULrD0um98) | 4:41 | 2022-11-02 | 2023-04-01 |
 | [Not You Anymore](https://open.spotify.com/track/0uRlksJ4Cv20KK0nYuzLxR) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 3:23 | 2022-10-31 | 2023-01-25 |
 | [nothing](https://open.spotify.com/track/1kUDl1JDC3GSIsoWQNzp0L) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/0v16yMWDVFuWw2atNvUbEJ) | 3:25 | 2024-07-15 | 2024-09-28 |

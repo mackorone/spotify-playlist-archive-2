@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAB5Cbsg87VqWKWQbhDN3UaC",
+  "snapshot_id": "aoJPAAAAAACVuXTNkX2j8Wh7xG+4RGlU",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If You Never Broke My Heart",
+        "url": "https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "If You Never Broke My Heart",
+      "url": "https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/4ZysfboxjcufMoSnnw4aoh"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 152748,
       "name": "Day One (ft. Madeline Merlo)",
       "url": "https://open.spotify.com/track/17qCaa3TLb3vOXc68p2w9B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Never Broke My Heart",
-        "url": "https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "If You Never Broke My Heart",
-      "url": "https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 170626,
       "name": "One House Down (from the girl next door)",
       "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,

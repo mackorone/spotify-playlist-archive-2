@@ -5,6 +5,46 @@
   "tracks": [
     {
       "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "'Zat You, Santa Claus? - Single Version",
+      "url": "https://open.spotify.com/track/5zVXvYPvU4anhLlAQjvf5Y"
+    },
+    {
+      "album": {
+        "name": "My Heart Sings (Remastered)",
+        "url": "https://open.spotify.com/album/4ubgX5aJVqw7PyTcBYYulL"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182560,
+      "name": "(All Of A Sudden) My Heart Sings - Remastered",
+      "url": "https://open.spotify.com/track/0zKZqHPNUKjjhsUJHT06RZ"
+    },
+    {
+      "album": {
         "name": "Mambo No. 5 \u2013 Latin Dance Party",
         "url": "https://open.spotify.com/album/0ynOr9KaTn9LXKkAC7M5OE"
       },
@@ -108,6 +148,24 @@
       "duration_ms": 203106,
       "name": "7 Lively Arts: Time we say Goodbye (Arr. M. Huff)",
       "url": "https://open.spotify.com/track/6kDkLbwa03jLn75brZd35V"
+    },
+    {
+      "album": {
+        "name": "Hollywood Legend",
+        "url": "https://open.spotify.com/album/0oqiAlrLH16G2ZC8iEXIjB"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "A Fine Romance",
+      "url": "https://open.spotify.com/track/3PhW5WWsAQ2BzCOkmpUd6u"
     },
     {
       "album": {
@@ -504,7 +562,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/6P5kixpOjYqh0uvD0MybmO"
@@ -534,7 +592,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 198852,
       "name": "Aladdin (From 'Aladdin'1958)",
       "url": "https://open.spotify.com/track/5gxHO6gjwcYcsTDXryntdK"
@@ -556,6 +614,24 @@
       "duration_ms": 181440,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/79fXdfpOPGaXO1gfdq2onl"
     },
     {
       "album": {
@@ -608,10 +684,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 278440,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/4X25mFLehFnxa1TwtLKcE2"
+    },
+    {
+      "album": {
+        "name": "The Signature Collection",
+        "url": "https://open.spotify.com/album/0fd3nDLYQpJPeMHPVoOmSx"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "All of You - Remastered",
+      "url": "https://open.spotify.com/track/0meetAGuWszl4BSSz1z22L"
     },
     {
       "album": {
@@ -810,6 +904,24 @@
       "duration_ms": 149533,
       "name": "Allez-Vous-En",
       "url": "https://open.spotify.com/track/7sknEj9q99PrdxoonlAniZ"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/5mKKz70X5wTSypnWxSQhTN"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "Always True To You In My Fashion",
+      "url": "https://open.spotify.com/track/4XA9vde7nZCBnICzxgsu9A"
     },
     {
       "album": {
@@ -1500,7 +1612,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 152440,
       "name": "Big Stuff",
       "url": "https://open.spotify.com/track/6DBTJQB1VxR82nIEwNrPUp"
@@ -1542,6 +1654,24 @@
       "duration_ms": 452786,
       "name": "Blow, Gabriel, Blow",
       "url": "https://open.spotify.com/track/4DtUDXWjncnJEGkjWNzXUg"
+    },
+    {
+      "album": {
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166101,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/5BxzqNLhwISk6IN5RZFkt8"
     },
     {
       "album": {
@@ -1900,7 +2030,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 326880,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/5ajVAuT7vQmDHhtqPYtpX5"
@@ -2230,6 +2360,56 @@
       "duration_ms": 293520,
       "name": "Cole Porter: Josephine (From \"Silk Stockings\")",
       "url": "https://open.spotify.com/track/06XpABy0CDFArGhre97hvk"
+    },
+    {
+      "album": {
+        "name": "Cole Porter in Hollywood",
+        "url": "https://open.spotify.com/album/3urUcnykG9cWl5DTntOjS0"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "The John Wilson Orchestra",
+          "url": "https://open.spotify.com/artist/4FSqA5w4tlXuaxoHHQVO0J"
+        },
+        {
+          "name": "John Wilson",
+          "url": "https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh"
+        },
+        {
+          "name": "Emma Louise Kershaw",
+          "url": "https://open.spotify.com/artist/53KJNZiN2USnpG6rgD4F8J"
+        },
+        {
+          "name": "Katie Birtill",
+          "url": "https://open.spotify.com/artist/58LUoYPxvk2HehU3MzJXUu"
+        },
+        {
+          "name": "Lloyd Martin",
+          "url": "https://open.spotify.com/artist/4jpHm2Tp2B405hA1kbTOW3"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        },
+        {
+          "name": "Matthew Ford",
+          "url": "https://open.spotify.com/artist/7dJKuO0pOVK3SjlNhWk4U2"
+        },
+        {
+          "name": "Yona Dunsford",
+          "url": "https://open.spotify.com/artist/5QeWp3p2eX2xqGnxAMzNEq"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309520,
+      "name": "Cole Porter: Les Girls (From \"Les Girls\")",
+      "url": "https://open.spotify.com/track/3vZk6NjxnNERuA84gtP4mF"
     },
     {
       "album": {
@@ -2797,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "God Bless The Child",
+        "url": "https://open.spotify.com/album/6lHEbj0b4iTgz7DRWXo2av"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/06hpCEExP5HKM7hgjvhv7w"
+    },
+    {
+      "album": {
         "name": "Bing Crosby Gold: No. 1 Hits Plus",
         "url": "https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ"
       },
@@ -2808,7 +3006,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 186177,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/6qg3c1oettgiSNdlU2ghyq"
@@ -2838,6 +3036,24 @@
       "duration_ms": 187000,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0"
+    },
+    {
+      "album": {
+        "name": "Classic Summer Jazz Masters",
+        "url": "https://open.spotify.com/album/4kPxWoa8M6jTS3J9PwhyVj"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/06S831KZ3iw3t1fIEGxaY5"
     },
     {
       "album": {
@@ -2998,7 +3214,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 139493,
       "name": "Doop-Doo-De-Doop (A Doodlin' Song)",
       "url": "https://open.spotify.com/track/5r9fHK6iHnW37KzHSEFLdw"
@@ -4056,10 +4272,40 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 165266,
       "name": "Fresh As A Daisy",
       "url": "https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv"
+    },
+    {
+      "album": {
+        "name": "Glenn Miller 1940",
+        "url": "https://open.spotify.com/album/07JZD3WNvWJn7eCGQXY1bD"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        {
+          "name": "Glenn Miller Orchestra",
+          "url": "https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z"
+        },
+        {
+          "name": "Marion Hutton",
+          "url": "https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My"
+        },
+        {
+          "name": "Jack Lathrop",
+          "url": "https://open.spotify.com/artist/4jDwrlXgTgCJudZESHkhkw"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170518,
+      "name": "Fresh As a Daisy",
+      "url": "https://open.spotify.com/track/2Q07oa6f3cyEwMoGbFuNxD"
     },
     {
       "album": {
@@ -4262,7 +4508,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 252480,
       "name": "Get Out of Town",
       "url": "https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB"
@@ -4644,7 +4890,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 236893,
       "name": "High Society",
       "url": "https://open.spotify.com/track/6IZrkrD882aP8of0NNYH89"
@@ -4669,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "High Society - OST",
+        "url": "https://open.spotify.com/album/6bV6aP0K7VIGyOr7e39wSE"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "High Society Calypso",
+      "url": "https://open.spotify.com/track/3imIMmxgd6aIjsfknAdvLY"
+    },
+    {
+      "album": {
         "name": "In Concert (Newport 1960)",
         "url": "https://open.spotify.com/album/5yfs4HBmueqnv9t82mFPEm"
       },
@@ -4680,7 +4944,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 171764,
       "name": "High Society Calypso",
       "url": "https://open.spotify.com/track/5DiCVFFmQ0uxPkPlBTVVO2"
@@ -4698,7 +4962,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 171693,
       "name": "High Society Calypso - Live 1960",
       "url": "https://open.spotify.com/track/4HkA3LQ3Y1ibz09G6CFBuM"
@@ -5571,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/3JENvvFUiPrpSoER3B9CmV"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        },
+        {
+          "name": "The Ikettes",
+          "url": "https://open.spotify.com/artist/4vNCmeT4klWtM1xgF0oohu"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175253,
+      "name": "I Want To Take You Higher",
+      "url": "https://open.spotify.com/track/2W93VKSfWw1evp7FSbHNd1"
+    },
+    {
+      "album": {
         "name": "I Will Survive - Remixes 2001",
         "url": "https://open.spotify.com/album/3Gn0JWcvTKAytBcqWiWmic"
       },
@@ -5600,7 +5886,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 146657,
       "name": "I'm a Gigolo",
       "url": "https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO"
@@ -5622,6 +5908,24 @@
       "duration_ms": 147680,
       "name": "I'm a Gigolo",
       "url": "https://open.spotify.com/track/6l3C30m3DDDddAM2Ty9XUP"
+    },
+    {
+      "album": {
+        "name": "Porter, Cole: Let's Misbehave! (1927-1940)",
+        "url": "https://open.spotify.com/album/00V8X8Gj43p6pqiROdZ0DV"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148466,
+      "name": "I'm a Gigolo",
+      "url": "https://open.spotify.com/track/7g8fowyKTwgk6UQEqQSYs5"
     },
     {
       "album": {
@@ -5900,7 +6204,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 198866,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY"
@@ -6030,7 +6334,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 174906,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
@@ -6534,7 +6838,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 117093,
       "name": "It's All Right With Me - 2002 - Remastered",
       "url": "https://open.spotify.com/track/3JWLw0R3OvWYi83UL1CHKZ"
@@ -6650,7 +6954,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 180585,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/5Tjp2AGmLCQdTyvuSup6dT"
@@ -7030,7 +7334,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 121346,
       "name": "Les Girls",
       "url": "https://open.spotify.com/track/6djAWzMP3qJ2UC2cIuRrnG"
@@ -7074,10 +7378,32 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
+    },
+    {
+      "album": {
+        "name": "Essential Ella",
+        "url": "https://open.spotify.com/album/0hgZSZX8Ri8Sd9JFaPDjSd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/3I9urFJh4tp2KKXpCa2cXm"
     },
     {
       "album": {
@@ -7154,7 +7480,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 178183,
       "name": "Let's Misbehave",
       "url": "https://open.spotify.com/track/3ig2xMzf9CE2dqUxVrMIgb"
@@ -7184,6 +7510,24 @@
       "duration_ms": 174400,
       "name": "Let's Misbehave",
       "url": "https://open.spotify.com/track/1lrnowab5yQsCioudkro0s"
+    },
+    {
+      "album": {
+        "name": "1920s Hot Dance Classics",
+        "url": "https://open.spotify.com/album/0LPH979zsw4jwTwcRO0YVF"
+      },
+      "artists": [
+        {
+          "name": "Irving Aaronson and His Commanders",
+          "url": "https://open.spotify.com/artist/0wu8tyvMCOGjBM72P3zd9w"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Let's Misbehave",
+      "url": "https://open.spotify.com/track/2KOpP1WCnfaoZSUfwuA7XI"
     },
     {
       "album": {
@@ -7558,6 +7902,24 @@
       "duration_ms": 204800,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/2je2qB3Gvp6WRkWJx8klsO"
+    },
+    {
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/0DuWyzeLH09PQcnOMJiRgE"
     },
     {
       "album": {
@@ -8696,7 +9058,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 121499,
       "name": "Nymph Errant",
       "url": "https://open.spotify.com/track/4yBOyca5VorGVjzvjgh37N"
@@ -8806,6 +9168,24 @@
       "duration_ms": 183829,
       "name": "Old Fashioned Garden",
       "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
+    },
+    {
+      "album": {
+        "name": "Playin' and Singin'",
+        "url": "https://open.spotify.com/album/24bw7vxy5R6p8lffKu3ql4"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "On the Sunny Side of the Street",
+      "url": "https://open.spotify.com/track/62xeYpjMpKyk7zef7AYOf9"
     },
     {
       "album": {
@@ -8946,7 +9326,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 179773,
       "name": "Only Another Boy And Girl",
       "url": "https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG"
@@ -8968,7 +9348,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 179066,
       "name": "Only Another Boy And Girl",
       "url": "https://open.spotify.com/track/1hYfftcJJPoGJTorbul01x"
@@ -9205,6 +9585,28 @@
     },
     {
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/6lSOhe2lVDiEHE4AUNbMwl"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589740,
+      "name": "Overtune",
+      "url": "https://open.spotify.com/track/325mlX4aTKu0zdvMoTsJ0J"
+    },
+    {
+      "album": {
         "name": "Anything Goes (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
       },
@@ -9216,7 +9618,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 157693,
       "name": "Overture",
       "url": "https://open.spotify.com/track/2NTXTzvznh6bdlEkikXOEH"
@@ -9252,7 +9654,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 179360,
       "name": "Overture (From \"High Society\")",
       "url": "https://open.spotify.com/track/2orFSIsIFOJwv2f0BghtIk"
@@ -9833,6 +10235,32 @@
     },
     {
       "album": {
+        "name": "Mexican Hayride",
+        "url": "https://open.spotify.com/album/7LnGM9UAwO7x7MykkgRmvJ"
+      },
+      "artists": [
+        {
+          "name": "Corinna Mura",
+          "url": "https://open.spotify.com/artist/5puO9FYyM4Fkt1Si4L8hYx"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        },
+        {
+          "name": "Harry Sosnik",
+          "url": "https://open.spotify.com/artist/1o3RmDxsS0PE0J0AyhtgSC"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Porter: Sing To Me Guitar",
+      "url": "https://open.spotify.com/track/5gzF9oiSQCwRWcmdWYEGwW"
+    },
+    {
+      "album": {
         "name": "Cole Porter Night and Day: Thomas Hampson",
         "url": "https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR"
       },
@@ -9882,7 +10310,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 117293,
       "name": "Porter: What A Crazy Way To Spend Sunday",
       "url": "https://open.spotify.com/track/5gJcwjQohVdAIOL0vI0DuQ"
@@ -9918,7 +10346,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 131960,
       "name": "Pretty Snowflakes",
       "url": "https://open.spotify.com/track/13pS7jHCUwogkCXyqCXDGt"
@@ -10277,6 +10705,32 @@
     },
     {
       "album": {
+        "name": "Rossini: Overtures",
+        "url": "https://open.spotify.com/album/5znDYkcmtt6rXgpCUrXj3x"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445480,
+      "name": "Rossini: The Barber of Seville: Overture",
+      "url": "https://open.spotify.com/track/457Bpigp9EnWaPjmRcMz0U"
+    },
+    {
+      "album": {
         "name": "Salt Air",
         "url": "https://open.spotify.com/album/7fllgbHRILXPjZ5956KgHD"
       },
@@ -10372,7 +10826,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 158866,
       "name": "Satin and Silk",
       "url": "https://open.spotify.com/track/4PMA2eHMXqZZYZpKEbO9Qh"
@@ -10394,6 +10848,24 @@
       "duration_ms": 158876,
       "name": "Satin and Silk",
       "url": "https://open.spotify.com/track/5DCuKZGc8GM1NkCTh88ray"
+    },
+    {
+      "album": {
+        "name": "Highlights From Silk Stockings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3k04qCQcWXTl4To9TPCdhF"
+      },
+      "artists": [
+        {
+          "name": "MGM Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151914,
+      "name": "Satin And Silk",
+      "url": "https://open.spotify.com/track/3Eq15Exoj01DwsOxAta3H3"
     },
     {
       "album": {
@@ -10780,7 +11252,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 183716,
       "name": "Sing to Me Guitar",
       "url": "https://open.spotify.com/track/1QFGvArZDNTnByUa0pBMyW"
@@ -10798,10 +11270,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 165600,
       "name": "Slam in Around",
       "url": "https://open.spotify.com/track/3F3zE2N7KfUORJUZZ33Y35"
+    },
+    {
+      "album": {
+        "name": "Tenor Giant",
+        "url": "https://open.spotify.com/album/08jlCus3kDpWVbWI1QWTUf"
+      },
+      "artists": [
+        {
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160786,
+      "name": "Slammin' Around",
+      "url": "https://open.spotify.com/track/4XlNF2AEx2CNeCiUrrQWWk"
     },
     {
       "album": {
@@ -11116,7 +11606,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 357320,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
@@ -11607,6 +12097,24 @@
     },
     {
       "album": {
+        "name": "Porter, Cole: Let's Misbehave! (1927-1940)",
+        "url": "https://open.spotify.com/album/00V8X8Gj43p6pqiROdZ0DV"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "The Cocotte",
+      "url": "https://open.spotify.com/track/3NuJFQiACR0BVKziHdiBdk"
+    },
+    {
+      "album": {
         "name": "Cole Porter",
         "url": "https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q"
       },
@@ -11618,7 +12126,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 166719,
       "name": "The Cocotte",
       "url": "https://open.spotify.com/track/0RnpokAzF37svUwKqLmClo"
@@ -11968,6 +12476,42 @@
       "duration_ms": 278366,
       "name": "The New Yorkers: Love for Sale",
       "url": "https://open.spotify.com/track/6v5EVM8Ux6TyarnpC8PpkP"
+    },
+    {
+      "album": {
+        "name": "Blossom Dearie, Soubrette: Sings Broadway Hits Songs",
+        "url": "https://open.spotify.com/album/4wZKDdG8LhLQTHSlaQcUHj"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131920,
+      "name": "The Physician",
+      "url": "https://open.spotify.com/track/1d8lYkeVpJCNO2CMaQBHJW"
+    },
+    {
+      "album": {
+        "name": "Cole Porter In London, Vol. 1",
+        "url": "https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181507,
+      "name": "The Physician",
+      "url": "https://open.spotify.com/track/4nxDBUvWBQUZNDEwqNdNML"
     },
     {
       "album": {
@@ -13516,7 +14060,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 120372,
       "name": "What a Crazy Way to Spend Sunday",
       "url": "https://open.spotify.com/track/6KZzFb3mbXrNtsZxgxuUzd"
@@ -13570,7 +14114,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 152206,
       "name": "What Is The Soul Of Man?",
       "url": "https://open.spotify.com/track/6kWBuj4V1DFRNa2suOuSfg"
@@ -14329,6 +14873,24 @@
     },
     {
       "album": {
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/1IOa2vyO8uq9njbNaqtVae"
+    },
+    {
+      "album": {
         "name": "Easy To Love: The Songs Of Cole Porter",
         "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
@@ -14720,7 +15282,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
@@ -14742,6 +15304,24 @@
       "duration_ms": 175613,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/4nx7JRB6PajaFxZrrnBm2j"
+    },
+    {
+      "album": {
+        "name": "Autumn in New York",
+        "url": "https://open.spotify.com/album/4eJ3FvJzSKUNJQ4lVecA7J"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175840,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/1UKLMpJqhab1yqnbDMPDUD"
     },
     {
       "album": {

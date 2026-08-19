@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXITeDlbE1v8hfoTdmDJl3AnQhNcYw",
+  "snapshot_id": "AAAXKI/6XBej823XXgcoxF386vhzVKyZ",
   "tracks": [
     {
       "added_at": "2026-08-17 13:54:11",
@@ -71,6 +71,22 @@
       "duration_ms": 217467,
       "name": "Quando Sorridi",
       "url": "https://open.spotify.com/track/0IfTiyMes24Nb7f2W3YTU1"
+    },
+    {
+      "added_at": "2026-08-18 07:59:06",
+      "album": {
+        "name": "Echoes of us",
+        "url": "https://open.spotify.com/album/0tKAmmCf9wHCsouHo82ofI"
+      },
+      "artists": [
+        {
+          "name": "Davit Case",
+          "url": "https://open.spotify.com/artist/6gfxKpKhcoU4CGdJ9Nc23H"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Echoes of us",
+      "url": "https://open.spotify.com/track/6Xc29li7V1e61RJu1P8C6G"
     },
     {
       "added_at": "2026-08-11 06:45:41",
@@ -1731,6 +1747,102 @@
       "duration_ms": 192048,
       "name": "Alibi - CASA J Remix",
       "url": "https://open.spotify.com/track/1ZvqM46DaPJ9ERa4PJIgOB"
+    },
+    {
+      "added_at": "2026-08-18 07:56:35",
+      "album": {
+        "name": "Lo que vivimos all\u00ed",
+        "url": "https://open.spotify.com/album/0eNIznu3gbDHwUZHFfvXaw"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal",
+          "url": "https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r"
+        }
+      ],
+      "duration_ms": 255895,
+      "name": "Lo que vivimos all\u00ed",
+      "url": "https://open.spotify.com/track/7HsRI48PwiHlUzebkWHALn"
+    },
+    {
+      "added_at": "2026-08-18 07:56:44",
+      "album": {
+        "name": "Calme To\u00e9!",
+        "url": "https://open.spotify.com/album/3FAtg5HR3X2Bh1leeU4Oe9"
+      },
+      "artists": [
+        {
+          "name": "Chacal",
+          "url": "https://open.spotify.com/artist/5HukSi7X2MjzaLJrnCngDH"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "Calme To\u00e9!",
+      "url": "https://open.spotify.com/track/3wGwMAGcxM978bly4CiMVs"
+    },
+    {
+      "added_at": "2026-08-18 07:56:54",
+      "album": {
+        "name": "Jamie",
+        "url": "https://open.spotify.com/album/5gmc8C7lR0X5x9yORfSYbv"
+      },
+      "artists": [
+        {
+          "name": "Lucas Emmanuel",
+          "url": "https://open.spotify.com/artist/10Mtm0jM6uJHKLISzaVLqK"
+        }
+      ],
+      "duration_ms": 282840,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/2EMUuE86w3SIcmOLNAUm21"
+    },
+    {
+      "added_at": "2026-08-18 07:56:58",
+      "album": {
+        "name": "boy of glass",
+        "url": "https://open.spotify.com/album/1PIRhbXpdT73dOHqmyEtX4"
+      },
+      "artists": [
+        {
+          "name": "violet eve",
+          "url": "https://open.spotify.com/artist/5JziLUitDN8xU6TufJEmhz"
+        }
+      ],
+      "duration_ms": 143865,
+      "name": "boy of glass",
+      "url": "https://open.spotify.com/track/1pgaiYXN5rx2U8CX5jYUoj"
+    },
+    {
+      "added_at": "2026-08-18 07:57:05",
+      "album": {
+        "name": "Somalia",
+        "url": "https://open.spotify.com/album/0ddnaGtD14kYiTIcuvUpRj"
+      },
+      "artists": [
+        {
+          "name": "Sillen",
+          "url": "https://open.spotify.com/artist/5oa5r5NlMFHCD4FeJAdEJv"
+        }
+      ],
+      "duration_ms": 285751,
+      "name": "Somalia",
+      "url": "https://open.spotify.com/track/38dSxpbekA3pQ3bHYnfC2E"
+    },
+    {
+      "added_at": "2026-08-18 07:57:09",
+      "album": {
+        "name": "The Thrift Store Spaceship",
+        "url": "https://open.spotify.com/album/1eCF2hRdwdRx5uLyzNcO0g"
+      },
+      "artists": [
+        {
+          "name": "Todd & Karen",
+          "url": "https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Final Orbit",
+      "url": "https://open.spotify.com/track/2ITl2hSvHcXlBhnOvNhSaj"
     }
   ],
   "unique_name": "New Indie Music",

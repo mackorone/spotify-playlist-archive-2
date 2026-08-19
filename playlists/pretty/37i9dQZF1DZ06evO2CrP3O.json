@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 142989,
+  "num_followers": 142996,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAC7KqIaXz6uwLyDr94W0Cg7",
+  "snapshot_id": "aoJPAAAAAAAH7NBKJ2E7r9dM/d5Scxll",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
+      "duration_ms": 380480,
+      "name": "Ll\u00e1mame (Call Me)",
+      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 380480,
-      "name": "Ll\u00e1mame (Call Me)",
-      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
     },
     {
       "added_at": null,

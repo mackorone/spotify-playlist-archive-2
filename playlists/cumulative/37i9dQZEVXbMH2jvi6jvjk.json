@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 273706,
       "name": "Bjaleni(Skinny Malepolana) Steel Bosh & Fuego)",
       "url": "https://open.spotify.com/track/5U9Z7CNYe8tu9QKnEAJJeW"
@@ -9928,7 +9928,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12546,7 +12546,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -24314,7 +24314,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 296100,
       "name": "Imfene Yakho",
       "url": "https://open.spotify.com/track/6OZCjoMHM7V0xL0IJ87Fhl"
@@ -26033,6 +26033,28 @@
     },
     {
       "album": {
+        "name": "Ubumina",
+        "url": "https://open.spotify.com/album/21ed0N1On2ubTNR3cQTD5F"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        },
+        {
+          "name": "OmaThwala",
+          "url": "https://open.spotify.com/artist/2ckRDcWI4kPdGiPZxEPJrx"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297882,
+      "name": "Isesheli",
+      "url": "https://open.spotify.com/track/2pekVGWhF5WqfqwLOOdqQ7"
+    },
+    {
+      "album": {
         "name": "iMALI YE NTWANA",
         "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
       },
@@ -27026,7 +27048,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 284003,
       "name": "Izinkinga Zami",
       "url": "https://open.spotify.com/track/3cSHiNQ5ntNfERXSxJOPAR"
@@ -27418,7 +27440,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -29962,7 +29984,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 290351,
       "name": "Kuyazenzakalela",
       "url": "https://open.spotify.com/track/0SSpXwK8sfnAo3toQczhFH"
@@ -32140,7 +32162,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 446316,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/0EHeLEHLDKzU9eiBd61esH"
@@ -36204,7 +36226,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 384000,
       "name": "Mngani Wami (Jaydecai)",
       "url": "https://open.spotify.com/track/6R57BSk5QPahDhxRuVqWoh"
@@ -39280,7 +39302,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 253743,
       "name": "Ngilimele Kakhulu",
       "url": "https://open.spotify.com/track/6HxcilFI5SZnZYbXWVnMSE"
@@ -47548,7 +47570,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 60081,
       "name": "Sample",
       "url": "https://open.spotify.com/track/2qa3X1zH5beq8hx6mVairO"
@@ -53328,7 +53350,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 272796,
       "name": "Sulani Igama Lami",
       "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
@@ -54476,7 +54498,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 382442,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/5z6nmZGMQoQGlrB8RhJ5s5"
@@ -54562,7 +54584,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -57952,7 +57974,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 203388,
       "name": "U XA",
       "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
@@ -57996,7 +58018,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 304448,
       "name": "uBhanyazile",
       "url": "https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne"
@@ -60292,7 +60314,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 198009,
       "name": "Uyajola lo",
       "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"
@@ -61316,7 +61338,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 278804,
       "name": "Vuka Vuka Ksile!!! - Remix",
       "url": "https://open.spotify.com/track/0Dh9VhB2hjN4pkvPvreIzw"

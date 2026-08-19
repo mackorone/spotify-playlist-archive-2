@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > if you have anything negative to say about C,XOXO...\. please stfu
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,045 likes - 115 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,116 likes - 115 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

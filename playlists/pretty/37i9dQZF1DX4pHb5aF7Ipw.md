@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Iqbal, BAD Junkie, Dhoot Mani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,074 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,083 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 10 | [Chobbar](https://open.spotify.com/track/0jY9TrqgM6xBHQcFFnh97R) | [Harvi Chandiala](https://open.spotify.com/artist/2DIi01oaJzzLHYcRm3FuKK) | [Chobbar](https://open.spotify.com/album/5PwHvpOynLu3S3KOccwHrY) | 2:19 |
 | 11 | [Noises](https://open.spotify.com/track/2br7pptmBAXwjyqPDTBmnm) | [Arash Boparai](https://open.spotify.com/artist/1yXfcmWuDLjAb3fJtAPQ20) | [Noises](https://open.spotify.com/album/25gx8lW1VX2fLcTSSjFNKL) | 2:54 |
 | 12 | [Saanjh](https://open.spotify.com/track/7hnSD2r5EGldeXWXOjgmya) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [2YUNG](https://open.spotify.com/artist/2DyvVSo9LcZVgwohKddjX6) | [Saanjh](https://open.spotify.com/album/6YOzF4TYt7wMYCCDXHSNI2) | 3:14 |
-| 13 | [Cash Talk](https://open.spotify.com/track/50RYflT2MELBnppy35s7kO) | [Palwinder Tohra](https://open.spotify.com/artist/7JOxdzhWQVl9jTj9FNsQAS) | [Cash Talk](https://open.spotify.com/album/41CUL2emdok5as4cV1Sb6H) | 2:57 |
+| 13 | [Cash Talk](https://open.spotify.com/track/50RYflT2MELBnppy35s7kO) | [Palwinder Tohra](https://open.spotify.com/artist/7JOxdzhWQVl9jTj9FNsQAS), [Grizzy](https://open.spotify.com/artist/62LqWwL9jiHIrdxKxshR8E) | [Cash Talk](https://open.spotify.com/album/41CUL2emdok5as4cV1Sb6H) | 2:57 |
 | 14 | [Laare](https://open.spotify.com/track/7y96wmsQvqGWwufw6BvTTd) | [Lakhi Tagger](https://open.spotify.com/artist/3ajraDVnjmdm3Uiu2tQENU) | [Laare](https://open.spotify.com/album/4wp7Hpp2uFfAnSPmrIkcMm) | 2:21 |
 | 15 | [Radka](https://open.spotify.com/track/5JbJOA82EYjt8ce1ZxoviK) | [Raghav Agarwal](https://open.spotify.com/artist/2zWyht1LioViX3CzDQGyRs), [S4LT](https://open.spotify.com/artist/6CmtxPcuVbrEhMJQei5kvb) | [Radka](https://open.spotify.com/album/6iZAcAaun7VIaUHnwljNp2) | 2:40 |
 | 16 | [Singh Soorme](https://open.spotify.com/track/0JQIW0MYA74f1Iz2jlgG4F) | [KAIM](https://open.spotify.com/artist/4mWnkJywbo48C85Ikt3xxD), [Me'Kool](https://open.spotify.com/artist/1h5CdulwTiNhP8OY6AVgFZ) | [Singh Soorme](https://open.spotify.com/album/4OS8Qx1RUMUsqYkM572bqv) | 3:36 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 26 | [Identity](https://open.spotify.com/track/5XSrQZfOXVDdgsU2RyoVew) | [Hukam Grewal](https://open.spotify.com/artist/6Z1wk2UpA2FvhmqvDztoAJ) | [Identity](https://open.spotify.com/album/3EwcgIVB0yVekvRlcRwS84) | 2:44 |
 | 27 | [PB36 Anthem](https://open.spotify.com/track/4REW2PGwXifTMprxtrkqJO) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [PB36 Anthem](https://open.spotify.com/album/2SDmvvajibFcqxJgWUmvQV) | 3:06 |
 | 28 | [Selfmade](https://open.spotify.com/track/3k8bEDfJY5Hdu7d4UNGmzT) | [Krma](https://open.spotify.com/artist/4sBNHDKJHXwpXVoMNRV3Ol), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Selfmade](https://open.spotify.com/album/6SOSv6oER9YEXYe6pFkYhN) | 2:31 |
-| 29 | [Naami Saami](https://open.spotify.com/track/7FBQ1SA5iIVKSugThmBzkY) | [Sunny Randhawa](https://open.spotify.com/artist/33Yylbc57eiuuNTJ4rvffX) | [Naami Saami](https://open.spotify.com/album/1owoBBslNJR4DMUuby4x6N) | 2:39 |
+| 29 | [Naami Saami](https://open.spotify.com/track/7FBQ1SA5iIVKSugThmBzkY) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naami Saami](https://open.spotify.com/album/1owoBBslNJR4DMUuby4x6N) | 2:39 |
 | 30 | [We First](https://open.spotify.com/track/4dcoyb8LCXrb7Vc7ED8Z9c) | [JAGDEEEP SANGALA](https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9) | [We First](https://open.spotify.com/album/53bz6ABNPdMiD8fe9AXw4G) | 2:27 |
 | 31 | [Chal Challiye](https://open.spotify.com/track/6G4XB06Zc8lG713ngFBjKA) | [NAGRA](https://open.spotify.com/artist/51l8rmbjDP18wUxOBat7ri), [avx](https://open.spotify.com/artist/3FOd1FgMNLy4M6f278xfLp) | [Chal Challiye](https://open.spotify.com/album/6z6fAVDzviHyyNZ2qrlVdj) | 3:18 |
 | 32 | [Unbothered](https://open.spotify.com/track/7AmRaS14D6tGKKsRMobs0L) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Unbothered](https://open.spotify.com/album/47ECgr1igZBs9vM0v4mSXL) | 2:37 |

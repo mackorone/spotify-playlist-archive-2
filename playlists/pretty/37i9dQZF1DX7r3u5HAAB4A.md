@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Masicka
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,688 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,736 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 14 | [OUTSIDE](https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [OUTSIDE](https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr) | 1:58 |
 | 15 | [ROCK](https://open.spotify.com/track/1Ll7UszpQf1H3NnucmLSsA) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:32 |
 | 16 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |
-| 17 | [Knock It](https://open.spotify.com/track/6bfKyXysd54p5f4rMZmcvI) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Knock It](https://open.spotify.com/album/2PqnmqLv4GWTvHCbVlM1aT) | 3:13 |
-| 18 | [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/track/4uqzkSQkjkxIkF9GPeYkpQ) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/album/1vBusIa8NYBoKMCQmKn4Sq) | 2:34 |
+| 17 | [Cryin](https://open.spotify.com/track/0MEWsHxTAndV9hV6lf81Em) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:39 |
+| 18 | [Knock It](https://open.spotify.com/track/6bfKyXysd54p5f4rMZmcvI) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Knock It](https://open.spotify.com/album/2PqnmqLv4GWTvHCbVlM1aT) | 3:13 |
 | 19 | [Badman Business](https://open.spotify.com/track/0nZGlYoLOXsN4WLtS2TwYD) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Paradise](https://open.spotify.com/album/55iTWkt6gIsiJ2KlMQYzPf) | 2:31 |
 | 20 | [B.B.B\. \(Snapchat\)](https://open.spotify.com/track/2H6uszniwJ1kaVnHH6N05a) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [B.B.B\. \(Snapchat\)](https://open.spotify.com/album/7dXzUBKhbW6Ieg14Xen7vk) | 2:25 |
 | 21 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 99 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 | 100 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 |
 
-Snapshot ID: `AAAAAJhhfYVCXpH0XQZD+8c5PrVA+pOg`
+Snapshot ID: `AAAAAKynMC5Nj277pd7cudmB90XtejtO`

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 19122,
+  "num_followers": 19123,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u685c\u5742\u3057\u305a\u304f\u76e4\u3011",
         "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 246733,
       "name": "Solitude Rain",
       "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE!\u3010\u4e0a\u539f\u6b69\u5922\u76e4\u3011",
-        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Dream with You",
-      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u671d\u9999\u679c\u6797\u76e4\u3011",
         "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 275706,
       "name": "VIVID WORLD",
       "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE!\u3010\u4e0a\u539f\u6b69\u5922\u76e4\u3011",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -523,38 +523,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "\u54c0\u6e29\u30ce\u8a69",
-      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "\u5922\u3078\u306e\u4e00\u6b69",
-      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Love U my friends",
         "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 270040,
       "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "\u5922\u3078\u306e\u4e00\u6b69",
+      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "\u54c0\u6e29\u30ce\u8a69",
+      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -736,13 +736,13 @@
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
         }
       ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+      "duration_ms": 326040,
+      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
         "name": "Dream Land!Dream World!",
         "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 231840,
       "name": "Dream Land!Dream World!",
       "url": "https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
         }
       ],
-      "duration_ms": 260560,
-      "name": "\u58f0\u7e4b\u3054\u3046\u3088",
-      "url": "https://open.spotify.com/track/2wu07j9FHCuZ99fRfbjnK7"
+      "duration_ms": 204346,
+      "name": "\u7720\u308c\u308b\u68ee\u306b\u884c\u304d\u305f\u3044\u306a",
+      "url": "https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh"
     }
   ],
   "unique_name": "Love Live! Nijigasaki High School Idol Club",

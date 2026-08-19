@@ -2,9 +2,9 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> Een exclusieve nieuwe track van Jack❗️<a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
+> Twee exclusieve nieuwe tracks van Jack ❗️ <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-533 songs - 1 day 0 hr 3 min
+534 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@
 | [Voetbalshirtjes](https://open.spotify.com/track/1Vi1s0DvH0BPPgJtIODbJO) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Voetbalshirtjes](https://open.spotify.com/album/6fDzSgKJAS7D0DVLPWv1fL) | 2:17 | 2025-07-17 | 2025-09-12 |
 | [Volgende Ronde](https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Volgende Ronde](https://open.spotify.com/album/3yyw8WO5ipyBhnnETNsR5v) | 2:10 | 2025-09-18 | 2025-10-14 |
 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 | 2025-11-24 | 2025-12-19 |
-| [Voor Het Eerst](https://open.spotify.com/track/27xG981cofM82r8BEdmxgf) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Voor Het Eerst](https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9) | 3:11 | 2026-08-13 |  |
+| [Voor Het Eerst](https://open.spotify.com/track/27xG981cofM82r8BEdmxgf) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Voor Het Eerst](https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9) | 3:11 | 2026-08-13 |  |
 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 | 2026-01-15 | 2026-04-10 |
 | [Waardering](https://open.spotify.com/track/4kBtYyfgzbZPVuqpNdKL7Q) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Waardering](https://open.spotify.com/album/6J3BH0JhrGNqfTCVbEtKNP) | 3:01 | 2026-02-12 | 2026-03-27 |
 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 | 2026-04-08 |  |
@@ -518,6 +518,7 @@
 | [Wat Als](https://open.spotify.com/track/3MH1FEbQMawB7jR0s6PCpv) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [Wat Als](https://open.spotify.com/album/3B2CIvHGONdPbd8S9WrSwG) | 2:19 | 2025-08-07 | 2025-09-04 |
 | [Wat Weet Jij](https://open.spotify.com/track/65IYnuGNLUb6MXuhe8Cu5U) | [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4), [MeoKidd](https://open.spotify.com/artist/4ZZaPbicmQeuSRcPlbv4o6), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Lost Files](https://open.spotify.com/album/1Mf3TOaoftYE5ksjZ9hVkx) | 2:12 | 2026-04-09 | 2026-04-24 |
 | [Wavy](https://open.spotify.com/track/2yBeSlB2ou99IppHsoKn6w) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Wavy](https://open.spotify.com/album/5fteGGvwBg5VKvPwchYQ38) | 2:05 | 2026-02-05 | 2026-02-20 |
+| [Wayne Rooney](https://open.spotify.com/track/1uJdbQ7DSdrL7qsqTn6M3y) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wayne Rooney](https://open.spotify.com/album/3ez4U5BxI9wj7ulAFpw5GQ) | 2:11 | 2026-08-18 |  |
 | [Weinig Liefde](https://open.spotify.com/track/3t990TZlINj5GWoqxK3wBc) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Weinig Liefde](https://open.spotify.com/album/6RPr65uVZIIxuiB4powm3i) | 3:26 | 2025-07-17 | 2025-09-19 |
 | [Welcome To The 6](https://open.spotify.com/track/3yaI4tfo3pqMdHkQjaV0lt) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Jboy](https://open.spotify.com/artist/4gnrUR8Vc4nUDD4uot0jx2), [K€€](https://open.spotify.com/artist/6ZtnGpeyUm3xIDtFFPOfCa), [JohnDo](https://open.spotify.com/artist/5wGY8QCD4Fp8s8jB9YYcdX), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Rseis](https://open.spotify.com/artist/5xwEnl3D1t6Y03Mr1YsibX) | [OM DE TAFEL](https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR) | 3:47 | 2026-06-18 | 2026-07-03 |
 | [Wesh Cousin](https://open.spotify.com/track/0C93qD7BxWiCoBWNJ3Ej5s) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Wesh Cousin](https://open.spotify.com/album/4tnokmedox83g5ZqRmECDw) | 2:33 | 2025-09-04 | 2025-10-10 |

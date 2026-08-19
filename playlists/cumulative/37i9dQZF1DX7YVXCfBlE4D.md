@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-438 songs - 21 hr 32 min
+439 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [En Mi Viejo San Juan](https://open.spotify.com/track/3g3HHYl7AEEWn9i2cjnEVl) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis con Trio](https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS) | 3:38 | 2021-05-15 | 2022-01-22 |
 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 | 2021-05-15 | 2022-01-22 |
 | [En que quedamos por fin](https://open.spotify.com/track/4vnsKYluymPZnV0T6ChZh2) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines \- Bolero Romantico](https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg) | 2:40 | 2021-05-15 | 2022-01-22 |
-| [En un Beso la Vida](https://open.spotify.com/track/2PX70JKFb0643xkuUBjwtn) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Boleros](https://open.spotify.com/album/5T7W2TcTbPou8U6nQ6VZoO) | 2:24 | 2021-05-15 |  |
+| [En un Beso la Vida](https://open.spotify.com/track/2PX70JKFb0643xkuUBjwtn) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Boleros](https://open.spotify.com/album/5T7W2TcTbPou8U6nQ6VZoO) | 2:24 | 2021-05-15 | 2026-08-19 |
 | [En Un Beso La Vida](https://open.spotify.com/track/4xX45iw1rwITTfmZiZZVnC) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Recuerdos de Latinoamérica\- Orlando Contreras](https://open.spotify.com/album/7K9BZNMxTfeNvovIHWdVMs) | 2:26 | 2022-01-21 | 2022-11-13 |
 | [En un Beso la Vida](https://open.spotify.com/track/3BkrbliOL5Z5ElOjz0XXTV) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Recordando a Cuba](https://open.spotify.com/album/2IMSUUjqYGNIJof85LrARc) | 2:29 | 2022-01-21 | 2024-04-19 |
 | [Enamorada](https://open.spotify.com/track/25ttzJRRV67HToO9bMGSws) | [Los Galantes](https://open.spotify.com/artist/4cJzTny1t4rtLPrvEjr8oP) | [Novia Mia Novia Mia](https://open.spotify.com/album/4TFsxbzF6Fu2eDljmVtzVb) | 3:09 | 2021-05-15 | 2022-01-22 |
@@ -364,6 +364,7 @@
 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 | 2024-02-22 | 2024-04-19 |
 | [Sabor A Mi](https://open.spotify.com/track/2T5EXt3R5JlSgsDU31CQNl) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Sabor A Mi](https://open.spotify.com/album/26DHsH3JefudnjpnssJh2c) | 2:48 | 2021-05-15 | 2022-12-31 |
 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 | 2021-05-15 |  |
+| [Sabor a Mí](https://open.spotify.com/track/6KdZx53HkoPOgQAvhLq56A) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/3hO8uhdSJfkTLwGaMSKmxP) | 2:41 | 2024-07-11 |  |
 | [Se Acabó El Juguetito](https://open.spotify.com/track/7yjoHReqXPW7ONHiW8gePR) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Imprescindibles](https://open.spotify.com/album/3qhE0VtmHnMUwqc9Xd4swG) | 2:26 | 2021-05-15 |  |
 | [Se Me Olvidó Tu Nombre](https://open.spotify.com/track/0CQemGuwQ6oLzaEbIEP8zl) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [15 Grandes Éxitos](https://open.spotify.com/album/3P8U9V1pkElU1K7uNgi9aG) | 2:44 | 2022-01-21 |  |
 | [Se Que No Vendras](https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Se Que No Vendras](https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G) | 2:17 | 2021-05-15 |  |

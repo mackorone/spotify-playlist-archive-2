@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 💎 Tech house operators, featuring Walker & Royce + FENIK
 
-2,962 songs - 6 day 17 hr 40 min
+2,963 songs - 6 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1464,7 +1464,7 @@
 | [Let's Jack](https://open.spotify.com/track/2265NFO8TQyhU6m1yQWsa9) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Let's Jack](https://open.spotify.com/album/6SiRUYR1I5Er1vwBzuq57k) | 1:47 | 2026-04-10 | 2026-04-25 |
 | [Let's Live It Up](https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [No Big Deal – Part 1](https://open.spotify.com/album/6brJxmhBoOEp2tNAs2aFnx) | 3:02 | 2023-11-03 | 2024-02-24 |
 | [Let's Talk](https://open.spotify.com/track/63ybiUtgEbNpDXHNz7HvKP) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [Let's Talk](https://open.spotify.com/album/1aI1B79hFZewJR899XeOE2) | 3:04 | 2023-01-27 | 2023-03-25 |
-| [Lets Get Ill](https://open.spotify.com/track/2CHLVs4PKvmXP8kEr5e3pf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Lets Get Ill](https://open.spotify.com/album/1Gt1jmzfKuNXfecNNADZZi) | 3:13 | 2026-06-12 |  |
+| [Lets Get Ill](https://open.spotify.com/track/2CHLVs4PKvmXP8kEr5e3pf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Lets Get Ill](https://open.spotify.com/album/1Gt1jmzfKuNXfecNNADZZi) | 3:13 | 2026-06-12 | 2026-08-19 |
 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 | 2023-12-08 | 2024-04-27 |
 | [Levitate](https://open.spotify.com/track/7c9ESsfSlv6kvfPMA92x1L) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Levitate](https://open.spotify.com/album/1LC5mQp7l4u253zu657uMX) | 2:45 | 2025-10-24 | 2026-01-15 |
 | [LFO](https://open.spotify.com/track/4WoToF6YK8PFPnykFt8bXI) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [LFO](https://open.spotify.com/album/02qqZ59ObAC7IcDIE9WfDw) | 2:50 | 2024-07-26 | 2024-08-10 |
@@ -2120,6 +2120,7 @@
 | [Real Nu Rave](https://open.spotify.com/track/78tfQxr0HGWVlHFkR5lBK8) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Real Nu Rave](https://open.spotify.com/album/25sT5VKHzmvLH7tkWG4dBY) | 3:31 | 2022-07-08 | 2022-08-13 |
 | [Reality](https://open.spotify.com/track/3jHBkqi2OpXa1RRucdNZDt) | [Eurostep](https://open.spotify.com/artist/4ktOphHEqpukEfFOhCAfjZ), [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [Reality](https://open.spotify.com/album/6V07VvqZNB59fNtW38Cbqo) | 3:20 | 2021-11-26 | 2022-01-06 |
 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 | 2022-01-05 | 2022-04-23 |
+| [Reason Why](https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3) | [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT) | [Reason Why](https://open.spotify.com/album/4pYuKuFoNdNFOpMayYE8Yg) | 2:53 | 2026-08-18 |  |
 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-27 | 2024-12-07 |
 | [Receiver](https://open.spotify.com/track/4jrYOfwuFajEk7RUgz3sqW) | [Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [Receiver](https://open.spotify.com/album/65s1ShQJvvxUU3kvJcXJZQ) | 3:20 | 2026-06-19 |  |
 | [Records U Play](https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Records U Play](https://open.spotify.com/album/01KBC88qZIv2iIEVodMQe6) | 3:06 | 2022-04-15 | 2022-08-06 |

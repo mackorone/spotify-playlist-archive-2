@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: The Womack Sisters",
-  "num_followers": 1008304,
+  "num_followers": 1008274,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
-      "added_at": "2025-04-25 07:26:24",
-      "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 228684,
-      "name": "DAYDREAMING",
-      "url": "https://open.spotify.com/track/6yivKcIUlFdpQvHFIzgWVM"
-    },
-    {
       "added_at": "2025-06-20 04:00:56",
       "album": {
         "name": "In The Moment",
@@ -1269,6 +1253,22 @@
       "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
     },
     {
+      "added_at": "2025-04-25 07:26:24",
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 228684,
+      "name": "DAYDREAMING",
+      "url": "https://open.spotify.com/track/6yivKcIUlFdpQvHFIzgWVM"
+    },
+    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Entries",
@@ -1283,22 +1283,6 @@
       "duration_ms": 177573,
       "name": "Out My Hair",
       "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
-    },
-    {
-      "added_at": "2026-04-24 04:33:57",
-      "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1319,6 +1303,22 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
+    },
+    {
+      "added_at": "2026-04-24 04:33:57",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2024-03-08 13:51:25",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 378450,
+  "num_followers": 378518,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoD9gAAAAAAmfeFlHCsHsMPEScAYPEPI",
+  "snapshot_id": "aoJPAAAAAABYicTa72Wg18MuA19fbpXi",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 172250,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -843,6 +827,38 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 168251,
       "name": "El Apache (En Vivo)",
       "url": "https://open.spotify.com/track/52t4lVf9K57XzwvDAT2U9r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
     },
     {
       "added_at": null,

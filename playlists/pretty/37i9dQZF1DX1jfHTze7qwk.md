@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,314 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,315 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 9 | [ผ่าน](https://open.spotify.com/track/7BIfruOxdmV47pZ8beTNqS) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:01 |
 | 10 | [ใกล้](https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:17 |
 | 11 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 |
-| 12 | [โกหก](https://open.spotify.com/track/13OtbwiqeUt7M5VtbSTtvK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:12 |
+| 12 | [No.1](https://open.spotify.com/track/4L6PI5chD4KigRsrhOsnDx) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:28 |
 | 13 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
 | 14 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
 | 15 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
 | 16 | [บุษบา \(Busaba\)](https://open.spotify.com/track/0MWvyoCkBa93EJa4HnGBoG) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [Moderndog](https://open.spotify.com/album/4bvXOiaVeWqSbvyCk24QkA) | 4:48 |
-| 17 | [No.1](https://open.spotify.com/track/4L6PI5chD4KigRsrhOsnDx) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:28 |
+| 17 | [โกหก](https://open.spotify.com/track/13OtbwiqeUt7M5VtbSTtvK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:12 |
 | 18 | [ความลับ](https://open.spotify.com/track/3JRW8QzgWLrenspiUEqE1B) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 3:08 |
 | 19 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 |
 | 20 | [เข้ากันดี](https://open.spotify.com/track/1zbuNx8aZ9xesAjy4ZDvH4) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 3:51 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 39 | [ข่าวดี](https://open.spotify.com/track/0ZfxuArCbDRjJbEPI93ao2) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [Pillow War](https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP) | 3:47 |
 | 40 | [กันและกัน \(Us\)](https://open.spotify.com/track/4Cz21VKsqHnAt20Z1eQwhM) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 4:42 |
 | 41 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
-| 42 | [ผ้าเช็ดหน้า \(Handkerchief\)](https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp) | [Triumphs Kingdom](https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1) | [Twice TK \(Triumphs Xmas Kingdom\)](https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C) | 4:32 |
+| 42 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
 | 43 | [ไม่เคยไม่รักเธอ \(Never\)](https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:51 |
-| 44 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
+| 44 | [ผ้าเช็ดหน้า \(Handkerchief\)](https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp) | [Triumphs Kingdom](https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1) | [Twice TK \(Triumphs Xmas Kingdom\)](https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C) | 4:32 |
 | 45 | [รักเธอ](https://open.spotify.com/track/0vdr1c1Yk5BBfghJbDz2bj) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR) | [Living In C Major](https://open.spotify.com/album/6PlzDyEvcDJfFQ4MqUiqvB) | 4:30 |
 | 46 | [สัมพันธ์](https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 5:17 |
 | 47 | [จักรวาล \- Radio Edit](https://open.spotify.com/track/3DM2s6zdNdauNJU4GYSuhr) | [60Miles](https://open.spotify.com/artist/30QomnySAioA1rWq4ul2bO) | [The First Mile](https://open.spotify.com/album/2pzyOcKvdFFRwPgV7QP7AJ) | 5:07 |

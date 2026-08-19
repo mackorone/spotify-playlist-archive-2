@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Jami Faltin, Pihlaja, Ida.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,063 likes - 87 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,057 likes - 87 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,897 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,921 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 17 | [Africa](https://open.spotify.com/track/1YXH5a44usvJyNKeMt8NMo) | [Rose Laurens](https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM) | [Africa \- EP](https://open.spotify.com/album/4NR83WiSh5Zs9jL1VtkpRr) | 3:36 |
 | 18 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
 | 19 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
-| 20 | [Nuit de folie \- Version originale 1988](https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw) | [Début De Soirée](https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu) | [Best of Début de Soirée \(Le meilleur des années 80\)](https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L) | 4:13 |
-| 21 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 20 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 21 | [Nuit de folie \- Version originale 1988](https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw) | [Début De Soirée](https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu) | [Best of Début de Soirée \(Le meilleur des années 80\)](https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L) | 4:13 |
 | 22 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
 | 23 | [Mon mec à moi](https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 4:13 |
 | 24 | [Le parking des anges](https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:56 |

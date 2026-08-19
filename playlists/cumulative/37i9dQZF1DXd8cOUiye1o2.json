@@ -17818,7 +17818,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-19",
       "duration_ms": 185052,
       "name": "Saath",
       "url": "https://open.spotify.com/track/7iYTsZuUo1gFMjs0gV8SMA"
@@ -22386,6 +22386,36 @@
       "duration_ms": 250040,
       "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
+    },
+    {
+      "album": {
+        "name": "Vaaroon Forever (From \u201cMirzapur The Movie\u201d)",
+        "url": "https://open.spotify.com/album/2JSSKhcXSpzghdkq7T4cPr"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar",
+          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252400,
+      "name": "Vaaroon Forever - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/32jXun5S2lAe8XtLFCq4Ww"
     },
     {
       "album": {

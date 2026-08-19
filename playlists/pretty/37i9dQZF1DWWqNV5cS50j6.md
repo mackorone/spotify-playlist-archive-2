@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sub Urban
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,203 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,186 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 8 | [fear of missing out](https://open.spotify.com/track/6DjEVNA5xJESxFfmYako8N) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [fear of missing out](https://open.spotify.com/album/7tpR10hyk5R2CfJM26xg0Y) | 2:58 |
 | 9 | [what doesn't kill me](https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [what doesn't kill me](https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr) | 3:57 |
 | 10 | [Square Up](https://open.spotify.com/track/6z23ALs89TA5LEckkkFTTm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Square Up](https://open.spotify.com/album/3kQLDzH2oF0sLcPUVdFgDn) | 3:02 |
-| 11 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
+| 11 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 12 | [cheesy grunge](https://open.spotify.com/track/0ouVbT8pzg9gQHrVnwhAY2) | [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [cheesy grunge](https://open.spotify.com/album/1r07yW87MYHVqWVKDIYA2l) | 2:52 |
 | 13 | [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 |
 | 14 | [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 |

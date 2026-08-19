@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 592742,
+  "num_followers": 592797,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,34 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
+        "name": "Natural Blues (TECIE)",
+        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Natural Blues (TECIE)",
+      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
       },
@@ -1307,34 +1335,6 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Natural Blues (TECIE)",
-        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        }
-      ],
-      "duration_ms": 252857,
-      "name": "Natural Blues (TECIE)",
-      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
         "name": "Kumeleli",
         "url": "https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z"
       },
@@ -1359,22 +1359,30 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "PARTYGYAL",
-        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+        "name": "No Nation (Ayakata)",
+        "url": "https://open.spotify.com/album/72TahaKuyCyjuUJHFIdotd"
       },
       "artists": [
         {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         },
         {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
         }
       ],
-      "duration_ms": 167355,
-      "name": "PARTYGYAL",
-      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
+      "duration_ms": 158675,
+      "name": "No Nation (Ayakata)",
+      "url": "https://open.spotify.com/track/4lSSjtNkcROuqNXg09lZVS"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -1395,6 +1403,26 @@
       "duration_ms": 185806,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/2bzCnD7nJuuS4yDNCAtLYz"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
+        "name": "PARTYGYAL",
+        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 167355,
+      "name": "PARTYGYAL",
+      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -1479,30 +1507,6 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
       },
@@ -1527,6 +1531,30 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
         "name": "Mulalo",
         "url": "https://open.spotify.com/album/4xWjt3o0s8X3L61UHleJYZ"
       },
@@ -1547,34 +1575,6 @@
       "duration_ms": 212500,
       "name": "Mulalo",
       "url": "https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
-        "name": "No Nation (Ayakata)",
-        "url": "https://open.spotify.com/album/72TahaKuyCyjuUJHFIdotd"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Sholz",
-          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "No Nation (Ayakata)",
-      "url": "https://open.spotify.com/track/4lSSjtNkcROuqNXg09lZVS"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
         "name": "Sound Of The Sunrise",
         "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
       },
@@ -1639,6 +1659,26 @@
       "duration_ms": 193548,
       "name": "Sound Of The Sunrise",
       "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
+        "name": "Back On 74 (Rework)",
+        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        },
+        {
+          "name": "Arper",
+          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+        }
+      ],
+      "duration_ms": 340160,
+      "name": "Back On 74 - Rework",
+      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -1667,26 +1707,6 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Back On 74 (Rework)",
-        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        },
-        {
-          "name": "Arper",
-          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
-        }
-      ],
-      "duration_ms": 340160,
-      "name": "Back On 74 - Rework",
-      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
         "name": "For You (Assiove)",
         "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 203671,
       "name": "For You (Assiove)",
       "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
         "name": "YELE",
         "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
       },
@@ -2107,6 +2087,26 @@
       "duration_ms": 230550,
       "name": "YELE",
       "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
+        "name": "U Ain't Lyin'",
+        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
+      },
+      "artists": [
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "U Ain't Lyin'",
+      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
         "name": "Mean 2 Me",
         "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 267904,
       "name": "Mean 2 Me",
       "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
-        "name": "U Ain't Lyin'",
-        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
-      },
-      "artists": [
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "U Ain't Lyin'",
-      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2211,30 +2211,22 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
+        "name": "Dondona",
+        "url": "https://open.spotify.com/album/6X26nDRECh4ME10bLAKS25"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+          "name": "Mx Cartier",
+          "url": "https://open.spotify.com/artist/5QgnWcrDZl4tpMU50rletZ"
         },
         {
-          "name": "Agoria",
-          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
-        },
-        {
-          "name": "Simone Santagati",
-          "url": "https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH"
-        },
-        {
-          "name": "Blas\u00e9",
-          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+          "name": "Elida Almeida",
+          "url": "https://open.spotify.com/artist/4QMgntJ821xE1UtdWtJWbd"
         }
       ],
-      "duration_ms": 296000,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
+      "duration_ms": 254634,
+      "name": "Dondona",
+      "url": "https://open.spotify.com/track/0bmQPllYkN1HeeelO1CXdn"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2259,22 +2251,30 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Dondona",
-        "url": "https://open.spotify.com/album/6X26nDRECh4ME10bLAKS25"
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
       },
       "artists": [
         {
-          "name": "Mx Cartier",
-          "url": "https://open.spotify.com/artist/5QgnWcrDZl4tpMU50rletZ"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Elida Almeida",
-          "url": "https://open.spotify.com/artist/4QMgntJ821xE1UtdWtJWbd"
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        },
+        {
+          "name": "Simone Santagati",
+          "url": "https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH"
+        },
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
         }
       ],
-      "duration_ms": 254634,
-      "name": "Dondona",
-      "url": "https://open.spotify.com/track/0bmQPllYkN1HeeelO1CXdn"
+      "duration_ms": 296000,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2423,6 +2423,34 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
+        "name": "Rodopiado (Veneno)",
+        "url": "https://open.spotify.com/album/0ohxkzSQSYIXIVxHicSu2H"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Sophia Ardessore",
+          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rodopiado (Veneno)",
+      "url": "https://open.spotify.com/track/4gOgpsFWxXRsGOemL0Bpce"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
         "name": "AD02: Pans Of Death / Rounds",
         "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
@@ -2459,30 +2487,18 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Rodopiado (Veneno)",
-        "url": "https://open.spotify.com/album/0ohxkzSQSYIXIVxHicSu2H"
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        },
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Sophia Ardessore",
-          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Rodopiado (Veneno)",
-      "url": "https://open.spotify.com/track/4gOgpsFWxXRsGOemL0Bpce"
+      "duration_ms": 154918,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2535,42 +2551,6 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
-      },
-      "artists": [
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 154918,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
-        "name": "Soul Gazing",
-        "url": "https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Curol",
-          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
-        }
-      ],
-      "duration_ms": 225476,
-      "name": "Soul Gazing",
-      "url": "https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X"
-    },
-    {
-      "added_at": "2026-08-14 04:00:40",
-      "album": {
         "name": "Kura",
         "url": "https://open.spotify.com/album/1QQOpnwDdpK1pBqqH7P9Xu"
       },
@@ -2595,26 +2575,22 @@
     {
       "added_at": "2026-08-14 04:00:40",
       "album": {
-        "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
-        "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
+        "name": "Soul Gazing",
+        "url": "https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru"
       },
       "artists": [
         {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
         }
       ],
-      "duration_ms": 197546,
-      "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
-      "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
+      "duration_ms": 225476,
+      "name": "Soul Gazing",
+      "url": "https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X"
     },
     {
       "added_at": "2026-08-14 04:00:40",
@@ -2635,6 +2611,30 @@
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
+    },
+    {
+      "added_at": "2026-08-14 04:00:40",
+      "album": {
+        "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+        "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 197546,
+      "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+      "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
     },
     {
       "added_at": "2026-08-14 04:00:40",

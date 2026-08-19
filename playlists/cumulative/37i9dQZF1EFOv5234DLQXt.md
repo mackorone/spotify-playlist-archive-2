@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 10 hr 14 min
+148 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [En Camino \- Remasterizado 2007](https://open.spotify.com/track/4EO3RjlXJbTUQdDnRGlcGa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:29 | 2024-01-29 |  |
 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 | 2024-01-29 |  |
 | [En el Séptimo Día](https://open.spotify.com/track/6WFqaM9j9vyHi9BNKjWYWM) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 4:17 | 2024-01-29 | 2024-01-31 |
-| [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 | 2024-01-29 |  |
+| [En la Ciudad de la Furia](https://open.spotify.com/track/0iXtuWmY23LWSpZiQJKmnQ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:40 | 2026-08-18 |  |
+| [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 | 2024-01-29 | 2026-08-19 |
 | [En Remolinos](https://open.spotify.com/track/4MTSnsogocVrDHSbgQZpXC) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Reflejos de Lo Eterno](https://open.spotify.com/album/1H83qbfi02zo43uG3qwXJO) | 4:42 | 2025-04-01 |  |
 | [En Remolinos](https://open.spotify.com/track/1Q5DZiLiUoLs3cG5ZkmcP3) | [Pixel](https://open.spotify.com/artist/61tsAT8ra4mLllePLRikc2) | [En Remolinos](https://open.spotify.com/album/05EhD6gV31HCFHMbsq89HT) | 4:53 | 2024-01-29 | 2025-04-02 |
 | [Engaña](https://open.spotify.com/track/7BRwN1pRe3sn653D4oPPSR) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:11 | 2024-01-29 |  |
@@ -89,7 +90,8 @@
 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 | 2024-01-29 |  |
 | [Mi Novia Tiene Bíceps \- Remasterizado 2007](https://open.spotify.com/track/7kRhtWodPO1Oi0UVuj7Dob) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 | 2024-01-29 |  |
 | [Mundo de Quimeras](https://open.spotify.com/track/6Ez3tbJdqr1veRCzntHu42) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Zona de Promesas \(Mixes 1984 \- 1993\)](https://open.spotify.com/album/6Vxa62nfEzoFx8kc8lhpj1) | 6:41 | 2025-12-06 | 2026-01-22 |
-| [Mundo de Quimeras](https://open.spotify.com/track/3LwvkGCBtqHbt5zMVheT6N) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres \(Parte 2\)](https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV) | 6:41 | 2026-01-21 |  |
+| [Mundo de Quimeras](https://open.spotify.com/track/3LwvkGCBtqHbt5zMVheT6N) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres \(Parte 2\)](https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV) | 6:41 | 2026-01-21 | 2026-08-19 |
+| [Mundo De Quimeras \- Remasterizado 2007](https://open.spotify.com/track/3JCz3RYG6psLPHrW5ZF1wg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Languis \(Remastered\)](https://open.spotify.com/album/0m1Jpz8kxFIewCTy2NdkVt) | 6:41 | 2026-08-18 |  |
 | [Nací para Esto](https://open.spotify.com/track/62rUQJCEgkwseP5u4eMp7e) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:09 | 2024-01-29 |  |
 | [Nada Personal](https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:52 | 2024-01-29 |  |
 | [Ni Un Segundo \- Remasterizado 2007](https://open.spotify.com/track/5uwyngLJd6sTOYRic4tH8x) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:27 | 2024-01-29 |  |
@@ -130,7 +132,8 @@
 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/0RlpuslAJMOhXHsuyhEpvn) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:38 | 2024-01-29 |  |
 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/22KA3JofMEiB0rvD7z5Kbg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Te Hacen Falta Vitaminas \(Official Video\)](https://open.spotify.com/album/64lxmlDJgzblBcty8oCEBJ) | 2:39 | 2024-01-30 | 2024-02-01 |
 | [Te Llevo para Que Me Lleves](https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 3:44 | 2024-01-29 |  |
-| [Tele\-Ka \- Remasterizado 2007](https://open.spotify.com/track/5ZDMWyxvoEEi5ofWUjf0NL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 | 2024-01-29 |  |
+| [Tele\-Ka](https://open.spotify.com/track/6Vvh01G1l7C2hlkYMlWHxi) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:25 | 2026-08-18 |  |
+| [Tele\-Ka \- Remasterizado 2007](https://open.spotify.com/track/5ZDMWyxvoEEi5ofWUjf0NL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 | 2024-01-29 | 2026-08-19 |
 | [Terapia De Amor Intensiva \- Remasterizado 2007](https://open.spotify.com/track/57CH3KwRsQkbJH8VSDdKeI) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:40 | 2024-01-29 |  |
 | [Texturas \- Me Verás Volver Gira 2007](https://open.spotify.com/track/3qjVNViLHI0sE7Kjbkgngw) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/4Sy7VzDS4j1MLIYF85grsZ) | 4:53 | 2025-04-01 |  |
 | [Texturas \- Remasterizado 2007](https://open.spotify.com/track/3ZOEoS6TEyA4cKhtMMNxC0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 4:43 | 2024-01-29 | 2025-04-02 |

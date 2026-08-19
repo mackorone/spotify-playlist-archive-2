@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 768711,
+  "num_followers": 768767,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
+      "duration_ms": 259959,
+      "name": "Te Quiero Igual Que Ayer - Bachata",
+      "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1159,22 +1159,6 @@
       "duration_ms": 233320,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269490,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1211,8 +1195,24 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269490,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 259959,
-      "name": "Te Quiero Igual Que Ayer - Bachata",
-      "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Bachateando 2",
         "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 250106,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
-        "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Siento Que Te Quiero",
-      "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Edici\u00f3n De Lujo",
         "url": "https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 270576,
       "name": "Donde Estan Esos Amigos",
       "url": "https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
+        "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Siento Que Te Quiero",
+      "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Por un Segundo",
-      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 312506,
       "name": "Solo Sin Ella",
       "url": "https://open.spotify.com/track/5ZYOvhism99dkMEnHf7EZc"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Mas Bachata",
         "url": "https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 235560,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Por un Segundo",
+      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 348826,
-      "name": "Ense\u00f1ame a Olvidar",
-      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Dobletazo",
         "url": "https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 179680,
       "name": "No Le Pare",
       "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 348826,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
     },
     {
       "added_at": "2024-06-04 19:13:44",

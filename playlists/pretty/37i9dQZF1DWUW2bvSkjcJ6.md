@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ayra Starr, ZAYN, Summer Cem, Shirin David, reezy, KATSEYE & vielen mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,382 likes - 93 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,317 likes - 93 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
