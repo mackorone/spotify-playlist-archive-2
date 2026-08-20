@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 60 | [Bentley](https://open.spotify.com/track/0TrJ1iluDGiRK0DTbjeIu8) | [KENNYY](https://open.spotify.com/artist/1EC66HLMkF3dkr1oxRDhh5) | [Bentley](https://open.spotify.com/album/2kNJPKvHozcOU9nqTuWt9Y) | 3:16 |
 | 61 | [Oha](https://open.spotify.com/track/0Xlrbq3vYeOPhejblwOM1s) | [TRAMPA BILLONE](https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt) | [Oha](https://open.spotify.com/album/64axhjy393jbS1zTMfGNVr) | 2:32 |
 | 62 | [Isso É Coisa de Momento](https://open.spotify.com/track/3hjM9pyQHaNop0SmDw1GDO) | [Os Tralhas](https://open.spotify.com/artist/5IFQGAS5nAUVt2xXCzJz5e), [Luan no Beat](https://open.spotify.com/artist/4ptnidyFPCcTsLf3tCF6TP), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Isso É Coisa de Momento](https://open.spotify.com/album/374WbydoXUlS0l3Ny5yTWK) | 2:18 |
-| 63 | [Qué Bello](https://open.spotify.com/track/7xvlInnFmAOFO8YLg78cns) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [Qué Bello](https://open.spotify.com/album/1B30n8PGnk12eCLG7ZQwOw) | 3:43 |
+| 63 | [QUÉ BELLO](https://open.spotify.com/track/7xvlInnFmAOFO8YLg78cns) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [QUÉ BELLO](https://open.spotify.com/album/1B30n8PGnk12eCLG7ZQwOw) | 3:43 |
 | 64 | [Libre e incendiaria](https://open.spotify.com/track/6oCxEZnFpX6QZEMSUwAC8b) | [Nidia Barajas](https://open.spotify.com/artist/1X617WMSqsBVQML6B0lKcC) | [Nidia Barajas](https://open.spotify.com/album/3emSmpiErdyK1lJ0QPh5EX) | 3:41 |
 | 65 | [NOT ALONE](https://open.spotify.com/track/1UBgJ4krMOhlMwtUv8P6JB) | [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [NOT ALONE](https://open.spotify.com/album/1TTimdnFT1R0wtRi9Pb95C) | 2:31 |
 | 66 | [Finally](https://open.spotify.com/track/7c7udWph9Za2vq11s0nRh4) | [Danny Morales](https://open.spotify.com/artist/30EaVGYerScqpqcM71NPQk) | [Finally](https://open.spotify.com/album/1KiG0KRKKtNerKfr64aJmA) | 3:02 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 71 | [Samba Errado](https://open.spotify.com/track/36LTx0WTw6z7ySF27cSimH) | [Caxtrinho](https://open.spotify.com/artist/5urBZ4BQg3Ohpkf3xZjMKI) | [Queda Livre](https://open.spotify.com/album/5P0mCSJLuXhGKnLzfvLIAn) | 1:56 |
 | 72 | [No Rush](https://open.spotify.com/track/1gYZFTiH6N7kKlZK5jUFEa) | [Elia Esparza](https://open.spotify.com/artist/7wAzGQDLEsCvXoj8oVcJJG) | [Not To Be Dramatic](https://open.spotify.com/album/403WvXBzfBRuAVhEETUhba) | 2:51 |
 
-Snapshot ID: `AAAAAN2hKj/F+z2kiynC4OvQ2pHnYmNA`
+Snapshot ID: `AAAAAI0p23reyHQufoExhzAUYCbpfTwW`

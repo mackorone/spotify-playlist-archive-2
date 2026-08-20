@@ -152,7 +152,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 77666,
       "name": "8 Improvisations, FP 63: No. 8 in A Minor",
       "url": "https://open.spotify.com/track/0HKainlLN2D5MVuiUWI07b"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 199040,
       "name": "By the Sleepy Lagoon",
       "url": "https://open.spotify.com/track/6eS4gKP0uj3oE3DoB26gUR"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 56933,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
       "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
@@ -1478,6 +1478,28 @@
       "duration_ms": 231773,
       "name": "Piano Sonata No. 13 in A Major, D. 664: II. Andante",
       "url": "https://open.spotify.com/track/5tuH2Zko07tCoJvvcvrWBQ"
+    },
+    {
+      "album": {
+        "name": "\"Quiet Geometry: Classical Works\"",
+        "url": "https://open.spotify.com/album/2xI4tfY4MveTBCQjN9CBEg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96640,
+      "name": "Piano Sonata No. 2 in B-Flat Minor, Op. 35 \"Funeral March\": IV. Finale. Presto",
+      "url": "https://open.spotify.com/track/3tTrBGXpdEbBTcP3ByfR9J"
     },
     {
       "album": {

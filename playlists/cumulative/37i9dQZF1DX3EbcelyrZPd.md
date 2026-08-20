@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-718 songs - 1 day 16 hr 44 min
+719 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Madness](https://open.spotify.com/track/3yCiJlTtHFEnAknMyBsFCi) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Most People Want This](https://open.spotify.com/album/1lc1Yrp51pUXHlO95vArpx) | 2:35 | 2023-03-10 | 2023-09-22 |
 | [Magical](https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Romantic](https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq) | 3:04 | 2022-09-23 | 2023-06-09 |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 | 2024-01-12 |
-| [Mahaba](https://open.spotify.com/track/6vkjBXfGWij08akIYNxX14) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Mahaba](https://open.spotify.com/album/1m6TVBiKasRLqh1hfQWiIM) | 4:31 | 2026-08-13 |  |
+| [Mahaba](https://open.spotify.com/track/6vkjBXfGWij08akIYNxX14) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Mahaba](https://open.spotify.com/album/1m6TVBiKasRLqh1hfQWiIM) | 4:31 | 2026-08-13 | 2026-08-20 |
 | [Maji](https://open.spotify.com/track/6lIV7uqVybFzB2aZKvDwXw) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Maji](https://open.spotify.com/album/5YNdsUBGf4pCa675Guaq0m) | 3:02 | 2024-06-13 | 2024-12-20 |
 | [MAJO](https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [MAJO / SEE BODY](https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC) | 2:26 | 2025-12-04 | 2026-07-03 |
 | [Make it bounce \(Katika\)](https://open.spotify.com/track/6t6MpkK03yHwcK6S4L1pMR) | [iiCons](https://open.spotify.com/artist/4NcqeUfjUFtjSdpjd14gbQ) | [Make it bounce \(Katika\)](https://open.spotify.com/album/3VFFXWgQS7LHWvIkxBKGo5) | 2:57 | 2022-05-12 | 2022-07-15 |
@@ -558,6 +558,7 @@
 | [Simuachi](https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Simuachi](https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0) | 3:11 | 2023-06-15 | 2023-10-20 |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-05-05 | 2022-11-25 |
 | [Sina](https://open.spotify.com/track/4rI7SOF5OwglKAFGedExzi) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Sina](https://open.spotify.com/album/6MPat3f7dnn0gfAc23j1I8) | 3:00 | 2024-12-12 | 2025-04-18 |
+| [Sina Hiyana](https://open.spotify.com/track/435UdmvgiAxwv62lIBkExw) | [Saluh](https://open.spotify.com/artist/3skjr8kur5z5FLb9vlscHz) | [Sina Hiyana](https://open.spotify.com/album/5DnaIj9HsHibUO6y2qKuWh) | 2:59 | 2026-08-19 |  |
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2021-09-16 | 2022-05-27 |
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 | 2023-06-16 |
 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 | 2023-04-06 | 2024-06-21 |

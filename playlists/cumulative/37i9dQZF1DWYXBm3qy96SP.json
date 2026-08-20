@@ -24173,6 +24173,24 @@
     },
     {
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/3qznG6GOgizdrbGWDg1GJb"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202243,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/5Y4xHIbDrD9tIY4N0N5BZS"
+    },
+    {
+      "album": {
         "name": "Frozen Charlotte",
         "url": "https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj"
       },

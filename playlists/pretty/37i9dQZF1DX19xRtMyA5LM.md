@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > Twee exclusieve nieuwe tracks van Jack ❗️ <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,262 likes - 62 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,227 likes - 62 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 61 | [Droom Soms](https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:57 |
 | 62 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 |
 
-Snapshot ID: `AAAAAG4+19Z24U9SjvpCBlm4DsdnTzuk`
+Snapshot ID: `AAAAAEcOoEk8jmjwFWRE/IcllyBllKx4`

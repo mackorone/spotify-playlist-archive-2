@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-158 songs - 10 hr 7 min
+162 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 | 2025-05-04 |  |
 | [Breezeblocks](https://open.spotify.com/track/1ZLroqJA8qoS5QEeCo0fA7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6HbJlAnTRhWae1F3lEwGkv) | 3:47 | 2025-05-04 |  |
 | [Broken](https://open.spotify.com/track/6clNv6p0979OQHteQotpbd) | [The Trees](https://open.spotify.com/artist/5RfQnHitydzhcHZXwi02lt) | [From Well Rounded](https://open.spotify.com/album/2mEQTlVvdXDwyl17CP8Sld) | 4:05 | 2025-08-04 | 2026-05-16 |
+| [Burnout](https://open.spotify.com/track/3kQXaFWq16QpxZDkKI7R2k) | [Silky Vibe](https://open.spotify.com/artist/4tOHwi0n1qCj5tKL4S52V0) | [Made For Cruising](https://open.spotify.com/album/6RFCGXVP342Uy9H38kEc8L) | 2:08 | 2026-08-19 |  |
 | [can you?](https://open.spotify.com/track/1zlLTjLoqR2N66xxrtY1hV) | [Jesse Cleaves](https://open.spotify.com/artist/15kRGaQ94f0HTKJx6iZDds) | [can you?](https://open.spotify.com/album/06u75g7TcKl5VOLOZnj8Vo) | 2:09 | 2026-08-10 |  |
 | [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 | 2025-12-11 | 2026-02-07 |
 | [CANSADO DE ESPERAR](https://open.spotify.com/track/4NBelzixJZXf5rkGl5sOMR) | [SOLVIBRA](https://open.spotify.com/artist/6hghA6OshZBCb5plODJL8t) | [CANSADO DE ESPERAR](https://open.spotify.com/album/2zR395ICnNHfnGzhvuLxQK) | 3:19 | 2025-11-05 | 2025-12-08 |
@@ -104,11 +105,13 @@
 | [Neanderthal](https://open.spotify.com/track/5RTMnfJSu8lRZOZcKSgQde) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:28 | 2026-04-04 |  |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-11-04 | 2025-12-08 |
 | [No Way Out](https://open.spotify.com/track/7bqpJArivuugIHtOWnPWPf) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [No Way Out](https://open.spotify.com/album/7xObv5MyYgaSJirgoBPmDa) | 3:08 | 2026-08-06 |  |
+| [Non ho niente d'intelligente da dire](https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Non ho niente d'intelligente da dire](https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ) | 3:02 | 2026-08-19 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 | 2026-02-07 |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2025-05-04 |  |
 | [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2026-03-11 | 2026-05-16 |
 | [Out The Zip](https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [A Million and A Half Ways](https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc) | 2:55 | 2025-12-11 | 2026-02-07 |
 | [P](https://open.spotify.com/track/0amoXRUE2zKK8BkogS7oDX) | [NoFap](https://open.spotify.com/artist/7iP0M2miLscLy2PCughele) | [P](https://open.spotify.com/album/2iKytyfl8SOZlCk73EMTAa) | 3:22 | 2026-01-04 | 2026-02-07 |
+| [Pain Taught Me Your Name](https://open.spotify.com/track/3BxezNMRlnYNFhELtUBhUl) | [The Divas Five](https://open.spotify.com/artist/2IKZBpocujc08kPUTKpcfh) | [Pain Taught Me Your Name](https://open.spotify.com/album/4RLyGKU0h23VjtswJADXHV) | 3:36 | 2026-08-19 |  |
 | [Peace Defined](https://open.spotify.com/track/0EpdxqFRCUeyVMF60GEBx3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Peace Defined](https://open.spotify.com/album/6u34BdHbyeNXY9tD8H93KN) | 4:21 | 2025-09-10 | 2026-05-16 |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-11-24 | 2026-02-07 |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-11-04 | 2025-12-08 |
@@ -166,5 +169,6 @@
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-04 | 2025-12-08 |
 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 | 2025-12-17 | 2026-02-07 |
 | [You See It There](https://open.spotify.com/track/6UVPIQHfGmR7N0IAYalkr6) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:30 | 2026-02-06 |  |
+| [Youth in the Rearview](https://open.spotify.com/track/4EH6QCKty7zmXSv6kbUPIk) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [Youth in the Rearview](https://open.spotify.com/album/3e8PYfNC7bwlzMPO8OdLul) | 4:30 | 2026-08-19 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

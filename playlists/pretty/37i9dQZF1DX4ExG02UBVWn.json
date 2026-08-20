@@ -1,12 +1,12 @@
 {
   "description": "for the late nights",
-  "num_followers": 20923,
+  "num_followers": 20921,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFUfU78uvNMMN+7eP6ugCAKrC0yd",
+  "snapshot_id": "AAAAAOC12gslbZpCcVJuomS1kaO+Ee24",
   "tracks": [
     {
       "added_at": "2025-08-07 15:52:15",
@@ -243,18 +243,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
       },
       "artists": [
         {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 175291,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -275,18 +275,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
-      "duration_ms": 268038,
-      "name": "Marking My Time",
-      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
+      "duration_ms": 175291,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Introverted Stoner",
-        "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Introverted Stoner",
-      "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "BAD TASTE",
         "url": "https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 211240,
       "name": "30,000 FEET",
       "url": "https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Introverted Stoner",
+        "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Introverted Stoner",
+      "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "airplanes",
+        "url": "https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS"
+      },
+      "artists": [
+        {
+          "name": "Lio Kalebic",
+          "url": "https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX"
+        }
+      ],
+      "duration_ms": 82064,
+      "name": "airplanes",
+      "url": "https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Blue Denim Jeans",
         "url": "https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 192333,
       "name": "Blue Denim Jeans",
       "url": "https://open.spotify.com/track/327epjHIypEPo3c0kjIli9"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "airplanes",
-        "url": "https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS"
-      },
-      "artists": [
-        {
-          "name": "Lio Kalebic",
-          "url": "https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX"
-        }
-      ],
-      "duration_ms": 82064,
-      "name": "airplanes",
-      "url": "https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "old place",
-        "url": "https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 98340,
-      "name": "old place",
-      "url": "https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "AND GOD SAID...",
         "url": "https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 254866,
       "name": "ALMOST LOST",
       "url": "https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "old place",
+        "url": "https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 98340,
+      "name": "old place",
+      "url": "https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -911,22 +911,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
+        "name": "Motion Sick",
+        "url": "https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm"
       },
       "artists": [
         {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        },
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 207830,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
+      "duration_ms": 200866,
+      "name": "Braid It Back",
+      "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -947,18 +943,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Motion Sick",
-        "url": "https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm"
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 200866,
-      "name": "Braid It Back",
-      "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
+      "duration_ms": 207830,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "money",
         "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 178536,
       "name": "money",
       "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+        "name": "Will Smith",
+        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
       },
       "artists": [
         {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+      "duration_ms": 126153,
+      "name": "Will Smith",
+      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Will Smith",
-        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
+        "name": "What We Become",
+        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
       },
       "artists": [
         {
-          "name": "BEASTIE",
-          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
         }
       ],
-      "duration_ms": 126153,
-      "name": "Will Smith",
-      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
+      "duration_ms": 173706,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1339,22 +1355,6 @@
       "duration_ms": 211733,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "What We Become",
-        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
-      },
-      "artists": [
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg"
+      },
+      "artists": [
+        {
+          "name": "jena keating",
+          "url": "https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H"
+        }
+      ],
+      "duration_ms": 262060,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Negro Impacto",
         "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 162797,
       "name": "LONG TERM PARKING",
       "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Breaking Free",
-        "url": "https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa"
-      },
-      "artists": [
-        {
-          "name": "Sop\u00eb",
-          "url": "https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB"
-        }
-      ],
-      "duration_ms": 172396,
-      "name": "Breaking Free",
-      "url": "https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA"
     }
   ],
   "unique_name": "the night bus",

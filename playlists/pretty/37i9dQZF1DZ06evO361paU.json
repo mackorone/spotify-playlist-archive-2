@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 298815,
+  "num_followers": 298838,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAABppsNOoKs6bTZu3SUqEyi",
+  "snapshot_id": "aoOggAAAAAAzIx6ZKw3o/jxZNcd3xPev",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "Dancin' Til Dawn",
+      "url": "https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghetto Lenny's Love Songs",
         "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 233249,
       "name": "Borders [Feat. Lenny Kravitz]",
       "url": "https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Is Time For A Love Revolution",
-        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "Dancin' Til Dawn",
-      "url": "https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr"
     },
     {
       "added_at": null,
@@ -403,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
       },
       "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 176524,
-      "name": "I Believe In Love Again",
-      "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
+      "duration_ms": 280973,
+      "name": "Believe In Me",
+      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
       "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 280973,
-      "name": "Believe In Me",
-      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
+      "duration_ms": 176524,
+      "name": "I Believe In Love Again",
+      "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Dig In",
+      "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superlove",
         "url": "https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 322514,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Dig In",
-      "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
     },
     {
       "added_at": null,

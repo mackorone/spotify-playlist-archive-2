@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Phoebe Bridgers, Troye Sivan, KATSEYE, Jungle and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,388 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,334 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 63 | [Thinking 'Bout You](https://open.spotify.com/track/1F7cI1dYO1mxOYptPYQhYe) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Thinking 'Bout You](https://open.spotify.com/album/4leVOZ2pphacnEBKdcHHuk) | 3:53 |
 | 64 | [Jackie](https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Jackie](https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa) | 3:13 |
 | 65 | [Prosper](https://open.spotify.com/track/7uvRk44UPN12K5YLYfRRei) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Prosper](https://open.spotify.com/album/11pgWIDTBmslcQEZvfOzQN) | 3:58 |
-| 66 | [Motorola \(feat\. Mila Falls\)](https://open.spotify.com/track/3ouGGUedbT0g5g1yEYcvAR) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Motorola \(feat\. Mila Falls\)](https://open.spotify.com/album/3sqjFs2eZbv7T8yRdSLkBi) | 3:21 |
+| 66 | [Motorola \(feat\. Mila Falls\)](https://open.spotify.com/track/3ouGGUedbT0g5g1yEYcvAR) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Motorola \(feat\. Mila Falls\)](https://open.spotify.com/album/3sqjFs2eZbv7T8yRdSLkBi) | 3:01 |
 | 67 | [Before We Drown](https://open.spotify.com/track/4KvgDGEGb2dChK0U4dYJwz) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Before We Drown](https://open.spotify.com/album/6oT9TsQDugFrAzGoQCcgC3) | 4:10 |
 | 68 | [Live by the Sword](https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live by the Sword](https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2) | 3:39 |
 | 69 | [Give It To Me](https://open.spotify.com/track/2bXoeRfucuOljTa9E4O4AI) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Give It To Me](https://open.spotify.com/album/3ZAsUyJhGc1CYuiofnWBM0) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Nothing Really Changes](https://open.spotify.com/track/3t3biITmzgT9QhLsTMbn5j) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Nothing Really Changes](https://open.spotify.com/album/0qhXTpejDxZ5apyxlAt8fh) | 5:53 |
 | 100 | [in vino veritas!](https://open.spotify.com/track/1ZUptgW52c61JXpRW6ivmN) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [in vino veritas!](https://open.spotify.com/album/2VIdb7sLoqXNwosA7mJruQ) | 2:27 |
 
-Snapshot ID: `AAAAAFuIWYHpRnrFoI4oCL+5YTWQIYMB`
+Snapshot ID: `AAAAAC2vELg04P0/Zajscm9fCV7NQXF5`

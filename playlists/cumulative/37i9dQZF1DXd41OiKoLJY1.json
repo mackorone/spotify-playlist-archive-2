@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [AEUNA]. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Before Rain Begins. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -4076,7 +4076,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 212900,
       "name": "All That We Had",
       "url": "https://open.spotify.com/track/0qNYYzegUvfZ2diLfz2wg9"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 209219,
       "name": "Already / Only",
       "url": "https://open.spotify.com/track/1juV1TCsmEqNL03TVk8k5x"
@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 286308,
       "name": "Ano",
       "url": "https://open.spotify.com/track/6ive27zMCIHY2tFLa74fz2"
@@ -6948,7 +6948,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 177062,
       "name": "baby wag",
       "url": "https://open.spotify.com/track/6qb70sJZKVKyl98JheYIki"
@@ -8608,7 +8608,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 156038,
       "name": "Bawal magkasakit",
       "url": "https://open.spotify.com/track/5HkhX0Bji9QNBDHJYFHnDf"
@@ -9916,6 +9916,24 @@
       "duration_ms": 213750,
       "name": "Bituin",
       "url": "https://open.spotify.com/track/4abGSX7qqDANIyFX8sDQzk"
+    },
+    {
+      "album": {
+        "name": "Bituin",
+        "url": "https://open.spotify.com/album/4U5yIwdNmzNrDnJzn34XJn"
+      },
+      "artists": [
+        {
+          "name": "Golf & Sunsets",
+          "url": "https://open.spotify.com/artist/7tgD6OGJfMtOHYJIFPNhOu"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258459,
+      "name": "Bituin",
+      "url": "https://open.spotify.com/track/0zUJUshv7x5b9M0Lcj4G1j"
     },
     {
       "album": {
@@ -12770,7 +12788,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 224316,
       "name": "Ch 2 (Wit Da Crew)",
       "url": "https://open.spotify.com/track/6X49EGlmQFfgAiMc6rPQlt"
@@ -14640,7 +14658,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 102533,
       "name": "Daga",
       "url": "https://open.spotify.com/track/0hWPKCq4YXWD1jEAWYVzxY"
@@ -16680,7 +16698,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 156923,
       "name": "DI NA PARA",
       "url": "https://open.spotify.com/track/2n1544Otlduh3md9QKUrtm"
@@ -19288,7 +19306,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 155924,
       "name": "EAU",
       "url": "https://open.spotify.com/track/2ezvquhiSdR6M0I5iYREK9"
@@ -19570,7 +19588,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 260000,
       "name": "Elyu",
       "url": "https://open.spotify.com/track/2iznESfS1IEQFo9zniEWBk"
@@ -21480,7 +21498,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 237966,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/0nlszapPcBiTBrl1CM7MAJ"
@@ -21730,7 +21748,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 189908,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5wj44QtOXYjckQ1tN9Ni1t"
@@ -22244,7 +22262,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 197647,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/6sEJMpXldkp9FdkxwooPXk"
@@ -23352,7 +23370,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 153600,
       "name": "Ganado",
       "url": "https://open.spotify.com/track/0cjAsIL3aFgw3fIC8njX8U"
@@ -23464,7 +23482,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 132151,
       "name": "GAP",
       "url": "https://open.spotify.com/track/1E3mQ0vrHxXPhju4NjGF0T"
@@ -25946,6 +25964,24 @@
       "duration_ms": 215121,
       "name": "Haha",
       "url": "https://open.spotify.com/track/7yYnSWjoKpPnMaGVachlUC"
+    },
+    {
+      "album": {
+        "name": "Hahanapin Ka",
+        "url": "https://open.spotify.com/album/3rgkV398MzjvlPMpfyWmFV"
+      },
+      "artists": [
+        {
+          "name": "Matt Habit",
+          "url": "https://open.spotify.com/artist/7DUHV9eV5ylOpADLzvISe4"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224050,
+      "name": "Hahanapin Ka",
+      "url": "https://open.spotify.com/track/11nrDiYnBcWBNfz5r9ML4Z"
     },
     {
       "album": {
@@ -29430,7 +29466,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 195346,
       "name": "HULING PAALAM..",
       "url": "https://open.spotify.com/track/1wPGE9pBOuhyJYKM5fPZTh"
@@ -33644,7 +33680,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 300681,
       "name": "June",
       "url": "https://open.spotify.com/track/7JPj7vdWrjUec31IlA4w6O"
@@ -35479,6 +35515,24 @@
     },
     {
       "album": {
+        "name": "Kay Ganda",
+        "url": "https://open.spotify.com/album/6zhGvzWTbNaAJKOFjFFVH9"
+      },
+      "artists": [
+        {
+          "name": "Jason Caling",
+          "url": "https://open.spotify.com/artist/0nf6FrEwqiuRIgVdMBQBD3"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293401,
+      "name": "Kay Ganda",
+      "url": "https://open.spotify.com/track/6Y76T8I3skKZYYn8ZIzMyA"
+    },
+    {
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/6uWMUnwPkGSpudpluIkVqk"
       },
@@ -36302,7 +36356,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 257890,
       "name": "Komplikado",
       "url": "https://open.spotify.com/track/2SZ9VQQcltcmLSzxwbUXvK"
@@ -40440,7 +40494,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 134812,
       "name": "look me up",
       "url": "https://open.spotify.com/track/5Mxsh4W1sDo4USjGkRg1yb"
@@ -42108,6 +42162,24 @@
       "duration_ms": 259200,
       "name": "Mafia $inatra",
       "url": "https://open.spotify.com/track/5257ou17nYNTdU8abCgm8K"
+    },
+    {
+      "album": {
+        "name": "Mag isa",
+        "url": "https://open.spotify.com/album/4r2uSrxRnuetFzjiBQuq7F"
+      },
+      "artists": [
+        {
+          "name": "Before Rain Begins",
+          "url": "https://open.spotify.com/artist/1Uy8N4QyqVC6k6DPhkNwVs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Mag isa",
+      "url": "https://open.spotify.com/track/6IwsEol4RxFU9SQKAt9U0J"
     },
     {
       "album": {
@@ -47638,7 +47710,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 151653,
       "name": "Nawawala't Bumabalik",
       "url": "https://open.spotify.com/track/7rITUdMlQdzbZvYYFAWfaV"
@@ -49648,7 +49720,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 248205,
       "name": "Oh My Lover",
       "url": "https://open.spotify.com/track/5QdJeXUVkNzEOphHninukw"
@@ -50184,7 +50256,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 279857,
       "name": "Once Aligned",
       "url": "https://open.spotify.com/track/68SUBUwT8wGdO0xtzk97fO"
@@ -50238,7 +50310,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 169459,
       "name": "ONE MAN DOLO",
       "url": "https://open.spotify.com/track/4S9QJQe3TmlQWApkWK4XgA"
@@ -61900,7 +61972,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 160935,
       "name": "Save Our Love",
       "url": "https://open.spotify.com/track/46zkArRxszr5jpq3Q2ziQq"
@@ -64310,7 +64382,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 252250,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/67qAhfMTVMO9KitHgwNOjV"
@@ -65342,7 +65414,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 190876,
       "name": "Somewhere Empty",
       "url": "https://open.spotify.com/track/6ZDo7hVTyRuKfJ2m11AzQe"
@@ -65512,7 +65584,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 205752,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/21m41twE6QsT6LsTtBJGb2"
@@ -70726,7 +70798,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 200500,
       "name": "This Isn't Who I Am",
       "url": "https://open.spotify.com/track/1byJJ23tG6pB2UaS3j5sXP"

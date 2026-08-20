@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 946593,
+  "num_followers": 946565,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMS1iJpLXWeLmg9DT+i1li2Q0U07",
+  "snapshot_id": "AAAAALoX3wcbFIF+7hoBQd3j6MO/IHOK",
   "tracks": [
     {
       "added_at": "2026-06-12 21:05:01",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-06-12 21:05:01",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Eu, Voc\u00ea, O Mar e Ela",
-      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
-    },
-    {
-      "added_at": "2026-06-12 21:05:01",
-      "album": {
         "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
         "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 313266,
       "name": "Caso Indefinido - Ao Vivo",
       "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+    },
+    {
+      "added_at": "2026-06-12 21:05:01",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Eu, Voc\u00ea, O Mar e Ela",
+      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
     },
     {
       "added_at": "2026-06-12 21:05:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-12 21:05:01",
       "album": {
-        "name": "Ana Castela - Spotify Sessions",
-        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Neon - Spotify Sessions",
-      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
-    },
-    {
-      "added_at": "2026-06-12 21:05:01",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
       },
@@ -699,18 +683,38 @@
     {
       "added_at": "2026-06-12 21:05:01",
       "album": {
-        "name": "Energia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y"
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
       },
       "artists": [
         {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 165376,
-      "name": "Pega Esse Carro - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3"
+      "duration_ms": 224223,
+      "name": "Neon - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
+    },
+    {
+      "added_at": "2026-06-12 21:05:01",
+      "album": {
+        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Deixa Eu Te Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
     },
     {
       "added_at": "2026-06-12 21:05:01",
@@ -751,22 +755,34 @@
     {
       "added_at": "2026-06-12 21:05:01",
       "album": {
-        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
+        "name": "Energia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y"
       },
       "artists": [
         {
-          "name": "Edson & Hudson",
-          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Deixa Eu Te Amar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
+      "duration_ms": 165376,
+      "name": "Pega Esse Carro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3"
+    },
+    {
+      "added_at": "2026-06-12 21:05:01",
+      "album": {
+        "name": "Vira Homem",
+        "url": "https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 196405,
+      "name": "Vira Homem",
+      "url": "https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ"
     },
     {
       "added_at": "2026-06-12 21:05:01",
@@ -787,22 +803,6 @@
       "duration_ms": 185237,
       "name": "Quem Melhor Do Que N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ"
-    },
-    {
-      "added_at": "2026-06-12 21:05:01",
-      "album": {
-        "name": "Vira Homem",
-        "url": "https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 196405,
-      "name": "Vira Homem",
-      "url": "https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ"
     },
     {
       "added_at": "2026-06-12 21:05:01",

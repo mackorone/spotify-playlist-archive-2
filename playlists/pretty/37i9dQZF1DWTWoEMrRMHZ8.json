@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Hyldon",
-  "num_followers": 353241,
+  "num_followers": 353195,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwdaub284Z2OHs8JJTwibhCq4l2",
+  "snapshot_id": "AAAAABCvJK2RW5KA9nP3FeoEmrzOI5rQ",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:54",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "Todo Sempre",
+        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Todo Sempre",
+      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
         "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 200835,
       "name": "Bossa Sempre Nova",
       "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Todo Sempre",
-        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Todo Sempre",
-      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -799,22 +799,18 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "romance",
-        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
+        "name": "Desculpe o Au\u00ea",
+        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
       },
       "artists": [
         {
-          "name": "renanrenan",
-          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
-        },
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
         }
       ],
-      "duration_ms": 220689,
-      "name": "romance",
-      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
+      "duration_ms": 201627,
+      "name": "Desculpe o Au\u00ea",
+      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -839,22 +835,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Desculpe o Au\u00ea",
-        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Desculpe o Au\u00ea",
-      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Eu Venho de Longe",
         "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
       },
@@ -871,22 +851,38 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+        "name": "romance",
+        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "renanrenan",
+          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
         },
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
         }
       ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+      "duration_ms": 220689,
+      "name": "romance",
+      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "S\u00f3 Quero Te Amar",
+        "url": "https://open.spotify.com/album/5Nxy7aGj0SayXmRNlEJGGf"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "duration_ms": 155302,
+      "name": "S\u00f3 Quero Te Amar",
+      "url": "https://open.spotify.com/track/5AKthff2UBBcZn5P288SBr"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -911,6 +907,26 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "A Estrada",
         "url": "https://open.spotify.com/album/1a5g2hXIYXHohl8SzT1HNx"
       },
@@ -927,42 +943,6 @@
       "duration_ms": 174350,
       "name": "Chegada",
       "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "S\u00f3 Quero Te Amar",
-        "url": "https://open.spotify.com/album/5Nxy7aGj0SayXmRNlEJGGf"
-      },
-      "artists": [
-        {
-          "name": "Dani Black",
-          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
-        }
-      ],
-      "duration_ms": 155302,
-      "name": "S\u00f3 Quero Te Amar",
-      "url": "https://open.spotify.com/track/5AKthff2UBBcZn5P288SBr"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
-      },
-      "artists": [
-        {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1003,6 +983,26 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Feira de Mangaio",
-        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
-      },
-      "artists": [
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        }
-      ],
-      "duration_ms": 133566,
-      "name": "Feira de Mangaio",
-      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "ROSA NO C\u00c9U",
         "url": "https://open.spotify.com/album/4os24JPEmv9ZSjZHaElGAc"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 207291,
       "name": "sinais",
       "url": "https://open.spotify.com/track/6AwT3gyouzIk988tFFnhG5"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Feira de Mangaio",
+        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "duration_ms": 133566,
+      "name": "Feira de Mangaio",
+      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "L\u00e1",
+        "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 264686,
+      "name": "L\u00e1",
+      "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Sabi\u00e1",
         "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 231201,
       "name": "\u00cata N\u00f3is",
       "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "L\u00e1",
-        "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 264686,
-      "name": "L\u00e1",
-      "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 246802,
       "name": "D'Ouro Brilhante",
       "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "O Amor e o Tempo",
+        "url": "https://open.spotify.com/album/6UldHF44udMxpiq0HoJDTe"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Maranh\u00e3o",
+          "url": "https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH"
+        }
+      ],
+      "duration_ms": 305007,
+      "name": "O Amor e o Tempo",
+      "url": "https://open.spotify.com/track/2RR9ZHld40TTa053GtPASL"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Pra Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "O Amor e o Tempo",
-        "url": "https://open.spotify.com/album/6UldHF44udMxpiq0HoJDTe"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Maranh\u00e3o",
-          "url": "https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH"
-        }
-      ],
-      "duration_ms": 305007,
-      "name": "O Amor e o Tempo",
-      "url": "https://open.spotify.com/track/2RR9ZHld40TTa053GtPASL"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Tum Tum Tum",
         "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
       },
@@ -1427,38 +1427,6 @@
       "duration_ms": 250156,
       "name": "Tudo Que Se Tem",
       "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "F\u00e3 do Sandu\u00edche",
-        "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
-      },
-      "artists": [
-        {
-          "name": "Hyldon",
-          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
-        }
-      ],
-      "duration_ms": 363104,
-      "name": "F\u00e3 do Sandu\u00edche",
-      "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Vestido de Rainha",
-        "url": "https://open.spotify.com/album/5UGk1JVGuDxmn64RozfgVq"
-      },
-      "artists": [
-        {
-          "name": "Lua Castanho",
-          "url": "https://open.spotify.com/artist/6Jp8gOtrNLsndm38r4nosw"
-        }
-      ],
-      "duration_ms": 243607,
-      "name": "Giram S\u00f3is",
-      "url": "https://open.spotify.com/track/15GQtcXgZlUXDbkgu27Zvu"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1479,6 +1447,38 @@
       "duration_ms": 202555,
       "name": "\u00c1frica Em Mim",
       "url": "https://open.spotify.com/track/7qkHJZGB3s2jAXgTBAmbiQ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Vestido de Rainha",
+        "url": "https://open.spotify.com/album/5UGk1JVGuDxmn64RozfgVq"
+      },
+      "artists": [
+        {
+          "name": "Lua Castanho",
+          "url": "https://open.spotify.com/artist/6Jp8gOtrNLsndm38r4nosw"
+        }
+      ],
+      "duration_ms": 243607,
+      "name": "Giram S\u00f3is",
+      "url": "https://open.spotify.com/track/15GQtcXgZlUXDbkgu27Zvu"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "F\u00e3 do Sandu\u00edche",
+        "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "duration_ms": 363104,
+      "name": "F\u00e3 do Sandu\u00edche",
+      "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
     },
     {
       "added_at": "2026-08-14 03:00:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Club Angel
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,959 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,945 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Tonight](https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Tonight](https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh) | 3:33 |
 | 100 | [The Rhythm](https://open.spotify.com/track/1Ox6mkzti9mPAOMrTXqbfO) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [The Rhythm](https://open.spotify.com/album/2kvGwemv236SbHOpmg1IOl) | 3:00 |
 
-Snapshot ID: `AAAAALhaUx9Iihe2mN8PJgMnp0SBysGS`
+Snapshot ID: `AAAAAGZfPNsqJZUcNLXMebqKk72nNAPc`

@@ -4,7 +4,7 @@
 
 > for the late nights
 
-109 songs - 5 hr 56 min
+110 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Beach Song \- Demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Beach Song \(Demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 | 2025-08-07 |  |
 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 | 2025-08-07 |  |
 | [Blue Stripes](https://open.spotify.com/track/4LIHG1NG2MniJdicvCEg9X) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 3:15 | 2025-08-07 |  |
+| [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 | 2025-08-07 |  |
 | [Braid It Back](https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 3:20 | 2025-08-07 |  |
-| [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 | 2025-08-07 |  |
+| [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 | 2025-08-07 | 2026-08-20 |
 | [Button Up](https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Frederick James](https://open.spotify.com/artist/2RnIV6LQZJMcJHTkMCxmq4) | [Button Up](https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L) | 2:37 | 2025-08-07 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2025-08-07 |  |
 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 | 2025-08-07 |  |

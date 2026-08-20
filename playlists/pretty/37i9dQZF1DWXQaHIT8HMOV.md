@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Gloria Bugie
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,929 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,946 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Totta](https://open.spotify.com/track/0T3rnnZnmL3kR2MfM5QWuM) | [Kataleya & Kandle Music](https://open.spotify.com/artist/420Sfph97HABRumpR1TVTu), [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp) | [Totta](https://open.spotify.com/album/2Hij9Q3rJ0YR3SBnFoCeVW) | 3:12 |
 | 60 | [Mangadalena](https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [Mangadalena](https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv) | 3:14 |
 
-Snapshot ID: `AAAAAE291whpjVqqnAZh10qFp1OR657e`
+Snapshot ID: `AAAAAJzQKi7KUJxZJx/N2J08Ff/P4Vkj`

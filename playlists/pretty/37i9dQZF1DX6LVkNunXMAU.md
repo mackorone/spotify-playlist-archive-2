@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: J18
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,322 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,325 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [verte mejor](https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [verte mejor](https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx) | 2:26 |
 | 100 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
 
-Snapshot ID: `AAAAACZY95uDTlKWFctDfiPzngKg+3c7`
+Snapshot ID: `AAAAALFA2O29rDi9KyML7i/OLzZi8Z0I`

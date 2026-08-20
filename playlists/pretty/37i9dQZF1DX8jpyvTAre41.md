@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Rise Against
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,601 likes - 145 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,591 likes - 145 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 144 | [Love is a Shadow \(feat\. Dear Rouge\)](https://open.spotify.com/track/3kSgB4vqQGA17caGNRxYEt) | [Blonde Diamond](https://open.spotify.com/artist/0skYMbISqV2drnQbJopK8Y), [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Love is a Shadow \(feat\. Dear Rouge\)](https://open.spotify.com/album/38UJtvE5TBEtP1HsWlW5YQ) | 2:57 |
 | 145 | [17 Again](https://open.spotify.com/track/7BKRoiEEKimScyn54DdIuE) | [DAPHNE](https://open.spotify.com/artist/6rufuQR0qbkAvaiNPnWBxi) | [17 Again](https://open.spotify.com/album/1I5oSdywpxfHB14K2RDYgt) | 3:28 |
 
-Snapshot ID: `AAAAAENybq1wVBqGaWshN9EcF+qMq14W`
+Snapshot ID: `AAAAAEthwYT47jIhr84MFxgQwe2lg7TB`

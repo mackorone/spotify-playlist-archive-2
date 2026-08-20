@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604435,
+  "num_followers": 604451,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnOsOek88Lca3AOHUNCXuibUOUW",
+  "snapshot_id": "AAAAAFD2PUZ2yvOmQXZAxCMIwPNte4El",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Is This What I\u2019m Made Of",
         "url": "https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178720,
       "name": "Is This What I\u2019m Made Of",
       "url": "https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Over My Head",
-        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
-      },
-      "artists": [
-        {
-          "name": "Not My Weekend",
-          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "I Think I've Heard This Before",
         "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 152624,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
+      },
+      "artists": [
+        {
+          "name": "Not My Weekend",
+          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Vodka Soda",
-        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Vodka Soda",
-      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Rejects",
         "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 174634,
       "name": "Rejects",
       "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Vodka Soda",
+        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Vodka Soda",
+      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "So Happy",
-        "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 173783,
-      "name": "So Happy",
-      "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Give or Take",
         "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 203444,
       "name": "Give or Take",
       "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "So Happy",
+        "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 173783,
+      "name": "So Happy",
+      "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "FAKE FEELINGS",
         "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185741,
       "name": "FAKE FEELINGS",
       "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 209625,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "INMYFEELINGS",
+        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
+      },
+      "artists": [
+        {
+          "name": "Hungover",
+          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
+        }
+      ],
+      "duration_ms": 212464,
+      "name": "INMYFEELINGS",
+      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "I'M THE MAN (feat. Lauren Sanderson)",
         "url": "https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 162281,
       "name": "I'M THE MAN (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "INMYFEELINGS",
-        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
-      },
-      "artists": [
-        {
-          "name": "Hungover",
-          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
-        }
-      ],
-      "duration_ms": 212464,
-      "name": "INMYFEELINGS",
-      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Nice to Know Ya",
-        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 179454,
-      "name": "Nice to Know Ya",
-      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Circulate",
         "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 159537,
       "name": "Circulate",
       "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Nice to Know Ya",
+        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 179454,
+      "name": "Nice to Know Ya",
+      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "F.O.M.O.",
+        "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "F.O.M.O.",
+      "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "One Zero Zero",
         "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 193912,
       "name": "Forgive (feat. Joe Taylor)",
       "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "F.O.M.O.",
-        "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
-      },
-      "artists": [
-        {
-          "name": "SUCKERPUNCH!",
-          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "F.O.M.O.",
-      "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

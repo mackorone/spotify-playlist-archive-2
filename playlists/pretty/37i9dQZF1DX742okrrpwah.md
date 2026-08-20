@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ayra Starr x Theodora, KATSEYE, TK x GIMS et Becky G au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,956 likes - 64 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,922 likes - 64 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 63 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
 | 64 | [awe awe](https://open.spotify.com/track/1jQktD8FT48iv4Fz11ElaE) | [Diara](https://open.spotify.com/artist/0fppkzuQV4SQqCciw1ofXx), [Young Wolf Beatz](https://open.spotify.com/artist/2vNfZ6uqRZwbyLsrBQgLIt), [iseekarlo](https://open.spotify.com/artist/3j4R4YNDy0bqJ2io0ieObP) | [more sugar](https://open.spotify.com/album/65fsHxaMulfDRIsBH4yWU1) | 3:03 |
 
-Snapshot ID: `AAAAAP7yOduQbsxRPwI1xAyWq2zJGh/9`
+Snapshot ID: `AAAAACW6FXpeXe9Nscx7Cm9Xul7ow0g4`

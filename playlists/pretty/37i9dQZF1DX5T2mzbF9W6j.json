@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112857,
+  "num_followers": 112961,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4PaE7Gr9TefqEqcCQNz8NlVJbH",
+  "snapshot_id": "AAAAAAxyUBufRro7VnyZj5dbC3ZhULZa",
   "tracks": [
     {
       "added_at": "2026-08-14 07:39:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Lepiej ju\u017c by\u0142o",
-        "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 220157,
-      "name": "Lepiej ju\u017c by\u0142o",
-      "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
         "name": "Widz\u0119 Ci\u0119",
         "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 143500,
       "name": "Widz\u0119 Ci\u0119",
       "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
+        "name": "Lepiej ju\u017c by\u0142o",
+        "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 220157,
+      "name": "Lepiej ju\u017c by\u0142o",
+      "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
     }
   ],
   "unique_name": "... ale najpierw kawa",

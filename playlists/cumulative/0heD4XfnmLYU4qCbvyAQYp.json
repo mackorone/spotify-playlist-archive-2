@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Made For Cruising",
+        "url": "https://open.spotify.com/album/6RFCGXVP342Uy9H38kEc8L"
+      },
+      "artists": [
+        {
+          "name": "Silky Vibe",
+          "url": "https://open.spotify.com/artist/4tOHwi0n1qCj5tKL4S52V0"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128562,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/3kQXaFWq16QpxZDkKI7R2k"
+    },
+    {
+      "album": {
         "name": "can you?",
         "url": "https://open.spotify.com/album/06u75g7TcKl5VOLOZnj8Vo"
       },
@@ -1753,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Non ho niente d'intelligente da dire",
+        "url": "https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ"
+      },
+      "artists": [
+        {
+          "name": "Hofmann Orchestra",
+          "url": "https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182636,
+      "name": "Non ho niente d'intelligente da dire",
+      "url": "https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ"
+    },
+    {
+      "album": {
         "name": "Lucy and the Voyager",
         "url": "https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv"
       },
@@ -1844,6 +1880,24 @@
       "duration_ms": 202792,
       "name": "P",
       "url": "https://open.spotify.com/track/0amoXRUE2zKK8BkogS7oDX"
+    },
+    {
+      "album": {
+        "name": "Pain Taught Me Your Name",
+        "url": "https://open.spotify.com/album/4RLyGKU0h23VjtswJADXHV"
+      },
+      "artists": [
+        {
+          "name": "The Divas Five",
+          "url": "https://open.spotify.com/artist/2IKZBpocujc08kPUTKpcfh"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Pain Taught Me Your Name",
+      "url": "https://open.spotify.com/track/3BxezNMRlnYNFhELtUBhUl"
     },
     {
       "album": {
@@ -2870,6 +2924,24 @@
       "duration_ms": 150697,
       "name": "You See It There",
       "url": "https://open.spotify.com/track/6UVPIQHfGmR7N0IAYalkr6"
+    },
+    {
+      "album": {
+        "name": "Youth in the Rearview",
+        "url": "https://open.spotify.com/album/3e8PYfNC7bwlzMPO8OdLul"
+      },
+      "artists": [
+        {
+          "name": "DH Litra",
+          "url": "https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270165,
+      "name": "Youth in the Rearview",
+      "url": "https://open.spotify.com/track/4EH6QCKty7zmXSv6kbUPIk"
     }
   ],
   "url": "https://open.spotify.com/playlist/0heD4XfnmLYU4qCbvyAQYp"

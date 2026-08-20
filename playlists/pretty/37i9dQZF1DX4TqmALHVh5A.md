@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : a6el
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,212 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,206 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [elle sourit](https://open.spotify.com/track/4PaWXATNheu2TRXHBpBO7s) | [mëa](https://open.spotify.com/artist/0uW2PbEqTWGnVQaDD7Wi5c) | [elle sourit](https://open.spotify.com/album/465aNlcKqTUPuAlpTEcqDY) | 3:13 |
 | 50 | [derniers souvenirs du futur](https://open.spotify.com/track/4VgdcxOhDQQbkbJW48kFvk) | [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [derniers souvenirs du futur](https://open.spotify.com/album/4GC6uXzn1gyP2sACCErlhV) | 2:21 |
 
-Snapshot ID: `AAAAAO2s7C0QPL32xQ7CRSiewJKHOWnV`
+Snapshot ID: `AAAAACMTMiyyT7X4UpbnWS8mONmEJzMd`

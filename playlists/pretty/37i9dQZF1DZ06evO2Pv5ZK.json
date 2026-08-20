@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 111885,
+  "num_followers": 111897,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAyDbV4+6XOZXxaJXlFQb3s",
+  "snapshot_id": "aoOggAAAAADYdQexGmvKGBgFjIZUMJ94",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Dreams of Surf",
-      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 222373,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Hymne - Remastered",
-      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antarctica (Remastered)",
         "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 352386,
       "name": "Antarctica Echoes - Remastered",
       "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 402493,
-      "name": "Spanish Harbour",
-      "url": "https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the magic of Cosmos",
         "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 402493,
+      "name": "Spanish Harbour",
+      "url": "https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 331426,
-      "name": "12 O'Clock",
-      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 326653,
       "name": "Main Theme - From \"Chariots of Fire\"",
       "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 331426,
+      "name": "12 O'Clock",
+      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
     },
     {
       "added_at": null,
@@ -781,28 +781,12 @@
         },
         {
           "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "url": "https://open.spotify.com/artist/5F3obtS5W0KnYCvQVWNd83"
         }
       ],
       "duration_ms": 264280,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/5JHt6zZyzZc6OS9Ugz4Gw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The City",
-        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 297666,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
     },
     {
       "added_at": null,
@@ -823,22 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orama",
-        "url": "https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt"
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
       },
       "artists": [
-        {
-          "name": "Vassilis Saleas",
-          "url": "https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj"
-        },
         {
           "name": "Vangelis",
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 223186,
-      "name": "L'enfant",
-      "url": "https://open.spotify.com/track/3vL5oFXB5ZDhYbzwmp3mnc"
+      "duration_ms": 297666,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9"
     }
   ],
   "unique_name": "This Is Vangelis",

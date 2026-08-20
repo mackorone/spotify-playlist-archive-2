@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 220396,
+  "num_followers": 220423,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbuaUgAtehaTwSzlQCf38ZxyMQs",
+  "snapshot_id": "AAAAABNrdV25zTFrofReLu5djDC+rBYr",
   "tracks": [
     {
       "added_at": "2024-08-30 08:25:49",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "C\u00f3mo Me Duele",
-      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Los Locos Del Corrido",
         "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 236640,
       "name": "Agua De T\u00e9",
       "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Escuela De Rancho",
         "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Pisteando Con La Regida",
         "url": "https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Cahuates, Pistaches",
         "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 177053,
       "name": "Cahuates, Pistaches",
       "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Vida Sinaloense",
+        "url": "https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 177346,
+      "name": "Mu\u00e9veme el Pollo",
+      "url": "https://open.spotify.com/track/2gnuSmoVQu8Xqi3DecCpaX"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Vida Sinaloense",
-        "url": "https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 177346,
-      "name": "Mu\u00e9veme el Pollo",
-      "url": "https://open.spotify.com/track/2gnuSmoVQu8Xqi3DecCpaX"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 148562,
       "name": "La Fiesta en Acci\u00f3n",
       "url": "https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Un Fin en Culiac\u00e1n",
         "url": "https://open.spotify.com/album/4x9Oz3RqyQfDslpHrLBXBl"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 154493,
       "name": "Un Fin en Culiac\u00e1n",
       "url": "https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Arrempujala Arremangala",
         "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 197982,
       "name": "Arrempujala Arremangala",
       "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1411,6 +1411,38 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Se Menea Se Menea",
+        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Grandes Exitos \"Reinas Y Brujas\"",
+        "url": "https://open.spotify.com/album/5PMBXQeWRQgGBXfzSaYNIn"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Int\u00e9ntalo",
         "url": "https://open.spotify.com/album/2QGWI5XAUxXEXBfc2QHxbl"
       },
@@ -1431,22 +1463,6 @@
       "duration_ms": 193453,
       "name": "Int\u00e9ntalo",
       "url": "https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Se Menea Se Menea",
-        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1487,6 +1503,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Jaiba",
+      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Mi Historia - Mi Banda El Mexicano",
         "url": "https://open.spotify.com/album/7n5pvyK4eUJxmrcMYlBecR"
       },
@@ -1515,22 +1547,6 @@
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Jaiba",
-      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1659,22 +1675,6 @@
       "duration_ms": 156322,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Grandes Exitos \"Reinas Y Brujas\"",
-        "url": "https://open.spotify.com/album/5PMBXQeWRQgGBXfzSaYNIn"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN"
     }
   ],
   "unique_name": "Mexican Party Anthems",

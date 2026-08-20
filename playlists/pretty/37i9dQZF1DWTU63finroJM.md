@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: THE DO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,572 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,571 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 28 | [Alıştım](https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Alıştım](https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M) | 2:57 |
 | 29 | [Seruppa Kaanom](https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO) | [Joshua Aaron](https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq), [Sanikelama](https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91) | [Seruppa Kaanom](https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT) | 3:46 |
 
-Snapshot ID: `AAAAAKkwbqDAKq9TDe8eJZ3RZ6XYrpEQ`
+Snapshot ID: `AAAAAGEWpNeX5M94MJcRyEgf5YhB2AuQ`

@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 645663,
+  "num_followers": 645682,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdDbY7O/7yj/q1je0Yn51020i2D",
+  "snapshot_id": "AAAAAMU410ARlMK9Ny0tNFzs1H9Me0xz",
   "tracks": [
     {
       "added_at": "2026-08-13 15:32:52",
@@ -851,30 +851,6 @@
     {
       "added_at": "2026-08-13 15:32:52",
       "album": {
-        "name": "Dancin (feat. Luvli) [southstar Remix]",
-        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
-        },
-        {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dancin (feat. Luvli) - southstar Remix",
-      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
-    },
-    {
-      "added_at": "2026-08-13 15:32:52",
-      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 148751,
       "name": "Like A G6 (with Naeleck)",
       "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+    },
+    {
+      "added_at": "2026-08-13 15:32:52",
+      "album": {
+        "name": "Dancin (feat. Luvli) [southstar Remix]",
+        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dancin (feat. Luvli) - southstar Remix",
+      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
     },
     {
       "added_at": "2026-08-13 15:32:52",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-13 15:32:52",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2026-08-13 15:32:52",
-      "album": {
         "name": "This Is The Life",
         "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+    },
+    {
+      "added_at": "2026-08-13 15:32:52",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2026-08-13 15:32:52",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-08-13 15:32:52",
       "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
-    },
-    {
-      "added_at": "2026-08-13 15:32:52",
-      "album": {
         "name": "Heute Nacht",
         "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 204444,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2026-08-13 15:32:52",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2026-08-13 15:32:52",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-08-13 15:32:52",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
-      },
-      "artists": [
-        {
-          "name": "marli",
-          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
-        },
-        {
-          "name": "Philemon",
-          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
-        }
-      ],
-      "duration_ms": 106480,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
-    },
-    {
-      "added_at": "2026-08-13 15:32:52",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2026-08-13 15:32:52",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
+      },
+      "artists": [
+        {
+          "name": "marli",
+          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
+        },
+        {
+          "name": "Philemon",
+          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
+        }
+      ],
+      "duration_ms": 106480,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
     },
     {
       "added_at": "2026-08-13 15:32:52",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2026-08-13 15:32:52",
       "album": {
-        "name": "Get Ur Freak On",
-        "url": "https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Para\u00e7ek",
-          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
-        }
-      ],
-      "duration_ms": 124203,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz"
-    },
-    {
-      "added_at": "2026-08-13 15:32:52",
-      "album": {
         "name": "HURENSOHN",
         "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
@@ -1939,6 +1919,26 @@
     {
       "added_at": "2026-08-13 15:32:52",
       "album": {
+        "name": "Get Ur Freak On",
+        "url": "https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Para\u00e7ek",
+          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+        }
+      ],
+      "duration_ms": 124203,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz"
+    },
+    {
+      "added_at": "2026-08-13 15:32:52",
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
       },
@@ -1955,30 +1955,6 @@
       "duration_ms": 152826,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2026-08-13 15:32:52",
-      "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2026-08-13 15:32:52",
@@ -2003,6 +1979,30 @@
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+    },
+    {
+      "added_at": "2026-08-13 15:32:52",
+      "album": {
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2026-08-13 15:32:52",

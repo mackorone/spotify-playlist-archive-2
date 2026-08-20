@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 106416,
+  "num_followers": 106445,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAADg7OkajWzwicJVKeoPjEfG",
+  "snapshot_id": "aoOggAAAAACFcJNMGMePHVUZGj5UJR2/",
   "tracks": [
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "La La (feat. Ckay)",
-      "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "La La (feat. Ckay)",
+      "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
     },
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Betty Butter",
+        "url": "https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 129802,
+      "name": "Betty Butter",
+      "url": "https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
         "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 204277,
       "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
       "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Betty Butter",
-        "url": "https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 129802,
-      "name": "Betty Butter",
-      "url": "https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI"
     }
   ],
   "unique_name": "This Is Davido",

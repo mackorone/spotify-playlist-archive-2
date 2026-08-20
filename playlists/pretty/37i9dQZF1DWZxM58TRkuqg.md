@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Budi Doremi
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,738 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,711 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 | 100 | [Tear](https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Tear](https://open.spotify.com/album/34NhTGfoWNr4W3oKx3HA7g) | 4:09 |
 
-Snapshot ID: `AAAAAJ8ho3gAJHg/RcRxU0sbV55GMLA5`
+Snapshot ID: `AAAAAD81IxMvGtxVZFo0WWbiDrbBXMEw`

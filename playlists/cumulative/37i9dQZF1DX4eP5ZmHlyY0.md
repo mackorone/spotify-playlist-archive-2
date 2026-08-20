@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ZEROBASEONE
 
-1,077 songs - 2 day 10 hr 21 min
+1,080 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [BEYOND THE SKY](https://open.spotify.com/track/19MFBrZX4xZkfk5GE5kMGb) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [BEYOND THE SKY](https://open.spotify.com/album/3nVNNK8x7GHYuRB2vk0BnS) | 3:27 | 2026-08-05 |  |
 | [BFX](https://open.spotify.com/track/5Pp1hO78VmkTenjTtmRryl) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BFX](https://open.spotify.com/album/6jkV59Memx1CaFLE7dd1vQ) | 3:50 | 2025-08-28 | 2025-09-16 |
 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1wPgCPMdqb1YA7tyE079xd) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-17 | 2025-10-25 |
+| [BiiiG](https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq) | 2:44 | 2026-08-19 |  |
 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-10-01 | 2025-03-07 |
 | [Black Flame](https://open.spotify.com/track/15xZH2mWpiJuUfdyKzmfN5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/5KPZPRjJgWTCAUgE8b4EkL) | 3:29 | 2025-10-10 | 2025-12-03 |
 | [Black Flame](https://open.spotify.com/track/5tYboephXEgc81bBkRCxQt) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/0Psbws3S4t92KPAWD61TGC) | 3:31 | 2025-12-02 | 2026-03-13 |
@@ -124,6 +125,7 @@
 | [Bon Voyage](https://open.spotify.com/track/7BHlLqdDjNlweYXdmAeFzN) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 3:08 | 2025-04-01 | 2025-05-12 |
 | [BOOM BASH](https://open.spotify.com/track/22mbbvEHy4mRNuz4HbfCgo) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BOOM BASH](https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk) | 3:38 | 2025-04-17 | 2025-06-04 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 | 2024-10-02 |
+| [Boom Boom Boom](https://open.spotify.com/track/4jCNLZieeYkijwEXXFeixK) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Boom Boom Boom](https://open.spotify.com/album/02kjR76VrVOyF4yrFEe5mw) | 2:55 | 2026-08-19 |  |
 | [BOoM×2 DROP](https://open.spotify.com/track/3NusltMWyvzSJKukJrfyWP) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [ハジマリCOLOR](https://open.spotify.com/album/1bB5Mmp1ek91sv1kV6hRfS) | 2:36 | 2026-07-23 |  |
 | [BOOST](https://open.spotify.com/track/0aZo9k3b4kOrtq36ZmcJLh) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BOOST](https://open.spotify.com/album/1f1Dqbf05nnLcoCPVOn9BN) | 3:44 | 2025-10-12 | 2025-10-25 |
 | [Born Savage](https://open.spotify.com/track/715UWzMdUnVbU30ZppNDYx) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/3X6J7aZDwaAaKPxb3X8wyL) | 2:52 | 2026-04-13 |  |
@@ -206,7 +208,7 @@
 | [Daybreak](https://open.spotify.com/track/1KTF3VM3K8BG02jMS6EeJk) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Daybreak](https://open.spotify.com/album/0DWHw48fL8FFeVUOjgekS6) | 3:35 | 2025-03-19 | 2025-03-26 |
 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 | 2024-02-20 | 2024-05-29 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-05-29 |
-| [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 | 2026-05-11 |  |
+| [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 | 2026-05-11 | 2026-08-20 |
 | [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 | 2026-03-17 | 2026-08-11 |
 | [Dealio!?](https://open.spotify.com/track/0QiNhV9XSsnQxVWzZtjiO5) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/55rN1Mparq98YdjAH8PrbD) | 3:02 | 2025-05-06 | 2025-07-16 |
 | [Dear DIVA](https://open.spotify.com/track/4vCZibK8wRUrHgHQ58FkWN) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [Dear DIVA](https://open.spotify.com/album/4yQDzvSV87kmm3GDg1G6lq) | 3:28 | 2025-11-18 | 2025-12-10 |
@@ -383,7 +385,7 @@
 | [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 | 2025-06-10 | 2025-10-21 |
 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 | 2025-10-20 | 2026-05-12 |
 | [Homeboys](https://open.spotify.com/track/5dK9B2ItDXvTIGYMfDZrrS) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/1R7e1FHHGKNtT6uWqok07p) | 3:19 | 2025-01-07 | 2025-02-12 |
-| [HOOK](https://open.spotify.com/track/2s8xjkUjilmy42qhdvuHio) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [1.Got Hooked: An Addictive Symphony](https://open.spotify.com/album/4CwdD6lr6ITamrq6jHXa9l) | 2:59 | 2026-04-13 |  |
+| [HOOK](https://open.spotify.com/track/2s8xjkUjilmy42qhdvuHio) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [1.Got Hooked: An Addictive Symphony](https://open.spotify.com/album/4CwdD6lr6ITamrq6jHXa9l) | 2:59 | 2026-04-13 | 2026-08-20 |
 | [HOOKED](https://open.spotify.com/track/6ft8y5BcL5tvLxe0z9H5Pn) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [HOOKED](https://open.spotify.com/album/06xraIG7LKvqtBQX7jsgo5) | 3:19 | 2026-02-17 | 2026-02-25 |
 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 | 2026-03-31 | 2026-04-10 |
 | [Hot summer](https://open.spotify.com/track/7MqRkrtQdHUfKjW1nlxl2v) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [まさか泣くとは思わなかった](https://open.spotify.com/album/3YmV4jIJtEzl0fbRDag6KX) | 2:54 | 2025-05-27 | 2025-09-01 |
@@ -429,6 +431,7 @@
 | [INFERNO](https://open.spotify.com/track/212BPxhwlB49xBb19xrEoh) | [RIKU](https://open.spotify.com/artist/5nnTRY8f0Gi8rIC9bgrnZG), [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [INFERNO](https://open.spotify.com/album/4NqvSNYyzoeddxkQgSdTvX) | 3:41 | 2024-01-31 | 2024-02-07 |
 | [Interlunar](https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 2:41 | 2025-06-17 | 2025-08-11 |
 | [INVADER](https://open.spotify.com/track/50QBT1gxmuriNWuIEQLBW5) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [INVADER \(Special Edition\)](https://open.spotify.com/album/3YC46HRG6lymxTtlkqKzrz) | 2:51 | 2026-04-14 | 2026-04-20 |
+| [INVINCIBLE](https://open.spotify.com/track/6ltp1Tk7Ft0TwulfxkfwI9) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT / INVINCIBLE](https://open.spotify.com/album/2ciUD1l1F2cCRDgFiBgd3w) | 2:52 | 2026-08-19 |  |
 | [INZM](https://open.spotify.com/track/55paYSUx1VJB5kUHljI8ov) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [INZM](https://open.spotify.com/album/0PXVVti0BzJC5atBVVFMNh) | 3:30 | 2024-08-22 | 2024-09-25 |
 | [It's OK](https://open.spotify.com/track/7hdokEsjFDV69eUNNqsIGj) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [It's OK](https://open.spotify.com/album/0RBiKagh6JgwDgnPAYeywB) | 3:34 | 2025-03-09 | 2025-03-26 |
 | [Itty Bitty](https://open.spotify.com/track/5WRIf37zfCTvyiEgghTrLo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign Special Album 'Itty Bitty'](https://open.spotify.com/album/0PQnD1pNMiuDYuxuNL9tht) | 2:41 | 2025-06-13 | 2025-10-01 |
@@ -946,7 +949,7 @@
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-06-28 | 2025-09-22 |
 | [X to Z \(Next to me\) \(Japanese ver.\)](https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom) | [AEN](https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ) | [A NEW ERA OF NOW](https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ) | 3:05 | 2026-08-05 |  |
 | [XTC](https://open.spotify.com/track/76qI8ihfONou0gth5gHW18) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [XTC](https://open.spotify.com/album/6rwbsr75hgHJ6x8WX2cul2) | 2:52 | 2026-01-15 | 2026-02-18 |
-| [YANKEE SQUAT](https://open.spotify.com/track/2FjcwZjJNXkTPsQheG1buR) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT](https://open.spotify.com/album/5LWK0q6Ishn7GskS76W3r0) | 2:37 | 2026-07-14 |  |
+| [YANKEE SQUAT](https://open.spotify.com/track/2FjcwZjJNXkTPsQheG1buR) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT](https://open.spotify.com/album/5LWK0q6Ishn7GskS76W3r0) | 2:37 | 2026-07-14 | 2026-08-20 |
 | [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 | 2026-05-18 |  |
 | [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 | 2025-09-01 |
 | [YG](https://open.spotify.com/track/69DgzXRvRI0YHz6UBv6vjK) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [YG](https://open.spotify.com/album/2UjkJVkg3KwglkkzGvRMWo) | 3:52 | 2024-06-12 | 2024-06-19 |

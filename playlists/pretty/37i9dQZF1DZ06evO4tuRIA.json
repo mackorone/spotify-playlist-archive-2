@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 106852,
+  "num_followers": 106882,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAADu0U8nOFXTmlVHjIsxvMIT",
+  "snapshot_id": "aoOggAAAAAAJKrbIceYz3lPHpyvEjaDV",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Charal",
-        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         },
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 202026,
-      "name": "El Charal",
-      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
+      "duration_ms": 162013,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
       "duration_ms": 210750,
       "name": "PERSONAL",
       "url": "https://open.spotify.com/track/3UCeBT8e9J8tPombqlPVR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Charal",
+        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "El Charal",
+      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
     },
     {
       "added_at": null,
@@ -647,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "LOS MIOS",
+      "url": "https://open.spotify.com/track/7yVDlQ0vxFMXteqs2m0aQe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo con Tololoche Vol. 1",
         "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
@@ -659,22 +699,6 @@
       "duration_ms": 174739,
       "name": "Pancho Conos",
       "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "WACHA",
-      "url": "https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH"
     },
     {
       "added_at": null,
@@ -727,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEGENDARIO",
         "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
@@ -756,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 207750,
-      "name": "ARROGANGSTER",
-      "url": "https://open.spotify.com/track/1XfOIJfe94VagEsI8xjj0t"
+      "duration_ms": 119000,
+      "name": "WACHA",
+      "url": "https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-885 songs - 1 day 19 hr 58 min
+886 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Light It Up](https://open.spotify.com/track/6ibayfvVOby1NSKJFohtZp) | [Robin Hustin](https://open.spotify.com/artist/6FPDULwgllPquFdqdzj5gi), [TobiMorrow](https://open.spotify.com/artist/7CSAJPH9eLCOvPc9jn1I6e), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Light It Up](https://open.spotify.com/album/4GbTZ3H4jqJPAZGjKiu8xS) | 3:05 | 2023-08-08 | 2024-01-27 |
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 | 2023-04-28 |
 | [Lighthouse](https://open.spotify.com/track/1MFnrx6HSx4whenAmvJtna) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Lighthouse](https://open.spotify.com/album/6iguOPqXcNx3qOm8BuelPE) | 2:57 | 2025-03-13 |  |
+| [Like A Melody](https://open.spotify.com/track/6YOQJb2JpFsbfzIJqfZMvr) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jozels](https://open.spotify.com/artist/0U1vPNbcJ2OJIcqFmhf3dy), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Like A Melody](https://open.spotify.com/album/73GOXxckx0pAlOtrVrpmY1) | 3:23 | 2026-08-19 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 | 2023-04-28 |
 | [Like Fire](https://open.spotify.com/track/7pbakZI6q7dgCHdKgHiNKE) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4), [Apollo On The Run](https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM) | [Like Fire](https://open.spotify.com/album/0KTtvRVVdZ59RtMUnhiEDZ) | 3:30 | 2025-05-15 |  |
 | [Like Rain](https://open.spotify.com/track/5CAhPF67F9jxoNsASa48Lq) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Like Rain](https://open.spotify.com/album/6NLgMBrfFOymoRQr560dmy) | 3:25 | 2024-09-23 |  |

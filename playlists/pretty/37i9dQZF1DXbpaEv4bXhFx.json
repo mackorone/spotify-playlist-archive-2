@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdikYqImFBCepm9gT08QWQ2nhDq",
+  "snapshot_id": "AAAAAPZnE/TS2GMFthZKRDH8akOR12B0",
   "tracks": [
     {
       "added_at": "2026-07-03 07:30:31",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
+        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "\ube57\uc18c\ub9ac - Acoustic",
+      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
-        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "\ube57\uc18c\ub9ac - Acoustic",
-      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
         "name": "My Liberation Notes OST Part 9",
         "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
         }
       ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+      "duration_ms": 260682,
+      "name": "\"L\"",
+      "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "\"L\"",
-        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [
         {
-          "name": "The Volunteers",
-          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 260682,
-      "name": "\"L\"",
-      "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "Burn the Memory",
+        "url": "https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW"
+      },
+      "artists": [
+        {
+          "name": "seizetheday",
+          "url": "https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB"
+        },
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+        }
+      ],
+      "duration_ms": 211061,
+      "name": "With an Umbrella (feat. EZ Kim)",
+      "url": "https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 192466,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "Burn the Memory",
-        "url": "https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW"
-      },
-      "artists": [
-        {
-          "name": "seizetheday",
-          "url": "https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB"
-        },
-        {
-          "name": "EZ Kim",
-          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
-        }
-      ],
-      "duration_ms": 211061,
-      "name": "With an Umbrella (feat. EZ Kim)",
-      "url": "https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof"
     },
     {
       "added_at": "2026-07-03 07:30:31",

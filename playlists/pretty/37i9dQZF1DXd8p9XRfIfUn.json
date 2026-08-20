@@ -1,32 +1,32 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81312,
+  "num_followers": 81316,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMEQ9XGZi+8V3pb6QubHsXM1Bsj/",
+  "snapshot_id": "AAAAAKe5ucA8cGICrBDj50cf40HH+Rv9",
   "tracks": [
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Rara Vez",
-        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 128677,
-      "name": "Rara Vez",
-      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -47,22 +47,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "Rara Vez",
+        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 128677,
+      "name": "Rara Vez",
+      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -675,6 +675,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
-      },
-      "artists": [
-        {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "SokeThugPro",
-          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -947,6 +947,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "N\u00facleo",
+        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 197312,
+      "name": "Codigo Secreto",
+      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "N\u00facleo",
-        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 197312,
-      "name": "Codigo Secreto",
-      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
     },
     {
       "added_at": "2025-09-18 23:00:14",

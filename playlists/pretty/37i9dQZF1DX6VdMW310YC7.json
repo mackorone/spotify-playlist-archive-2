@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3894902,
+  "num_followers": 3894738,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABwhNX23zHMGfMRQcvG4fI0wCX6k",
+  "snapshot_id": "AAAAANDlf+CeDatS43b7y7fkTFxw1Byl",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:13",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Lost In The Woods",
         "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 183934,
       "name": "Lost In The Woods",
       "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 258517,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/4g3MstLJUccjMJMxLTRm5Y"
-      },
-      "artists": [
-        {
-          "name": "Joachim Pastor",
-          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
-        },
-        {
-          "name": "PACT",
-          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Perseverance",
-      "url": "https://open.spotify.com/track/7DLmnCToTHfr9O0LKvWojH"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "How Will I Know?",
         "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 262008,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/4g3MstLJUccjMJMxLTRm5Y"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "PACT",
+          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/7DLmnCToTHfr9O0LKvWojH"
     },
     {
       "added_at": "2026-08-07 04:01:13",

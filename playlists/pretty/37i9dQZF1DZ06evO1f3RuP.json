@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAuZeOKKzkXE17GmBmkipoL",
+  "snapshot_id": "aoOggAAAAAAsvNKXboYo/4RV+g0QO+Z4",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TELLY BAG",
         "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 114484,
       "name": "TELLY BAG",
       "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Push N Pull",
         "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 162580,
       "name": "Push N Pull",
       "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi_TEK MZK, VOL. 1",
-        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
-      },
-      "artists": [
-        {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "PURPLE APE",
-      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind Of Malevolence",
         "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 139090,
       "name": "Enter The Chat",
       "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hi_TEK MZK, VOL. 1",
+        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "PURPLE APE",
+      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
     },
     {
       "added_at": null,

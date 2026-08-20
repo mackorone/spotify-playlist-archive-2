@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 64 | [Smoke Clouds](https://open.spotify.com/track/4j6a2JkoaJ8hDRxyTeH2Sk) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:57 |
 | 65 | [Running Away](https://open.spotify.com/track/425PpIsnEbeVtMp6GJj7jX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 4:09 |
 | 66 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 |
-| 67 | [Wolves](https://open.spotify.com/track/07TgFELXJuTNKjqOnmAjzF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:21 |
-| 68 | [Last Of The Whiskey](https://open.spotify.com/track/6Jbe9kGIZ8rFdpIzBBLYHG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:31 |
+| 67 | [Last Of The Whiskey](https://open.spotify.com/track/6Jbe9kGIZ8rFdpIzBBLYHG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:31 |
+| 68 | [Wolves](https://open.spotify.com/track/07TgFELXJuTNKjqOnmAjzF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:21 |
 | 69 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:08 |
 | 70 | [From Me To You I Hate Everybody](https://open.spotify.com/track/0H8peJeFlnNVmnkljyQBuz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:36 |
 | 71 | [Homecoming](https://open.spotify.com/track/08TxwnO0bctWpQKlpUYrgV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:52 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
 | 97 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 
-Snapshot ID: `AcZ75AAAAABrC0ihx4PBuYRuoT8slo91`
+Snapshot ID: `AcaBhAAAAACpx1pyZKQ+oGUoxhc9iKDA`

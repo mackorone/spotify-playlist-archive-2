@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34981,
+  "num_followers": 34979,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6A1+NvysetWw8V66Ul63+nMqqg",
+  "snapshot_id": "AAAAAEnrQjJk1ksMHiICTKe10KBGJiHJ",
   "tracks": [
     {
       "added_at": "2026-08-04 12:28:31",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gaslini",
+          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cio che e' scritto nel vento",
+      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gaslini",
-          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cio che e' scritto nel vento",
-      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Sogni",
-        "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
-      },
-      "artists": [
-        {
-          "name": "I PATAGARRI",
-          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
-        }
-      ],
-      "duration_ms": 154223,
-      "name": "Sogni",
-      "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Sogni",
+        "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
+      },
+      "artists": [
+        {
+          "name": "I PATAGARRI",
+          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
+        }
+      ],
+      "duration_ms": 154223,
+      "name": "Sogni",
+      "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
-      },
-      "artists": [
-        {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "La ragazza dalla pelle di luna",
         "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1203,38 +1203,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Cantare Pieranunzi",
-        "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ranalli",
-          "url": "https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK"
-        },
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "GIACOMO SERINO",
-          "url": "https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3"
-        },
-        {
-          "name": "Cesare Mangiocavallo",
-          "url": "https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b"
-        },
-        {
-          "name": "Giuseppe Romagnoli",
-          "url": "https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L"
-        }
-      ],
-      "duration_ms": 251109,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 278773,
       "name": "Musica e Fumo",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Cantare Pieranunzi",
+        "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ranalli",
+          "url": "https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK"
+        },
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "GIACOMO SERINO",
+          "url": "https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3"
+        },
+        {
+          "name": "Cesare Mangiocavallo",
+          "url": "https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b"
+        },
+        {
+          "name": "Giuseppe Romagnoli",
+          "url": "https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L"
+        }
+      ],
+      "duration_ms": 251109,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+      },
+      "artists": [
+        {
+          "name": "Alice Ricciardi",
+          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Le Tue Mani",
+      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Comes Love",
-        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
-      },
-      "artists": [
-        {
-          "name": "Alice Ricciardi",
-          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
-        }
-      ],
-      "duration_ms": 292720,
-      "name": "Le Tue Mani",
-      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "La Strada Invisibile",
-        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
-      },
-      "artists": [
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        },
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 288616,
-      "name": "Tuareg",
-      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Trama Latina",
         "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+        "name": "Contigo Mi Vida",
+        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
       },
       "artists": [
         {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
         }
       ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+      "duration_ms": 249720,
+      "name": "Contigo Mi Vida",
+      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
     }
   ],
   "unique_name": "Jazz Italia",

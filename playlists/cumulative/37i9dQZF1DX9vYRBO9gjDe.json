@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30028\u670816\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30028\u670818\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -17054,7 +17054,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 188432,
       "name": "Comets + Gold",
       "url": "https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f"
@@ -32330,7 +32330,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "GO! GO! (Agent Kim Reactivated : Original Television Soundtrack) (Instrumental)",
       "url": "https://open.spotify.com/track/5SALBvHUU0vWQJwOHEq1Hb"
@@ -47400,7 +47400,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 286493,
       "name": "LA\uff65LA\uff65LA LOVE SONG",
       "url": "https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo"
@@ -99467,6 +99467,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30ed\u30c6\u30a3\u30b7\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/696jUAIpCGgYV6kmSuCgsv"
+      },
+      "artists": [
+        {
+          "name": "Akasick",
+          "url": "https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "you&i",
+      "url": "https://open.spotify.com/track/1wdW2U0jxre5f2GMcR7tiF"
+    },
+    {
+      "album": {
         "name": "YOU&\u611bHeaven",
         "url": "https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5"
       },
@@ -99550,7 +99568,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 124960,
       "name": "You've Got a Friend in Me - Japanese Version",
       "url": "https://open.spotify.com/track/2wkuVfVBB8RlTNWiXApcSL"
@@ -104032,7 +104050,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 257066,
       "name": "\u3055\u3088\u306a\u3089\u30a8\u30ec\u30b8\u30fc",
       "url": "https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI"
@@ -109618,7 +109636,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 274293,
       "name": "\u30a2\u30f3\u30d1\u30f3\u30de\u30f3\u305f\u3044\u305d\u3046",
       "url": "https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4"
@@ -130758,7 +130776,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 248400,
       "name": "\u541b\u30bb\u30f3\uff01",
       "url": "https://open.spotify.com/track/5qgxx7wxqBRL9c3BXtklRt"
@@ -136198,7 +136216,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 247573,
       "name": "\u611b\u306f\u52dd\u3064",
       "url": "https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0"
@@ -140180,7 +140198,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 284826,
       "name": "\u697d\u5712\u30d9\u30a4\u30d9\u30fc",
       "url": "https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs"
@@ -149038,7 +149056,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 279200,
       "name": "\u9053",
       "url": "https://open.spotify.com/track/6fZhokT7ADLeCcOyKL914T"
@@ -149074,7 +149092,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 216013,
       "name": "\u9053",
       "url": "https://open.spotify.com/track/4nYtqZDscX8TLvR4p0ON1s"

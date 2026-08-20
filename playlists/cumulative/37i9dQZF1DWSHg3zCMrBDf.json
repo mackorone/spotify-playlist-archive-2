@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: Sarkodie ",
+  "description": "The hottest tracks in Ghana. Cover: AratheJay",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "Amazing Grace (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1rTRsNoNdFXhLkmXflhPwS"
+    },
+    {
+      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -888,6 +910,32 @@
       "duration_ms": 171073,
       "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
       "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
+    },
+    {
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166150,
+      "name": "B4 B4 (with Mayorkun & FOLA)",
+      "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
     },
     {
       "album": {
@@ -2310,7 +2358,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -2925,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166034,
+      "name": "FAMAME",
+      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
       },
@@ -3536,6 +3602,24 @@
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+    },
+    {
+      "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "album": {
@@ -5379,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233965,
+      "name": "METICULOUS",
+      "url": "https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9"
       },
@@ -6474,7 +6576,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 119986,
       "name": "One Two",
       "url": "https://open.spotify.com/track/7Aj7gSqpF1HdkftImtgil8"
@@ -6664,7 +6766,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 127738,
       "name": "Pampaso",
       "url": "https://open.spotify.com/track/0PsX4MduB5wedErY7e6nSs"
@@ -8328,7 +8430,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 181391,
       "name": "Spend Dat",
       "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
@@ -8576,7 +8678,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 156473,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"

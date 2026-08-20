@@ -1045,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/6p0HoxC5QE98NkCSTIngpN"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226758,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/2ZxAVcdUhb3yoq1UAfOE4K"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3qjvs5d8MHDjkHnIWP2bIq"
       },

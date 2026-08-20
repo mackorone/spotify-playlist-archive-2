@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10976,
+  "num_followers": 10980,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAACsQTIokFD+sv6ufR/oSgqb",
+  "snapshot_id": "aoOggAAAAABWYIN+juRIrXxq+N6lYKOc",
   "tracks": [
     {
       "added_at": null,
@@ -147,30 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasie",
-        "url": "https://open.spotify.com/album/50iCOO0HuCsLzLF06UzMpT"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Nicola Benedetti",
-          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
-        },
-        {
-          "name": "Alexei Grynyuk",
-          "url": "https://open.spotify.com/artist/5fGBSGw5HQGK9tL5TqqX2D"
-        }
-      ],
-      "duration_ms": 590293,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/20x4R2lnC7B3ec3wl3tPyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Choral Music",
         "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
@@ -195,30 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Alina",
-        "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alexander Malter",
-          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
-        },
-        {
-          "name": "Dietmar Schwalke",
-          "url": "https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm"
-        }
-      ],
-      "duration_ms": 552866,
-      "name": "Spiegel im Spiegel (Version for Cello & Piano) - Version for Cello and Piano",
-      "url": "https://open.spotify.com/track/7z88hLSesdUzt84MsPuAil"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -239,6 +191,30 @@
       "duration_ms": 688413,
       "name": "Fratres",
       "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Alina",
+        "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alexander Malter",
+          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
+        },
+        {
+          "name": "Dietmar Schwalke",
+          "url": "https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm"
+        }
+      ],
+      "duration_ms": 552866,
+      "name": "Spiegel im Spiegel (Version for Cello & Piano) - Version for Cello and Piano",
+      "url": "https://open.spotify.com/track/7z88hLSesdUzt84MsPuAil"
     },
     {
       "added_at": null,
@@ -518,11 +494,35 @@
         {
           "name": "Jaan-Eik Tulve",
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        },
+        {
+          "name": "Ene Salum\u00e4e",
+          "url": "https://open.spotify.com/artist/1kA5RkIt8z3OIRNkhTDQcJ"
         }
       ],
-      "duration_ms": 239206,
-      "name": "Kleine Litanei",
-      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+      "duration_ms": 285493,
+      "name": "F\u00fcr Jan van Eyck",
+      "url": "https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
+      },
+      "artists": [
+        {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 126090,
+      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
+      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summa",
-        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
-      },
-      "artists": [
-        {
-          "name": "Cello Octet Amsterdam",
-          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 126090,
-      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
-      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -602,15 +582,11 @@
         {
           "name": "Jaan-Eik Tulve",
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        },
-        {
-          "name": "Ene Salum\u00e4e",
-          "url": "https://open.spotify.com/artist/1kA5RkIt8z3OIRNkhTDQcJ"
         }
       ],
-      "duration_ms": 285493,
-      "name": "F\u00fcr Jan van Eyck",
-      "url": "https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO"
+      "duration_ms": 239206,
+      "name": "Kleine Litanei",
+      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
     },
     {
       "added_at": null,
@@ -739,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
       "artists": [
         {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         },
         {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -811,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
       "artists": [
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,
@@ -883,66 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
-        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Nadia Vasileva",
-          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
-        }
-      ],
-      "duration_ms": 509994,
-      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
-      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
-        },
-        {
-          "name": "Tatiana Grindenko",
-          "url": "https://open.spotify.com/artist/0ObLZWHbVP90nhaGJ9FhSI"
-        },
-        {
-          "name": "Alfred Schnittke",
-          "url": "https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z"
-        },
-        {
-          "name": "Lithuanian Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/0vFb3LsJFAOgLo3s8XI4B2"
-        },
-        {
-          "name": "Saulus Sondeckis",
-          "url": "https://open.spotify.com/artist/0kY7yfsiB2kI3P5Wumn1CB"
-        }
-      ],
-      "duration_ms": 576360,
-      "name": "Tabula rasa: I. Ludus. Con moto - Live",
-      "url": "https://open.spotify.com/track/62a9yYZe25B02RPN8ymjQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -983,6 +899,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Tatiana Grindenko",
+          "url": "https://open.spotify.com/artist/0ObLZWHbVP90nhaGJ9FhSI"
+        },
+        {
+          "name": "Alfred Schnittke",
+          "url": "https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z"
+        },
+        {
+          "name": "Lithuanian Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/0vFb3LsJFAOgLo3s8XI4B2"
+        },
+        {
+          "name": "Saulus Sondeckis",
+          "url": "https://open.spotify.com/artist/0kY7yfsiB2kI3P5Wumn1CB"
+        }
+      ],
+      "duration_ms": 576360,
+      "name": "Tabula rasa: I. Ludus. Con moto - Live",
+      "url": "https://open.spotify.com/track/62a9yYZe25B02RPN8ymjQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
+        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Nadia Vasileva",
+          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
+        }
+      ],
+      "duration_ms": 509994,
+      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
+      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Choral Music",
         "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
@@ -1007,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Mommy\u2019s Kiss",
-        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 71613,
-      "name": "Mommy\u2019s Kiss",
-      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -1043,6 +999,26 @@
       "duration_ms": 97693,
       "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
       "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Mommy\u2019s Kiss",
+        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 71613,
+      "name": "Mommy\u2019s Kiss",
+      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
     },
     {
       "added_at": null,
@@ -1163,6 +1139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 128866,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 4, Tanz der Entenk\u00fcken",
+      "url": "https://open.spotify.com/track/1xUwdWqIcAuGtOrIwbbdLF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Summa",
         "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
       },
@@ -1176,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 86124,
-      "name": "Missa Brevis - Sanctus",
-      "url": "https://open.spotify.com/track/3iUFTyDSMFumFUbyyfKsAB"
+      "duration_ms": 263526,
+      "name": "Da Pacem Domine",
+      "url": "https://open.spotify.com/track/6D6O9fjxuJLixxzEHe4Kbn"
     }
   ],
   "unique_name": "This Is Arvo P\u00e4rt (2)",

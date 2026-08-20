@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Zebrahead
 
-2,230 songs - 5 day 9 hr 49 min
+2,231 songs - 5 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1302,6 +1302,7 @@
 | [N.O.V.A](https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [N.O.V.A](https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487) | 2:40 | 2025-07-31 | 2025-08-15 |
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-18 | 2025-07-04 |
 | [Natural Magick](https://open.spotify.com/track/3NonGoCZn40ClxWESdsDjS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Natural Magick](https://open.spotify.com/album/5k5TALqbCDXxUpwSin96Ys) | 4:01 | 2024-01-04 | 2024-01-19 |
+| [Necessary](https://open.spotify.com/track/5Y4xHIbDrD9tIY4N0N5BZS) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Necessary](https://open.spotify.com/album/3qznG6GOgizdrbGWDg1GJb) | 3:22 | 2026-08-17 |  |
 | [Neighbors Blues](https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 5:04 | 2026-07-09 | 2026-08-18 |
 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 | 2024-01-18 | 2024-05-03 |
 | [Neon River](https://open.spotify.com/track/4kiONbxFgnEL1ljpUD1eZb) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Neon River](https://open.spotify.com/album/2F0LXK6UAD073hBt3y4uf7) | 4:12 | 2024-02-01 | 2024-02-16 |

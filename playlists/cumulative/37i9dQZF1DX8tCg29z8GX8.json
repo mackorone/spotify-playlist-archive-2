@@ -5169,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166034,
+      "name": "FAMAME",
+      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
+    },
+    {
+      "album": {
         "name": "Fanta My Baby",
         "url": "https://open.spotify.com/album/4VlvdugYHuFC4gEKfo04pd"
       },
@@ -15214,7 +15232,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 156473,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"

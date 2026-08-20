@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,071 likes - 165 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,194 likes - 165 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 164 | [Radiant Silence](https://open.spotify.com/track/6QNo0yq75ze6HlBrbdvf5I) | [Ambient Eternal](https://open.spotify.com/artist/7HeEzWQeYDfoVJY5y5yNAR) | [Radiant Silence](https://open.spotify.com/album/5OO46Ywofy5hoCyNjZxWs7) | 2:40 |
 | 165 | [Equinox](https://open.spotify.com/track/3quLPTvP34Ob4aklp5oKRZ) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Equinox](https://open.spotify.com/album/4a1HVdwfNdVVofoxjEmd6O) | 2:29 |
 
-Snapshot ID: `AAAAAF01lnmFibigHQJmD2FRJM3cGi47`
+Snapshot ID: `AAAAAF00QwyxhQCsXKCDUeMU1we7WLC1`

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Air Bender",
+        "url": "https://open.spotify.com/album/3isjY6JhRehIc3LDIuyGn7"
+      },
+      "artists": [
+        {
+          "name": "Solar Collective",
+          "url": "https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146667,
+      "name": "Air Bender",
+      "url": "https://open.spotify.com/track/0JNlXzO2SDzd6H8NCUXcI9"
+    },
+    {
+      "album": {
         "name": "Airglow",
         "url": "https://open.spotify.com/album/5AV8HyK3KDVBAtkSVYhHau"
       },
@@ -2115,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Blue Meridian",
+        "url": "https://open.spotify.com/album/39lBdfaVWtehrLahsSrR0b"
+      },
+      "artists": [
+        {
+          "name": "Auric Drift",
+          "url": "https://open.spotify.com/artist/2FtRuLcavPqy8uHz3UAxMI"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111522,
+      "name": "Blue Meridian",
+      "url": "https://open.spotify.com/track/1nk89wBnTJdOTWgDHu4nyJ"
+    },
+    {
+      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6qYMFFmE4FRy6V482Fo5Fn"
       },
@@ -3200,6 +3236,24 @@
       "duration_ms": 152308,
       "name": "circles",
       "url": "https://open.spotify.com/track/5PEzT7NREhifSvdJLkw2Ej"
+    },
+    {
+      "album": {
+        "name": "Circuit Sap",
+        "url": "https://open.spotify.com/album/7GZwzqxKqG9tryOHvAjqZ3"
+      },
+      "artists": [
+        {
+          "name": "Glitch Fauna",
+          "url": "https://open.spotify.com/artist/2Xjiry5uKchcTkUVSn6PTs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164594,
+      "name": "Circuit Sap",
+      "url": "https://open.spotify.com/track/4xXz0UGjX2a9tcRumCq31G"
     },
     {
       "album": {
@@ -4892,7 +4946,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 174000,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/4m0QDRBuEJdWRZYQo09WOl"
@@ -6296,7 +6350,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 165211,
       "name": "Evoke",
       "url": "https://open.spotify.com/track/2YJ6nITwsCgjyDL5cGW6QK"
@@ -6843,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/0Rqys86JMM4oOExHGAL6Wd"
+      },
+      "artists": [
+        {
+          "name": "Velvet Meadows",
+          "url": "https://open.spotify.com/artist/28kFEC8QQxlRDhDXxTWYCn"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/3ASg4DxjvGRWOLEiPParOv"
+    },
+    {
+      "album": {
         "name": "Finishing Touches",
         "url": "https://open.spotify.com/album/7jzgbSBIyh9ENMWwdprhT4"
       },
@@ -7074,6 +7146,24 @@
       "duration_ms": 132261,
       "name": "Flow",
       "url": "https://open.spotify.com/track/1EoPRePRDBhnZz0uMRjPVY"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/6tflr2RylkKFrO6IE4WTwR"
+      },
+      "artists": [
+        {
+          "name": "Aural Depths",
+          "url": "https://open.spotify.com/artist/3n4KAFh459YVN0eFO47zZp"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140270,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/2xG1a1llDkt9zAxmQ5ZRjs"
     },
     {
       "album": {
@@ -7326,6 +7416,24 @@
       "duration_ms": 126516,
       "name": "foresight",
       "url": "https://open.spotify.com/track/0tCdzYvMne3CixunpEmPNT"
+    },
+    {
+      "album": {
+        "name": "forever and ever",
+        "url": "https://open.spotify.com/album/2KKU47VQgG163I7FTKUvjW"
+      },
+      "artists": [
+        {
+          "name": "Acceptologist",
+          "url": "https://open.spotify.com/artist/4pbmOxjFpHlIUe8wkWN08f"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135124,
+      "name": "forever and ever",
+      "url": "https://open.spotify.com/track/5MyJqrHfrSmb9056z1HZDm"
     },
     {
       "album": {
@@ -10512,7 +10620,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 148479,
       "name": "Letter to the Stars",
       "url": "https://open.spotify.com/track/0ZICisRGAk7Xv8zSPuX8Nq"
@@ -11016,7 +11124,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 164192,
       "name": "Lone Watch",
       "url": "https://open.spotify.com/track/25hnbR7UXD8mi14ZwF4IPt"
@@ -15452,7 +15560,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 137391,
       "name": "Release",
       "url": "https://open.spotify.com/track/0R3nhKQ5OpdALI3HNp6AQ4"
@@ -15524,7 +15632,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 169050,
       "name": "Render",
       "url": "https://open.spotify.com/track/34lHNCi9oUTNKHmSKYYa0Q"
@@ -17061,6 +17169,24 @@
     },
     {
       "album": {
+        "name": "Skybound",
+        "url": "https://open.spotify.com/album/36bAXzTtC7SvG5Sv6AP9eh"
+      },
+      "artists": [
+        {
+          "name": "Casper Ilian",
+          "url": "https://open.spotify.com/artist/3zKuKfgffnwonOzg8hxSta"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138904,
+      "name": "Skybound",
+      "url": "https://open.spotify.com/track/5VthgXmQbLAvk8A4kYaDjd"
+    },
+    {
+      "album": {
         "name": "Skylark",
         "url": "https://open.spotify.com/album/5ZcFCMr1RBxjjpwvZXKrLG"
       },
@@ -17144,7 +17270,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 184029,
       "name": "Skyward",
       "url": "https://open.spotify.com/track/24dLuRzfhEVhFXacoC0XO6"
@@ -19733,6 +19859,24 @@
     },
     {
       "album": {
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/5Zw6LUIhCFF0JuGpQFbsnN"
+      },
+      "artists": [
+        {
+          "name": "Space Canyon",
+          "url": "https://open.spotify.com/artist/5yNGJVIj1jk64PmKkZ4JrL"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142039,
+      "name": "The Road Less Traveled",
+      "url": "https://open.spotify.com/track/4Mf6b6czvrwEaUVq92NaPM"
+    },
+    {
+      "album": {
         "name": "The Road To Life",
         "url": "https://open.spotify.com/album/7f3YtaV0jn4XUYwMtLtG3o"
       },
@@ -20579,6 +20723,24 @@
     },
     {
       "album": {
+        "name": "Transitioning",
+        "url": "https://open.spotify.com/album/5lST8ze0HsYy69p8W1Brwh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Atlas",
+          "url": "https://open.spotify.com/artist/7663VFCMOXEmo8oKCNZFZ4"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "Transitioning",
+      "url": "https://open.spotify.com/track/3OkelC3Xo9f1GAb1aKPqLH"
+    },
+    {
+      "album": {
         "name": "Translucent",
         "url": "https://open.spotify.com/album/7j2HG6BHVxzOAjpelwALny"
       },
@@ -21210,6 +21372,24 @@
       "duration_ms": 169894,
       "name": "Varberg",
       "url": "https://open.spotify.com/track/5sFdMGaWXdSWYtS93KimeP"
+    },
+    {
+      "album": {
+        "name": "Vaulted Skies",
+        "url": "https://open.spotify.com/album/2wpYuoNo9lGZNWIdzAfZlN"
+      },
+      "artists": [
+        {
+          "name": "Astral Voyager",
+          "url": "https://open.spotify.com/artist/6Bj7oeWzckGjkZdSwfKJHa"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140270,
+      "name": "Vaulted Skies",
+      "url": "https://open.spotify.com/track/49NriqKnMRAfZqON99Ka3H"
     },
     {
       "album": {

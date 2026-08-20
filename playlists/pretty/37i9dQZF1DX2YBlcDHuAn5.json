@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33893,
+  "num_followers": 33887,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMsjBK/A65aUK2qZYlG3WN3S1guP",
+  "snapshot_id": "AAAAAF+jjnOUdaUdyspnGngd86n1/ACH",
   "tracks": [
     {
       "added_at": "2026-05-21 22:00:09",
@@ -659,30 +659,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "By The Bay",
-        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+        "name": "The Fire Inside",
+        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
       },
       "artists": [
         {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
-        },
-        {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 204328,
-      "name": "By The Bay",
-      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+      "duration_ms": 215483,
+      "name": "The Fire Inside",
+      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -723,18 +711,30 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
+        "name": "By The Bay",
+        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
         }
       ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
+      "duration_ms": 204328,
+      "name": "By The Bay",
+      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
     },
     {
       "added_at": "2026-05-21 22:00:09",

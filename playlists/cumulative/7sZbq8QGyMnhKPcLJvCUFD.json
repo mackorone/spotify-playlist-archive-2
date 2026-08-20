@@ -9283,6 +9283,32 @@
     },
     {
       "album": {
+        "name": "Like A Melody",
+        "url": "https://open.spotify.com/album/73GOXxckx0pAlOtrVrpmY1"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Jozels",
+          "url": "https://open.spotify.com/artist/0U1vPNbcJ2OJIcqFmhf3dy"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Like A Melody",
+      "url": "https://open.spotify.com/track/6YOQJb2JpFsbfzIJqfZMvr"
+    },
+    {
+      "album": {
         "name": "Like A Stone",
         "url": "https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6"
       },

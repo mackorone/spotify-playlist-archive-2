@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 178842,
+  "num_followers": 178847,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAADKwbgppD4qVjjjlXigp1gp",
+  "snapshot_id": "aoOggAAAAADy7YIcJUscosq4e+Vy6GWC",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolutions Per Minute",
-        "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Black Masks & Gasoline",
-      "url": "https://open.spotify.com/track/6tdQ4rDt4NPl9L7eSIEXtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Katy Bar the Door / Living Undercover",
         "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 229751,
       "name": "Living Undercover",
       "url": "https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolutions Per Minute",
+        "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Black Masks & Gasoline",
+      "url": "https://open.spotify.com/track/6tdQ4rDt4NPl9L7eSIEXtY"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolutions Per Minute",
-        "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/5VtJ3LFpIJ7ACYTS3xibLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unraveling (Re-Issue)",
         "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 227026,
       "name": "Everchanging",
       "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolutions Per Minute",
+        "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/5VtJ3LFpIJ7ACYTS3xibLb"
     },
     {
       "added_at": null,

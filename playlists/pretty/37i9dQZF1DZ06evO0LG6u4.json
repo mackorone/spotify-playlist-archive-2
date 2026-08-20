@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAACHlQzH02K5o/pkrdl8JO+9",
+  "snapshot_id": "aoOggAAAAADlwIlCnzJdwF3v/SrE2I6T",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Perception par l'auditeur",
-      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
+      "duration_ms": 44700,
+      "name": "Son miroir",
+      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

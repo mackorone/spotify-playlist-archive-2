@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,711 likes - 105 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,833 likes - 105 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 104 | [Kadosh \[Holy One\]](https://open.spotify.com/track/6XSvD90syUwTGVCF1vkvao) | [B Jazz](https://open.spotify.com/artist/6dK4RRKNrcATMmMySMmU5d), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Kadosh \[Holy One\]](https://open.spotify.com/album/2gMQXWtx6d88FhEvfyGNhy) | 8:40 |
 | 105 | [Jesu O \(Live\)](https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr) | [Minstrel John Leke](https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o), [Shiloh\-JewEl Idoko](https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa) | [Jesu O \(Live\)](https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB) | 11:16 |
 
-Snapshot ID: `AAAAALRgl9125Wo6H3iyngJBWp67EFrG`
+Snapshot ID: `AAAAANZ/Jd6nL1iE125PtAB06gPIoOFS`

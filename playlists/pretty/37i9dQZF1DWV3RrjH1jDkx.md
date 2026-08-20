@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Madeléne, Troye Sivan, Nessi og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,839 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,826 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 73 | [Foremothers](https://open.spotify.com/track/5YWWODFNkHVhOnl34R1GQb) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Wild Love](https://open.spotify.com/album/14lUXimueH6tfm8jOmHXWq) | 4:19 |
 | 74 | [I Just Wanna Dance](https://open.spotify.com/track/1PjV08bIIIuy37rpKowy8h) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Just Wanna Dance](https://open.spotify.com/album/69lgKYiY4vmLPkknOpwl6R) | 2:06 |
 
-Snapshot ID: `AAAAALe6NKqdVUlo3CdFiwFSmNuAi9y0`
+Snapshot ID: `AAAAAN+KO3ttVV92tKcqvF8mAYPmIY8f`

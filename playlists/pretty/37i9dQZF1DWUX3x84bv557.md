@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: jet van der steen
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,369 likes - 85 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,347 likes - 85 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 84 | [Vergeten](https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vergeten](https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R) | 2:48 |
 | 85 | [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 |
 
-Snapshot ID: `AAAAAIKBlT4C3ZS+Aa9h7RcUJnZ4EIxu`
+Snapshot ID: `AAAAAA9hlXVvCzqfjQg7MOIYkvYj+Jz+`

@@ -200,7 +200,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 250212,
       "name": "Adi Alaye",
       "url": "https://open.spotify.com/track/4VYd5d5nr3vDMhpx76SkFf"
@@ -1196,6 +1196,28 @@
       "duration_ms": 288430,
       "name": "Halena",
       "url": "https://open.spotify.com/track/5hA3rXEanTpROJ2thUL6vw"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Hangova",
+      "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
     },
     {
       "album": {
@@ -3160,7 +3182,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 235107,
       "name": "Oru Pere Varalaaru",
       "url": "https://open.spotify.com/track/22hxaCwPIoNU6AGJtV5Q7X"
@@ -3548,6 +3570,24 @@
       "duration_ms": 107036,
       "name": "Raavana Mavandaa (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/7MP6jngkoEGUXKdpVeTXAT"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Raga of Revenge",
+      "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
     },
     {
       "album": {

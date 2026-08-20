@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Daichi Yamamoto
 
-614 songs - 1 day 20 hr 0 min
+615 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Endless Gray](https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 3:40 | 2024-11-14 | 2025-03-07 |
 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 | 2026-07-16 |  |
 | [Erica](https://open.spotify.com/track/2Z9pLISmDkBYca5vV3ZGQe) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Erica](https://open.spotify.com/album/2za32h1tOcCNzlTqpMiUXB) | 5:08 | 2026-08-18 |  |
+| [Estética da fome](https://open.spotify.com/track/38KaJU1zHbu8tbyGewGg87) | [Matu Miranda](https://open.spotify.com/artist/6N7m34YWGpILJZidrmNbRf), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Estética da fome](https://open.spotify.com/album/0kfx60lnf68PnD1oChnFJb) | 3:17 | 2026-08-13 |  |
 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Itay Simhovich](https://open.spotify.com/artist/7aMuvoIBnkIiZFIPjSHRju) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 | 2026-05-26 |  |
 | [Eternal Orbit](https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Eternal Orbit](https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD) | 4:47 | 2026-01-22 |  |
 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 | 2025-09-11 | 2026-03-13 |

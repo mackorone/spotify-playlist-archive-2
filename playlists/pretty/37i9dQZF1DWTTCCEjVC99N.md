@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,778 likes - 86 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,815 likes - 86 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 85 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 86 | [El Hawa Sultan](https://open.spotify.com/track/6bXIVmNvDjvVA0CzNGzCf7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [El Hawa Sultan Rare Recordings](https://open.spotify.com/album/4nYGZNrAnVp5Wk0bRLd6Cm) | 7:02 |
 
-Snapshot ID: `AAAAAMCEBvXdVo2umryXPMEoB5PLLMTv`
+Snapshot ID: `AAAAAMz0OjnqduYnBj4Uc3h7ixLKiR8F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Jamback
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,798 likes - 120 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,839 likes - 120 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 72 | [Get On Up](https://open.spotify.com/track/5KBUE75BEZMGmDnfW8y2gd) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh), [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Get On Up](https://open.spotify.com/album/5QhdZgAX6fh21Of8xx8Wj8) | 3:03 |
 | 73 | [Impulses](https://open.spotify.com/track/5hBK3SddrzzFWxsLyT1Rw2) | [Jacob Matthews](https://open.spotify.com/artist/6OLFLlG1W9ihgTCDQt5jaz) | [Impulses EP](https://open.spotify.com/album/38mWTjv6haB5dTi9pYzy8y) | 3:53 |
 | 74 | [GANGSTA](https://open.spotify.com/track/5w2J3jCuxhCKXSeAKooytB) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [GANGSTA](https://open.spotify.com/album/2FkZgqzJkucGubEC2Zw76l) | 3:00 |
-| 75 | [Believe In Yourself](https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Believe In Yourself](https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL) | 4:20 |
+| 75 | [Believe In Yourself](https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Believe In Yourself](https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL) | 4:20 |
 | 76 | [Another Dimension](https://open.spotify.com/track/7cWi2fEhvxolBmElAvOCEI) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Other Side of the Phone](https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4) | 4:21 |
 | 77 | [Big Things Coming \- Edit](https://open.spotify.com/track/4t0TQyiaeyulwsghotIdxi) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Big Things Coming](https://open.spotify.com/album/1s2bLgoRqjXXUnXlWVGGqe) | 3:48 |
 | 78 | [Bubbling](https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [Bubbling](https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz) | 3:29 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Love to Love](https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q) | [Justin Rabin](https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv) | [Love to Love](https://open.spotify.com/album/6jyJWetHgENZW5U0LpIvBF) | 2:56 |
 | 120 | [Do You Like Bass](https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Do You Like Bass](https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO) | 3:50 |
 
-Snapshot ID: `AAAAAMN6rA1uAz53XDLG92tCVcF+M4SB`
+Snapshot ID: `AAAAADxj/S7snGERhZiQ/jh1dHaWjsTC`

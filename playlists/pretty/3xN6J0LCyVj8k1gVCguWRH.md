@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,077 likes - 199 songs - 11 hr 54 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,104 likes - 194 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,10 +202,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 192 | [You Make Me Smile](https://open.spotify.com/track/5Ot2Jbp1nulmojJjydI2Y9) | [Adrian "Egg" Norton](https://open.spotify.com/artist/57nyx8Pe8v2TBTgTktIIpE), [Tony Craddock Jr](https://open.spotify.com/artist/2ww7bASURfu1PL648Cbfkw) | [You Make Me Smile](https://open.spotify.com/album/5iUGS49XBm8jEGjI7VhjjI) | 4:40 |
 | 193 | [Midnight Pulse](https://open.spotify.com/track/2qq70sctSB2nZmfMY0yIaT) | [Alan\-B\-K](https://open.spotify.com/artist/3UPAOSlP3Y2K9aax73Bmen) | [Midnight Pulse](https://open.spotify.com/album/4g9wBKzzju3Srh8qnwIUFo) | 3:37 |
 | 194 | [Paradigm](https://open.spotify.com/track/22XZ2drT9Nqd8lS8UHivi6) | [Katie Mintle](https://open.spotify.com/artist/3rKHbl2iFE9pRx2rp8YJfB) | [Paradigm](https://open.spotify.com/album/0C4RE1hGJPymhmdVENGmmI) | 2:46 |
-| 195 | [Lift the Needle](https://open.spotify.com/track/2Ow3ouEEhRC64L2eIyCrKd) | [Orbit 17](https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8) | [Betrayer](https://open.spotify.com/album/1X5vhlVjBVg6sbVIm1GtT8) | 4:37 |
-| 196 | [Essence](https://open.spotify.com/track/1PBF6LDeNaJZrNOOGTNFEN) | [River City Reverie](https://open.spotify.com/artist/2LYzSJ7hsLmSej8jg4DsY6) | [Essence](https://open.spotify.com/album/4zZZsgUQ3UpH3YExDIxV4C) | 3:43 |
-| 197 | [Breakfast With An American](https://open.spotify.com/track/0Z4yUWTVxhEAbZEpz3QMhw) | [Lost Weekend](https://open.spotify.com/artist/2CidrduiHH6ZlejaE0Efiu) | [The Blue Period No\. 2](https://open.spotify.com/album/2hwPLl1nHUnT3tvCdbXnCO) | 4:48 |
-| 198 | [SOS](https://open.spotify.com/track/3gdVDzMeX0Hh6iLfgyE3uH) | [RA7AN](https://open.spotify.com/artist/7BbL2KKVK9TuDMXnq6nI3h) | [SOS](https://open.spotify.com/album/2QfANa8gkPk5D4ZfuVQkqo) | 2:15 |
-| 199 | [GODSPEED](https://open.spotify.com/track/1mLtR4wo2bIgTEnP9OMffU) | [CAPRICE LE MARAIS](https://open.spotify.com/artist/3jIBhE36DzBgYb0OY4ZwEC) | [AMEN](https://open.spotify.com/album/093HaDRe6KKIQJ6fomL6qu) | 2:34 |
 
-Snapshot ID: `AAA+C+bSnnv4cGe39gjb94F5s0crbfaN`
+Snapshot ID: `AAA+DCsMJJJWB8A848UlFl53ZDHuxyt9`

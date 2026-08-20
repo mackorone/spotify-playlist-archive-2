@@ -1,12 +1,12 @@
 {
   "description": "Cheerful classical music to wake up with or to accompany a leisurely breakfast. Even if the sun isn\u2019t shining it seems like it does! <a href=\"http://www.sinfinimusic.com/nl\">Discover more classical music on Classics To Go.</a>",
-  "num_followers": 9835,
+  "num_followers": 9836,
   "original_name": "Classical Sunday Morning",
   "owner": {
     "name": "Classics To Go",
     "url": "https://open.spotify.com/user/sinfinimusic.nl"
   },
-  "snapshot_id": "AAACxrq+QIlac1neX7gk8IuEgm/F6Hyi",
+  "snapshot_id": "AAACx8BWmobraP//a2qx/xukWqY9n3LR",
   "tracks": [
     {
       "added_at": "2026-06-30 09:03:35",
@@ -27,6 +27,30 @@
       "duration_ms": 178131,
       "name": "Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) - Upright Version",
       "url": "https://open.spotify.com/track/7hqA2zUcotxKyhEt01WfEe"
+    },
+    {
+      "added_at": "2026-08-19 14:07:41",
+      "album": {
+        "name": "Bach, Handel & D. Scarlatti: (Viola da) Gamba Sonatas",
+        "url": "https://open.spotify.com/album/4L8yKHiyMWrxwRSFZFEqHT"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        }
+      ],
+      "duration_ms": 174280,
+      "name": "Ich ruf' zu dir, Herr Jesu Christ, BWV 639 (Transcr. Isserlis/Egarr for Cello & Harpsichord)",
+      "url": "https://open.spotify.com/track/3sBRqGrwdsHNRHmfOOeHjH"
     },
     {
       "added_at": "2025-11-17 12:18:09",

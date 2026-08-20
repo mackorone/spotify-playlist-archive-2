@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,732 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,716 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [FINAL](https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FINAL](https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv) | 2:08 |
 | 100 | [PERFORMANTE](https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PERFORMANTE](https://open.spotify.com/album/2ezemS5XCfp01kKTiE6cBg) | 1:56 |
 
-Snapshot ID: `AAAAAJTHVXyr6SWrtFaIw6jsmJpx54u5`
+Snapshot ID: `AAAAAD4KGWmoL0TMq/G9xN/dyQfdj+d1`

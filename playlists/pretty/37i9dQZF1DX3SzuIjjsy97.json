@@ -1,12 +1,12 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407125,
+  "num_followers": 407119,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJJiqyNyR4MhKa9rV8t4GIsIlT/",
+  "snapshot_id": "AAAAALyEjA75DwzEj24XNrOPgZA4wI5W",
   "tracks": [
     {
       "added_at": "2026-07-29 10:41:14",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "Six: The Musical (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
+      },
+      "artists": [
+        {
+          "name": "SIX",
+          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
+        }
+      ],
+      "duration_ms": 350218,
+      "name": "Ex-Wives",
+      "url": "https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Hadestown (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 225805,
       "name": "Any Way the Wind Blows",
       "url": "https://open.spotify.com/track/0HZq47ubBTbuUUPGSueUOh"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Six: The Musical (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
-      },
-      "artists": [
-        {
-          "name": "SIX",
-          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
-        }
-      ],
-      "duration_ms": 350218,
-      "name": "Ex-Wives",
-      "url": "https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "No Good Deed",
+      "url": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Hadestown (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 243331,
       "name": "All I've Ever Known",
       "url": "https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "No Good Deed",
-      "url": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Chicago - Music From The Miramax Motion Picture",
         "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 442733,
       "name": "Cell Block Tango",
       "url": "https://open.spotify.com/track/28Tmk14BdrfaV2YzxpB35c"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
     },
     {
       "added_at": "2026-07-29 10:41:14",

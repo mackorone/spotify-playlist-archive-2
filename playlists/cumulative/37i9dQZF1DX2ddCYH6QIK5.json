@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: SYDOW, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: MIK, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -9623,6 +9623,24 @@
     },
     {
       "album": {
+        "name": "FLX",
+        "url": "https://open.spotify.com/album/1wrKXr87r3WQ28oZbMJdiW"
+      },
+      "artists": [
+        {
+          "name": "SNIEK",
+          "url": "https://open.spotify.com/artist/7ICgF28asS8AkotuGtSjFY"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148637,
+      "name": "FLX",
+      "url": "https://open.spotify.com/track/2eo8ZZYFfWimNMGpBh1WZ7"
+    },
+    {
+      "album": {
         "name": "focus on me",
         "url": "https://open.spotify.com/album/2o2dFmwDnoTjeLBSFegfWg"
       },
@@ -10732,7 +10750,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 234705,
       "name": "GNADE",
       "url": "https://open.spotify.com/track/2QJLOcU7L0LK8sKN0nDJWZ"
@@ -11660,7 +11678,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 180466,
       "name": "Hass dich heimlich",
       "url": "https://open.spotify.com/track/0Y0INTcnSG4U1CL7aorQZk"
@@ -16477,6 +16495,24 @@
     },
     {
       "album": {
+        "name": "Lieb mich",
+        "url": "https://open.spotify.com/album/4Ns1INBmQ6i9JDn5XJfqRw"
+      },
+      "artists": [
+        {
+          "name": "LILLE",
+          "url": "https://open.spotify.com/artist/3IZz6OZ6nLwKS9zmrMjgAM"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137200,
+      "name": "Lieb mich",
+      "url": "https://open.spotify.com/track/6uCsMyysLEOE9yTqmcy1m4"
+    },
+    {
+      "album": {
         "name": "LiEBE",
         "url": "https://open.spotify.com/album/3uyMs9RwG1zOYCm68mYZS9"
       },
@@ -16744,6 +16780,24 @@
       "duration_ms": 194890,
       "name": "Living Room Floor",
       "url": "https://open.spotify.com/track/4dONYet8tPykb5LzstwLrz"
+    },
+    {
+      "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
     },
     {
       "album": {
@@ -19754,6 +19808,24 @@
       "duration_ms": 194770,
       "name": "Nur mein Herz",
       "url": "https://open.spotify.com/track/7aePXYBDPT6uwnlFLnw2TU"
+    },
+    {
+      "album": {
+        "name": "nur nh idee",
+        "url": "https://open.spotify.com/album/3dzd4KvX6TBfNNemq7cL6Z"
+      },
+      "artists": [
+        {
+          "name": "doss",
+          "url": "https://open.spotify.com/artist/5GlfABPVozsdDtqLfaNgGK"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166613,
+      "name": "nur nh idee",
+      "url": "https://open.spotify.com/track/3Vs6j00BhZVOjOxA2mvtD2"
     },
     {
       "album": {
@@ -22822,7 +22894,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 154029,
       "name": "Rough",
       "url": "https://open.spotify.com/track/6BoJLaVyVxyVRuUOqnTaYt"
@@ -23824,7 +23896,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 191630,
       "name": "Selfie at the Beach",
       "url": "https://open.spotify.com/track/0T6AMaYBN4ubzr88xQrlAw"
@@ -24920,6 +24992,28 @@
       "duration_ms": 154400,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/3hmHc8LawSwTMSsBM1qzNx"
+    },
+    {
+      "album": {
+        "name": "Sommersemester",
+        "url": "https://open.spotify.com/album/1irTeqVBOg0704NEEDTPHl"
+      },
+      "artists": [
+        {
+          "name": "MIDAN",
+          "url": "https://open.spotify.com/artist/42YC0yEUykvWFP5biYW4zI"
+        },
+        {
+          "name": "MICHI",
+          "url": "https://open.spotify.com/artist/11F4ZO6fZDv8H4UAH9V4zf"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127397,
+      "name": "Sommersemester",
+      "url": "https://open.spotify.com/track/0F5EohvdxjOjzjdqfsU9t4"
     },
     {
       "album": {
@@ -27106,7 +27200,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 229814,
       "name": "The Sunlight",
       "url": "https://open.spotify.com/track/6XWWfVPoAUrbz6Afcnbi0e"

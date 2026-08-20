@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Jeremy Camp
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,751 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,740 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 49 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 |
 | 50 | [Your Devil Is A Ghost](https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Rated R](https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM) | 3:11 |
 
-Snapshot ID: `AAAAALHgHVkvF+Kjx4nYVJmR7eTmeVDz`
+Snapshot ID: `AAAAAPzLp+K27PL4cnmm4Z7G0xQmAyDe`

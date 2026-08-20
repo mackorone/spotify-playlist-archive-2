@@ -968,7 +968,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 147692,
       "name": "Bill",
       "url": "https://open.spotify.com/track/1Epd5KdbrDRFp1anBjcHh8"
@@ -3693,6 +3693,36 @@
     },
     {
       "album": {
+        "name": "Dont Come Too Close II",
+        "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
+      },
+      "artists": [
+        {
+          "name": "Okese1",
+          "url": "https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186932,
+      "name": "Dont Come Too Close II",
+      "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
+    },
+    {
+      "album": {
         "name": "Don\u2019t You Forget",
         "url": "https://open.spotify.com/album/01Elb7M7eEhIQprV6JdJe5"
       },
@@ -4292,6 +4322,24 @@
       "duration_ms": 165142,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
+    },
+    {
+      "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166034,
+      "name": "FAMAME",
+      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
     },
     {
       "album": {
@@ -7804,6 +7852,24 @@
       "duration_ms": 153559,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/2RUKhHP0w1l49R7f1820qS"
+    },
+    {
+      "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233965,
+      "name": "METICULOUS",
+      "url": "https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd"
     },
     {
       "album": {
@@ -13112,7 +13178,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 146823,
       "name": "Tribal Love",
       "url": "https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE"

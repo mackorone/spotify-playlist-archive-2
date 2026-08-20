@@ -4,7 +4,7 @@
 
 > The premier indie melancholia playlist, featuring Phoebe Bridgers
 
-439 songs - 1 day 5 hr 25 min
+440 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-09 | 2023-06-21 |
 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 | 2019-09-29\* | 2022-04-10 |
 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-08-12 |  |
-| [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2022-08-26 |  |
+| [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2022-08-26 | 2026-08-20 |
 | [My Blood Will Call out to You from the Ground](https://open.spotify.com/track/3Ha5BnM3hnMom3B7wPSBYU) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6), [The Musicians of the Apocalypse](https://open.spotify.com/artist/3daEbPQTOefptx00Snvn7K) | [When I Shoot at You with Arrows, I Will Shoot to Destroy You](https://open.spotify.com/album/7k0VVDoF8jwZ1joYO7SBJp) | 3:26 | 2019-09-29\* | 2022-04-10 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-18 |  |
 | [My Mind is a Mess in the Morning](https://open.spotify.com/track/0gsFYbnx6GAQ3YOQlMsR5u) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Morning / Midnight // My Mind is a Mess in the Morning](https://open.spotify.com/album/0dnf61lE4vYKAivDQwUaTk) | 4:24 | 2022-04-22 | 2022-08-27 |
@@ -257,6 +257,7 @@
 | [One for sorrow, two for Joni Jones](https://open.spotify.com/track/6Xl1zGn8QgjaCwtRqI3vxv) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [One for sorrow, two for Joni Jones](https://open.spotify.com/album/6qdWKell3uanKckKAO6rIz) | 4:30 | 2023-06-10 | 2023-07-11 |
 | [Only One](https://open.spotify.com/track/6hMRRCZXeV5Gg8345Z5P0M) | [BLANc](https://open.spotify.com/artist/6QNWNk7eGH8Akg83QSD2PL) | [Only One](https://open.spotify.com/album/7LO1I1tsj2ih7elmShTgrA) | 3:08 | 2019-09-29\* | 2020-03-21 |
 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 | 2023-04-26 | 2024-09-14 |
+| [Other Plans](https://open.spotify.com/track/2MAhy15YKrS4bvQnwhv0vM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 2:20 | 2026-08-14 |  |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-07-15 | 2023-06-17 |
 | [Otherside](https://open.spotify.com/track/7nycFVsC616uen7TOxhOQb) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:40 | 2019-09-29\* | 2022-07-29 |
 | [Outside with the Cuties](https://open.spotify.com/track/56J5dZ21WjuGKO3Z6LDIoc) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:34 | 2022-08-26 | 2024-04-19 |

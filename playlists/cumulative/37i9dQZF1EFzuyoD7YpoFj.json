@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 123973,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 166101,
       "name": "Blues For Alice",
       "url": "https://open.spotify.com/track/5BxzqNLhwISk6IN5RZFkt8"
@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Modern Jazz- The World's Greatest Jazz Collection, Vol. 52",
+        "url": "https://open.spotify.com/album/5tL2U2Zt2SH01wz4YQFFoi"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Plus Four",
+          "url": "https://open.spotify.com/artist/4CYxur18Kc9iYGx0s4epdr"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/3Z1qqJ8zByW4APhqayFGwK"
+    },
+    {
+      "album": {
         "name": "Heartfelt Hymns, Vol. 3",
         "url": "https://open.spotify.com/album/5EsOVTdT4Tj9k1Vrlrfi6T"
       },
@@ -2800,7 +2818,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 104246,
       "name": "Count Your Blessings (Remasteris\u00e9)",
       "url": "https://open.spotify.com/track/5euKJxlVJMPZAnFHhzDp47"
@@ -4763,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "BD Music Presents Louis Armstrong",
+        "url": "https://open.spotify.com/album/4cbPKbOL44gO5thTS0Tm7H"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177426,
+      "name": "Heebie Jeebies",
+      "url": "https://open.spotify.com/track/3plNbmcw8aXOwsroPB74Ud"
+    },
+    {
+      "album": {
         "name": "Essential Classics, Vol. 44: Cole Porter",
         "url": "https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w"
       },
@@ -6334,7 +6370,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 174906,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
@@ -7363,6 +7399,24 @@
     },
     {
       "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY"
+    },
+    {
+      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
@@ -7400,7 +7454,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 212426,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/3I9urFJh4tp2KKXpCa2cXm"
@@ -9182,7 +9236,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 179280,
       "name": "On the Sunny Side of the Street",
       "url": "https://open.spotify.com/track/62xeYpjMpKyk7zef7AYOf9"
@@ -10724,7 +10778,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 445480,
       "name": "Rossini: The Barber of Seville: Overture",
       "url": "https://open.spotify.com/track/457Bpigp9EnWaPjmRcMz0U"
@@ -10815,6 +10869,24 @@
     },
     {
       "album": {
+        "name": "Silk Stockings (An Original Cast Recording)",
+        "url": "https://open.spotify.com/album/210L9tzkhIuhQM2zSujX7t"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Satin and Silk",
+      "url": "https://open.spotify.com/track/6BG44Wh2OxFjnxooTpsKWp"
+    },
+    {
+      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
       },
@@ -10862,7 +10934,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 151914,
       "name": "Satin And Silk",
       "url": "https://open.spotify.com/track/3Eq15Exoj01DwsOxAta3H3"

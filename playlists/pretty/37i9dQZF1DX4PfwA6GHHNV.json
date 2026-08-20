@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23400,
+  "num_followers": 23408,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVLPu+0UDuHXY2hrNqS100V3xEa",
+  "snapshot_id": "AAAAAAQPX9JgtgRTVxopPmqZxeGvRt3P",
   "tracks": [
     {
       "added_at": "2026-08-14 17:39:37",
@@ -643,30 +643,6 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Sem nada",
-        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        },
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "Sem nada",
-      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
         "name": "OUTRA VIBE",
         "url": "https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe"
       },
@@ -699,8 +675,32 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Ol\u00e9, Ol\u00e9!",
-        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
+        "name": "Sem nada",
+        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "Sem nada",
+      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
+        "name": "Guetto Wave\u2019s",
+        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
       },
       "artists": [
         {
@@ -710,11 +710,15 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 164016,
-      "name": "Ol\u00e9, Ol\u00e9!",
-      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
+      "duration_ms": 193661,
+      "name": "Soul da Noite.",
+      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -799,8 +803,8 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Guetto Wave\u2019s",
-        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
+        "name": "Ol\u00e9, Ol\u00e9!",
+        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
       },
       "artists": [
         {
@@ -810,15 +814,11 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "LilBoy Bruce",
-          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 193661,
-      "name": "Soul da Noite.",
-      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
+      "duration_ms": 164016,
+      "name": "Ol\u00e9, Ol\u00e9!",
+      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
     },
     {
       "added_at": "2026-08-14 17:39:37",

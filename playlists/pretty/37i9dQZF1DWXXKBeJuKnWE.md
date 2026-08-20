@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Northlane
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,600 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,562 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 39 | [Ritual](https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ritual](https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv) | 3:23 |
 | 40 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 |
 | 41 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 |
-| 42 | [Black & Blue \- 2026 Repented](https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Black & Blue \(2026 Repented\)](https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm) | 4:32 |
-| 43 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 |
+| 42 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 |
+| 43 | [Black & Blue \- 2026 Repented](https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Black & Blue \(2026 Repented\)](https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm) | 4:32 |
 | 44 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
 | 45 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |
 | 46 | [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 94 | [Revenger](https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Revenger](https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6) | 3:40 |
 | 95 | [Bring On The Psychics](https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:44 |
 | 96 | [Silhouette](https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Silhouette](https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm) | 4:29 |
-| 97 | [Ultraviolet Parasite](https://open.spotify.com/track/19xaqmguTFdtJepNgV0EsR) | [Frontierer](https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt) | [Ultraviolet Parasite](https://open.spotify.com/album/4XmwXNFhfeEC8OqmwAEDha) | 2:41 |
-| 98 | [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 |
+| 97 | [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 |
+| 98 | [Ultraviolet Parasite](https://open.spotify.com/track/19xaqmguTFdtJepNgV0EsR) | [Frontierer](https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt) | [Ultraviolet Parasite](https://open.spotify.com/album/4XmwXNFhfeEC8OqmwAEDha) | 2:41 |
 | 99 | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 |
 | 100 | [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 |
 
-Snapshot ID: `AAAAAAj3NsHF3CIc1QxrLEoGsmVFXBnw`
+Snapshot ID: `AAAAAARU0AvLWB0uecOQntoQvnjSP3qx`

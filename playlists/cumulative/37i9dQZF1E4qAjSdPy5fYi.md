@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With Learke, sixwing, Joshua Lanuarii and more
+> With Learke, UrvTek, Joshua Lanuarii and more
 
 350 songs - 15 hr 53 min
 

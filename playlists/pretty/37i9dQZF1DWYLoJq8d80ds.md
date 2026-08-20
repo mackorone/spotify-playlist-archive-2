@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,013 likes - 32 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,035 likes - 32 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 31 | [Angel o Demonio](https://open.spotify.com/track/5lsgrqKy2rEMFAHZtUNcHc) | [Christian Herrera y Matacos](https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD) | [Angel o Demonio](https://open.spotify.com/album/7yCuB9Ko2SP9aRYpZ8Mg1p) | 3:20 |
 | 32 | [Que Pasó](https://open.spotify.com/track/0pGUeNK8sRrr6K6mt4jWmB) | [Paquito Ocaño El Dueño de la Bailanta](https://open.spotify.com/artist/0R3DEo6gzaZO8j5RWm3b0S), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Que Pasó](https://open.spotify.com/album/3LYIjlH1k8SG6Mrhu7eehs) | 2:57 |
 
-Snapshot ID: `AAAAAG6vCpcUIpX+rga7cP6xhnOi5dOA`
+Snapshot ID: `AAAAAMHurpITiO1F1AQGBafiaZHTcTqQ`

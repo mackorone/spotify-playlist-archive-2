@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 184299,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 173666,
       "name": "Letter to My Ex",
       "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
@@ -4270,6 +4270,24 @@
       "duration_ms": 166670,
       "name": "Only You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
+    },
+    {
+      "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162872,
+      "name": "Orekelewa",
+      "url": "https://open.spotify.com/track/0Jg8TctX4LJ5pWuENt0xuO"
     },
     {
       "album": {
@@ -5614,7 +5632,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 162590,
       "name": "Unavailable",
       "url": "https://open.spotify.com/track/50pMmqctbfKZfF8cFbpR8P"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,963 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,038 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 11 | [Yoyo](https://open.spotify.com/track/78AwXtsxAg9TErM4gwNs2k) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Yoyo](https://open.spotify.com/album/68uiH2UHyO8clfkV4HWnzq) | 3:10 |
 | 12 | [Wasiwasi](https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Wasiwasi](https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg) | 3:00 |
 | 13 | [Kipepeo](https://open.spotify.com/track/7wgDADTAOcEh6H3RRjo6PX) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kipepeo](https://open.spotify.com/album/1sE6KMceLHz58hOeMvJqpJ) | 3:35 |
-| 14 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 |
+| 14 | [Sina Hiyana](https://open.spotify.com/track/435UdmvgiAxwv62lIBkExw) | [Saluh](https://open.spotify.com/artist/3skjr8kur5z5FLb9vlscHz) | [Sina Hiyana](https://open.spotify.com/album/5DnaIj9HsHibUO6y2qKuWh) | 2:59 |
 | 15 | [Sherehe](https://open.spotify.com/track/49GP5YDvcE0nrY1tfGSAls) | [Click Master](https://open.spotify.com/artist/4EaiSECLNfGjS7aASm7un2) | [Sherehe](https://open.spotify.com/album/1PWw7r4Ymv8icT0OwivODB) | 2:48 |
 | 16 | [Wivu](https://open.spotify.com/track/14p6haa3m3b9WxUhDF93iy) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Listen to Me Again](https://open.spotify.com/album/4xQ3Molayp9PvepgQsZqe4) | 3:32 |
 | 17 | [Maneno](https://open.spotify.com/track/3661gqRjaSc5j9YHqQ31ln) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Maneno](https://open.spotify.com/album/1lqhLrO2B7p3hITFbDUihK) | 4:05 |
-| 18 | [Pombe Niache](https://open.spotify.com/track/38shMayCyKubmfVHnktY08) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Pombe Niache](https://open.spotify.com/album/1XYGmEyvU3XbYh0iDQ8Mde) | 3:15 |
-| 19 | [Nakupenda](https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Nakupenda](https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0) | 2:58 |
-| 20 | [Dasalama](https://open.spotify.com/track/19QKLeQyOEUsb7ayUqjtFv) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Dasalama](https://open.spotify.com/album/3Q650ANeEJV8wkSnHNdIuv) | 2:21 |
-| 21 | [Mahaba](https://open.spotify.com/track/6vkjBXfGWij08akIYNxX14) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Mahaba](https://open.spotify.com/album/1m6TVBiKasRLqh1hfQWiIM) | 4:31 |
+| 18 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 |
+| 19 | [Pombe Niache](https://open.spotify.com/track/38shMayCyKubmfVHnktY08) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Pombe Niache](https://open.spotify.com/album/1XYGmEyvU3XbYh0iDQ8Mde) | 3:15 |
+| 20 | [Nakupenda](https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Nakupenda](https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0) | 2:58 |
+| 21 | [Dasalama](https://open.spotify.com/track/19QKLeQyOEUsb7ayUqjtFv) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Dasalama](https://open.spotify.com/album/3Q650ANeEJV8wkSnHNdIuv) | 2:21 |
 | 22 | [UA](https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [MMMCXII](https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5) | 3:21 |
 | 23 | [Hisia](https://open.spotify.com/track/1IwBKm1vZOYjHR39Uc42Ee) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Hisia](https://open.spotify.com/album/7L3CiF06GtdiSwV5ZnLVfN) | 2:39 |
 | 24 | [Kumbe](https://open.spotify.com/track/2Xcvr4o54F8lib8ptIgSDO) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Kumbe](https://open.spotify.com/album/20hCsxkV1X5ipI9g1Yojh3) | 3:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 59 | [OLUWA](https://open.spotify.com/track/5AgWHvmwQJGdZA09pSgkK9) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Godson \(Deluxe\)](https://open.spotify.com/album/32p8iN0mnfspWqM87jE5hA) | 2:48 |
 | 60 | [Sio bure](https://open.spotify.com/track/52CnH3bFhkLjclDmCo1OSN) | [FreshBoys](https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Sio bure](https://open.spotify.com/album/4wgoyO2tLkpQmPwsKVSbuX) | 3:42 |
 
-Snapshot ID: `AAAAADOkGpjKhPsdtddmUtn6RQNNwiY0`
+Snapshot ID: `AAAAABemMIeKzhDXfc6gfDorRSnXeaxS`

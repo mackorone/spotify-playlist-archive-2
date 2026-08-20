@@ -4166,7 +4166,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 277676,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
@@ -4588,6 +4588,24 @@
       "duration_ms": 181480,
       "name": "Only Ones Who Know",
       "url": "https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140001,
+      "name": "Other Plans",
+      "url": "https://open.spotify.com/track/2MAhy15YKrS4bvQnwhv0vM"
     },
     {
       "album": {

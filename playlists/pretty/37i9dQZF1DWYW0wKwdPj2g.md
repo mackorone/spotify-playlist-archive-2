@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,160 likes - 100 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,252 likes - 100 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [CHAKAM \(EVIDENCE\) \- Live](https://open.spotify.com/track/5qgC6vCrLXTJ9sF0T6n05f) | [Psalmie Anthony](https://open.spotify.com/artist/5cMZ67HhxEy61GJ3oOs1KQ) | [CHAKAM \(EVIDENCE\) \[Live\]](https://open.spotify.com/album/7nAjVucWeOjt7nE7Wrvua4) | 5:09 |
 | 100 | [Thank You for Answering Me \- Live](https://open.spotify.com/track/5ohAamICIisi460hJ8dN29) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Thank You for Answering Me \(Live\)](https://open.spotify.com/album/7hUyNuMIqJ3X7D8oOvjZl0) | 7:22 |
 
-Snapshot ID: `AAAAACJFkErAvksyXLdOGfq/utGFRloM`
+Snapshot ID: `AAAAAGaxmGxptk+pXQVPSGD5C2fXVt+J`

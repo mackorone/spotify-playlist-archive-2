@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,635 songs - 10 day 9 hr 28 min
+4,636 songs - 10 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2880,6 +2880,7 @@
 | [Nura](https://open.spotify.com/track/1r0tSRtG85WzU8BXY9w3WP) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Nura](https://open.spotify.com/album/3Qw5OcvnTYtXjU78OmDDwQ) | 2:00 | 2025-03-18 |  |
 | [NÃO ME DEIXE SÓ](https://open.spotify.com/track/1tla0B1hQI4yJn34vqbzFY) | [Malvisto](https://open.spotify.com/artist/6DbqUhorIDgoDyG0KhSdqk), [SHFR](https://open.spotify.com/artist/5LlpZBL5I7KqE7TKowI8hI), [Angelís](https://open.spotify.com/artist/0PZtO0Cok5DJDXqAbi21kQ) | [NÃO ME DEIXE SÓ](https://open.spotify.com/album/0BKNwyGfdqEL1OfGzWHOnK) | 3:52 | 2026-07-30 |  |
 | [O Aqui e Agora Conta](https://open.spotify.com/track/6MWBDYKB2z2fFYI7bHOIAk) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:34 | 2025-05-05 |  |
+| [O Izabelo](https://open.spotify.com/track/0AlBsgWxQApbgmgqWBduTy) | [Abbracci](https://open.spotify.com/artist/1NpreKADLYFXclehTsMe3s) | [O Izabelo](https://open.spotify.com/album/6c6jkLX29ma2DtKYSQigvI) | 3:26 | 2026-08-19 |  |
 | [O Superman](https://open.spotify.com/track/421Gp1eSmOIcD6alTWowFR) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 8:25 | 2025-12-04 |  |
 | [O2](https://open.spotify.com/track/6LEvHdwNte7uSEkZKxenKt) | [DeshYo](https://open.spotify.com/artist/6IvDNnbo1jycPOc48zTOT8) | [O2](https://open.spotify.com/album/3W8mPza24dcodMkvY5Dls0) | 4:07 | 2025-09-26 |  |
 | [OathBreaker's Call](https://open.spotify.com/track/0sM5SlFGAZnwJg4oD4bizw) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [OathBreaker's Call](https://open.spotify.com/album/1c82DbgAJ73HGNLud7Bwvt) | 3:47 | 2025-12-29 |  |

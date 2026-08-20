@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 362366,
       "name": "Arp Angels",
       "url": "https://open.spotify.com/track/0yHU14vhz98spCJzaKHdK7"
@@ -6015,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/12kXivq5jSo2AzbFRpFgsQ"
+      },
+      "artists": [
+        {
+          "name": "Those Holy",
+          "url": "https://open.spotify.com/artist/4l1OU0piXqetXiGzahw14L"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255562,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/1pcrkqCHe2CT7efJuNuvf0"
+    },
+    {
+      "album": {
         "name": "Brujas",
         "url": "https://open.spotify.com/album/2ahMcoPEkpknzg2e7ySSS1"
       },
@@ -6506,7 +6524,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 249750,
       "name": "Camera Obscura",
       "url": "https://open.spotify.com/track/0Vmoym2CBIOgh9cgTgwiz5"
@@ -7888,6 +7906,32 @@
       "duration_ms": 141639,
       "name": "cognition",
       "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
+    },
+    {
+      "album": {
+        "name": "vpn",
+        "url": "https://open.spotify.com/album/6ACj5gUm3mV8d3HGRDRvr0"
+      },
+      "artists": [
+        {
+          "name": "vpn",
+          "url": "https://open.spotify.com/artist/2blDTNRNwWPIuxqWe7Lr90"
+        },
+        {
+          "name": "Jonny From Space",
+          "url": "https://open.spotify.com/artist/6DDMnrPzjH1gAFHh07YkLn"
+        },
+        {
+          "name": "Fayt",
+          "url": "https://open.spotify.com/artist/7q83nVZ3rR1xM1cSPFTwZ7"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "coil",
+      "url": "https://open.spotify.com/track/2P2g5y4QoFslFXxgzV9oGq"
     },
     {
       "album": {
@@ -13368,7 +13412,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 156236,
       "name": "Flock Of Swans Fly in V's",
       "url": "https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6"
@@ -14216,7 +14260,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 154167,
       "name": "frog",
       "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
@@ -19169,6 +19213,24 @@
     },
     {
       "album": {
+        "name": "Isle Peaks",
+        "url": "https://open.spotify.com/album/0nwLHIFBxSbbr4xd7WcL51"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600200,
+      "name": "Isle Peaks",
+      "url": "https://open.spotify.com/track/0XwXfIbWdyYFsOkNbwwj6A"
+    },
+    {
+      "album": {
         "name": "ISSUES (INTRO)",
         "url": "https://open.spotify.com/album/1Tu36GzevcVClV0M7AgLDf"
       },
@@ -20732,7 +20794,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 363568,
       "name": "Law Riderz",
       "url": "https://open.spotify.com/track/5YIdJiFO6xlIBPb6Yi4vtp"
@@ -23970,6 +24032,24 @@
       "duration_ms": 256000,
       "name": "MOTH",
       "url": "https://open.spotify.com/track/1H4gXQt5jHktMwJo59akVV"
+    },
+    {
+      "album": {
+        "name": "Mothers Bells",
+        "url": "https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152748,
+      "name": "Mothers Bells",
+      "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
     },
     {
       "album": {
@@ -28986,7 +29066,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 477713,
       "name": "Quintessential Fixed Width Unfoldment",
       "url": "https://open.spotify.com/track/5cdCD30HKjy1SPF9csEYmu"
@@ -31912,7 +31992,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 312888,
       "name": "Sidetrip Sprawl",
       "url": "https://open.spotify.com/track/2BezKvkspHFoYgPw4CCMkz"
@@ -37582,7 +37662,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 307501,
       "name": "TME",
       "url": "https://open.spotify.com/track/31f6SuFKbcDk0aY1smhRLP"
@@ -40550,7 +40630,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 160000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/5qVqO95bAKrSAXr7syJDA5"

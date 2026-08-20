@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: ExWHYZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,767 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,766 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 48 | [イロトリドリ](https://open.spotify.com/track/2BUgZW3HTsiCO2HRJoNUGA) | [ジョナゴールド](https://open.spotify.com/artist/33DJY98WVfbrFbbOhuDRD6) | [Overlap](https://open.spotify.com/album/40NIp1Gqn3tF6jmQrbYy6P) | 4:21 |
 | 49 | [Ao](https://open.spotify.com/track/17VS0NOLhEeXcKejvjstkH) | [Quubi](https://open.spotify.com/artist/0PcqeH6fXBeoIoQ0met7Zb) | [Ao](https://open.spotify.com/album/5r6W68ATHT4YbsTXyZkWJC) | 3:50 |
 
-Snapshot ID: `AAAAAG/oEBahxUenO3nWTiWbrte9YNK3`
+Snapshot ID: `AAAAABdpcaUgBu5e8cPtQR/jpEM93ENT`

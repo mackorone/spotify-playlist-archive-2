@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 533138,
+  "num_followers": 533169,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgnq6vG6GSk/++YnluKKgGL7EgJ",
+  "snapshot_id": "AAAAAOUGfPCA9r67lkWqHs5RLBXgMMlD",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 241666,
       "name": "Yeah 3x",
       "url": "https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I Want You To Know",
-      "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 410096,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Until Now",
-        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 410096,
-      "name": "Greyhound",
-      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Girls Like (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/0EUrNFkbVL5kokjQbzHxl3"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Girls Like (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/0rHVd8h0cFwgLgPFem6S60"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "I Wanna Know (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 197938,
       "name": "I Wanna Know (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Girls Like (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/0EUrNFkbVL5kokjQbzHxl3"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Girls Like (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/0rHVd8h0cFwgLgPFem6S60"
     },
     {
       "added_at": "2023-08-25 09:30:35",

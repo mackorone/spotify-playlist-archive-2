@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,308,799 likes - 100 songs - 5 hr 6 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,309,117 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 20 | [Freedom](https://open.spotify.com/track/5KBmsWg035nZmVpAy9ZpYe) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Freedom](https://open.spotify.com/album/5XOQc1htUG3C8ga4xvVs1e) | 3:13 |
 | 21 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
 | 22 | [i think i'm addicted](https://open.spotify.com/track/0C5G0JJLTyDexp08AiAzxy) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 2:38 |
-| 23 | [Believe In Yourself](https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Believe In Yourself](https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL) | 4:20 |
+| 23 | [Believe In Yourself](https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Believe In Yourself](https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL) | 4:20 |
 | 24 | [I Wonder](https://open.spotify.com/track/1lWj89xpFuPwrDPRVfSvuT) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Mzansi Youth Choir](https://open.spotify.com/artist/3jfrL6OHcKhCAI27qr3ViJ) | [I Wonder](https://open.spotify.com/album/53hLHd6Rlsc6HhNBWOtB7T) | 2:24 |
 | 25 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 |
 | 26 | [Come To Me \(feat\. YSB JAVILLE\)](https://open.spotify.com/track/6SjcORXdVTbHi3hvFbCgVM) | [merchant](https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY), [YSB JAVILLE](https://open.spotify.com/artist/1xOuhNV2RAhiVgA7KYmM3j) | [Come To Me \(feat\. YSB JAVILLE\)](https://open.spotify.com/album/0atSooBLSCajpk06OsBRnI) | 2:56 |

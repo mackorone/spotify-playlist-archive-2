@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-402 songs - 1 day 2 hr 46 min
+403 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Dancing In The Rain](https://open.spotify.com/track/6HYJviuPnewEqhJaluEJ9p) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Skye](https://open.spotify.com/artist/5e8LRy323xeJh0sGtifjGn) | [Dancing In The Rain](https://open.spotify.com/album/1FpKSI5B2bsFIQ7q9gbeAk) | 3:34 | 2024-10-24 | 2024-11-22 |
 | [Dawn](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Dawn](https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs) | 4:22 | 2025-08-01 | 2025-10-24 |
 | [Demons In The Dark](https://open.spotify.com/track/633abaOgQ4YpKWreyqyRPp) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Demons In The Dark](https://open.spotify.com/album/5kXaT7K2PHV3Ei67nH5qpK) | 3:32 | 2024-02-02 | 2024-04-05 |
-| [Destiny](https://open.spotify.com/track/6UtHUN0O9W3WC34L5NpT5I) | [Luv Foundation \(UK\)](https://open.spotify.com/artist/7wZMEsvxuWBZiMAqcy5BOP), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Destiny](https://open.spotify.com/album/215WZfNf9jqBg9SDX0secV) | 2:44 | 2026-04-23 |  |
+| [Destiny](https://open.spotify.com/track/6UtHUN0O9W3WC34L5NpT5I) | [Luv Foundation \(UK\)](https://open.spotify.com/artist/7wZMEsvxuWBZiMAqcy5BOP), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Destiny](https://open.spotify.com/album/215WZfNf9jqBg9SDX0secV) | 2:44 | 2026-04-23 | 2026-08-20 |
 | [Diamonds \(Further Than I Ever Was\)](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Diamonds \(Further Than I Ever Was\)](https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6) | 4:56 | 2025-06-26 |  |
 | [Do It Again](https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z) | [Do It Again](https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL) | 3:05 | 2025-10-02 | 2025-10-24 |
 | [DONA](https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [NEWORLD II](https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK) | 2:49 | 2026-02-27 |  |
@@ -222,6 +222,7 @@
 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 | 2022-01-14 | 2024-07-05 |
 | [Love Again](https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Love Again](https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o) | 4:32 | 2024-08-09 | 2025-02-14 |
 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 | 2024-09-27 | 2024-11-06 |
+| [Love In The Echoes](https://open.spotify.com/track/15tAukYSD2hJxY9Zb4nDly) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Compass](https://open.spotify.com/album/5gZznQMJ77Me2zQATkVOW4) | 3:10 | 2026-08-19 |  |
 | [Love Is Enough](https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Love Is Enough](https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN) | 2:56 | 2024-04-05 | 2024-06-21 |
 | [Love Loud](https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Ciaran McAuley presents Elï](https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp) | [Love Loud](https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x) | 2:54 | 2024-03-01 | 2024-03-15 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-11 | 2025-02-14 |

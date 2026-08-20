@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Phoebe Bridgers on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,423 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,417 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Like A River](https://open.spotify.com/track/3fbHdJu0V2dseGchHTjqUw) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [AJ Lee](https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG), [Gena Britt](https://open.spotify.com/artist/58w5My0xczC07lwAp8T0PJ), [Hasee Ciaccio](https://open.spotify.com/artist/0AoPdpx2v9EgQHmVvDxd7m), [Wila Frank](https://open.spotify.com/artist/5BytlUovIxRBOBPdbC3UWu) | [Bluegrass Women](https://open.spotify.com/album/2WGv7S4udUAHiWaXVJaq75) | 3:57 |
 | 100 | [Needle](https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Needle](https://open.spotify.com/album/7gj35vKZSrndvclu5KyKib) | 3:00 |
 
-Snapshot ID: `AAAAAJw/CwL1rUS4CoGQDaDiKi0ssxvi`
+Snapshot ID: `AAAAANDKMhmjyxZbun6MaQykb62slAQg`

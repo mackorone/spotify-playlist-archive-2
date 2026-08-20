@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-236 songs - 13 hr 50 min
+237 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Ahora o Nunca](https://open.spotify.com/track/4maAZ4ZhPD4izQtL7lFlom) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/7xjf7xLTk3tePpkIq0OQJR) | 3:34 | 2022-06-04 | 2023-07-24 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/2JudZIMCL679okVHGfsnr2) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF) | 3:48 | 2023-05-25 | 2026-08-19 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/6j9GnGF3oWh0cnbWDFcvE6) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/0cHTcIIMjpgZ2zV3ilMRfR) | 3:48 | 2022-06-04 | 2023-05-26 |
-| [Ahora Que Te Vas](https://open.spotify.com/track/12jGUMe0AEdCwOZreOwjZD) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Ahora Que Te Vas](https://open.spotify.com/album/0fztpT3NpF8wVnpMrYDBrK) | 3:41 | 2026-08-18 |  |
+| [Ahora Que Te Vas](https://open.spotify.com/track/12jGUMe0AEdCwOZreOwjZD) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Ahora Que Te Vas](https://open.spotify.com/album/0fztpT3NpF8wVnpMrYDBrK) | 3:41 | 2026-08-18 | 2026-08-20 |
+| [Ahora Que Te Vas \- Versión Bachata](https://open.spotify.com/track/3ECrAXGeSWe5NxUyRmDQV6) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF) | 3:54 | 2026-08-19 |  |
 | [Ahora Soy Libre](https://open.spotify.com/track/39ppaMCMss31RuUV02IzZJ) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 3:45 | 2025-05-29 |  |
 | [Ahora Soy Libre](https://open.spotify.com/track/6DTXxggEkmEJallW8qMrIm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:45 | 2022-06-04 | 2025-05-30 |
 | [Alamogordo](https://open.spotify.com/track/7E814F5fWNg1FepgNKlrIC) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Alamogordo](https://open.spotify.com/album/3PjKtRov6W17z8hAus6yOT) | 2:59 | 2024-03-16 |  |
@@ -158,8 +159,8 @@
 | [Make a Choice](https://open.spotify.com/track/6HN6ahqgNMNql59e6dCWIo) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 3:45 | 2024-03-11 |  |
 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 | 2022-06-04 | 2023-12-25 |
 | [Malas Lenguas](https://open.spotify.com/track/6N6jtNkIlWyTPXN58m92LB) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/2hmEUzOZ2ZnM8ozrCF0eIr) | 2:44 | 2023-12-24 |  |
-| [Maldita Sea Mi Suerte](https://open.spotify.com/track/21zTyIk4wqqqOJP5bZhLlB) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:01 | 2022-06-04 | 2026-08-19 |
-| [Maldita sea mi suerte](https://open.spotify.com/track/1sslQ5eGN4Vxa3ZUe6s887) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Adios a Mis Chorreadas](https://open.spotify.com/album/5ne1zw6JDkeGtHVOWD60zm) | 3:13 | 2026-08-18 |  |
+| [Maldita Sea Mi Suerte](https://open.spotify.com/track/21zTyIk4wqqqOJP5bZhLlB) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:01 | 2022-06-04 |  |
+| [Maldita sea mi suerte](https://open.spotify.com/track/1sslQ5eGN4Vxa3ZUe6s887) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Adios a Mis Chorreadas](https://open.spotify.com/album/5ne1zw6JDkeGtHVOWD60zm) | 3:13 | 2026-08-18 | 2026-08-20 |
 | [Mariposas](https://open.spotify.com/track/15c85Spx0lU59lx6iS0oPL) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/5UEKgslA1ivLpx323B4w5d) | 3:21 | 2024-03-15 |  |
 | [Mariposas](https://open.spotify.com/track/6raThMtY1Y6jkk8lS6bALB) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:21 | 2022-06-04 | 2024-03-16 |
 | [Moon](https://open.spotify.com/track/1LnlDFJmxi3i7b5SQVC5n1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:28 | 2022-06-04 | 2022-10-19 |

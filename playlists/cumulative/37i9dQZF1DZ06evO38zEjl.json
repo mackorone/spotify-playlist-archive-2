@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 312666,
       "name": "Al Kongo Udu",
       "url": "https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 293973,
       "name": "Empire II",
       "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 403186,
       "name": "Itimad",
       "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 317093,
       "name": "Jadwa",
       "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
@@ -1554,6 +1554,24 @@
     {
       "album": {
         "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427400,
+      "name": "Ndeya",
+      "url": "https://open.spotify.com/track/0WJ3MzbGaKQFw7BcEli0TB"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
         "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
       },
       "artists": [
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 167880,
       "name": "Parasol Blanc, pt. 1",
       "url": "https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 563360,
       "name": "Warriors [Original Fictions]",
       "url": "https://open.spotify.com/track/3TmN0l2UAezBewz9Gv36E2"

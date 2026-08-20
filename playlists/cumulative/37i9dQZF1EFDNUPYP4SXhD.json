@@ -278,10 +278,28 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 221880,
       "name": "Ahora Que Te Vas",
       "url": "https://open.spotify.com/track/12jGUMe0AEdCwOZreOwjZD"
+    },
+    {
+      "album": {
+        "name": "Cinco Titanes",
+        "url": "https://open.spotify.com/album/4qfGBlnqnTP443r58XNACd"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219730,
+      "name": "Ahora Que Te Vas",
+      "url": "https://open.spotify.com/track/2FJMdQH5PtUbvw8aQcRAq7"
     },
     {
       "album": {
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"

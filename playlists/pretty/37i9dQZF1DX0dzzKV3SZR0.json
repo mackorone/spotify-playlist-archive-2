@@ -1,13 +1,33 @@
 {
   "description": "the songs behind all your crushes.",
-  "num_followers": 368101,
+  "num_followers": 368139,
   "original_name": "Boo Thang <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABVfmdpMZstfOHj38LxjY0TyoghZ",
+  "snapshot_id": "AAAAAMDiBg0mMgSqUclT+COhKFQmloP3",
   "tracks": [
+    {
+      "added_at": "2026-08-19 19:28:04",
+      "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 256179,
+      "name": "Say What (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
+    },
     {
       "added_at": "2026-07-24 05:47:24",
       "album": {
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc"
     },
     {
-      "added_at": "2026-07-24 05:47:24",
+      "added_at": "2026-08-19 19:28:04",
       "album": {
         "name": "Pretty Girlz Run The World",
         "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
@@ -136,13 +156,37 @@
           "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 147401,
-      "name": "Just Saying",
-      "url": "https://open.spotify.com/track/2J23wFXB3E99p5jTRN1JjJ"
+      "duration_ms": 181954,
+      "name": "Run The World",
+      "url": "https://open.spotify.com/track/6m7j245LMNVncGSAqCKxg2"
+    },
+    {
+      "added_at": "2026-08-19 19:28:04",
+      "album": {
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 231020,
+      "name": "Vibe With Me (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0zqtucceflE4DfNRFUkASn"
     },
     {
       "added_at": "2026-06-19 04:01:55",
@@ -1047,34 +1091,6 @@
     {
       "added_at": "2026-06-19 04:01:55",
       "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        },
-        {
-          "name": "Loon",
-          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
-        },
-        {
-          "name": "Mario Winans",
-          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
-      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
-    },
-    {
-      "added_at": "2026-06-19 04:01:55",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
-    },
-    {
-      "added_at": "2026-06-19 04:01:55",
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
     }
   ],
   "unique_name": "Boo Thang <3",

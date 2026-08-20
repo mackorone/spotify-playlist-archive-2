@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 120725,
+  "num_followers": 120769,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMUuAMfY+9S+B4R3hT19ZCrDfONY",
+  "snapshot_id": "AAAAAFw6uq0h1jNtNnkAGVHMjQ6X9AQ/",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:22",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-08-14 04:01:22",
       "album": {
+        "name": "AY PAPI",
+        "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
+      },
+      "artists": [
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        }
+      ],
+      "duration_ms": 171124,
+      "name": "AY PAPI",
+      "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
+    },
+    {
+      "added_at": "2026-08-14 04:01:22",
+      "album": {
         "name": "Coroa",
         "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2026-08-14 04:01:22",
-      "album": {
-        "name": "AY PAPI",
-        "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
-      },
-      "artists": [
-        {
-          "name": "ACID HARRY",
-          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
-        }
-      ],
-      "duration_ms": 171124,
-      "name": "AY PAPI",
-      "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
     },
     {
       "added_at": "2026-08-14 04:01:22",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2026-08-14 04:01:22",
       "album": {
+        "name": "La Bamba",
+        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
+      },
+      "artists": [
+        {
+          "name": "MESSINA.",
+          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
+        },
+        {
+          "name": "Rawling",
+          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
+        }
+      ],
+      "duration_ms": 197862,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
+    },
+    {
+      "added_at": "2026-08-14 04:01:22",
+      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1795,38 +1815,26 @@
     {
       "added_at": "2026-08-14 04:01:22",
       "album": {
-        "name": "La Bamba",
-        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
       "artists": [
         {
-          "name": "MESSINA.",
-          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
+          "name": "Danny Roma x Manrix",
+          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
         },
         {
-          "name": "Rawling",
-          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
-        }
-      ],
-      "duration_ms": 197862,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
-    },
-    {
-      "added_at": "2026-08-14 04:01:22",
-      "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
         {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+          "name": "Lina Torres",
+          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
         }
       ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+      "duration_ms": 152903,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
     },
     {
       "added_at": "2026-08-14 04:01:22",
@@ -1851,26 +1859,18 @@
     {
       "added_at": "2026-08-14 04:01:22",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
       },
       "artists": [
         {
-          "name": "Danny Roma x Manrix",
-          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
-        },
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Lina Torres",
-          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-08-14 04:01:22",

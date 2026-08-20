@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Fuera Del Planeta",
+        "url": "https://open.spotify.com/album/1zNMWlkUlnBFSBoGh2CwN8"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Fuera Del Planeta",
+      "url": "https://open.spotify.com/track/2xtjRPbaX8bM3W27qgehjo"
+    },
+    {
+      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },

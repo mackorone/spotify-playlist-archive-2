@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: KiiiKiii\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,232 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,219 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [LIFE \(Feat\. BOBBY\)](https://open.spotify.com/track/3MLnRHPDHsIwSiGlYHbwhi) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [NE:ON](https://open.spotify.com/artist/2bhYmlBehpmfopU0TroWem), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [SWITCH.zip](https://open.spotify.com/album/0GIgUx9OJbgSRlXfdVElP3) | 2:45 |
 | 50 | [Say It](https://open.spotify.com/track/4IiZmwQIkApeVxHDujXJft) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/65RBsDOKOTGm4EW6dGgV6a) | 3:04 |
 
-Snapshot ID: `AAAAABa6q1+QcC/Voet8WOuRagHB2fd/`
+Snapshot ID: `AAAAAHQQT5WZJrbgNPnq9jUjOocEE6vc`

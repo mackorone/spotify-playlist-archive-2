@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 140343,
       "name": "Follow My Lead",
       "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
@@ -9420,6 +9420,24 @@
       "duration_ms": 133577,
       "name": "Taka Oshi",
       "url": "https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N"
+    },
+    {
+      "album": {
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167433,
+      "name": "Tap Am",
+      "url": "https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x"
     },
     {
       "album": {

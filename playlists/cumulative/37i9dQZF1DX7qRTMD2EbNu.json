@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: O'kenneth",
+  "description": "Hottest bars coming live from the 233.  Cover: AratheJay",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -11889,6 +11889,24 @@
     },
     {
       "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233965,
+      "name": "METICULOUS",
+      "url": "https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd"
+    },
+    {
+      "album": {
         "name": "Me Toaso",
         "url": "https://open.spotify.com/album/7DhTrjwQDpv1i0Q2nrkd1x"
       },
@@ -16836,7 +16854,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 206000,
       "name": "Settings",
       "url": "https://open.spotify.com/track/6wbkxP1Iur92PhFVo5Vooo"

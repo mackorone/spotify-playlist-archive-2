@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-623 songs - 1 day 14 hr 32 min
+625 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,9 +364,11 @@
 | [O Acaso Não Costuma Falhar](https://open.spotify.com/track/1WQAo4Nb2oH19AgOSSJ11Z) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [O Acaso Não Costuma Falhar](https://open.spotify.com/album/4tAeWlcuSKukgwJ49NhSRG) | 3:32 | 2026-05-22 | 2026-08-08 |
 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 | 2026-01-29 | 2026-02-18 |
 | [Obsession](https://open.spotify.com/track/5aaoiX4NB1mm65vh3uBi6N) | [Love N'Dirtt](https://open.spotify.com/artist/3mRYs0sLOI5IOBYiOYMLG6) | [Give It Time](https://open.spotify.com/album/2Ru9L8vtPvvSfcSCcENjRj) | 3:51 | 2026-02-22 | 2026-03-22 |
+| [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 | 2026-08-19 |  |
 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 | 2026-06-15 | 2026-08-08 |
 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 | 2026-04-06 | 2026-05-08 |
 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 | 2026-01-21 |
+| [Old Enough](https://open.spotify.com/track/72Fx8gY38Wr9XxETrPEvKd) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Old Enough](https://open.spotify.com/album/7b6P1hUrUxbPTOXU4E7EkI) | 3:26 | 2026-08-19 |  |
 | [On the Loose](https://open.spotify.com/track/7d1lvt879yCYPAGbpacM04) | [Middle Ages](https://open.spotify.com/artist/0NyhABi9Cb2nGLMMoG6KQF) | [On the Loose](https://open.spotify.com/album/7MWN8qgtZP8KKe5yS0SfmH) | 3:35 | 2025-11-26 | 2026-01-05 |
 | [Once More Again \(Alternative Version\)](https://open.spotify.com/track/0t7ydqOC1zuSjvidhHWWqB) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Once More Again](https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8) | 4:53 | 2026-08-17 |  |
 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 | 2026-07-13 | 2026-08-08 |

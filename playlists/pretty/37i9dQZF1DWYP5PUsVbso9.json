@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 318402,
+  "num_followers": 318424,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHsoMQz6h9fU/EXIZrfuUWDND7e",
+  "snapshot_id": "AAAAAB7KtfOJOdSHKyyMYR8l9gUv9w4+",
   "tracks": [
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Good 'N' Country",
-        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
         "name": "Johnny Paycheck - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 156666,
       "name": "Take This Job and Shove It",
       "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
+        "name": "Good 'N' Country",
+        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
     },
     {
       "added_at": "2026-02-03 18:46:39",

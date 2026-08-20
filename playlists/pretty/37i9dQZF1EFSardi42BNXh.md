@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728 likes - 44 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 44 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 4 | [Wishful Drinking](https://open.spotify.com/track/0Pq9K4yZlPwjjRMeIkBCpg) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:15 |
 | 5 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 |
 | 6 | [I Like \(the idea of\) You](https://open.spotify.com/track/62XsUDISgorMOl0wEyTmjF) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:48 |
-| 7 | [Bored](https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Bored](https://open.spotify.com/album/1mpAhcCw0EtoczmnbXjXBU) | 3:04 |
-| 8 | [Haze](https://open.spotify.com/track/0nb8EZAhGSMM66lrhLIsml) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:46 |
-| 9 | [Words Ain't Enough](https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:04 |
-| 10 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 |
-| 11 | [Not over You](https://open.spotify.com/track/6l6VorBrQut6Ee0p19lYvG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:13 |
-| 12 | [BAD BITCH](https://open.spotify.com/track/0ypgX9hLm9BEfJ7ldtFAgH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:17 |
+| 7 | [Haze](https://open.spotify.com/track/0nb8EZAhGSMM66lrhLIsml) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:46 |
+| 8 | [Words Ain't Enough](https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:04 |
+| 9 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 |
+| 10 | [Not over You](https://open.spotify.com/track/6l6VorBrQut6Ee0p19lYvG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:13 |
+| 11 | [BAD BITCH](https://open.spotify.com/track/0ypgX9hLm9BEfJ7ldtFAgH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:17 |
+| 12 | [Bored](https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Bored](https://open.spotify.com/album/1mpAhcCw0EtoczmnbXjXBU) | 3:04 |
 | 13 | [Words Ain't Enough](https://open.spotify.com/track/7lMzNAybmy1UNPsgflbVcE) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Words Ain't Enough](https://open.spotify.com/album/1lVNR55Zdc0sXa6tztc31G) | 2:04 |
 | 14 | [Dream](https://open.spotify.com/track/6fQPfycZ0rU13R4Cu6gz8S) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Dream](https://open.spotify.com/album/4KIybFkyj4jtLHRFqtCxGG) | 3:24 |
 | 15 | [On My Own](https://open.spotify.com/track/1KzXa60i893JSwUBWJW83D) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 2:56 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 37 | [When The Curtain Falls](https://open.spotify.com/track/5edAkYJBftjmXgRrrlt3n7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:26 |
 | 38 | [I Don't Know Who I Am Without You](https://open.spotify.com/track/5XJeDFUpl3q8Tz5o3E7vyn) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 4:35 |
 | 39 | [This I Pray For You](https://open.spotify.com/track/4hxvSOSi7kAgVf3wPmhKWT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
-| 40 | [Good Things Go Bad](https://open.spotify.com/track/3TjjPc5qSavGTFqR6f3zHe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:44 |
-| 41 | [Just Right \- Sunshine Geometry Dash \(Jakki Remix\)](https://open.spotify.com/track/5ASZJOSI35MKa9XZw8Xmj0) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Jakki](https://open.spotify.com/artist/2llvExQgjFVtvFbiaGcfUh) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:36 |
+| 40 | [Just Right \- Sunshine Geometry Dash \(Jakki Remix\)](https://open.spotify.com/track/5ASZJOSI35MKa9XZw8Xmj0) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Jakki](https://open.spotify.com/artist/2llvExQgjFVtvFbiaGcfUh) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:36 |
+| 41 | [Good Things Go Bad](https://open.spotify.com/track/3TjjPc5qSavGTFqR6f3zHe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:44 |
 | 42 | [Easy As Pie](https://open.spotify.com/track/6FWBEwjFOZgp7baVeUeTBk) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 1:59 |
 | 43 | [Clean Up Song](https://open.spotify.com/track/0ViTassxJjdgz5WBWllzkq) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/50lXa6OwQUzBnpX2kK3knn) | 2:46 |
 | 44 | [Grow](https://open.spotify.com/track/1rUVGch03Niwmkp9Lmblh5) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/4xCmgPunJsy7CdwXNk5e7U) | 3:11 |
 
-Snapshot ID: `AcZ75AAAAADf4hCo5YalXzA5XxqOmgad`
+Snapshot ID: `AcaBhAAAAAA0Hm9HqqGtShw0A5Tp91/j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec TeddyBear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,060 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,071 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [wow](https://open.spotify.com/track/3RLmUALgEvs3r7ewT71WUp) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [wow](https://open.spotify.com/album/2KpveXuktDa0smRM2rgh7P) | 1:40 |
 | 50 | [Les mots blessent](https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Les mots blessent](https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw) | 2:46 |
 
-Snapshot ID: `AAAAAOCGPdYFMd7Oe13HNT7Rd4YkioWr`
+Snapshot ID: `AAAAAHgg2DSaRdQeDonxUS3FUY3I19Jr`

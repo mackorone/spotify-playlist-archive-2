@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 
 > ディズニーの名曲をオルゴール・サウンドで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,076 likes - 169 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,080 likes - 169 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 | 168 | [Glide and Joy](https://open.spotify.com/track/4CHRkWLNphrdsH4u9fTwmf) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.4](https://open.spotify.com/album/6k2ESfcW7ytNsVoj7kIJ4g) | 2:48 |
 | 169 | [Le Festin](https://open.spotify.com/track/4DjQwMLBH1xuh0vaUNYnoV) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.4](https://open.spotify.com/album/6k2ESfcW7ytNsVoj7kIJ4g) | 4:51 |
 
-Snapshot ID: `AAAAANLDuq90tL/Dr92aFf56yX2aWvrQ`
+Snapshot ID: `AAAAAHg4Afd2xuMh+NBXZsctONy6g/5j`

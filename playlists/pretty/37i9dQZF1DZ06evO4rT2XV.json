@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAp9Vkl4Vl9fJ5lZCLewHRo",
+  "snapshot_id": "aoOggAAAAACIj2wBhQOYpkPVWJ6vV5hc",
   "tracks": [
     {
       "added_at": null,
@@ -80,21 +80,17 @@
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Mont\u00f3n",
-          "url": "https://open.spotify.com/artist/1oioXBS3TyOjlS0cG3WG91"
-        },
-        {
-          "name": "Mayte Martin",
-          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
           "name": "Katia & Marielle Lab\u00e8que",
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 176173,
-      "name": "Int\u00e9ntalo Encontrar",
-      "url": "https://open.spotify.com/track/2fHvq1WZYX9NCe9YtFiF3n"
+      "duration_ms": 173053,
+      "name": "Dolly Suite, Op.56 - for piano duet: 1. Berceuse",
+      "url": "https://open.spotify.com/track/6yWwjmf0tRbumPbV3dVLDV"
     },
     {
       "added_at": null,
@@ -183,6 +179,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Mont\u00f3n",
+          "url": "https://open.spotify.com/artist/1oioXBS3TyOjlS0cG3WG91"
+        },
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Int\u00e9ntalo Encontrar",
+      "url": "https://open.spotify.com/track/2fHvq1WZYX9NCe9YtFiF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Study: Minimalism",
         "url": "https://open.spotify.com/album/6TtbtF7TWYZH3H5Vedc6Yc"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 366391,
       "name": "Gameland",
       "url": "https://open.spotify.com/track/0hgks30iXkIyju4sGXtCh7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "6 \u00c9pigraphes antiques, L.131: 3. Pour que la nuit soit propice",
-      "url": "https://open.spotify.com/track/4WzKJeostuEFwlEMt4qrjp"
     },
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "6 \u00c9pigraphes antiques, L.131: 3. Pour que la nuit soit propice",
+      "url": "https://open.spotify.com/track/4WzKJeostuEFwlEMt4qrjp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satie at sunset",
         "url": "https://open.spotify.com/album/64aYPey5DGR6csQGqIYXe5"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 157040,
       "name": "Trois morceaux en forme de poire: En plus",
       "url": "https://open.spotify.com/track/4iusuwMI9i5qctl0jwH98G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "6 \u00c9pigraphes antiques, L.131: 5. Pour l'Egyptienne",
-      "url": "https://open.spotify.com/track/0GJ7u3fhop5jP9aLZUhDUx"
     },
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "6 \u00c9pigraphes antiques, L.131: 5. Pour l'Egyptienne",
+      "url": "https://open.spotify.com/track/0GJ7u3fhop5jP9aLZUhDUx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Zen - Tchaikovsky, Scriabin, Stravinsky",
         "url": "https://open.spotify.com/album/6Y0wCkSsQACfy6ZoixPomA"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 103880,
       "name": "Three Easy Pieces (for Piano Four-Hands): II. Waltz",
       "url": "https://open.spotify.com/track/1S399IwUjFfAnQ5Pj150cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 142653,
-      "name": "6 \u00c9pigraphes antiques, L.131: 6. Pour remercier la pluie au matin",
-      "url": "https://open.spotify.com/track/3TFXXzHoAFDV2BfcYa2pIz"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 142653,
+      "name": "6 \u00c9pigraphes antiques, L.131: 6. Pour remercier la pluie au matin",
+      "url": "https://open.spotify.com/track/3TFXXzHoAFDV2BfcYa2pIz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satie - Colorful",
         "url": "https://open.spotify.com/album/43dVujvtKl05f0UASbqjP9"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 105120,
       "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 3. Jeux de Gargantua (Coin de Polka)",
       "url": "https://open.spotify.com/track/4cp4Gab0ZN70uc0DbsPa1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 144866,
-      "name": "6 \u00c9pigraphes antiques, L.131: 4. Pour la danseuse aux crotales",
-      "url": "https://open.spotify.com/track/06p9QqL0naNvHfc0JlZxB7"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 144866,
+      "name": "6 \u00c9pigraphes antiques, L.131: 4. Pour la danseuse aux crotales",
+      "url": "https://open.spotify.com/track/06p9QqL0naNvHfc0JlZxB7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satie Autumnal Study Vibes",
         "url": "https://open.spotify.com/album/0ISuPqfiWZvrGm6SeFwXSq"
       },
@@ -631,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satie - Colorful",
-        "url": "https://open.spotify.com/album/43dVujvtKl05f0UASbqjP9"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 136573,
-      "name": "Trois morceaux en forme de poire: No.2 - Enlev\u00e9",
-      "url": "https://open.spotify.com/track/3LnVLotiBRBe4Qgx1DLD8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Zen - Tchaikovsky, Scriabin, Stravinsky",
         "url": "https://open.spotify.com/album/6Y0wCkSsQACfy6ZoixPomA"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 62280,
       "name": "5 Easy Pieces for Piano Duet: 1. Andante",
       "url": "https://open.spotify.com/track/4qA6Z0XySIBz5EBmzdG1aL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satie - Colorful",
+        "url": "https://open.spotify.com/album/43dVujvtKl05f0UASbqjP9"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 136573,
+      "name": "Trois morceaux en forme de poire: No.2 - Enlev\u00e9",
+      "url": "https://open.spotify.com/track/3LnVLotiBRBe4Qgx1DLD8J"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satie - Colorful",
-        "url": "https://open.spotify.com/album/43dVujvtKl05f0UASbqjP9"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 73346,
-      "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 1. De l'enfance de Pantagruel (R\u00eaverie)",
-      "url": "https://open.spotify.com/track/4bxS8Ozv6gUt9usO1Sf3Ww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classique Feel Good",
         "url": "https://open.spotify.com/album/6HBzDcJBcwXh0GkzKo7mSU"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 385253,
       "name": "Fantasy in F minor, D. 940 (Op.103) for piano duet: 3. Allegro vivace",
       "url": "https://open.spotify.com/track/3T18PFp9FaLNkW3M2Mvg8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satie - Colorful",
+        "url": "https://open.spotify.com/album/43dVujvtKl05f0UASbqjP9"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 73346,
+      "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 1. De l'enfance de Pantagruel (R\u00eaverie)",
+      "url": "https://open.spotify.com/track/4bxS8Ozv6gUt9usO1Sf3Ww"
     },
     {
       "added_at": null,
@@ -1075,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Berceuses piano",
-        "url": "https://open.spotify.com/album/3Z9ZYA9la78wlTMbfUQhrW"
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
       },
       "artists": [
         {
@@ -1084,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 130542,
-      "name": "Avril 14",
-      "url": "https://open.spotify.com/track/2NLkCjVcQsxEGKS3aNJHfN"
+      "duration_ms": 65346,
+      "name": "I. Idylle, \u00e0 Debussy",
+      "url": "https://open.spotify.com/track/7oFvYKRbPVQiY2gV6WQnUj"
     },
     {
       "added_at": null,
@@ -1115,42 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romantique Chill & Relax",
-        "url": "https://open.spotify.com/album/1sLfh1rwerbFesvwsbvHKp"
+        "name": "Berceuses piano",
+        "url": "https://open.spotify.com/album/3Z9ZYA9la78wlTMbfUQhrW"
       },
       "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
         {
           "name": "Katia & Marielle Lab\u00e8que",
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 483453,
-      "name": "Divertissement sur des motifs originaux fran\u00e7ais, in E minor, D.823: 2. Andantino vari\u00e9",
-      "url": "https://open.spotify.com/track/5z5udAD5kx3WYTm0tojooC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sisters",
-        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 900280,
-      "name": "Rhapsody in Blue - Arr. for 2 Pianos: Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/2rMwQWnuDdZZ3Oxff7qUif"
+      "duration_ms": 130542,
+      "name": "Avril 14",
+      "url": "https://open.spotify.com/track/2NLkCjVcQsxEGKS3aNJHfN"
     }
   ],
   "unique_name": "This Is Katia & Marielle Lab\u00e8que",

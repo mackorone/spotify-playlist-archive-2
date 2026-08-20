@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Petra Sihombing
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,122 likes - 131 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,136 likes - 131 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 130 | [Sama Sama Tau](https://open.spotify.com/track/7EAfwpMk0WWKiMyoKvfPVd) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Sama Sama Tau](https://open.spotify.com/album/3Kweuk4RWAQJ5jJ3Y8MsYp) | 2:59 |
 | 131 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 
-Snapshot ID: `AAAAAHpsMes7D5xuLVhI85NfxT2dtlLs`
+Snapshot ID: `AAAAANUGsepVZtuDLJjtyw5T0A4pH2fv`

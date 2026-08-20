@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Ada Lea",
+  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 232277,
       "name": "86",
       "url": "https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw"
@@ -5814,6 +5814,24 @@
       "duration_ms": 285734,
       "name": "carnegie hall",
       "url": "https://open.spotify.com/track/7xAOjVo97wD5xdcHWvnxkB"
+    },
+    {
+      "album": {
+        "name": "Carol / not carol",
+        "url": "https://open.spotify.com/album/1gDhE3043O3EnYRZR4f0wi"
+      },
+      "artists": [
+        {
+          "name": "Ruby Gill",
+          "url": "https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261747,
+      "name": "Carol / not carol",
+      "url": "https://open.spotify.com/track/5q94hPY3GrjhCUet14nIdl"
     },
     {
       "album": {
@@ -12076,7 +12094,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 200293,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
@@ -13182,7 +13200,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 195200,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt"
@@ -20433,6 +20451,28 @@
     },
     {
       "album": {
+        "name": "Lay Down Your Cards",
+        "url": "https://open.spotify.com/album/7EtNGsZoiEXxXUMZtdhpiA"
+      },
+      "artists": [
+        {
+          "name": "Lennon VanderDoes",
+          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+        },
+        {
+          "name": "Alycia Lang",
+          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182561,
+      "name": "Lay Down Your Cards",
+      "url": "https://open.spotify.com/track/2lX9duK6llhtN7pRTuZjTa"
+    },
+    {
+      "album": {
         "name": "Lay to Waste",
         "url": "https://open.spotify.com/album/1CYwvveNOmE1XJMpKsLhM2"
       },
@@ -22344,7 +22384,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 211106,
       "name": "Malvern Star",
       "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
@@ -24777,6 +24817,24 @@
     },
     {
       "album": {
+        "name": "Night Fright",
+        "url": "https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml"
+      },
+      "artists": [
+        {
+          "name": "Biita Houdei",
+          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236676,
+      "name": "Night Fright",
+      "url": "https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY"
+    },
+    {
+      "album": {
         "name": "Nighttime Animal",
         "url": "https://open.spotify.com/album/3M7XH027pQJaQILz6R5kXc"
       },
@@ -27092,7 +27150,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 260464,
       "name": "Pearl Cloud Song",
       "url": "https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC"
@@ -31398,6 +31456,24 @@
       "duration_ms": 245414,
       "name": "Sometime After This",
       "url": "https://open.spotify.com/track/0unM82rm6dUmi26mHIbT2W"
+    },
+    {
+      "album": {
+        "name": "Music For Best Friends",
+        "url": "https://open.spotify.com/album/0VsbisroWrnWkteopzOyrz"
+      },
+      "artists": [
+        {
+          "name": "Z Pocket",
+          "url": "https://open.spotify.com/artist/1A0h9VcEvbimvAucnSZ4rV"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Sometimes I Think About You",
+      "url": "https://open.spotify.com/track/0Sqlzv37E6nqOm6WVkv3Zn"
     },
     {
       "album": {

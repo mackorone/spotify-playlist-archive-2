@@ -1,29 +1,13 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Purple Cassette",
-  "num_followers": 62668,
+  "description": "The best new music by independent artists and labels in India. Cover - Saroj Kashyap",
+  "num_followers": 62690,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBB9GGAZpkR3klpAlpPef2CG7Gn",
+  "snapshot_id": "AAAAAC+nsn2wiDAFH3RnE1vBkBULAyJJ",
   "tracks": [
-    {
-      "added_at": "2026-08-05 07:30:04",
-      "album": {
-        "name": "Waiting on Nothing",
-        "url": "https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH"
-      },
-      "artists": [
-        {
-          "name": "Purple Cassette",
-          "url": "https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb"
-        }
-      ],
-      "duration_ms": 215854,
-      "name": "Waiting on Nothing",
-      "url": "https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp"
-    },
     {
       "added_at": "2026-08-12 07:30:10",
       "album": {
@@ -39,6 +23,62 @@
       "duration_ms": 193654,
       "name": "More Than Just Friends",
       "url": "https://open.spotify.com/track/0xMwOHk6GauKk9SDJn7xyu"
+    },
+    {
+      "added_at": "2026-08-19 07:30:04",
+      "album": {
+        "name": "Khol",
+        "url": "https://open.spotify.com/album/3ikzUsJcc8FDI9BqL8aQmu"
+      },
+      "artists": [
+        {
+          "name": "borkush",
+          "url": "https://open.spotify.com/artist/2NCuBAUfAm6apU81zx8UXQ"
+        },
+        {
+          "name": "Shivanand Pandey",
+          "url": "https://open.spotify.com/artist/4XYbOZh2DmBK0jc7SJrFfd"
+        }
+      ],
+      "duration_ms": 597818,
+      "name": "Khol",
+      "url": "https://open.spotify.com/track/6YLtjB12LaeFL7SkRhScLN"
+    },
+    {
+      "added_at": "2026-08-19 07:30:04",
+      "album": {
+        "name": "Tu Hi Tu",
+        "url": "https://open.spotify.com/album/6OUnUzxtCxjvHSZdqFobIj"
+      },
+      "artists": [
+        {
+          "name": "Ruhani",
+          "url": "https://open.spotify.com/artist/2BlTRdSULN8gvJYDG7KeHf"
+        },
+        {
+          "name": "Samar",
+          "url": "https://open.spotify.com/artist/3eBQnfBUGz8IIIXJMtwjuU"
+        }
+      ],
+      "duration_ms": 217912,
+      "name": "Tu Hi Tu",
+      "url": "https://open.spotify.com/track/0sEQZ48aTfTUO0OQfbRa72"
+    },
+    {
+      "added_at": "2026-08-05 07:30:04",
+      "album": {
+        "name": "Waiting on Nothing",
+        "url": "https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH"
+      },
+      "artists": [
+        {
+          "name": "Purple Cassette",
+          "url": "https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb"
+        }
+      ],
+      "duration_ms": 215854,
+      "name": "Waiting on Nothing",
+      "url": "https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp"
     },
     {
       "added_at": "2026-08-12 07:30:10",
@@ -371,26 +411,6 @@
       "duration_ms": 177777,
       "name": "Jaaniya",
       "url": "https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "QAID",
-        "url": "https://open.spotify.com/album/4N5yEVwRzYy94r5qDPthRY"
-      },
-      "artists": [
-        {
-          "name": "Swati Bhatt",
-          "url": "https://open.spotify.com/artist/3QfWOXa5U33svUMlOzQxW8"
-        },
-        {
-          "name": "Dhruv Visvanath",
-          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
-        }
-      ],
-      "duration_ms": 191429,
-      "name": "QAID",
-      "url": "https://open.spotify.com/track/6gRD3nHt1vB4UuBuVp9ICR"
     },
     {
       "added_at": "2026-07-15 08:00:14",
@@ -847,26 +867,6 @@
       "duration_ms": 348000,
       "name": "Neer Bharan",
       "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Ambwa Talay",
-        "url": "https://open.spotify.com/album/4QlxOqWwjzTFTbUCqpWR5u"
-      },
-      "artists": [
-        {
-          "name": "Gurupriya Atreya",
-          "url": "https://open.spotify.com/artist/0OO4ioldaC9gDh0XBHy11I"
-        },
-        {
-          "name": "Hriday Goswami",
-          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
-        }
-      ],
-      "duration_ms": 312832,
-      "name": "Ambwa Talay",
-      "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
     },
     {
       "added_at": "2026-07-15 08:00:14",

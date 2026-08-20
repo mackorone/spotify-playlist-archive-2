@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Peking Duk, Troye Sivan, Phoebe Bridgers, KATSEYE, Jungle, Wade Forster + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,683 likes - 92 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,638 likes - 92 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 91 | [What I Had](https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Big World](https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy) | 3:01 |
 | 92 | [Ricochet](https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Ricochet](https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh) | 3:43 |
 
-Snapshot ID: `AAAAALBOKcDbLTFYHnRTS3UUaZJSSuvu`
+Snapshot ID: `AAAAAFPIg9FdRH9jzYTp0iPDmvalJjHM`

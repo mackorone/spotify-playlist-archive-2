@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXIq7bVewyc.md) - [plain]
 
 > Guidance for rest, resilience, and self\-care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAAqAagH4lmWPkFCbVZUBVeQyD9QU`
+Snapshot ID: `AAAAAIGPVmCHMmdwGuX4/g4eSv61XJdN`

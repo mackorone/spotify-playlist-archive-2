@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BH8DSWxh5I.md) - [plain]
 
 > Cozy up inside and do absolutely nothing\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,246 likes - 34 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,265 likes - 34 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BH8DSWxh5I.md) - [plain]
 | 33 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 34 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 
-Snapshot ID: `AAAAAMJLWMyFPv1xUaTOk8sHTCXeN8p+`
+Snapshot ID: `AAAAAJFg0aatuf7mvHrahDF+D3doP/t6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YmZ0QRZVP9.md) - [plain]
 
 > Curated by BTS: Songs inspired by the \#1 fan\-voted theme, 'Self Love.' Immerse yourself in the message of self\-love with BTS’s top picks\. \(투표 1위 주제 <Self Love>를 주제로 BTS가 직접 선정한 곡들입니다\. BTS의 선정곡과 함께 'Self Love'를 느껴보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,215 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,293 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YmZ0QRZVP9.md) - [plain]
 | 19 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
 | 20 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
 
-Snapshot ID: `AAAAAOIzgdcOL8DowWKkEnPuv/4iyTfS`
+Snapshot ID: `AAAAADBS00GvXhiA83qvwSaDHhtxDUF+`

@@ -5841,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Ag\u00edtese Bien Antes de Usar",
+        "url": "https://open.spotify.com/album/1IIRVxKUt8DiEMVbPVZg6s"
+      },
+      "artists": [
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Metale Moral",
+      "url": "https://open.spotify.com/track/23qbGPVcJdYO4SJbEm4yT4"
+    },
+    {
+      "album": {
         "name": "Los Piratas",
         "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
       },
@@ -6072,7 +6090,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 213430,
       "name": "MONSTRUO",
       "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"

@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Sax bajo las Estrellas",
+        "url": "https://open.spotify.com/album/0rz310ecXqVnponuKMCaKg"
+      },
+      "artists": [
+        {
+          "name": "Fausto Papetti",
+          "url": "https://open.spotify.com/artist/63OTxIlptWU4lh6St8Ly69"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127226,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/1B6hid5CFP7xkdIig2JsN3"
+    },
+    {
+      "album": {
         "name": "Pops by Gershwin",
         "url": "https://open.spotify.com/album/5XDj9LQbR146F2jPn1XT9y"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 1129000,
       "name": "An American in Paris",
       "url": "https://open.spotify.com/track/5CVsrupwZymCurjjZnKJEd"
@@ -1449,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "The Instruments Of The Orchestra - Orchestra",
+        "url": "https://open.spotify.com/album/0o6rOfXUa1kYPpHbo64J8H"
+      },
+      "artists": [
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124693,
+      "name": "Finale (from 'Carnival Of The Animals')",
+      "url": "https://open.spotify.com/track/3pgcA4N8RTwTz95RetZUEF"
+    },
+    {
+      "album": {
         "name": "Lady and the Tramp (1955 Film Score)",
         "url": "https://open.spotify.com/album/2bDCjSVK1wjEaPT5YpgtyR"
       },
@@ -1460,7 +1496,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 31608,
       "name": "Finale (Peace on Earth)",
       "url": "https://open.spotify.com/track/3H8IIZI6JdeAPWRRKDTnEl"
@@ -3698,7 +3734,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 275000,
       "name": "Nocturne No. 20 In C Sharp Minor, Op. posth.",
       "url": "https://open.spotify.com/track/4IXkJT50BYjgnjEiMQ0iy0"
@@ -3788,10 +3824,28 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 192841,
       "name": "Oh ! Lady Be Good",
       "url": "https://open.spotify.com/track/0qWibmvlGQAG605S9UgKfi"
+    },
+    {
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268160,
+      "name": "Oh Bess, Oh Where's my Bess",
+      "url": "https://open.spotify.com/track/4IOKwJDBhxBakj6mD6EJjY"
     },
     {
       "album": {
@@ -3992,7 +4046,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 241600,
       "name": "Oh, Lady Be Good",
       "url": "https://open.spotify.com/track/0NR8vZH2fmIG0HDqYnYMpS"
@@ -4277,6 +4331,32 @@
     },
     {
       "album": {
+        "name": "Bernstein By Boston",
+        "url": "https://open.spotify.com/album/72IXrDzor8mEhob854Gj6X"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Overture Candide",
+      "url": "https://open.spotify.com/track/5bgoBwWpQibM5N7iRQnPN7"
+    },
+    {
+      "album": {
         "name": "Dancing With A Ghost",
         "url": "https://open.spotify.com/album/0CTT0rhCKEWR0KNR2ekvIG"
       },
@@ -4402,7 +4482,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 390533,
       "name": "Piano Concerto in F Major: III. Allegro agitato",
       "url": "https://open.spotify.com/track/4PJqOpoMPZCZtqzfNMmZpZ"
@@ -4436,6 +4516,32 @@
       "duration_ms": 766573,
       "name": "Piano Concerto in F: 1. Allegro",
       "url": "https://open.spotify.com/track/0EWCclJHzzzqSnDSRL43qq"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue / An American in Paris / Piano Concerto in F",
+        "url": "https://open.spotify.com/album/63zPh8Bnut1O2DrNhu1STn"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 782000,
+      "name": "Piano Concerto: I. Allegro",
+      "url": "https://open.spotify.com/track/3NYCVEm6ThpkfpC0Dpj237"
     },
     {
       "album": {
@@ -6106,7 +6212,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 199333,
       "name": "The Nutcracker (Suite), Op. 71a, TH 35: I. Miniature Overture",
       "url": "https://open.spotify.com/track/5eJf9LimpMWzWsECBa05EA"
@@ -6516,7 +6622,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 184920,
       "name": "Why Do I Love You",
       "url": "https://open.spotify.com/track/2WapDJqr2ZLZs05YREkcUz"
@@ -6538,6 +6644,24 @@
       "duration_ms": 221986,
       "name": "Why Do I Love You - Live At The Royal Rooster, New York, September 4, 1948 / Remastered",
       "url": "https://open.spotify.com/track/5NZ0z31vwGvlYw2Xad67US"
+    },
+    {
+      "album": {
+        "name": "Bebop Story, Vol. 63",
+        "url": "https://open.spotify.com/album/4UZPxpkQDVALL0eDeai7ze"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis' Nonet",
+          "url": "https://open.spotify.com/artist/6OrjG6ogIrMK33VqWKDF30"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "Why Do I Love You?",
+      "url": "https://open.spotify.com/track/4nXhqr09uzX56snnuXocB6"
     },
     {
       "album": {

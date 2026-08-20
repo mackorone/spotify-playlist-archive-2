@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego",
-  "num_followers": 55538,
+  "num_followers": 55561,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACeJhb5SqsxWBbmIs6UuZRGCFnrN",
+  "snapshot_id": "AAAAAD9s7BBZFwo2h2B1BaPSjm/6s+Nd",
   "tracks": [
     {
       "added_at": "2026-08-13 23:00:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Bisou",
-        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
-      },
-      "artists": [
-        {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Bisou",
-      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
         "name": "FIM DO NADA DELUXE",
         "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 240000,
       "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
       "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
+        "name": "Bisou",
+        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
+      },
+      "artists": [
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Bisou",
+      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
     },
     {
       "added_at": "2026-08-13 23:00:32",

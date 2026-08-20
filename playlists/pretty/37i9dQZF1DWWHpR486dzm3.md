@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,824 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,826 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 102 | [Piru](https://open.spotify.com/track/4AMZwFyeT8pcTCJDMNocJq) | [Runo](https://open.spotify.com/artist/23MrcUEMEaLznNXpyc9EGz) | [Piru](https://open.spotify.com/album/67yvAnBoIoN8Wma5fV69zA) | 2:36 |
 | 103 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
 
-Snapshot ID: `AAAAAFjoRzpu/Zl+3BjTBHWms9i0l5zn`
+Snapshot ID: `AAAAAIIScCTgCatohYyEGlFYV4MHpLNU`

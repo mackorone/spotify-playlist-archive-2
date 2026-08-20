@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 368964,
+  "num_followers": 368997,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEuFM73U8tVFjIR1DWZwAUR949tj",
+  "snapshot_id": "AAAAAK7lqSVGp35ID5mgeYE1jC8jirQU",
   "tracks": [
     {
       "added_at": "2024-07-05 19:40:49",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Nothing Matters (Acoustic)",
-        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Nothing Matters - Acoustic",
-      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Can You Hear Me (Acoustic)",
         "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 174124,
       "name": "Can You Hear Me - Acoustic",
       "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Nothing Matters (Acoustic)",
+        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Nothing Matters - Acoustic",
+      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
-        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
-      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Behind Your Walls",
         "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "abcdefu (chill)",
-        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
         }
       ],
-      "duration_ms": 176765,
-      "name": "abcdefu (chill)",
-      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -999,6 +983,22 @@
       "duration_ms": 242149,
       "name": "Unintended - Acoustic Version",
       "url": "https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "abcdefu (chill)",
+        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176765,
+      "name": "abcdefu (chill)",
+      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
     },
     {
       "added_at": "2024-07-05 19:40:49",

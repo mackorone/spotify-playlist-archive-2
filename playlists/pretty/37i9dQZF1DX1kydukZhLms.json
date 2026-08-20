@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1565398,
+  "num_followers": 1565567,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHX2nTGMAmxljXN6KbiWec6x0qJG",
+  "snapshot_id": "AAAAAKmDVdjGFC31ndYpCGWdkGRNnauq",
   "tracks": [
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "I Don't Care (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Destiny (Reissue 2016)",
         "url": "https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 298093,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "I Don't Care (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
     },
     {
       "added_at": "2026-01-09 05:00:22",

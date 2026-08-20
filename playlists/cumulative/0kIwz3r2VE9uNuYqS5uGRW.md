@@ -4,7 +4,7 @@
 
 > 
 
-286 songs - 14 hr 58 min
+288 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 | 2026-01-02 |  |
 | [El Refrán](https://open.spotify.com/track/2db7peohg2RsaCOeXozJjF) | [Yadiell](https://open.spotify.com/artist/0rYolSGwAR5m9g6h4Jlfwq) | [El Refrán](https://open.spotify.com/album/0qKfCoShShQYSWVkdq6Vom) | 2:24 | 2025-07-07 |  |
 | [Electric Night](https://open.spotify.com/track/54ufnTqGX7Ur20FnoQ4mQp) | [The Last Verena](https://open.spotify.com/artist/218ezUr1oZPPoKjMTCay3o) | [Electric Night](https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo) | 3:26 | 2026-02-17 |  |
+| [empecemos devuelta](https://open.spotify.com/track/6F17ZOfEoSSHJeYXLrsnqI) | [amazing](https://open.spotify.com/artist/0mkweBNmdERTJdBeTCIJby), [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy) | [zetahayunosolo](https://open.spotify.com/album/4B6ynl0EHi4wVGidxfGzjp) | 2:21 | 2026-08-20 |  |
 | [End Credits \(for a Spy Movie\)](https://open.spotify.com/track/4CqBeC110JaIt0URDNnLYq) | [overscored](https://open.spotify.com/artist/4Y7bte48dBbZA5ePVRcRhr) | [End Credits \(for a Spy Movie\)](https://open.spotify.com/album/3ZkxIe7KTMPljkCpGoKWeq) | 2:38 | 2026-08-05 |  |
 | [Engaveta](https://open.spotify.com/track/0ObZQ0RZV6FA8eegOVn1tO) | [EDUAR JOHVA](https://open.spotify.com/artist/5FYycsrb8zR2om6x9uSo0K) | [Engaveta](https://open.spotify.com/album/2LYusTnY2bBjsLAx514ng5) | 3:15 | 2025-11-02 |  |
 | [Everyone Clapped Anyway](https://open.spotify.com/track/2zrBWiv8Htq8oWS4fmW8iz) | [The Last Verena](https://open.spotify.com/artist/218ezUr1oZPPoKjMTCay3o) | [Everyone Clapped Anyway](https://open.spotify.com/album/1fzTnxhsA84YZusPiyBHv2) | 2:36 | 2026-04-02 |  |
@@ -147,6 +148,7 @@
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
 | [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 | 2026-04-11 |  |
 | [King Snake](https://open.spotify.com/track/0zOiY6FlpHHJdIfq4yWEqh) | [Glamper](https://open.spotify.com/artist/0NPC0DRRoLvrD8POr0lbdo) | [King Snake](https://open.spotify.com/album/7GGquGBNAmj3a83b1eHfVR) | 3:25 | 2026-08-05 |  |
+| [La Coleta \- Remix](https://open.spotify.com/track/1b3ATDYZL3b30LjwPYha8I) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Bendecido por Dios](https://open.spotify.com/album/4L64bZD6wNZAHGWqtvnqWT) | 3:12 | 2026-08-20 |  |
 | [La Corista](https://open.spotify.com/track/3nEddgET3KJeYUoT9nx9Kq) | [Gharet & Lkenn](https://open.spotify.com/artist/39m8tomZHufG8tNNPc96jq) | [La Corista](https://open.spotify.com/album/3CCtu0y4QxmoTFvP4RjgGa) | 3:25 | 2025-04-10 |  |
 | [LATELY](https://open.spotify.com/track/4ajoLXkoZzkCIxeWAjqS3V) | [KvN](https://open.spotify.com/artist/2JNr329RMdieI5JCYwUnIh) | [LATELY](https://open.spotify.com/album/6ot5Qbgd08hzUmvtiFhDLv) | 2:52 | 2025-12-10 |  |
 | [Latina BB](https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Latina BB](https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3) | 2:16 | 2026-03-13 |  |

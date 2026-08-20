@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og nye albums bl.a\. fra Lukas Graham og Ella Augusta ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,113 likes - 86 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,108 likes - 86 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 23 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
 | 24 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 25 | [Surfing](https://open.spotify.com/track/5CuCdCQKPRjgsnfWcdHMla) | [Tina Dickow](https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe) | [Surfing](https://open.spotify.com/album/6jDbuRzt9VJusBizhMSiy8) | 3:25 |
-| 26 | [Hike to the Sun](https://open.spotify.com/track/3dkeqdULEvMTfvgmrBufYO) | [Jonas Bjerre](https://open.spotify.com/artist/6XPzWnS6mnbzlY9E9sx9KK) | [Hike to the Sun](https://open.spotify.com/album/2O9e84FmvaKpphoVvmVEVZ) | 3:47 |
+| 26 | [Hike to the Sun \- From "Hana Korea"](https://open.spotify.com/track/3dkeqdULEvMTfvgmrBufYO) | [Jonas Bjerre](https://open.spotify.com/artist/6XPzWnS6mnbzlY9E9sx9KK), [Yeohee Kim](https://open.spotify.com/artist/0DJmaZXJDrMal0Efjkxkmv) | [Hike to the Sun \(From "Hana Korea"\)](https://open.spotify.com/album/2O9e84FmvaKpphoVvmVEVZ) | 3:47 |
 | 27 | [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 |
 | 28 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
 | 29 | [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 85 | [125.Wav](https://open.spotify.com/track/58Mh0D3zF5SCd3repdkJNl) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [125.Wav](https://open.spotify.com/album/5Z4fUxU3sU56zvRSOAJeUK) | 4:21 |
 | 86 | [Sketch of Summer](https://open.spotify.com/track/0Ty3fwdqubrKnCLxMhu6fS) | [Aksel & Aino](https://open.spotify.com/artist/4OC2ykcgmaj4XepHY1AEYO) | [Sketch of Summer](https://open.spotify.com/album/5LxaLGWNsq6dxnRucLVfY8) | 3:34 |
 
-Snapshot ID: `AAAAAI5A/JAWmXjXhmy4IPsHQOUNhodM`
+Snapshot ID: `AAAAAE1HSWsiiUjupW7P06WMuiqvqZWb`

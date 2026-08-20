@@ -2,9 +2,9 @@
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music from independent artists in the UK and Ireland\. Cover: Rafa and Meelo
+> The best new music from independent artists in the UK and Ireland\. Cover: jo from school
 
-3,662 songs - 8 day 1 hr 31 min
+3,667 songs - 8 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [A Little Less](https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [A Little Less](https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx) | 3:22 | 2026-03-25 | 2026-05-27 |
 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 | 2025-05-27 | 2026-02-04 |
 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-18 | 2026-05-27 |
-| [A Moment of Bliss](https://open.spotify.com/track/5Gv86AOnhq2tWxTvdaYuKa) | [two kalme](https://open.spotify.com/artist/7mjadfpeejXDP4e0sFTFAR) | [A Moment of Bliss](https://open.spotify.com/album/6WTOLhKIPOgKG5eOQWmBV2) | 3:38 | 2026-06-25 |  |
+| [A Moment of Bliss](https://open.spotify.com/track/5Gv86AOnhq2tWxTvdaYuKa) | [two kalme](https://open.spotify.com/artist/7mjadfpeejXDP4e0sFTFAR) | [A Moment of Bliss](https://open.spotify.com/album/6WTOLhKIPOgKG5eOQWmBV2) | 3:38 | 2026-06-25 | 2026-08-20 |
 | [A\-Team](https://open.spotify.com/track/5GKQd44rnJUWQzOR0aHojz) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [A\-Team](https://open.spotify.com/album/2ohI3pTYXPCJ81E9pLFNy0) | 2:49 | 2024-08-13 | 2024-09-11 |
 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 | 2022-02-02 | 2023-01-05 |
 | [Act Right](https://open.spotify.com/track/0SjrBMybJh2eHL8vwn4G3P) | [Layfullstop](https://open.spotify.com/artist/44KO1So8LqWGobs7xNCqe9) | [Act Right](https://open.spotify.com/album/513wQ9pFAbWceMbLZ2Lc1x) | 2:44 | 2022-09-21 | 2022-10-20 |
@@ -585,6 +585,7 @@
 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 | 2023-08-29 | 2023-09-27 |
 | [Chicago Town](https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Chicago Town](https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf) | 3:27 | 2024-07-10 | 2024-08-07 |
 | [chicken bagel](https://open.spotify.com/track/0nom9dC1E9W0N0zFPbk37O) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [chicken bagel](https://open.spotify.com/album/3tWfAbJmRTF0w78zeQ9M3y) | 2:50 | 2026-02-11 | 2026-04-15 |
+| [Chilli Chilli](https://open.spotify.com/track/68ir1f3abiC2hKTwl4kjrc) | [Azena](https://open.spotify.com/artist/73PFGQYVZvwGTOiXkKHjP9) | [Chilli Chilli](https://open.spotify.com/album/4PRWesgHA3YGn4PSZtAfRa) | 3:34 | 2026-08-19 |  |
 | [Chin Chin](https://open.spotify.com/track/4FGF20ZrhO69SzqR9JN7kL) | [Startzy](https://open.spotify.com/artist/2sKKCmqCbt9PMMlawJNAPM) | [Chin Chin](https://open.spotify.com/album/6NXEhOKefixW5XMHUuVS6E) | 2:42 | 2025-04-30 | 2025-06-11 |
 | [Chinatown Trouble](https://open.spotify.com/track/0mWI3i9OG1pBsMBuFFsY04) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Play Your Part](https://open.spotify.com/album/6c49J0SiHWz0Emh0LYOtNx) | 2:56 | 2023-08-15 | 2023-09-13 |
 | [Chinatown Trouble](https://open.spotify.com/track/6uTzHBBpV5BflJiU6qjO35) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Chinatown Trouble](https://open.spotify.com/album/55wHKTl1u6GL8yxsOXMODk) | 2:56 | 2024-06-26 | 2024-07-24 |
@@ -609,6 +610,7 @@
 | [Closer](https://open.spotify.com/track/0rM9Zqrt2uSOr8sk3O8eEJ) | [francisco](https://open.spotify.com/artist/1EqvieKNEUPM45aX52ZT9o) | [Closer](https://open.spotify.com/album/26qunkY8SZxLPCdffJy7kI) | 3:24 | 2023-01-11 | 2023-02-16 |
 | [Closer](https://open.spotify.com/track/60HgsWKMIu6cxjLYbKK2zy) | [LIMINAL](https://open.spotify.com/artist/3VbzNP1gCGl1kuHnbFdwx8) | [Closer](https://open.spotify.com/album/3ycKy5wi8FJ56rwzD3Jqom) | 3:04 | 2025-03-19 | 2025-04-23 |
 | [closer](https://open.spotify.com/track/7Jw0gxgX2PD8Vc8tkNz1sk) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [closer](https://open.spotify.com/album/2e12I4bXlv7aNGTBkXzCH9) | 3:07 | 2024-01-17 | 2024-02-28 |
+| [Closer \- Edit](https://open.spotify.com/track/45DSWIxm0YIuy9lXjdmm2O) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL) | [Closer](https://open.spotify.com/album/6Ai2495tuCwChDJum9e9yp) | 3:24 | 2026-08-19 |  |
 | [Clothes Off The Rack](https://open.spotify.com/track/12NXMk1yIubZ7JnZx65wgw) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Clothes Off The Rack](https://open.spotify.com/album/3WXdNdWZxGiMvw8BtkQhvT) | 3:17 | 2025-10-21 | 2025-12-04 |
 | [Clouds](https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Clouds](https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty) | 3:21 | 2024-04-23 | 2024-06-26 |
 | [Clown](https://open.spotify.com/track/6N6MhmQMWO09rnplkezTVM) | [Ruth Lyon](https://open.spotify.com/artist/3wxkBv1zLqOBsKvZPTIoTJ) | [Clown](https://open.spotify.com/album/0n5EYZ5TYzRaNNp8dLcj61) | 3:29 | 2022-10-19 | 2022-11-10 |
@@ -1232,6 +1234,7 @@
 | [girls girl](https://open.spotify.com/track/1fiQCXb1YE6hNGn7MmaT4U) | [imo](https://open.spotify.com/artist/58zJylEJoDjt9RfKL99zEl) | [girls girl](https://open.spotify.com/album/1U09ZPEAKdxYGpIMe3sEtw) | 2:32 | 2025-08-13 | 2025-09-24 |
 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/1c2mNRegEJcJOXGhOphvfC) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/00suehDc0pxqdMJsmOBZiF) | 3:23 | 2022-05-25 | 2022-07-07 |
 | [Girls Need Love](https://open.spotify.com/track/7DgMFtXc3mISF4XiKGJTtK) | [Grace Ajilore](https://open.spotify.com/artist/5iF7fDHYz5jFD7je8vzZEs) | [Girls Need Love](https://open.spotify.com/album/13R3tPw32aqRzZaUTMY1dV) | 3:03 | 2024-03-20 | 2024-04-24 |
+| [Girly](https://open.spotify.com/track/0Ee9QZaqupZd1BctG6QKfk) | [Shafkkat](https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd) | [In the Wind EP](https://open.spotify.com/album/2ggV7WqDQEsLbpbvwKgcIU) | 3:54 | 2026-08-19 |  |
 | [Give Back to Her](https://open.spotify.com/track/6ypMOS6o7KVHPayaIrbsCw) | [MADELEINE](https://open.spotify.com/artist/6MOSscAqWtCilwmEt4b5vm) | [Give Back to Her](https://open.spotify.com/album/029CpbIr9PmSzx4gk3tY9Y) | 5:17 | 2026-04-15 | 2026-06-17 |
 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 | 2023-10-10 | 2023-11-22 |
 | [Give It Up](https://open.spotify.com/track/1KNNzjKUcp30V52dcD1jLW) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR), [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Give It Up](https://open.spotify.com/album/1FNgqA9u8ZQ10rjZ7aRFP5) | 3:16 | 2025-02-12 | 2025-03-19 |
@@ -1921,7 +1924,7 @@
 | [Like That](https://open.spotify.com/track/2SA1K22eCNWtjfNSG9cF1O) | [Joe Milli](https://open.spotify.com/artist/14ZRScgK6da0aYKkjAfUIO), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi) | [Like That](https://open.spotify.com/album/0fm0Bx6baihXsR7qR9icYY) | 3:26 | 2026-02-04 | 2026-03-18 |
 | [Like That](https://open.spotify.com/track/6QNpSsBWQi9gxnJWFX9aGm) | [Milena Sanchez](https://open.spotify.com/artist/0VjiomvbhEWVUJJucZKQ2n) | [Like That](https://open.spotify.com/album/0IuOADxKppP9K9ebFRegtQ) | 2:55 | 2024-05-21 | 2024-06-12 |
 | [LIKE THIS](https://open.spotify.com/track/02MCZta1VsRskm4qwe3Usc) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X) | [LIKE THIS](https://open.spotify.com/album/6FTrpbXKPLCobVAJJZJVcf) | 2:21 | 2025-03-05 | 2025-04-10 |
-| [Like U](https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9) | [DRZ](https://open.spotify.com/artist/55WAGKDNjOnBYUoy5Vs3Db) | [Like U](https://open.spotify.com/album/5xx3iZ2XAjgMXNMNaj5SkT) | 3:31 | 2026-05-26 |  |
+| [Like U](https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9) | [DRZ](https://open.spotify.com/artist/55WAGKDNjOnBYUoy5Vs3Db) | [Like U](https://open.spotify.com/album/5xx3iZ2XAjgMXNMNaj5SkT) | 3:31 | 2026-05-26 | 2026-08-20 |
 | [Like You Boy](https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Like You Boy](https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe) | 2:49 | 2024-03-20 | 2025-01-08 |
 | [Like Your Man](https://open.spotify.com/track/6Ib6NVZGDFY3gkapLHX0Pl) | [The Fae](https://open.spotify.com/artist/0AXSYpBS5CTCK8fRsX6T7K) | [Like Your Man](https://open.spotify.com/album/3iPTAqc8vHLxv4Ba8093Ro) | 3:01 | 2024-10-15 | 2024-11-13 |
 | [Lil Freak](https://open.spotify.com/track/0xe6O9NGwxoSuyQ1dVFDb7) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Lil Freak](https://open.spotify.com/album/3sc9sipyKVicpQGhjiS20m) | 3:02 | 2023-09-05 | 2023-10-04 |
@@ -2187,6 +2190,7 @@
 | [Move](https://open.spotify.com/track/0ShLohNPR72EKJx6yOwqQE) | [Owen Andrews](https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s) | [Move](https://open.spotify.com/album/6rSj9S5X7MVf6itp70URER) | 2:10 | 2025-07-01 | 2025-08-06 |
 | [Move](https://open.spotify.com/track/25ih45PHto3pvIXzfMheXy) | [Sequence](https://open.spotify.com/artist/1sWaickM18vneOfW9s0eqh) | [Move](https://open.spotify.com/album/5ZTAO5FS5jDu5pBCvk6KL5) | 2:42 | 2022-11-23 | 2022-12-01 |
 | [MOVE](https://open.spotify.com/track/0pJjHONYVlyB8auE0HlOA5) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [MOVE](https://open.spotify.com/album/5QsmuXieN3gcsqyc9vk6fp) | 2:49 | 2022-03-10 | 2022-04-14 |
+| [Move Inside](https://open.spotify.com/track/0prrS9EJ7yWz9ekKYp9MLb) | [Molly and the Dolly Shop](https://open.spotify.com/artist/2nkAAzvVVl8pBfjlJ3sZJs) | [Move Inside](https://open.spotify.com/album/5USUsBuGNJM8PIf8kVwHGo) | 4:26 | 2026-08-19 |  |
 | [Move On](https://open.spotify.com/track/2YyKmRpwrWV5QdwMnT1zKK) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Move On](https://open.spotify.com/album/2kc6qB23IfsatZA3Qokyrt) | 3:35 | 2023-04-26 | 2023-12-06 |
 | [Move On](https://open.spotify.com/track/5hXJUml2Mz25mnhOXg4aa1) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Why Does Love Mean Loss?](https://open.spotify.com/album/0hDlGqJF59ElVLFAy6lnsa) | 3:35 | 2023-11-29 | 2024-01-03 |
 | [Move To The](https://open.spotify.com/track/5OrMkiv57J2WIH4QTWuaKJ) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Move To The](https://open.spotify.com/album/3tsLIMNmEgp7PjrEu4YhPO) | 6:51 | 2022-06-22 | 2022-07-21 |
@@ -2274,6 +2278,7 @@
 | [Nightmare](https://open.spotify.com/track/0aJdjzfs9qnwaOy6DqlxhX) | [CORELLIAN](https://open.spotify.com/artist/7uGqVgqeGMQAaPfImruFSe) | [Nightmare](https://open.spotify.com/album/7pKNLqTe2bJpB8aUlqwgi6) | 4:08 | 2025-04-15 | 2025-05-09 |
 | [NIGHTMARES](https://open.spotify.com/track/2lL6uxTIR91REbpdXxRtja) | [Lyssy Kira](https://open.spotify.com/artist/1bFuPfS7L9uc4mxy2WV1D9) | [NIGHTMARES](https://open.spotify.com/album/2iODMVMSNgQG85HricO209) | 3:04 | 2025-07-29 | 2025-09-17 |
 | [Nihilist](https://open.spotify.com/track/79hHhUxnK1slHwz6VSMH7o) | [Yana Bey](https://open.spotify.com/artist/4sve9pXG18U5nqViEpIzFe) | [Nihilist](https://open.spotify.com/album/4QicWxxxsB4lyZj4dlWj3y) | 2:35 | 2022-01-05 | 2023-01-05 |
+| [Niko Bellic](https://open.spotify.com/track/3VD1G2qUG70lTlh44Df1yq) | [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT) | [Niko Bellic](https://open.spotify.com/album/2dcbmF2rgIBkVRPguptXkE) | 2:14 | 2026-08-19 |  |
 | [Nineteen](https://open.spotify.com/track/3ak8cMLJxdRP7urfHf72Fw) | [Hannah Robinson](https://open.spotify.com/artist/1gw0I14sG4uAaGPkS5Slu0) | [Nineteen](https://open.spotify.com/album/3lBuEZuTMDzUbirvwShtEj) | 4:03 | 2023-01-04 | 2023-02-02 |
 | [NINGUÉM](https://open.spotify.com/track/17NjH86iAjIaRdu5krJOdG) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [NINGUÉM](https://open.spotify.com/album/5ouIm6IlwjH3FfFI9UMplw) | 3:20 | 2025-05-07 | 2025-06-11 |
 | [Nintendo](https://open.spotify.com/track/6kmT50z4Z9WLc5iy737nIl) | [Mar!k](https://open.spotify.com/artist/0LxHkc47mHRikmYZSSNO2o) | [Nintendo](https://open.spotify.com/album/1lk7q1q7qVUB09McOy3ZdQ) | 2:40 | 2023-04-19 | 2023-06-01 |
@@ -2370,7 +2375,7 @@
 | [Ode Two](https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Ode Two](https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk) | 5:11 | 2024-05-28 | 2024-06-19 |
 | [Of Course You're Bored](https://open.spotify.com/track/0bgDm7FOaYDBLSApaMdtSc) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Babygirl](https://open.spotify.com/album/4CzrVdmo9nKgzO2K4yUiYC) | 3:03 | 2023-11-29 | 2024-01-03 |
 | [Of Course You're Bored](https://open.spotify.com/track/4GcYZoxGrvsaIKeoh3jORW) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Of Course You're Bored](https://open.spotify.com/album/3HJtnL5U4lMzPIH1L4x0rE) | 3:03 | 2023-02-22 | 2023-04-06 |
-| [off grid](https://open.spotify.com/track/7GCinGrq47kexX0wuHyJ08) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [off grid](https://open.spotify.com/album/3v0R3blOs494f9U0ukPMiO) | 4:00 | 2026-06-16 |  |
+| [off grid](https://open.spotify.com/track/7GCinGrq47kexX0wuHyJ08) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [off grid](https://open.spotify.com/album/3v0R3blOs494f9U0ukPMiO) | 4:00 | 2026-06-16 | 2026-08-20 |
 | [Off The Map](https://open.spotify.com/track/2w9chBuLgfP4dANdRBfW6T) | [Zuko Rosemeid](https://open.spotify.com/artist/1tRh6sNqD3vKanlprXo5A9) | [Off The Map](https://open.spotify.com/album/7kS4J514h7WIHwf8e0lFs3) | 1:58 | 2023-06-13 | 2023-07-19 |
 | [Off With Their Heads](https://open.spotify.com/track/20vvxC2w3GiRvts2slu2p0) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Off With Their Heads](https://open.spotify.com/album/4BIBmd8fwsIA7yuBPhz8dU) | 3:49 | 2023-01-04 | 2023-01-19 |
 | [Official](https://open.spotify.com/track/5Oypw3iju1WCqlkp2Loodr) | [JM7](https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm), [Bliss](https://open.spotify.com/artist/06fOTJzJPOwjNlbMrLR5op) | [Official](https://open.spotify.com/album/7itl6JtJ1buSoChxJUrZSP) | 3:22 | 2024-03-12 | 2024-04-24 |
@@ -2999,7 +3004,7 @@
 | [St\. Catherine](https://open.spotify.com/track/4AXfO4NnjjYlAsN2v4rJMl) | [Grace & The Flat Boys](https://open.spotify.com/artist/087ErGwAI2JexM9w9QAtMg) | [St\. Catherine](https://open.spotify.com/album/1KnILKteQSI6F2egJDB9QK) | 4:31 | 2023-07-04 | 2023-08-23 |
 | [Stack](https://open.spotify.com/track/6WYzRCJehnFlUqu2R41Og2) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Stack](https://open.spotify.com/album/0FmrJR7qIDLaviefashSum) | 1:54 | 2024-10-30 | 2024-11-27 |
 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-09 | 2024-05-08 |
-| [stained.](https://open.spotify.com/track/5qeScgeJ0WMucU07zx7zBB) | [donny.](https://open.spotify.com/artist/0beHEfLkJtL1hpfypHSTqp) | [stained.](https://open.spotify.com/album/4mp7D1urRCNVN2QGFY3SgK) | 2:48 | 2026-06-25 |  |
+| [stained.](https://open.spotify.com/track/5qeScgeJ0WMucU07zx7zBB) | [donny.](https://open.spotify.com/artist/0beHEfLkJtL1hpfypHSTqp) | [stained.](https://open.spotify.com/album/4mp7D1urRCNVN2QGFY3SgK) | 2:48 | 2026-06-25 | 2026-08-20 |
 | [Stan I](https://open.spotify.com/track/4SvwQBVCMOye0K2dKP1vBF) | [HOOLIGAN IN TRAINING](https://open.spotify.com/artist/13HFpo3xc5a0zjp3do9iBL) | [Thames](https://open.spotify.com/album/0LpbCwp6LunHQzjImg2EGn) | 2:16 | 2023-01-04 | 2023-01-26 |
 | [Standing](https://open.spotify.com/track/7bvZ06WHquHA4vF4g6aY5L) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Standing](https://open.spotify.com/album/0ZF795HoT1FethZU3kC9Re) | 2:47 | 2023-02-15 | 2023-03-02 |
 | [STARBOUNCE](https://open.spotify.com/track/07c2tl7m553nfOpinzqoql) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [STARBOUNCE](https://open.spotify.com/album/0ZxBwa6hlV7ZdjO8vFAken) | 2:58 | 2025-04-15 | 2025-05-28 |
@@ -3615,7 +3620,7 @@
 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 | 2022-05-11 | 2022-06-01 |
 | [Workin'](https://open.spotify.com/track/35Dj515Ju4vvsGFVQ4YXPW) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [A.L.T.](https://open.spotify.com/album/1exLcroSoMKCdQ6NCohGJ0) | 3:56 | 2026-04-28 | 2026-07-01 |
 | [worm](https://open.spotify.com/track/2mHLkoaZN8uEjGH9QHTQoX) | [bedbugz](https://open.spotify.com/artist/6xJNxUyZUIaEsIS2LL9t6U) | [all hail the goblin king](https://open.spotify.com/album/1mLH9fjLiAjB2daczIKP9m) | 2:16 | 2023-01-04 | 2023-04-13 |
-| [worry](https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z) | [@WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU) | [worry](https://open.spotify.com/album/3jzwGIMyA6yKDoExHbiaG8) | 2:20 | 2026-06-25 |  |
+| [worry](https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z) | [@WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU) | [worry](https://open.spotify.com/album/3jzwGIMyA6yKDoExHbiaG8) | 2:20 | 2026-06-25 | 2026-08-20 |
 | [Worry About](https://open.spotify.com/track/01npwSsn0lPEJuchMUf6MH) | [Alfie Indra](https://open.spotify.com/artist/6iLEBUFSlFyOzHnMtpqYuN) | [Worry About](https://open.spotify.com/album/0egp7qjRgCftCMqlVzmATb) | 2:05 | 2025-08-05 | 2025-09-10 |
 | [worst best thing](https://open.spotify.com/track/0O98iIEPlZv29R1JAJec0W) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [worst best thing](https://open.spotify.com/album/0WppTsuhSlM3gBkhnmB2q9) | 2:52 | 2025-01-22 | 2025-02-26 |
 | [Would We Make It](https://open.spotify.com/track/06IfbXs7NhmFA6ddvfx7Ui) | [Izzy S.O](https://open.spotify.com/artist/6Se0jZxqI5RrVRaI45Ablx) | [Would We Make It](https://open.spotify.com/album/07DzeGKgY3Vbo9zYZfnU85) | 3:41 | 2023-10-24 | 2023-11-30 |

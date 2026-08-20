@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,236 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,219 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Sunburst](https://open.spotify.com/track/0mGPFPXNLmZQpgwMT5JFOC) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/1ARcEEOaH2hkISGXNQ9iai) | 3:16 |
 | 60 | [大空港](https://open.spotify.com/track/25PSTQG3ib1bWyyoCU1Dpl) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [大空港](https://open.spotify.com/album/7iB2FdbAgTdHcaFRRefY4i) | 4:47 |
 
-Snapshot ID: `AAAAACIYaRPe1I+4/EIzOSXBZFKUfYT6`
+Snapshot ID: `AAAAAMYVqnFx/qHiHLQOxwG0dIm6V5L4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Evil Island
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,505 likes - 106 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,515 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 105 | [Total Power](https://open.spotify.com/track/0zpmUpgrEPaxR3QRZSlb5M) | [Peace Test](https://open.spotify.com/artist/0SZTZHYrBflHXq9FFq0FLh) | [Total Power](https://open.spotify.com/album/29jM0hGoVnCt2Enm2OcVor) | 1:43 |
 | 106 | [Cellophane Girls](https://open.spotify.com/track/4z5EPJkrHNywEISoyJECQx) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Cellophane Girls](https://open.spotify.com/album/69wtQP1vzvTycCs620nbHd) | 2:40 |
 
-Snapshot ID: `AAAAAMZF2EVHCpZKaehW6eYn4lJpoNAs`
+Snapshot ID: `AAAAAKzpsz7cWZBo3ixaZ5YqeH7hll1O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,287 likes - 75 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,298 likes - 75 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Ohlas pisni \(Echo of Songs\), B\. 152: There Stands an Ancient Rock \[arr\. Of Cypresses, B\. 11 for string quartet\]](https://open.spotify.com/track/2AenIkSNJFzx3duYAm7k47) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Vlach Quartet Prague](https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ) | [Dvorak, A.: String Quartets, Vol\. 5 \(Vlach Quartet\) \- Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte](https://open.spotify.com/album/72akndhhoVkQP0Osy59o3e) | 2:16 |
 | 75 | [Ballad in D Minor, Op\. 15, No\. 1](https://open.spotify.com/track/5i37PSrmVSufxxLghKvmaZ) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Zhou Qian](https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n), [Edmund Battersby](https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB) | [DVORAK: Ballad / Capriccio / Silent Woods](https://open.spotify.com/album/7qPa1XUBnlVGWZlSr2EGhT) | 7:04 |
 
-Snapshot ID: `AAAAAD4m95qYE3Sw7b55V3n0F/uG23bd`
+Snapshot ID: `AAAAAEP3+C8IjCNsJ0XPcbclLeus2YEk`

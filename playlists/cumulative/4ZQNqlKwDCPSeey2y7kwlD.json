@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0jR6CGTk0vLgmEMoYFXa5I"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242741,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak"
+    },
+    {
+      "album": {
         "name": "Big Feelings",
         "url": "https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9"
       },
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 202837,
       "name": "Dive",
       "url": "https://open.spotify.com/track/5sCyGJ7EttcKaX96fiIKRk"
@@ -1948,6 +1966,24 @@
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Know",
+        "url": "https://open.spotify.com/album/1UQh5Ekked1k1QQWGtmXQt"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143996,
+      "name": "Don\u2019t Wanna Know",
+      "url": "https://open.spotify.com/track/1sUqkrwC2nvgZdGH4a10Me"
     },
     {
       "album": {
@@ -3371,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
+    },
+    {
+      "album": {
         "name": "Hopeless Sinners",
         "url": "https://open.spotify.com/album/0MGGzJzPewX1rUcL2pQfYR"
       },
@@ -4054,7 +4108,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 250998,
       "name": "In The Feeling",
       "url": "https://open.spotify.com/track/6O88XHRzbDCOB4Ov30qW8C"
@@ -4072,7 +4126,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 177522,
       "name": "Ingrained (DNA)",
       "url": "https://open.spotify.com/track/0M3JmNdhwKC2LPONbjvZfT"
@@ -4268,6 +4322,24 @@
       "duration_ms": 202056,
       "name": "Just Wait A Minute",
       "url": "https://open.spotify.com/track/2XBcAlAlbXsx13Q4Czs6cG"
+    },
+    {
+      "album": {
+        "name": "Kicked Out Of Bars",
+        "url": "https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164098,
+      "name": "Kicked Out Of Bars",
+      "url": "https://open.spotify.com/track/1xL2pFFPFxnk3j5kFH30gc"
     },
     {
       "album": {
@@ -5170,7 +5242,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -7263,6 +7335,28 @@
     },
     {
       "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -8318,7 +8412,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 163000,
       "name": "Us Against The World",
       "url": "https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9"

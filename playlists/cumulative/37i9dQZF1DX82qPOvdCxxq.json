@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Jeremiah Paltan",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Mark Barlow",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -7727,6 +7727,28 @@
     },
     {
       "album": {
+        "name": "GOODBYE 2 OLD ME",
+        "url": "https://open.spotify.com/album/5wKs7EtlFsXVuptRgqpQ86"
+      },
+      "artists": [
+        {
+          "name": "Bianca Silver",
+          "url": "https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL"
+        },
+        {
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "GOODBYE 2 OLD ME",
+      "url": "https://open.spotify.com/track/4bqSz8o52LIAEO4l5FDshO"
+    },
+    {
+      "album": {
         "name": "Goodness of God",
         "url": "https://open.spotify.com/album/7yMhzt8bzZZnPNEvxyHYls"
       },
@@ -8974,7 +8996,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 213500,
       "name": "Holding Both",
       "url": "https://open.spotify.com/track/6wSCiDp5Ih5bccryAkeY7w"
@@ -9750,6 +9772,24 @@
       "duration_ms": 202400,
       "name": "I Love You Lord (Because you Loved me)",
       "url": "https://open.spotify.com/track/1N5cNSKcWKwhLnMytJvjZy"
+    },
+    {
+      "album": {
+        "name": "i miss not knowing",
+        "url": "https://open.spotify.com/album/38mBdvD4oDv2T5WBphmG4z"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238674,
+      "name": "i miss not knowing",
+      "url": "https://open.spotify.com/track/00NBEqf4NGLHsXcZo2EZAp"
     },
     {
       "album": {
@@ -13586,7 +13626,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 276517,
       "name": "Mothers Womb",
       "url": "https://open.spotify.com/track/0v7tqM086OM3qguLPv79Zl"
@@ -15585,6 +15625,28 @@
     },
     {
       "album": {
+        "name": "Pasture",
+        "url": "https://open.spotify.com/album/7As93kLMOq0kbyGQGdnc3o"
+      },
+      "artists": [
+        {
+          "name": "Laolu Adewumi",
+          "url": "https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7"
+        },
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Pasture",
+      "url": "https://open.spotify.com/track/27fK8cJMLh7FGwgF73VnyP"
+    },
+    {
+      "album": {
         "name": "Paths",
         "url": "https://open.spotify.com/album/5QYE1t8NMJwWaAJyWY8ylB"
       },
@@ -16800,7 +16862,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 205448,
       "name": "redeemed",
       "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
@@ -17592,7 +17654,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 175968,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
@@ -18012,6 +18074,24 @@
       "duration_ms": 243267,
       "name": "Shoulder Of The Lord",
       "url": "https://open.spotify.com/track/0UYna7KQJM5dEVBjao3F3o"
+    },
+    {
+      "album": {
+        "name": "SHOUT TO THE MOON",
+        "url": "https://open.spotify.com/album/6ON7L1dBSF1hpczomYymSz"
+      },
+      "artists": [
+        {
+          "name": "Myles Maestro",
+          "url": "https://open.spotify.com/artist/5u2fFFwd5O5KivnDHrYWg3"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218734,
+      "name": "SHOUT TO THE MOON",
+      "url": "https://open.spotify.com/track/7MAXikDmj42EcL3HSak5Ki"
     },
     {
       "album": {
@@ -19168,7 +19248,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 195060,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/790cNSMMXs4QDbykxSBPE7"
@@ -20799,6 +20879,24 @@
     },
     {
       "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/0uJ6qnelHIR2ZilKEVn9QL"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205682,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/4CVx0LREKIUAbcvUMDoWvy"
+    },
+    {
+      "album": {
         "name": "To Be Praised",
         "url": "https://open.spotify.com/album/1kDBvA26XeOWoJe9qTKqHz"
       },
@@ -21368,7 +21466,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 316944,
       "name": "Union",
       "url": "https://open.spotify.com/track/7rO2RdfL0bEYE9a6bgijuK"
@@ -21936,7 +22034,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 230700,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv"
@@ -22190,6 +22288,24 @@
       "duration_ms": 190677,
       "name": "We Are Alive",
       "url": "https://open.spotify.com/track/1wPXJMxyf4WgApq94cVi3u"
+    },
+    {
+      "album": {
+        "name": "LOOKING FOR WATER",
+        "url": "https://open.spotify.com/album/1PZMcy9WWf7iksvBarSRqY"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230109,
+      "name": "WE NEED NOT",
+      "url": "https://open.spotify.com/track/5se5rFE9iFcUCeZzz9ef4d"
     },
     {
       "album": {
@@ -23848,6 +23964,28 @@
       "duration_ms": 155124,
       "name": "You, First",
       "url": "https://open.spotify.com/track/4wGoDelfywHkA5u2tW3P2j"
+    },
+    {
+      "album": {
+        "name": "Younger Days",
+        "url": "https://open.spotify.com/album/6TpOtiUS1oU0mnQWQ4HQwC"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        },
+        {
+          "name": "Reagan James Broome",
+          "url": "https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198576,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/5cxYW5l0N2Zw5V6ha1ME4j"
     },
     {
       "album": {

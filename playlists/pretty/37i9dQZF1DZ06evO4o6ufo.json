@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 99892,
+  "num_followers": 99914,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAB3sKb09W2WFZAsDf7yqCjE",
+  "snapshot_id": "aoOggAAAAAChQf7/Bijlhqw7h4Xq/x+/",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
       "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 212119,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9"
+      "duration_ms": 179744,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/7M5xxINTbLHi4QOORE0LeH"
     },
     {
       "added_at": null,
@@ -219,18 +211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 179744,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/7M5xxINTbLHi4QOORE0LeH"
+      "duration_ms": 212119,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9"
     },
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Locos",
-        "url": "https://open.spotify.com/album/6tvjCm0QciHYaud26Q6SiQ"
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
       "artists": [
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Chuyito",
-          "url": "https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65"
         }
       ],
-      "duration_ms": 197016,
-      "name": "Amor De Locos",
-      "url": "https://open.spotify.com/track/7zNQPNfOm4DtUdNbkNLNxN"
+      "duration_ms": 141293,
+      "name": "La Gallada Pesada",
+      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
     },
     {
       "added_at": null,
@@ -759,22 +755,6 @@
       "duration_ms": 118656,
       "name": "El 50 - En Vivo",
       "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 141293,
-      "name": "La Gallada Pesada",
-      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Chuyito",
+          "url": "https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65"
+        }
+      ],
+      "duration_ms": 197016,
+      "name": "Amor De Locos",
+      "url": "https://open.spotify.com/track/5NjbyNc5cgu1BSURtiNgXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De la Estancia a Cosala",
         "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 139853,
       "name": "De la Estancia a Cosala",
       "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        }
-      ],
-      "duration_ms": 147637,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3ofpjRi88O9IAgX43G57RT"
     },
     {
       "added_at": null,

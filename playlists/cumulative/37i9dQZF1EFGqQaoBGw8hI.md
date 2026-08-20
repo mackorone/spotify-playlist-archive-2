@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-745 songs - 2 day 3 hr 32 min
+746 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,8 @@
 | [Lies](https://open.spotify.com/track/2lIkaxlhbqzNwQCE8PHKYp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 4:26 | 2022-09-08 |  |
 | [Little Jeannie](https://open.spotify.com/track/19Kf8FxBJ5a1Bb8uKCrIIe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:13 | 2022-09-08 |  |
 | [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 | 2025-07-29 |  |
-| [Live Like Horses](https://open.spotify.com/track/2KLJQEXMyfxMHmdkXIA0aq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:02 | 2026-08-18 |  |
+| [Live Like Horses](https://open.spotify.com/track/2KLJQEXMyfxMHmdkXIA0aq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:02 | 2026-08-18 | 2026-08-20 |
+| [Live Like Horses \- Live Finale Version](https://open.spotify.com/track/6KLG9HMfu5ClVRJMm49P8S) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Marco Armiliato](https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV) | [Live Like Horses](https://open.spotify.com/album/5BCFbF7KrmJGQnKcefeQs1) | 5:03 | 2026-08-19 |  |
 | [Live Like Horses \- Studio Version](https://open.spotify.com/track/4R2PPsspHBGIH1Zm7RejDG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Live Like Horses](https://open.spotify.com/album/5BCFbF7KrmJGQnKcefeQs1) | 5:09 | 2022-09-08 | 2026-08-19 |
 | [Lonely Boy](https://open.spotify.com/track/7MkRSZC1BSpYFMa4HUDKNi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:50 | 2023-05-26 |  |
 | [Long Way From Happiness](https://open.spotify.com/track/1RrUfClcLFugXnTUrw8erj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:46 | 2022-09-08 |  |

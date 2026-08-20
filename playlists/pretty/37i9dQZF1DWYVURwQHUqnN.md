@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : TK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,522 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,494 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Collade](https://open.spotify.com/track/5o5GNUo2ykv2373If3TH4M) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Collade](https://open.spotify.com/album/6g5etwXan7qQE1pPo63cpe) | 2:22 |
 | 60 | [Pilotis](https://open.spotify.com/track/12UNec5WzLuCOBIgoMGsoq) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg) | [Pilotis](https://open.spotify.com/album/7zN9EIgnHkCQMLor0R3deT) | 2:10 |
 
-Snapshot ID: `AAAAAAwHT2Hm+Fi8tu3+CYCB1cWomvzN`
+Snapshot ID: `AAAAAFd5lDc95DemhCKDsmgEz6SKYvD+`

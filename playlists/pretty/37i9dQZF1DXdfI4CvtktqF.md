@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน:  BOWKYLION
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,132 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,149 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 | 49 | [ลั่นทม \- From "หอมกลิ่นความรัก"](https://open.spotify.com/track/4zkXkoNOJh4N1FJHJENegu) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:32 |
 | 50 | [Goodbye](https://open.spotify.com/track/01rXepgii5VjwHUaajNMmm) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 4:04 |
 
-Snapshot ID: `AAAAAHr3UGI4TeR1FAHyGWAoMVF/ZgOV`
+Snapshot ID: `AAAAAFpVosDfg5MD1TooEIkMp9UtP34c`

@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 181686,
+  "num_followers": 181700,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAfFRH44P+AaWP6Otyg8mOw",
+  "snapshot_id": "aoOggAAAAAC0tt8XGX+ySVj+LoJl+uAw",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+        "name": "Acoustic Back Porch Jam",
+        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 223680,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm"
+      "duration_ms": 235360,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acoustic Back Porch Jam",
-        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
+      "duration_ms": 223680,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm"
     },
     {
       "added_at": null,

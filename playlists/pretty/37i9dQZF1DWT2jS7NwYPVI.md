@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: James the Seventh
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,608 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,605 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [After](https://open.spotify.com/track/7EPWd4SJ0vT3cETAhCa1rw) | [Just Penelope](https://open.spotify.com/artist/2z8TqZbO16nv50m8PPPl9g) | [After](https://open.spotify.com/album/3J1k0c6MugEUDyQGUkfJ3F) | 2:54 |
 | 125 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 
-Snapshot ID: `AAAAAKtz19kriLoUajvNNGWbU1g1sC0F`
+Snapshot ID: `AAAAADWB7DfDRMJfC9fyvDc98UiAew0H`

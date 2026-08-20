@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  GIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,677 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,673 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 9 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
 | 10 | [baby não vá](https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 2:34 |
 | 11 | [Comum \(xote\)](https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Comum \(xote\)](https://open.spotify.com/album/7AkoIdDqVX5eV0cqlBQBdH) | 4:04 |
-| 12 | [Faço Parar de Chover](https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Faço Parar de Chover](https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu) | 3:19 |
-| 13 | [TÔ DE OLHO \- Ao Vivo na Amazônia](https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM \- Ao Vivo na Amazônia](https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q) | 3:09 |
+| 12 | [TÔ DE OLHO \- Ao Vivo na Amazônia](https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM \- Ao Vivo na Amazônia](https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q) | 3:09 |
+| 13 | [Faço Parar de Chover](https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Faço Parar de Chover](https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu) | 3:19 |
 | 14 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 15 | [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 |
 | 16 | [te traindo com você](https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [te traindo com você](https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz) | 3:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 39 | [sofrer por você](https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [sofrer por você](https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i) | 2:54 |
 | 40 | [Um Doce, Uma Flor](https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Um Doce, Uma Flor](https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL) | 2:25 |
 | 41 | [Improvável](https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Improvável](https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp) | 2:56 |
-| 42 | [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj) | 2:19 |
-| 43 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
+| 42 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
+| 43 | [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj) | 2:19 |
 | 44 | [dois brilhantes](https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [dois brilhantes](https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc) | 3:23 |
 | 45 | [Tão Perto](https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Quarto](https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK) | 2:45 |
 | 46 | [Passageiro](https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Passageiro](https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 |
 | 70 | [Pôr Do Sol Avisa](https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Pôr Do Sol Avisa](https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS) | 2:25 |
 
-Snapshot ID: `AAAAAOE8mNocbLKdTr+3punfFxzlilNY`
+Snapshot ID: `AAAAAF4uOxyaiGsOb3LbrsBs5TjoNtaw`

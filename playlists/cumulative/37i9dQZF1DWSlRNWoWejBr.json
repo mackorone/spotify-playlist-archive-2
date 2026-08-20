@@ -11104,7 +11104,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 83076,
       "name": "SO ESSENCIAL",
       "url": "https://open.spotify.com/track/4Hzr5nmvlNItclwVsBzjrd"
@@ -12886,6 +12886,40 @@
       "duration_ms": 104000,
       "name": "Vou Raspar Seu Bigodin",
       "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"
+    },
+    {
+      "album": {
+        "name": "Vou Tacar na Peka",
+        "url": "https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh"
+      },
+      "artists": [
+        {
+          "name": "Coral das Quebradas",
+          "url": "https://open.spotify.com/artist/13W2ppQdsYiWw9zynrNzjZ"
+        },
+        {
+          "name": "MC Kauan PV",
+          "url": "https://open.spotify.com/artist/71wi4mvYLNprbPHLb8qgyQ"
+        },
+        {
+          "name": "MC Zignani",
+          "url": "https://open.spotify.com/artist/3XGGA9Vjm3cNvl73jvZloq"
+        },
+        {
+          "name": "Oracioh MC",
+          "url": "https://open.spotify.com/artist/1OqNsqv0gLsTj3lxHGuPM3"
+        },
+        {
+          "name": "Mc DR",
+          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66709,
+      "name": "Vou Tacar na Peka",
+      "url": "https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx"
     },
     {
       "album": {

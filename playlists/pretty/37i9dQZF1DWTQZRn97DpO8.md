@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Wamen x Kÿfy
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,671 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,611 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Dis moi tout](https://open.spotify.com/track/7JvZIDp6nagn3R9hRqpykV) | [Axel Osange](https://open.spotify.com/artist/6JoUf29upHdcTmXIJ8lGsq) | [Dis moi tout](https://open.spotify.com/album/0uEW2SXwvGGyl4WbI9qIle) | 3:02 |
 | 50 | [Mes pensées.](https://open.spotify.com/track/3NTNHeoCMpQl69O4HkPnHT) | [Ninha](https://open.spotify.com/artist/5Kgu7ezxEReIInR1o0PVy2) | [Corps et Âme](https://open.spotify.com/album/4jvQtwuj8EbkMUht5H4vp4) | 2:11 |
 
-Snapshot ID: `AAAAAL5fFla4lfQx+QoCp9yv4Xo6WH9+`
+Snapshot ID: `AAAAADMHmB1osis5Awf1WKXCdt/3e8PE`

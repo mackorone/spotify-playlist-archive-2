@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 
 > <a href="spotify:artist:0g3NiCRhEv7M4SEDMrpItN">TEED</a>'s favorite tracks\. Updated regularly\. Curated by TEED\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,329 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 | 99 | [Slow Yamaha](https://open.spotify.com/track/4IpGCCzW4rTTNgONCrzrWd) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Slow Yamaha](https://open.spotify.com/album/06RI7LRcCirQRNlnSgDlJ5) | 9:00 |
 | 100 | [Mas alla](https://open.spotify.com/track/6sxBs10WZlBFe7lAKHYPPQ) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV), [Hard Fist](https://open.spotify.com/artist/63u0peYopXgdHqWSXVp1f2) | [Mas alla](https://open.spotify.com/album/5VAl7QFrUcPqmcR6u6LvrH) | 7:02 |
 
-Snapshot ID: `AAAAAHcKWNcwMkSCU84q6NSD/5fzdJNh`
+Snapshot ID: `AAAAAPfFof7/2rrOYEwHOYh5MV7loGyw`

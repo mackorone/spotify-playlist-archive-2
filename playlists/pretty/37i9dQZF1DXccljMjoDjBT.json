@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 366600,
+  "num_followers": 366662,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAe5mtYLZX0pLI851Ee34lTGxJHJ",
+  "snapshot_id": "AAAAAHKaqbdqDncJys+s1vL7w8DXkxJe",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Franke & The Knockouts (Original Recording Remastered)",
-        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
-      },
-      "artists": [
-        {
-          "name": "Franke & The Knockouts",
-          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Sweetheart",
-      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 245306,
       "name": "I Found Somebody",
       "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Franke & The Knockouts (Original Recording Remastered)",
+        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
+      },
+      "artists": [
+        {
+          "name": "Franke & The Knockouts",
+          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
     },
     {
       "added_at": "2023-03-30 14:38:10",

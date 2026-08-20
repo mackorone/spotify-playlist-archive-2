@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,823 likes - 51 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,806 likes - 51 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 50 | [fuck frejlev](https://open.spotify.com/track/4NRc74wcetGguuuGrg28h1) | [yungholgi](https://open.spotify.com/artist/5VCUpUqOArU81gOjm8SBHS), [legobygger123](https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs) | [fuck frejlev](https://open.spotify.com/album/6SvDMejT078Zo10WIk426L) | 2:24 |
 | 51 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
 
-Snapshot ID: `AAAAALCJ1c7QOyxKEPQipPWybX9Cymuc`
+Snapshot ID: `AAAAAMHBw4p9AEhlWVu6NNou+8I5TWKf`

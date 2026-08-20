@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-274 songs - 15 hr 39 min
+275 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2026-02-27 | 2026-07-11 |
 | [Eden](https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Eden](https://open.spotify.com/album/7GcYlKoGthIVBMbeqrgSFP) | 3:05 | 2026-02-27 | 2026-07-11 |
 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 | 2025-07-11 | 2025-11-29 |
+| [Electric Love](https://open.spotify.com/track/3nnVBpOLN06xpAZ1kAkmIc) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Electric Love](https://open.spotify.com/album/64PIYW3DLk5EHFJuGhnRpQ) | 3:27 | 2026-08-19 |  |
 | [Electric Night](https://open.spotify.com/track/3LwgXc0qnLMZltJsXKsvjW) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Wastemall](https://open.spotify.com/artist/71pxoY98RFek1bvigR8ON3) | [Memory](https://open.spotify.com/album/237JwE1vurV2zm9dzp32Dy) | 3:27 | 2025-07-11 |  |
 | [Elysium](https://open.spotify.com/track/3SwWCfF9zT1A34ar3iDaaI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq), [MAMI](https://open.spotify.com/artist/5ggst36NN0Gj7JRv5pMKql) | [Elysium](https://open.spotify.com/album/2FWPJEb6I1Qjcy85UCwM4e) | 3:39 | 2026-04-17 |  |
 | [Embers](https://open.spotify.com/track/119ZdQHm45Y2p0mxn6F3zi) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Embers](https://open.spotify.com/album/0ceplJM2SMcot1rjLyTn8v) | 3:52 | 2026-02-27 |  |

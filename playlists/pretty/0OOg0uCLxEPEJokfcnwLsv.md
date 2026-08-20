@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,241 likes - 83 songs - 4 hr 59 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,248 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 81 | [Liberdade Liberal](https://open.spotify.com/track/6SrAFNIwdnE6K9F75NzTen) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Liberdade Liberal](https://open.spotify.com/album/1Fa4CiQV9k4nkdxo3GAMbf) | 2:10 |
 | 82 | [Time](https://open.spotify.com/track/60J0FaM0STeb72RTyIXKbf) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Time](https://open.spotify.com/album/5GCWSi13Cx0ggZKxr4CJFc) | 4:11 |
 | 83 | [Where Did You Sleep Last Night](https://open.spotify.com/track/5vMHbAgEDngb6bD2XLbkl6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Where Did You Sleep Last Night](https://open.spotify.com/album/0xLiJzAYXwsMjN97xRJjZ5) | 4:37 |
+| 84 | [Old Enough](https://open.spotify.com/track/72Fx8gY38Wr9XxETrPEvKd) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Old Enough](https://open.spotify.com/album/7b6P1hUrUxbPTOXU4E7EkI) | 3:26 |
+| 85 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 |
 
-Snapshot ID: `AAAG0lyuR6qc8GhUkkNtwd9zvjXT2MVN`
+Snapshot ID: `AAAG1POH4sQap39pgMwAUZ+yZtPZRxWS`

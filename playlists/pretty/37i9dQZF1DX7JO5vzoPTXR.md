@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  Niina
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,125 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,153 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Fuck Up](https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Triple Shooting Star](https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR) | 3:58 |
 | 50 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 
-Snapshot ID: `AAAAAMIrymafBb7cuCWlO5t6U0oDkyzQ`
+Snapshot ID: `AAAAAGe7aXFq67r4ahnSxjd+CAVlMKTW`

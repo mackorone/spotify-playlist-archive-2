@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 209920,
       "name": "Opening",
       "url": "https://open.spotify.com/track/0L0k5fsPRMzFE5ebhnrp4V"
@@ -3620,6 +3620,28 @@
       "duration_ms": 118813,
       "name": "Opening",
       "url": "https://open.spotify.com/track/33iscuuALdh6wAYBLfphO3"
+    },
+    {
+      "album": {
+        "name": "We Live in Time (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5zPCFMVHgy9ZAMn2Qaff3h"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Mat\u00edas Le\u00f3n",
+          "url": "https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209978,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/6FJRu5oFUmDH3mmVfTFlA2"
     },
     {
       "album": {

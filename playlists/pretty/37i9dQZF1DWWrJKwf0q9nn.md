@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Silva Bumpa & Kosmo Kint
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,438 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,423 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 98 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/2lkpWTHHz2wqjXk5cLTc4I), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
 | 99 | [You Make Me Feel Alive](https://open.spotify.com/track/7qyyRciWnIXp1Bv56xnFrm) | [Bobby & Djenko](https://open.spotify.com/artist/66FPEh7FWHOM30bckLmOux) | [Burning Up EP](https://open.spotify.com/album/0BaMRGO3uK8zIa6SESoVjq) | 3:47 |
 
-Snapshot ID: `AAAAALJJ+pVg5SNDZ9vsDAWNUFTeu9K5`
+Snapshot ID: `AAAAAMn49a1g54U2JGS2Acq4bh1o1X9e`

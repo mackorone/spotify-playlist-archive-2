@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,003 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,013 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Jardin Secret](https://open.spotify.com/track/63PQgMOafR6hOapRhxe9n1) | [Allan Zut](https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr), [Mv](https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc) | [Jardin Secret](https://open.spotify.com/album/5UNHeC3o6g33u6gLBAqV5J) | 2:27 |
 | 40 | [JAMAIS CHANGÉ](https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [JAMAIS CHANGÉ](https://open.spotify.com/album/2QxbI7fOl6Bf90Mt7d8jJy) | 2:52 |
 
-Snapshot ID: `AAAAAFbb4yiEsJ7tfXPBmecrEOT3Mf6G`
+Snapshot ID: `AAAAAOIZF3zK2PsXufmykrgxupqMcss9`

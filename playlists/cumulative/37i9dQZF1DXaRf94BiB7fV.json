@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Purple Cassette",
+  "description": "The best new music by independent artists and labels in India. Cover - Saroj Kashyap",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 312832,
       "name": "Ambwa Talay",
       "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
@@ -18387,6 +18387,28 @@
     },
     {
       "album": {
+        "name": "Khol",
+        "url": "https://open.spotify.com/album/3ikzUsJcc8FDI9BqL8aQmu"
+      },
+      "artists": [
+        {
+          "name": "borkush",
+          "url": "https://open.spotify.com/artist/2NCuBAUfAm6apU81zx8UXQ"
+        },
+        {
+          "name": "Shivanand Pandey",
+          "url": "https://open.spotify.com/artist/4XYbOZh2DmBK0jc7SJrFfd"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597818,
+      "name": "Khol",
+      "url": "https://open.spotify.com/track/6YLtjB12LaeFL7SkRhScLN"
+    },
+    {
+      "album": {
         "name": "Khoobi",
         "url": "https://open.spotify.com/album/1ICJkkMQwTMKeGDwUV2ext"
       },
@@ -27604,7 +27626,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 191429,
       "name": "QAID",
       "url": "https://open.spotify.com/track/6gRD3nHt1vB4UuBuVp9ICR"
@@ -35494,6 +35516,28 @@
       "duration_ms": 223410,
       "name": "Tu Hi Toh Hai",
       "url": "https://open.spotify.com/track/0cuQiXJV8pFfYOZnHWXlJi"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Tu",
+        "url": "https://open.spotify.com/album/6OUnUzxtCxjvHSZdqFobIj"
+      },
+      "artists": [
+        {
+          "name": "Ruhani",
+          "url": "https://open.spotify.com/artist/2BlTRdSULN8gvJYDG7KeHf"
+        },
+        {
+          "name": "Samar",
+          "url": "https://open.spotify.com/artist/3eBQnfBUGz8IIIXJMtwjuU"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217912,
+      "name": "Tu Hi Tu",
+      "url": "https://open.spotify.com/track/0sEQZ48aTfTUO0OQfbRa72"
     },
     {
       "album": {

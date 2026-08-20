@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Erda, Sampagne
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,460 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,405 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [Fallen Angels](https://open.spotify.com/track/59rChsXAmfQCLsXuViF5CK) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Fallen Angels](https://open.spotify.com/album/66EqavYBHcsw3euTXjynu8) | 2:48 |
 | 90 | [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 |
 
-Snapshot ID: `AAAAAPQfe+9Rjm7RuEJ/wb2eKzOF5AYm`
+Snapshot ID: `AAAAAIyIjkXokVqTu2SupHRf/Rtbz3wG`

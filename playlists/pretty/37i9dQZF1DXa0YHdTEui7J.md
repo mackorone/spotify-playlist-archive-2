@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,256 likes - 123 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,259 likes - 123 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 61 | [Wet Glue](https://open.spotify.com/track/1dEqxnHyIy3XtfLykXTBfk) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Youth Culture EP](https://open.spotify.com/album/4vd5u9ZqSHRlaJ2P7SrXX9) | 6:25 |
 | 62 | [Delight](https://open.spotify.com/track/7CZfdAzpQHgTweakm5Nzt5) | [Christian Burkhardt](https://open.spotify.com/artist/56zXrFfXFtRh11ChpytOiw) | [Offenbach](https://open.spotify.com/album/4bN5K53OYB6IR97oJcJGsV) | 7:46 |
 | 63 | [Argew Neka \- Original Mix](https://open.spotify.com/track/7gkl3FdlQQ2XdUtqrbTkxm) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Mowgan](https://open.spotify.com/artist/5cgGLEnKLD3nU5XAZc4f2D), [Endalk & Wude](https://open.spotify.com/artist/5hVdZhmHF78zkN6P7OaaHL) | [Addis Ababa EP](https://open.spotify.com/album/534NIJ7ffhcJ3TR9qxC6e9) | 6:50 |
-| 64 | [Evening Drive](https://open.spotify.com/track/25iuPAsp2Rd7GRnnn2yHjo) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [PIV ADE SAMPLER 2019](https://open.spotify.com/album/4qTdEoCKez4hHWFKiYUb8A) | 7:01 |
+| 64 | [Evening Drive](https://open.spotify.com/track/25iuPAsp2Rd7GRnnn2yHjo) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [PIV ADE SAMPLER 2019](https://open.spotify.com/album/4qTdEoCKez4hHWFKiYUb8A) | 7:01 |
 | 65 | [On Your Way](https://open.spotify.com/track/1Txy239Azz9buzEQ9034kF) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [Diviniti](https://open.spotify.com/artist/4pvP1lgFGxqJfIJU28bPPA) | [The Best!](https://open.spotify.com/album/1wDqXn3xaevYmKx4ER5P4H) | 7:57 |
 | 66 | [A Lost Dub \(Lwrmx\)](https://open.spotify.com/track/4Nx2hUn23NoQhYSamhVWNc) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Tokyo EP](https://open.spotify.com/album/43CNlw3x0HGt5XsFZrn5XO) | 6:05 |
 | 67 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 122 | [Hanging Tree \- Original Mix](https://open.spotify.com/track/7n0cOjwadpms08yfGEeyOQ) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Hanging Tree](https://open.spotify.com/album/58oNJQhG4TvKk49KcE8yHg) | 6:11 |
 | 123 | [Acid Walk \- Original Mix](https://open.spotify.com/track/0mLMAvbFQnqKCvcsRGMMEl) | [Kovaxx](https://open.spotify.com/artist/01BmtVvAGpM9bXMT8AVZxC) | [Acid Walk EP](https://open.spotify.com/album/5YkiRVx3IPhfru82ZWVTJw) | 5:39 |
 
-Snapshot ID: `AAAAAK6QFWBD0VPF1WgIootfKP8cGJIe`
+Snapshot ID: `AAAAAIo+bJXvSnJGhyNx6bG91/oSrg7G`

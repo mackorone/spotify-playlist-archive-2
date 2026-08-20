@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > summer is over when Collect 200 says summer is over 🌞 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,284 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,238 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [The Bay \- Purple Disco Machine Edit](https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [The Bay \(Purple Disco Machine Remix\)](https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q) | 3:43 |
 | 100 | [MOVEMENT](https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [MOVEMENT](https://open.spotify.com/album/1Ai8Fe6169Y9K0sXUHbEyQ) | 3:27 |
 
-Snapshot ID: `AAAAAPAoke6ZKiUAPNOIxlAGNgNoi/Og`
+Snapshot ID: `AAAAACQfzYckfRyNU9+zHHhfuvZb5D3W`

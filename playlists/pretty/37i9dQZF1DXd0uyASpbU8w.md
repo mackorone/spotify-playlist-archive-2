@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from Ayra Starr,  Tinashe, M00tion & Ez Maestro and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,940 likes - 62 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,958 likes - 62 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 61 | [So Easy](https://open.spotify.com/track/4y7kdlDWPMxbegjUrW6SPX) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [So Easy](https://open.spotify.com/album/6rIegtr1X3iIVbZS5kQqo7) | 3:20 |
 | 62 | [Don’t Wanna Know](https://open.spotify.com/track/1sUqkrwC2nvgZdGH4a10Me) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Don't Wanna Know](https://open.spotify.com/album/1UQh5Ekked1k1QQWGtmXQt) | 2:23 |
 
-Snapshot ID: `AAAAAIXx7ZyBYsPm761hymeCeTvstP7H`
+Snapshot ID: `AAAAAOjYF9d6c+DeteVpp2ylrSpcL/PV`

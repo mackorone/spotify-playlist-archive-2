@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/348196">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/348327">連動記事</a>をSPICEでチェック!
 
-15,889 songs - 42 day 4 hr 14 min
+15,892 songs - 42 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 | 2026-03-31 | 2026-04-08 |
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-10-31 | 2023-11-08 |
 | [BIGMAN](https://open.spotify.com/track/4QcJ480QrpsKJEWTN6LZQk) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [BIGMAN](https://open.spotify.com/album/0aLj3AiPv9vxtBlT50mK1I) | 2:51 | 2025-12-09 | 2025-12-17 |
+| [BiiiG](https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq) | 2:44 | 2026-08-19 |  |
 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 | 2023-04-11 | 2023-04-19 |
 | [Bikini Freestyle](https://open.spotify.com/track/07XmrQKnUdgutRECCeZCr1) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pink Crocodile](https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr) | 2:09 | 2023-12-20 | 2023-12-27 |
 | [Bikini Freestyle](https://open.spotify.com/track/28AJFOHj5mNbiPQ7CbXscU) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pink Crocodile](https://open.spotify.com/album/6Cm9bOn0XK2oYtjRzEla4w) | 2:09 | 2023-12-19 | 2023-12-21 |
@@ -5698,6 +5699,7 @@
 | [Mayonaka no Door\~stay with me 2024](https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Mayonaka no Door\~stay with me 2024](https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA) | 4:52 | 2024-11-05 | 2024-11-13 |
 | [Mayonaka no Music](https://open.spotify.com/track/1unqTesZkdi1d2GZJn3ntm) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [Mayonaka no Music](https://open.spotify.com/album/7ESj6rupJdftQUbFHJNhwz) | 4:50 | 2025-07-30 | 2025-08-06 |
 | [Mayonaka Priceless](https://open.spotify.com/track/2eCbCjIAK8Im5Ccy3zSMWT) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Mayonaka Priceless](https://open.spotify.com/album/6LrmkeSbVWXom56Rlb9Zro) | 3:58 | 2024-04-10 | 2024-04-17 |
+| [Mazaranai](https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [REFRACTIONS](https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm) | 5:25 | 2026-08-18 |  |
 | [mazaru](https://open.spotify.com/track/4KYyw2QMbnScaZZYyFejdx) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [mazaru](https://open.spotify.com/album/29hIXmS9LaPhhLi3yMaOaC) | 3:29 | 2025-03-26 | 2025-04-02 |
 | [Maze Maker](https://open.spotify.com/track/6x4sjOftPaMO6UZun4cgi4) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [超重力幻想](https://open.spotify.com/album/7Er2wpH1IFBibOPFXqg3sH) | 3:36 | 2024-04-30 | 2024-05-08 |
 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 | 2024-10-01 | 2024-10-09 |
@@ -8540,6 +8542,7 @@
 | [spring summer set \- feat\. AFRA](https://open.spotify.com/track/3LQ66PNu4sWJnvNvi300G9) | [WONDERFUL BOYS](https://open.spotify.com/artist/6qP82kQKg8uSPtFKT8cxvr), [AFRA](https://open.spotify.com/artist/5Ny1g9NSIqrvwPqmimK82r) | [spring summer set \(feat\. AFRA\)](https://open.spotify.com/album/5Bc9eNjYRWNjIr9Cv0qYlR) | 2:56 | 2023-03-07 | 2023-03-15 |
 | [SPYCANDY](https://open.spotify.com/track/5SQzgtLeQwnwD2BQaKhd2b) | [OFFICE DESTRUCTION GIRL](https://open.spotify.com/artist/13HyK2xAsfe2QY3UAR8H4n) | [EP1](https://open.spotify.com/album/3t3yqmpB8pt7l1Bs7JQkpY) | 4:58 | 2026-08-18 |  |
 | [Square](https://open.spotify.com/track/0m2WidrVpzIIkXe4146MMJ) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:02 | 2024-09-17 | 2024-09-25 |
+| [SQUEEZY](https://open.spotify.com/track/1JE4dvSinnGF5itbfTpywh) | [OURBIRTHDAY](https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo) | [Our Birthday](https://open.spotify.com/album/4mTuElMf69CZhYpbIcy1fe) | 2:30 | 2026-08-19 |  |
 | [SSAW feat\. TENDRE](https://open.spotify.com/track/3z0UAEvTS2zeKAieyCSAp5) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [SSAW feat\. TENDRE](https://open.spotify.com/album/6gOEBryXu681oHwGF0Q6bX) | 5:55 | 2026-06-23 | 2026-07-01 |
 | [SSME](https://open.spotify.com/track/4aXog3wW8qG64SbVP3FVIy) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [SSME](https://open.spotify.com/album/2iqEkey8lFV5cQZbtFhyNc) | 1:57 | 2023-06-13 | 2023-06-21 |
 | [SSS \(Sending Secret Signals\) feat\. HYDE](https://open.spotify.com/track/6dlZBdjZKDrm94ukNDQAs4) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [SSS \(Sending Secret Signals\) feat\. HYDE](https://open.spotify.com/album/13MAyPPM3zdF5B1ywBWPm8) | 3:07 | 2026-01-27 | 2026-02-04 |
@@ -9557,7 +9560,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 2](https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [REFRACTIONS](https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm) | 0:00 | 2026-08-18 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -14147,6 +14149,7 @@
 | [恒星](https://open.spotify.com/track/7Khs5RU2XQchazp3V8t3FJ) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [恒星](https://open.spotify.com/album/1Exny8ifOUsut7K4jj1JIG) | 3:23 | 2025-01-28 | 2025-02-05 |
 | [恥さらし](https://open.spotify.com/track/0hPclHnMZKlhUpkiB1jnnE) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [露骨](https://open.spotify.com/album/02X3t1aEenx2AMLgk6egVg) | 3:38 | 2023-06-27 | 2023-06-29 |
 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 | 2024-07-09 | 2024-07-17 |
+| [恩寵](https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [HaHa And The Hairpins](https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs) | [恩寵](https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU) | 3:12 | 2026-08-19 |  |
 | [息もできないほど](https://open.spotify.com/track/2V0j1AfT7kF4YMoJwVJ4E7) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [息もできないほど](https://open.spotify.com/album/1eG1dGy53dYw3mCgZAS1j3) | 3:07 | 2026-07-28 | 2026-08-05 |
 | [悪い人](https://open.spotify.com/track/3wMoMcMjI1HQxhxj5tZFKc) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [歌えもしない恋ばっかだ](https://open.spotify.com/album/1EGHr2eod1nYEOoHDHP31j) | 2:51 | 2026-01-14 | 2026-01-21 |
 | [悪い人](https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux) | [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [悪い人](https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY) | 3:15 | 2024-12-03 | 2024-12-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Aruma
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,605 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,571 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 109 | [good alone](https://open.spotify.com/track/3HVYuqKJkSrLuYOFJo1lZl) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [good alone](https://open.spotify.com/album/0SejVi1GrnIliqjp32Dpmb) | 2:43 |
 | 110 | [Ilahi](https://open.spotify.com/track/2ixwPBXl25Yp2Z1VHiB696) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f), [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Ilahi](https://open.spotify.com/album/7je3nVxtS64klQyNFeWtHO) | 2:52 |
 
-Snapshot ID: `AAAAAIwVeSlXBYFD2aoYBQWuusV+iSvg`
+Snapshot ID: `AAAAAJK6ctm9l0xUJ+Mcw9EGQrvncfux`

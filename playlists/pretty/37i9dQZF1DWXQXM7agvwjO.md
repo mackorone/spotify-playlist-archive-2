@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 98 | [Good Waves Island](https://open.spotify.com/track/7qzY06e8kjU1EFakPvBP5E) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [阿弗娄](https://open.spotify.com/artist/45AmuWhASTkl17qmyearER) | [Good Waves Island](https://open.spotify.com/album/1qI6WrLnmtOHKCggLtslnC) | 3:36 |
 | 99 | [TAMAK](https://open.spotify.com/track/5BonYT6dM76PrprdPxBQh9) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b) | [TAMAK](https://open.spotify.com/album/0zBSMEGPnaw6SgZvFEJsu5) | 4:49 |
 
-Snapshot ID: `AAAAANUEVwhNcVEUsYfj5Tnr3EGfDzgA`
+Snapshot ID: `AAAAAOkZ6RBBzxoO8o0d+glleveui/PM`

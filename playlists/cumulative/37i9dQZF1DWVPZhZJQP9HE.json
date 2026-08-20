@@ -8684,7 +8684,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 200588,
       "name": "Mayangureney",
       "url": "https://open.spotify.com/track/5yKeWRFfcnyCY0b71Jb9RP"
@@ -14729,6 +14729,32 @@
     },
     {
       "album": {
+        "name": "Thaangale",
+        "url": "https://open.spotify.com/album/1DRSxEvLmhIuC5HdOjsorF"
+      },
+      "artists": [
+        {
+          "name": "Supaveen",
+          "url": "https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt"
+        },
+        {
+          "name": "Seyon",
+          "url": "https://open.spotify.com/artist/6eFFOyB224h1p6CFJqc0SS"
+        },
+        {
+          "name": "Dayan Shan",
+          "url": "https://open.spotify.com/artist/5DRRvEBaUbGxPSmHAP0gCc"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Thaangale",
+      "url": "https://open.spotify.com/track/0ykiVrGBcQVLj3XqqSHiek"
+    },
+    {
+      "album": {
         "name": "Thaen Sinthuthe",
         "url": "https://open.spotify.com/album/5QVm6GjoX0WBu3L0leGtwi"
       },
@@ -15006,6 +15032,28 @@
       "duration_ms": 221416,
       "name": "Thandananae Metagen",
       "url": "https://open.spotify.com/track/03eCtcvHSyUkq0LSlRfDmL"
+    },
+    {
+      "album": {
+        "name": "Thanga Sela",
+        "url": "https://open.spotify.com/album/4LYgpmCHfRIepr4xYx6yWW"
+      },
+      "artists": [
+        {
+          "name": "Marshall Robinson",
+          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
+        },
+        {
+          "name": "Alexandra Joy",
+          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Thanga Sela",
+      "url": "https://open.spotify.com/track/6BW0mveMAgLdwl6JetnFVS"
     },
     {
       "album": {
@@ -16136,7 +16184,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 216180,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/2yWq3CNcgsh9RQCZTqsO7L"

@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 279249,
+  "num_followers": 279255,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG79XPU2KCLf8pR3lRcfdrQHqZFC",
+  "snapshot_id": "AAAAAEB0f/iZT7tVrtiL2hm0RluTFbzj",
   "tracks": [
     {
       "added_at": "2026-08-14 15:00:14",
@@ -359,6 +359,42 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
+        "name": "Miranda Es Imposible!",
+        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "ni una foto juntos",
+        "url": "https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp"
+      },
+      "artists": [
+        {
+          "name": "c n d",
+          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
+        },
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        }
+      ],
+      "duration_ms": 157857,
+      "name": "ni una foto juntos",
+      "url": "https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -395,42 +431,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
-        "name": "ni una foto juntos",
-        "url": "https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp"
-      },
-      "artists": [
-        {
-          "name": "c n d",
-          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
-        },
-        {
-          "name": "Fede Guelmos",
-          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
-        }
-      ],
-      "duration_ms": 157857,
-      "name": "ni una foto juntos",
-      "url": "https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
-        "name": "Miranda Es Imposible!",
-        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Tu Misterioso Alguien",
-      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "OTRA NOCHE M\u00c1S",
-        "url": "https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3"
-      },
-      "artists": [
-        {
-          "name": "TOBIKA",
-          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "OTRA NOCHE M\u00c1S",
-      "url": "https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "OTRA NOCHE M\u00c1S",
+        "url": "https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3"
+      },
+      "artists": [
+        {
+          "name": "TOBIKA",
+          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "OTRA NOCHE M\u00c1S",
+      "url": "https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "El d\u00eda menos pensado",
-        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 224675,
-      "name": "El d\u00eda menos pensado",
-      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Amor Pasajero",
         "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 152080,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "El d\u00eda menos pensado",
+        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 224675,
+      "name": "El d\u00eda menos pensado",
+      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
         "name": "Hasta el Cielo",
         "url": "https://open.spotify.com/album/1yJSIdmpdrOmfRlgHzJ30e"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 177897,
       "name": "Hasta el Cielo",
       "url": "https://open.spotify.com/track/42rw6xMkcOZPenoUTU5w5z"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "Mil disparos",
-        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 211231,
-      "name": "Mil disparos",
-      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
+        "name": "Mil disparos",
+        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 211231,
+      "name": "Mil disparos",
+      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1831,22 +1831,18 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+        "name": "+ de cerquita",
+        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
         }
       ],
-      "duration_ms": 232693,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+      "duration_ms": 181500,
+      "name": "c\u00e1bala (+ de cerquita)",
+      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
     }
   ],
   "unique_name": "Radio Pop",

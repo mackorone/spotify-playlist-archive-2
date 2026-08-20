@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Lara Project & Gus
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,312 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,303 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [No Es Por Suerte](https://open.spotify.com/track/5mQ3LPOt5L6Lvna23x6rpk) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [AGUACERO](https://open.spotify.com/album/1Rroeh4FB6WEWoE5DgSl4z) | 2:15 |
 | 50 | [Mañana nos volvemos a odiar](https://open.spotify.com/track/7d5JPlh0sQynmCPSWAIZS9) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Vulnerable, más de lo normal](https://open.spotify.com/album/5xNjZLAqvQXVnxg3Guwl8s) | 2:51 |
 
-Snapshot ID: `AAAAAJE5ObdaCn44CAPiCdiNOWokTsQR`
+Snapshot ID: `AAAAAC17HBvCPfQn2Ggp7s13+fifEaOo`

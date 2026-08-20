@@ -1,4 +1,4 @@
-## Playlists \(9309\)
+## Playlists \(9310\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -1452,6 +1452,7 @@
 - [Classic Road Trip Songs](/playlists/pretty/37i9dQZF1DX9wC1KY45plY.md)
 - [Classic Rock Drive](/playlists/pretty/37i9dQZF1DXdOEFt9ZX0dh.md)
 - [Classic Rock Now](/playlists/pretty/37i9dQZF1DX0fWtUuB7bFE.md)
+- [Classic Rock Videos](/playlists/pretty/37i9dQZF1DXcvyQZmRWHSm.md)
 - [Classic Rock Workout](/playlists/pretty/37i9dQZF1DWYNSm3Z3MxiM.md)
 - [Classic Soul With Seth Rogen](/playlists/pretty/6GZ9F4MZpPdHJEwhq3kHKG.md)
 - [Classic Summer](/playlists/pretty/37i9dQZF1DWZuzLLgcHfkk.md)
@@ -3942,7 +3943,7 @@
 - [MORP](/playlists/pretty/37i9dQZF1DX7hVUrFvprfE.md)
 - [MOTi's DJ Mix](/playlists/pretty/37i9dQZF1DX92PapbtyAWm.md)
 - [MTV VMAs](/playlists/pretty/37i9dQZF1DWXXji4ucB51M.md)
-- [MU:CON 2025](/playlists/pretty/37i9dQZF1DXcDbP2evUGZD.md)
+- [MU:CON 2026](/playlists/pretty/37i9dQZF1DXcDbP2evUGZD.md)
 - [MY FAVOURITE NEW ONES](/playlists/pretty/1Dz1enrHJyUrLyxdqr1SPg.md)
 - [MY LOVELY BEAUTIFUL AMAZING GORGEOUS WIFE](/playlists/pretty/3yJ2wQ1ihDY9WiuckiFwRz.md)
 - [Maceo Plex's track IDs](/playlists/pretty/37i9dQZF1DWUomyMFpoR0R.md)

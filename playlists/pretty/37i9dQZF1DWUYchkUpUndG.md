@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,636 likes - 99 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,659 likes - 99 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [Worship medley, Metamor4sis 2026 \(Live\)](https://open.spotify.com/track/0UtNS4UMhFfEvp7MjQ1niu) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla) | [Worship medley, Metamor4sis 2026 \(Live\)](https://open.spotify.com/album/7eo0HEl0jI9DFxvu8EvUgB) | 19:50 |
 | 99 | [Holy Is The Lord](https://open.spotify.com/track/2mws2ROks0AungW5PHSsx5) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Holy Is The Lord](https://open.spotify.com/album/3slLoRXafTFFNrNPogKCoB) | 4:07 |
 
-Snapshot ID: `AAAAAOh8Jo4wc7YKQmaIzwuUiec4/1Zd`
+Snapshot ID: `AAAAAKSb00lnWB3EQesLNuTFulHngMJM`

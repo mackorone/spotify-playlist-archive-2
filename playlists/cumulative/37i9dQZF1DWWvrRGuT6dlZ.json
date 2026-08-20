@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: FIG. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Emma Suhaimi. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -696,6 +696,24 @@
       "duration_ms": 165436,
       "name": "Ain't the Same",
       "url": "https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU"
+    },
+    {
+      "album": {
+        "name": "Aku Berdiri",
+        "url": "https://open.spotify.com/album/7Jb1FVfpoQRV12zW0sSiiK"
+      },
+      "artists": [
+        {
+          "name": "Shatirah Amanda",
+          "url": "https://open.spotify.com/artist/69ARIasVk4Kn7xFx6Sxjlm"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222818,
+      "name": "Aku Berdiri",
+      "url": "https://open.spotify.com/track/2KUYI63quKX1rj33FkogWJ"
     },
     {
       "album": {
@@ -22945,6 +22963,24 @@
     },
     {
       "album": {
+        "name": "Tersakiti",
+        "url": "https://open.spotify.com/album/58apzZ9XT1cq8ArlzmKrui"
+      },
+      "artists": [
+        {
+          "name": "Emma Suhaimi",
+          "url": "https://open.spotify.com/artist/1VyP6GHBpLB37osEmr3XJd"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Tersakiti",
+      "url": "https://open.spotify.com/track/2Kn64PP25EtjC7pFGrS4Pu"
+    },
+    {
+      "album": {
         "name": "That's Why",
         "url": "https://open.spotify.com/album/1Z5WpQ8H8Sas78M804Ufh1"
       },
@@ -24010,6 +24046,24 @@
       "duration_ms": 247000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6JweBwElpt2a9lCTzYHky9"
+    },
+    {
+      "album": {
+        "name": "TOO LONG",
+        "url": "https://open.spotify.com/album/0m4KqLRmlNd4Uv8YT91y8n"
+      },
+      "artists": [
+        {
+          "name": "RAYNEN",
+          "url": "https://open.spotify.com/artist/3uOyuWQkjSOd1Cranub73X"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "TOO LONG",
+      "url": "https://open.spotify.com/track/55IaRKEQyAuwcfSs7rSmLN"
     },
     {
       "album": {

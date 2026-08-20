@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 828801,
+  "num_followers": 828775,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEfFR3ygDNASt+j8y2PxQt7QQCt",
+  "snapshot_id": "AAAAABbUvltg2XvekiRNDNRFLgY03zdr",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:32",
@@ -83,8 +83,8 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Radiola",
-        "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
+        "name": "Estandarte",
+        "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
+      "duration_ms": 313106,
+      "name": "Ainda Gosto Dela",
+      "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -163,8 +163,8 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Estandarte",
-        "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
+        "name": "Radiola",
+        "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         }
       ],
-      "duration_ms": 313106,
-      "name": "Ainda Gosto Dela",
-      "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
+      "duration_ms": 240133,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Era Uma Vez o Amanh\u00e3",
         "url": "https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
         "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 191933,
       "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
       "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Insista Em Mim",
+      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Me Chama de Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Insista Em Mim",
-      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
     },
     {
       "added_at": "2026-08-07 03:00:32",

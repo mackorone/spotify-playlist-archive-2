@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254184,
+  "num_followers": 254199,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAcGD0MNO5ZGmM8b4Xj7rYw",
+  "snapshot_id": "aoOggAAAAABQKxuJT4/5C4/IZHmRxf4D",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "She's Not Just A Pretty Face",
-      "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets (30th Anniversary / Deluxe)",
         "url": "https://open.spotify.com/album/2g3GFQWZXivB3cl3hJeDAb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235640,
       "name": "Da Stanotte in Poi (From This Moment On) - Christmas version",
       "url": "https://open.spotify.com/track/02kX7sjdAvnFzvnTRmkf5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "She's Not Just A Pretty Face",
+      "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now (Deluxe)",
         "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 220173,
       "name": "Life's About To Get Good",
       "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,739 likes - 90 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,776 likes - 90 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Stay The Same](https://open.spotify.com/track/1HwVKuAmLiHeyGNJN0Hak9) | [John Lebel](https://open.spotify.com/artist/4yXBn3bm1Bk82Z0hdCd1PH), [AstroHertz](https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c) | [Stay The Same](https://open.spotify.com/album/7eIa1RHtcllSt82yiYXFM6) | 2:17 |
 | 90 | [Taking Me High](https://open.spotify.com/track/1f39WH0csOOvJ3GRyg9QWq) | [Cavi](https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Taking Me High](https://open.spotify.com/album/0bcO0qlVARSOHWfmSVmMqn) | 3:28 |
 
-Snapshot ID: `AAAAAAbsr1iSpGCrgEaTwhcwHskSUVZB`
+Snapshot ID: `AAAAAGOmxhSjZccSN/iBfpA3/5C3T6Et`

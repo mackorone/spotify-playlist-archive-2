@@ -489,6 +489,32 @@
     },
     {
       "album": {
+        "name": "JOURNEY (Raga Charukesi)",
+        "url": "https://open.spotify.com/album/10FyRSKSVHLYnC5PMroxWk"
+      },
+      "artists": [
+        {
+          "name": "Charu Suri",
+          "url": "https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        },
+        {
+          "name": "Max ZT",
+          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399900,
+      "name": "JOURNEY (Raga Charukesi)",
+      "url": "https://open.spotify.com/track/1gAafA1MNoOrlx4oUdRAFy"
+    },
+    {
+      "album": {
         "name": "Bharatiyaar Songs - Veena",
         "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
       },
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 490200,
       "name": "Sree Mahaganapathim - Atana - Adi",
       "url": "https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm"
@@ -2040,7 +2066,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 295226,
-      "name": "Vinayaka: Raag Hamsadhwani - Aadi",
+      "name": "Vinayaka: Raag Hamsadhwani, Taal - Aadi - Ghatam, Kanjira & Parcussion",
       "url": "https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8"
     },
     {

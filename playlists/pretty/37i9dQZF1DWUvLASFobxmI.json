@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos de Tamaulipas y Clave Especial en portada.",
-  "num_followers": 531389,
+  "num_followers": 531409,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWuZ63zeiOFc71WckXccjws1IAY",
+  "snapshot_id": "AAAAANo+HFGzIsD76EOWkgxacjO/IQeN",
   "tracks": [
     {
       "added_at": "2026-08-14 06:00:29",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "La M\u00e1s Chula",
-        "url": "https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq"
-      },
-      "artists": [
-        {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "La M\u00e1s Chula",
-      "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Para Que Ya No Duela (Remix)",
         "url": "https://open.spotify.com/album/2aPXSFy2yMo5e5ENcc48P2"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 203733,
       "name": "Para Que Ya No Duela - Remix",
       "url": "https://open.spotify.com/track/4xTqoUyUHyltXykpwOJOdg"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "La M\u00e1s Chula",
+        "url": "https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "La M\u00e1s Chula",
+      "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 202860,
-      "name": "Explicaci\u00f3n real",
-      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Cuando Casi Te Olvidaba",
         "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Pero Me Da\u00f1aste",
         "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 214805,
       "name": "Pero Me Da\u00f1aste",
       "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "Vida y Libertad",
-        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
-      },
-      "artists": [
-        {
-          "name": "Omar Cardenas",
-          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -1067,38 +1047,22 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "La Soluci\u00f3n",
-        "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
+        "name": "Vida y Libertad",
+        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Omar Cardenas",
+          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
         },
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 146474,
-      "name": "La Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
-        "name": "HOME RUN",
-        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 207886,
-      "name": "HOME RUN",
-      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+      "duration_ms": 157500,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1119,6 +1083,42 @@
       "duration_ms": 192500,
       "name": "Al Modo Villa",
       "url": "https://open.spotify.com/track/2zERSEjMMG5zk9clpoYYjR"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 207886,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "La Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "duration_ms": 146474,
+      "name": "La Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "No Me Vuelvo Enamorar",
-        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 156590,
-      "name": "No Me Vuelvo Enamorar",
-      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "En Vivo Vol.4",
         "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "No Me Vuelvo Enamorar",
+        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 156590,
+      "name": "No Me Vuelvo Enamorar",
+      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "Eso Es Lo Que Paso",
-        "url": "https://open.spotify.com/album/7ENiQqD0lxnQrFp1oeazeU"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 198180,
-      "name": "Eso Es Lo Que Paso",
-      "url": "https://open.spotify.com/track/6dJopyTkyEK8O6Bm8zzynb"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Conexiones",
         "url": "https://open.spotify.com/album/2ab6F4iMqEruwNzNEGfizr"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "Puras Cantineras (Live Session)",
-        "url": "https://open.spotify.com/album/47YwNAMa2sUBnLOXcnqcsO"
+        "name": "Eso Es Lo Que Paso",
+        "url": "https://open.spotify.com/album/7ENiQqD0lxnQrFp1oeazeU"
       },
       "artists": [
         {
-          "name": "Akilatados",
-          "url": "https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX"
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
         }
       ],
-      "duration_ms": 392000,
-      "name": "Boleros de Oro",
-      "url": "https://open.spotify.com/track/4zqMMU50TAlOAm258qggWX"
+      "duration_ms": 198180,
+      "name": "Eso Es Lo Que Paso",
+      "url": "https://open.spotify.com/track/6dJopyTkyEK8O6Bm8zzynb"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1327,6 +1311,22 @@
       "duration_ms": 175068,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/53IseA7MTbFA0Ojnptm19z"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "Puras Cantineras (Live Session)",
+        "url": "https://open.spotify.com/album/47YwNAMa2sUBnLOXcnqcsO"
+      },
+      "artists": [
+        {
+          "name": "Akilatados",
+          "url": "https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Boleros de Oro",
+      "url": "https://open.spotify.com/track/4zqMMU50TAlOAm258qggWX"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "IMPERIO",
-        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 238463,
-      "name": "Las Drzl",
-      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Quiero Todo Contigo",
         "url": "https://open.spotify.com/album/2TtszaHGbpbdZkXlEqZL3B"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 153302,
       "name": "Quiero Todo Contigo",
       "url": "https://open.spotify.com/track/0edCp96eUKetRNogYSGg4d"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "IMPERIO",
+        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "duration_ms": 238463,
+      "name": "Las Drzl",
+      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
     },
     {
       "added_at": "2026-08-14 06:00:29",

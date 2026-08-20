@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Temsu Clover",
-  "num_followers": 199303,
+  "num_followers": 199477,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUkp7F5XxrwT0usvziYxqfC6rM2",
+  "snapshot_id": "AAAAAHDsZ4qkhDk6oB0V2o/hGHMp3IBU",
   "tracks": [
     {
       "added_at": "2026-08-17 13:42:36",
@@ -73,24 +73,24 @@
       "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
     },
     {
-      "added_at": "2026-08-17 13:42:36",
+      "added_at": "2026-08-19 10:15:20",
       "album": {
-        "name": "URDU ME GEETA",
-        "url": "https://open.spotify.com/album/4RupoQR3qybYXGqGApDRNu"
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
       },
       "artists": [
         {
-          "name": "Nihaarika",
-          "url": "https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR"
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
         },
         {
-          "name": "Bro-G",
-          "url": "https://open.spotify.com/artist/1xsvjX3AYGCluJEEUxjL4R"
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
         }
       ],
-      "duration_ms": 126000,
-      "name": "URDU ME GEETA",
-      "url": "https://open.spotify.com/track/0OJmfTfnwwj02W7TNi9COo"
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-08-17 13:42:36",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-08-17 13:42:36",
       "album": {
-        "name": "Jaadugari",
-        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
-      },
-      "artists": [
-        {
-          "name": "maahi",
-          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Jaadugari",
-      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
-    },
-    {
-      "added_at": "2026-08-17 13:42:36",
-      "album": {
         "name": "Uljhan",
         "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 134139,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+    },
+    {
+      "added_at": "2026-08-17 13:42:36",
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
     },
     {
       "added_at": "2026-08-17 13:42:36",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-08-17 13:42:36",
       "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "added_at": "2026-08-17 13:42:36",
+      "album": {
         "name": "Saanjh",
         "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 183071,
       "name": "Thirinjin",
       "url": "https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX"
-    },
-    {
-      "added_at": "2026-08-17 13:42:36",
-      "album": {
-        "name": "Naina",
-        "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
-      },
-      "artists": [
-        {
-          "name": "Bombay the Artist",
-          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Naina",
-      "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
     },
     {
       "added_at": "2026-08-17 13:42:36",

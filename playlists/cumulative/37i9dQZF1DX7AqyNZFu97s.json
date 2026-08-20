@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Rafa and Meelo",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: jo from school",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 218274,
       "name": "A Moment of Bliss",
       "url": "https://open.spotify.com/track/5Gv86AOnhq2tWxTvdaYuKa"
@@ -10719,6 +10719,24 @@
     },
     {
       "album": {
+        "name": "Chilli Chilli",
+        "url": "https://open.spotify.com/album/4PRWesgHA3YGn4PSZtAfRa"
+      },
+      "artists": [
+        {
+          "name": "Azena",
+          "url": "https://open.spotify.com/artist/73PFGQYVZvwGTOiXkKHjP9"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214850,
+      "name": "Chilli Chilli",
+      "url": "https://open.spotify.com/track/68ir1f3abiC2hKTwl4kjrc"
+    },
+    {
+      "album": {
         "name": "Chin Chin",
         "url": "https://open.spotify.com/album/6NXEhOKefixW5XMHUuVS6E"
       },
@@ -11156,6 +11174,24 @@
       "duration_ms": 187478,
       "name": "closer",
       "url": "https://open.spotify.com/track/7Jw0gxgX2PD8Vc8tkNz1sk"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6Ai2495tuCwChDJum9e9yp"
+      },
+      "artists": [
+        {
+          "name": "Dan be",
+          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204812,
+      "name": "Closer - Edit",
+      "url": "https://open.spotify.com/track/45DSWIxm0YIuy9lXjdmm2O"
     },
     {
       "album": {
@@ -22678,6 +22714,24 @@
       "duration_ms": 183000,
       "name": "Girls Need Love",
       "url": "https://open.spotify.com/track/7DgMFtXc3mISF4XiKGJTtK"
+    },
+    {
+      "album": {
+        "name": "In the Wind EP",
+        "url": "https://open.spotify.com/album/2ggV7WqDQEsLbpbvwKgcIU"
+      },
+      "artists": [
+        {
+          "name": "Shafkkat",
+          "url": "https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Girly",
+      "url": "https://open.spotify.com/track/0Ee9QZaqupZd1BctG6QKfk"
     },
     {
       "album": {
@@ -35498,7 +35552,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 211885,
       "name": "Like U",
       "url": "https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9"
@@ -40443,6 +40497,24 @@
     },
     {
       "album": {
+        "name": "Move Inside",
+        "url": "https://open.spotify.com/album/5USUsBuGNJM8PIf8kVwHGo"
+      },
+      "artists": [
+        {
+          "name": "Molly and the Dolly Shop",
+          "url": "https://open.spotify.com/artist/2nkAAzvVVl8pBfjlJ3sZJs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266566,
+      "name": "Move Inside",
+      "url": "https://open.spotify.com/track/0prrS9EJ7yWz9ekKYp9MLb"
+    },
+    {
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/2kc6qB23IfsatZA3Qokyrt"
       },
@@ -42026,6 +42098,24 @@
       "duration_ms": 155879,
       "name": "Nihilist",
       "url": "https://open.spotify.com/track/79hHhUxnK1slHwz6VSMH7o"
+    },
+    {
+      "album": {
+        "name": "Niko Bellic",
+        "url": "https://open.spotify.com/album/2dcbmF2rgIBkVRPguptXkE"
+      },
+      "artists": [
+        {
+          "name": "Suggz",
+          "url": "https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134068,
+      "name": "Niko Bellic",
+      "url": "https://open.spotify.com/track/3VD1G2qUG70lTlh44Df1yq"
     },
     {
       "album": {
@@ -43832,7 +43922,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 240048,
       "name": "off grid",
       "url": "https://open.spotify.com/track/7GCinGrq47kexX0wuHyJ08"
@@ -55518,7 +55608,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 168019,
       "name": "stained.",
       "url": "https://open.spotify.com/track/5qeScgeJ0WMucU07zx7zBB"
@@ -66926,7 +67016,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 140275,
       "name": "worry",
       "url": "https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z"

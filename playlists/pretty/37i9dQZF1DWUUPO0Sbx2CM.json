@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 238029,
+  "num_followers": 238054,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN8BdR9JI4GbFV7GMBVushF6majR",
+  "snapshot_id": "AAAAAE1i2gW1V42CqYECFNdjVsvJnkfV",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -247,6 +247,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "As The Deer",
+        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Not Hopeless (Rave Jesus Remix)",
         "url": "https://open.spotify.com/album/11xBnpvOL5i7FwezgVwsH9"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 184615,
       "name": "Not Hopeless - Rave Jesus Remix",
       "url": "https://open.spotify.com/track/4fv3X33MrT8sR3j2NFtOxd"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "As The Deer",
-        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "ELIJAH LEVEL EP",
         "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 175238,
       "name": "Elijah Level EDM",
       "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1315,6 +1315,26 @@
       "duration_ms": 243180,
       "name": "Angels - Original Vocal Mix",
       "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1379,26 +1399,6 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
+      },
+      "artists": [
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Sweet Heaven (feat. Stealth)",
         "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 224646,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
-      },
-      "artists": [
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
     },
     {
       "added_at": "2026-08-18 23:12:48",

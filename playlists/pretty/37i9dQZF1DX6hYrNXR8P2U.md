@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > un muerto mas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,571 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,567 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 100 | [Dejame de Joder](https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE) | [SOFA](https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX) | [Dejame de Joder](https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6) | 2:26 |
 | 101 | [DEMASIADO NADA](https://open.spotify.com/track/0sHMiRUvtIzre8r8unluXq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [DEMASIADO NADA](https://open.spotify.com/album/0u8UVGTKpjSD11mr5SxPQy) | 3:04 |
 
-Snapshot ID: `AAAAALJr5ITyomspR1F5CxjetxJEEGM2`
+Snapshot ID: `AAAAAG445fsVoB0NFovyD0c8IvyMM5Rx`

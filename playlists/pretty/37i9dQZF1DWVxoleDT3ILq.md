@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Anttonias en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,134 likes - 37 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,101 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 36 | [María Lionza](https://open.spotify.com/track/5B0qBy4MF9qJgVr7TW4Mn0) | [Yucatán](https://open.spotify.com/artist/60zr13Q20Zu7kY7yxQZmkA) | [María Lionza](https://open.spotify.com/album/4nEBpk6jdnA40N0XJJHRqE) | 3:22 |
 | 37 | [beso de miel](https://open.spotify.com/track/5lS7OWxBIbaEo7gkgzFbwK) | [PUERTO DOMINGO](https://open.spotify.com/artist/4ghptDak0jWQSCNSUDrzCk) | [beso de miel](https://open.spotify.com/album/343ExYBb7y7jN7Akn7IVsj) | 2:53 |
 
-Snapshot ID: `AAAAAOkjo51V3bkSSyR+OUreweI04M2W`
+Snapshot ID: `AAAAAFh+rZ9vjFpeqqnwAaaDy5HB/ItJ`

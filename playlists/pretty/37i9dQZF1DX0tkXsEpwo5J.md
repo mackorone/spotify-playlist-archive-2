@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > una fina selección para esos momentos en los que rueda el balón y las barras fluyen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,770 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,745 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 30 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 31 | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5lSYnTPse5OqTjh5IccrDX) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/album/2wxKP8DgG8n3m2kiUizJdW) | 2:20 |
 
-Snapshot ID: `AAAAAMFz2dXy4AJ8zTJdspnl1t65AQz9`
+Snapshot ID: `AAAAAHDmU6V3n6JQqzmfr33nf1bUZtxM`

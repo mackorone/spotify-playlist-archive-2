@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Eva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,562 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,561 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 |
 | 50 | [M'en veux pas](https://open.spotify.com/track/1tdNjFcxK58mpvgc4c0s1N) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz), [Bosco](https://open.spotify.com/artist/5e0dt4ubHmVg4Ds1EhYTy8) | [M'en veux pas](https://open.spotify.com/album/20pqrl78xUu2rxIEsY40Vb) | 2:46 |
 
-Snapshot ID: `AAAAAMa6+sQJ3oQPaKmRktpYKIYWxlSQ`
+Snapshot ID: `AAAAAIS7kv6uYs7JYfNWXqiNBf6MRGf/`

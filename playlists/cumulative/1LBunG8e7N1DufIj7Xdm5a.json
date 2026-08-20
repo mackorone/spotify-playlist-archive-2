@@ -52701,6 +52701,24 @@
     },
     {
       "album": {
+        "name": "O Izabelo",
+        "url": "https://open.spotify.com/album/6c6jkLX29ma2DtKYSQigvI"
+      },
+      "artists": [
+        {
+          "name": "Abbracci",
+          "url": "https://open.spotify.com/artist/1NpreKADLYFXclehTsMe3s"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "O Izabelo",
+      "url": "https://open.spotify.com/track/0AlBsgWxQApbgmgqWBduTy"
+    },
+    {
+      "album": {
         "name": "Big Science",
         "url": "https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ"
       },

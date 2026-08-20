@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, winterburn, Michael Canitrot and more
+> With After Cooking, winterburn, BIRRD and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,514 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,516 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 | 49 | [Sirene](https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 2:49 |
 | 50 | [Morning Bliss](https://open.spotify.com/track/6WPR6Rmjta2KD6ZfmXDMaX) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Morning Bliss](https://open.spotify.com/album/5vAgjP2Xtw9Yg4yLGUgk2D) | 3:07 |
 
-Snapshot ID: `AAAAAAINfPlLOmjnTtew+w97BaouSQqF`
+Snapshot ID: `AAAAACN8rZb5cDRPbGyaMXj6tbm3g61R`

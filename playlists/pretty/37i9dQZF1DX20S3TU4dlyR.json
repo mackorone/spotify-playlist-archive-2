@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 76355,
+  "num_followers": 76359,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKc7CXfD1Fgs/bMyjoHTxMoCiPjX",
+  "snapshot_id": "AAAAAOq7pIfOmGqwoCgdxQ3Ng0/erdLO",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:11",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Tippy I Meets Nonpalidece \u2022 Hecho en Jamaica DuB (feat. Tippy I-Grade)",
         "url": "https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 280839,
       "name": "Revoluci\u00f3n DuB (feat. Tippy I-Grade, Micah Shemaiah & Sly Dunbar)",
       "url": "https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Bebamos de las Copas Lindas",
-        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
     },
     {
       "added_at": "2026-07-31 03:00:11",

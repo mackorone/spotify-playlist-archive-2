@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 23059,
+  "num_followers": 23057,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMnKmkjsOUwip7/LNIipmW5/Vpt",
+  "snapshot_id": "AAAAAF0WTb63Ws2z1HfeOXETh8Dd4zBV",
   "tracks": [
     {
       "added_at": "2024-06-16 15:20:38",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
+        "name": "At The Speed Of Life",
+        "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "The Foundation",
+      "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
         "name": "Home At Last",
         "url": "https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 228453,
       "name": "Ready, Set, Don't Go",
       "url": "https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
-        "name": "At The Speed Of Life",
-        "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "The Foundation",
-      "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
     },
     {
       "added_at": "2024-06-16 15:20:38",

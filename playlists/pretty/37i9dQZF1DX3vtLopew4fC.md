@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Dupe](https://open.spotify.com/track/5cdGa77tX90MjFSlepk6lk) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Dupe](https://open.spotify.com/album/7CFlseQhPVnIyn4QlDFiLI) | 2:57 |
 | 40 | [Nonchalante](https://open.spotify.com/track/4OijDvRTu8shtcjseVSBN0) | [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Nonchalante](https://open.spotify.com/album/6zOKLrQdnOotmL79yDRHxt) | 2:36 |
 
-Snapshot ID: `AAAAAB2vMtuQ9zLomcneWExDE2wqrGTy`
+Snapshot ID: `AAAAADBRcS7e4yxATM7qlt94LfsVpywo`

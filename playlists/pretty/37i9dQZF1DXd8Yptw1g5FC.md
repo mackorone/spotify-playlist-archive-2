@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > emir taha ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,761 likes - 132 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,741 likes - 132 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 131 | [Sol Omzum](https://open.spotify.com/track/5CARmVCSM5HW5rQaq9LUOE) | [Gizem Kosif](https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I) | [Sol Omzum](https://open.spotify.com/album/7JC8hyG2jW5DsQNeM3G44k) | 2:21 |
 | 132 | [Bilinmezler](https://open.spotify.com/track/2tg73O6ockzG7Awz9C5F0I) | [Serdar Doğan](https://open.spotify.com/artist/4kOUXPD4dEUAYWQiTkfdv0) | [Bilinmezler](https://open.spotify.com/album/7hVEjyH3KNPUq5h9Nq9t6A) | 3:06 |
 
-Snapshot ID: `AAAAAKFba7EKtAs+Vg+/EV74zS8sMbUG`
+Snapshot ID: `AAAAADjKeclAl8SV8g9JtBoNyvbYGY5S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Pizza
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,911 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,909 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [bienteveo](https://open.spotify.com/track/03tgdlEEiSX0vDxeH8Oyzq) | [estrella](https://open.spotify.com/artist/62o0W0A16F9qAPxmFni3jR) | [estrella](https://open.spotify.com/album/7HOfFzAFbh7cidLv3bwAEI) | 3:55 |
 | 100 | [Tecnogilada](https://open.spotify.com/track/3xQZEaGlwicv1gXMnuBkQH) | [Las Crypta](https://open.spotify.com/artist/4TpDoyDpf1tY97LAry41SB) | [Tecnogilada](https://open.spotify.com/album/6emQNzwY7aGf0kVkDX7gST) | 2:20 |
 
-Snapshot ID: `AAAAAJYT7+HyjgYlGWwQRYWc+k7lYz/J`
+Snapshot ID: `AAAAAI2sMQT7DGEPzYPRt3uVrMvM2h/l`

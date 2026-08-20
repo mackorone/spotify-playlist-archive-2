@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809418,
+  "num_followers": 809433,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADg8Ut7OZjA4AgUmLcwb4WU/kUq9",
+  "snapshot_id": "AAAAADj1cYoisHN804tWgphkvhLAzFA+",
   "tracks": [
     {
       "added_at": "2026-08-07 02:23:08",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Rua dos Amores",
         "url": "https://open.spotify.com/album/41Qxndw4RWNcfeubhatBPX"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 322266,
       "name": "Vive",
       "url": "https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Pra Me Refazer",
         "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
+        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 211237,
+      "name": "De Tanto Amor",
+      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
-        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 211237,
-      "name": "De Tanto Amor",
-      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
     },
     {
       "added_at": "2026-08-07 02:23:08",

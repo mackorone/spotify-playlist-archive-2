@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 146920,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 197906,
       "name": "La Miedosa",
       "url": "https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 227706,
       "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 210026,
       "name": "Que Me Lleve El Diablo",
       "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
@@ -1698,6 +1698,24 @@
       "duration_ms": 210026,
       "name": "Que Me Lleve El Diablo",
       "url": "https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5"
+    },
+    {
+      "album": {
+        "name": "Entre Besos Y Heridas",
+        "url": "https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/7DPiofAd43utgoEEvw6dhk"
     },
     {
       "album": {
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 201653,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq"

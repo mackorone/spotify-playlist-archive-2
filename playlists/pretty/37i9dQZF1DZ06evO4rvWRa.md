@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,636,356 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636,348 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Not Home](https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Not Home](https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM) | 2:00 |
 | 50 | [Golden Bird](https://open.spotify.com/track/4xN8kkpF1chwOwRYkcFBTm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [刘宇](https://open.spotify.com/artist/5AmzB7BZvNguo4OgrzOyg7), [Chuanzi](https://open.spotify.com/artist/2RAzRjAZmbbdeX8eUJ8ckF) | [Golden Bird](https://open.spotify.com/album/4F7aLIs0UqEc1jD5aiX9VA) | 3:30 |
 
-Snapshot ID: `aoJPAAAAAABhkeQIDpHC2QEA8Cep2qmS`
+Snapshot ID: `aoOggAAAAADYfqLuFQfZfSQipae4xFhu`

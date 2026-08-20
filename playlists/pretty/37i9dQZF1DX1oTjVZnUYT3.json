@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 483014,
+  "num_followers": 483032,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPIqDAvX4rVPaPOvZufbPCBlSXuF",
+  "snapshot_id": "AAAAALRFveTi+0Db5SSvthRrG780UYc0",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "S\u00e9rie Acervo - Martinho Da Vila",
-        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Hello mundo (Ao vivo)",
         "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 157494,
       "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
       "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "S\u00e9rie Acervo - Martinho Da Vila",
+        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Faixa Amarela",
-      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Jo\u00e3o do Vale",
         "url": "https://open.spotify.com/album/6tA5JMhnFRvDkanKAuPsCV"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 138626,
       "name": "Carcar\u00e1",
       "url": "https://open.spotify.com/track/5E4xOrXaLsApvCSqleHT46"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Faixa Amarela",
+      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
     }
   ],
   "unique_name": "Festa Brasileira",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 72790,
+  "num_followers": 72804,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALISBf6pN7Yr+pHy6McX5Gjc9Caw",
+  "snapshot_id": "AAAAAMguTBKDUO10lhckRaYuGoRRSaTg",
   "tracks": [
     {
       "added_at": "2026-08-14 11:41:04",
@@ -57,34 +57,6 @@
       "url": "https://open.spotify.com/track/75hmDtD3T9YrS9iHBp8UIx"
     },
     {
-      "added_at": "2026-08-18 08:16:48",
-      "album": {
-        "name": "Usure Needhan Pulla (From \"Mandaadi\")",
-        "url": "https://open.spotify.com/album/3bWtAs4ifJRW0SI99MQm3H"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Jayashree Mathimaran",
-          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Usure Needhan Pulla (From \"Mandaadi\")",
-      "url": "https://open.spotify.com/track/01ds4D8iuPXUfIpY0kOxeb"
-    },
-    {
       "added_at": "2026-08-07 06:53:06",
       "album": {
         "name": "Menada Gombege (From \"Rukmini Radhakrishna\")",
@@ -107,6 +79,78 @@
       "duration_ms": 232448,
       "name": "Menada Gombege (From \"Rukmini Radhakrishna\")",
       "url": "https://open.spotify.com/track/5AXraN8f0k9ulB6O5S0HTp"
+    },
+    {
+      "added_at": "2026-08-19 05:31:46",
+      "album": {
+        "name": "Hello Hello Neelambari (From \"Toss\")",
+        "url": "https://open.spotify.com/album/5k64vbLcOCfM94IDl0RJOU"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "duration_ms": 174801,
+      "name": "Hello Hello Neelambari (From \"Toss\")",
+      "url": "https://open.spotify.com/track/11KnxP2nh0dLYvABna6945"
+    },
+    {
+      "added_at": "2026-08-19 10:25:41",
+      "album": {
+        "name": "Usire Neene (From \"Mandaadi - Kannada\")",
+        "url": "https://open.spotify.com/album/5tJDeVwhR0coigmrceDBnc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "duration_ms": 225394,
+      "name": "Usire Neene (From \"Mandaadi - Kannada\")",
+      "url": "https://open.spotify.com/track/1TiURAdPM0MeUdLPTYnGIo"
+    },
+    {
+      "added_at": "2026-08-19 05:31:46",
+      "album": {
+        "name": "No No (From \"Nee Nange Allava\")",
+        "url": "https://open.spotify.com/album/2l30oxbblbCD2YlLXHRuhc"
+      },
+      "artists": [
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Manoj P Nadalumane",
+          "url": "https://open.spotify.com/artist/5guG7xIgBHbhscdOlYuX1d"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No No (From \"Nee Nange Allava\")",
+      "url": "https://open.spotify.com/track/1hu1HkgIp05jlYEzCXsj8I"
     },
     {
       "added_at": "2026-08-07 06:53:06",
@@ -259,6 +303,30 @@
       "duration_ms": 273600,
       "name": "Tandani Tanano (From \"Shabari\")",
       "url": "https://open.spotify.com/track/6gisQUEvKEafz2G06y0G6P"
+    },
+    {
+      "added_at": "2026-08-19 05:31:46",
+      "album": {
+        "name": "Raka Raka Rakashasa (From \"Spark - Kannada\")",
+        "url": "https://open.spotify.com/album/5bAC9nhGKCtrB2WFnCJdCq"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Raka Raka Rakashasa (From \"Spark - Kannada\")",
+      "url": "https://open.spotify.com/track/4UuXgnFC84iB2aEsyfVHoQ"
     },
     {
       "added_at": "2026-07-21 08:31:10",
@@ -1747,30 +1815,6 @@
     {
       "added_at": "2026-06-16 07:34:03",
       "album": {
-        "name": "Jeeva Jeeva (From \"Brindhavihari\")",
-        "url": "https://open.spotify.com/album/2tdYCMFmviNgIQ1xSaFemg"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 164191,
-      "name": "Jeeva Jeeva (From \"Brindhavihari\")",
-      "url": "https://open.spotify.com/track/1PopFACF2qvN9liBAM3OSk"
-    },
-    {
-      "added_at": "2026-06-16 07:34:03",
-      "album": {
         "name": "Bum Chiki Bum (From \"Jolly\")",
         "url": "https://open.spotify.com/album/1a0uFi5ED971YU0knwPb3L"
       },
@@ -1791,30 +1835,6 @@
       "duration_ms": 218476,
       "name": "Bum Chiki Bum (From \"Jolly\")",
       "url": "https://open.spotify.com/track/5oInTSO5vGd3JWakTspzOw"
-    },
-    {
-      "added_at": "2026-06-10 09:20:06",
-      "album": {
-        "name": "Quarterru (From \"Balaramana Dinagalu\")",
-        "url": "https://open.spotify.com/album/02d8hRIshRUbWYOwzMMkpL"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Quarterru (From \"Balaramana Dinagalu\")",
-      "url": "https://open.spotify.com/track/3huccCWIrdmZnIbWDocVvu"
     }
   ],
   "unique_name": "Latest Kannada",

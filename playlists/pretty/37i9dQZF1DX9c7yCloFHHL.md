@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Jon Hassell
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,197 likes - 99 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,258 likes - 99 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 98 | [ARMOUNIUM](https://open.spotify.com/track/1dO5K2NVmlxbCXMGwPUq2y) | [Transgresorcorruptor](https://open.spotify.com/artist/4eUhfPvLLg3W6H8n8uRnd3) | [MOURLY](https://open.spotify.com/album/0nXZVfzFs7vLU74LonB4ux) | 3:18 |
 | 99 | [Malachite](https://open.spotify.com/track/3qHbOgMaAlrnKoQq0mwU4e) | [Martin Brugger](https://open.spotify.com/artist/1CChwzxv51jVD73HJwnHM5) | [The Shell](https://open.spotify.com/album/6CjAsLFtw2SHYaqCuU2FYc) | 3:47 |
 
-Snapshot ID: `AAAAACTn41ECUK8SOZ/tt9/AlM0KRJHC`
+Snapshot ID: `AAAAACKVmOFOLRP28gl5IkDg/9XDiWJK`

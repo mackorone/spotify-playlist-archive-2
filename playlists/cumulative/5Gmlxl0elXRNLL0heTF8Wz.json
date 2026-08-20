@@ -1091,6 +1091,32 @@
     },
     {
       "album": {
+        "name": "Bach, Handel & D. Scarlatti: (Viola da) Gamba Sonatas",
+        "url": "https://open.spotify.com/album/4L8yKHiyMWrxwRSFZFEqHT"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174280,
+      "name": "Ich ruf' zu dir, Herr Jesu Christ, BWV 639 (Transcr. Isserlis/Egarr for Cello & Harpsichord)",
+      "url": "https://open.spotify.com/track/3sBRqGrwdsHNRHmfOOeHjH"
+    },
+    {
+      "album": {
         "name": "Bach: Inventions & Partita",
         "url": "https://open.spotify.com/album/2607OCLeDNFKNOO01OVd9P"
       },

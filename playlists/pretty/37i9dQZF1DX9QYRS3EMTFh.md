@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,163 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,186 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Yes I Do](https://open.spotify.com/track/2cim1LzHnJIJArsZqa4MrD) | [DJ Erise](https://open.spotify.com/artist/5un78gf3HzGs8Kgeoflgna), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Yes I Do](https://open.spotify.com/album/2IHLFq4F3EBgNHWrK30ahO) | 1:51 |
 | 50 | [GOGOWINE](https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [GOGOWINE](https://open.spotify.com/album/2xmpR4pEkkRN2LSmICAv58) | 2:19 |
 
-Snapshot ID: `AAAAAMjZqJrni7XGR1GD28l/e52HoMYj`
+Snapshot ID: `AAAAAPt3NycaAv1B86MR5NQv2kNHcU+A`

@@ -87525,20 +87525,24 @@
     },
     {
       "album": {
-        "name": "Hike to the Sun",
+        "name": "Hike to the Sun (From \"Hana Korea\")",
         "url": "https://open.spotify.com/album/2O9e84FmvaKpphoVvmVEVZ"
       },
       "artists": [
         {
           "name": "Jonas Bjerre",
           "url": "https://open.spotify.com/artist/6XPzWnS6mnbzlY9E9sx9KK"
+        },
+        {
+          "name": "Yeohee Kim",
+          "url": "https://open.spotify.com/artist/0DJmaZXJDrMal0Efjkxkmv"
         }
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227893,
-      "name": "Hike to the Sun",
+      "name": "Hike to the Sun - From \"Hana Korea\"",
       "url": "https://open.spotify.com/track/3dkeqdULEvMTfvgmrBufYO"
     },
     {

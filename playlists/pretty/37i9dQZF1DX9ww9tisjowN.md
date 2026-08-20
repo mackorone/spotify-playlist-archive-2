@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,282 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,462 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [pink flamingo](https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm) | [outernet 開く](https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg) | 2:52 |
 | 75 | [High Low](https://open.spotify.com/track/2WQ5Y7NfIkZdSXFP6wXS3p) | [yuri](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf) | [High Low](https://open.spotify.com/album/1r9WZOotWvIBwShZHeUveb) | 2:07 |
 
-Snapshot ID: `AAAAANl4xi8OD2zU506NwVgiPg01PSWc`
+Snapshot ID: `AAAAAN69YGI9p3tnA9jIKP8EjOQ0RvRF`

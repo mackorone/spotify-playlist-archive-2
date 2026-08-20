@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: milet
 
-3,858 songs - 10 day 5 hr 29 min
+3,859 songs - 10 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1752,7 +1752,7 @@
 | [Somebody Else Now](https://open.spotify.com/track/1kxAIgqMbdYVXNZ5Lr8dac) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [NOW](https://open.spotify.com/album/7zbqFK9cexmlYW2bBw16Og) | 3:02 | 2024-08-06 | 2024-09-11 |
 | [Someone To Love](https://open.spotify.com/track/1pUvCQzbPxG75m2Ox3vCEN) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [Someone To Love](https://open.spotify.com/album/6xXhHmcyyhw3QzLkmTI7p7) | 3:30 | 2022-06-07 | 2022-07-28 |
 | [somewhere in TOKYO](https://open.spotify.com/track/3AlLDUy40iBb9zbutd3AJ4) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [somewhere in TOKYO + 4 singles](https://open.spotify.com/album/6NnUI4ukdEfzTNcDjCFBAc) | 4:58 | 2024-07-25 | 2024-07-31 |
-| [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 | 2026-01-14 |  |
+| [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 | 2026-01-14 | 2026-08-20 |
 | [Song from Zero](https://open.spotify.com/track/3I870NUHxZ1flU9BoZrGAQ) | [Nao☆](https://open.spotify.com/artist/4l3RPSnpTQowMlWZe34WBh) | [Song from Zero](https://open.spotify.com/album/6Fo2rTwN5D7HYn23XSGUeZ) | 3:55 | 2025-04-22 | 2025-04-30 |
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-03-29 |
 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
@@ -2473,6 +2473,7 @@
 | [ふたつの星](https://open.spotify.com/track/2V9Q8ELH3TAmyIuDlVo83F) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [ふたつの星](https://open.spotify.com/album/22nrObzA6hQ5OaV2fJxKRe) | 5:49 | 2022-08-17 | 2022-08-24 |
 | [ふたりごと](https://open.spotify.com/track/40LZpCt554ozJayGUrQw1P) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [ふたりごと](https://open.spotify.com/album/5ctQQYVDiYBDO0EEfxS5zE) | 4:39 | 2025-11-18 | 2026-02-12 |
 | [ふたりじめ](https://open.spotify.com/track/6klVbCJWBWv1NKbXd6NElu) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [ふたりじめ](https://open.spotify.com/album/6cPZhNjE7lp0f153yt2JjQ) | 3:06 | 2024-12-24 | 2025-01-06 |
+| [ふたりでいよう](https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [ふたりでいよう](https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A) | 4:06 | 2026-08-18 |  |
 | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo) | 3:54 | 2024-07-09 | 2024-07-17 |
 | [ふれられない奇跡](https://open.spotify.com/track/5tmoPWku1FRlJHzUrXVrmH) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [ふれられない奇跡](https://open.spotify.com/album/3LRPuuA2QAy6QraKYlbliZ) | 5:40 | 2024-05-07 | 2024-05-22 |
 | [ふわり](https://open.spotify.com/track/40HGWMDzsbCN5uIY0znQty) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [ふわり](https://open.spotify.com/album/7CjB2qN8kpU8YcXn0N0Sz4) | 4:07 | 2025-07-22 | 2025-07-30 |

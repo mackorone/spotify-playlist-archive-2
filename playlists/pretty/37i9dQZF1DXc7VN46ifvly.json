@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21574,
+  "num_followers": 21580,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOkXqYC7IJUyetDxUg0akaEfPAmB",
+  "snapshot_id": "AAAAAMnaAAnHbn4kxbmUWAi7TFDxcX5B",
   "tracks": [
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Show Me The Money 12 Episode 2",
-        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
-      },
-      "artists": [
-        {
-          "name": "Fleeky Bang",
-          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        }
-      ],
-      "duration_ms": 221197,
-      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
-      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "K-FLIP",
         "url": "https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 189016,
       "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
       "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "duration_ms": 221197,
+      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
     },
     {
       "added_at": "2026-06-29 08:20:19",

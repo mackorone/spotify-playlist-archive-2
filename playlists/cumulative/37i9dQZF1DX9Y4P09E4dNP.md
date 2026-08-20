@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Joey B
+> The big Hip\-Life hits rn\. Cover: AratheJay
 
-357 songs - 21 hr 24 min
+359 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-03-04 | 2024-04-04 |
 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-03-17 | 2022-09-18 |
 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-03-17 | 2024-03-05 |
+| [FAMAME](https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 2:46 | 2026-08-19 |  |
 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 | 2024-05-24 |  |
 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2025-01-21 |  |
 | [Fighting Spirit](https://open.spotify.com/track/7ksDlYtjVV2KwWqS6RIDW8) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Fighting Spirit](https://open.spotify.com/album/31dAnx3TCyHdTNXLOoO25g) | 3:26 | 2024-06-07 | 2024-06-15 |
@@ -204,6 +205,7 @@
 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 | 2021-12-02 | 2024-03-13 |
 | [Mesan Aba \(feat\. Nana Quame\)](https://open.spotify.com/track/6ubA77bSivUeRqk10GpRTX) | [Akyeame](https://open.spotify.com/artist/43p9Y2qeB6Uod7IXyt7UVk), [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:46 | 2020-02-20 | 2022-07-29 |
 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-21 | 2025-12-19 |
+| [METICULOUS](https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 3:53 | 2026-08-19 |  |
 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 | 2022-02-24 | 2024-03-05 |
 | [MILLIONS ii](https://open.spotify.com/track/50IzCGQidECh5zojglWB6w) | [Epixode](https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3), [Genna](https://open.spotify.com/artist/0vgmGJ9KtHHUNi1kDi0Eyt), [RASHID METAL](https://open.spotify.com/artist/0sawjBeMoue4ucinK3EA1K), [Jah Lead](https://open.spotify.com/artist/1mgGYlVrlrPTERwYmZV60h), [Kamelyeon](https://open.spotify.com/artist/5MP0kZyNCYX9cOcrH4HRhr), [Ras Kuuku](https://open.spotify.com/artist/4S25RJwSpzgN0r4Ud7gpwe), [CAPTAN GH](https://open.spotify.com/artist/68BeDAGR3ASjI5VP3SQ4gV), [J.Derobie](https://open.spotify.com/artist/0ZVmFagVyt9X9mpPo7DP1x) | [MILLIONS ii](https://open.spotify.com/album/419fDmAiFkD44r3OKtKLUv) | 5:53 | 2026-02-20 | 2026-03-27 |
 | [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-20 | 2026-03-13 |
@@ -333,7 +335,7 @@
 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 | 2024-08-09 | 2025-09-26 |
 | [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 | 2026-01-30 |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2025-04-07 |  |
-| [Tribal Love](https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [4PLAY](https://open.spotify.com/album/565GXl4uD52IKCtX4Vo4nU) | 2:26 | 2026-07-31 |  |
+| [Tribal Love](https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [4PLAY](https://open.spotify.com/album/565GXl4uD52IKCtX4Vo4nU) | 2:26 | 2026-07-31 | 2026-08-20 |
 | [Try Me](https://open.spotify.com/track/1Yy0MCqFDgn2OYnRYzmU7K) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 3:29 | 2024-03-04 | 2024-03-29 |
 | [Tuabodom](https://open.spotify.com/track/1lj4eBXuGedWMfsh2PHReg) | [Nkasei](https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:16 | 2020-02-20 | 2022-10-16 |
 | [Tuabodom](https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf) | [Nkasei](https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:16 | 2020-02-20 | 2022-07-27 |

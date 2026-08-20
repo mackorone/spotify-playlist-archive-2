@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 7 hr 15 min
+126 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 | 2024-02-27 |  |
 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 | 2024-02-27 |  |
 | [Love's Just A Feeling](https://open.spotify.com/track/1foYfeVd8HVex402aOJN4o) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough \(Deluxe Edition\)](https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai) | 3:49 | 2024-02-27 | 2025-06-27 |
-| [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/0uFwdpkVJzpyUxlu9reTWK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF) | 3:49 | 2025-06-26 |  |
+| [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/0uFwdpkVJzpyUxlu9reTWK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF) | 3:49 | 2025-06-26 | 2026-08-20 |
+| [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/1p7I3XF3L5zDhUhjfPViZ2) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/2pMSL1tl3hsr4SchKiCvwT) | 3:49 | 2026-08-19 |  |
 | [Magic](https://open.spotify.com/track/6Bhb59RtPbvA8z6tMiZX5q) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster](https://open.spotify.com/album/2XnbqGw1OR5dls6UovbKTx) | 3:10 | 2025-09-17 |  |
 | [Mean Girls](https://open.spotify.com/track/3VJ18D4rUe0KCACLWU8gtB) | [Rachel Crow](https://open.spotify.com/artist/4TIHghOOQ0f8sxHvaV5LOx) | [Rachel Crow](https://open.spotify.com/album/3WnBI3PHFuP3iFWy6CnOUH) | 3:09 | 2024-02-27 |  |
 | [More to Lose](https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:35 | 2025-09-17 |  |

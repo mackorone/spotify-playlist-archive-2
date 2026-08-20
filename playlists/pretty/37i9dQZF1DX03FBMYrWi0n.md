@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Dear Youth
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,797 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,799 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 84 | [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 |
 | 85 | [PUSSY POP MUSIC](https://open.spotify.com/track/3pEoo55cSJ3GlUn4lJ9yg3) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [PUSSY POP MUSIC](https://open.spotify.com/album/1rsuwlWAGPwjI9oF1RCUkX) | 3:34 |
 
-Snapshot ID: `AAAAAFKFkRjUazAFJ2gzlbDPKt5Gk4lp`
+Snapshot ID: `AAAAABGdds37DQQR59MJ6wxokHhh3PK6`

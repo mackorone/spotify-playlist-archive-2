@@ -1,12 +1,12 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 519482,
+  "num_followers": 519593,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiz0avXV3OWHy8vvPRB3v/f4jen",
+  "snapshot_id": "AAAAANOdMWfqAY6MRZe0lc7ffu9kJsZ3",
   "tracks": [
     {
       "added_at": "2026-05-12 05:08:23",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 302425,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 302425,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 252493,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Vivir",
+        "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/41o3xnnu3AzHurKJ2q8ICn"
+        }
+      ],
+      "duration_ms": 285288,
+      "name": "Yo Tengo un Nuevo Amor",
+      "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Vivir",
-        "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/41o3xnnu3AzHurKJ2q8ICn"
-        }
-      ],
-      "duration_ms": 285288,
-      "name": "Yo Tengo un Nuevo Amor",
-      "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Eres Mi Padre - Single",
-        "url": "https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF"
-      },
-      "artists": [
-        {
-          "name": "David Letelier",
-          "url": "https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R"
-        }
-      ],
-      "duration_ms": 544864,
-      "name": "Eres Mi Padre",
-      "url": "https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Mas Profundo",
         "url": "https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 359999,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Eres Mi Padre - Single",
+        "url": "https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF"
+      },
+      "artists": [
+        {
+          "name": "David Letelier",
+          "url": "https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R"
+        }
+      ],
+      "duration_ms": 544864,
+      "name": "Eres Mi Padre",
+      "url": "https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 645440,
-      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
-      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Glorioso Rey",
         "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 645440,
+      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
+      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
     },
     {
       "added_at": "2026-05-12 05:08:23",

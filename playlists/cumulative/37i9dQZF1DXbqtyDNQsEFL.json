@@ -11694,7 +11694,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 166000,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
@@ -12716,6 +12716,32 @@
       "duration_ms": 219354,
       "name": "Someone",
       "url": "https://open.spotify.com/track/6AdMC6uV7DtLq2A7ya1UOp"
+    },
+    {
+      "album": {
+        "name": "SOMETHING GOOD",
+        "url": "https://open.spotify.com/album/6duqiwAuZbZPW9OVJHX5BY"
+      },
+      "artists": [
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        },
+        {
+          "name": "Nitro X",
+          "url": "https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW"
+        },
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "SOMETHING GOOD",
+      "url": "https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd"
     },
     {
       "album": {

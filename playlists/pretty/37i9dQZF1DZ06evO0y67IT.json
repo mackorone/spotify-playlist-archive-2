@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAABbPb3kGVsLZyImCNJVKmNi",
+  "snapshot_id": "aoOggAAAAACJJ6h8nmiTRfzqhcCjxCpG",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 266314,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 216520,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Unforgivable",
+      "url": "https://open.spotify.com/track/4dLsJ06Q3eKYPXJGywJ2co"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 226826,
       "name": "The Business Of Paper Stars",
       "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 178677,
       "name": "Four White Walls",
       "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Unforgivable",
-      "url": "https://open.spotify.com/track/4dLsJ06Q3eKYPXJGywJ2co"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Lights",
-        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 224762,
-      "name": "We Were Never Lost",
-      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreckage",
-        "url": "https://open.spotify.com/album/3nOg3pdRRdTSt842p5bYp4"
+        "name": "Lost Lights",
+        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 264083,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/5b12DxqEamsJ6q2dB9q8sB"
+      "duration_ms": 224762,
+      "name": "We Were Never Lost",
+      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
     },
     {
       "added_at": null,
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/3nOg3pdRRdTSt842p5bYp4"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+      "duration_ms": 264083,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/5b12DxqEamsJ6q2dB9q8sB"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 46493,
       "name": "The Death Of A Dream",
       "url": "https://open.spotify.com/track/18kZbAPeeqHowdnC8wF9tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
     },
     {
       "added_at": null,

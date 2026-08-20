@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WdT3Hi8zX0.md) - [plain]
 
 > Enjoy music from "HAIKYU!!" ©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,400 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,440 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WdT3Hi8zX0.md) - [plain]
 | 49 | [突破口](https://open.spotify.com/track/6YgzVO4MRr3zotpdSwa0Vq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:50 |
 | 50 | [頭](https://open.spotify.com/track/1ReSdOGqoqzhxU0bLHUj1f) | [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/0Dk6C4maoKPE34qTVI7Og9) | 2:26 |
 
-Snapshot ID: `AAAAAIml+eAXXyG+3kM3w2Fo/eci73f8`
+Snapshot ID: `AAAAAOzZw3Vu+yr1cYDF8/0QRfVgyWyy`

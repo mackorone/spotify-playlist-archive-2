@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With Learke, sixwing, Joshua Lanuarii and more
+> With Learke, UrvTek, Joshua Lanuarii and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 678 likes - 50 songs - 2 hr 21 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [Stay true](https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 4:08 |
 | 50 | [GET A GRIP](https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [hatezuki](https://open.spotify.com/artist/5HbTeasXb6VXh3DAZxBRUX) | [GET A GRIP](https://open.spotify.com/album/7etWJ2zFQgBbcGgHIkXkS1) | 3:05 |
 
-Snapshot ID: `AAAAAAhB4natDf0RnsG9zXPl4JHPFoaw`
+Snapshot ID: `AAAAAC7ExgaucLitYeTyuwys+WGvQFT/`

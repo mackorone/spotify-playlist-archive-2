@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 7 hr 36 min
+120 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Hey Baby](https://open.spotify.com/track/6KERXzROTPriopMyQoJaww) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:37 | 2024-01-29 |  |
 | [Hold Me](https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:45 | 2024-01-29 | 2026-04-16 |
 | [Hold Me](https://open.spotify.com/track/0W3w6sKkf8NaYYbOjCpWHl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage](https://open.spotify.com/album/4aNUKvAwYMhaqvGSgMoEnc) | 3:46 | 2026-04-15 | 2026-08-19 |
-| [Hold Me \- 2016 Remaster](https://open.spotify.com/track/2zYCip88nwoF96SC7WEjJm) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:45 | 2026-08-18 |  |
+| [Hold Me \- 2016 Remaster](https://open.spotify.com/track/2zYCip88nwoF96SC7WEjJm) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:45 | 2026-08-18 | 2026-08-20 |
 | [Hollywood \(Some Other Kind of Town\)](https://open.spotify.com/track/3FcjR9MHChTfJd5HCbnMW2) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:45 | 2024-01-29 |  |
 | [Honey Hi](https://open.spotify.com/track/4lIgGtmrMRfMikXa3rInLn) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk](https://open.spotify.com/album/2AwawKEaWNe8X4Cy3oBGMu) | 2:43 | 2026-08-09 |  |
 | [Honey Hi \- 2015 Remaster](https://open.spotify.com/track/4hitfppPqFmsKsI9GS7IBc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:45 | 2024-01-29 | 2026-08-10 |
@@ -77,6 +77,7 @@
 | [Never Make Me Cry](https://open.spotify.com/track/5qoDNy714IRNHFSdAvojw4) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk](https://open.spotify.com/album/2AwawKEaWNe8X4Cy3oBGMu) | 2:18 | 2026-08-09 |  |
 | [Never Make Me Cry \- 2015 Remaster](https://open.spotify.com/track/38bw7l15N831T7TZWMVrPA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 2:18 | 2024-01-29 | 2026-08-10 |
 | [Nights in Estoril](https://open.spotify.com/track/4rfBf1yELLxpS6ohe0C3nc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:47 | 2024-01-29 |  |
+| [No Questions Asked](https://open.spotify.com/track/356134ums8iF3GNIrheeYX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:40 | 2026-08-19 |  |
 | [No Road is the Right Road](https://open.spotify.com/track/0lKqucToJeUDFl4GFFHnnk) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 2:51 | 2024-01-29 |  |
 | [Oh Daddy \- 2001 Remaster](https://open.spotify.com/track/1n8TL5euCMfi9QU2poq6Hh) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 3:55 | 2026-04-15 |  |
 | [Oh Daddy \- 2004 Remaster](https://open.spotify.com/track/3D8bcwMmgPR5ZnpL52rY1q) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:56 | 2024-01-29 | 2026-04-16 |

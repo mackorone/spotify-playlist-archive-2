@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 208250,
       "name": "Chor",
       "url": "https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT"
@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "A Little Larger Than The Entire Universe",
+        "url": "https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2"
+      },
+      "artists": [
+        {
+          "name": "JBABE",
+          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181566,
+      "name": "Cries in Crocodile",
+      "url": "https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa"
+    },
+    {
+      "album": {
         "name": "days",
         "url": "https://open.spotify.com/album/0CFZJ9jU1NkaV14kEqrFvF"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 202105,
       "name": "Dhak Dhak",
       "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 191015,
       "name": "Mann",
       "url": "https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM"
@@ -3528,6 +3546,32 @@
       "duration_ms": 191952,
       "name": "Manzil",
       "url": "https://open.spotify.com/track/5fPWflMcJ7zT8BSnHQD9Wh"
+    },
+    {
+      "album": {
+        "name": "Marham",
+        "url": "https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Aditi Raj",
+          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Marham",
+      "url": "https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo"
     },
     {
       "album": {
@@ -3658,7 +3702,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 190549,
       "name": "Mera Safar",
       "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
@@ -4513,6 +4557,32 @@
     },
     {
       "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Bandana Datta",
+          "url": "https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122240,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0"
+    },
+    {
+      "album": {
         "name": "Sab Rab",
         "url": "https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp"
       },
@@ -5056,6 +5126,32 @@
       "duration_ms": 174615,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf"
+    },
+    {
+      "album": {
+        "name": "Deewar Ke Uss Paar",
+        "url": "https://open.spotify.com/album/5pf8fOWonD7NQ3ChzyHNkc"
+      },
+      "artists": [
+        {
+          "name": "Farak",
+          "url": "https://open.spotify.com/artist/1gbYkP3zeoGen1itU6pO9a"
+        },
+        {
+          "name": "10A",
+          "url": "https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh"
+        },
+        {
+          "name": "Saswat Balan",
+          "url": "https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154473,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK"
     },
     {
       "album": {

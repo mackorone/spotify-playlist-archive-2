@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > BDLC, Dentalhon, Chrisjeboy en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,488 likes - 71 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,480 likes - 71 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 70 | [Mood](https://open.spotify.com/track/1ZEvVN4HO11wmf566Utkji) | [IKER](https://open.spotify.com/artist/0RgWG68I2ybn4jLZlcDWqC), [Persontee](https://open.spotify.com/artist/5pb8Z21vh67hVRsxfWPoOM) | [Mood](https://open.spotify.com/album/7oi05JzoI7TNO4nUvO4ynS) | 1:57 |
 | 71 | [Ski](https://open.spotify.com/track/5lRY5YVes9ZAs5XCgsdXoA) | [Trxnz](https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm), [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8), [Benaja](https://open.spotify.com/artist/04hhcLaopGwW5RJB9pwEgU) | [Ski](https://open.spotify.com/album/2l34OyqZcNUWyFeZfr2mhX) | 3:13 |
 
-Snapshot ID: `AAAAAOjobMEw70vgJRyk9nCwsgq1t+Hx`
+Snapshot ID: `AAAAAJO1bdM6QOwEZiRXx+OB8oXmHX5B`

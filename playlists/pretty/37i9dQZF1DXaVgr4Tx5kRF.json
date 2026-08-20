@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666395,
+  "num_followers": 666370,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFCArl/eV9HjGLjHAvolao7GOrE",
+  "snapshot_id": "AAAAAOEx8aRoa8wL1FDJgt6pcIP8Z14h",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Coming Up (Remastered)",
-        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Beautiful Ones (Remastered)",
-      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 240066,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Coming Up (Remastered)",
+        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Sun Is Often Out",
-        "url": "https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6"
+        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
       },
       "artists": [
         {
-          "name": "Longpigs",
-          "url": "https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg"
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
         }
       ],
-      "duration_ms": 264066,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB"
+      "duration_ms": 239746,
+      "name": "Kinky Afro - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
+        "name": "The Sun Is Often Out",
+        "url": "https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6"
       },
       "artists": [
         {
-          "name": "Happy Mondays",
-          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+          "name": "Longpigs",
+          "url": "https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg"
         }
       ],
-      "duration_ms": 239746,
-      "name": "Kinky Afro - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
+      "duration_ms": 264066,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Some Friendly",
-        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "The Only One I Know",
-      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 258533,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -875,8 +875,8 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Gold Mother",
-        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -963,8 +963,8 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
+        "name": "Gold Mother",
+        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+      "duration_ms": 244866,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -991,6 +991,22 @@
       "duration_ms": 265133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1023,22 +1039,6 @@
       "duration_ms": 239840,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Life Of Riley - The Lightning Seeds Collection",
-        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",

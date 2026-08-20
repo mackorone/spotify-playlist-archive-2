@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Rise Against
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,264 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,262 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 |
 | 80 | [far away from here \- ACT I : The Setup](https://open.spotify.com/track/2WXIVz7W62BqMoYX0k8cm3) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [11](https://open.spotify.com/album/3Wpl5sQURlpSfRKkU4K8Oh) | 3:39 |
 
-Snapshot ID: `AAAAAHHtgwXGOHEX3PPMl5TnUT+eONeD`
+Snapshot ID: `AAAAAFbQkSLoZ5vKwYvfnd53o1wWz8Ex`

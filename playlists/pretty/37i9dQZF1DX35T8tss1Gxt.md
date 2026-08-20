@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,586 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,644 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 74 | [Show Me](https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Prodigal](https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5) | 4:05 |
 | 75 | [MR\. JESUS](https://open.spotify.com/track/5JHNROLLIK63ftUgp24Nwh) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [MR\. JESUS](https://open.spotify.com/album/0fK4QeHvamWjrI766mfg4Z) | 2:23 |
 
-Snapshot ID: `AAAAAEzAAmhvsP7P+YEAha9icHFV5/qP`
+Snapshot ID: `AAAAAGUzxUDSttHNcqXPvCYdQQ5Ibg9h`

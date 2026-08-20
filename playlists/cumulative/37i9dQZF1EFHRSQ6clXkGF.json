@@ -4528,10 +4528,28 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 984146,
       "name": "Paprika Plains",
       "url": "https://open.spotify.com/track/0KGzeWbhzj7lkuATtpSCBf"
+    },
+    {
+      "album": {
+        "name": "Piano Renditions of Joni Mitchell",
+        "url": "https://open.spotify.com/album/5kLPnzPxClCmU5XGcye7Lz"
+      },
+      "artists": [
+        {
+          "name": "Piano Project",
+          "url": "https://open.spotify.com/artist/0sOfFTIMocxq5mPB8SFLHn"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 991637,
+      "name": "Paprika Plains",
+      "url": "https://open.spotify.com/track/18peSsJhsXnbnSIyX3gfFp"
     },
     {
       "album": {
@@ -4838,6 +4856,24 @@
       "duration_ms": 159186,
       "name": "Sad Winds Blowin'",
       "url": "https://open.spotify.com/track/0VmEu3fo3XuOULsEgzadFV"
+    },
+    {
+      "album": {
+        "name": "Joni Mitchell Archives, Vol. 4: The Asylum Years (1976-1980)",
+        "url": "https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728866,
+      "name": "Save Magic - Paprika Plains Embryonic Version",
+      "url": "https://open.spotify.com/track/4Cfe9UzKfJGoUl33EEaJhG"
     },
     {
       "album": {

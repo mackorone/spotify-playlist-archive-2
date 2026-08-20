@@ -23807,6 +23807,24 @@
     },
     {
       "album": {
+        "name": "REFRACTIONS",
+        "url": "https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325639,
+      "name": "Mazaranai",
+      "url": "https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8"
+    },
+    {
+      "album": {
         "name": "McDonald no coffee",
         "url": "https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF"
       },
@@ -42026,24 +42044,6 @@
       "duration_ms": 258526,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c"
-    },
-    {
-      "album": {
-        "name": "REFRACTIONS",
-        "url": "https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm"
-      },
-      "artists": [
-        {
-          "name": "Cornelius",
-          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
-        }
-      ],
-      "date_added": "2026-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8"
     },
     {
       "album": {
@@ -62564,6 +62564,28 @@
       "duration_ms": 260915,
       "name": "\u604b\u4eba\u3068\u3044\u3046\u540d\u524d",
       "url": "https://open.spotify.com/track/5dvz6viFuPbmdCBoLSkuPv"
+    },
+    {
+      "album": {
+        "name": "\u6069\u5bf5",
+        "url": "https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        },
+        {
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192672,
+      "name": "\u6069\u5bf5",
+      "url": "https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS"
     },
     {
       "album": {

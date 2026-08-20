@@ -936,6 +936,24 @@
     {
       "album": {
         "name": "PIV ADE SAMPLER 2019",
+        "url": "https://open.spotify.com/album/4qTdEoCKez4hHWFKiYUb8A"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421853,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/25iuPAsp2Rd7GRnnn2yHjo"
+    },
+    {
+      "album": {
+        "name": "PIV ADE SAMPLER 2019",
         "url": "https://open.spotify.com/album/6FhoKGwexQ0lV0AVa8OhFW"
       },
       "artists": [
@@ -950,24 +968,6 @@
       "duration_ms": 421853,
       "name": "Evening Drive",
       "url": "https://open.spotify.com/track/1gSArrE11Keig6Eu1YeWmB"
-    },
-    {
-      "album": {
-        "name": "PIV ADE SAMPLER 2019",
-        "url": "https://open.spotify.com/album/4qTdEoCKez4hHWFKiYUb8A"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "date_added": "2021-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 421853,
-      "name": "Evening Drive",
-      "url": "https://open.spotify.com/track/25iuPAsp2Rd7GRnnn2yHjo"
     },
     {
       "album": {

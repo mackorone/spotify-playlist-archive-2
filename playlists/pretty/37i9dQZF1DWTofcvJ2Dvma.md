@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 89 | [Royal Parties](https://open.spotify.com/track/274KFsYmjRMNmiZ6MZgg0A) | [Frank Emmy](https://open.spotify.com/artist/1jfdbHiE0eZM9RXWlsh3Gm) | [Royal Parties](https://open.spotify.com/album/0vqr17tuyvIzxtaP8W9uZ0) | 2:46 |
 | 90 | [Dough](https://open.spotify.com/track/3uluGjjaD6kGBCT6MmjtqJ) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Dough](https://open.spotify.com/album/5KwP50V6r6CfEzHdD0ShHw) | 2:30 |
 
-Snapshot ID: `AAAAANJgDd6pZHJatRnsYHPAf1/bWZzy`
+Snapshot ID: `AAAAAA9PS92Fgh8qSVdGbVJ0xO/MIBRN`

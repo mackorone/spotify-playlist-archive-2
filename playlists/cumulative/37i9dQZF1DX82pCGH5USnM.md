@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-1,057 songs - 2 day 7 hr 19 min
+1,063 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 | 2022-09-02 | 2024-07-25 |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2021-09-22 | 2021-10-06 |
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2021-06-02 | 2024-11-30 |
+| [Another Check\-in](https://open.spotify.com/track/38tfcSY7vfpJrlYLNwFhRb) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Another Check\-in](https://open.spotify.com/album/78sV1WjheF8guFyKPZkx3z) | 2:35 | 2026-08-19 |  |
 | [ANTILOOP](https://open.spotify.com/track/4fB6CbtRktj7m9d7Cmjf9G) | [Bantu Jafari](https://open.spotify.com/artist/6yYZzgfZlTAZ5c5FDr78Zl) | [ANTILOOP](https://open.spotify.com/album/1tRaExObERYmO5FPCWKOel) | 3:04 | 2025-11-07 |  |
 | [Aphex Wins](https://open.spotify.com/track/0vVCVbOgsdCnKTs0dz46CN) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Aphex Wins](https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As) | 1:45 | 2020-04-03\* | 2021-06-16 |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-02-19 | 2021-09-22 |
@@ -109,6 +110,7 @@
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2021-09-09 | 2024-11-16 |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-08 | 2024-07-25 |
 | [Boreal](https://open.spotify.com/track/4WNejltOmSmIyNDoGFgRK9) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Boreal](https://open.spotify.com/album/1EgmhQuKH9AMGy6X53tsUV) | 2:50 | 2020-04-03\* | 2020-04-21 |
+| [Both of Us](https://open.spotify.com/track/26o7AQ8xO7ToiujWpQPU0P) | [apparater](https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW) | [Both of Us](https://open.spotify.com/album/73VV7vSfrWvonoAiLe0y2M) | 2:41 | 2026-08-19 |  |
 | [Bounce](https://open.spotify.com/track/5oDa8i3iwXZjApKiwMLh8R) | [BC Mist](https://open.spotify.com/artist/26ZQgoHXXRAkVc701wl4KT) | [Bounce](https://open.spotify.com/album/6GeL3TFcAkxCy1l19cYFc1) | 3:24 | 2020-09-09 | 2021-04-21 |
 | [Branches](https://open.spotify.com/track/6q5QgqXvW1lgIBSdSihcVN) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Don't Look Back EP](https://open.spotify.com/album/3DcpVOPGjLFZ19N2VezIve) | 3:10 | 2020-04-03\* | 2021-02-19 |
 | [Breakthru \- Arutani’s Off The Grid Remix](https://open.spotify.com/track/3GCXvuIWKJiikhlAsLhaAY) | [Nährwerk](https://open.spotify.com/artist/6WXcBFp0NF1ZWbCujQ64UZ), [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Breakthru \(Arutani's Off The Grid Remix\)](https://open.spotify.com/album/7jvt2rVHLegeqPQ5eE6JEQ) | 7:33 | 2020-11-19 | 2020-11-27 |
@@ -536,6 +538,7 @@
 | [Magnolia](https://open.spotify.com/track/02MIc4aHuwUfI7G62gO3kl) | [Bagarn](https://open.spotify.com/artist/7u9VmLWduhshKEs2KOlSYz) | [Magnolia](https://open.spotify.com/album/0zrAYq6lCIqVTvHMh0g90M) | 2:25 | 2024-08-30 |  |
 | [Majestic Diver](https://open.spotify.com/track/5kl9KNQIIV3xPGvBP2xPmw) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Majestic Diver](https://open.spotify.com/album/46HzGw31BxoYlARH6kIspC) | 4:10 | 2020-04-14 | 2020-10-16 |
 | [Mamanuca](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Mamanuca](https://open.spotify.com/album/2Ay9ThhhF500zjiEWoXBJm) | 2:16 | 2023-01-13 | 2025-07-12 |
+| [Mango Breeze](https://open.spotify.com/track/5E8ejgJgzv5GDhaqqiFfcV) | [Gear Affe](https://open.spotify.com/artist/0N8txJumVLbJE9AbCFNfy6) | [Mango Breeze](https://open.spotify.com/album/2pHpfqyxD8SbqozK40SfXY) | 2:12 | 2026-08-19 |  |
 | [Mangoes](https://open.spotify.com/track/2oHMysSCTWlnImnzJQl0F1) | [Berner Sen](https://open.spotify.com/artist/78ChEYEGQx7KzLDQJRMpdX) | [Mangoes](https://open.spotify.com/album/3BeLy5onpeai6aj1y6v4Hx) | 2:11 | 2024-03-26 | 2026-02-24 |
 | [Maracuyá](https://open.spotify.com/track/0YLM39IJtS333HmhCMw69R) | [Warmth of Vinyl](https://open.spotify.com/artist/6D6l42hI1JPc30tM0peZq2) | [Maracuyá](https://open.spotify.com/album/4gmURBxtdD46zIDiOchA5Z) | 2:33 | 2025-12-19 | 2026-06-13 |
 | [Marathia](https://open.spotify.com/track/6Vcmffnur4CAIFaV0Z1VHv) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Marathia](https://open.spotify.com/album/3AjVuMTqsXGR7vXNo9OwSu) | 2:13 | 2022-10-28 | 2023-12-02 |
@@ -656,6 +659,7 @@
 | [Palm Reflections](https://open.spotify.com/track/1ggsH4e5OxQfPEiFVLLL98) | [Noir Vista](https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ) | [Palm Reflections](https://open.spotify.com/album/0ScjccdZ0oNS16YgwDsAgW) | 2:28 | 2025-10-03 |  |
 | [Palma](https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Palma](https://open.spotify.com/album/01jhngUcEPsPXJG7nSTvfY) | 3:42 | 2022-09-02 | 2024-11-30 |
 | [Palmera](https://open.spotify.com/track/4M4IRdZcrFN6cABVZXVjmB) | [Gofica](https://open.spotify.com/artist/55F2AITuHErxRXifp8W8Y7) | [Palmera](https://open.spotify.com/album/5HgXP8PWHqMHLtdWL7dbMV) | 2:10 | 2025-10-10 |  |
+| [Paloma](https://open.spotify.com/track/5kTIlE1UPaSpSAsF45q2Cm) | [Noir Vista](https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ) | [Paloma](https://open.spotify.com/album/6dumKQXmMbbfQLOeqxaQ4h) | 2:14 | 2026-08-19 |  |
 | [paloma beach](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [paloma beach](https://open.spotify.com/album/3ZtcDAqw3gck5JsDq8gkNv) | 4:02 | 2022-08-19 | 2024-11-30 |
 | [Paradis](https://open.spotify.com/track/0PCEeJV23lOP2EfUSXNnQy) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Paradis](https://open.spotify.com/album/3Sj3x2uO4Wb6zJdKiUQ3qK) | 2:33 | 2022-11-25 | 2024-11-30 |
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2021-09-09 | 2023-06-03 |
@@ -901,6 +905,7 @@
 | [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 | 2024-11-16 |
 | [Sunrise](https://open.spotify.com/track/77nlEppe4WUzvEKbFgGip4) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Sunrise](https://open.spotify.com/album/5QqcL4rDMSStEptlgQvdrA) | 2:09 | 2024-03-26 | 2025-02-22 |
 | [Sunrise](https://open.spotify.com/track/3TYF3RI9u0EzSQZkjp4MZ6) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [O3L](https://open.spotify.com/artist/7wcEi954zzxLil4ihmxOZy) | [Sunrise](https://open.spotify.com/album/1jw1mgFBtQ5BAlBOOlyIEP) | 2:10 | 2022-08-12 | 2025-01-11 |
+| [Sunrise Signal](https://open.spotify.com/track/2PNwZt3aXa8EvllbUDDYSW) | [Calvian](https://open.spotify.com/artist/1YvCNyjRG7ZhIZXdSgDSXc) | [Sunrise Signal](https://open.spotify.com/album/2gBSvlRyCFjYKMAFObgsRB) | 2:02 | 2026-08-19 |  |
 | [Sunset](https://open.spotify.com/track/0Wr0Kmd3vrUYpO46KEKlzg) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Sunset](https://open.spotify.com/album/10DbkySaIHDiw1uY5vGVFC) | 2:35 | 2023-11-14 | 2024-08-31 |
 | [Sunset](https://open.spotify.com/track/1KABnioUeYPo0c1Ebx2BfN) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Sunset](https://open.spotify.com/album/2H6joNlbfw1WZAF5jzhvkA) | 2:27 | 2024-05-11 | 2025-12-20 |
 | [Sunset](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a) | [Rōsu](https://open.spotify.com/artist/5akiZKJzdQh33yqqEDnMRF) | [Sunset](https://open.spotify.com/album/7i8nd3IJ7Ud39ghQ69J2yn) | 2:00 | 2024-02-13 | 2025-12-20 |
@@ -1044,6 +1049,7 @@
 | [While Coffee Brews](https://open.spotify.com/track/5F6Jdqh11eZK36IH9t5pTr) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [While Coffee Brews](https://open.spotify.com/album/42SE9uaQNVcAXoHEJpjgkO) | 2:04 | 2025-01-10 |  |
 | [Whispers](https://open.spotify.com/track/0V8okvZJmTFqnbsW9L1v1N) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Glower](https://open.spotify.com/album/11wRjPVgkkdy5iVjLAHuzv) | 3:26 | 2020-04-03\* | 2021-02-10 |
 | [Why guess the time](https://open.spotify.com/track/7fgVaKoydGeWhiQLJ5tTHd) | [quirks & features](https://open.spotify.com/artist/5OJRUkU66Hz8RvGsLmHixM) | [Why guess the time](https://open.spotify.com/album/3onUbau7Fq2tU6cq6rrmSz) | 2:24 | 2022-01-21 | 2025-07-26 |
+| [Wind in our Sails](https://open.spotify.com/track/5gRPQWu1CYGz7QgAnAnCpo) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Wind in our Sails](https://open.spotify.com/album/3igcezIzsVB37tzqXXjwFu) | 2:41 | 2026-08-19 |  |
 | [Window to the Soul](https://open.spotify.com/track/1G964AW9s14yKF7kJahxV2) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Waiting for the Sun to Rise](https://open.spotify.com/album/7ik4kx0saV6Fjo4gAd5Zbi) | 7:04 | 2021-03-18 | 2021-06-16 |
 | [wish u were here](https://open.spotify.com/track/61nH9WsvcwQJio8J2lDGvq) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [wish u were here](https://open.spotify.com/album/1LkWvUprh75G4ZYTqc9Wcv) | 2:12 | 2022-09-09 | 2024-11-30 |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2020-04-03\* | 2022-04-06 |

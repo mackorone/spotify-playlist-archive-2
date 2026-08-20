@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Christian Ortega
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,144 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,188 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 44 | [Mary Jane](https://open.spotify.com/track/0jx5RRtMAzF59RIiULZ58T) | [Odin Orozco](https://open.spotify.com/artist/7M7Dkt0NsJC60BpQY6LLhd), [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [Mary Jane](https://open.spotify.com/album/4bmUOzG8aVgjxIWRivWk5X) | 3:08 |
 | 45 | [ALCATRAZ](https://open.spotify.com/track/15MLh59f827a28oCfJILAS) | [Erick GR](https://open.spotify.com/artist/6MjJDGKqTMt17DdoUM2Opw) | [ALCATRAZ](https://open.spotify.com/album/1cghsja2WNEpwf8MsWXlrU) | 3:04 |
 | 46 | [Dopamina](https://open.spotify.com/track/1zQFcUouiipsiuEfFimYsj) | [JJ](https://open.spotify.com/artist/2ZYToKsFXeLSnFSXMT35TD) | [Dopamina](https://open.spotify.com/album/1CJ9iPPbZUfJvRFGr6eFp6) | 2:16 |
-| 47 | [Placas de Chihuahua](https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [Placas de Chihuahua](https://open.spotify.com/album/3QDD3b5cwWQo5LMnWhG8SB) | 3:36 |
+| 47 | [PLACAS DE CHIHUAHUA](https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [PLACAS DE CHIHUAHUA](https://open.spotify.com/album/3QDD3b5cwWQo5LMnWhG8SB) | 3:29 |
 | 48 | [Corazón Sin Cara](https://open.spotify.com/track/7L80PzULnnAEr4bLI5mV9p) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh) | [Corazón Sin Cara](https://open.spotify.com/album/6zkofxUeyQKKAk1BAPqn7R) | 3:27 |
 | 49 | [Ese Morrito](https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Ese Morrito](https://open.spotify.com/album/00yXhQTcU4gfoyzwKTewp9) | 2:56 |
 | 50 | [Bandera Blanca](https://open.spotify.com/track/2s6FlM3MxL3N1eWMa1l72w) | [Jenn Santos](https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl) | [Bandera Blanca](https://open.spotify.com/album/73CqTrGgKmyd4RJ4ATxBso) | 3:02 |
 
-Snapshot ID: `AAAAAN99JXZ2yvQh+Rov3wWgoXijMApR`
+Snapshot ID: `AAAAAOldiLkytXit2/O/7JmZQ3P6kEVG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Gliiico
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,448 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,441 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Monomyth](https://open.spotify.com/track/5KAt9cmzLzvgURe9sLe9HD) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Pathways](https://open.spotify.com/album/0qBNUB2o096UWhfb4PttT6) | 4:24 |
 | 100 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
 
-Snapshot ID: `AAAAALmvkCKs+WsmfKRu8gH21vPSxrNG`
+Snapshot ID: `AAAAAAAcdyRwNkn+ZVHDw9QDzZUqr8w3`

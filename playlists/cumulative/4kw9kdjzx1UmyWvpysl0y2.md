@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,286 songs - 2 day 23 hr 18 min
+1,287 songs - 2 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
 | [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 | 2022-09-09 |
 | [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 | 2023-01-10 |
-| [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 | 2026-05-08 |  |
+| [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 | 2026-05-08 | 2026-08-20 |
 | [GOOME](https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb) | [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [GOOME](https://open.spotify.com/album/4kmRKz6oAadBMXckMwJYse) | 3:12 | 2024-08-26 | 2024-11-16 |
 | [GOOP](https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 2:40 | 2024-07-19 | 2024-10-11 |
 | [Got A Feeling](https://open.spotify.com/track/4gWxLRxRhMWQSo4gBXMQe4) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Got A Feeling](https://open.spotify.com/album/1T4RZyOiEUKpSoY6zUAleQ) | 3:31 | 2023-06-19 | 2023-09-26 |
@@ -744,7 +744,7 @@
 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 | 2023-01-06 |
 | [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 | 2023-05-17 | 2023-08-11 |
 | [Neck Snap](https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Neck Snap](https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo) | 2:54 | 2023-05-25 | 2023-08-20 |
-| [need \(u\)](https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4) | [No Signal](https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [powerANTHEM / need \(u\)](https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg) | 2:30 | 2026-05-11 |  |
+| [need \(u\)](https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4) | [No Signal](https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [powerANTHEM / need \(u\)](https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg) | 2:30 | 2026-05-11 | 2026-08-20 |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-17 | 2024-12-11 |
 | [Need You](https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Need You](https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t) | 3:12 | 2024-01-09 | 2024-04-02 |
 | [Need You Now](https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need You Now](https://open.spotify.com/album/7Bmt7iOL8QI1CY2IDB75GK) | 3:22 | 2025-05-06 | 2025-07-30 |
@@ -857,6 +857,7 @@
 | [Pirate King](https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Pirate King](https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid) | 3:37 | 2023-05-31 | 2023-08-28 |
 | [PLAY \- VIP](https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PLAY \(VIP\)](https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q) | 3:55 | 2024-12-02 | 2025-03-12 |
 | [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 | 2024-09-05 |
+| [Poison](https://open.spotify.com/track/77GRdgRszNNe4ZyDSV2cfD) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Poison](https://open.spotify.com/album/15vUIAEbtiB2yINh6MJxNE) | 2:12 | 2026-08-19 |  |
 | [Polarised](https://open.spotify.com/track/3MKWCuPRKubEOplEPgGyQL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Polarised](https://open.spotify.com/album/49iHwFQju9SdF39hRDaJoL) | 3:29 | 2025-01-17 | 2025-04-11 |
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 | 2024-03-07 |
 | [Portal](https://open.spotify.com/track/7Ifj94OvitrEBJolFPeBTN) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Portal](https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs) | 2:34 | 2024-02-12 | 2024-05-07 |

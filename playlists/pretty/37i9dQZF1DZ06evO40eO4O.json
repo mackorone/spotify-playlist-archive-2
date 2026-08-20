@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8458,
+  "num_followers": 8476,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAYnYIwkQYsenoTPBsP3Ql9",
+  "snapshot_id": "aoOggAAAAAB/8w6U1+JZZVZPDR3yhWTz",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kitty",
-        "url": "https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi"
+        "name": "GUAPO",
+        "url": "https://open.spotify.com/album/0Dy8iWaSx9u7YxhMTTbA1E"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 129130,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy"
+      "duration_ms": 165290,
+      "name": "GUAPO",
+      "url": "https://open.spotify.com/track/4AVbqBvcfsr0BmgzO7WmOL"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUAPO",
-        "url": "https://open.spotify.com/album/0Dy8iWaSx9u7YxhMTTbA1E"
+        "name": "Kitty",
+        "url": "https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 165290,
-      "name": "GUAPO",
-      "url": "https://open.spotify.com/track/4AVbqBvcfsr0BmgzO7WmOL"
+      "duration_ms": 129130,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy"
     },
     {
       "added_at": null,

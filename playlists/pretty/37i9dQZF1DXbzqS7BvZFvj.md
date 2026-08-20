@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nipsey Hussle, Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,705 likes - 112 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,705 likes - 112 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 38 | [Living Large](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 2:28 |
 | 39 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |
 | 40 | [Bronx Zoo Freestyle](https://open.spotify.com/track/6c2Xpz4x32bmuDFYHPNkal) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Birthday Blizzard ‘26](https://open.spotify.com/album/5jydEh8Ck5yNP92arzgntO) | 3:05 |
-| 41 | [SIAMESE](https://open.spotify.com/track/4e0cE9EvNY4CPJxkdGVada) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [SIAMESE](https://open.spotify.com/album/6V0iAgInzIVk51GNixUq79) | 2:52 |
+| 41 | [SIAMESE](https://open.spotify.com/track/4e0cE9EvNY4CPJxkdGVada) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SIAMESE](https://open.spotify.com/album/6V0iAgInzIVk51GNixUq79) | 1:50 |
 | 42 | [Estamos Listos](https://open.spotify.com/track/6ybJCiSbTxvLXWmgCIxtQJ) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Dios Bendiga](https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH) | 2:36 |
 | 43 | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q) | 3:51 |
 | 44 | [HOT AS A BIC](https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HOT AS A BIC](https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw) | 2:53 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 111 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 112 | [BAKA BAKA](https://open.spotify.com/track/7nQN2LeQwBWX9CaOcTPMzv) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [BAKA BAKA](https://open.spotify.com/album/0ZoQyFhctmUakbVOaj4jxr) | 2:38 |
 
-Snapshot ID: `AAAAAHdw1ww8Ydd97KPx0EY5D545hAL6`
+Snapshot ID: `AAAAANLetv9OMC6Tc0iqPYuAJhVBmEng`

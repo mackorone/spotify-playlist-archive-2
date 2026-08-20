@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music that India is listening to. Cover - Dhurandhar:  The Revenge",
+  "description": "Hottest Hindi music that India is listening to. Cover - Awarapan 2",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -9276,7 +9276,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 155123,
       "name": "QEHER (From \"Dhamaal 4\")",
       "url": "https://open.spotify.com/track/7myz4NUL4qKaUI01IlkDie"
@@ -11074,6 +11074,44 @@
       "duration_ms": 249818,
       "name": "Tenu Sang Rakhna",
       "url": "https://open.spotify.com/track/67oNO9GjcDn7NO08lg08jj"
+    },
+    {
+      "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365294,
+      "name": "Tera Mera Rishta - New Version",
+      "url": "https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC"
     },
     {
       "album": {

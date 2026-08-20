@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mumuzinho, KATSEYE, Froid, Simone Morena, Jota.pê,  Teresa Cristina, Rashid e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,007 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,773 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 81 | [VANGUARDAH](https://open.spotify.com/track/3WMzulhqTgVNW2LBjVvm8N) | [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [VANGUARDAH](https://open.spotify.com/album/2gh6ojsYh7K7xpw3vhDiiN) | 3:07 |
 | 82 | [Monopólio Das Gostosas](https://open.spotify.com/track/5pQtycrKv2IxXx0RXIvB8H) | [Jenario Mc](https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa), [Abaddie](https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3) | [Monopólio Das Gostosas](https://open.spotify.com/album/2TH5NCqrndKoDlp9V2E9hW) | 3:09 |
 
-Snapshot ID: `AAAAAAKyucTrBW+x8AZfqRPaLPRg72Zv`
+Snapshot ID: `AAAAAFR6tQBFWOVkDH7VOFOF2k6GzKM3`

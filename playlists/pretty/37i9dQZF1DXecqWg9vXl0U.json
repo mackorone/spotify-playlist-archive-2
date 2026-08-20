@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 57365,
+  "num_followers": 57370,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGEyOhyI3Kr61lA5kz67GfTRS2Jn",
+  "snapshot_id": "AAAAAP+H75/4vJnE+w1neBJl6alMBQWq",
   "tracks": [
     {
       "added_at": "2025-12-05 14:55:26",
@@ -739,6 +739,26 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "lalalala",
+        "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
+      },
+      "artists": [
+        {
+          "name": "Masta Roi",
+          "url": "https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 244235,
+      "name": "lalalala",
+      "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "Lagrimas derramadas",
         "url": "https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA"
       },
@@ -779,26 +799,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "lalalala",
-        "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
-      },
-      "artists": [
-        {
-          "name": "Masta Roi",
-          "url": "https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 244235,
-      "name": "lalalala",
-      "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Adentro M\u00edo",
         "url": "https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 220000,
       "name": "Adentro M\u00edo",
       "url": "https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I"
-      },
-      "artists": [
-        {
-          "name": "Nunca Fuimos Listos",
-          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+        "name": "California",
+        "url": "https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+          "name": "Nunca Fuimos Listos",
+          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
         }
       ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+      "duration_ms": 231722,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
         }
       ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -919,6 +903,22 @@
       "duration_ms": 209255,
       "name": "En Cualquier Lugar",
       "url": "https://open.spotify.com/track/58vJuilqgm3folaBEx12ac"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -943,18 +943,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Toda La Luz",
-        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
+        "name": "Nada Que Perder",
+        "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
       },
       "artists": [
         {
           "name": "Mar\u00eda Centeno",
           "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Toda La Luz",
-      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
+      "duration_ms": 199853,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Nada Que Perder",
-        "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
+        "name": "Toda La Luz",
+        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
       },
       "artists": [
         {
           "name": "Mar\u00eda Centeno",
           "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        },
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
         }
       ],
-      "duration_ms": 199853,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
+      "duration_ms": 132000,
+      "name": "Toda La Luz",
+      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
     },
     {
       "added_at": "2025-12-05 14:55:26",

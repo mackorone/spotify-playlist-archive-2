@@ -1,12 +1,12 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696597,
+  "num_followers": 696604,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgUUFt9CuYxOFLT7e58N/Z0Xksv",
+  "snapshot_id": "AAAAABRl9vVmKYNtZXPMIZ02gn3UZjth",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:21",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "POSEIDON",
         "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 142234,
       "name": "POSEIDON",
       "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "P\u00c9GATE",
         "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 137331,
       "name": "P\u00c9GATE",
       "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
-        "url": "https://open.spotify.com/album/6FBpITDofEb2Hy0Noyk1c9"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio Records",
-          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
-        }
-      ],
-      "duration_ms": 145019,
-      "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
-      "url": "https://open.spotify.com/track/3WX1ey5IbYetNlYb9pFrfp"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Ya No Se Enamora",
         "url": "https://open.spotify.com/album/15ri7uHGSxGVcLPv1zqB99"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 197642,
       "name": "Ya No Se Enamora",
       "url": "https://open.spotify.com/track/1gzKgjSbfgQIcpbdV6UaCK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
+        "url": "https://open.spotify.com/album/6FBpITDofEb2Hy0Noyk1c9"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        }
+      ],
+      "duration_ms": 145019,
+      "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
+      "url": "https://open.spotify.com/track/3WX1ey5IbYetNlYb9pFrfp"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Retumbando la Bocina #2 (Set Remix)",
-        "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
-      },
-      "artists": [
-        {
-          "name": "Lea in the Mix",
-          "url": "https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP"
-        }
-      ],
-      "duration_ms": 1079142,
-      "name": "Retumbando la Bocina #2 - Set Remix",
-      "url": "https://open.spotify.com/track/2EI9zwvbsXb2hDXUxnnjsl"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "El Dia de Mi Suerte (Guaracha)",
         "url": "https://open.spotify.com/album/619f11g93vnIAbxjiNh1qa"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 145511,
       "name": "El Dia de Mi Suerte - Guaracha",
       "url": "https://open.spotify.com/track/6jkSYIxKp9dq5cUV3AVxHe"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Retumbando la Bocina #2 (Set Remix)",
+        "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
+      },
+      "artists": [
+        {
+          "name": "Lea in the Mix",
+          "url": "https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP"
+        }
+      ],
+      "duration_ms": 1079142,
+      "name": "Retumbando la Bocina #2 - Set Remix",
+      "url": "https://open.spotify.com/track/2EI9zwvbsXb2hDXUxnnjsl"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "La Curiosidad",
-        "url": "https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg"
-      },
-      "artists": [
-        {
-          "name": "Tu Papa",
-          "url": "https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW"
-        },
-        {
-          "name": "Marito Davila",
-          "url": "https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ"
-        }
-      ],
-      "duration_ms": 165340,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Este o Este (Guaracha)",
         "url": "https://open.spotify.com/album/09zAdSWAEqa8NoyQmO6xMa"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 117120,
       "name": "Este o Este - Guaracha",
       "url": "https://open.spotify.com/track/2uSeA4d12mQpsFxMHbnVxz"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "La Curiosidad",
+        "url": "https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg"
+      },
+      "artists": [
+        {
+          "name": "Tu Papa",
+          "url": "https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW"
+        },
+        {
+          "name": "Marito Davila",
+          "url": "https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ"
+        }
+      ],
+      "duration_ms": 165340,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
     }
   ],
   "unique_name": "Joda",

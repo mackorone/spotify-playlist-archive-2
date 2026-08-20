@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Abraham Mateo, María Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,202 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,139 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [1000 Canciones](https://open.spotify.com/track/3MZCfVvR05Z6J8A8rEYo0b) | [Gon Abril](https://open.spotify.com/artist/33E9EiMUaBxMlQwamgda4W) | [1000 Canciones](https://open.spotify.com/album/2WgVqsPVdWTFMkwJe0Yp9F) | 3:24 |
 | 50 | [Mediocre](https://open.spotify.com/track/2px95c8blC3ZqpVbREoXdf) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Mediocre](https://open.spotify.com/album/18F8quZNsKHvaMCKy4FaKK) | 2:24 |
 
-Snapshot ID: `AAAAADaw0ZGbz37UBHjkM3ovSxSLT7Db`
+Snapshot ID: `AAAAAH2HmdUOJb1O/JYYGaEVosY1GN5I`

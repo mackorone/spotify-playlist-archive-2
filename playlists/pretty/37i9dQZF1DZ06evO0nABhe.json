@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 12322,
+  "num_followers": 12326,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAArO1h6F4w0aXRiX/f6GIOG",
+  "snapshot_id": "aoOggAAAAAA6Aak6uNfm0drcudP5WVjI",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+        "name": "WWE: The Music - A New Day, Vol. 10",
+        "url": "https://open.spotify.com/album/5bAVP3r8vFMHRSm83q4HCY"
       },
       "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 231137,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
+      "duration_ms": 271353,
+      "name": "Just Close Your Eyes (Christian)",
+      "url": "https://open.spotify.com/track/3tGnIvhC34bVSJLHWMNHHK"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WWE: The Music - A New Day, Vol. 10",
-        "url": "https://open.spotify.com/album/5bAVP3r8vFMHRSm83q4HCY"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
       "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 271353,
-      "name": "Just Close Your Eyes (Christian)",
-      "url": "https://open.spotify.com/track/3tGnIvhC34bVSJLHWMNHHK"
+      "duration_ms": 231137,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
     },
     {
       "added_at": null,

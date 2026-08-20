@@ -1,28 +1,28 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring MAXARKA. Curated with love by human Spotify editors. \n",
-  "num_followers": 215445,
+  "description": "The best new dance tracks from independent artists & labels. Featuring moonvine. Curated with love by human Spotify editors. \n",
+  "num_followers": 215467,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOaXm8DZPwhRpEatndUizEDO0V0c",
+  "snapshot_id": "AAAAADJcdPnXWro/3UtME7hO/YKhlN5Q",
   "tracks": [
     {
-      "added_at": "2026-08-14 04:02:31",
+      "added_at": "2026-08-19 21:18:18",
       "album": {
-        "name": "OG009",
-        "url": "https://open.spotify.com/album/7rSB4RbLgqR6pnkEUCcxfJ"
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
       },
       "artists": [
         {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
         }
       ],
-      "duration_ms": 193489,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/2GlkQgQwmB8ViK8UhEtfME"
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
       "added_at": "2026-07-17 17:46:34",
@@ -39,6 +39,86 @@
       "duration_ms": 218181,
       "name": "Ruffneck",
       "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/3K1gukcMs6t6MSLCabvw3J"
+      },
+      "artists": [
+        {
+          "name": "Marshall James",
+          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
+    },
+    {
+      "added_at": "2026-08-14 04:02:31",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "SEETHISTHRU",
+        "url": "https://open.spotify.com/album/6ObXALRks7eET0pVrUr3n5"
+      },
+      "artists": [
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+        }
+      ],
+      "duration_ms": 197744,
+      "name": "SEETHISTHRU",
+      "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "CATCH YA",
+        "url": "https://open.spotify.com/album/05tIEbIfwHwIVuyhXfefyF"
+      },
+      "artists": [
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        }
+      ],
+      "duration_ms": 211775,
+      "name": "CATCH YA",
+      "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
+    },
+    {
+      "added_at": "2026-08-14 04:02:31",
+      "album": {
+        "name": "Disco Whoops",
+        "url": "https://open.spotify.com/album/13Zqzq56ZHnhQyOT0beqa8"
+      },
+      "artists": [
+        {
+          "name": "FIRZA",
+          "url": "https://open.spotify.com/artist/2DqvLV42W3Tq4ObYoAxz4B"
+        }
+      ],
+      "duration_ms": 183206,
+      "name": "Disco Whoops",
+      "url": "https://open.spotify.com/track/53CEQFNvQMt1sZBpERLmB1"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -63,6 +143,54 @@
     {
       "added_at": "2026-07-31 04:02:23",
       "album": {
+        "name": "MEDIA DOME",
+        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        }
+      ],
+      "duration_ms": 218436,
+      "name": "MEDIA DOME",
+      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "added_at": "2026-08-14 04:02:31",
+      "album": {
+        "name": "OG009",
+        "url": "https://open.spotify.com/album/7rSB4RbLgqR6pnkEUCcxfJ"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 193489,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/2GlkQgQwmB8ViK8UhEtfME"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3KNW393yJDAL3CmqXSDDGn"
+      },
+      "artists": [
+        {
+          "name": "Ben Prophet",
+          "url": "https://open.spotify.com/artist/0YRk8fU48dUpIGqJYh5b4U"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/0Jra4cr982ZhkhFrbZQeBX"
+    },
+    {
+      "added_at": "2026-07-31 04:02:23",
+      "album": {
         "name": "SO HYPE",
         "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
       },
@@ -75,6 +203,26 @@
       "duration_ms": 175805,
       "name": "SO HYPE",
       "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "C\u00c1LLATE",
+        "url": "https://open.spotify.com/album/4uxIWMHaY3oGWUvdl6YVCw"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        },
+        {
+          "name": "Nash Rly",
+          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
+        }
+      ],
+      "duration_ms": 173700,
+      "name": "C\u00c1LLATE",
+      "url": "https://open.spotify.com/track/6rfCMskYfxYB4gpF74AhKw"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -95,22 +243,6 @@
       "duration_ms": 155492,
       "name": "Buggy",
       "url": "https://open.spotify.com/track/5HzP8YYL1893UOmIrrD6FV"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "CATCH YA",
-        "url": "https://open.spotify.com/album/05tIEbIfwHwIVuyhXfefyF"
-      },
-      "artists": [
-        {
-          "name": "Sweatbaby",
-          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
-        }
-      ],
-      "duration_ms": 211775,
-      "name": "CATCH YA",
-      "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -169,22 +301,6 @@
       "url": "https://open.spotify.com/track/7k0ozQX1ZvVYCBwkeSWOct"
     },
     {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "MEDIA DOME",
-        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6NTELLA",
-          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
-        }
-      ],
-      "duration_ms": 218436,
-      "name": "MEDIA DOME",
-      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
-    },
-    {
       "added_at": "2026-08-14 04:02:31",
       "album": {
         "name": "Pacha",
@@ -235,38 +351,6 @@
       "duration_ms": 232835,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/5NMBo5BHUqt6zi0553GQ1p"
-    },
-    {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
-      },
-      "artists": [
-        {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
-    },
-    {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "Disco Whoops",
-        "url": "https://open.spotify.com/album/13Zqzq56ZHnhQyOT0beqa8"
-      },
-      "artists": [
-        {
-          "name": "FIRZA",
-          "url": "https://open.spotify.com/artist/2DqvLV42W3Tq4ObYoAxz4B"
-        }
-      ],
-      "duration_ms": 183206,
-      "name": "Disco Whoops",
-      "url": "https://open.spotify.com/track/53CEQFNvQMt1sZBpERLmB1"
     },
     {
       "added_at": "2026-08-06 01:55:50",
@@ -745,22 +829,6 @@
       "url": "https://open.spotify.com/track/6N0sG1DDBF1q8X0VRs5nNm"
     },
     {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "WASTINGTIME",
-        "url": "https://open.spotify.com/album/64KN2Nf2UWkSwxvYrDniXc"
-      },
-      "artists": [
-        {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "WASTINGTIME",
-      "url": "https://open.spotify.com/track/00x4LHrD6sxltEHSLCh6uY"
-    },
-    {
       "added_at": "2026-07-31 04:02:23",
       "album": {
         "name": "Never Done",
@@ -779,30 +847,6 @@
       "duration_ms": 190140,
       "name": "Never Done",
       "url": "https://open.spotify.com/track/6KK9Bbxwf6jsjKtG33K5XG"
-    },
-    {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "Adriatica",
-        "url": "https://open.spotify.com/album/0SxySigBp0yneDGmfLFDy6"
-      },
-      "artists": [
-        {
-          "name": "760 Dreams",
-          "url": "https://open.spotify.com/artist/0TZgnnjVGxFJCpd6jdUCaI"
-        },
-        {
-          "name": "Cristian Comes",
-          "url": "https://open.spotify.com/artist/3UhSD7E0vEIVO0fR7Ob8Uq"
-        },
-        {
-          "name": "Dogs I Know",
-          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
-        }
-      ],
-      "duration_ms": 273103,
-      "name": "Scirocco",
-      "url": "https://open.spotify.com/track/0obKw6CRtdShEOJb8CnSQ6"
     },
     {
       "added_at": "2026-07-23 04:00:10",
@@ -983,22 +1027,6 @@
     {
       "added_at": "2026-07-09 03:51:12",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/5Q93GMp7C87gLPbFMtOuWx"
-      },
-      "artists": [
-        {
-          "name": "K.O (IL)",
-          "url": "https://open.spotify.com/artist/4dalkrTraIcooInb3IR0Di"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Dance Floor",
-      "url": "https://open.spotify.com/track/1aGrGPV8CacgonRYimPCfo"
-    },
-    {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
         "name": "BRONX",
         "url": "https://open.spotify.com/album/5KqjKYQf5vF9psAOVOGmXq"
       },
@@ -1011,22 +1039,6 @@
       "duration_ms": 175984,
       "name": "BRONX",
       "url": "https://open.spotify.com/track/2lFdLsPwPddCUfI6SvmFVC"
-    },
-    {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "Something For Ya / Outta Control",
-        "url": "https://open.spotify.com/album/710HnVJlGXSkAwrBUFO4zt"
-      },
-      "artists": [
-        {
-          "name": "Mati Astroza",
-          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
-        }
-      ],
-      "duration_ms": 193740,
-      "name": "Something For Ya",
-      "url": "https://open.spotify.com/track/2sS7P9EYgMkiYNvT9uZXh5"
     },
     {
       "added_at": "2026-07-09 03:51:12",
@@ -1095,26 +1107,6 @@
       "duration_ms": 181108,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
-    },
-    {
-      "added_at": "2026-06-17 16:50:54",
-      "album": {
-        "name": "Goes Like",
-        "url": "https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        },
-        {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
-        }
-      ],
-      "duration_ms": 169392,
-      "name": "Goes Like",
-      "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
     },
     {
       "added_at": "2026-05-14 03:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House &amp; Tech House anthems of right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,428 likes - 100 songs - 5 hr 14 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,432 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 | 89 | [Snakebite Boogie](https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi) | [Snakebite Boogie EP](https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv) | 3:31 |
 | 90 | [Loud & Clear](https://open.spotify.com/track/2IMhAL3JEHB3qPa2f6AOt0) | [Deep Fiktion](https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le) | [Loud & Clear](https://open.spotify.com/album/7I0MjuEsApKRhWkD2royLb) | 3:02 |
 | 91 | [After Five](https://open.spotify.com/track/0EW1GSsCSgQ9npkDtbLn5B) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [After Five](https://open.spotify.com/album/0eeTVhPSUs6M5kCLEfT6UG) | 3:13 |
-| 92 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
+| 92 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
 | 93 | [Gimme The Love](https://open.spotify.com/track/0tqHAhtLofrAgCm550RYTp) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Gimme The Love](https://open.spotify.com/album/1SYI3JlPxNfawHzO8WIWO8) | 3:40 |
 | 94 | [Mr Freaky](https://open.spotify.com/track/6Hj6HotW0xQRPV7ZCW6z31) | [Mas Que Nada Brothers](https://open.spotify.com/artist/3OqXRs7ndYP9YEvzgEYwqW), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb), [Idriss Kargbo](https://open.spotify.com/artist/6PRc4XFoEVRgMuoBoxxsr6) | [Mr Freaky](https://open.spotify.com/album/4FEnYyPM0oz0Gh6OMCvplL) | 2:31 |
 | 95 | [Bajo Abajo](https://open.spotify.com/track/5fQmxDJKjtv1TTtdpTC1C4) | [KEFFI](https://open.spotify.com/artist/06x3YBkBTZLOZN4C2I6MlY), [Lex Valverde](https://open.spotify.com/artist/10UP6pe5tet7UznYJ7DER3) | [Bajo Abajo](https://open.spotify.com/album/1L7y7KsSRCtadMmimBqHXo) | 2:47 |

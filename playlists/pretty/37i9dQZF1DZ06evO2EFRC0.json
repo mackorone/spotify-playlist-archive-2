@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98471,
+  "num_followers": 98474,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAACS+0Z19I0NZutPQLgyml3Y",
+  "snapshot_id": "aoOggAAAAAA9UOEvWIT8oi9P0T7GTnSu",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 93254,
       "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuan Grande Es el",
-        "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
-      },
-      "artists": [
-        {
-          "name": "Eunice Rodriguez",
-          "url": "https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 284383,
-      "name": "Cuan Grande Es el",
-      "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mill\u00f3n (Kelly Spyker)",
         "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 218521,
       "name": "Un Mill\u00f3n - Kelly Spyker",
       "url": "https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuan Grande Es el",
+        "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
+      },
+      "artists": [
+        {
+          "name": "Eunice Rodriguez",
+          "url": "https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 284383,
+      "name": "Cuan Grande Es el",
+      "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
     },
     {
       "added_at": null,

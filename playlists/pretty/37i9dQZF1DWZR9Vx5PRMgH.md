@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,629 likes - 15 songs - 19 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,628 likes - 15 songs - 19 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 | 14 | [APRENDE a SANAR las HERIDAS de la INFANCIA y la RELACIÓN con MAMÁ ❤️ \| Infinitos con Martha Higareda](https://open.spotify.com/episode/2mgeuxm9bEOTAkuFigKKmU) | [Infinitos con Martha Higareda](https://open.spotify.com/show/0xM50fBBJEEDZvzjb7sGWJ) | [Infinitos con Martha Higareda](https://open.spotify.com/album/0xM50fBBJEEDZvzjb7sGWJ) | 1:54:41 |
 | 15 | [235: La importancia de pedir ayuda](https://open.spotify.com/episode/6cZ4IqrUGek9QDJhzD2XBj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 28:28 |
 
-Snapshot ID: `AAAAAKHjPYDzb7gYSn3za+5jJoiaudqd`
+Snapshot ID: `AAAAAC9P1Ue6Cp0uB+QdyC1y0Pjn8fFq`

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-447 songs - 1 day 4 hr 42 min
+448 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Malibu](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Malibu](https://open.spotify.com/album/3P7Qa1dOf9n5Pd2tgK5AF1) | 2:32 | 2025-11-21 | 2026-03-24 |
 | [Maybe It Was Already Here](https://open.spotify.com/track/4Om2YCCAQedz29TCRK2PwQ) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 2:18 | 2025-01-13 | 2025-05-24 |
 | [maybe we’re different and everything is still the same](https://open.spotify.com/track/2iLbKE6M5c1S8X6pUXQXUx) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 2:38 | 2025-01-13 | 2025-11-07 |
+| [mayoi](https://open.spotify.com/track/3Hx8FhWKnruecUqVA3q1qk) | [Akitsugu Fukushima](https://open.spotify.com/artist/7prxMXbUZnwDhlaxGC5Bdb) | [mayoi](https://open.spotify.com/album/7tLcH7iT63RruF6IDZqxAH) | 3:02 | 2026-08-19 |  |
 | [Medi](https://open.spotify.com/track/5qlRBDvAOo7QjNjG3o5aMf) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 4:31 | 2024-03-01 | 2024-05-24 |
 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 | 2025-01-17 | 2026-08-01 |
 | [Mellowness Of The Heart](https://open.spotify.com/track/3ihuiqzWNyixSqftwLcL0q) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:28 | 2024-11-01 | 2025-08-16 |
@@ -365,7 +366,7 @@
 | [Slow Mo](https://open.spotify.com/track/5rTbzUPDurLGxzWWrqbhhU) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 3:27 | 2025-01-13 | 2025-11-07 |
 | [Slow Wave](https://open.spotify.com/track/0ScX9yeeb1vKqe6SMdjlVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:26 | 2025-01-13 |  |
 | [Slowly](https://open.spotify.com/track/3gYGfj5XYLMcGNeuYiRdFi) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Slowly](https://open.spotify.com/album/6SqQkSq1uPmtaMedZAMb3M) | 3:50 | 2024-01-19 | 2024-06-04 |
-| [Slowly](https://open.spotify.com/track/5j6yDmMrjdgNn0pSyqXG5d) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 3:50 | 2025-01-13 |  |
+| [Slowly](https://open.spotify.com/track/5j6yDmMrjdgNn0pSyqXG5d) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 3:50 | 2025-01-13 | 2026-08-20 |
 | [Slowly \- Instrumental](https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 3:33 | 2024-05-03 |  |
 | [Small Moments](https://open.spotify.com/track/6zXvm5GgRBVgXXJkvegXB0) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Anjunabeats Volume 10](https://open.spotify.com/album/3btiG55sMl5oZ526tJBIwG) | 2:52 | 2025-01-13 | 2025-04-12 |
 | [Smiling Through The Pain](https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 1:37 | 2024-06-21 | 2024-08-03 |

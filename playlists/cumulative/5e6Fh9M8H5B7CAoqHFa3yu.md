@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,476 songs - 6 day 1 hr 42 min
+2,478 songs - 6 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Empty Classroom](https://open.spotify.com/track/7Boz1534rldo6Pr4Cwun0I) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 2](https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22) | 2:11 | 2025-09-21 |  |
 | [Empty Echoes](https://open.spotify.com/track/6TYpfgqFKYjAfcto0cFsVO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Empty Echoes](https://open.spotify.com/album/6Wb2yT3In6O036xnY5Cmi5) | 2:12 | 2025-08-26 |  |
 | [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 | 2025-12-29 |  |
+| [Empty Streets](https://open.spotify.com/track/58vNJXmharklZeHTgF94EC) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Empty Streets](https://open.spotify.com/album/5HY8Nnt2HMPG4WkvCOFJts) | 2:27 | 2026-08-19 |  |
 | [Empty Throne](https://open.spotify.com/track/3UEk3j2pMcEqZylMLU02CY) | [J&J vocals](https://open.spotify.com/artist/6uHI6VGdtHbXFWY5STBSSr) | [Empty Throne](https://open.spotify.com/album/7DiX78iL5AVcU05Cos49A2) | 2:49 | 2025-06-23 |  |
 | [En Garde!](https://open.spotify.com/track/4TL8d01t2jh9CMhcWCh43C) | [Gato y Perro](https://open.spotify.com/artist/07cD6Ajjuy7dMC6mNr5CCi) | [En Garde!](https://open.spotify.com/album/4L8ghnDY247vJCGG3xI4dB) | 3:23 | 2026-05-09 |  |
 | [En Las Buenas y en las malas](https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [En Las Buenas y en las malas](https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv) | 2:52 | 2026-03-11 |  |
@@ -835,6 +836,7 @@
 | [Good Enough](https://open.spotify.com/track/0fLDtQvw5BhgwmPe2zgOEQ) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Good Enough](https://open.spotify.com/album/1eeJcMYNLBl514AF2KM5ED) | 2:45 | 2025-06-09 |  |
 | [Goodbye](https://open.spotify.com/track/2VmozdG04Rzg1nwsJwOi10) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Goodbye](https://open.spotify.com/album/11VEbc2aRfahpmOloNyRjX) | 2:19 | 2026-02-05 |  |
 | [Goodbye Love](https://open.spotify.com/track/5iSPBKBJhRbhm4mvCvcGIT) | [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Borrowed Trouble](https://open.spotify.com/album/3ZniMuIdI6cbuSFJyC4jHe) | 3:43 | 2025-07-02 |  |
+| [Goodbyes](https://open.spotify.com/track/2DIm16Db0DLjItmIBQgyIK) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Goodbyes](https://open.spotify.com/album/57L4nw8EjLLRdFQZgzts8I) | 4:19 | 2026-08-19 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-11-07 |  |
 | [Gorger Ina Jungle](https://open.spotify.com/track/1eY6Y477b6uPdYEuhlT39t) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 6:00 | 2024-03-25 |  |
 | [Gotta Groove](https://open.spotify.com/track/2FOHs0Dd0Yc14hy21hnA1j) | [Dynamo Productions](https://open.spotify.com/artist/2E7Yi1bFVMPwkNpugnl9p8) | [Analogue](https://open.spotify.com/album/6ml4hGGJTLyehCIZlwZrDw) | 4:34 | 2026-02-07 |  |

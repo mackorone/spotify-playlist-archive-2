@@ -1,12 +1,12 @@
 {
   "description": "Fcukers on the cover bby",
-  "num_followers": 217610,
+  "num_followers": 217646,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIkM5VtVXMe1fu5HGgg1jSzRicd",
+  "snapshot_id": "AAAAALwccMmoevQq77kvsKTgipIqvbEt",
   "tracks": [
     {
       "added_at": "2026-08-07 19:48:03",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "With Love And Squalor",
-        "url": "https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa"
-      },
-      "artists": [
-        {
-          "name": "We Are Scientists",
-          "url": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7"
-        }
-      ],
-      "duration_ms": 192311,
-      "name": "Nobody Move, Nobody Get Hurt",
-      "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "Down In Albion",
         "url": "https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA"
       },
@@ -1519,22 +1503,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 345560,
-      "name": "Blind - Radio Edit",
-      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
       },
@@ -1547,6 +1515,38 @@
       "duration_ms": 173772,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "With Love And Squalor",
+        "url": "https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa"
+      },
+      "artists": [
+        {
+          "name": "We Are Scientists",
+          "url": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7"
+        }
+      ],
+      "duration_ms": 192311,
+      "name": "Nobody Move, Nobody Get Hurt",
+      "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "Blind - Radio Edit",
+      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
     },
     {
       "added_at": "2026-08-07 19:48:03",

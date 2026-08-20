@@ -1,12 +1,12 @@
 {
   "description": "This is Fangclub. The essential tracks, all in one playlist.",
-  "num_followers": 1451,
+  "num_followers": 1450,
   "original_name": "This Is Fangclub",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAB8dFVa6KA+1B7w6umOru1Z",
+  "snapshot_id": "aoOggAAAAABEQG7yqByZegK2rbKBlG7f",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 173120,
-      "name": "Neighbourhood",
-      "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
+      "duration_ms": 190560,
+      "name": "You Had Me At Hello",
+      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 190560,
-      "name": "You Had Me At Hello",
-      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
+      "duration_ms": 173120,
+      "name": "Neighbourhood",
+      "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 224063,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+      "duration_ms": 169764,
+      "name": "Half Life",
+      "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 169764,
-      "name": "Half Life",
-      "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
+      "duration_ms": 224063,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
     },
     {
       "added_at": null,

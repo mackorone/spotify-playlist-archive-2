@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 589,909 likes - 82 songs - 5 hr 38 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 590,044 likes - 82 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 44 | [In my mind](https://open.spotify.com/track/0VXYoEl4LSaWYJ2GOG7wb8) | [Joseph Sanz](https://open.spotify.com/artist/0RQMuPOJCbDHiaZ7daI7N7) | [A taste for the Atypical](https://open.spotify.com/album/7CB6MNhTnzpIcndjnQrciX) | 4:06 |
 | 45 | [Ein Schloß am Wörthersee](https://open.spotify.com/track/6StnvOGOiDmCqd9M2KcpED) | [BonkBrothers](https://open.spotify.com/artist/73OlJ5h84Dod3AJIcVoGA2) | [Bruderherz](https://open.spotify.com/album/1y0NEkvwENJeMRMzMWmJ7F) | 2:51 |
 | 46 | [Mi Amor, Mi Vida](https://open.spotify.com/track/1sW7jqEWAqk5GjKMAlPJDB) | [Los Horedos](https://open.spotify.com/artist/5eaJTUyVNQNAxV8ZiX5Ye4) | [Mi Amor, Mi Vida](https://open.spotify.com/album/5t9O5xOncEqrSwrp7jYRI3) | 2:46 |
-| 47 | [Herzschläge](https://open.spotify.com/track/1iIynRZmZdbYrjokbCVApi) | [Pixxie](https://open.spotify.com/artist/5k7dL71M9EVgjAA0VDCdHy), [Alva Freira](https://open.spotify.com/artist/6bWEbAhgUEWvlsSlY7GBMq) | [Herzschläge](https://open.spotify.com/album/0rjUsXbHiGN4sNeRxboo0a) | 3:57 |
+| 47 | [Herzschläge](https://open.spotify.com/track/1iIynRZmZdbYrjokbCVApi) | [Alva Freira](https://open.spotify.com/artist/6bWEbAhgUEWvlsSlY7GBMq) | [Herzschläge](https://open.spotify.com/album/0rjUsXbHiGN4sNeRxboo0a) | 3:57 |
 | 48 | [Söyle Ne İçindi](https://open.spotify.com/track/3gypafe7h3S6jji50Z61eD) | [Monark](https://open.spotify.com/artist/1NuRv9EvwWWkkVqjinrGQk) | [Söyle Ne İçindi](https://open.spotify.com/album/1xJlaTlfQXm8XqqY6mEcuP) | 4:29 |
 | 49 | [We Were Built For This](https://open.spotify.com/track/7A9I4AhPhQjAXVGlHbs4CG) | [Warfiesta](https://open.spotify.com/artist/5sZWQ7YvAOCGLeTDfpXQZm) | [We Were Built For This](https://open.spotify.com/album/4OpeAlRx63wwB0N8BxVlEu) | 4:48 |
 | 50 | [Ever Ascending](https://open.spotify.com/track/5UW40EFVYv0mPSo1wEejPv) | [あるきもりもり](https://open.spotify.com/artist/6YjX82IUDIVscMvX0qFsqK) | [Ever Ascending](https://open.spotify.com/album/1Ot8Ng6DwCNGrSYI257S8n) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,342 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,343 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 | 50 | [Common Sense](https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt) | [Marx Gallo](https://open.spotify.com/artist/4sHsAEoZZJLuskIZPuXE1H) | [Common Sense](https://open.spotify.com/album/0i8wOJrM6kSOQ1fRB88o4y) | 3:41 |
 
-Snapshot ID: `AAAAAOBHy03OXX3bQM0XthTDCQhC/Ylf`
+Snapshot ID: `AAAAAI4xyTPFpNXGG/s1BCSvQlr17kxM`

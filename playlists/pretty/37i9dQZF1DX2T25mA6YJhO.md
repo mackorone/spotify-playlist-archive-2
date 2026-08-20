@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: rumbos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,478 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,482 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [AGUA DE LOS COCOS](https://open.spotify.com/track/6A6hsVU78cJq6SL3PQ0Od2) | [Puño Dragón](https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK) | [AGUA DE LOS COCOS](https://open.spotify.com/album/19SdnBojHwQbpOdtN3heQi) | 2:51 |
 | 100 | [CÁLLATE YA](https://open.spotify.com/track/2Koj4wXXKYUiETuqGsXbNZ) | [8 y Medio](https://open.spotify.com/artist/29xJWp07Ld04lmvT0tizaR), [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ) | [CÁLLATE YA](https://open.spotify.com/album/5mokadGvpHWIwDgHso747O) | 1:56 |
 
-Snapshot ID: `AAAAAOK60Zy9Ha2mkOaH2l1y7FEVOKWg`
+Snapshot ID: `AAAAAJJ3YsGwPmBV4BVTQ1Km8kpLMwEn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,242 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,293 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 | 50 | [Sabiduría](https://open.spotify.com/track/2Dk80FVOx8yfUhTUWsmNga) | [Orquesta Narvaez](https://open.spotify.com/artist/2KHXHxzeiRJN4cxyG5dzhj) | [Reincarnation](https://open.spotify.com/album/28XYByFxlXtbd7fIxOqCLM) | 5:20 |
 
-Snapshot ID: `AAAAAAV94Db7tS5EBf1DgNNORYGZ4mrb`
+Snapshot ID: `AAAAAFppSBOwXyudyT7EgIyaXw2B8POe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,178 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,559 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 65 | [MOVE](https://open.spotify.com/track/4BIygQShBWiPBdGAXt5TBp) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw) | [MOVE](https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg) | 2:42 |
 | 66 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 |
 | 67 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 |
-| 68 | [TASTE MY LOVE](https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB) | [FoxTune](https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu) | [TASTE MY LOVE](https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR) | 3:05 |
-| 69 | [Without Me \(Nobody\)](https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Nobody EP](https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8) | 3:19 |
+| 68 | [Without Me \(Nobody\)](https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Nobody EP](https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8) | 3:19 |
+| 69 | [TASTE MY LOVE](https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB) | [FoxTune](https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu) | [TASTE MY LOVE](https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR) | 3:05 |
 | 70 | [TEMPO](https://open.spotify.com/track/05sPKbE10KPJ2kUVHZGYY9) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB](https://open.spotify.com/album/3dErNe80z63631S7obJfB5) | 3:19 |
 | 71 | [NEVER SAY](https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [NEVER SAY](https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN) | 3:07 |
 | 72 | [Keep Me High](https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Keep Me High](https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia) | 2:27 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 89 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 |
 | 90 | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw) | [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb) | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx) | 2:19 |
 | 91 | [Touch It \(feat\. Jazmine Johnson\)](https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Touch It \(feat\. Jazmine Johnson\)](https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ) | 2:22 |
-| 92 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 |
-| 93 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 |
+| 92 | [Afterlife](https://open.spotify.com/track/2qt1p3NHil24W9gd8IrEK5) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Afterlife](https://open.spotify.com/album/5ZP7RD3NOFLPg9wuq52C2q) | 4:00 |
+| 93 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 |
 | 94 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 |
 | 95 | [Nightcore](https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz) | [Lady Maru](https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z) | [Nightcore](https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W) | 3:42 |
-| 96 | [Afterlife](https://open.spotify.com/track/2qt1p3NHil24W9gd8IrEK5) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Afterlife](https://open.spotify.com/album/5ZP7RD3NOFLPg9wuq52C2q) | 4:00 |
+| 96 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 |
 | 97 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 |
 | 98 | [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 |
 | 99 | [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 |
 | 100 | [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 |
 
-Snapshot ID: `AAAAAHYV3CcuvWVyjVmJoV0u+0JIHtjL`
+Snapshot ID: `AAAAAF0KWFTFAsw+el11C4Z3dOq2+7Od`

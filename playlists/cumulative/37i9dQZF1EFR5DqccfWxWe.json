@@ -370,10 +370,28 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 221880,
       "name": "Ahora Que Te Vas",
       "url": "https://open.spotify.com/track/12jGUMe0AEdCwOZreOwjZD"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF"
+      },
+      "artists": [
+        {
+          "name": "Christian Daniel",
+          "url": "https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "Ahora Que Te Vas - Versi\u00f3n Bachata",
+      "url": "https://open.spotify.com/track/3ECrAXGeSWe5NxUyRmDQV6"
     },
     {
       "album": {
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 241813,
       "name": "Maldita Sea Mi Suerte",
       "url": "https://open.spotify.com/track/21zTyIk4wqqqOJP5bZhLlB"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 193146,
       "name": "Maldita sea mi suerte",
       "url": "https://open.spotify.com/track/1sslQ5eGN4Vxa3ZUe6s887"

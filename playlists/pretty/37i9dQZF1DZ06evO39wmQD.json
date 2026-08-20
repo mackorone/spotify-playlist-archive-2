@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3386,
+  "num_followers": 3388,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAADikgUzGi6CLRRoI11FPMKp",
+  "snapshot_id": "aoOggAAAAAC/jAES2J4543moo6TgygPJ",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Habib",
-          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
-        }
-      ],
-      "duration_ms": 69293,
-      "name": "Toya, The Vivid Voice",
-      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Little Mermaid Live!",
         "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 176477,
       "name": "If Only - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
+        }
+      ],
+      "duration_ms": 69293,
+      "name": "Toya, The Vivid Voice",
+      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
     },
     {
       "added_at": null,

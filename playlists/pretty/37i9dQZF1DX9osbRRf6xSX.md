@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,811 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,848 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 99 | [Me Va, Me Va](https://open.spotify.com/track/4EVFCcP3BtujqYgw9jV3yF) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [1100 Bel Air Place](https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn) | 6:03 |
 | 100 | [Y me enamoré de ella](https://open.spotify.com/track/0d4Ps57R0wHpCsp5g2yodk) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Romance](https://open.spotify.com/album/6069Ox3OVsQKFI68jRtS4T) | 3:16 |
 
-Snapshot ID: `AAAAABeaqRshZZiqan2dX8V8fTOgRB8u`
+Snapshot ID: `AAAAAGGz71uGnephnVjUtX1h5aSXIm7E`

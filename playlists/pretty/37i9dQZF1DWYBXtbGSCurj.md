@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Major RD, MC Cabelinho, Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,962 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,942 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [ICE](https://open.spotify.com/track/4QMWwYSQuRAEOUzKlso99B) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv) | [ICE](https://open.spotify.com/album/2STAYDW8pSzp50BixLEgpD) | 2:19 |
 | 75 | [Porsche Nova](https://open.spotify.com/track/221lS6S2nIruuGGq1hrOq6) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [PERTURBADO](https://open.spotify.com/album/6e1O0vcp1I4ruL3rPB5xww) | 2:48 |
 
-Snapshot ID: `AAAAABzABm7lkout94ULfMc0WlW8Wyhm`
+Snapshot ID: `AAAAAPL+Zeu4TEyKs8HWsQ4UR0uutwoo`

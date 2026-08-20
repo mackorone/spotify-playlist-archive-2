@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34283,
+  "num_followers": 34289,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHgschRVpaYTYsLgmJEgGQIx1ozM",
+  "snapshot_id": "AAAAALcGn7MEI95eJYmAxltPZFZOLDv/",
   "tracks": [
     {
       "added_at": "2026-08-13 21:00:24",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-08-13 21:00:24",
       "album": {
+        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+      },
+      "artists": [
+        {
+          "name": "Dana Berger",
+          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
+    },
+    {
+      "added_at": "2026-08-13 21:00:24",
+      "album": {
         "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
         "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 210620,
       "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
-    },
-    {
-      "added_at": "2026-08-13 21:00:24",
-      "album": {
-        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
-      },
-      "artists": [
-        {
-          "name": "Dana Berger",
-          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
     },
     {
       "added_at": "2026-08-13 21:00:24",

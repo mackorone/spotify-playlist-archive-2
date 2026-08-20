@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110698,
+  "num_followers": 110706,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGACad3IZLUPwQCZHPMI9xY1K0J",
+  "snapshot_id": "AAAAAIZfgccqvInTw6CdFvQqgFangm5W",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -655,6 +655,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Ondernemer",
+        "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
+      },
+      "artists": [
+        {
+          "name": "WAWA",
+          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Ondernemer",
+      "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 164900,
       "name": "Dansen Op Labanta",
       "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Ondernemer",
-        "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
-      },
-      "artists": [
-        {
-          "name": "WAWA",
-          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
-        },
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Ondernemer",
-      "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hele Meneer #Dingems - EP",
+        "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
+      },
+      "artists": [
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "Hele Meneer",
+      "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hele Meneer #Dingems - EP",
-        "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
-      },
-      "artists": [
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "Hele Meneer",
-      "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Lekker He",
-        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
-      },
-      "artists": [
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        }
-      ],
-      "duration_ms": 145681,
-      "name": "Lekker He",
-      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Reloaded",
         "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 184421,
       "name": "Op De Weg (feat. Adje & CHO)",
       "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Lekker He",
+        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
+      },
+      "artists": [
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "duration_ms": 145681,
+      "name": "Lekker He",
+      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1983,6 +1983,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Van Mij (feat. Jandro & Zefanio)",
+      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Christian Dior",
         "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
       },
@@ -2051,26 +2075,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vostape Vol.1: Congo Johnny Depp",
-        "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
-      },
-      "artists": [
-        {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
-        },
-        {
-          "name": "Webb",
-          "url": "https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ex (feat. Webb)",
-      "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -2091,6 +2095,26 @@
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Vostape Vol.1: Congo Johnny Depp",
+        "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
+      },
+      "artists": [
+        {
+          "name": "LouiVos",
+          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+        },
+        {
+          "name": "Webb",
+          "url": "https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ex (feat. Webb)",
+      "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2159,30 +2183,6 @@
       "duration_ms": 146822,
       "name": "Amiri Jeans",
       "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        },
-        {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Van Mij (feat. Jandro & Zefanio)",
-      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
     },
     {
       "added_at": "2024-07-19 06:38:33",

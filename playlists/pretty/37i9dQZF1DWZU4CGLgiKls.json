@@ -1,12 +1,12 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 535520,
+  "num_followers": 535479,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOuE2X9wnRPc8JXEqrfYLiZ4YLaP",
+  "snapshot_id": "AAAAAGfubLw69t6tQ5txa11qDnqmdvk1",
   "tracks": [
     {
       "added_at": "2026-07-19 14:57:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Coraz\u00f3n Sin Cara (En Vivo)",
-        "url": "https://open.spotify.com/album/0pSEhHOwpHOzWvFynaLNcR"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "Coraz\u00f3n Sin Cara - En Vivo",
-      "url": "https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
+        "name": "Coraz\u00f3n Sin Cara (En Vivo)",
+        "url": "https://open.spotify.com/album/0pSEhHOwpHOzWvFynaLNcR"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "Coraz\u00f3n Sin Cara - En Vivo",
+      "url": "https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Tierra de Campeones",
-        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 132044,
-      "name": "Argentino yo soy",
-      "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
+        "name": "Tierra de Campeones",
+        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 132044,
+      "name": "Argentino yo soy",
+      "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
     },
     {
       "added_at": "2026-07-19 14:57:45",

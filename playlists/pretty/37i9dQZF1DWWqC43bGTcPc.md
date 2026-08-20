@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Eric Chou 周興哲
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,552 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,564 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All For You \- 《蜘蛛人：重生日》電影片尾曲](https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [All For You \(《蜘蛛人：重生日》電影片尾曲\)](https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9) | 3:37 |
 | 2 | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP) | 4:02 |
-| 3 | [甲乙丙丁 \- 你我怎么两清](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 |
+| 3 | [甲乙丙丁Strangers](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁Strangers](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 |
 | 4 | [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 |
 | 5 | [整個世界，只有你連上了我 \- 《整個世界，只有你連上了我》影集主題曲](https://open.spotify.com/track/1kEDF2O38pTvoeI1OeazbZ) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [整個世界，只有你連上了我 \(《整個世界，只有你連上了我》影集主題曲\)](https://open.spotify.com/album/4aPSsJzEkjBA5Y5qLKlIV2) | 4:04 |
 | 6 | [去年下的那場雪](https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [透明傘](https://open.spotify.com/track/4v3Lyg6PGNUAa6XPaRrP92) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Vitamin G](https://open.spotify.com/album/2HFyO0GSpAVQh8t50nihzm) | 3:17 |
 | 50 | [客客氣氣 COURTESY](https://open.spotify.com/track/3aZIGAzaPiZY3CXpWLYHfq) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [客客氣氣 COURTESY](https://open.spotify.com/album/1Os0eKiEWbaWF6zZmlQcYj) | 2:37 |
 
-Snapshot ID: `AAAAAOzw+BMDSE0/IbPBkU0WydR2EZvG`
+Snapshot ID: `AAAAADD9RZWKm/ncY98+nNJFTI96R2XY`

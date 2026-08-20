@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,714 likes - 97 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,860 likes - 97 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 | 96 | [Paloma](https://open.spotify.com/track/4XnPyINNc5ODYP1aoos7Um) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 4:56 |
 | 97 | [Mil Horas](https://open.spotify.com/track/5RIypaRRQFO7tizTuK4iuU) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Rock En Español \- Otro Más](https://open.spotify.com/album/0KgSoGK8xwgg2ZHwz1jzkY) | 2:47 |
 
-Snapshot ID: `AAAAAPAvTfsT+6S/M2rRie8S8MSTu1a4`
+Snapshot ID: `AAAAALd3f+fo95CBUA5zGwV30TvzfvbN`

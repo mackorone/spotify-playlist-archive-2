@@ -1,12 +1,12 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136711,
+  "num_followers": 136717,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIUUZr0fHFofip1PPgKYvdsnhJU8",
+  "snapshot_id": "AAAAAIsjyYpTVYr+riQ7oBYTIshgMtYS",
   "tracks": [
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 177867,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Blinding Lights (Country Version)",
         "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186008,
       "name": "Blinding Lights - Country Version",
       "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 177867,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
         "name": "Only Daddy That'll Walk The Line",
         "url": "https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 157880,
       "name": "Only Daddy That'll Walk The Line",
       "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "added_at": "2026-07-23 22:45:25",

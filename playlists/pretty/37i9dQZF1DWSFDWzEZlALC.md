@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,214 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,176 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
 | 75 | [alles nicht so einfach](https://open.spotify.com/track/5pIf37RslcsDV2E0OzVbiY) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [Afterhour Kaltenbrunnen](https://open.spotify.com/album/5uaStfNdA72RsRm11wz49n) | 3:04 |
 
-Snapshot ID: `AAAAADnSCEU4r4WdO6t7iAtlDFqVB3Kd`
+Snapshot ID: `AAAAAIPBlhSQWs3m9biWGmOUmfQ4XfNN`

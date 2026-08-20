@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,395 likes - 150 songs - 8 hr 10 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,417 likes - 177 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,32 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 148 | [Putting You into My Song](https://open.spotify.com/track/1wVHWjtsl2yC54OmRJJYSJ) | [Ainun Nasihah](https://open.spotify.com/artist/2ec2248aBvSBVPpPuG4xOb) | [Putting You into My Song](https://open.spotify.com/album/3d1Wj1DWChT2HeFYt6ZiSK) | 3:57 |
 | 149 | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 |
 | 150 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 |
+| 151 | [Power's Sexy](https://open.spotify.com/track/2q00uheFEnA7AqfTRyZimS) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Power's Sexy](https://open.spotify.com/album/6mr6ooyUTXeTUuRZhReRap) | 2:24 |
+| 152 | [You are the One \- Radio Edit](https://open.spotify.com/track/1HABHQzYK4TPCcmqy4vqpI) | [Martin Music](https://open.spotify.com/artist/5Y1uMD9d4HYryBiBvhssUW) | [You are the One \(Radio Edit\)](https://open.spotify.com/album/3rkqxkNEBNuESSSeWPTKwz) | 3:54 |
+| 153 | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 |
+| 154 | [Sommer in der Stadt](https://open.spotify.com/track/2XJgUSUEugDuaj6x5MzsC8) | [Samt Martin](https://open.spotify.com/artist/22jMoawsR2u3MjE3wnvUZC) | [Sommer in der Stadt](https://open.spotify.com/album/30ckQQ21B540w4MowWA77c) | 2:36 |
+| 155 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 |
+| 156 | [Fulfill Me](https://open.spotify.com/track/2mVqInvU2lc8xvuYEfUzuZ) | [Jah Lion](https://open.spotify.com/artist/6Mj9ZEzOfnqSjcdbffdJ3K) | [Love on the Rocks](https://open.spotify.com/album/3jWhYAny0yIy0yLF6ktNKo) | 3:45 |
+| 157 | [Senescence](https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Breakestine](https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX) | [Senescence](https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q) | 2:13 |
+| 158 | [Take Me In Your Arms](https://open.spotify.com/track/5eqOCqtZpiDChi2E7PZUS8) | [Tidings](https://open.spotify.com/artist/6ccYjyRlpLNeOMMMfQjyOb) | [Take Me In Your Arms](https://open.spotify.com/album/6eYKXiC1laQN6mBJg9QBTj) | 7:15 |
+| 159 | [Não Bom](https://open.spotify.com/track/5Gm8ePYwKkWHTcAIWpwfR1) | [SINCERSIX](https://open.spotify.com/artist/7zJGhnTmm0NKy3JDYIKskG) | [Não Bom](https://open.spotify.com/album/6yebdivCb5VsaJzH6GS2AZ) | 3:06 |
+| 160 | [Starsick](https://open.spotify.com/track/2RmigNUwhxBqQDQtyJ2PXX) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti), [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [nthony](https://open.spotify.com/artist/12B39hbunLz9UwwW5AGb5x) | [Starsick](https://open.spotify.com/album/51HvMQceU0J4XtCSF9izUU) | 4:20 |
+| 161 | [Into the Night \(Light\)](https://open.spotify.com/track/2q756XmfQgPatMbfz6rN1I) | [NALAS](https://open.spotify.com/artist/4DsYXwAcuo8DRyrsM0cEbK) | [Into the Night \(Light\)](https://open.spotify.com/album/1BcEizbFkOFzyvlDb9nvpG) | 5:18 |
+| 162 | [Hell Knows When](https://open.spotify.com/track/2UkXdcsQ8LiePUITVGb6K2) | [Harker](https://open.spotify.com/artist/5jbw7tWFfJQGOwSNwfIWbu) | [Hell Knows When](https://open.spotify.com/album/5SOgk1s1UdDBKoC47aMPsO) | 2:48 |
+| 163 | [Drifter](https://open.spotify.com/track/3JICKQlw5205xD5vja4zGP) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Drifter](https://open.spotify.com/album/7y3zrURIBo1ErbNPvAIXPv) | 3:20 |
+| 164 | [Another Heart](https://open.spotify.com/track/3lTMw8kgqLJlrTU9J15uo0) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Another Heart](https://open.spotify.com/album/7JAmfLYzp5t1pg4fFyNzXb) | 3:44 |
+| 165 | [half alive](https://open.spotify.com/track/22S2mxtq8LPatLfhydwRHa) | [PEAKK](https://open.spotify.com/artist/0XTUNIVaAJehLvAoCzSlwE) | [half alive](https://open.spotify.com/album/4kTmrXWkry45A8tPGzlC9m) | 3:16 |
+| 166 | [Hässlich](https://open.spotify.com/track/0x37IuVgyNierKu6y7OlTm) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Hässlich](https://open.spotify.com/album/1o3f4yM3onyYCsFOZYm88K) | 2:34 |
+| 167 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
+| 168 | [Preghiera](https://open.spotify.com/track/4fBRpmwNZXMKHCJvOiZ0eq) | [Vitojazzband](https://open.spotify.com/artist/2FwktWNp4hItEz8mNYn3OI) | [Preghiera](https://open.spotify.com/album/4bw648Zt43ZDMuSYtcncua) | 2:35 |
+| 169 | [Beautiful Sadness](https://open.spotify.com/track/67VCEFOb8GVbP8OpZDkIGt) | [DJ Buuh](https://open.spotify.com/artist/5VN7BWjaSRSTeFtpuAktoR) | [Valentine](https://open.spotify.com/album/61akGCbupf9oI6aOaIWZQW) | 3:58 |
+| 170 | [Chéri](https://open.spotify.com/track/2dcauSaWhdz1OeqD45tlsM) | [La Nuit Américaine](https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf) | [Nuit Américaine](https://open.spotify.com/album/3TFBesg2Fc6yepd6JBDzWC) | 3:23 |
+| 171 | [Kiasu My Love](https://open.spotify.com/track/5jKYyED5GgTgn1r6qM4wfi) | [Unlimited Voices](https://open.spotify.com/artist/1BzFdwCGv8f5uQ8HvLy7Yd) | [Kiasu My Love](https://open.spotify.com/album/05CZKNODrLOyax7xwlSRUF) | 2:51 |
+| 172 | [Crimson](https://open.spotify.com/track/2UrsxXhfzooaCLbgHaD28F) | [Psychedelic Cowboys](https://open.spotify.com/artist/6UyfO8kKSqsmKl9evcMHJq), [Jungmayer Louis Mouksa](https://open.spotify.com/artist/4v7SgZcoZS1PGQgkJniXRz) | [Once again they are wrong](https://open.spotify.com/album/35kLhozb8osDqHDvo2gZp9) | 5:39 |
+| 173 | [Paper Planes](https://open.spotify.com/track/3drgTEzyzjAT0NiEtfVOWQ) | [Cathal Fitz](https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed) | [Paper Planes](https://open.spotify.com/album/4DgTOZpAlFoTB5UxRg798P) | 3:42 |
+| 174 | [Struck To The Heart](https://open.spotify.com/track/36vqxaQyizgDpOIWV55hOH) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [Struck To The Heart](https://open.spotify.com/album/1npCTU2A39IW8jwPNtUFW3) | 3:50 |
+| 175 | [Sparkle](https://open.spotify.com/track/7nOFQmQVZWzzIRE8E8EZoU) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Blueprints](https://open.spotify.com/album/2xPueJoMK50RMmE5NYiLuG) | 2:31 |
+| 176 | [Rebirth](https://open.spotify.com/track/1IdFUJbDpk2Jn84iY7hZ0M) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:53 |
+| 177 | [Count on Me](https://open.spotify.com/track/7GAouPZSWnpiensV05LrfT) | [SACHA LEVY](https://open.spotify.com/artist/4g0AYJ0fxg485tFmiEURPK) | [Count on Me](https://open.spotify.com/album/79MK7oFG9Ocs7gpXzMdUAw) | 4:17 |
 
-Snapshot ID: `AACAp6fCYPSRDNcglLMrkJJt0xG7tdfm`
+Snapshot ID: `AACAwhFHgZiYBIZYvMMEpnJqY+GuzFIj`

@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1573264,
+  "num_followers": 1573089,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJO7n1AQKTXGarV3ew7pAh1/9r7",
+  "snapshot_id": "AAAAAKiPz/G7DwMMe9fjx7DaUzPp85U6",
   "tracks": [
     {
       "added_at": "2025-06-26 15:53:58",
@@ -951,6 +951,26 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
+        "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "duration_ms": 238298,
+      "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
+      "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F"
       },
@@ -983,26 +1003,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
-        "url": "https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        },
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 238298,
-      "name": "Love You Anyway [Feat. Sammy Rae & The Friends]",
-      "url": "https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "All the Beds I've Made (Acoustic)",
         "url": "https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 212573,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Swim the River",
-        "url": "https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb"
-      },
-      "artists": [
-        {
-          "name": "Christian Lopez",
-          "url": "https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Swim the River",
-      "url": "https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Swim the River",
+        "url": "https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb"
+      },
+      "artists": [
+        {
+          "name": "Christian Lopez",
+          "url": "https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Swim the River",
+      "url": "https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "All Night Pharmacy",
         "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 248299,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Marry Me",
         "url": "https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 181279,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 248299,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1635,22 +1651,6 @@
       "duration_ms": 235586,
       "name": "When the Sun Comes Up",
       "url": "https://open.spotify.com/track/1xijgB270GQezhBIDmlCz8"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/64NIyNjVtVFBy23uL5PV87"
-      },
-      "artists": [
-        {
-          "name": "Anna Barnett",
-          "url": "https://open.spotify.com/artist/2ah0mxguVUG73HhXLiOP8O"
-        }
-      ],
-      "duration_ms": 357584,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/2OVqYcvadhEjes5Rql8vvt"
     }
   ],
   "unique_name": "Acoustic Love",

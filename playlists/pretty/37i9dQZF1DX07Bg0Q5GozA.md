@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,970 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,943 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 |
 | 75 | [Beatback](https://open.spotify.com/track/55mvDAlLzfTHRnGJwtt1x2) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:19 |
 
-Snapshot ID: `AAAAAMd88/EbwMxHNz49KrImlhi9hTiq`
+Snapshot ID: `AAAAAD5m2qEx1rBKaqaLODNL8HUsj8Eo`

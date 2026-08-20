@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nipsey Hussle, Bino Rideaux
 
-1,705 songs - 3 day 12 hr 31 min
+1,705 songs - 3 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1343,7 +1343,7 @@
 | [Shower Tears \(feat\. Summer Walker\)](https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-19 | 2026-01-15 |
 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 | 2023-11-09 | 2024-06-22 |
 | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/album/0HJkeNGduh6GjotFc7JiVy) | 2:23 | 2024-05-31 | 2024-07-13 |
-| [SIAMESE](https://open.spotify.com/track/4e0cE9EvNY4CPJxkdGVada) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [SIAMESE](https://open.spotify.com/album/6V0iAgInzIVk51GNixUq79) | 2:52 | 2026-08-07 |  |
+| [SIAMESE](https://open.spotify.com/track/4e0cE9EvNY4CPJxkdGVada) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SIAMESE](https://open.spotify.com/album/6V0iAgInzIVk51GNixUq79) | 1:50 | 2026-08-07 |  |
 | [Sick Ass Foo's \(feat\. Lil Mr\. E & Toxica\)](https://open.spotify.com/track/0lVjeH6Cd4urllQcIsb3nm) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Mr\. E](https://open.spotify.com/artist/2rrKDwuHZJ8GBNNGrT930I), [Toxica](https://open.spotify.com/artist/16ru5r486p5CoZKObdTlU1) | [Sick Ass Foo's \(feat\. Lil Mr\. E & Toxica\)](https://open.spotify.com/album/32bMLgHccqPdTFbeLSxsWf) | 3:12 | 2026-07-16 |  |
 | [Sick n Tired \(with OnlyHeaven\)](https://open.spotify.com/track/3vaYPxBgL2w8TmP042tDIs) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [OnlyHeaven](https://open.spotify.com/artist/0uaJXiIMrpbOV91Z9JxOL1) | [Sick n Tired](https://open.spotify.com/album/2BIkYef92NcLlPPhe4FLf7) | 4:03 | 2025-06-12 | 2025-08-01 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-08-01 | 2024-10-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hasan Raheem, Abdullah Maharvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,462 likes - 91 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,473 likes - 91 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 9 | [Talab](https://open.spotify.com/track/6lCBSmtZB4IHg2E0dNIsSe) | [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Talab](https://open.spotify.com/album/27pXUlSiRC9zNeGX3AAu1y) | 4:21 |
 | 10 | [ajao](https://open.spotify.com/track/3Kqdk7hiMuFAyEdL8x4qIc) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF) | [ajao](https://open.spotify.com/album/69qKyRDePuAlGvA7vr1tGV) | 2:28 |
 | 11 | [Char Yaar](https://open.spotify.com/track/2Q6baV1iHMEOXq3a12bpoj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 3:07 |
-| 12 | [IK Sawal](https://open.spotify.com/track/4HqE64cO9jIo4oW8581nQK) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ) | [IK Sawal](https://open.spotify.com/album/4zyzRUPR3Pk5v1sVAt2FYx) | 2:59 |
+| 12 | [IK Sawal](https://open.spotify.com/track/4HqE64cO9jIo4oW8581nQK) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [ZAYR](https://open.spotify.com/artist/7r3TPw1yiaDcL2EYHP0ByL) | [IK Sawal](https://open.spotify.com/album/4zyzRUPR3Pk5v1sVAt2FYx) | 2:59 |
 | 13 | [Qaid](https://open.spotify.com/track/39e57dWx7CJB21QxzMbzsw) | [Sherry Khattak](https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux) | [Qaid](https://open.spotify.com/album/2b9kdba7uOqeseGtkYJhMJ) | 5:10 |
 | 14 | [Sirhaane](https://open.spotify.com/track/4LENWTbXbkQW4KlAafDhn8) | [Tahami](https://open.spotify.com/artist/5z2rn72EVm3jch5Fnxlbo7), [Reggs](https://open.spotify.com/artist/5ZiXTiApJhxzxicjIznlLs) | [Sirhaane](https://open.spotify.com/album/2GouRtocPbMAihmTgIxtbJ) | 2:26 |
 | 15 | [Asar](https://open.spotify.com/track/6J4JK6F2bM4NGBZSxZrM1k) | [Shoaib Rana](https://open.spotify.com/artist/3dAiw13swmLCKky6DgywNV), [Sulaman Naseer](https://open.spotify.com/artist/1UwVaWlzMZUGV9uBUb1Y4L) | [Asar](https://open.spotify.com/album/1kZLDvPMkHebLkci2ogqqQ) | 3:38 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 90 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 |
 | 91 | [Jaise Hoor Aasmaani](https://open.spotify.com/track/3hfnqcRYwyXCHBE0NIcckI) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E) | [Jaise Hoor Aasmaani](https://open.spotify.com/album/4R5Q1p8qNkXEyKtmOmTnvA) | 2:52 |
 
-Snapshot ID: `AAAAAH8Et4Cye3KRnX6gQOganLTbqVim`
+Snapshot ID: `AAAAAPNITgYLd5E04AsAzkCw4sAEXSd2`

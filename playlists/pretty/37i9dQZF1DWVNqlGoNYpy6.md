@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 
 > Enjoy music from Anime "Frieren"\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,360 likes - 53 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,456 likes - 53 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 | 16 | [The End of One Journey](https://open.spotify.com/track/142gj9xTrRX8YQ55Jha4rT) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 1:43 |
 | 17 | [Knife to the Throat](https://open.spotify.com/track/0btZAQtDXf2GiadZHhYdU1) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:07 |
 | 18 | [Frieren the Slayer](https://open.spotify.com/track/7x3c2cBpqNoObprhoOkvHN) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:34 |
-| 19 | [New and Dangerous Magic](https://open.spotify.com/track/6l9mWX2k6RnNelUT9sEu6P) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:04 |
+| 19 | [New and Dangerous Magic](https://open.spotify.com/track/6l9mWX2k6RnNelUT9sEu6P) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [Alina Lesnik](https://open.spotify.com/artist/7HUePXTJrfUeK0iNdmVV9S) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:04 |
 | 20 | [One Last Adventure](https://open.spotify.com/track/6ICxX5qwSprZz0e5M1oeaY) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 2:28 |
 | 21 | [For 1000 Years](https://open.spotify.com/track/5REuZbHvPSPieO9GmI9cTT) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 2:28 |
 | 22 | [Evolution of Magic](https://open.spotify.com/track/3endcVk8KT1zYMotlTGShH) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:19 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 | 52 | [Phantoms of the Dead](https://open.spotify.com/track/2ecZhrO5ooamDycWn4GUUz) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:19 |
 | 53 | [A Beautiful Word](https://open.spotify.com/track/1CYTatSzbHlFbGZMhdtukM) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 3:37 |
 
-Snapshot ID: `AAAAAOkUgNCh73MxK1M4VSmMTxtAcc+W`
+Snapshot ID: `AAAAAO/XuDRKKL0/RJo5jx9O8hJcdy/F`

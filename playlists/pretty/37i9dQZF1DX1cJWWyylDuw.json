@@ -1,12 +1,12 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bring Me The Horizon",
-  "num_followers": 303189,
+  "num_followers": 303335,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMOKRTm3eu2gn1MA0EoOjjD6CUsk",
+  "snapshot_id": "AAAAADNwSZhXqRjbLw0+llci8kxwb7jz",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:53",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "NO REVIVES",
+      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "To Rid Myself Of Truth",
         "url": "https://open.spotify.com/album/4V7kK1ChSXsCvUFxqGHQnx"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 236250,
       "name": "Natural Selection",
       "url": "https://open.spotify.com/track/53V9f6KYje1szmkJeMBlJ5"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Rat Torture",
-        "url": "https://open.spotify.com/album/0gqOFfSQkDEl6bSotv3mjb"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 178478,
-      "name": "Rat Torture",
-      "url": "https://open.spotify.com/track/7GPuygB482Cs5GawFITv38"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "FEED",
-        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+        "name": "Rat Torture",
+        "url": "https://open.spotify.com/album/0gqOFfSQkDEl6bSotv3mjb"
       },
       "artists": [
         {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
         }
       ],
-      "duration_ms": 206857,
-      "name": "NO REVIVES",
-      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
+      "duration_ms": 178478,
+      "name": "Rat Torture",
+      "url": "https://open.spotify.com/track/7GPuygB482Cs5GawFITv38"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Kiss The Dice",
-        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
-      },
-      "artists": [
-        {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Kiss The Dice",
-      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "ALL WE MADE",
         "url": "https://open.spotify.com/album/7j7F5kAN1RkqaN9vK1bXMC"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 193553,
       "name": "FUHAI",
       "url": "https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Kiss The Dice",
+        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
+      },
+      "artists": [
+        {
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Kiss The Dice",
+      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Altar of Flesh",
-        "url": "https://open.spotify.com/album/6SZLTPwjbOPE0LcYcNe0fF"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 220338,
-      "name": "Altar of Flesh",
-      "url": "https://open.spotify.com/track/42RXBTdsJQb6MoMx8d1itk"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Bunny Suit",
         "url": "https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Altar of Flesh",
+        "url": "https://open.spotify.com/album/6SZLTPwjbOPE0LcYcNe0fF"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 220338,
+      "name": "Altar of Flesh",
+      "url": "https://open.spotify.com/track/42RXBTdsJQb6MoMx8d1itk"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Sharp Teeth",
         "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 184640,
       "name": "Sharp Teeth",
       "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Invertebrate",
+        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
+      },
+      "artists": [
+        {
+          "name": "Our Common Collapse",
+          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Invertebrate",
+      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Invertebrate",
-        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
-      },
-      "artists": [
-        {
-          "name": "Our Common Collapse",
-          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Invertebrate",
-      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 186944,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/5YLa2A1uqX3v556WIKdTlm"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "BLUEPRINTS FOR IDOL GENOCIDE",
-        "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        }
-      ],
-      "duration_ms": 220514,
-      "name": "BLUEPRINTS FOR IDOL GENOCIDE",
-      "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "BLUEPRINTS FOR IDOL GENOCIDE",
+        "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 220514,
+      "name": "BLUEPRINTS FOR IDOL GENOCIDE",
+      "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Crossing Nails",
         "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 222928,
       "name": "Crossing Nails",
       "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Forlorn",
+      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Forlorn",
-      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Fractured Will",
         "url": "https://open.spotify.com/album/7jqlswRbi22fcLJjpUAX5f"
       },
@@ -1571,38 +1571,6 @@
       "duration_ms": 230199,
       "name": "Fractured Will",
       "url": "https://open.spotify.com/track/72X3m3pbp0Gs9szH0FXa4K"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 185768,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Act III: Vile Spirits",
-        "url": "https://open.spotify.com/album/2gbMauFfVr7pORzDyI7pkO"
-      },
-      "artists": [
-        {
-          "name": "Castiel",
-          "url": "https://open.spotify.com/artist/7aT5jcNtxAhoZXjOgXBudG"
-        }
-      ],
-      "duration_ms": 257125,
-      "name": "Act III: Vile Spirits",
-      "url": "https://open.spotify.com/track/59PuHTYzyyx4ZmAxRfIfVB"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1627,18 +1595,34 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "A Place For Those Who Suffer, Alone",
-        "url": "https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd"
+        "name": "Act III: Vile Spirits",
+        "url": "https://open.spotify.com/album/2gbMauFfVr7pORzDyI7pkO"
       },
       "artists": [
         {
-          "name": "Survivalist",
-          "url": "https://open.spotify.com/artist/4H5Sej01zQdVBms4iFMTmA"
+          "name": "Castiel",
+          "url": "https://open.spotify.com/artist/7aT5jcNtxAhoZXjOgXBudG"
         }
       ],
-      "duration_ms": 225353,
-      "name": "A Place For Those Who Suffer, Alone",
-      "url": "https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j"
+      "duration_ms": 257125,
+      "name": "Act III: Vile Spirits",
+      "url": "https://open.spotify.com/track/59PuHTYzyyx4ZmAxRfIfVB"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 185768,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "A Place For Those Who Suffer, Alone",
+        "url": "https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd"
+      },
+      "artists": [
+        {
+          "name": "Survivalist",
+          "url": "https://open.spotify.com/artist/4H5Sej01zQdVBms4iFMTmA"
+        }
+      ],
+      "duration_ms": 225353,
+      "name": "A Place For Those Who Suffer, Alone",
+      "url": "https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "I Write To You, My Darling Decay",
         "url": "https://open.spotify.com/album/65P5Jm9OqRUUbINjiYmiOu"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 471605,
       "name": "I Write To You, My Darling Decay",
       "url": "https://open.spotify.com/track/6VBoXgIvYI3mrJE6eSd98X"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Confounder",
-        "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
-      },
-      "artists": [
-        {
-          "name": "Heaven Shall Burn",
-          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
-        }
-      ],
-      "duration_ms": 261012,
-      "name": "Confounder",
-      "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Confounder",
+        "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
+      },
+      "artists": [
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "duration_ms": 261012,
+      "name": "Confounder",
+      "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Eradication Protocol",
         "url": "https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp"
       },
@@ -1727,22 +1727,6 @@
       "duration_ms": 159191,
       "name": "Teufel",
       "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Low Slam Low",
-        "url": "https://open.spotify.com/album/43KFAHPXnbNZKqZyb7ah1p"
-      },
-      "artists": [
-        {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Low Slam Low",
-      "url": "https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1763,6 +1747,22 @@
       "duration_ms": 129022,
       "name": "Become Death",
       "url": "https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Low Slam Low",
+        "url": "https://open.spotify.com/album/43KFAHPXnbNZKqZyb7ah1p"
+      },
+      "artists": [
+        {
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Low Slam Low",
+      "url": "https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1839,46 +1839,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "The Tide of Death and Fractured Dreams",
-        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Where No Light Shines",
-      "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Washington State Charm",
-        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
-      },
-      "artists": [
-        {
-          "name": "Monument Of Misanthropy",
-          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
-        },
-        {
-          "name": "Mendel Bij De Leij",
-          "url": "https://open.spotify.com/artist/1ntfbPT1jSD15LA9SweLi2"
-        },
-        {
-          "name": "Johnny Ciardullo",
-          "url": "https://open.spotify.com/artist/7567HDjus3OchzVOdkLnDX"
-        }
-      ],
-      "duration_ms": 231587,
-      "name": "Neath Tacoma Asphalt",
-      "url": "https://open.spotify.com/track/2eSeQNbo1YioiJd65YThYu"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Sucht",
         "url": "https://open.spotify.com/album/6pPVs89f6hxMQzqIVeqeYq"
       },
@@ -1895,6 +1855,22 @@
       "duration_ms": 254309,
       "name": "Sucht",
       "url": "https://open.spotify.com/track/4L4zXezuJOWHeuDWRoff1Z"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "The Tide of Death and Fractured Dreams",
+        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "Where No Light Shines",
+      "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1927,22 +1903,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
-      },
-      "artists": [
-        {
-          "name": "Reminitions",
-          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "God Of Mine",
         "url": "https://open.spotify.com/album/1i6xUxBZs04xb4ZvlJqCKb"
       },
@@ -1959,18 +1919,42 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Fleshweaver",
-        "url": "https://open.spotify.com/album/5Jbu1MEHnNvbNpHqXC4JPQ"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+          "name": "Reminitions",
+          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
         }
       ],
-      "duration_ms": 138920,
-      "name": "Fleshweaver",
-      "url": "https://open.spotify.com/track/6TmUd3qdkx5FbRsY6IoSDS"
+      "duration_ms": 242644,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Washington State Charm",
+        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
+      },
+      "artists": [
+        {
+          "name": "Monument Of Misanthropy",
+          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
+        },
+        {
+          "name": "Mendel Bij De Leij",
+          "url": "https://open.spotify.com/artist/1ntfbPT1jSD15LA9SweLi2"
+        },
+        {
+          "name": "Johnny Ciardullo",
+          "url": "https://open.spotify.com/artist/7567HDjus3OchzVOdkLnDX"
+        }
+      ],
+      "duration_ms": 231587,
+      "name": "Neath Tacoma Asphalt",
+      "url": "https://open.spotify.com/track/2eSeQNbo1YioiJd65YThYu"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1987,6 +1971,22 @@
       "duration_ms": 136452,
       "name": "Konstrukt",
       "url": "https://open.spotify.com/track/1WgeLChNMNqaP8KJCr0i8S"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "Fleshweaver",
+        "url": "https://open.spotify.com/album/5Jbu1MEHnNvbNpHqXC4JPQ"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 138920,
+      "name": "Fleshweaver",
+      "url": "https://open.spotify.com/track/6TmUd3qdkx5FbRsY6IoSDS"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2027,26 +2027,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5eLijWKg89vlalIFzQQOyY"
+        "name": "Forest of Lust",
+        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
       },
       "artists": [
         {
-          "name": "No Face No Case",
-          "url": "https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ"
+          "name": "Scarlet Rot",
+          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
         },
         {
-          "name": "Spawn Of Disgust",
-          "url": "https://open.spotify.com/artist/7A3FdTqBKKBzgVEzkE91wL"
-        },
-        {
-          "name": "Jonny McBee",
-          "url": "https://open.spotify.com/artist/5p71qqd5TkcqY3wTzTIK03"
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
         }
       ],
-      "duration_ms": 188746,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/3DQP1AK5wgHPhy2e1EIvdS"
+      "duration_ms": 238222,
+      "name": "Forest of Lust",
+      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2067,22 +2063,26 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Forest of Lust",
-        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5eLijWKg89vlalIFzQQOyY"
       },
       "artists": [
         {
-          "name": "Scarlet Rot",
-          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
+          "name": "No Face No Case",
+          "url": "https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ"
         },
         {
-          "name": "Dal Av",
-          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+          "name": "Spawn Of Disgust",
+          "url": "https://open.spotify.com/artist/7A3FdTqBKKBzgVEzkE91wL"
+        },
+        {
+          "name": "Jonny McBee",
+          "url": "https://open.spotify.com/artist/5p71qqd5TkcqY3wTzTIK03"
         }
       ],
-      "duration_ms": 238222,
-      "name": "Forest of Lust",
-      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
+      "duration_ms": 188746,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3DQP1AK5wgHPhy2e1EIvdS"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2135,8 +2135,8 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Show Them The Bodies",
-        "url": "https://open.spotify.com/album/2Ci41x5ZbF170RSoxniHKt"
+        "name": "Burn Your Local Butcher",
+        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
       },
       "artists": [
         {
@@ -2144,9 +2144,9 @@
           "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 93234,
-      "name": "Show Them The Bodies",
-      "url": "https://open.spotify.com/track/3hk8azksSaF5V3quxqNicN"
+      "duration_ms": 184944,
+      "name": "Burn Your Local Butcher",
+      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2219,8 +2219,8 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Burn Your Local Butcher",
-        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
+        "name": "Show Them The Bodies",
+        "url": "https://open.spotify.com/album/2Ci41x5ZbF170RSoxniHKt"
       },
       "artists": [
         {
@@ -2228,9 +2228,9 @@
           "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 184944,
-      "name": "Burn Your Local Butcher",
-      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
+      "duration_ms": 93234,
+      "name": "Show Them The Bodies",
+      "url": "https://open.spotify.com/track/3hk8azksSaF5V3quxqNicN"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Plague Of Flies",
-        "url": "https://open.spotify.com/album/1YNHAAvfs1YuHeSJAZaUQE"
+        "name": "Disfigured",
+        "url": "https://open.spotify.com/album/1aghj04fhxEzEeTzE3S6gp"
       },
       "artists": [
         {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Plague Of Flies",
-      "url": "https://open.spotify.com/track/1MJQQB2rqgt3xixtzWH9OX"
+      "duration_ms": 97295,
+      "name": "Disfigured",
+      "url": "https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Plague Of Flies",
+        "url": "https://open.spotify.com/album/1YNHAAvfs1YuHeSJAZaUQE"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Plague Of Flies",
+      "url": "https://open.spotify.com/track/1MJQQB2rqgt3xixtzWH9OX"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 244088,
       "name": "Chrome Moon",
       "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Disfigured",
-        "url": "https://open.spotify.com/album/1aghj04fhxEzEeTzE3S6gp"
-      },
-      "artists": [
-        {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
-        }
-      ],
-      "duration_ms": 97295,
-      "name": "Disfigured",
-      "url": "https://open.spotify.com/track/5GV3docVmNAbEk7An8iX3S"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2559,30 +2559,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "MEXICO OSCURO",
-        "url": "https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ"
-      },
-      "artists": [
-        {
-          "name": "DEATHMASK",
-          "url": "https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0"
-        },
-        {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
-        },
-        {
-          "name": "Immortal Disfigurement",
-          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "MEXICO OSCURO",
-      "url": "https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Apparition",
         "url": "https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr"
       },
@@ -2631,6 +2607,30 @@
       "duration_ms": 275360,
       "name": "The Substance",
       "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "MEXICO OSCURO",
+        "url": "https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ"
+      },
+      "artists": [
+        {
+          "name": "DEATHMASK",
+          "url": "https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        },
+        {
+          "name": "Immortal Disfigurement",
+          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "MEXICO OSCURO",
+      "url": "https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O"
     }
   ],
   "unique_name": "Deathcore",

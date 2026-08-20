@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,916 likes - 200 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,258 likes - 200 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Better Now](https://open.spotify.com/track/0bFSQSxqsZ1tUif24rmrAY) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Better Now](https://open.spotify.com/album/1SkZFaRpRhhrj8H9JA2d0I) | 2:10 |
 | 200 | [Underwater Blue](https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Underwater Blue](https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B) | 1:42 |
 
-Snapshot ID: `AAAAAFzgxWZ4qVPaoVmpVS7GJDnRPbSO`
+Snapshot ID: `AAAAANTHJU3fUsxQBia8PllpdaiuLUK2`

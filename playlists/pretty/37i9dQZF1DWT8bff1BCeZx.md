@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,441 likes - 105 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,450 likes - 105 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 104 | [Yesu Hajasafiri \- Remix](https://open.spotify.com/track/0uRvLghsiNvbQn56Co3xm0) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6), [Godfrey Steven](https://open.spotify.com/artist/3RJbUlHXjdGJxZNEskbv3o), [Naomi James](https://open.spotify.com/artist/0TANwZCcu1pbQfizauba3q), [Martha Baraka](https://open.spotify.com/artist/5ThTHsUAo1V0yccvhV3YQg), [KIBONGE WA YESU](https://open.spotify.com/artist/6VbhWt2uiUZxXxc8YjQxap), [Asagwile](https://open.spotify.com/artist/7nyg9DjU0a0NIDVIHOIjCB), [Japhet Zabron](https://open.spotify.com/artist/0FV0XVT8EGRVSH3JmhYhD5), [Aniset Butati](https://open.spotify.com/artist/3R2JL2jhTy2qVEa4r6QYU3), [Kamala The Gospel](https://open.spotify.com/artist/2gWECZIWFoCHrhteqAYiOF), [Simon Mlinda](https://open.spotify.com/artist/2eZFtn2DFOXBwXfUSynMqF), [Stewart Mwakasege](https://open.spotify.com/artist/4bJFaOlDx9j6fgB4b9ZWhe) | [Yesu Hajasafiri \(Remix\)](https://open.spotify.com/album/7kFeearEXtCivqZDp7FEXr) | 9:31 |
 | 105 | [HASKE](https://open.spotify.com/track/5it5DZNFHCOQlHXxVDll3S) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [HASKE](https://open.spotify.com/album/1DCDoYPp7dMNgYxkWjboAL) | 3:13 |
 
-Snapshot ID: `AAAAAOxqd2OM+wxeULNU25uHiY4A2wbI`
+Snapshot ID: `AAAAACDQWHsM1Zj/kmR0IyhcJxkCoYQ7`

@@ -622,7 +622,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 168136,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/0MkNtAwVgUDMUi30U1fqtU"
@@ -2917,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Greenwood",
+        "url": "https://open.spotify.com/album/72WtZy642zUAjP0l95KsiB"
+      },
+      "artists": [
+        {
+          "name": "Hazen Briller",
+          "url": "https://open.spotify.com/artist/33sxIMORaQgwJQZiF9UrY2"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Greenwood",
+      "url": "https://open.spotify.com/track/1O5uzV1baYBoOsZq1u0akH"
+    },
+    {
+      "album": {
         "name": "Grounded",
         "url": "https://open.spotify.com/album/4hWKZH2YvQZgixKHJ6TOUI"
       },
@@ -4124,6 +4142,24 @@
       "duration_ms": 113874,
       "name": "morningtime",
       "url": "https://open.spotify.com/track/1Er4VMo96PxQ6XWb75PBki"
+    },
+    {
+      "album": {
+        "name": "Mossy Meadows",
+        "url": "https://open.spotify.com/album/5dlWzDj8vprZUZqPx1DViC"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "Mossy Meadows",
+      "url": "https://open.spotify.com/track/5pPyJoc2BNXEgzZ8FDiGkC"
     },
     {
       "album": {
@@ -6890,6 +6926,24 @@
       "duration_ms": 188000,
       "name": "Under the Trees",
       "url": "https://open.spotify.com/track/7ps3QI1bXjxixJzqRyTjD0"
+    },
+    {
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/2BgjjXxCLrrYL2fyIKwWI8"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124577,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/3IytWes895hY5ayovwWob1"
     },
     {
       "album": {

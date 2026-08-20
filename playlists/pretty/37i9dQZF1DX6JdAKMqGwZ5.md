@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,828 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,818 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Teskiya](https://open.spotify.com/track/2oc3n11K6mqke5KcASGH58) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Teskiya](https://open.spotify.com/album/28dIXjCG8vMtgBE14wVFyq) | 2:17 |
 | 120 | [Apocalypsis now](https://open.spotify.com/track/39UUFSbSJ0jeZZzhPSpo0K) | [Al·lèrgiques al pol·len](https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS) | [Apocalypsis now](https://open.spotify.com/album/1n0sb8X5P2Z1fdnCh33VPi) | 2:35 |
 
-Snapshot ID: `AAAAABxtomxf9iCaPUSsEoGKU33Y2BV4`
+Snapshot ID: `AAAAAKMM+GozyoqbUQKrIc04RaBAaVVf`

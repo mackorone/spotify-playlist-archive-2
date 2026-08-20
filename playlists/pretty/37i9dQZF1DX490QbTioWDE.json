@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & DesaKTa2",
-  "num_followers": 816511,
+  "num_followers": 816529,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHX51fqppGmz/3hVFu5ONlr9x6ls",
+  "snapshot_id": "AAAAAKJSi/RwQRq682CoujpmButtW2Zh",
   "tracks": [
     {
       "added_at": "2026-08-14 10:35:01",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "LOS HERRERA | DJ TAO Sessions #31",
-        "url": "https://open.spotify.com/album/7MtGtF1LfSpIbeQ0fy83uS"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 172537,
-      "name": "LOS HERRERA | DJ TAO Sessions #31",
-      "url": "https://open.spotify.com/track/2FzQHz4ouT2mxZt0YOvftQ"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "LOS HERRERA | DJ TAO Sessions #31",
+        "url": "https://open.spotify.com/album/7MtGtF1LfSpIbeQ0fy83uS"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 172537,
+      "name": "LOS HERRERA | DJ TAO Sessions #31",
+      "url": "https://open.spotify.com/track/2FzQHz4ouT2mxZt0YOvftQ"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Que vamos a hacer",
         "url": "https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 176554,
       "name": "Que vamos a hacer",
       "url": "https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
+        "name": "Por Ese Hombre (En Vivo)",
+        "url": "https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Luz Paisio",
+          "url": "https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Por Ese Hombre - En Vivo",
+      "url": "https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
         "name": "Tattoo (Remix)",
         "url": "https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN"
       },
@@ -1575,30 +1599,6 @@
       "duration_ms": 158684,
       "name": "Tattoo - Remix",
       "url": "https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "Por Ese Hombre (En Vivo)",
-        "url": "https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Luz Paisio",
-          "url": "https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Por Ese Hombre - En Vivo",
-      "url": "https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Somos Todos",
-        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
-      },
-      "artists": [
-        {
-          "name": "Cachumba",
-          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
-        }
-      ],
-      "duration_ms": 271516,
-      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
-      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "No Se Vivir Si No Es Contigo",
         "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 202149,
       "name": "No Se Vivir Si No Es Contigo",
       "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Somos Todos",
+        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
+      },
+      "artists": [
+        {
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+        }
+      ],
+      "duration_ms": 271516,
+      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
+      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Amor Secreto",
-        "url": "https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        },
-        {
-          "name": "Facu Y La Fuerza",
-          "url": "https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU"
-        }
-      ],
-      "duration_ms": 184375,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Que Te Vuelva Amor",
         "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 150764,
       "name": "Que Te Vuelva Amor",
       "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Amor Secreto",
+        "url": "https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Facu Y La Fuerza",
+          "url": "https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU"
+        }
+      ],
+      "duration_ms": 184375,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "50% (En Vivo)",
         "url": "https://open.spotify.com/album/2EpxFlCsjh51kHO60qQG1I"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 225077,
       "name": "50% - En Vivo",
       "url": "https://open.spotify.com/track/5CjlFUbDhFW8U85kjRjf2E"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2026-08-14 10:35:01",

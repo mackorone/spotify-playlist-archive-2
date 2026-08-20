@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-608 songs - 1 day 16 hr 0 min
+609 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Believe](https://open.spotify.com/track/6m4FisZeu8oX2xD1aW2Bwx) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Believe](https://open.spotify.com/album/3fURSixV3MfZqPtAaHDXVu) | 3:33 | 2022-04-06 | 2022-04-18 |
 | [Believe \(feat\. Fredwave & Jeshi\)](https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Believe \(feat\. Fredwave & Jeshi\)](https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL) | 3:28 | 2022-04-06 | 2022-04-20 |
 | [Best Of Me](https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Best Of Me](https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c) | 3:49 | 2021-12-03 | 2022-07-19 |
-| [Better](https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Better](https://open.spotify.com/album/06YNty6N97umwjZFABQnvn) | 3:50 | 2026-04-23 |  |
+| [Better](https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Better](https://open.spotify.com/album/06YNty6N97umwjZFABQnvn) | 3:50 | 2026-04-23 | 2026-08-20 |
 | [Better Days \- Laurence Guy Remix](https://open.spotify.com/track/5quMnZCNREtng2OBwd4onY) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Better Days \(Laurence Guy Remix\)](https://open.spotify.com/album/1RJoTXhVlWfs0e3RxCpVdh) | 3:42 | 2021-12-03 | 2022-04-21 |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-05-22 | 2024-03-01 |
 | [Better Than Before](https://open.spotify.com/track/79g4Bb5vUU63OfjXG2j9Af) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Better Than Before](https://open.spotify.com/album/56N5nzjCtuMgNtsDc0494u) | 3:51 | 2021-12-03 | 2022-07-28 |
@@ -564,6 +564,7 @@
 | [To Survive](https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [To Survive](https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89) | 3:58 | 2024-09-12 | 2025-09-12 |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2022-07-20 | 2023-01-17 |
 | [Together](https://open.spotify.com/track/3IZ5rlo8Vncz2lOAYnB2If) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Together](https://open.spotify.com/album/4fGsqupoBci4jYcuL59geK) | 5:23 | 2022-11-16 | 2023-04-12 |
+| [Touch](https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Touch](https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm) | 3:41 | 2026-08-13 |  |
 | [Touching Me](https://open.spotify.com/track/61UGcM7RcpgMsmsokgAnAZ) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Touching Me](https://open.spotify.com/album/1bDSoiZzTeV1ogWFC20Uii) | 2:36 | 2023-11-24 | 2024-01-26 |
 | [Transcendental Access Point](https://open.spotify.com/track/1fnMYDBnE8EvDtAqm7dtVh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Fluids of Emotion](https://open.spotify.com/album/2QKwnysUYSxmob2CLQTMMh) | 6:13 | 2022-04-06 | 2022-04-14 |
 | [Trippin'](https://open.spotify.com/track/1yvrUbu1SHG3EHm3ZIVFt9) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Ryahn](https://open.spotify.com/artist/5Jy9GTHj3hkaEhsJQfCVAX) | [Trippin'](https://open.spotify.com/album/5b78Gr6BnjBAb2sg49uSVN) | 2:40 | 2022-04-06 | 2022-04-08 |

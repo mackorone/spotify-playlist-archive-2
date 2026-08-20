@@ -33120,7 +33120,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 203712,
       "name": "Sonare",
       "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
@@ -46700,6 +46700,24 @@
       "duration_ms": 186105,
       "name": "\u3075\u305f\u308a\u3058\u3081",
       "url": "https://open.spotify.com/track/6klVbCJWBWv1NKbXd6NElu"
+    },
+    {
+      "album": {
+        "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
+        "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
+      "url": "https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn"
     },
     {
       "album": {

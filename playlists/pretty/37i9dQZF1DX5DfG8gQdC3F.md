@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Phoebe Bridgers, KATSEYE, Josh Ross, Troye Sivan, Ayra Starr, Becky G, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,849 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,776 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [The Mission](https://open.spotify.com/track/3C3Nat4uILSgRlmQMj671p) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Half Moon](https://open.spotify.com/album/2GVt4U0txtqfafj4HPshQc) | 3:16 |
 | 100 | [Processional](https://open.spotify.com/track/2i8skmXAsVCfQwjnpoBEVP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Black Mozart](https://open.spotify.com/album/4pw6vv5tS2sbpgKjwVS7l5) | 2:52 |
 
-Snapshot ID: `AAAAAKWR5P4qgHKQ9f4csbGtmg1rJLAJ`
+Snapshot ID: `AAAAAF4I/eKSHaO1u9eCICuMf4EKFCKX`

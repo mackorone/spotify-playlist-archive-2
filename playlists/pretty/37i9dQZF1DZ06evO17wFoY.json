@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30068,
+  "num_followers": 30071,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAADGi6pqvEfK8fyR+QCWWUvJ",
+  "snapshot_id": "aoOggAAAAACvqZZ6jGHQdSzh4cp86+Pw",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You've Got A Friend In Me (From \"Toy Story\")",
+        "url": "https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "You've Got A Friend In Me - From \"Toy Story\"",
+      "url": "https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beethoven: Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
         "url": "https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 203655,
       "name": "F\u00fcr Elise, Bagatelle in A Minor, WoO 59",
       "url": "https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You've Got A Friend In Me (From \"Toy Story\")",
-        "url": "https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "You've Got A Friend In Me - From \"Toy Story\"",
-      "url": "https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tailleferre: Valse lente",
         "url": "https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 166386,
       "name": "Valse lente",
       "url": "https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
+        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 81080,
+      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
+      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Painted Veil",
         "url": "https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 142560,
       "name": "River Waltz - From \"The Painted Veil\" Original Soundtrack",
       "url": "https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
-        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 81080,
-      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
-      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
-      "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book 2",
         "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 195733,
       "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
       "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
+      "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lang Lang - Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t"
+      },
+      "artists": [
+        {
+          "name": "Tan Dun",
+          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "8 Memories in Watercolour, Op. 1: No. 6, Floating Clouds - Live",
+      "url": "https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Book 2",
         "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 290613,
       "name": "Hunting Cantata, BWV 208: No. 9. Sheep May Safely Graze (Transc. Duck for 4 Hands)",
       "url": "https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lang Lang - Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t"
-      },
-      "artists": [
-        {
-          "name": "Tan Dun",
-          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "8 Memories in Watercolour, Op. 1: No. 6, Floating Clouds - Live",
-      "url": "https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd"
     },
     {
       "added_at": null,
@@ -1028,17 +1028,17 @@
       },
       "artists": [
         {
-          "name": "Tekla B\u0105darzewska-Baranowska",
-          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 266173,
-      "name": "The Maiden's Prayer, Op. 4",
-      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
+      "duration_ms": 35826,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
+      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
     }
   ],
   "unique_name": "This Is Lang Lang",

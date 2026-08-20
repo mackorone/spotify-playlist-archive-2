@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Branford Marsalis & Dianne Reeves
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,854 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,874 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [A Plea](https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 7:38 |
 | 60 | [Tour de Manège](https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Tour de Manège](https://open.spotify.com/album/4C4CAH43TXHQ5mSAPGhTXi) | 4:38 |
 
-Snapshot ID: `AAAAAExr7HMET1DL+ockcV5/OoKK1vSO`
+Snapshot ID: `AAAAAC05cWZBqCLIWauCpu9ksWOLqNmF`

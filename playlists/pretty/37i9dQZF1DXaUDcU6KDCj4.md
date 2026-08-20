@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hovvdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,355 likes - 164 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,366 likes - 164 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 163 | [Get It Honest](https://open.spotify.com/track/1dpzimHq4MYvnQi9zL6axK) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Get It Honest](https://open.spotify.com/album/47fVuqG7GHk19lwkZ6QuSZ) | 3:24 |
 | 164 | [Blackout \[feat\. Nolan Taylor\]](https://open.spotify.com/track/26pLSSwAk1LOxl2Q018cTb) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s), [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Blackout \[feat\. Nolan Taylor\]](https://open.spotify.com/album/5g9FV0XhXPscs7z26SKpFl) | 4:16 |
 
-Snapshot ID: `AAAAACd0ZkBA8vTGGnXeIYGCGJFBXTEZ`
+Snapshot ID: `AAAAABwJBd9M1kT0dG+eTsjZbiSZ8yWZ`

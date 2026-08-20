@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62273,
+  "num_followers": 62278,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEYJ2Um1CWjBUB8EeV3uG8cSumF1",
+  "snapshot_id": "AAAAABHx6mdW6jK45S9cu5Dd0SgbRWEM",
   "tracks": [
     {
       "added_at": "2026-05-26 09:17:44",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "This is Carnatic Fusion, Vol. 5",
-        "url": "https://open.spotify.com/album/1HqIAvE2U4P7EhFDfSXRoV"
-      },
-      "artists": [
-        {
-          "name": "A. Kanyakumari",
-          "url": "https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Maha Ganapathim - Instrumental",
-      "url": "https://open.spotify.com/track/6VjNwJfOnTm5oErbY2nUnr"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Veena (Carnatic Classical) Vol. 2",
         "url": "https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 204186,
       "name": "Meevalla",
       "url": "https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "This is Carnatic Fusion, Vol. 5",
+        "url": "https://open.spotify.com/album/1HqIAvE2U4P7EhFDfSXRoV"
+      },
+      "artists": [
+        {
+          "name": "A. Kanyakumari",
+          "url": "https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Maha Ganapathim - Instrumental",
+      "url": "https://open.spotify.com/track/6VjNwJfOnTm5oErbY2nUnr"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -213,6 +213,30 @@
       "url": "https://open.spotify.com/track/2A3Ivplogx6qpjFdHmg6fR"
     },
     {
+      "added_at": "2025-09-05 03:40:50",
+      "album": {
+        "name": "Only Love is Real",
+        "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        },
+        {
+          "name": "Aman Mahajan",
+          "url": "https://open.spotify.com/artist/0oRU7hxSjztwxwvPzqL7B9"
+        },
+        {
+          "name": "Sunaad Anoor",
+          "url": "https://open.spotify.com/artist/44VNDWBX8w7e9WKR767AeC"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "White",
+      "url": "https://open.spotify.com/track/5SpQIOjCgqakMjIWprztHR"
+    },
+    {
       "added_at": "2025-07-09 11:29:57",
       "album": {
         "name": "Parjanya",
@@ -243,30 +267,6 @@
       "duration_ms": 612000,
       "name": "Kandhasashti Kavacham - Instrumental",
       "url": "https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi"
-    },
-    {
-      "added_at": "2025-09-05 03:40:50",
-      "album": {
-        "name": "Only Love is Real",
-        "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
-      },
-      "artists": [
-        {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        },
-        {
-          "name": "Aman Mahajan",
-          "url": "https://open.spotify.com/artist/0oRU7hxSjztwxwvPzqL7B9"
-        },
-        {
-          "name": "Sunaad Anoor",
-          "url": "https://open.spotify.com/artist/44VNDWBX8w7e9WKR767AeC"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "White",
-      "url": "https://open.spotify.com/track/5SpQIOjCgqakMjIWprztHR"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -803,38 +803,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Keeravani - Ragam, Thaanam, Pallavai",
-        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
-      },
-      "artists": [
-        {
-          "name": "Akkarai Subhalakshmi",
-          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
-        }
-      ],
-      "duration_ms": 1169093,
-      "name": "Raagam Keeravani - Aalapanai",
-      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
-      },
-      "artists": [
-        {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
-        }
-      ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Classical Flute Collections",
         "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
       },
@@ -851,6 +819,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Keeravani - Ragam, Thaanam, Pallavai",
+        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
+      },
+      "artists": [
+        {
+          "name": "Akkarai Subhalakshmi",
+          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
+        }
+      ],
+      "duration_ms": 1169093,
+      "name": "Raagam Keeravani - Aalapanai",
+      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Laya Vinyas",
         "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 233693,
       "name": "Kriti: Padavini with Vina and Mrdangam",
       "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Bharatiyaar Songs - Veena",
+        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "duration_ms": 167366,
+      "name": "Senthamizh",
+      "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD"
       },
@@ -925,7 +941,7 @@
         }
       ],
       "duration_ms": 295226,
-      "name": "Vinayaka: Raag Hamsadhwani - Aadi",
+      "name": "Vinayaka: Raag Hamsadhwani, Taal - Aadi - Ghatam, Kanjira & Parcussion",
       "url": "https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8"
     },
     {
@@ -947,18 +963,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Bharatiyaar Songs - Veena",
-        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
       "artists": [
         {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
         }
       ],
-      "duration_ms": 167366,
-      "name": "Senthamizh",
-      "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
+      "duration_ms": 459173,
+      "name": "Ramabhirama Darbar Misrachappu",
+      "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -979,22 +995,6 @@
       "duration_ms": 318667,
       "name": "Thevaram Mangayarkarasi Bowli Adi",
       "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
-      },
-      "artists": [
-        {
-          "name": "Kunnakudi Vaidyanathan",
-          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
-        }
-      ],
-      "duration_ms": 459173,
-      "name": "Ramabhirama Darbar Misrachappu",
-      "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1193,6 +1193,30 @@
       "url": "https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3"
     },
     {
+      "added_at": "2026-08-19 07:26:01",
+      "album": {
+        "name": "JOURNEY (Raga Charukesi)",
+        "url": "https://open.spotify.com/album/10FyRSKSVHLYnC5PMroxWk"
+      },
+      "artists": [
+        {
+          "name": "Charu Suri",
+          "url": "https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        },
+        {
+          "name": "Max ZT",
+          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
+        }
+      ],
+      "duration_ms": 399900,
+      "name": "JOURNEY (Raga Charukesi)",
+      "url": "https://open.spotify.com/track/1gAafA1MNoOrlx4oUdRAFy"
+    },
+    {
       "added_at": "2025-07-09 11:29:57",
       "album": {
         "name": "Music of India: Traditional and Classical",
@@ -1211,22 +1235,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Anandam Anantam - A journey into Tanam - Veena",
-        "url": "https://open.spotify.com/album/1qAbDGgwXZyz4bA4xAbys3"
-      },
-      "artists": [
-        {
-          "name": "Jeyaraaj & Jaysri",
-          "url": "https://open.spotify.com/artist/1uVPDLCAkdOLoA3Kqsy3uL"
-        }
-      ],
-      "duration_ms": 443560,
-      "name": "Chitrambari",
-      "url": "https://open.spotify.com/track/4VYbr6sPJzlQ3CNlHbBa4t"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Dikshitar Masterpieces",
         "url": "https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv"
       },
@@ -1239,6 +1247,22 @@
       "duration_ms": 374960,
       "name": "Vallabha Nayakasya - Raga Begada",
       "url": "https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Anandam Anantam - A journey into Tanam - Veena",
+        "url": "https://open.spotify.com/album/1qAbDGgwXZyz4bA4xAbys3"
+      },
+      "artists": [
+        {
+          "name": "Jeyaraaj & Jaysri",
+          "url": "https://open.spotify.com/artist/1uVPDLCAkdOLoA3Kqsy3uL"
+        }
+      ],
+      "duration_ms": 443560,
+      "name": "Chitrambari",
+      "url": "https://open.spotify.com/track/4VYbr6sPJzlQ3CNlHbBa4t"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1339,30 +1363,6 @@
       "duration_ms": 679760,
       "name": "Vatapiganapatim - Hamsadhwani - Adi",
       "url": "https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Kunnakudi Vaidyanathan, Vol. 1",
-        "url": "https://open.spotify.com/album/4lLLyjxSXfHsZAoWN5y2rd"
-      },
-      "artists": [
-        {
-          "name": "Kunnakudi Vaidyanathan",
-          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
-        },
-        {
-          "name": "Valayapatti A. R. Subramaniam",
-          "url": "https://open.spotify.com/artist/74Wx6RR7idiXa5emx0LUIa"
-        },
-        {
-          "name": "Kannan",
-          "url": "https://open.spotify.com/artist/5qGDWLq39656h7QldZuTc1"
-        }
-      ],
-      "duration_ms": 490200,
-      "name": "Sree Mahaganapathim - Atana - Adi",
-      "url": "https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm"
     }
   ],
   "unique_name": "Carnatic Instrumental",

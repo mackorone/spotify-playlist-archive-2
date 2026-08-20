@@ -2376,19 +2376,19 @@
       },
       "artists": [
         {
-          "name": "Philip Labes",
-          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
-        },
-        {
           "name": "Kimiko Glenn",
           "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Philip Labes",
+          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
         }
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189791,
-      "name": "Liberal Love (from Good Guy with a Gun!)",
+      "name": "Liberal Love",
       "url": "https://open.spotify.com/track/74FcG3EYfa5qu2xtIhfmvz"
     },
     {

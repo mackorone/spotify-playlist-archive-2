@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,115 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,101 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 30 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
 | 31 | [Kaikki viel edessä](https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kaikki viel edessä](https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD) | 3:04 |
 | 32 | [Poitsu](https://open.spotify.com/track/5W14lDIUvUFfHtuC2JabRu) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Poitsu](https://open.spotify.com/album/63mnly1kjGNJyXMb2fp7hV) | 2:31 |
-| 33 | [CEO \(Rich Man\)](https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [CEO \(Rich Man\)](https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy) | 2:29 |
-| 34 | [Tyhjää](https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Tyhjää](https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192) | 2:13 |
+| 33 | [Tyhjää](https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Tyhjää](https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192) | 2:13 |
+| 34 | [CEO \(Rich Man\)](https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [CEO \(Rich Man\)](https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy) | 2:29 |
 | 35 | [Älä mee](https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Älä mee](https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq) | 3:49 |
 | 36 | [Helmi](https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [SUOMI SOIMAAN](https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK) | 3:38 |
 | 37 | [Kui paljon \- Remix](https://open.spotify.com/track/2bBhjebWhLpeumAdojsJyO) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kui paljon \(Remix\)](https://open.spotify.com/album/4TebmnW0jxbBVKixLi2Xfi) | 2:40 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 56 | [Kipee](https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Kipee](https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf) | 3:08 |
 | 57 | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 |
 | 58 | [Ongelma](https://open.spotify.com/track/3vTBt1CbmrCvxLLuAZ3xop) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Ongelma](https://open.spotify.com/album/0JKvn5KPA8bI3nGsWjwYtg) | 3:00 |
-| 59 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
+| 59 | [Vitun Inee](https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vitun Inee](https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn) | 2:58 |
 | 60 | [Hullu nainen](https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Hullu nainen](https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n) | 2:57 |
-| 61 | [Ulkopuolinen \(feat\. ibe\)](https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 3:29 |
-| 62 | [Vitun Inee](https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vitun Inee](https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn) | 2:58 |
+| 61 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
+| 62 | [Ulkopuolinen \(feat\. ibe\)](https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 3:29 |
 | 63 | [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 |
 | 64 | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Mesi](https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP) | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI) | 3:05 |
 | 65 | [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 69 | [Kaksi lensi yli käenpesän](https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H) | [Marcus Maison](https://open.spotify.com/artist/7I4Qxt1m4cNYYqlryDrfw7), [Ella Nova](https://open.spotify.com/artist/4kVUMKEKjYpiSlzQLSOltZ) | [Kaksi lensi yli käenpesän](https://open.spotify.com/album/63NrrYAALeBh1JATf2CxzW) | 4:20 |
 | 70 | [Viaton](https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Viaton](https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1) | 3:20 |
 
-Snapshot ID: `AAAAAD31SBBm+7Ykdvvz/EY6HDHLf1PM`
+Snapshot ID: `AAAAAG6GVF0BJqeyFYbA3AZj/8vEPSem`

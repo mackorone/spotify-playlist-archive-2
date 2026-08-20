@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,111 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,079 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 52 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 53 | [Missing You](https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Missing You](https://open.spotify.com/album/6LYLOQazeVSk4nkh1ekbdp) | 3:06 |
 | 54 | [Rave Never Ends](https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Never Ends](https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX) | 3:27 |
-| 55 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
+| 55 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
 | 56 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 |
 | 57 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
 | 58 | [One Night In Mykonos](https://open.spotify.com/track/1yfKPKAFn1T0WyhsJr1835) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [One Night In Mykonos](https://open.spotify.com/album/4BOGe2TvivqAd2J49tZPlJ) | 2:49 |
 | 59 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
 | 60 | [Not So Bad](https://open.spotify.com/track/4Fx1Ioc966N56C2y8qOb2t) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Nikko](https://open.spotify.com/artist/1A06pAoCD2vqAIuJZlhac5) | [Not So Bad](https://open.spotify.com/album/0eT9H6gg5vcaDx2YeVxitK) | 3:31 |
 
-Snapshot ID: `AAAAAKSuDnA5r8kiJIjVMOLy+Dbn8/3W`
+Snapshot ID: `AAAAABMHUL5jI3P248fSKRfOx8aWC8KL`

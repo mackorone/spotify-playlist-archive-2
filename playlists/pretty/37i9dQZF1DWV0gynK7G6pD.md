@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,172 likes - 99 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,140 likes - 99 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 98 | [Solitary Sax II](https://open.spotify.com/track/6NANfMHvFqIUMnQDdZutFS) | [Peter Lehel](https://open.spotify.com/artist/2Z27deVhVqNLXuT7p9IA1F) | [Solitary Sax](https://open.spotify.com/album/4SOEA1AFx1TOkuowJzs2hn) | 1:44 |
 | 99 | [Cantiones Sacræ quinis vocibus; No\. 37, Assumpta est Maria](https://open.spotify.com/track/1kWfbYJORzQ3RQP9u0AJlY) | [Peter Philips](https://open.spotify.com/artist/6OWrmsoh7ZSdfgxt5Zs5cp), [Utopia Ensemble](https://open.spotify.com/artist/00PLvqDcGIJNM7yBZb59s7) | [Philips: Cantiones Sacræ quinis vocibus; No\. 37, Assumpta est Maria](https://open.spotify.com/album/3ry0rtkDdYmWejIXaP23Se) | 2:37 |
 
-Snapshot ID: `AAAAAIn1dPH/dL9KOM39RDE/anYvD44z`
+Snapshot ID: `AAAAANet9wvONRSDjqWo0ZeilpQ9mgzp`

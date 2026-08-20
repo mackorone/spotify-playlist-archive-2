@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,643 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,592 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Malvern Star](https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Malvern Star](https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf) | 3:31 |
 | 75 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 
-Snapshot ID: `AAAAAH0nV2hRto/vuxxlnSXJGE9iPLry`
+Snapshot ID: `AAAAAFQr0hOlVaWKu5isEjoURsuYZDdx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Morgan Harper\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,663 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,653 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [Crows](https://open.spotify.com/track/37mPVIRFD7nG4ow1SsYMCZ) | [Curiosity Shop](https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy) | [Crows](https://open.spotify.com/album/2Ra1A871XNKMMhgbQdBfuD) | 3:00 |
 | 100 | [Gracie](https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [F.I.G](https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX) | 2:54 |
 
-Snapshot ID: `AAAAAPKYjMnFYnNGt6MGrGYJ95nVjB4o`
+Snapshot ID: `AAAAAJCJOao5dl6gYntO5XTI9au75ESq`

@@ -424,7 +424,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 87800,
       "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 13 (Live)",
       "url": "https://open.spotify.com/track/58O4KtbHdpdyPHSULu77E5"
@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 208373,
       "name": "Come Back with the Same Look in Your Eyes",
       "url": "https://open.spotify.com/track/0shqfeHuDaeSmQxDP8HoxS"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 205440,
       "name": "Come Back with the Same Look in Your Eyes - Live",
       "url": "https://open.spotify.com/track/7dRqFE9jlfBdXJcfTXRuOd"
@@ -8515,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "The Devil Makes Three",
+        "url": "https://open.spotify.com/album/17uW6dvw7xR4SQVKl2AjqS"
+      },
+      "artists": [
+        {
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/21NjIDERL7CD8vg91rrodB"
+    },
+    {
+      "album": {
         "name": "Selections from Cats (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/50y7CAPujhHGzV9wDDdcFA"
       },
@@ -9940,7 +9958,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -12879,6 +12897,28 @@
     },
     {
       "album": {
+        "name": "Tell Me on a Sunday",
+        "url": "https://open.spotify.com/album/3E36TuKklZtsQQ3XPqehan"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Denise Van Outen",
+          "url": "https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127320,
+      "name": "Let's Talk About You",
+      "url": "https://open.spotify.com/track/4ay3UzvrrYb0Q0zAiXiJfs"
+    },
+    {
+      "album": {
         "name": "Tell Me On A Sunday (1980 Cast Recording)",
         "url": "https://open.spotify.com/album/66QeGmguhECrE6WBu0sUw8"
       },
@@ -12934,7 +12974,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 133253,
       "name": "Let's Talk About You - 2007 Remaster",
       "url": "https://open.spotify.com/track/32fucP3FnjmwdoVDKPEghp"
@@ -17522,7 +17562,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 188533,
       "name": "Pharaoh Story",
       "url": "https://open.spotify.com/track/491PbfINDrHmgiXHToWDCh"
@@ -17552,6 +17592,24 @@
       "duration_ms": 188760,
       "name": "Pharaoh Story",
       "url": "https://open.spotify.com/track/37BF2R4KVpEsPx20t2jqhr"
+    },
+    {
+      "album": {
+        "name": "Joseph And The Amazing Technicolor Dream Coat",
+        "url": "https://open.spotify.com/album/78Zdb9whc4aZxhqXhnT5IH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'",
+          "url": "https://open.spotify.com/artist/5Kuns3Tu8oXTrkj5ilz7qq"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Pharaoh Story",
+      "url": "https://open.spotify.com/track/6DGYu1S31Ad5BtemdoDkBW"
     },
     {
       "album": {
@@ -18028,7 +18086,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 113666,
       "name": "Poor, Poor Pharaoh",
       "url": "https://open.spotify.com/track/4Jq0zP0bGm4PljInCJnSiY"
@@ -18062,6 +18120,24 @@
       "duration_ms": 109213,
       "name": "Poor, Poor Pharaoh",
       "url": "https://open.spotify.com/track/2sv0PBolqsaGEPo7ejxiE4"
+    },
+    {
+      "album": {
+        "name": "Joseph And The Amazing Technicolor Dream Coat",
+        "url": "https://open.spotify.com/album/78Zdb9whc4aZxhqXhnT5IH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'",
+          "url": "https://open.spotify.com/artist/5Kuns3Tu8oXTrkj5ilz7qq"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Poor, Poor Pharaoh/ Song Of The King - Medley",
+      "url": "https://open.spotify.com/track/0DhPXttomu6RerifeNRjBE"
     },
     {
       "album": {
@@ -18480,7 +18556,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 101026,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/08juL4fQK8JBAEuCGCnzCl"
@@ -18528,7 +18604,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 113800,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/2S02JjQfVckjPPp3jM742h"
@@ -18594,6 +18670,24 @@
       "duration_ms": 272653,
       "name": "Prologue - The Stage Of Paris Opera House, 1905 - Live At The Royal Albert Hall/2011",
       "url": "https://open.spotify.com/track/2Z60Wq8pdYuqbNXVATtA7K"
+    },
+    {
+      "album": {
+        "name": "Joseph And The Amazing Technicolor Dream Coat",
+        "url": "https://open.spotify.com/album/78Zdb9whc4aZxhqXhnT5IH"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of 'Joseph and the Amazing Technicolor Dreamcoat'",
+          "url": "https://open.spotify.com/artist/5Kuns3Tu8oXTrkj5ilz7qq"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Prologue-You Are What You Feel/Jacob And Sons - Medley",
+      "url": "https://open.spotify.com/track/5QtT7iE13Q7FsvOn848bbf"
     },
     {
       "album": {
@@ -19180,7 +19274,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 226826,
       "name": "Requiem, Op. 48: 7. In paradisum",
       "url": "https://open.spotify.com/track/59dR0KXvYl6hemrDTzxPW5"
@@ -19708,7 +19802,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 90560,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 16 - Live",
       "url": "https://open.spotify.com/track/6rZZKgnJb8BQIPfacbwspB"
@@ -19738,7 +19832,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 118040,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 17 - Live",
       "url": "https://open.spotify.com/track/7MUuxQ4SG9IohUaF1vYVwJ"
@@ -19760,7 +19854,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 81306,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVI - Allegretto",
       "url": "https://open.spotify.com/track/4tSavquovWaOWtHYU0wc8n"
@@ -19782,7 +19876,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 102960,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVII - (Allegretto)",
       "url": "https://open.spotify.com/track/6Wv2TrCjiGkPZCPcdMoFvi"
@@ -28633,6 +28727,32 @@
     },
     {
       "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Phantom Of The Opera Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Wishing You Were Somehow Here Again",
+      "url": "https://open.spotify.com/track/7uCIbfeKu8pb1Thu2LY7eR"
+    },
+    {
+      "album": {
         "name": "The Phantom of the Opera (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fs1YLCt6JVsLcfRM9kVzQ"
       },
@@ -28670,7 +28790,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 228440,
       "name": "Wishing You Were Somehow Here Again",
       "url": "https://open.spotify.com/track/0Pf3RofOcMA99rqWqizVXR"

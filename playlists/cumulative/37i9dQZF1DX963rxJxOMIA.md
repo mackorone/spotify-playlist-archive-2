@@ -4,7 +4,7 @@
 
 > Fino y elegante como Ryan Castro y Feid.
 
-474 songs - 1 day 0 hr 49 min
+475 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Medellificación](https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Medellificación](https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP) | 3:52 | 2023-12-01 | 2024-05-11 |
 | [Mentira](https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mentira](https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6) | 2:36 | 2026-08-07 |  |
 | [MERO TOTE](https://open.spotify.com/track/26wRv00loYD9urTl85LFbI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 3:32 | 2026-07-10 |  |
+| [Metale Moral](https://open.spotify.com/track/23qbGPVcJdYO4SJbEm4yT4) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Agítese Bien Antes de Usar](https://open.spotify.com/album/1IIRVxKUt8DiEMVbPVZg6s) | 3:17 | 2026-08-19 |  |
 | [Metas](https://open.spotify.com/track/4ffkziKmTKie44wu3P5RYJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 2:11 | 2026-05-29 | 2026-06-19 |
 | [MI EX](https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [MI EX](https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv) | 3:43 | 2026-05-15 |  |
 | [Mi Novio Tiene Novia \- W Sound 02](https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Novio Tiene Novia \(W Sound 02\)](https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW) | 2:42 | 2026-03-18 | 2026-03-27 |
@@ -282,7 +283,7 @@
 | [MONALISA](https://open.spotify.com/track/623CN16ZHQmzAkGQtxziqf) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [MONALISA](https://open.spotify.com/album/3amtrXyHq5wOvkt2NwFtjw) | 3:03 | 2026-03-18 | 2026-03-27 |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2022-09-06 | 2026-06-19 |
 | [MONCLER](https://open.spotify.com/track/2cP7R6au4fqxubJAVLMPQ1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Moncler](https://open.spotify.com/album/7lXj38lKlh1BHqZbvdUMDv) | 2:38 | 2024-09-06 | 2024-11-30 |
-| [MONSTRUO](https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MONSTRUO](https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG) | 3:33 | 2025-10-24 |  |
+| [MONSTRUO](https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MONSTRUO](https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG) | 3:33 | 2025-10-24 | 2026-08-20 |
 | [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 | 2022-09-06 | 2025-10-11 |
 | [Mucho Pa Ti](https://open.spotify.com/track/1MbDm22W7TbwPNythT3LI9) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Mucho Pa Ti](https://open.spotify.com/album/06gniuNPI4KOdff4tBOcgF) | 2:33 | 2026-03-18 | 2026-03-27 |
 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 | 2026-03-18 | 2026-03-27 |

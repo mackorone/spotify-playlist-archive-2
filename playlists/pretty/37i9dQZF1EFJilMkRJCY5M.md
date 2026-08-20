@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 114 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
 | 115 | [Head in the Clouds](https://open.spotify.com/track/0NSb1a5SxMTzYbKhwIgvdY) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Head in the Clouds](https://open.spotify.com/album/7K9ok645oF4PJJSLzhLNPs) | 2:27 |
 | 116 | [Rooted](https://open.spotify.com/track/73PQ1kdahi6WKkL8z39QQH) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:11 |
-| 117 | [Euphoria](https://open.spotify.com/track/2vzUVBdfbzFtfIqhgM0tDA) | [ØSAS ØHM](https://open.spotify.com/artist/3hnjTkOixhsMrlPlPcrdF2), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Euphoria](https://open.spotify.com/album/6ToeKKnL3eHDjtkyFxtsVF) | 3:50 |
+| 117 | [Euphoria](https://open.spotify.com/track/2vzUVBdfbzFtfIqhgM0tDA) | [OSAS OHM](https://open.spotify.com/artist/3hnjTkOixhsMrlPlPcrdF2), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Euphoria](https://open.spotify.com/album/6ToeKKnL3eHDjtkyFxtsVF) | 3:50 |
 | 118 | [One Christmas](https://open.spotify.com/track/2GOH0jfQmq1lodavdkPeXi) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Abby Anderson’s Merry Merry\-achi Christmas](https://open.spotify.com/album/0CxUcChvyRCwVlaabL3wPO) | 3:00 |
 | 119 | [Baby Blue](https://open.spotify.com/track/1cFgobzKd4ZZ378Hc6Hi8v) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/3D0eqzFLwFtlndHXsADjy3) | 2:59 |
 | 120 | [Sippin' Pretty](https://open.spotify.com/track/5g8Pl87A83zwUNERnANa9d) | [Foxx Worthee](https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx) | [Sippin' Pretty](https://open.spotify.com/album/5Eg90CtsejtELTiBg4sCjA) | 3:10 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 132 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 133 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `AcZ72gAAAADP8P3JY24tvpGRbFV4BD5Z`
+Snapshot ID: `AcaBegAAAACur+OYVmxDsRoHHbhXh1TQ`

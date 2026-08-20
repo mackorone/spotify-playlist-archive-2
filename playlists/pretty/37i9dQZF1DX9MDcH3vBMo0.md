@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,368 likes - 131 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,578 likes - 131 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 130 | [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 |
 | 131 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
 
-Snapshot ID: `AAAAAP45Wfyivk8C69b8F72/zQKPmuQ2`
+Snapshot ID: `AAAAAJQSGEWywIlGMkmuyusmCXZVDyOK`

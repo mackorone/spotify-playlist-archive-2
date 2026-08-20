@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118176,
+  "num_followers": 118168,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNT7Iw6DGILzl06TJu/a7sqqSI3",
+  "snapshot_id": "AAAAACZMCJRySFs6H36gq8xuJtUjYDiQ",
   "tracks": [
     {
       "added_at": "2026-06-25 22:01:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "H\u00f8gt over landet",
         "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 203722,
       "name": "H\u00f8gt over landet",
       "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
         "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "CAT 374",
-        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "CAT 374",
-      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Helt \u00c6rlig",
         "url": "https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 168510,
       "name": "Helt \u00c6rlig",
       "url": "https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "CAT 374",
+        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "CAT 374",
+      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Eviva Espana (Charterfeber 2026)",
-        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Eviva Espana - Charterfeber 2026",
-      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Der Jeg H\u00f8rer Te (Bygda)",
         "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 137106,
       "name": "Der Jeg H\u00f8rer Te (Bygda)",
       "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Eviva Espana (Charterfeber 2026)",
+        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Eviva Espana - Charterfeber 2026",
+      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Festen er aldri over",
         "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
       },
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Ola",
-        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 204336,
-      "name": "Ola",
-      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Rypejakt",
         "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 149651,
       "name": "Rypejakt",
       "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Ola",
+        "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Falla",
         "url": "https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 164647,
       "name": "Falla",
       "url": "https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2026-06-25 22:01:29",

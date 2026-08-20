@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "i wish you cheated (acoustic)",
+        "url": "https://open.spotify.com/album/5hsssklJGTWScnUf4kSHM2"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "i wish you cheated (acoustic)",
+      "url": "https://open.spotify.com/track/2PWe35jhtzmXp2y1862ApF"
+    },
+    {
+      "album": {
         "name": "i wish you cheated (Frank Walker Remix)",
         "url": "https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz"
       },

@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "More Beats More Love",
+        "url": "https://open.spotify.com/album/4I8ULjCKAz1rJ5bIN0aNLx"
+      },
+      "artists": [
+        {
+          "name": "Albert Marzinotto",
+          "url": "https://open.spotify.com/artist/4iDJLpx26HmAKc4vZZ9nbl"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311075,
+      "name": "More Beats More Love - Extended Mix",
+      "url": "https://open.spotify.com/track/3rQhOcMNy8nsO9v0t5H4MK"
+    },
+    {
+      "album": {
         "name": "More Than Friends",
         "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
       },
@@ -1480,7 +1502,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 203000,
       "name": "Release I Need (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"

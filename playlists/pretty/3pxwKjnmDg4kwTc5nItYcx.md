@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,549 likes - 96 songs - 5 hr 11 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,548 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 95 | [I Feel You](https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Lost On The Way To Paradise](https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan) | 2:39 |
 | 96 | [SOMETHING BETTER](https://open.spotify.com/track/6bXeuV5CheMzDoPzj9FetV) | [MANÚ](https://open.spotify.com/artist/7BEmHb9jAPMHB3HwfTuPnh) | [SOMETHING BETTER](https://open.spotify.com/album/4ewWpy8l1WPOcbDaGz1E3P) | 2:06 |
 
-Snapshot ID: `AAAIKts2uk9fIPm5oqFGoHV2KN4m0s6O`
+Snapshot ID: `AAAILGtFtt+a1lfg5FFZQBDh5Z2DalbM`

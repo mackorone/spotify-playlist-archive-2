@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 25247,
+  "num_followers": 25251,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrwRDq3i8GxLVTtU3cYROHpxpN+",
+  "snapshot_id": "AAAAAEXAWfr4CEwpVl1KqTdWS1PesZj/",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "DO BETTER",
-      "url": "https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "DO BETTER",
+      "url": "https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Big Bank",
-        "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
-      },
-      "artists": [
-        {
-          "name": "Bankroll Freddie",
-          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 178652,
-      "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
-      "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Big Bank",
+        "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Freddie",
+          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
+      "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
     },
     {
       "added_at": "2022-10-01 20:31:11",

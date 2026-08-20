@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298470,
+  "num_followers": 298469,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPcgajuP+1oy+khNAhrMOsTD70M",
+  "snapshot_id": "AAAAANJU8i4y1OICKxGZ3WbPEb+voYPn",
   "tracks": [
     {
       "added_at": "2026-08-17 13:02:52",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-08-17 13:02:52",
       "album": {
+        "name": "L'AMOUR C'EST COOL",
+        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "L'AMOUR C'EST COOL",
+      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
+    },
+    {
+      "added_at": "2026-08-17 13:02:52",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 172653,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
-    },
-    {
-      "added_at": "2026-08-17 13:02:52",
-      "album": {
-        "name": "L'AMOUR C'EST COOL",
-        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "L'AMOUR C'EST COOL",
-      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
     },
     {
       "added_at": "2026-08-17 13:02:52",

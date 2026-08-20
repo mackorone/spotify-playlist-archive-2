@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-375 songs - 1 day 0 hr 42 min
+377 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Overture \- Cotton Avenue](https://open.spotify.com/track/1uVyBBS0GBYg3DBh1j8ofI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 6:41 | 2024-03-21 | 2026-04-16 |
 | [Overture \- Cotton Avenue](https://open.spotify.com/track/46wM7LhyH9KiIQLWRKrpAt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/2FQpN1cvLOFKabqeiPURRq) | 6:41 | 2026-04-15 |  |
 | [Paprika Plains](https://open.spotify.com/track/4YyxzSIOmxRaanNiy5Ui6a) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 16:21 | 2024-03-21 | 2026-08-19 |
-| [Paprika Plains](https://open.spotify.com/track/0KGzeWbhzj7lkuATtpSCBf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/2FQpN1cvLOFKabqeiPURRq) | 16:24 | 2026-08-18 |  |
+| [Paprika Plains](https://open.spotify.com/track/0KGzeWbhzj7lkuATtpSCBf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/2FQpN1cvLOFKabqeiPURRq) | 16:24 | 2026-08-18 | 2026-08-20 |
+| [Paprika Plains](https://open.spotify.com/track/18peSsJhsXnbnSIyX3gfFp) | [Piano Project](https://open.spotify.com/artist/0sOfFTIMocxq5mPB8SFLHn) | [Piano Renditions of Joni Mitchell](https://open.spotify.com/album/5kLPnzPxClCmU5XGcye7Lz) | 16:31 | 2026-08-19 |  |
 | [Passion Play \(When All The Slaves Are Free\)](https://open.spotify.com/track/5VOCRQbtyjyFRPpwLE01zz) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:25 | 2024-03-21 |  |
 | [People's Parties](https://open.spotify.com/track/0f7AxTLGp1sAfCcvYGwKAr) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/03NZvh3vGroAldWXPQIQ4u) | 2:14 | 2026-04-15 |  |
 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 | 2024-03-21 | 2026-04-16 |
@@ -272,6 +273,7 @@
 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 | 2024-03-21 | 2026-03-02 |
 | [Roses Blue](https://open.spotify.com/track/7H1uBM6kVAo63qGIzN1cbS) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 3:52 | 2024-03-21 |  |
 | [Sad Winds Blowin'](https://open.spotify.com/track/0VmEu3fo3XuOULsEgzadFV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:39 | 2024-03-21 |  |
+| [Save Magic \- Paprika Plains Embryonic Version](https://open.spotify.com/track/4Cfe9UzKfJGoUl33EEaJhG) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 4: The Asylum Years \(1976\-1980\)](https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf) | 12:08 | 2026-08-19 |  |
 | [See You Sometime](https://open.spotify.com/track/1EFLAcRslOcqis49J3TLGl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:56 | 2024-03-21 | 2026-04-16 |
 | [See You Sometime](https://open.spotify.com/track/5W34HawVJ8yI5GwWXC1FoM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 2:59 | 2026-04-15 |  |
 | [Sex Kills](https://open.spotify.com/track/7t5K5BG9Z7wIDVHKihrYAX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:57 | 2024-03-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL met o.a\. Antoon\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,276 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,218 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 |
 | 50 | [AL ME LADIES \(feat\. Scarface\)](https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Scarface](https://open.spotify.com/artist/0AKfGRIDWDiLB8EHORfP8J) | [AL ME LADIES \(feat\. Scarface\)](https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB) | 2:07 |
 
-Snapshot ID: `AAAAAMdHE7T7SMaDIaGi3tFrNovZaifb`
+Snapshot ID: `AAAAAHtyhC7YU0u6oczSStaegPfnv3Wl`

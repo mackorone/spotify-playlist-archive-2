@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,634 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,402 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 |
 | 80 | [After The Love](https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [After The Love](https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO) | 3:40 |
 
-Snapshot ID: `AAAAADJ6kLN4Kb0m8nYpAdWocZdHNP6M`
+Snapshot ID: `AAAAAM28GIMeBGPNfnvVmaUMTsCocgri`

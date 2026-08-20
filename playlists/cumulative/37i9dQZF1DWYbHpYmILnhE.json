@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "6IX",
+        "url": "https://open.spotify.com/album/0OZDOiRPpMUKUz8CecJzIG"
+      },
+      "artists": [
+        {
+          "name": "MOEC",
+          "url": "https://open.spotify.com/artist/6456500HzlTOUOIRp2NYhA"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/5eq1c2GtwbrdCoukEC4m2O"
+    },
+    {
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
       },
@@ -552,7 +574,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 152842,
       "name": "Champagne Showers",
       "url": "https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE"
@@ -1105,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "GOVERNMENT MONEY",
+        "url": "https://open.spotify.com/album/7yMzWzvx6wHpLkYQtDknvq"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145210,
+      "name": "GOVERNMENT MONEY",
+      "url": "https://open.spotify.com/track/0ymVke4Cnp7vcb4Gd2nJ0K"
+    },
+    {
+      "album": {
         "name": "Different 1",
         "url": "https://open.spotify.com/album/5SdBedpAlk3lCjX3BaLtn7"
       },
@@ -1485,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg"
+      },
+      "artists": [
+        {
+          "name": "Delamore",
+          "url": "https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79"
+        },
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF"
+    },
+    {
+      "album": {
         "name": "Kalambolo",
         "url": "https://open.spotify.com/album/084eDI42ruF1KHeGdxmCls"
       },
@@ -1750,7 +1812,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 107412,
       "name": "MC OLUOMO",
       "url": "https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm"

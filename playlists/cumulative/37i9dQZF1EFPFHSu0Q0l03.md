@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-324 songs - 21 hr 20 min
+325 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,8 +195,9 @@
 | [Not In Kansas](https://open.spotify.com/track/3QGW4gfcvnFhOOBo1p6FKT) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 6:44 | 2024-04-25 |  |
 | [Oblivions](https://open.spotify.com/track/5qi2iUTdb6wMuaSembt71H) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:13 | 2024-04-25 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2024-04-25 |  |
-| [Opening](https://open.spotify.com/track/0L0k5fsPRMzFE5ebhnrp4V) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [We Live in Time \(Original Soundtrack\)](https://open.spotify.com/album/1PrU2ieOlBJw0DOIYeAkIi) | 3:29 | 2025-02-25 |  |
+| [Opening](https://open.spotify.com/track/0L0k5fsPRMzFE5ebhnrp4V) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [We Live in Time \(Original Soundtrack\)](https://open.spotify.com/album/1PrU2ieOlBJw0DOIYeAkIi) | 3:29 | 2025-02-25 | 2026-08-20 |
 | [Opening](https://open.spotify.com/track/33iscuuALdh6wAYBLfphO3) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 1:58 | 2024-04-25 |  |
+| [Opening](https://open.spotify.com/track/6FJRu5oFUmDH3mmVfTFlA2) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [We Live in Time \(Original Soundtrack\)](https://open.spotify.com/album/5zPCFMVHgy9ZAMn2Qaff3h) | 3:29 | 2026-08-19 |  |
 | [Overcome](https://open.spotify.com/track/4nOfIGZ687px6h2NqmvCo9) | [Haley Bennett](https://open.spotify.com/artist/74tNiaBNZ0L0B4bu0lF6r1), [Peter Dinklage](https://open.spotify.com/artist/0pHTIdyC4DAsoMhpSufQaz), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 4:26 | 2024-04-25 |  |
 | [Packing It Up](https://open.spotify.com/track/11dixMCXtncnzhC4LQxdhR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 2:44 | 2024-11-01 |  |
 | [Page](https://open.spotify.com/track/3LP0XwrMJ6ShNSrExi7jYs) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:51 | 2024-04-25 |  |

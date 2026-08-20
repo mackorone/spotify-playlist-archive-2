@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19377,
+  "num_followers": 19376,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEKor8D2fhxbYw2xkT+zc3tAQHi8",
+  "snapshot_id": "AAAAAP8skYtPkaSwQF/CRrszursFPZkR",
   "tracks": [
     {
       "added_at": "2026-08-06 14:00:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "The//Glow",
         "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 234947,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Have You Ever Seen the Rain",
-        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
-      },
-      "artists": [
-        {
-          "name": "House of Shem",
-          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
-        }
-      ],
-      "duration_ms": 193509,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "Have You Ever Seen the Rain",
+        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
+      },
+      "artists": [
+        {
+          "name": "House of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        }
+      ],
+      "duration_ms": 193509,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "I Wanna Tell Somebody",
         "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
       },
       "artists": [
         {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
         }
       ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "me > you",
-        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
       "artists": [
         {
-          "name": "Imani-J",
-          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 160946,
-      "name": "me > you",
-      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
-        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
+        "name": "me > you",
+        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
       },
       "artists": [
         {
-          "name": "Kings",
-          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
         }
       ],
-      "duration_ms": 145654,
-      "name": "TRY MY LUCK",
-      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
+      "duration_ms": 160946,
+      "name": "me > you",
+      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1199,6 +1183,22 @@
       "duration_ms": 189473,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
+        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        }
+      ],
+      "duration_ms": 145654,
+      "name": "TRY MY LUCK",
+      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1235,34 +1235,34 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Game",
-        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
+        "name": "Letting Love Die",
+        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
       },
       "artists": [
         {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
         }
       ],
-      "duration_ms": 337188,
-      "name": "Game",
-      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
+      "duration_ms": 179000,
+      "name": "Letting Love Die",
+      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
     },
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Coats",
-        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 208875,
-      "name": "Coats",
-      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     }
   ],
   "unique_name": "The Local List Aotearoa",

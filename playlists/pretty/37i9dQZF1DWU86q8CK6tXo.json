@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lily Meola",
-  "num_followers": 65359,
+  "num_followers": 65356,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMqWot+0fEYj5XYJPjTrExpsV/I4",
+  "snapshot_id": "AAAAAELEmfer1rTzIv4thWmGm+/mjmS6",
   "tracks": [
     {
       "added_at": "2026-08-11 15:34:11",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-08-11 15:34:11",
       "album": {
-        "name": "WHAT ELSE?",
-        "url": "https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 140266,
-      "name": "WHAT ELSE?",
-      "url": "https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF"
-    },
-    {
-      "added_at": "2026-08-11 15:34:11",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 169024,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
+    },
+    {
+      "added_at": "2026-08-11 15:34:11",
+      "album": {
+        "name": "WHAT ELSE?",
+        "url": "https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 140266,
+      "name": "WHAT ELSE?",
+      "url": "https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF"
     },
     {
       "added_at": "2026-08-11 15:34:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-08-11 15:34:11",
       "album": {
-        "name": "evidence of you",
-        "url": "https://open.spotify.com/album/3hGF9Zgo9RutDoV4pGsz0c"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "THE GOLDEN RECORD",
-      "url": "https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA"
-    },
-    {
-      "added_at": "2026-08-11 15:34:11",
-      "album": {
         "name": "Daddy Died",
         "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 252656,
       "name": "Daddy Died",
       "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
+    },
+    {
+      "added_at": "2026-08-11 15:34:11",
+      "album": {
+        "name": "evidence of you",
+        "url": "https://open.spotify.com/album/3hGF9Zgo9RutDoV4pGsz0c"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "THE GOLDEN RECORD",
+      "url": "https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA"
     },
     {
       "added_at": "2026-08-11 15:34:11",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-08-11 15:34:11",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
-    },
-    {
-      "added_at": "2026-08-11 15:34:11",
-      "album": {
         "name": "The World Keeps Spinning",
         "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207434,
       "name": "Fail-safe",
       "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
+    },
+    {
+      "added_at": "2026-08-11 15:34:11",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
     },
     {
       "added_at": "2026-08-11 15:34:11",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-11 15:34:11",
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Chrome Heart Diaper Bag",
-      "url": "https://open.spotify.com/track/0czIeeoUmB2SiXyZs4H8cL"
-    },
-    {
-      "added_at": "2026-08-11 15:34:11",
-      "album": {
         "name": "His Favorite",
         "url": "https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 166378,
       "name": "only one way to know",
       "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
+    },
+    {
+      "added_at": "2026-08-11 15:34:11",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Chrome Heart Diaper Bag",
+      "url": "https://open.spotify.com/track/0czIeeoUmB2SiXyZs4H8cL"
     },
     {
       "added_at": "2026-08-11 15:34:11",

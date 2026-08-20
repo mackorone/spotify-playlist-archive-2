@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Anthrax are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,034 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,653,978 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Don't MisStep](https://open.spotify.com/track/61NDAaJEyNfixD2e0bmBe1) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Not Your Kingdom](https://open.spotify.com/album/5Ga69zVHRQGaY7Kqo0aGRU) | 1:34 |
 | 80 | [Spirit Helper](https://open.spotify.com/track/5Xm1vq2jyQqaMBhBOSbOIE) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD), [Kevin Kicking Woman](https://open.spotify.com/artist/4mTbBB7BOYcOG8zHVv4MDh) | [Spirit Helper](https://open.spotify.com/album/61hsIanUYEyfr5Vt59ETWo) | 4:52 |
 
-Snapshot ID: `AAAAAHYSyM2AKwtNafb3e30YlNvvn0/2`
+Snapshot ID: `AAAAANJojz+YAoYt9lNs38GrSVRAmfUV`

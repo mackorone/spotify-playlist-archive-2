@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. GRECAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,800 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,797 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 18 | [AC Black Flag Resynced](https://open.spotify.com/track/2mSJNIzdmibHEWiURgqrvd) | [Zarcort](https://open.spotify.com/artist/3ljuRRLVJKgXJKO0xNqzi6) | [AC Black Flag Resynced](https://open.spotify.com/album/3q1IaxIZfselJHae7MzLxT) | 2:47 |
 | 19 | [Mírame](https://open.spotify.com/track/4pLUvROI1M0yGjv18emZeI) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Jime](https://open.spotify.com/artist/0bUcULI0fhYFY8rfhBqm47) | [Mírame](https://open.spotify.com/album/5Qxsq3C0PFNpnIXg4qC5z5) | 2:57 |
 | 20 | [CHEKI](https://open.spotify.com/track/5d7AXylq0DJxs5T3RGhn9v) | [Los Diozes](https://open.spotify.com/artist/30Ml7nTMkXYyb0UoLwtmCc), [Xokas](https://open.spotify.com/artist/2mEPPNWEQm7d7yhYSRlKRf) | [MESÓN MASÓN](https://open.spotify.com/album/2EW1VjUpqyOLoqIMoc0xt1) | 3:19 |
-| 21 | [Cenizienta](https://open.spotify.com/track/6gCgV81Yoq9Iwt3GdEjVJg) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Cenizienta](https://open.spotify.com/album/5k7BGC3YZRMQEwTXlb21k6) | 2:29 |
-| 22 | [Mil inviernos y mil veranos](https://open.spotify.com/track/70Kz7FjhcPjrloZq8HoxuI) | [Diegales](https://open.spotify.com/artist/18jngJTQ7eBdgzAhHKk9TW) | [Mil inviernos y mil veranos](https://open.spotify.com/album/4zFj4dWlHdST1cXmqwFP7q) | 2:33 |
-| 23 | [GRECOFERNANDA](https://open.spotify.com/track/1rHZ8dh1Gs7narVH0lcL5J) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [GRECOFERNANDA](https://open.spotify.com/album/3RPAfKc4jaSlWL5DAvQHiu) | 2:23 |
-| 24 | [Amor De Barrio](https://open.spotify.com/track/1TstqJm8Tz1kC5vHRlrwrp) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Amor De Barrio](https://open.spotify.com/album/4TMkzRM2XroXTdUH9mT6hv) | 3:08 |
-| 25 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
-| 26 | [Se Te Ve El Plumero](https://open.spotify.com/track/6nTMZ0PTHxrzBp1O1apipF) | [Solea kella](https://open.spotify.com/artist/3PGLXmVuFleENSR1RiNTD9) | [Se Te Ve El Plumero](https://open.spotify.com/album/0HYpW9qG4h5hzEVL6y41Xp) | 2:17 |
+| 21 | [No Hard Feelings](https://open.spotify.com/track/5AlUy9BAKk0MJNiRIZgAst) | [Sara Socas](https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [No Hard Feelings](https://open.spotify.com/album/5HFqh7ByxzWqQG41FFg6zj) | 2:29 |
+| 22 | [Cenizienta](https://open.spotify.com/track/6gCgV81Yoq9Iwt3GdEjVJg) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Cenizienta](https://open.spotify.com/album/5k7BGC3YZRMQEwTXlb21k6) | 2:29 |
+| 23 | [Mil inviernos y mil veranos](https://open.spotify.com/track/70Kz7FjhcPjrloZq8HoxuI) | [Diegales](https://open.spotify.com/artist/18jngJTQ7eBdgzAhHKk9TW) | [Mil inviernos y mil veranos](https://open.spotify.com/album/4zFj4dWlHdST1cXmqwFP7q) | 2:33 |
+| 24 | [GRECOFERNANDA](https://open.spotify.com/track/1rHZ8dh1Gs7narVH0lcL5J) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [GRECOFERNANDA](https://open.spotify.com/album/3RPAfKc4jaSlWL5DAvQHiu) | 2:23 |
+| 25 | [Amor De Barrio](https://open.spotify.com/track/1TstqJm8Tz1kC5vHRlrwrp) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Amor De Barrio](https://open.spotify.com/album/4TMkzRM2XroXTdUH9mT6hv) | 3:08 |
+| 26 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
 | 27 | [Lo Que Me Falta](https://open.spotify.com/track/6gcg6Vo1mrQWtEaCyvav0w) | [JAVI BAMBINI CATTIVI](https://open.spotify.com/artist/3FV2MXfjYT4tvYWzAQWJMH), [LosNiñosDelCaminito](https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM) | [Lo Que Me Falta](https://open.spotify.com/album/4dNf6srMvodZGl0RnSjk5t) | 3:10 |
 | 28 | [Cicatrices](https://open.spotify.com/track/7cVPzL9iPXkMaHb8NvwvR3) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/2r7uyJrmDdQ3DwX0EzSfYm) | 3:00 |
 | 29 | [ASTURIANA](https://open.spotify.com/track/6e2eQjkkqqJBqGegiPkHL8) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [ASTURIANA](https://open.spotify.com/album/5QZOrjjhiWUlPzZ9xOdPgV) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [LO MÍO \[MARBELLA 3\]](https://open.spotify.com/track/19dcxZ9i7cPMYUR7DWRWVP) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LO MÍO \[MARBELLA 3\]](https://open.spotify.com/album/7vt6o6LWLtoy9060l72lGs) | 2:49 |
 | 50 | [No canto por cantar](https://open.spotify.com/track/4sqEtzAuLGlRqSLwZMz5OV) | [Faenna](https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Sceno](https://open.spotify.com/artist/75CrPxuxEtojeIeFidQeMH) | [No canto por cantar](https://open.spotify.com/album/4UR0wL4wiPgxZsTmU5Isy2) | 3:14 |
 
-Snapshot ID: `AAAAAOBhX20Nywj8VPfo1i9McPMdL4XP`
+Snapshot ID: `AAAAANytkMKHYJHFllMONEykWLt0xeh/`

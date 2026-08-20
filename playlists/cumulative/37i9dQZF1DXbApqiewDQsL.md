@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Christian Ortega
 
-693 songs - 1 day 11 hr 47 min
+693 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 | 2026-06-10 | 2026-08-15 |
 | [Phantom](https://open.spotify.com/track/7BzapBrltAxadCwlj9uZke) | [Ian Ojeda](https://open.spotify.com/artist/3vCDzBP1fanLfEruKv9jtf) | [Phantom](https://open.spotify.com/album/6AvCG00VKzpSITzXm1LNoS) | 3:02 | 2024-09-18 | 2025-01-16 |
 | [Pharrel](https://open.spotify.com/track/4OIVWgXFkFU0mKBmOculnm) | [Danny Talavera](https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV) | [Pharrel](https://open.spotify.com/album/0pmanb2jccrOzcOVSKSlzq) | 3:23 | 2024-08-07 | 2025-01-16 |
-| [Placas de Chihuahua](https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [Placas de Chihuahua](https://open.spotify.com/album/3QDD3b5cwWQo5LMnWhG8SB) | 3:36 | 2026-07-15 |  |
+| [PLACAS DE CHIHUAHUA](https://open.spotify.com/track/6ClYRRmCpeBOKasL9HIHMu) | [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [PLACAS DE CHIHUAHUA](https://open.spotify.com/album/3QDD3b5cwWQo5LMnWhG8SB) | 3:29 | 2026-07-15 |  |
 | [Placas de Sinaloa](https://open.spotify.com/track/6vHDKDSUO5RediqId3pMhm) | [Segunda Generacion](https://open.spotify.com/artist/3yV4XvqkbtSACqTZcp6uux) | [Placas de Sinaloa](https://open.spotify.com/album/1kwSCCnu3rMAGhWsMfSyGl) | 2:45 | 2024-09-18 | 2025-01-16 |
 | [Plan B](https://open.spotify.com/track/6prLB64chLph5L7FSiYsiV) | [ENANO](https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz) | [Plan B](https://open.spotify.com/album/3pljduvYLW3gKVATmAGx3i) | 2:51 | 2024-08-07 | 2024-10-03 |
 | [PLH \(Pa' los Haters\)](https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [PLH \(Pa' los Haters\)](https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA) | 2:43 | 2025-03-07 | 2025-05-31 |

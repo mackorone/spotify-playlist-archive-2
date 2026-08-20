@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-207 songs - 10 hr 56 min
+208 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 | 2024-01-29 |  |
 | [Dinner Table](https://open.spotify.com/track/4DQ1lXSZMVJjFw8Mj1oqqE) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/4M1E62jbwgbjy6kPer9vSu) | 3:30 | 2026-05-30 |  |
 | [Dinner Table](https://open.spotify.com/track/4zyssSHWKWunuNTSn1s2wM) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:30 | 2024-01-29 | 2026-05-31 |
+| [Dream State](https://open.spotify.com/track/2ZxAVcdUhb3yoq1UAfOE4K) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Dream State](https://open.spotify.com/album/6p0HoxC5QE98NkCSTIngpN) | 3:46 | 2026-08-19 |  |
 | [Easy](https://open.spotify.com/track/03UOUsopr9Nq6Ij4l38ksE) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Easy](https://open.spotify.com/album/3qjvs5d8MHDjkHnIWP2bIq) | 2:55 | 2024-01-29 |  |
 | [Endless Summer](https://open.spotify.com/track/17B2JRnNp9qrYvkc1kdQbF) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:07 | 2024-01-29 | 2024-04-21 |
 | [Endless Summer](https://open.spotify.com/track/3zbeIDDhJ1kwJ01GkM3Egb) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 3:07 | 2024-04-20 |  |

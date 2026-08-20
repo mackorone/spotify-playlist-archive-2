@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Creepy Nuts *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/348196\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Creepy Nuts *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/348327\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -22446,6 +22446,24 @@
       "duration_ms": 171511,
       "name": "BIGMAN",
       "url": "https://open.spotify.com/track/4QcJ480QrpsKJEWTN6LZQk"
+    },
+    {
+      "album": {
+        "name": "BiiiG",
+        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164208,
+      "name": "BiiiG",
+      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
     },
     {
       "album": {
@@ -110421,6 +110439,24 @@
     },
     {
       "album": {
+        "name": "REFRACTIONS",
+        "url": "https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325639,
+      "name": "Mazaranai",
+      "url": "https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8"
+    },
+    {
+      "album": {
         "name": "mazaru",
         "url": "https://open.spotify.com/album/29hIXmS9LaPhhLi3yMaOaC"
       },
@@ -165597,6 +165633,24 @@
     },
     {
       "album": {
+        "name": "Our Birthday",
+        "url": "https://open.spotify.com/album/4mTuElMf69CZhYpbIcy1fe"
+      },
+      "artists": [
+        {
+          "name": "OURBIRTHDAY",
+          "url": "https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SQUEEZY",
+      "url": "https://open.spotify.com/track/1JE4dvSinnGF5itbfTpywh"
+    },
+    {
+      "album": {
         "name": "SSAW feat. TENDRE",
         "url": "https://open.spotify.com/album/6gOEBryXu681oHwGF0Q6bX"
       },
@@ -185212,24 +185266,6 @@
       "duration_ms": 240333,
       "name": "Trace",
       "url": "https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5"
-    },
-    {
-      "album": {
-        "name": "REFRACTIONS",
-        "url": "https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm"
-      },
-      "artists": [
-        {
-          "name": "Cornelius",
-          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
-        }
-      ],
-      "date_added": "2026-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8"
     },
     {
       "album": {
@@ -271984,6 +272020,28 @@
       "duration_ms": 269093,
       "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+    },
+    {
+      "album": {
+        "name": "\u6069\u5bf5",
+        "url": "https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        },
+        {
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192672,
+      "name": "\u6069\u5bf5",
+      "url": "https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS"
     },
     {
       "album": {

@@ -9908,7 +9908,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 180000,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
@@ -15332,7 +15332,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 150857,
       "name": "need (u)",
       "url": "https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4"
@@ -17704,6 +17704,24 @@
       "duration_ms": 160551,
       "name": "Play It Twice",
       "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/15vUIAEbtiB2yINh6MJxNE"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/77GRdgRszNNe4ZyDSV2cfD"
     },
     {
       "album": {

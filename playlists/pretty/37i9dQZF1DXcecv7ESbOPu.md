@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Icona Pop, Yasin och Yung Lean med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,388 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,380 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 80 | [all my friends](https://open.spotify.com/track/4SyaBleGBBAaawRqBcXAPv) | [Marini](https://open.spotify.com/artist/39N8eNq89HocjMOpoLLmEs) | [all my friends](https://open.spotify.com/album/3zB0AOdzcyEqB4LpSxQXqb) | 2:43 |
 | 81 | [Sweet Devotion](https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Sweet Devotion](https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg) | 3:08 |
 
-Snapshot ID: `AAAAAO2/nu1q7pLidzx2xlj4Y2cIsLIA`
+Snapshot ID: `AAAAAHWskD46EoMF6DAjJLqciU+jSArr`

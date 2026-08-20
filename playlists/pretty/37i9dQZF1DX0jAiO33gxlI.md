@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,980 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,963 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [inpacto](https://open.spotify.com/track/6zMFk4zkV2cFfbZcwwI89l) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Gabrelú](https://open.spotify.com/artist/2iQjYFLNpukoPYt0a7NJsL), [Zaila](https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj) | [inpacto](https://open.spotify.com/album/3Z7A4LMoJuWmP3qbn0aycR) | 4:02 |
 | 75 | [EDHardy Itararé](https://open.spotify.com/track/2arWCuax7RBsn0y8S1DuiM) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [BASE: Kilos de Rima](https://open.spotify.com/album/0quvg2bsUx5HYXo9MEzj6Z) | 5:54 |
 
-Snapshot ID: `AAAAALK9/7BrMj6T74S4tpqoa+ZoD0RX`
+Snapshot ID: `AAAAAAqreTnYUL+TmsSVLpqgYwHpwONh`

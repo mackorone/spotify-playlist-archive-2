@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with KI/KI",
-  "num_followers": 889755,
+  "num_followers": 889854,
   "original_name": "trance mission",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOxMupVRAr4xXQDLq6j+RKcKMGq",
+  "snapshot_id": "AAAAAOYIzULYqv6f+rnjvbQjozUaThIO",
   "tracks": [
     {
       "added_at": "2026-08-13 22:00:51",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR"
+      },
+      "artists": [
+        {
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+        }
+      ],
+      "duration_ms": 152216,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
         "name": "In The End (Photographer Remix)",
         "url": "https://open.spotify.com/album/4xBW2XjIbpEaFKKe28iQG6"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 209666,
       "name": "In The End - Photographer Remix",
       "url": "https://open.spotify.com/track/13JYeTnxWhXJcwjogYSraT"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR"
-      },
-      "artists": [
-        {
-          "name": "Niels Van Gogh",
-          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
-        }
-      ],
-      "duration_ms": 152216,
-      "name": "Into The Light",
-      "url": "https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Arp12",
-        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        },
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Arp12",
-      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
         "name": "Memories Of Space",
         "url": "https://open.spotify.com/album/3A5u51agi4getEhGu96dac"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 234782,
       "name": "Memories Of Space",
       "url": "https://open.spotify.com/track/1hsTJPpq5wAEBDakGTQgk7"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
+        "name": "Arp12",
+        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        },
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Arp12",
+      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2oGalbPEf7w5n4u68Y9UkL"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        },
+        {
+          "name": "MCYL",
+          "url": "https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0v9yDPKldiJDUWXlUo4t4i"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
         "name": "Lytherion",
         "url": "https://open.spotify.com/album/09BtIowmQdyFVis1nyjzVY"
       },
@@ -1363,22 +1383,22 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Frenzy",
-        "url": "https://open.spotify.com/album/2oGalbPEf7w5n4u68Y9UkL"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2ZeAmtRg9exjRNBM9kDAdH"
       },
       "artists": [
         {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
         },
         {
-          "name": "MCYL",
-          "url": "https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr"
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
         }
       ],
-      "duration_ms": 195280,
-      "name": "Frenzy",
-      "url": "https://open.spotify.com/track/0v9yDPKldiJDUWXlUo4t4i"
+      "duration_ms": 148356,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7GsyVPk2ixVCK7AJ6XfBOk"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1459,26 +1479,6 @@
       "duration_ms": 246870,
       "name": "Have You Ever Loved (Ellie)",
       "url": "https://open.spotify.com/track/6LXP8uM57vLvhjiCDYvnys"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2ZeAmtRg9exjRNBM9kDAdH"
-      },
-      "artists": [
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        }
-      ],
-      "duration_ms": 148356,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7GsyVPk2ixVCK7AJ6XfBOk"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Papaye",
-        "url": "https://open.spotify.com/album/3ItzPOTiOBnYfbqxisibyn"
-      },
-      "artists": [
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Papaye",
-      "url": "https://open.spotify.com/track/5NWO87WOv9rDXcYmqxh7h5"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6bP4727zYW6NemjkYYoolB"
       },
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Glow Up",
-        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
+        "name": "Papaye",
+        "url": "https://open.spotify.com/album/3ItzPOTiOBnYfbqxisibyn"
       },
       "artists": [
         {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
+      "duration_ms": 194142,
+      "name": "Papaye",
+      "url": "https://open.spotify.com/track/5NWO87WOv9rDXcYmqxh7h5"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1663,6 +1647,22 @@
       "duration_ms": 145634,
       "name": "Toca's Miracle",
       "url": "https://open.spotify.com/track/0hBfllV37fOnsMe0Iq57RZ"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
+      },
+      "artists": [
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
+        "name": "Nothing Without Me",
+        "url": "https://open.spotify.com/album/73duEK6YR8F1jb0bMvUct5"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "C-Systems",
+          "url": "https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp"
+        },
+        {
+          "name": "Ana Diaz",
+          "url": "https://open.spotify.com/artist/4nA9E4RlVh3PaxXueryJzQ"
+        }
+      ],
+      "duration_ms": 217391,
+      "name": "Nothing Without Me",
+      "url": "https://open.spotify.com/track/1HlotxQFfhPSrjrfpIyxmQ"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/7aeGO2WgSPfzFkcGBXlNyb"
       },
@@ -1767,30 +1791,6 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Nothing Without Me",
-        "url": "https://open.spotify.com/album/73duEK6YR8F1jb0bMvUct5"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "C-Systems",
-          "url": "https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp"
-        },
-        {
-          "name": "Ana Diaz",
-          "url": "https://open.spotify.com/artist/4nA9E4RlVh3PaxXueryJzQ"
-        }
-      ],
-      "duration_ms": 217391,
-      "name": "Nothing Without Me",
-      "url": "https://open.spotify.com/track/1HlotxQFfhPSrjrfpIyxmQ"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
       },
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Song to the Siren",
-        "url": "https://open.spotify.com/album/6eyXCLmZksprU5uPMwcpWE"
-      },
-      "artists": [
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/7KHzgG1zvxM52AO6JVPO0o"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
         "name": "Bullet In The Gun",
         "url": "https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP"
       },
@@ -1855,6 +1839,50 @@
       "duration_ms": 240000,
       "name": "Bullet In The Gun",
       "url": "https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
+        "name": "Song to the Siren",
+        "url": "https://open.spotify.com/album/6eyXCLmZksprU5uPMwcpWE"
+      },
+      "artists": [
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/7KHzgG1zvxM52AO6JVPO0o"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/5ZvpOg6K4kkgmMsXdG1Tye"
+      },
+      "artists": [
+        {
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Philippe El Sisi",
+          "url": "https://open.spotify.com/artist/35rhhznRPZslF98hw6EaMb"
+        },
+        {
+          "name": "Omar Sherif",
+          "url": "https://open.spotify.com/artist/2ke04eDyctUvdLoZUoZdLs"
+        },
+        {
+          "name": "Jaren",
+          "url": "https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm"
+        }
+      ],
+      "duration_ms": 222859,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/7tjrnacKmIePgy2CiNNE97"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1911,30 +1939,18 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "Count On Me",
-        "url": "https://open.spotify.com/album/5ZvpOg6K4kkgmMsXdG1Tye"
+        "name": "I Can See It",
+        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
       },
       "artists": [
         {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Philippe El Sisi",
-          "url": "https://open.spotify.com/artist/35rhhznRPZslF98hw6EaMb"
-        },
-        {
-          "name": "Omar Sherif",
-          "url": "https://open.spotify.com/artist/2ke04eDyctUvdLoZUoZdLs"
-        },
-        {
-          "name": "Jaren",
-          "url": "https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm"
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
         }
       ],
-      "duration_ms": 222859,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/7tjrnacKmIePgy2CiNNE97"
+      "duration_ms": 172202,
+      "name": "I Can See It",
+      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -1955,22 +1971,6 @@
       "duration_ms": 199200,
       "name": "Carte Blanche",
       "url": "https://open.spotify.com/track/4Rp0PLogExoXWtkDLNunXR"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
-        "name": "I Can See It",
-        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "I Can See It",
-      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "When I Found You",
-        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Ciaran McAuley",
-          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "When I Found You",
-      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
         "name": "Home Is Here",
         "url": "https://open.spotify.com/album/43NiR03DmdSqCUaEtw8zbj"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 238750,
       "name": "Home Is Here",
       "url": "https://open.spotify.com/track/4RGDVbK42ikPcAlel2DXqS"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
+        "name": "When I Found You",
+        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "When I Found You",
+      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -2359,26 +2359,22 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
-        "name": "ResuRection",
-        "url": "https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI"
+        "name": "Best One",
+        "url": "https://open.spotify.com/album/6LKSfduJ6QiiN6D4iDBjaO"
       },
       "artists": [
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "LAMMER",
+          "url": "https://open.spotify.com/artist/5XCMynHbftLKbZ0Mp6iHdc"
         },
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+          "name": "Tjade",
+          "url": "https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh"
         }
       ],
-      "duration_ms": 179154,
-      "name": "ResuRection",
-      "url": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn"
+      "duration_ms": 178125,
+      "name": "Best One",
+      "url": "https://open.spotify.com/track/0cb3OjsFdjBNj2ZlSBvf4M"
     },
     {
       "added_at": "2026-08-13 22:00:51",
@@ -2423,6 +2419,46 @@
     {
       "added_at": "2026-08-13 22:00:51",
       "album": {
+        "name": "ResuRection",
+        "url": "https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        }
+      ],
+      "duration_ms": 179154,
+      "name": "ResuRection",
+      "url": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
+        "name": "Inside This Room",
+        "url": "https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 192608,
+      "name": "Inside This Room",
+      "url": "https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd"
+    },
+    {
+      "added_at": "2026-08-13 22:00:51",
+      "album": {
         "name": "Summer Jam",
         "url": "https://open.spotify.com/album/6wdCgtpAuoLv5w5FAQJ2Rg"
       },
@@ -2451,42 +2487,6 @@
       "duration_ms": 229720,
       "name": "Summer Jam",
       "url": "https://open.spotify.com/track/0hPJu90W3jFiTSogvXTm3A"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
-        "name": "Trustfall",
-        "url": "https://open.spotify.com/album/7aaYQwMrTyNyrMgqvRpLZY"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "Trustfall",
-      "url": "https://open.spotify.com/track/1CkUMMdKrZsmuJdzkHKFwo"
-    },
-    {
-      "added_at": "2026-08-13 22:00:51",
-      "album": {
-        "name": "Inside This Room",
-        "url": "https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 192608,
-      "name": "Inside This Room",
-      "url": "https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd"
     }
   ],
   "unique_name": "trance mission",

@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Chavo Felix (En Vivo)",
+      "url": "https://open.spotify.com/track/3jjySlPUK71LIWEZ9kfxi5"
+    },
+    {
+      "album": {
         "name": "Coquio Castro (En Vivo)",
         "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 191213,
       "name": "Soy Familia, Soy Michoacano (En Vivo)",
       "url": "https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67"

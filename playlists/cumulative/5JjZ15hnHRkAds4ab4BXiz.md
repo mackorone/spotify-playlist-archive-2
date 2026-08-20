@@ -4,7 +4,7 @@
 
 > 
 
-932 songs - 2 day 11 hr 26 min
+934 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [New Age \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/5MIjLrGCsgIjLPRkmbAtRJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 5:10 | 2024-07-11 |  |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2024-01-17 |  |
 | [New York City Cops](https://open.spotify.com/track/5g4cz7u4MrUTKDdo1TmABo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Hard To Explain/New York City Cops](https://open.spotify.com/album/5mRPvdITWYckQAX35a4gRe) | 3:31 | 2024-06-16 |  |
+| [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 | 2026-08-19 |  |
 | [Night in Tulum](https://open.spotify.com/track/5GbftkICB7iyhd3bFV3Od3) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 3:22 | 2024-12-31 | 2026-03-07 |
 | [Night Light](https://open.spotify.com/track/0JXoRFuGMvM4ONAGrn4OoD) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:15 | 2026-03-11 |  |
 | [Nintendo Blood](https://open.spotify.com/track/13KXeGtc1zYLzvPj3CgLcy) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 5:54 | 2024-07-07 |  |
@@ -680,6 +681,7 @@
 | [Song Against Sex](https://open.spotify.com/track/0irxRes67DWbAdghQ9F6sC) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 3:40 | 2024-04-19 |  |
 | [Song for Clay \(Disappear Here\)](https://open.spotify.com/track/597GuiGA4cD5qhwvQAJ3xU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:49 | 2025-02-16 |  |
 | [Song for Marco](https://open.spotify.com/track/5l2GqTyrNABNJQl3mWBSHo) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 1:26 | 2024-12-31 |  |
+| [Sound of Silver](https://open.spotify.com/track/442bPYh5CaoKNSadk699eG) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:07 | 2026-08-19 |  |
 | [Space Cadet](https://open.spotify.com/track/6DwRQI2K03MTNULcasnhUh) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Sweat](https://open.spotify.com/album/3UGEWESDelTk6ppL1SMYM2) | 4:48 | 2024-07-16 | 2025-07-05 |
 | [Space Garden](https://open.spotify.com/track/0ydmFrXktLZghHLW6Axytj) | [Auntie Leo & The Backstabbers](https://open.spotify.com/artist/2MKRGonOGyamdXUfmbtzI2) | [Space Garden](https://open.spotify.com/album/0d5nbI8RcBORYooSI5f7Pw) | 4:56 | 2024-05-04 | 2025-12-27 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-11-19 |  |

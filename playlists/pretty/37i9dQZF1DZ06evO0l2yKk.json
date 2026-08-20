@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206759,
+  "num_followers": 206805,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAAkeOLmt2PVxefq9gqKRQ14",
+  "snapshot_id": "aoOggAAAAACvgompXMvVGR1QEC+v+Lxf",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo De Cantina",
-        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 199226,
-      "name": "La Baraja",
-      "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
+      "duration_ms": 181146,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+        "name": "Espejo De Cantina",
+        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 181146,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
+      "duration_ms": 199226,
+      "name": "La Baraja",
+      "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Canciones Y Tequila",
-        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 179786,
-      "name": "No Te Imaginas",
-      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuego Contra Fuego",
         "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 186146,
       "name": "Fuego Contra Fuego",
       "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Canciones Y Tequila",
+        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 179786,
+      "name": "No Te Imaginas",
+      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,

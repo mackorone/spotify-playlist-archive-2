@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,230 likes - 105 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,233 likes - 105 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 104 | [Bright and Beautiful](https://open.spotify.com/track/6FIyPLmX3ZjMwlngLXNzcE) | [Oludee](https://open.spotify.com/artist/51GYW8DE2JojeDFUfoDVM1) | [Bright and Beautiful](https://open.spotify.com/album/3WpRPkc7AxhoeZhw6bTU14) | 3:28 |
 | 105 | [Oyel](https://open.spotify.com/track/4b9vFe5adHevEnOUo0F91O) | [Bodilezz](https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb), [Miklez](https://open.spotify.com/artist/0IAZuHKHTymDWiemfWMPwW) | [Oyel](https://open.spotify.com/album/46iEosVS7TwsIywW7JWS8E) | 3:00 |
 
-Snapshot ID: `AAAAAAt4r1LwANp9O/1qBgS72NXoyaBe`
+Snapshot ID: `AAAAALwRwDUJpxgvHZdi2CdqOfmKD/l/`

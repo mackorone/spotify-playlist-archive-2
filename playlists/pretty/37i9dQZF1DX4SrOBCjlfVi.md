@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nipsey Hussle & Bino Rideaux,  Flo Milli, Trippie Redd and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,235 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,272 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Clutch My Bag](https://open.spotify.com/track/1SWAjSJbvr9yJ6HaKgZjE2) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Clutch My Bag](https://open.spotify.com/album/4Gu8yikbv2SCxwE7N4miue) | 2:23 |
 | 50 | [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/track/6pD0jkdVeQvIud7tUIBabj) | [Kent Loon](https://open.spotify.com/artist/4D10XmdrnAaDediMRuOBKM), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/album/5euDlk0QQfgnMovqEcqLCu) | 2:25 |
 
-Snapshot ID: `AAAAAPoHEvINTBUe4v8Iv8Z/SobCm3ZN`
+Snapshot ID: `AAAAAEYwYekECZeoY0upTIGs9fXQekUm`

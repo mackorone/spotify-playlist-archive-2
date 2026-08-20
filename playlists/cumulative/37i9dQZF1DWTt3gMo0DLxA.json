@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: Lenin",
+  "description": "Trending songs from Tollywood! \nCover: Irumudi",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -1449,6 +1449,32 @@
     },
     {
       "album": {
+        "name": "Shankerdada M B B S",
+        "url": "https://open.spotify.com/album/3zQfAsSriB2lueio8XBXWN"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chiranjeevi",
+          "url": "https://open.spotify.com/artist/1ufJdfFZl0Tui0VKz3qpXg"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365280,
+      "name": "Chaila Chaila",
+      "url": "https://open.spotify.com/track/67lNXjRKQ1qORmKX2lHZWD"
+    },
+    {
+      "album": {
         "name": "Chamiki (From \"Youth - Telugu\")",
         "url": "https://open.spotify.com/album/14rO0PKi014BI3n5Hiq7Pe"
       },
@@ -2328,6 +2354,32 @@
       "duration_ms": 265978,
       "name": "Ee Manase Se Se",
       "url": "https://open.spotify.com/track/68cR7xQ7LKVms9EGKjDVTP"
+    },
+    {
+      "album": {
+        "name": "Muta Mestri",
+        "url": "https://open.spotify.com/album/0YsoJ1MXIY9Hrc4OgnFeAX"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Raj-Koti",
+          "url": "https://open.spotify.com/artist/78eKGjMa7yG0HpHyo8W3kA"
+        },
+        {
+          "name": "Veturi Sundararama Murthy",
+          "url": "https://open.spotify.com/artist/6W53NvDczSISycLfI8GnUC"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396434,
+      "name": "Ee Petaku Nene Mestri",
+      "url": "https://open.spotify.com/track/45gffIzbWsIorm2PuSBxpZ"
     },
     {
       "album": {
@@ -3241,6 +3293,36 @@
     },
     {
       "album": {
+        "name": "Hailo Hailo Hailessa (From \"Pallaburusu\")",
+        "url": "https://open.spotify.com/album/18PiH9iVeR8BmdKnBbkv9L"
+      },
+      "artists": [
+        {
+          "name": "Pawan Ch",
+          "url": "https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK"
+        },
+        {
+          "name": "Suresh Gangula",
+          "url": "https://open.spotify.com/artist/3BzOPKZs10Ov6IOg5m9d01"
+        },
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276724,
+      "name": "Hailo Hailo Hailessa - From \"Pallaburusu\"",
+      "url": "https://open.spotify.com/track/6RDm9mp6PhaTw65lFsxkV3"
+    },
+    {
+      "album": {
         "name": "Hellallallo (From \"Peddi\") [TELUGU]",
         "url": "https://open.spotify.com/album/6mWpQgxrYAxpz5VGN5AQjV"
       },
@@ -3818,7 +3900,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 249169,
       "name": "Irumudi Kattu (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/0d2LuBhacKiZZpBWZD6OD2"
@@ -4687,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Nannaku Prematho",
+        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
+    },
+    {
+      "album": {
         "name": "Raghuvaran B Tech",
         "url": "https://open.spotify.com/album/2HPUVqZxmchTr7fvEj0SU0"
       },
@@ -4802,6 +4902,36 @@
       "duration_ms": 329491,
       "name": "Malle Chettu",
       "url": "https://open.spotify.com/track/4CD07nbsz2PeaLJ5iodWlI"
+    },
+    {
+      "album": {
+        "name": "Mallepoola Pallaki (From \"Irumudi\")",
+        "url": "https://open.spotify.com/album/67Q0AfpECCkVJ0q0NiyKBM"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Dappu Srinu",
+          "url": "https://open.spotify.com/artist/3MkybF6x3t3R1FzLLlaAei"
+        },
+        {
+          "name": "Chowdam Srinivasa Rao",
+          "url": "https://open.spotify.com/artist/1oGRwahJME5miw1xjbbDro"
+        },
+        {
+          "name": "Sunkara Anjaneyulu",
+          "url": "https://open.spotify.com/artist/2vuGaUQNHHGEKUkhP6FjJW"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180078,
+      "name": "Mallepoola Pallaki (From \"Irumudi\")",
+      "url": "https://open.spotify.com/track/58dUTQHotyXfZZxFYjCyZt"
     },
     {
       "album": {
@@ -5324,7 +5454,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 424150,
       "name": "Meme Indians",
       "url": "https://open.spotify.com/track/0SkmcfqBRsqOheUZcbx9d4"
@@ -5832,7 +5962,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 226265,
       "name": "Nee Dookudu",
       "url": "https://open.spotify.com/track/1iGt3rDC9Lo4fi5EIonVE7"
@@ -5942,7 +6072,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 281520,
       "name": "Neeve",
       "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
@@ -6326,6 +6456,28 @@
       "duration_ms": 204533,
       "name": "Nuvvu Navvukuntu",
       "url": "https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/3XqakGDPdsFZID5ax1QjfM"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Malavika",
+          "url": "https://open.spotify.com/artist/2KYWcjtMcKmqEWjpjB6XpT"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207478,
+      "name": "Nuvvu Nenu",
+      "url": "https://open.spotify.com/track/0lB7nH2ZkKuPUJ83CRrqCC"
     },
     {
       "album": {
@@ -7560,7 +7712,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 86655,
       "name": "Rakasikara (From \"Lenin\")",
       "url": "https://open.spotify.com/track/1tn7ZB2qRslvuJGPzrQ9Pj"
@@ -9036,7 +9188,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 327640,
       "name": "Uppenantha",
       "url": "https://open.spotify.com/track/57zEYntUat0ofbFpoicN26"
@@ -9392,7 +9544,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 309906,
       "name": "We Have Romeo",
       "url": "https://open.spotify.com/track/0fYw4JQwzXOqfmOVTSyIcG"
@@ -9474,7 +9626,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 253061,
       "name": "Yaalalo Yaalalo (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"

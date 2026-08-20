@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 114304,
+  "num_followers": 114301,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAABpqYtl5D0GHirhVZTLgUEv",
+  "snapshot_id": "aoOggAAAAADKgi9pBM9ffIQ7lo6DEYWe",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 155013,
-      "name": "Feed Them to the Pigs",
-      "url": "https://open.spotify.com/track/7eGhm9Bc3TKfaOQXC9fU1d"
+      "duration_ms": 203289,
+      "name": "Dedicated",
+      "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 203289,
-      "name": "Dedicated",
-      "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
+      "duration_ms": 155013,
+      "name": "Feed Them to the Pigs",
+      "url": "https://open.spotify.com/track/7eGhm9Bc3TKfaOQXC9fU1d"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 103146,
-      "name": "Moments in Oblivion",
-      "url": "https://open.spotify.com/track/2XqHqiETEwPa9XBPVHa300"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 184853,
       "name": "The Siren's Song",
       "url": "https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 103146,
+      "name": "Moments in Oblivion",
+      "url": "https://open.spotify.com/track/2XqHqiETEwPa9XBPVHa300"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 48560,
-      "name": "Begin",
-      "url": "https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 339000,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 48560,
+      "name": "Begin",
+      "url": "https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME"
     },
     {
       "added_at": null,

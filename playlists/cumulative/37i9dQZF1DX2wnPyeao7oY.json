@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sable Hills",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: \nLilith's Demise",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 240230,
       "name": "ARE YOU NERVOUS?",
       "url": "https://open.spotify.com/track/1LHVuLD3Kb2QVfeNy2AmWc"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 169881,
       "name": "Brain Matter Displacement",
       "url": "https://open.spotify.com/track/7s5uYrEUnFbV0IZ3h4NyK3"
@@ -4812,7 +4812,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 230400,
       "name": "ego freak",
       "url": "https://open.spotify.com/track/49QDswnidndafpN2VjkZQy"
@@ -5433,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/4SXcC7GTF7lBKwV2L6OENS"
+      },
+      "artists": [
+        {
+          "name": "OHKAYA",
+          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270266,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/1NRY7tlPvrlJHlbOazFe1i"
+    },
+    {
+      "album": {
         "name": "Sleep Now, In Reverse",
         "url": "https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F"
       },
@@ -5590,6 +5608,24 @@
       "duration_ms": 205964,
       "name": "Family",
       "url": "https://open.spotify.com/track/50cQtNX7ngkLWMTEz5fPg1"
+    },
+    {
+      "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "album": {
@@ -5936,7 +5972,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 170000,
       "name": "Foulmouth",
       "url": "https://open.spotify.com/track/2hdVXfUNQWDVNgmuPabASW"
@@ -6012,7 +6048,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 208000,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/4Wz0K1m1800BxZ44eUOYjB"
@@ -6276,7 +6312,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 181132,
       "name": "fvck.me.up",
       "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
@@ -7740,6 +7776,24 @@
       "duration_ms": 227897,
       "name": "I Thought I Could Hide But You Caught Me",
       "url": "https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK"
+    },
+    {
+      "album": {
+        "name": "I Want to Die Before You",
+        "url": "https://open.spotify.com/album/4bQR0ybCfrkOe1h0AS4V8C"
+      },
+      "artists": [
+        {
+          "name": "Genital Shame",
+          "url": "https://open.spotify.com/artist/6jEQ9wweXV1cIGa6Wga1do"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274191,
+      "name": "I Want to Die Before You",
+      "url": "https://open.spotify.com/track/3ELHiGWV6hte7m19eJs8WZ"
     },
     {
       "album": {
@@ -10789,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "Oblivion Walker",
+        "url": "https://open.spotify.com/album/0Euxl8500jjF51fXz8CJX4"
+      },
+      "artists": [
+        {
+          "name": "Hippotraktor",
+          "url": "https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Oblivion Walker",
+      "url": "https://open.spotify.com/track/3D0uqiNyGyMuwsa7zMEIDg"
+    },
+    {
+      "album": {
         "name": "obscura",
         "url": "https://open.spotify.com/album/2gWBVCPmZrqflimE0I5y1t"
       },
@@ -11258,6 +11330,24 @@
       "duration_ms": 205384,
       "name": "Pale Shadow",
       "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
+    },
+    {
+      "album": {
+        "name": "Palefire",
+        "url": "https://open.spotify.com/album/5R5aR50CmDPQ7NzPskV7yc"
+      },
+      "artists": [
+        {
+          "name": "Never Back Down",
+          "url": "https://open.spotify.com/artist/4qyWns3YuVTcRBu3tLfZyS"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "Palefire",
+      "url": "https://open.spotify.com/track/3ijQjZY5njRU3rDQyYqCvZ"
     },
     {
       "album": {
@@ -12681,6 +12771,24 @@
     },
     {
       "album": {
+        "name": "SEE YOU NEXT TUESDAY",
+        "url": "https://open.spotify.com/album/5sWLJiAfDUcuVjMAV86BO4"
+      },
+      "artists": [
+        {
+          "name": "Lilith's Demise",
+          "url": "https://open.spotify.com/artist/23dZ4skEPq6Fx4NPbpARkI"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158008,
+      "name": "SEE YOU NEXT TUESDAY",
+      "url": "https://open.spotify.com/track/01V8P4mpdeXZ0nYKl7u2qG"
+    },
+    {
+      "album": {
         "name": "Seeing Red",
         "url": "https://open.spotify.com/album/0t93zV8tjF8fZWY4ydq8On"
       },
@@ -12938,7 +13046,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 186357,
       "name": "SERPENTINE",
       "url": "https://open.spotify.com/track/7iBPVjBtPWWQWGqTror84i"
@@ -13376,6 +13484,24 @@
       "duration_ms": 235058,
       "name": "Skinwalking",
       "url": "https://open.spotify.com/track/6dXSzKFtgtxtTHRm77vkde"
+    },
+    {
+      "album": {
+        "name": "SLAVIC BITCHES",
+        "url": "https://open.spotify.com/album/2mnYESp16rtFQv78wvTwam"
+      },
+      "artists": [
+        {
+          "name": "Malina Scar",
+          "url": "https://open.spotify.com/artist/3tnyEYhffKHMzUxZSOhT18"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "SLAVIC BITCHES",
+      "url": "https://open.spotify.com/track/5qHLGokRgdzqMYJII7Ct45"
     },
     {
       "album": {

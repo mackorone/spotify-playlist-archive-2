@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With Rhineland, The Wild Wind, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,374 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,376 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Craving](https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving](https://open.spotify.com/album/2QuTqltRhdGF4jjNc4r6iT) | 3:41 |
 | 50 | [Love Is Complicated](https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid) | [Drive!Drive!](https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb) | [Love is Complicated](https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt) | 2:43 |
 
-Snapshot ID: `AAAAAADKeRZQGsazEVxyb/JSoHKqhmFV`
+Snapshot ID: `AAAAAMcNjYusUPWvoQVBJ2bnwKIkqCNl`

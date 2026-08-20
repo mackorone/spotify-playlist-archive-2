@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop met o.a\. Mart Hoogkamer\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,446 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,441 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Gitana](https://open.spotify.com/track/4a3SC21Ou8t9kaaNESDhqp) | [Niels Korsuize](https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy) | [Gitana](https://open.spotify.com/album/3mhkWSPUbW7BBx6pwVz4yc) | 2:26 |
 | 100 | [Word Nou Niet Verliefd](https://open.spotify.com/track/1ZpATRatNBgDJbRRFVTiJI) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Word Nou Niet Verliefd](https://open.spotify.com/album/6cSjWRts5xNQwZDj3dsYZ0) | 2:51 |
 
-Snapshot ID: `AAAAAKz49/2I1dhOEYzjPL/jzg89ovpB`
+Snapshot ID: `AAAAANL4S+ofYmNQbptRTX/bb1+gHTKM`

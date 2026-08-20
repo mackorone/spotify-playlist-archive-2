@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 198746,
       "name": "How Are Things In Glocca Mora",
       "url": "https://open.spotify.com/track/3uyBH0SaGAWjF8tGzsZA9H"
@@ -4060,6 +4060,32 @@
       "duration_ms": 178280,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/0hdNrtu4z3lHfP4YQOZUny"
+    },
+    {
+      "album": {
+        "name": "Finian's Rainbow",
+        "url": "https://open.spotify.com/album/5vAEgnsZhjhk978QQbcAL7"
+      },
+      "artists": [
+        {
+          "name": "Ella Logan",
+          "url": "https://open.spotify.com/artist/2h6itHBcNRfkn7brulMYsS"
+        },
+        {
+          "name": "Donald Richards",
+          "url": "https://open.spotify.com/artist/4wNTu9E8ZNhDCh80oHNKl3"
+        },
+        {
+          "name": "Broadway Cast",
+          "url": "https://open.spotify.com/artist/4gNMEfBVkRcCQUDtGHk9sB"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/13Glbl9570esOim9FomrWr"
     },
     {
       "album": {

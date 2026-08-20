@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > no me arrastré más porque me faltó suelo 🥺💔🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,750 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,876 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 89 | [Esta Cobardia](https://open.spotify.com/track/3Gdiru5U0buYIl1j4pnPJD) | [Diego Rivas](https://open.spotify.com/artist/5nkf2swTHDgKxL8Zid1Ggs) | [Brindo Con Sangre](https://open.spotify.com/album/5GF7wI78dpSbmSAuDQKLRx) | 3:19 |
 | 90 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 |
 
-Snapshot ID: `AAAAAMoiK5kFFTr0ea5hmyZyEGpsQ2XU`
+Snapshot ID: `AAAAADt/21MlQ27XK/XKkTbbItptEeqb`

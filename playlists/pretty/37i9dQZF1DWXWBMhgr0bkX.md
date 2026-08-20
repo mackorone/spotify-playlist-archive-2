@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Mulaa Joans
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,371 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,368 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [kissing](https://open.spotify.com/track/17spT6Bn1UHHSnSxiQjIJE) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1) | [kissing](https://open.spotify.com/album/1U1VkDCKPTEmw3KNgfR3tn) | 2:36 |
 | 80 | [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 |
 
-Snapshot ID: `AAAAABjwo/Zwv6WFNYWP2SvnMgKdmGQk`
+Snapshot ID: `AAAAAHgnUmysav2dSb4y/6FJGI8OWK2H`

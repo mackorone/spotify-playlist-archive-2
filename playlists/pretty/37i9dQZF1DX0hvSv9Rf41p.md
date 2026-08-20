@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 with Zingara
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,536 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,554 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 89 | [COME AS YOU ARE](https://open.spotify.com/track/2Vtu6kE8wlqWpZKQsg9cLW) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [THE DARK SiDE OF THE TRASH](https://open.spotify.com/album/2DDv1U1A1ipoeySQl6bRYI) | 1:44 |
 | 90 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
 
-Snapshot ID: `AAAAANKxsEEQKR4XK8wdTDx+7rD0g5T5`
+Snapshot ID: `AAAAAAX1TnSJHHApyQZfB8hVHsQcxr64`

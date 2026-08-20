@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Phoebe Bridgers, KATSEYE, Budi Doremi, Petra Sihombing, Kotak, Aruma dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,322 likes - 93 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,293 likes - 93 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 92 | [People Just Don’t Know](https://open.spotify.com/track/6ePFr34xi2SYUokrAke1xG) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [Lost In Another World](https://open.spotify.com/album/6a4PjuIDMW3kxLNuoi4LXf) | 4:09 |
 | 93 | [Coco](https://open.spotify.com/track/4pkUQA1yJom2KKgaGuK0VE) | [kiOra](https://open.spotify.com/artist/4KlNJ2885MAzt6tcpW7G4j) | [Coco](https://open.spotify.com/album/7uSyx8AvhEuiRs17jWW0lr) | 2:15 |
 
-Snapshot ID: `AAAAAKqgS4ZUeF2pBOWMy6goWFCh6VUb`
+Snapshot ID: `AAAAAM5/X/vGNQNPXbhK/aKe8H9FEqCE`

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191125,
+  "num_followers": 191206,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3nmK3/+BGY3PFH4/MrBdczE3+d",
+  "snapshot_id": "AAAAAKgSzhqTjTwWfPKLVbjKWObIReDG",
   "tracks": [
     {
       "added_at": "2026-08-14 17:29:26",
@@ -71,6 +71,22 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
+    },
+    {
+      "added_at": "2026-08-14 17:29:26",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
-    },
-    {
-      "added_at": "2026-08-14 17:29:26",
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
+    },
+    {
+      "added_at": "2026-08-14 17:29:26",
+      "album": {
         "name": "VIP (ningu\u00e9m te conhece)",
         "url": "https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 166250,
       "name": "VIP (ningu\u00e9m te conhece)",
       "url": "https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2"
-    },
-    {
-      "added_at": "2026-08-14 17:29:26",
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
-        "name": "s\u00f3 (mais) uma vez",
-        "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 221596,
-      "name": "s\u00f3 (mais) uma vez",
-      "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
-    },
-    {
-      "added_at": "2026-08-14 17:29:26",
-      "album": {
         "name": "meu particular (remix)",
         "url": "https://open.spotify.com/album/0Ui2F0SvLi7qEqj6UqyJpo"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 204210,
       "name": "meu particular (remix)",
       "url": "https://open.spotify.com/track/1PEWA9tWsSlFUsv0GG9IzA"
+    },
+    {
+      "added_at": "2026-08-14 17:29:26",
+      "album": {
+        "name": "s\u00f3 (mais) uma vez",
+        "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 221596,
+      "name": "s\u00f3 (mais) uma vez",
+      "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -623,22 +623,22 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
-        "name": "Papinho Ambicioso",
-        "url": "https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4"
+        "name": "Logo Eu",
+        "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
       },
       "artists": [
         {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Papinho Ambicioso",
-      "url": "https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj"
+      "duration_ms": 179389,
+      "name": "Logo Eu",
+      "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -659,26 +659,22 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
-        "name": "Diz Pra Mim",
-        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
+        "name": "Papinho Ambicioso",
+        "url": "https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4"
       },
       "artists": [
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Jones",
-          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         }
       ],
-      "duration_ms": 199736,
-      "name": "Diz Pra Mim",
-      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
+      "duration_ms": 154285,
+      "name": "Papinho Ambicioso",
+      "url": "https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -703,22 +699,26 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
-        "name": "Logo Eu",
-        "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
         }
       ],
-      "duration_ms": 179389,
-      "name": "Logo Eu",
-      "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
+      "duration_ms": 199736,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2026-08-14 17:29:26",
-      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
+    },
+    {
+      "added_at": "2026-08-14 17:29:26",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-08-14 17:29:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-08-14 17:29:26",
       "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
-      },
-      "artists": [
-        {
-          "name": "Magyn",
-          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
-    },
-    {
-      "added_at": "2026-08-14 17:29:26",
-      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 144705,
       "name": "Carta",
       "url": "https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK"
+    },
+    {
+      "added_at": "2026-08-14 17:29:26",
+      "album": {
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
+      },
+      "artists": [
+        {
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2026-08-14 17:29:26",

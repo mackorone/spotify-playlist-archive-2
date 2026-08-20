@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,764 likes - 376 songs - 16 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,822 likes - 376 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -385,4 +385,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 375 | [As Seasons Turn](https://open.spotify.com/track/4YOo4NUYoNqT6eFPr5tBnW) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [As Seasons Turn](https://open.spotify.com/album/69td0JnREhF7Xy0FY8WWrz) | 3:00 |
 | 376 | [Vero](https://open.spotify.com/track/5YobMEz6i6p0QuT17Fk4dQ) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Vero](https://open.spotify.com/album/2tEkfVYGyaMJRI6YGHSdrX) | 2:15 |
 
-Snapshot ID: `AAAAAOhtHDGazxojFxR5JHjjPa/1otnl`
+Snapshot ID: `AAAAAPUGu1uubpIQUm0zymycYFmDoJsr`

@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 47 | [EE\-OO ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢](https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [GOBLIN](https://open.spotify.com/artist/6vfRizJ3fbwxBxyEzZoEfG) | [EE\-OO ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢](https://open.spotify.com/album/7rqFyCqT3DczGfy4Ib873J) | 2:51 |
 | 48 | [BIZARRO](https://open.spotify.com/track/4K5T3rcZiETa8wVT9YnoJf) | [Ian Iris](https://open.spotify.com/artist/6CdLBoFNKbvBZudfOoRac4) | [BIZARRO](https://open.spotify.com/album/4MfQFUcrSMsWSHD3w0r83J) | 2:56 |
 
-Snapshot ID: `AAAAAMiG7JZpgXMVDd/O0FC+BOgvexQf`
+Snapshot ID: `AAAAAFVrzlPfXpB3nt7StQA2YhNyAb+w`

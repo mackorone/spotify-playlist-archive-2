@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,293 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,307 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 11 | [Puerto Tirol](https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:39 |
 | 12 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 |
 | 13 | [El Guachito](https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:00 |
-| 14 | [Seleccion de temas enganchados](https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 3:30 |
-| 15 | [Retorno](https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V) | [Trio Cocomarola](https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe) | [20 Superéxitos Originales, Vol\. 2](https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt) | 2:57 |
+| 14 | [Retorno](https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V) | [Trio Cocomarola](https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe) | [20 Superéxitos Originales, Vol\. 2](https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt) | 2:57 |
+| 15 | [Seleccion de temas enganchados](https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 3:30 |
 | 16 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
 | 17 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 |
 | 18 | [Borracho Sin Destino](https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0) | [Los Palmareños](https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5) | [Los Palmareños 23 Años](https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj) | 4:19 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 62 | [Baile de Campo](https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn) | [Los Taitas del Chamame](https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u) | [Baile de Campo](https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g) | 2:45 |
 | 63 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 |
 | 64 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
-| 65 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
-| 66 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
+| 65 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
+| 66 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
 | 67 | [Bien picadito](https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN) | [Los Taitas](https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:48 |
 | 68 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
 | 69 | [Jamás Te Podré Olvidar](https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh) | [Rosendo y Ofelia](https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j) | [Los 20 Años de Rosendo y Ofelia](https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC) | 2:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [La Changa de los Domingos \- Chamamé](https://open.spotify.com/track/1C58csh64wznZj64hwV9gx) | [Anibal Maldonado](https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi), [Silvio Quintana](https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ) | [Si el Campo Crece, Crece el País](https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ) | 4:07 |
 | 90 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
 
-Snapshot ID: `AAAAAHRHiZTKem5n8OBXFEknQEcldLU5`
+Snapshot ID: `AAAAALBRpH71UsbZxWB6z1lsvrLQ6NAE`

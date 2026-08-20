@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123628,
+  "num_followers": 123657,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC4Xd2avjBVwsIVGlt71o27PIR0R",
+  "snapshot_id": "AAAAAPLvBDHEcKPbnB0ELEUOUNtT5DMx",
   "tracks": [
     {
       "added_at": "2026-08-13 23:54:21",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-08-13 23:54:21",
       "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        }
-      ],
-      "duration_ms": 163754,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
-    },
-    {
-      "added_at": "2026-08-13 23:54:21",
-      "album": {
         "name": "NG\u1ef0A \u00d4",
         "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2026-08-13 23:54:21",
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 163754,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
     },
     {
       "added_at": "2026-08-13 23:54:21",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-08-13 23:54:21",
       "album": {
-        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
-      },
-      "artists": [
-        {
-          "name": "OgeNus",
-          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 220289,
-      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
-    },
-    {
-      "added_at": "2026-08-13 23:54:21",
-      "album": {
         "name": "Ch\u1ea5m H\u1ebft",
         "url": "https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 186823,
       "name": "Ch\u1ea5m H\u1ebft",
       "url": "https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f"
+    },
+    {
+      "added_at": "2026-08-13 23:54:21",
+      "album": {
+        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
+      },
+      "artists": [
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 220289,
+      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
     },
     {
       "added_at": "2026-08-13 23:54:21",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-08-13 23:54:21",
       "album": {
-        "name": "ABG",
-        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
-      },
-      "artists": [
-        {
-          "name": "nhan.",
-          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
-        },
-        {
-          "name": "Xuanpac",
-          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ABG",
-      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
-    },
-    {
-      "added_at": "2026-08-13 23:54:21",
-      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 175876,
       "name": "HOP ON DA SHOW",
       "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
+    },
+    {
+      "added_at": "2026-08-13 23:54:21",
+      "album": {
+        "name": "ABG",
+        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
+      },
+      "artists": [
+        {
+          "name": "nhan.",
+          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
+        },
+        {
+          "name": "Xuanpac",
+          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ABG",
+      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
     },
     {
       "added_at": "2026-08-13 23:54:21",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-08-13 23:54:21",
       "album": {
-        "name": "ADAMN",
-        "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
+        "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
+        "url": "https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2"
       },
       "artists": [
         {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+          "name": "Only C",
+          "url": "https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
         }
       ],
-      "duration_ms": 223500,
-      "name": "ADAMN",
-      "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
+      "duration_ms": 294534,
+      "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
+      "url": "https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8"
     },
     {
       "added_at": "2026-08-13 23:54:21",

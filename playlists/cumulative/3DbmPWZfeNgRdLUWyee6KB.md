@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,405 songs - 3 day 9 hr 43 min
+1,407 songs - 3 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Ein Süßer Engel](https://open.spotify.com/track/2304rhSB5b5tAhhZiFvDra) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [Ein Süßer Engel](https://open.spotify.com/album/2Hf27cuq6NKu1lVQwUlA4o) | 3:18 | 2026-04-21 | 2026-06-05 |
 | [El Líder de la Resistencia](https://open.spotify.com/track/0kkhyeTVPkvivVkibJ2Y4e) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [El Líder de la Resistencia](https://open.spotify.com/album/3XclqzGpAiDblQgp2S8H5y) | 3:44 | 2026-01-02 | 2026-02-03 |
 | [Empoderiega \(Bestia Y Bella\)](https://open.spotify.com/track/5V9v5Dr2fLncmy6vg4f2rl) | [Hadas sin Alas](https://open.spotify.com/artist/7Gw4rewg7A9puzrVESmffc) | [Empoderiega \(Bestia Y Bella\)](https://open.spotify.com/album/4Q8c2R2bU3v47JiF0a6lv7) | 3:05 | 2026-05-18 | 2026-07-19 |
+| [Empreinte](https://open.spotify.com/track/1tK4igtCBcBdrylvPCljta) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [...Et de Delphine Volange le ciel était toujours sans nouvelles](https://open.spotify.com/album/58NYl8v1T3BJbX2SxDF7Lx) | 3:11 | 2026-08-19 |  |
 | [EN ESPERA / ART003](https://open.spotify.com/track/5RuWAYiWD1rxxK5kSXWgWf) | [Ąries](https://open.spotify.com/artist/7q8PpFvy4KQSDU0vdvRU8m) | [EN ESPERA / ART003](https://open.spotify.com/album/5m48WmmY85NOCvcvTWykjB) | 2:13 | 2026-02-16 | 2026-03-15 |
 | [En ti](https://open.spotify.com/track/5PIF9tnyyUOvzwEq9BNTge) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 4:11 | 2026-03-08 | 2026-04-12 |
 | [En ti](https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [En ti](https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA) | 4:11 | 2025-11-24 | 2026-01-05 |
@@ -671,6 +672,7 @@
 | [Little Rays Of Sunshine](https://open.spotify.com/track/5Vr2F37pEJJF5Bh98wiIPR) | [The Haze](https://open.spotify.com/artist/6iUcuJFopb8XcXduZjuGJe) | [Little Rays Of Sunshine](https://open.spotify.com/album/5369DhLq6cl4u04Vr5hxZE) | 4:37 | 2026-06-23 | 2026-07-19 |
 | [Little Wonders](https://open.spotify.com/track/0uEZXhpxqigo36E5NMQETt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Little Wonders](https://open.spotify.com/album/4mVtkDM3Bf02KEege14QMx) | 3:38 | 2026-04-21 | 2026-06-05 |
 | [Lo que vivimos allí](https://open.spotify.com/track/7HsRI48PwiHlUzebkWHALn) | [Saúl](https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r) | [Lo que vivimos allí](https://open.spotify.com/album/0eNIznu3gbDHwUZHFfvXaw) | 4:15 | 2026-08-18 |  |
+| [Loin \- Radio Edit](https://open.spotify.com/track/0bDZY8NKhpgZnDfhyMzUUt) | [Perrine Hope](https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw) | [Loin](https://open.spotify.com/album/08dxpZlDC9PfHQJrmJN6Th) | 3:59 | 2026-08-19 |  |
 | [Lola L'ammazzasette](https://open.spotify.com/track/0ChYDHlnBom7xScnIrEIzD) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Lola L'ammazzasette](https://open.spotify.com/album/734Xm0spmPwATfcJ02mfwF) | 5:00 | 2023-04-20 | 2025-11-29 |
 | [Lola L'ammazzasette \(alt\. Vers\)](https://open.spotify.com/track/5wKRAY1W3ZAfs8dm06BydE) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:51 | 2023-04-27 | 2025-11-29 |
 | [London](https://open.spotify.com/track/5PEGPaTSfkWMSlnhoTKHky) | [Love Juliet](https://open.spotify.com/artist/1YS15EpvCxpGL5SeHcmCqb) | [London](https://open.spotify.com/album/2QgKRzP7A3JTvPboYknP34) | 2:01 | 2026-07-14 | 2026-08-10 |

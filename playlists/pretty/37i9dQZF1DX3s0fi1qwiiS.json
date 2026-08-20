@@ -1,12 +1,12 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8272,
+  "num_followers": 8273,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPbcJhP4O9TebcxDTSXWJ/v+UGE",
+  "snapshot_id": "AAAAAMraU3+BF80JHVpA3w/dudMuIRoY",
   "tracks": [
     {
       "added_at": "2025-12-23 16:53:12",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 216699,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 216699,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "Big Thug Boys",
         "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
       "artists": [
         {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Drogba (Joanna)",
-      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -423,6 +407,22 @@
       "duration_ms": 233012,
       "name": "Low",
       "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
     },
     {
       "added_at": "2025-12-23 16:53:12",

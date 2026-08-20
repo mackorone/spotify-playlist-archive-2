@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,648 likes - 128 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,658 likes - 128 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 127 | [The Solemn Winds](https://open.spotify.com/track/2WNs03nteKfIQxIW47bb4G) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [The Solemn Winds](https://open.spotify.com/album/4BUDNraXSeJbNtIU29JD0l) | 3:01 |
 | 128 | [Something Peaceful](https://open.spotify.com/track/7vceZdDidUyqdRxOzaixvb) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Something Peaceful](https://open.spotify.com/album/0QKUJ45lB2LHIDtE2LEl0f) | 2:50 |
 
-Snapshot ID: `AAAAAJd0C/mlMqyI9kgFg0IvF4AHAuvn`
+Snapshot ID: `AAAAAOhPHitQ2e5hF5B3SaYjj9Va1wPf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,465 likes - 121 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,457 likes - 121 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 120 | [I Be Okay](https://open.spotify.com/track/3lru6TFuKGTO2TQn13mvnF) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [I Be Okay](https://open.spotify.com/album/6TNKtbUAb3PQwvCcGwykcX) | 2:46 |
 | 121 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |
 
-Snapshot ID: `AAAAANwwXPQKkDQQg6gNU1I4o9XF//t8`
+Snapshot ID: `AAAAAKNEB7dVoEBfTcXTqr3rekDoUA6f`

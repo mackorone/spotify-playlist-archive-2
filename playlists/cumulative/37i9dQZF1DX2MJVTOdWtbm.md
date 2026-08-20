@@ -4,7 +4,7 @@
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Immasoul
 
-528 songs - 1 day 3 hr 23 min
+532 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1vezmas](https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr) | [Svarez](https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23), [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [1vezmas](https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1) | 2:30 | 2024-01-26 | 2025-10-18 |
 | [2 almas](https://open.spotify.com/track/3x8wse8y39pB0hhu4MeEql) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [2 almas](https://open.spotify.com/album/3yxy66R5JTr8IjKUxlZn7T) | 3:21 | 2022-02-11 | 2022-09-07 |
 | [203](https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [203](https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm) | 2:50 | 2023-05-05 | 2023-06-20 |
+| [222](https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [222](https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh) | 1:55 | 2026-08-19 |  |
 | [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 | 2022-09-13 | 2025-03-08 |
 | [5 Pa Las 12](https://open.spotify.com/track/7L0pCzg4LmOxcPyk554aTa) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 3:55 | 2025-07-18 |  |
 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 | 2023-05-12 |  |
@@ -307,6 +308,7 @@
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-26 | 2025-10-18 |
 | [ME VERÁS CAER](https://open.spotify.com/track/45h1FZEzxTqErBkOyCrNFY) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [ME VERÁS CAER](https://open.spotify.com/album/34vQAKzZqfKBqp5jGzWfHx) | 3:50 | 2025-11-18 |  |
 | [MENTE DE AGUA](https://open.spotify.com/track/1sf7pnykFEJKQdQzjdV7aL) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [MENTE DE AGUA](https://open.spotify.com/album/3RI9UsS8XzaZCMwRIUmFAZ) | 3:39 | 2022-04-19 | 2022-05-05 |
+| [MI BB](https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [MI BB](https://open.spotify.com/album/2Jr3nTZOyITGzoZJ98LODA) | 3:52 | 2026-08-19 |  |
 | [Mi Cama](https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK) | [Iza](https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7) | [Mi Cama](https://open.spotify.com/album/4GqnDhhhYDasj34XJMIHrT) | 3:18 | 2022-02-11 | 2022-09-07 |
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-05-12 | 2025-04-12 |
 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 | 2023-03-10 |  |
@@ -317,6 +319,7 @@
 | [Mil Maneras de Morir](https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Mil Maneras de Morir](https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba) | 2:55 | 2022-12-06 | 2025-02-01 |
 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 | 2022-02-11 | 2023-01-24 |
 | [mirar, no tocar](https://open.spotify.com/track/71Ygz46nLYgYQpaliluecH) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [mirar, no tocar](https://open.spotify.com/album/2ihtefzpxZ4zb4oP7hJaAe) | 2:11 | 2025-05-09 |  |
+| [MIRI](https://open.spotify.com/track/1y7kb1VHAEUDXeBCHrCEos) | [Markitos Nasa](https://open.spotify.com/artist/2BX1LBkSzIUWBLmFfd1SQ0) | [MIRI](https://open.spotify.com/album/0zAk51cLVolkn75hiW8P9t) | 2:48 | 2026-08-19 |  |
 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 | 2023-10-06 | 2024-02-17 |
 | [Miénteme](https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Miénteme](https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w) | 3:24 | 2022-09-06 | 2023-05-13 |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2022-05-20 |  |
@@ -335,6 +338,7 @@
 | [NASA](https://open.spotify.com/track/2PpWdLhbZKTfnpdXHOW3KG) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [NASA](https://open.spotify.com/album/24oqIzpCXh0nhqKWuM3L4q) | 4:32 | 2024-03-08 |  |
 | [Nasty](https://open.spotify.com/track/17nkRnPyvv3JjH0bD4bn5f) | [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Nasty](https://open.spotify.com/album/00cYNAdq8e0rVOKWg7yZnS) | 2:21 | 2025-03-07 | 2025-11-19 |
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-18 | 2023-05-06 |
+| [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 | 2026-08-19 |  |
 | [Ni Me Conozco](https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:49 | 2025-01-31 | 2026-04-11 |
 | [Ni Verte](https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg) | [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ni Verte](https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS) | 3:03 | 2022-02-11 | 2022-07-29 |
 | [Nico Valdi produciendo a Juli Martorell](https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV) | [Nico Valdi produciendo a Juli Martorell](https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS) | 2:44 | 2023-05-12 | 2023-10-07 |

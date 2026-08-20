@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,179,543 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,179,041 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 79 | [Waiting To Know](https://open.spotify.com/track/7zZSpzhovJFLtjrX7KSz7P) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [What's Left Now?](https://open.spotify.com/album/06cs9heiNyqq8voYtnDnzF) | 2:56 |
 | 80 | [Lovesick](https://open.spotify.com/track/1sbUpyzfqdSSthfycDcf0e) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Lovesick](https://open.spotify.com/album/0ndzE2uEr9PRIUqu7C7lgQ) | 3:22 |
 
-Snapshot ID: `AAAAAKZSDhhCNpHJxa2OUf/TZi6qpf00`
+Snapshot ID: `AAAAAB57Q7uSCFDCVEY60HhLM9HE1AyX`

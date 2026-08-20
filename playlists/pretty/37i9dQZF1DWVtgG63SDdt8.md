@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: for KING & COUNTRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,216 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,238 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [How Long Till Heaven Comes Down](https://open.spotify.com/track/7CvAyotGIP8asMi1FPoJRY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [How Long Till Heaven Comes Down](https://open.spotify.com/album/19m15vevD2eQWIh6ChWeor) | 4:21 |
 | 100 | [I Just Feel Like Something Good Is About to Happen](https://open.spotify.com/track/6WU04iW58hgbVq4ktGqff8) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Angela Primm](https://open.spotify.com/artist/7CUYweCBLcGYHhXo0gt0ss), [Amy Perry](https://open.spotify.com/artist/4vLFAWkUU2ZDPqdI4NENjw) | [I Just Feel Like Something Good Is About to Happen](https://open.spotify.com/album/02l8k05zSlszR66dMtrBkm) | 4:15 |
 
-Snapshot ID: `AAAAAFyP9O/HTsR5jtt/xCQACV5b3d5E`
+Snapshot ID: `AAAAAEqp05Hpv7DNyocp7CvjHroq/EAx`

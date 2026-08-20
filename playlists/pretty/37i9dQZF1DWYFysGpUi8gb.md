@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring ugly \(uk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,986 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,949 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Lunch Money](https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Lunch Money](https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G) | 3:36 |
 | 80 | [Heaven Now](https://open.spotify.com/track/6754QvJuh7U1XbvgGPhPNv) | [Bone China](https://open.spotify.com/artist/4I1YcszhhE7Uq09zbZ1Yzw) | [Heaven Now](https://open.spotify.com/album/56GuwmBG96bnEg8448znWq) | 2:21 |
 
-Snapshot ID: `AAAAAKk8+pAkzhXT/O7R3GpJEtfa40Yh`
+Snapshot ID: `AAAAAImL1qABKz4SgZggAlfAtIvNg7rz`

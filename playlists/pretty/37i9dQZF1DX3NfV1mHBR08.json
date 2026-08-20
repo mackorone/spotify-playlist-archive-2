@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50127,
+  "num_followers": 50125,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN2/KQM0MMHeUkxHGVRCJ3wPS4ga",
+  "snapshot_id": "AAAAABI7A2+7zXtiproWjIExtID+NlSy",
   "tracks": [
     {
       "added_at": "2026-08-18 06:15:23",
@@ -171,18 +171,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Crushed",
-        "url": "https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt"
+        "name": "Red Moon: To You My Light",
+        "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Crushed",
-      "url": "https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT"
+      "duration_ms": 265586,
+      "name": "To You My Light (feat. LEE RAON)",
+      "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -203,22 +207,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Red Moon: To You My Light",
-        "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
+        "name": "Crushed",
+        "url": "https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "LEE RAON",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 265586,
-      "name": "To You My Light (feat. LEE RAON)",
-      "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+      "duration_ms": 242000,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -299,22 +283,6 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "WHO WE ARE",
-        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
-      },
-      "artists": [
-        {
-          "name": "AHOF",
-          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Cosmic Underdog",
-      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -335,6 +303,38 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "WHO WE ARE",
+        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
+      },
+      "artists": [
+        {
+          "name": "AHOF",
+          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Cosmic Underdog",
+      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "CHAT-SHIRE",
         "url": "https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 282887,
       "name": "Knees",
       "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "The Compass",
-        "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "The Compass",
-      "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -411,6 +395,22 @@
       "duration_ms": 256226,
       "name": "Bird On The Edge",
       "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "The Compass",
+        "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "The Compass",
+      "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
     },
     {
       "added_at": "2026-08-18 06:15:23",

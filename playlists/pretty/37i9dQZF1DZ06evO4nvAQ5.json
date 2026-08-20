@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16583,
+  "num_followers": 16585,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAA/aIGPcpAk4EJaiuTKBG2Q",
+  "snapshot_id": "aoOggAAAAADn/xA5WY/MzkkZoUBCwcJt",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monterey or Bust, Vol. 2",
+        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
         "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
       },
@@ -299,30 +323,6 @@
       "duration_ms": 254906,
       "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
       "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monterey or Bust, Vol. 2",
-        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Police and Thieves",
-      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
       },
@@ -735,22 +719,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
       },
       "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/06IOHmRGlqKmHWXd3cKOKl"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 210070,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6lwJuS0Jk7x0L5TEAjlNeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Break Us Apart",
-        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Break Us Apart",
-      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 243218,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Break Us Apart",
+        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Break Us Apart",
+      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
     },
     {
       "added_at": null,

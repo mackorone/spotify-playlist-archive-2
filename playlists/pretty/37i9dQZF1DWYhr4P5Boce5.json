@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210018,
+  "num_followers": 210028,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJZND9Uo4+v+hgl1QaV0KkCVQMC",
+  "snapshot_id": "AAAAAIeUCRJZms9Qd9GBzfHCD1oRhvGb",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Man I Was Made to Be",
-        "url": "https://open.spotify.com/album/32LxXkyg4zBtxvS7KhnwTf"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 223609,
-      "name": "Man I Was Made to Be",
-      "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "NOTHING NEW (I DO) - Wedding Version",
         "url": "https://open.spotify.com/album/0u5tMnp65M9EvT3SJ1sUTq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 274840,
       "name": "NOTHING NEW (I DO) - Wedding Version",
       "url": "https://open.spotify.com/track/2ExOEgZzYA0EULVB8ORnUv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Man I Was Made to Be",
+        "url": "https://open.spotify.com/album/32LxXkyg4zBtxvS7KhnwTf"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 223609,
+      "name": "Man I Was Made to Be",
+      "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "DANCING ON YOUR OWN (Wedding Version)",
-        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "DANCING ON YOUR OWN - Wedding Version",
-      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "ALBA",
         "url": "https://open.spotify.com/album/5H99GIWYw1JWhEHKZKjfx4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192256,
       "name": "Vamos bien",
       "url": "https://open.spotify.com/track/3ihSP5eDXLDUWCglJgj75b"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "DANCING ON YOUR OWN (Wedding Version)",
+        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "DANCING ON YOUR OWN - Wedding Version",
+      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -571,18 +571,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "All Over The World",
-        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+        "name": "Lovin' You",
+        "url": "https://open.spotify.com/album/7e3RIRGn1XMarrqnQqp0cl"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Ian Alxndr",
+          "url": "https://open.spotify.com/artist/0zVe7aGz41UYVpuAhtQ4xo"
         }
       ],
-      "duration_ms": 190434,
-      "name": "All Over The World",
-      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
+      "duration_ms": 196200,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/1BtxulmEZ8ydsLAKrq0mvv"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -603,22 +607,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Lovin' You",
-        "url": "https://open.spotify.com/album/7e3RIRGn1XMarrqnQqp0cl"
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        },
-        {
-          "name": "Ian Alxndr",
-          "url": "https://open.spotify.com/artist/0zVe7aGz41UYVpuAhtQ4xo"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/1BtxulmEZ8ydsLAKrq0mvv"
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "evergreen love",
-        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "evergreen love",
-      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 164047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3nlyxyjYTuGiJnUhgaKOuK"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "evergreen love",
+        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "evergreen love",
+      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Pray With",
+        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        }
+      ],
+      "duration_ms": 159166,
+      "name": "Pray With",
+      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Pray With",
-        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
-      },
-      "artists": [
-        {
-          "name": "Justin Radford",
-          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
-        }
-      ],
-      "duration_ms": 159166,
-      "name": "Pray With",
-      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Colton Dixon",
         "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
@@ -1111,42 +1111,6 @@
       "duration_ms": 200538,
       "name": "Can't Quit You",
       "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Tuff Luv",
-        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
-      },
-      "artists": [
-        {
-          "name": "Chris Caro",
-          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
-        },
-        {
-          "name": "Cristine Toca",
-          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Tuff Luv",
-      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1175,6 +1139,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Dear Future Husband",
         "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 268179,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+      },
+      "artists": [
+        {
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Forever With You (Freestyle Session)",
         "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 179285,
       "name": "true love",
       "url": "https://open.spotify.com/track/53NBKYQU6gkojWBCYmJcfT"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Capuchino de Amor",
+        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 298092,
+      "name": "Capuchino de Amor",
+      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Capuchino de Amor",
-        "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 298092,
-      "name": "Capuchino de Amor",
-      "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
     },
     {
       "added_at": "2026-07-29 15:15:10",

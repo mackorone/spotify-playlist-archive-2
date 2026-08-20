@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
 
-363 songs - 18 hr 44 min
+364 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Apetite](https://open.spotify.com/track/5ahZdgNIccEiKU1wmUJT45) | [Marina Miglio](https://open.spotify.com/artist/5OS4BFYXloJYiNnyqYK6bH) | [Apetite](https://open.spotify.com/album/7En7KqiCwS09bCfvBaPwMG) | 3:06 | 2022-01-07 | 2022-08-13 |
 | [Aquarela](https://open.spotify.com/track/61Ny2qdkksOsog0ECx7fbh) | [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [Aquarela](https://open.spotify.com/album/4R6fw3J4B2JL8XVEEHt85q) | 2:20 | 2026-02-27 | 2026-08-15 |
 | [Arengueiro](https://open.spotify.com/track/1eqCDSXJWFfJubteuPmBoa) | [dias blue](https://open.spotify.com/artist/6PwQl6FYCZ6vIiMCOu1rxu) | [Arengueiro](https://open.spotify.com/album/4ssl923wnEWMnOyQg8FCeT) | 3:40 | 2022-01-07 | 2022-08-13 |
-| [Arte Criminal](https://open.spotify.com/track/5EGfRyKrhpZHIPJiL8eY1V) | [Preta Chave](https://open.spotify.com/artist/1jzuoX8XrvC4Gmow3PwXnL), [Zoe Beats](https://open.spotify.com/artist/6zq2fMdTbO55tASP9LXhuO), [Tremsete](https://open.spotify.com/artist/2oBtoY9dBGVBNJdk6VLqcd) | [Black Key](https://open.spotify.com/album/70fsHclIYNNH2fwaiCFYVp) | 2:41 | 2026-08-14 |  |
+| [Arte Criminal](https://open.spotify.com/track/5EGfRyKrhpZHIPJiL8eY1V) | [Preta Chave](https://open.spotify.com/artist/1jzuoX8XrvC4Gmow3PwXnL), [Zoe Beats](https://open.spotify.com/artist/6zq2fMdTbO55tASP9LXhuO), [Tremsete](https://open.spotify.com/artist/2oBtoY9dBGVBNJdk6VLqcd) | [Black Key](https://open.spotify.com/album/70fsHclIYNNH2fwaiCFYVp) | 2:41 | 2026-08-14 | 2026-08-20 |
 | [Astronauta](https://open.spotify.com/track/2MLDDgTCtToJlRw7ucDvuD) | [Clara Castro](https://open.spotify.com/artist/328HvJJoTrRr4AwtJtlChp) | [ANA](https://open.spotify.com/album/4AuL6DddRMGe7NTdzqoU1e) | 3:45 | 2022-01-07 | 2022-09-03 |
 | [Até Aprender](https://open.spotify.com/track/1xHkiApXo80f6mFx5m1j0R) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Até Aprender](https://open.spotify.com/album/1z7vnN6zPwCmMCFNROCGKf) | 2:23 | 2022-01-07 | 2022-01-22 |
 | [até você](https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG) | [Bruna Croce](https://open.spotify.com/artist/6IPowWKx0KM4slm6cXAlC2) | [delirar](https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD) | 3:40 | 2023-01-27 | 2023-09-02 |
@@ -302,6 +302,7 @@
 | [Sem Leme](https://open.spotify.com/track/54vPD639848uvG5f8WtQev) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB) | [Sem Leme](https://open.spotify.com/album/5dY1FS6gwocGRlboNeWRVz) | 2:41 | 2022-05-27 | 2022-10-01 |
 | [Sem Noção](https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Giovanna](https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ) | 2:28 | 2022-02-04 | 2022-09-24 |
 | [Sensus Plenior](https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL) | [Arthur Alva](https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32) | [Consciência Elementar I](https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3) | 3:04 | 2022-04-15 | 2022-09-10 |
+| [SIM!](https://open.spotify.com/track/0FKiqBavvrUq9csPKGQxEY) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [NOVA BOSSA: aquele abraço aos ratos vivos](https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h) | 4:02 | 2026-08-19 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 | 2022-09-24 |
 | [Sinto Estrelas Em Você](https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo) | [Sinto Estrelas Em Você](https://open.spotify.com/album/1R4ooaw0K2tErUROdmmSVS) | 2:56 | 2022-01-07 | 2022-04-23 |
 | [sinto saudade](https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [sinto saudade](https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk) | 2:30 | 2026-02-27 |  |

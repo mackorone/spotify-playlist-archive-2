@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,856 likes - 86 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,858 likes - 86 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 85 | [Summer \(We Didn't Know\)](https://open.spotify.com/track/5LL4QCBj53zCWQuEvbXwtW) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Monkeekid](https://open.spotify.com/artist/0oKT4w3eZ1BXF6DsA8KEiH) | [Summer \(We Didn't Know\)](https://open.spotify.com/album/5fletvKgPNyjes7FZO1xb6) | 2:36 |
 | 86 | [Light](https://open.spotify.com/track/5M6VYDe6QSy8MWNYBrCXA0) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Light](https://open.spotify.com/album/0QNeMEkCJvaRFDBqIfgmzE) | 2:06 |
 
-Snapshot ID: `AAAAABkbhVRqwm/YfH17fwqrvW8Yd5YJ`
+Snapshot ID: `AAAAAFjimnNUuqkcBIv4pFSiNLBx3aov`

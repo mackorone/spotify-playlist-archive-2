@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-700 songs - 2 day 0 hr 19 min
+701 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,8 +182,8 @@
 | [Get Used To Me](https://open.spotify.com/track/2hPv8ZMQUo99h3wGVfebzQ) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/4Zr5Edzh28GdL6RTi2Ovsl) | 3:16 | 2023-12-30 | 2024-10-15 |
 | [Get Used To Me](https://open.spotify.com/track/3gZmeRaZOoooNWqfqKR0GO) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/3Bz3Kq37DkcJJT6JQCbWyA) | 3:16 | 2024-10-14 |  |
 | [Ghost Town](https://open.spotify.com/track/4V3aY13j3FUamYQ16TpWyO) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 4:13 | 2023-12-30 |  |
-| [Give A Little Love](https://open.spotify.com/track/3ZSqsAUFzHgzhSKifVP4Md) | [Albert West](https://open.spotify.com/artist/00BQd3WIu5VBBP2y1NvIrk) | [Songs I Love To Share](https://open.spotify.com/album/4FuFwDx8bMkGQyXRq846mx) | 3:23 | 2026-08-18 |  |
-| [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 | 2023-12-30 | 2026-08-19 |
+| [Give A Little Love](https://open.spotify.com/track/3ZSqsAUFzHgzhSKifVP4Md) | [Albert West](https://open.spotify.com/artist/00BQd3WIu5VBBP2y1NvIrk) | [Songs I Love To Share](https://open.spotify.com/album/4FuFwDx8bMkGQyXRq846mx) | 3:23 | 2026-08-18 | 2026-08-20 |
+| [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 | 2023-12-30 |  |
 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 | 2023-12-30 |  |
 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 | 2023-12-30 |  |
 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2023-12-30 | 2024-02-11 |
@@ -205,7 +205,7 @@
 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 | 2023-12-30 |  |
 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 | 2023-12-30 | 2026-02-15 |
 | [How Do I Live](https://open.spotify.com/track/55UDEdpcearZqBPO2aZaGV) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Songbook: A Collection Of Hits](https://open.spotify.com/album/4B7Py5rD8NGboCG8Fr0BHE) | 4:02 | 2026-08-17 | 2026-08-19 |
-| [How Do I Live \(2014 Re\-Recorded Version\)](https://open.spotify.com/track/4m9XlfZPQVbTCogCBMsteb) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Prizefighter: Hit After Hit](https://open.spotify.com/album/3uv9CneS6dRiW20j3chkMM) | 4:05 | 2026-08-18 |  |
+| [How Do I Live \(2014 Re\-Recorded Version\)](https://open.spotify.com/track/4m9XlfZPQVbTCogCBMsteb) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Prizefighter: Hit After Hit](https://open.spotify.com/album/3uv9CneS6dRiW20j3chkMM) | 4:05 | 2026-08-18 | 2026-08-20 |
 | [How Do I Live \(Plié\)](https://open.spotify.com/track/1VWZBRhJCy2TAQBO9nryWi) | [Nate Fifield](https://open.spotify.com/artist/1G1Aqwpne900Zzhw3nxNol) | [Pop Hits for Ballet Class, Vol\. 1](https://open.spotify.com/album/2hS9jwGmDYaQiZAZdoJTnf) | 3:41 | 2024-07-10 |  |
 | [How Do I Live \- Extended Mix](https://open.spotify.com/track/7jVkRbHbcw9wO5tNlBOiWR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:57 | 2024-07-10 |  |
 | [How Do I Live \- Songbook Version](https://open.spotify.com/track/5xM53GMJzt0g16Ke9islN4) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [\(Songbook\) A Collection Of Hits](https://open.spotify.com/album/4EXfiuerqSnUhJ7S4CS0Vj) | 4:03 | 2026-02-14 | 2026-08-18 |
@@ -373,6 +373,7 @@
 | [Love Will Lead You Back](https://open.spotify.com/track/0m8PenXC6y9fo0LaSd4vPw) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Arista Heritage Series: Taylor Dayne](https://open.spotify.com/album/08nkVfPFOyoL5vH3B0ehSn) | 4:38 | 2024-07-22 | 2024-11-07 |
 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 | 2023-12-30 |  |
 | [Loving You Is All I Know](https://open.spotify.com/track/2IKxEzeJaEDioeuxVMxtCs) | [Christina Undhjem](https://open.spotify.com/artist/32eduOoS9D0HT4LwQBkwp0) | [Christina Undhjem EP](https://open.spotify.com/album/77GQSMnOaY5HxEPVpFzkf9) | 3:59 | 2023-12-30 |  |
+| [Make Tonight Beautiful](https://open.spotify.com/track/0KHNfLZ2en7l3CVQf74IIW) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:42 | 2026-08-19 |  |
 | [Marshall's Theme \- I Need You](https://open.spotify.com/track/0ZKAcFfeylW0jhas028wc5) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:07 | 2023-12-30 |  |
 | [Marshall's Theme \- We Got the Law](https://open.spotify.com/track/2kexQpnNHASZqerAT9nPQt) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:05 | 2023-12-30 |  |
 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 | 2023-12-30 |  |

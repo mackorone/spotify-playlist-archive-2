@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: O'kenneth
+> Hottest bars coming live from the 233\.  Cover: AratheJay
 
-1,008 songs - 2 day 2 hr 23 min
+1,009 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [MENTUMI NKA](https://open.spotify.com/track/347kmwy6oj6or4Nmo0Ao3v) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:23 | 2026-07-17 |  |
 | [Mercy](https://open.spotify.com/track/0y4bmS7AAGcgKeHVWagEZt) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Mercy](https://open.spotify.com/album/4VWsMq1fQI0OmnOKQik8Io) | 2:59 | 2025-03-06 | 2025-03-14 |
 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-21 | 2025-12-19 |
+| [METICULOUS](https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 3:53 | 2026-08-19 |  |
 | [Meyere Ne Mempena](https://open.spotify.com/track/62EFmTw579LJUrXHSVsKeR) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Me Toaso](https://open.spotify.com/album/7DhTrjwQDpv1i0Q2nrkd1x) | 5:48 | 2025-03-06 | 2025-03-14 |
 | [Mhmm](https://open.spotify.com/track/6ohlaQjkpb0cMzaMF0VWfd) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [The Hardest \- EP](https://open.spotify.com/album/61kLuB0KVUCE6Rl2ZbFvzB) | 2:24 | 2026-03-16 | 2026-05-08 |
 | [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 | 2022-08-25 | 2024-06-01 |
@@ -794,7 +795,7 @@
 | [Self Medicate](https://open.spotify.com/track/4D9KVwEgdOBNjmmWSU160m) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Reverse Psychology](https://open.spotify.com/album/2rSa8agyGR0jQY4dMSCYeI) | 3:30 | 2025-04-04 | 2025-05-17 |
 | [september rush](https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [september rush](https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA) | 2:17 | 2026-02-27 | 2026-03-27 |
 | [SET ME FREE](https://open.spotify.com/track/7jbHIXPQpgMqnmX08fESFY) | [ACE ILLY](https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj) | [ACE ILLY Presents: FATHER OF ALL TRAPPERS.](https://open.spotify.com/album/3MvOvgt4y3WKvt4R967b8v) | 1:44 | 2024-06-28 | 2024-08-09 |
-| [Settings](https://open.spotify.com/track/6wbkxP1Iur92PhFVo5Vooo) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Criss Waddle](https://open.spotify.com/artist/1gtDtTEHbCnZYwsz9Xltfc) | [Settings](https://open.spotify.com/album/2KW55NDc5JTI3AFvyYhNgt) | 3:26 | 2026-08-07 |  |
+| [Settings](https://open.spotify.com/track/6wbkxP1Iur92PhFVo5Vooo) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Criss Waddle](https://open.spotify.com/artist/1gtDtTEHbCnZYwsz9Xltfc) | [Settings](https://open.spotify.com/album/2KW55NDc5JTI3AFvyYhNgt) | 3:26 | 2026-08-07 | 2026-08-20 |
 | [Sexual Healing](https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ) | [Ohene PD](https://open.spotify.com/artist/0s63VUGZb0adtZsJ1QLiuU), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Sexual Healing](https://open.spotify.com/album/4XsKn3Cv9kmeKNu6WIS9hm) | 3:10 | 2024-04-19 | 2024-04-26 |
 | [Sexy](https://open.spotify.com/track/2terxp9qCwuUULHBMzmbTU) | [CRUX GLOBAL](https://open.spotify.com/artist/6vlOng9ireAqlyOcRuehLt), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [B.Brefo](https://open.spotify.com/artist/5gWzR7oAi40m2VBOgGAtkv), [Svmora](https://open.spotify.com/artist/41W9Wjb7wu75xpPbnC9pCR) | [Sexy](https://open.spotify.com/album/1XDOdvowtFeF2P1bZ12WIT) | 2:31 | 2025-06-13 | 2025-07-18 |
 | [Shake your body](https://open.spotify.com/track/39VeapvJrz929FzPDKwLSl) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Shake your body](https://open.spotify.com/album/36olCS2GVkZgkzNVDtal8w) | 2:29 | 2025-07-18 | 2025-08-31 |

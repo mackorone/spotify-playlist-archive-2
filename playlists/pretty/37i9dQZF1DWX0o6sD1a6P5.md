@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,075 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,239 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [LÉWÉ](https://open.spotify.com/track/7y8M0iafbbORhIqIsNhy4R) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [LÉWÉ](https://open.spotify.com/album/6WwthXnlTCy9mrCL85Jfab) | 3:29 |
 | 50 | [Alive](https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive](https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH) | 3:27 |
 
-Snapshot ID: `AAAAAHEY20UMPu+NWDnjVKtMR3mVwhla`
+Snapshot ID: `AAAAAEqLWTBl5dUeYbTjH3TIqhyFnv+T`

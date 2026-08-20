@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Kunmie, 6uff, Bella Shmurda, Famous Pluto, Juls, Ayjaybobo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,710 likes - 47 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,763 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 46 | [Hotlife](https://open.spotify.com/track/0Hm1tmZ1qO63yr37w7ga9V) | [Adiba](https://open.spotify.com/artist/113vlBuupc3BLlAWHsoSsB) | [Hotlife](https://open.spotify.com/album/0yczguxbufII9c6LTcc9ME) | 2:42 |
 | 47 | [Motherfxcker](https://open.spotify.com/track/1D1Mp6lTvkAqTjbVewRkpQ) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Motherfxcker](https://open.spotify.com/album/3FUWRe4bQJOynPXqMIm0Zb) | 2:27 |
 
-Snapshot ID: `AAAAAMEloFVY/iwpi7U6mNTcwQG/E4O9`
+Snapshot ID: `AAAAAHDM8Qk197ycO+tVf07SkScpvuyr`

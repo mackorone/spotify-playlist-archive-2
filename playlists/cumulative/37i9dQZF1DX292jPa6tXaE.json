@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Revaan",
+  "description": "Discover the future of Punjabi Pop! Cover: Aishmeen",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1388,6 +1388,28 @@
       "duration_ms": 123510,
       "name": "Blink Eye",
       "url": "https://open.spotify.com/track/6UCtfVEZF5gZllt0uSW8Q7"
+    },
+    {
+      "album": {
+        "name": "Blooming",
+        "url": "https://open.spotify.com/album/6RJnbeK4yt386CfDs8rLbQ"
+      },
+      "artists": [
+        {
+          "name": "Jagga",
+          "url": "https://open.spotify.com/artist/0vy1HF3LklyMrtQtkexRvu"
+        },
+        {
+          "name": "Meavin",
+          "url": "https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Blooming",
+      "url": "https://open.spotify.com/track/6WvY45yULwoQsArA3CwTxn"
     },
     {
       "album": {
@@ -3826,7 +3848,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 176370,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/23MlHVusddJP6e2WAXFsqf"
@@ -5610,7 +5632,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 162857,
       "name": "ishq nawa",
       "url": "https://open.spotify.com/track/0U8G1K0vryUbIhQVl4LSh4"
@@ -6388,6 +6410,24 @@
       "duration_ms": 144000,
       "name": "Kan Akhiyaan",
       "url": "https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE"
+    },
+    {
+      "album": {
+        "name": "Kankaan",
+        "url": "https://open.spotify.com/album/27vMhG8woX8y5Z38PYjiyu"
+      },
+      "artists": [
+        {
+          "name": "Haavi",
+          "url": "https://open.spotify.com/artist/0wX3Q5NGB6Ixsv2Ii8P1Vy"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Kankaan",
+      "url": "https://open.spotify.com/track/2ztRxRCLjEnfTbPB5GoaWJ"
     },
     {
       "album": {
@@ -7510,7 +7550,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 149655,
       "name": "Lor",
       "url": "https://open.spotify.com/track/7DladMs1vpSTAESJEOmKhm"
@@ -8220,6 +8260,28 @@
       "duration_ms": 172173,
       "name": "Mi Precioso",
       "url": "https://open.spotify.com/track/6dD2PSY0pVmkQKsyflBR92"
+    },
+    {
+      "album": {
+        "name": "Midnight Rush",
+        "url": "https://open.spotify.com/album/4l3FOZJSpI3jnuAG8eds82"
+      },
+      "artists": [
+        {
+          "name": "Aishmeen",
+          "url": "https://open.spotify.com/artist/5TlAKbGTaPMgZdrMnaQfq1"
+        },
+        {
+          "name": "Rubab",
+          "url": "https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Midnight Rush",
+      "url": "https://open.spotify.com/track/0NpRYPoLBZX5MD5knyA70N"
     },
     {
       "album": {
@@ -9759,6 +9821,28 @@
     },
     {
       "album": {
+        "name": "Pariyaan Di",
+        "url": "https://open.spotify.com/album/3i5F8fFyxGVWc5aEFZgrNj"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Koli",
+          "url": "https://open.spotify.com/artist/2BU3ZzyJWDprXbwtEdIUz3"
+        },
+        {
+          "name": "Rahul Dayal",
+          "url": "https://open.spotify.com/artist/2OwjtEG0CTyBinxl9f6fen"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137808,
+      "name": "Pariyaan Di",
+      "url": "https://open.spotify.com/track/4Kb75fmgfLIUVP0Ure3vpK"
+    },
+    {
+      "album": {
         "name": "Parkh Bhave",
         "url": "https://open.spotify.com/album/75YscDnQn0CybrsMGlHMyd"
       },
@@ -10994,6 +11078,28 @@
       "duration_ms": 131989,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf"
+    },
+    {
+      "album": {
+        "name": "Saun Di Jhadi",
+        "url": "https://open.spotify.com/album/5haRy27qHBvaviq5edWlVo"
+      },
+      "artists": [
+        {
+          "name": "Waras",
+          "url": "https://open.spotify.com/artist/6JBbWsnxViz8AY8MGJqcIw"
+        },
+        {
+          "name": "The Sam",
+          "url": "https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Saun Di Jhadi",
+      "url": "https://open.spotify.com/track/5qqxfRniWjoW5VhYiQn0xy"
     },
     {
       "album": {
@@ -12356,7 +12462,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 142040,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/2ZaNYvTJZsF6msJ2CvGVg6"

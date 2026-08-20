@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,296 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,350 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Yaa may gunge \(feat\. Ada Boy\)](https://open.spotify.com/track/3Ws14g2Yds0CKG8N1uLcoY) | [Dip Doundou Guiss](https://open.spotify.com/artist/42A1uhQc0Rln9VlVGsll0m), [Ada Boy](https://open.spotify.com/artist/3Q5HE3vJBJk1roo9fv9uGP) | [Yaa may gunge \(feat\. Ada Boy\)](https://open.spotify.com/album/1EM4DWWi6HLJwMLfT5DXul) | 3:35 |
 | 50 | [FAIS ÇA BIEN](https://open.spotify.com/track/71ETExWimdrcoAbUio6b79) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [FAIS ÇA BIEN](https://open.spotify.com/album/1kLHbf3rbvaRB7CbEjauC5) | 3:33 |
 
-Snapshot ID: `AAAAALcDBYRwaJQjh10Ts/CshjyIEH96`
+Snapshot ID: `AAAAAG9vNmMcRtG265QPlm6eKfZ9atb1`

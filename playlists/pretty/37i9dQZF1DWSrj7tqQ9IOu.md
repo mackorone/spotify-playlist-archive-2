@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,620 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,593 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 23 | [creeper](https://open.spotify.com/track/2Dw0lHrjRQjDIM44WOU0Ao) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [creeper + seed](https://open.spotify.com/album/6ztPWOeqHhdfndBwbjlk25) | 2:40 |
 | 24 | [QVC \(feat\. Leon Thomas\)](https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 3:04 |
 | 25 | [TEMPERATURE](https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [TEMPERATURE](https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy) | 2:37 |
-| 26 | [Demain t'es ou](https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Demain t'es ou](https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk) | 2:36 |
-| 27 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
+| 26 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
+| 27 | [Demain t'es ou](https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Demain t'es ou](https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk) | 2:36 |
 | 28 | [Alone Again \(feat\. Ogi\)](https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [It Could Be Worse](https://open.spotify.com/album/0rer7IRAdCVWcLODgq2rX0) | 3:08 |
 | 29 | [Bad Guys](https://open.spotify.com/track/1nU4xSpaKjOaGzzcx7XddG) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:17 |
 | 30 | [Faut pas m’faire chier](https://open.spotify.com/track/51bDuV05lEHRxBIFixVTBN) | [STI](https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Faut pas m’faire chier](https://open.spotify.com/album/00XKhwHIvJ3TJKyGE2Qmqc) | 3:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Piscine de billets avec débordement](https://open.spotify.com/track/6aWTFEVWMVPUccV0kqQqAX) | [Lexsaburo](https://open.spotify.com/artist/4gdGGF5b5CmhxYophp5yRz), [Oni Kira](https://open.spotify.com/artist/4whmrth50Dva4FQMy3qAv4) | [Tivoli](https://open.spotify.com/album/2a4RR5W80WHsCWK0jJhW78) | 2:22 |
 | 40 | [endless blooming](https://open.spotify.com/track/1rSMBhv5oAKhHxprdZf21G) | [Kaba](https://open.spotify.com/artist/18BCzFFTNty1NeevlaCjuN), [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA), [Goldie B](https://open.spotify.com/artist/0jFDyXLQ2Dx2TcjDOFZ0dv) | [endless blooming](https://open.spotify.com/album/7JrZPjTyVE4A0Vn9Qiq59E) | 3:49 |
 
-Snapshot ID: `AAAAAACP5uwCUjohleX5dXrpHBM5Ruld`
+Snapshot ID: `AAAAAF4hloDTTVy03v8XNItOufbl7seD`

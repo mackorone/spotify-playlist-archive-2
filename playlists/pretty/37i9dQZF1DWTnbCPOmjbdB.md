@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Margaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,499 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,533 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 |
 | 60 | [Halina](https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Halina](https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK) | 3:50 |
 
-Snapshot ID: `AAAAAEBk/MAw9BY+OEIzmNeXTnsfzR+A`
+Snapshot ID: `AAAAALh8bU9Vh2Af/6ZHDa5CKfY/f+3h`

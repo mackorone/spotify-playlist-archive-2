@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 73 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101 likes - 73 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 72 | [10 Little Kittens](https://open.spotify.com/track/1vfU3WHUOQVZYCVCJ9ha1Z) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Bounce, Sing, Learn, Sing](https://open.spotify.com/album/5Lh1JNy8pXh7tWOO17TbEG) | 2:23 |
 | 73 | [Haven't Got a Pet Yet](https://open.spotify.com/track/3KE82OPaRz4g2fCxerNkjI) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:28 |
 
-Snapshot ID: `AAAAAKvKguPQMyT6awoqrej3f2eJbaEm`
+Snapshot ID: `AAAAAIkqAZf91aViHi58EWvtaogB8Chp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: fred again.\. & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,554 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,419 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 30 | [TREMENDA](https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:09 |
 | 31 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 |
 | 32 | [WhyWhyWhy](https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [WhyWhyWhy](https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS) | 2:39 |
-| 33 | [como un imán](https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0) | [Claudia Arenas](https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po) | [como un imán](https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7) | 2:46 |
+| 33 | [Mi Vicio Tu](https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg) | [Julian Solorzano](https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D) | [Mi Vicio Tu](https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU) | 4:53 |
 | 34 | [Estratosférico](https://open.spotify.com/track/7i2CjzSK2cHAQkkWNoQz2O) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:05 |
-| 35 | [Mi Vicio Tu](https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg) | [Julian Solorzano](https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D) | [Mi Vicio Tu](https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU) | 4:53 |
+| 35 | [como un imán](https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0) | [Claudia Arenas](https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po) | [como un imán](https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7) | 2:46 |
 | 36 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 |
 | 37 | [24/7](https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [24/7](https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx) | 2:20 |
 | 38 | [TRX](https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [TRX](https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO) | 3:20 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 44 | [LINEAS PARALELAS](https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LINEAS PARALELAS](https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7) | 3:02 |
 | 45 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
 | 46 | [Los Monsters](https://open.spotify.com/track/6CFs11pe4834Zkm9tqJGB6) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Perreando a Escondidas](https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7) | 2:26 |
-| 47 | [Encontrarme Contigo](https://open.spotify.com/track/5PdbXImWW5Xi9UCKUSpBeF) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Encontrarme Contigo](https://open.spotify.com/album/5knAELxSn0BZOb1nmVuD2U) | 2:20 |
-| 48 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
+| 47 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
+| 48 | [Encontrarme Contigo](https://open.spotify.com/track/5PdbXImWW5Xi9UCKUSpBeF) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Encontrarme Contigo](https://open.spotify.com/album/5knAELxSn0BZOb1nmVuD2U) | 2:20 |
 | 49 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 | 50 | [Xclusiva](https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:21 |
 
-Snapshot ID: `AAAAABk3081GENt2/5J/dpylt1Uhb4Xc`
+Snapshot ID: `AAAAAL694u7ckLTH/IIdjAHQDnZrqshI`

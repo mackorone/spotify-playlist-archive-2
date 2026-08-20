@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdOLsVmI5vh.md) - [plain]
 
 > Listen to the official soundtrack and score of People We Meet on Vacation, now on Netflix\. Plus, author Emily Henry's picks for Poppy and Alex's couple’s road trip playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,368 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,412 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdOLsVmI5vh.md) - [plain]
 | 34 | [Only Weird With You](https://open.spotify.com/track/1LbJEAjCcwyULuzmN52Ux9) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [People We Meet On Vacation \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6tvHOntZ4RvxUKEgFCCRD7) | 2:21 |
 | 35 | [She's All Yours](https://open.spotify.com/track/1geVSGbKnhYv3NngfPuYXZ) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [People We Meet On Vacation \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6tvHOntZ4RvxUKEgFCCRD7) | 1:28 |
 
-Snapshot ID: `AAAAAFobamXbOfp3Gig1sTKs+ACQ8P4a`
+Snapshot ID: `AAAAAA+EdMt8fdYSNBe3h0TLaI+hNwC3`

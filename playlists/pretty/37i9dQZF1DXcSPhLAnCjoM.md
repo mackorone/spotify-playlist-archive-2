@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Frérot" de Jérémy Frerot est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,470 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,400 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Peu importe](https://open.spotify.com/track/3MoSqy7oUtQBSAcc4eQA3M) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Peu importe](https://open.spotify.com/album/3WmpDb4ONYEs5UPkHvNCZN) | 2:58 |
 | 40 | [C'est à qui le tour](https://open.spotify.com/track/6DMW3BD1VPidFiWuXH3b4N) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [C'est à qui le tour](https://open.spotify.com/album/4S4U6uyaN5a6t5WLt5Z3nN) | 2:49 |
 
-Snapshot ID: `AAAAAGBxoM6VrIXhypuSAcbAKFO8estq`
+Snapshot ID: `AAAAADyoHXJ4k0z9XCt+NQhqqGyEWSd+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,774 likes - 80 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,704 likes - 80 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 13 | [CRISTO \(Inglés/Español\)](https://open.spotify.com/track/3bU3Rv06nnFepEacgUwzYT) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Austin Benjamin](https://open.spotify.com/artist/1mLZGJNyogDspBWiSgAfcR) | [CRISTO \(Inglés/Español\)](https://open.spotify.com/album/3ABQFxUoKmbFzPVL6MHcyK) | 6:46 |
 | 14 | [The Lord Is Here](https://open.spotify.com/track/43pTyhLJ4zWIsdAO9tHtbz) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When You're In The Room](https://open.spotify.com/album/5QrP58DRf8eY6EbwlAfD53) | 4:56 |
 | 15 | [Heaven Collide](https://open.spotify.com/track/6napmh5WfgrThYbkwognKx) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heaven Collide](https://open.spotify.com/album/6y8gYo7orW8jbpY3EAqpRe) | 5:16 |
-| 16 | [Waiting To See What God Does \- From Nashville](https://open.spotify.com/track/2cmXYy8PXda1ey8BV4H6Pe) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Waiting To See What God Does \(From Nashville\)](https://open.spotify.com/album/29YtzhtTyRSLnHJI39Goia) | 4:14 |
+| 16 | [Waiting To See What God Does \- Live](https://open.spotify.com/track/2cmXYy8PXda1ey8BV4H6Pe) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Waiting To See What God Does \(Live\)](https://open.spotify.com/album/29YtzhtTyRSLnHJI39Goia) | 4:14 |
 | 17 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
 | 18 | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L) | 9:54 |
 | 19 | [WORD OF GOD](https://open.spotify.com/track/3lDzo0tVeR6nvS44hnhThS) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steph Wong](https://open.spotify.com/artist/3L1PkIj3jbF7jmRbKztyvd) | [IT NEEDS TO BE SAID SOME MORE](https://open.spotify.com/album/1fLp14hxMusqbqM9eAwncl) | 4:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [Burning Hearts](https://open.spotify.com/track/0fY0C9BjglHljAPwNtMwtv) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Burning Hearts](https://open.spotify.com/album/3l8uhqpjdts2kncGoOQBTj) | 5:48 |
 | 80 | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH) | 4:32 |
 
-Snapshot ID: `AAAAAHjMH3Vn55vzVqnIeNfdjB+dFg+7`
+Snapshot ID: `AAAAAKYD/gGR9jBkJHwVsn9MLjMRvYVH`

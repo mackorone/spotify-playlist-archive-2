@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,817 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,860 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [À l'infini](https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [À l'infini](https://open.spotify.com/album/5a3hsHzXxYXwfnO1fG6mwQ) | 3:27 |
 | 40 | [Relou](https://open.spotify.com/track/3g3DRVGahKUq02yl1XfTgv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Relou](https://open.spotify.com/album/5EWCre9KILsuCbV6q5NZya) | 3:26 |
 
-Snapshot ID: `AAAAAK/uaqbB4ufUrQ9wXH9hjwSchmIz`
+Snapshot ID: `AAAAAOcpVHdSStnz8LyRbbZ1iloiby1D`

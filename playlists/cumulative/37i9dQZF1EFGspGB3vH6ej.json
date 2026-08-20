@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 266826,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
@@ -1869,6 +1869,28 @@
     },
     {
       "album": {
+        "name": "Christmas Hits Top 100",
+        "url": "https://open.spotify.com/album/5wkfjKBXZNn0EDqWAMHCAx"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "John Rarig",
+          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/6D6Kyn6JEhccV9YIUmNDFe"
+    },
+    {
+      "album": {
         "name": "Mariah Carey's Magical Christmas Special (Apple TV+ Original Soundtrack)",
         "url": "https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84"
       },
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 140219,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) / House Top Celebration (feat. Snoop Dogg & Jermaine Dupri)",
       "url": "https://open.spotify.com/track/6OkevUybUFp70w4PhGdo63"
@@ -1942,7 +1964,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 118979,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2lnhv1xueIli5KwybGi9Vk"
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 257921,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
@@ -3600,7 +3622,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 307053,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4RoP39JtCDWg2fQDsFV8sZ"
@@ -3626,6 +3648,28 @@
       "duration_ms": 308306,
       "name": "Miss You (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/3Z58wUS9esAmboMQOwNsx1"
+    },
+    {
+      "album": {
+        "name": "Living Off Xperience",
+        "url": "https://open.spotify.com/album/1BZPE2vizQkj1ZmD68FqGr"
+      },
+      "artists": [
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236848,
+      "name": "Miss You feat. T-Pain",
+      "url": "https://open.spotify.com/track/2ZHRKqieFz0znHuUoRizSt"
     },
     {
       "album": {
@@ -5270,7 +5314,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 288640,
       "name": "Through The Rain",
       "url": "https://open.spotify.com/track/0mvtBgpiAg6fPg7ec7lxE9"
@@ -5670,7 +5714,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"

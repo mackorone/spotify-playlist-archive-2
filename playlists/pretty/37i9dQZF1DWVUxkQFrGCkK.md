@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,436 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,478 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Snakes](https://open.spotify.com/track/7KvYoLTnCDc5DtsOqKj5T2) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Rami](https://open.spotify.com/artist/69JMnvEdSQznAmeSWKH8kQ) | [Back 2 Tha Funk EP](https://open.spotify.com/album/2J3M1KVjW4rtgoCclYylbb) | 3:56 |
 | 100 | [WHAT!](https://open.spotify.com/track/1vnEr5iuAEGZco3ryl6kfg) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803), [Yuvèe](https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f) | [WHAT!](https://open.spotify.com/album/032Gx82p6cpYLnPfe1ixFX) | 3:19 |
 
-Snapshot ID: `AAAAAJWVXEHRPmAX1oA54KjgVq5++s+5`
+Snapshot ID: `AAAAABvBJP2AErMJdIkRF9QkbtsiUT0a`

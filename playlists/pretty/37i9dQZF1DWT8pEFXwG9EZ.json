@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 193892,
+  "num_followers": 193932,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMRgFVtAMDfhiJ9Xt1sxTd7Ftnp",
+  "snapshot_id": "AAAAAOcfe7tHAiTUwqIgnO1pFlzfmYBN",
   "tracks": [
     {
       "added_at": "2025-12-11 09:06:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 313440,
       "name": "He's Younger Than You Are - From \"Alfie\" Score",
       "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Bullitt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "Room \"26\"",
-      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Singing in the Rain (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 175226,
       "name": "Singing in the Rain",
       "url": "https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Bullitt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Room \"26\"",
+      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
+        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+      },
+      "artists": [
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Everybody Loves My Baby",
+      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 119986,
       "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
       "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
-        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
-      },
-      "artists": [
-        {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Everybody Loves My Baby",
-      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 152599,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2025-12-11 09:06:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 162 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 162 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 91 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
 | 92 | [Killing Me](https://open.spotify.com/track/0KOMWYw0mEKMvSCUYXkBS7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:30 |
 | 93 | [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 |
-| 94 | [VIELLEICHT \- Intro](https://open.spotify.com/track/1AsxPpTZji5ID11pwrmZ3t) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [I SEE YOU WHEN I SEE YOU](https://open.spotify.com/album/6opoFip0TslsRO61u8baue) | 1:38 |
-| 95 | [Dolce Amore \(feat\. Anica Russo\)](https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Dolce Amore](https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO) | 2:45 |
+| 94 | [Dolce Amore \(feat\. Anica Russo\)](https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Dolce Amore](https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO) | 2:45 |
+| 95 | [VIELLEICHT \- Intro](https://open.spotify.com/track/1AsxPpTZji5ID11pwrmZ3t) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [I SEE YOU WHEN I SEE YOU](https://open.spotify.com/album/6opoFip0TslsRO61u8baue) | 1:38 |
 | 96 | [Memories](https://open.spotify.com/track/6mx1wwYMsr9H7BEFZ3Cu49) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Memories](https://open.spotify.com/album/1iEc4h8qjfHVfY1lqLtRaH) | 2:02 |
 | 97 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
 | 98 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 |
@@ -122,10 +122,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 112 | [Island](https://open.spotify.com/track/5VU3ScIDAKRmdnuWPNTxeW) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Island](https://open.spotify.com/album/4fl7FMAj60Hlj1pfWauR3R) | 2:38 |
 | 113 | [Do Not Disturb](https://open.spotify.com/track/4UCTlHt2pZxZ2l500bOQKn) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Do Not Disturb](https://open.spotify.com/album/6pP96QZ9sIST5vC8OoijqV) | 2:47 |
 | 114 | [Jedes Mal](https://open.spotify.com/track/1RGO7qy0nZgDy5ylWfqoql) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:36 |
-| 115 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 |
-| 116 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 |
+| 115 | [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 116 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 |
 | 117 | [Optimist](https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Optimist](https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b) | 2:56 |
-| 118 | [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 118 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 |
 | 119 | [Company](https://open.spotify.com/track/2xytoZCAVsVvVKjfnZiaKS) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Company](https://open.spotify.com/album/5YqyGd8Ud4O3onn9k32OYI) | 2:16 |
 | 120 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 |
 | 121 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcZ8DAAAAADx0kwWpdAYubhy6DDXNF1U`
+Snapshot ID: `AcaBrAAAAAC8Wd7lCI/l45iIkP0/nHdS`

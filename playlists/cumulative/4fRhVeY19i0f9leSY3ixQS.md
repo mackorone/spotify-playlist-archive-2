@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,112 songs - 4 day 22 hr 12 min
+2,118 songs - 4 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Alive Again](https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Alive Again](https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum) | 2:58 | 2026-03-26 | 2026-04-17 |
 | [Alive On Arrival](https://open.spotify.com/track/217vExrl85KAIJH12Cj0Kf) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Alive On Arrival](https://open.spotify.com/album/3ysx7tS96uHjOAzUjam9wI) | 1:59 | 2026-03-05 | 2026-03-31 |
 | [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 | 2026-01-15 | 2026-02-03 |
+| [All Hands On Deck](https://open.spotify.com/track/02fp6wiYg14qFl3uDMLWPj) | [The Sleeper Pick](https://open.spotify.com/artist/3Y8RcrLlHqhI768DoRNfke) | [Drama Queens & Party Scenes](https://open.spotify.com/album/7zWGjHG9OG1Kvq0NwRrRUi) | 3:11 | 2026-08-19 |  |
 | [all I can say](https://open.spotify.com/track/3HimN5yc5g2tF5a4B0Vxrw) | [Everything's Fine](https://open.spotify.com/artist/1NRMXgoBhJEOc5sKKsKuum) | [I guess](https://open.spotify.com/album/6KQ3iDLzDz34mf4C2zBmWT) | 2:26 | 2026-02-24 | 2026-03-28 |
 | [All I Have To Say](https://open.spotify.com/track/2RFa6YbRXliVXrEuBJUM1B) | [Kraig Durco](https://open.spotify.com/artist/5ak8wQ4RFjC65PjTBwM2kp) | [Kraig Durco II](https://open.spotify.com/album/1M1QBNgPUB3EBMiFqguh8V) | 2:47 | 2026-02-03 | 2026-03-07 |
 | [All I Know](https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:41 | 2026-05-11 | 2026-05-30 |
@@ -163,6 +164,7 @@
 | [Beer Inside](https://open.spotify.com/track/4d3t1JrapBN6NvZCYXnmGW) | [Calima Fox](https://open.spotify.com/artist/4QWak6ur6HXYTHgfgdSDbn) | [Motor Sands](https://open.spotify.com/album/2bocN5xWCkwFF7zOIxgRoO) | 3:17 | 2026-06-10 | 2026-07-12 |
 | [Before It's Too Late](https://open.spotify.com/track/6IdxAzlM1h5wkM6JRztFUh) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM), [JET](https://open.spotify.com/artist/6mIbZws8iW0fnafaUnlNJz) | [Before It's Too Late](https://open.spotify.com/album/5IMxv9leayaxEaPw3swLWr) | 2:57 | 2026-04-03 | 2026-04-24 |
 | [Before The Dawn Of Blades](https://open.spotify.com/track/3T0nMHkufK7ahjA8QLqorJ) | [Arpegiah](https://open.spotify.com/artist/0ZihJ2XzTIi1kNypZT7Sfd) | [Before The Dawn Of Blades](https://open.spotify.com/album/5nk2DZWSPqL3I5Av7YVNPu) | 5:05 | 2026-04-15 | 2026-05-08 |
+| [Beggin](https://open.spotify.com/track/0EIjTYShuIzEYnnNS6czmA) | [Tyler Stone](https://open.spotify.com/artist/55QiKm9RTRMdRuZarwQD1S) | [Beggin](https://open.spotify.com/album/2ILOHe2qW8mGPLmV5mAuXx) | 3:29 | 2026-08-19 |  |
 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 | 2026-08-04 |  |
 | [Behind The Eleven](https://open.spotify.com/track/1uEgFdzgTM6szgHtsto5N1) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [The Codes In The Stones](https://open.spotify.com/album/2fLJyG7Tm4sETaSLdkZFkL) | 5:14 | 2026-01-12 | 2026-02-03 |
 | [Behind The Mask](https://open.spotify.com/track/2cVdtrGa8BC3EtXSGIfgIv) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Psychic Surfing](https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F) | 2:38 | 2026-01-08 |  |
@@ -353,6 +355,7 @@
 | [Close My Eyes](https://open.spotify.com/track/0V9X536h968KmcmHRObqVt) | [Twentysixscarydays](https://open.spotify.com/artist/79SjYJNUoP2c2Nnvw4Z4YT) | [Close My Eyes](https://open.spotify.com/album/1HYQzX8zOgvdqacpqBCV4a) | 3:04 | 2026-05-05 | 2026-05-30 |
 | [Closed Eyes](https://open.spotify.com/track/3lKTSjfhKL00IKGbgMEry7) | [Viridian](https://open.spotify.com/artist/2CHlThnXRU8qzwiSMPoZsb) | [Closed Eyes](https://open.spotify.com/album/2CAl9ARJN6DtXovGV4O3ZR) | 2:33 | 2026-08-03 |  |
 | [Closing Time](https://open.spotify.com/track/10Xp40QivaShNSsnnhm9eC) | [Old Sparky](https://open.spotify.com/artist/7bZmxm2fsWsb8vkDKXK44O) | [Closing Time](https://open.spotify.com/album/1lFArKD7f0LQyqVovtIofr) | 1:47 | 2026-03-20 | 2026-04-21 |
+| [Closure](https://open.spotify.com/track/3s7wq07s2mWR4hTa5uMhhc) | [Duskhaven](https://open.spotify.com/artist/5myfaucX7zR62Xf8HogTNt) | [Closure](https://open.spotify.com/album/7K8qvHTLBdsaDI684jYBU4) | 2:56 | 2026-08-19 |  |
 | [Closure](https://open.spotify.com/track/1cDJ2erpOeVxSaTMGZNNKm) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Blueprints](https://open.spotify.com/album/2xPueJoMK50RMmE5NYiLuG) | 4:33 | 2026-05-11 | 2026-05-30 |
 | [Clown](https://open.spotify.com/track/77rGav8CBbntBb4xJ8OmEU) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF), [Snug'n'Mo](https://open.spotify.com/artist/3SRaiNgeQvMAjEuM5EH6bo) | [Clown](https://open.spotify.com/album/6A9clqWhKG2ce8AVXj1f6N) | 4:19 | 2026-04-17 | 2026-05-08 |
 | [Clown & Creator](https://open.spotify.com/track/6Qws1w87eGrmgLlj1dDa5C) | [Chaos Clown](https://open.spotify.com/artist/17x1AVVVuYn9ztVV3MQ3p5) | [Clown & Creator](https://open.spotify.com/album/0UUY9cHNWzamnuvKSl7hSo) | 3:11 | 2026-05-22 | 2026-06-11 |
@@ -1041,6 +1044,7 @@
 | [Like a tiger](https://open.spotify.com/track/7pdZC2GKkI9hIQ96TFAGir) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Like a tiger](https://open.spotify.com/album/1zoWFV2Pcy8VqXSDBXYROg) | 4:14 | 2026-04-10 | 2026-05-08 |
 | [LILITH](https://open.spotify.com/track/7p0orJbI7LkEHuiCP93OvA) | [Neuroklast](https://open.spotify.com/artist/5xfQSijbVetvH1QAS58n30) | [LILITH](https://open.spotify.com/album/5T1ufkH1h0Q1T60P380f35) | 2:50 | 2026-02-19 | 2026-03-23 |
 | [Limerence](https://open.spotify.com/track/7lz2EAlq84sw65h9Oblmo4) | [Dropstitch](https://open.spotify.com/artist/2IWa8sDlNqAtLwQOcpIKEz) | [Limerence](https://open.spotify.com/album/2rUOzBheHIUkRSJQ9rcze5) | 4:13 | 2026-06-21 | 2026-07-18 |
+| [Limousine](https://open.spotify.com/track/6edjFwEvZmtxlnAN9x7s5E) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Limousine](https://open.spotify.com/album/0cseDTVEIJKqmrGtym1uVU) | 3:47 | 2026-08-19 |  |
 | [Line Them Up](https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Line Them Up](https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM) | 2:47 | 2025-12-08 | 2026-05-22 |
 | [Lion And The Fish](https://open.spotify.com/track/7xZTnC049EWRl4CzFjyfBX) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:08 | 2025-09-16 |  |
 | [Lips](https://open.spotify.com/track/1SCVwglsCuuJNGBj8mLqH3) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lips](https://open.spotify.com/album/701CGV1BeWNVUbDKDbZHzN) | 3:05 | 2026-05-20 | 2026-06-11 |
@@ -1080,6 +1084,7 @@
 | [Lovely Head](https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 3:49 | 2025-08-03 | 2026-07-23 |
 | [lovesong](https://open.spotify.com/track/1UoLYlaKFAJUklsZupqpYi) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [lovesong](https://open.spotify.com/album/0XHZulv4MSBrgwxPO3YrKA) | 4:27 | 2026-07-21 | 2026-08-13 |
 | [LOVING](https://open.spotify.com/track/3O8vass2SxwRzROlx3LTUz) | [Jacob Ryan](https://open.spotify.com/artist/7DgMrk1x4fR1xtITgESbIV) | [LOVING](https://open.spotify.com/album/6EjBcnbJOy4tSNDZFzAhZr) | 3:51 | 2026-05-14 | 2026-06-06 |
+| [LOVING TO GET US BY](https://open.spotify.com/track/02bxKCRNwwGyfJWujnBR94) | [EMNW](https://open.spotify.com/artist/0TwqpQOStb1pMXxlGWFYxZ) | [LOVING TO GET US BY](https://open.spotify.com/album/7j5PzfzGBWhFRQMVy9QaGu) | 2:47 | 2026-08-19 |  |
 | [Low\-Poly Demake](https://open.spotify.com/track/59abIdqujbaNscfsMEnAoy) | [Aflu Enza](https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz) | [THELASTIME](https://open.spotify.com/album/6RscKRqZ5aTdYOgYDMi0jT) | 2:50 | 2026-05-05 | 2026-05-30 |
 | [Lucid Machines](https://open.spotify.com/track/5Rw575EtFpnISsdfpOt87w) | [Gnarwhal](https://open.spotify.com/artist/2AxX3x7VTOFZaUpQ46seKa) | [Lucid Machines](https://open.spotify.com/album/3BKJiTYuFo4lrURSx8ig42) | 4:30 | 2026-06-18 | 2026-07-20 |
 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 | 2025-12-16 | 2026-01-06 |
@@ -1806,6 +1811,7 @@
 | [The Last Mile \(Remastered\)](https://open.spotify.com/track/35LRXLxymf8XWNmbaTU2JE) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Después de la Luz \(Remastered\)](https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0) | 8:29 | 2026-08-04 |  |
 | [The Ledger They Adore](https://open.spotify.com/track/4crhCRpc5JDrqyhINPYrbx) | [Revelations Align Hope](https://open.spotify.com/artist/2HQo39t4GpRmOUtioBrAh1) | [The Ledger They Adore](https://open.spotify.com/album/2AksLsqvnFYizOZibMhpy2) | 2:22 | 2026-04-25 | 2026-05-27 |
 | [The Light](https://open.spotify.com/track/4yXsR8a2DegsXbV8b3kgIS) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp), [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:48 | 2026-08-14 |  |
+| [The Light Was On](https://open.spotify.com/track/0qwplMSeoNOAb9mVNIcO67) | [Burp.](https://open.spotify.com/artist/4TUK6FsIhHZLzluugVcmpt) | [The Light Was On](https://open.spotify.com/album/7JbCN9vdJajLxKCGkrcrfr) | 3:15 | 2026-08-19 |  |
 | [The line](https://open.spotify.com/track/5spFXTi0X8oQg8yxqYxCMz) | [CANONVILLE](https://open.spotify.com/artist/3lJB0a4SfTiJTWEPbAZ7TY) | [FOUR LEGS GOOD](https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy) | 5:28 | 2025-12-29 | 2026-01-22 |
 | [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 | 2025-12-27 | 2026-01-22 |
 | [The Luge](https://open.spotify.com/track/0LFBLhgHho67qvzexB2NpV) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [The Luge](https://open.spotify.com/album/2Ihewiydstnhs5QvDU6xOc) | 3:48 | 2026-05-01 | 2026-05-22 |

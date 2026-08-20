@@ -396,10 +396,32 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 483453,
       "name": "Divertissement sur des motifs originaux fran\u00e7ais, in E minor, D.823: 2. Andantino vari\u00e9",
       "url": "https://open.spotify.com/track/5z5udAD5kx3WYTm0tojooC"
+    },
+    {
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Dolly Suite, Op.56 - for piano duet: 1. Berceuse",
+      "url": "https://open.spotify.com/track/6yWwjmf0tRbumPbV3dVLDV"
     },
     {
       "album": {
@@ -532,7 +554,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 65346,
       "name": "I. Idylle, \u00e0 Debussy",
       "url": "https://open.spotify.com/track/7oFvYKRbPVQiY2gV6WQnUj"
@@ -944,7 +966,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 900280,
       "name": "Rhapsody in Blue - Arr. for 2 Pianos: Rhapsody in Blue",
       "url": "https://open.spotify.com/track/2rMwQWnuDdZZ3Oxff7qUif"

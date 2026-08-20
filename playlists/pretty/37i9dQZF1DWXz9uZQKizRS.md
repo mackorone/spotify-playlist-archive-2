@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Artur Rojek
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,968 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,993 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 98 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
 | 99 | [Slow food](https://open.spotify.com/track/0scaKDD1nEsr2GaUvSljPI) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae), [Jakub Magier](https://open.spotify.com/artist/5aCXLfaZgPiIxfDIjSXoCi) | [Slow food](https://open.spotify.com/album/4MpDDLn8mp6k8h0FHceLDH) | 3:36 |
 
-Snapshot ID: `AAAAAHKRUS5SkKAWf10xnL0tDthoVlCd`
+Snapshot ID: `AAAAAPL95iW9KEY+uzy2GoJibXMbelhh`

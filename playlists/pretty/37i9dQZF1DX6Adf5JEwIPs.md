@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Xavi, Lenin Ramirez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,522 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,589 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [SUIZA](https://open.spotify.com/track/4hqt4IjJOeEs1bvObzujuw) | [New Norte MX](https://open.spotify.com/artist/1ikU0TQsEjscHm5y8xU1BL) | [SUIZA](https://open.spotify.com/album/6tXXbHHlSUpogyEp1hjST1) | 2:21 |
 | 50 | [Canelo](https://open.spotify.com/track/2Ex4BdWGuOi0VYlAZm6t3y) | [Erick TQ](https://open.spotify.com/artist/24GMgidxjexHlVZYIQAydZ) | [Canelo](https://open.spotify.com/album/4hrHiusflMPqDPCoLjb7CM) | 2:44 |
 
-Snapshot ID: `AAAAAIyUYP6lRYWhg5AgJMa3vow0Dm1Z`
+Snapshot ID: `AAAAAFmRTXq88TCORPTk/CCfgmxWicMZ`

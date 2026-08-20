@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Marvin Winans, Melvin Crispell III, Vickie Winans and more
+> With Melvin Crispell III, Vickie Winans, James Cleveland and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 426 likes - 50 songs - 4 hr 50 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Jesus Is The Best Thing That Ever Happened To Me](https://open.spotify.com/track/3P1QDUO53xtz069gsYcMYy) | [James Cleveland](https://open.spotify.com/artist/5g1lWbZIQ0LCWbKmRJDSSn) | [Sings With The World's Greates Choirs 20th Anniversary Album](https://open.spotify.com/album/0IPRmQf1TCdifsHGUvD7jf) | 6:33 |
 | 50 | [To God Be The Glory/Great Is Thy Faithfulness](https://open.spotify.com/track/5BCoZlDA5nZRRtyZk81MbS) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit](https://open.spotify.com/album/1FCXqPlUmOV1fH90nMNYDo) | 7:57 |
 
-Snapshot ID: `AAAAAJHTHR/I8wUOxDm9mvTYDAl5BMg9`
+Snapshot ID: `AAAAAJxy8vTPu7qa5aTIDD4VgzxuK0Bh`

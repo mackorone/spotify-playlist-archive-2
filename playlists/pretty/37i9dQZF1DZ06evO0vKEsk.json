@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 131823,
+  "num_followers": 131819,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAADUk5Gb4kPTcUOMRY14A4pg",
+  "snapshot_id": "aoOggAAAAAA2oJqNacSpVStYrbjh8WgE",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anderson Freire e Amigos",
         "url": "https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 266657,
       "name": "Identidade",
       "url": "https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": null,
@@ -395,22 +395,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s T\u00e3o Bom Pra Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3v9hoGavReHSoahcu0XslI"
+        "name": "Aba Pai",
+        "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
       },
       "artists": [
+        {
+          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
+          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         }
       ],
-      "duration_ms": 370313,
-      "name": "\u00c9s T\u00e3o Bom Pra Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/6HgRRfX5JmBMhe51bqbO4G"
+      "duration_ms": 483498,
+      "name": "Tua Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5O1BkaUFKd3nKZiOuvaO4e"
     },
     {
       "added_at": null,
@@ -427,6 +431,26 @@
       "duration_ms": 331070,
       "name": "Pai Eu Confiarei",
       "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9s T\u00e3o Bom Pra Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3v9hoGavReHSoahcu0XslI"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 370313,
+      "name": "\u00c9s T\u00e3o Bom Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/6HgRRfX5JmBMhe51bqbO4G"
     },
     {
       "added_at": null,
@@ -455,30 +479,6 @@
       "duration_ms": 275875,
       "name": "Raridade (Ao Vivo)",
       "url": "https://open.spotify.com/track/2Oi3FSF0PT3b5bG4ziq2U8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aba Pai",
-        "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
-          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        }
-      ],
-      "duration_ms": 483498,
-      "name": "Tua Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5O1BkaUFKd3nKZiOuvaO4e"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sou Humano",
         "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 270976,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 310183,
+      "name": "Meu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maranata (Vem Emanuel) (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
       "artists": [
         {
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 310183,
-      "name": "Meu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,

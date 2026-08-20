@@ -302,7 +302,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 222533,
       "name": "All Heart - Alternate Take 1",
       "url": "https://open.spotify.com/track/2yvEGzQja1GppV7WAa1Y4j"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 242333,
       "name": "All Heart - Rehearsal",
       "url": "https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU"
@@ -830,6 +830,24 @@
       "duration_ms": 205560,
       "name": "Boo-Dah - Remastered",
       "url": "https://open.spotify.com/track/1BYrhHjvDPbUaGCqv8gvkt"
+    },
+    {
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Brahms' Lullaby",
+      "url": "https://open.spotify.com/track/3Y2jaEYu4R9ECTjL2D260H"
     },
     {
       "album": {
@@ -1701,6 +1719,32 @@
     },
     {
       "album": {
+        "name": "Jazz #1's",
+        "url": "https://open.spotify.com/album/4RgQhoJ9fRKXfF9EylFaeg"
+      },
+      "artists": [
+        {
+          "name": "Ed Thigpen",
+          "url": "https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290386,
+      "name": "Happy-Go-Lucky Local",
+      "url": "https://open.spotify.com/track/20wDysxL8ty9wMIdWvnjFq"
+    },
+    {
+      "album": {
         "name": "BD Music Presents Billy Strayhorn Played by Duke Ellington",
         "url": "https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ"
       },
@@ -1719,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "My Baby Just Cares For Me",
+        "url": "https://open.spotify.com/album/6gpOMtdQ4DjdHnXalc13q0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone with instrumental accompaniment",
+          "url": "https://open.spotify.com/artist/59WosrlT4ukqNxFEDghgzd"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148048,
+      "name": "Hey Buddy Bolden",
+      "url": "https://open.spotify.com/track/2zICCfBeGdnUfzOXlgKClh"
+    },
+    {
+      "album": {
         "name": "Nina Simone Sings Ellington",
         "url": "https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB"
       },
@@ -1730,7 +1792,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 147440,
       "name": "Hey Buddy Bolden - 2004 Remaster",
       "url": "https://open.spotify.com/track/2TZkPrgr5iflrNaLPN6S4f"
@@ -2216,7 +2278,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 389493,
       "name": "Johnny Come Lately",
       "url": "https://open.spotify.com/track/6klmQRMwixVFcjxUndqTp3"
@@ -2234,7 +2296,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 160333,
       "name": "Johnny Come Lately - 1999 Remastered",
       "url": "https://open.spotify.com/track/2HwAx0PZwU9dZu003SSFWw"
@@ -2547,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Lament for Javanette",
+        "url": "https://open.spotify.com/album/4rXmJ0OgfZAdAeqgKxQvGf"
+      },
+      "artists": [
+        {
+          "name": "Adrian Cox",
+          "url": "https://open.spotify.com/artist/3waNOOyDmYDyk1GiFCyxkD"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264328,
+      "name": "Lament for Javanette",
+      "url": "https://open.spotify.com/track/2031cxTwS1xtX1QZfSweeO"
+    },
+    {
+      "album": {
         "name": "A Lull At Dawn",
         "url": "https://open.spotify.com/album/3vBudSt5jFtqjWtHFdqM0Y"
       },
@@ -2558,7 +2638,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 169655,
       "name": "Lament For Javanette",
       "url": "https://open.spotify.com/track/4Gex5q15k2QbxVD0UsP7hP"
@@ -2908,7 +2988,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 187866,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2PbAi85pVqZrx7qjncT7i4"
@@ -3272,7 +3352,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 290160,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/4fGgxzrQRyBTMcxtXzXQZj"
@@ -3352,7 +3432,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 186440,
       "name": "Nutcracker Suite (Arr. Ellington & Strayhorn): Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
       "url": "https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE"
@@ -4702,7 +4782,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 62640,
       "name": "The Nutcracker, Op. 71, Act II: No. 12, Divertissement: d. Trepak (Russian Dance)",
       "url": "https://open.spotify.com/track/6dfzY2hkrCYGgJIOuhGiuS"

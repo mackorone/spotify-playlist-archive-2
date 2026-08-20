@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,686 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,668 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [nowe ciocie](https://open.spotify.com/track/1n7TRtAujmbcujwWKD0Vwk) | [rydawarrior](https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [NOWE CIOCIE](https://open.spotify.com/album/2iXhnwmIXen6egSY3scoir) | 2:05 |
 | 50 | [DOOKOŁA ŚWIATA](https://open.spotify.com/track/4MKqibeqzkEkNpnSV59zAa) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb) | [DOOKOŁA ŚWIATA](https://open.spotify.com/album/4QxStvjylQxXA4GRpid1oy) | 3:11 |
 
-Snapshot ID: `AAAAAIyL5nqK/hoaafoJfEEB1LprdtZ3`
+Snapshot ID: `AAAAAFZyEiax5WcpywkQUpbtUwxJw20f`

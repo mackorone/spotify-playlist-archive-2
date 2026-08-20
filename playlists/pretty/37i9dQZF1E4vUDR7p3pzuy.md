@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 
 > With VELATINE, Whispergun, JUST LIZZY and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 | 40 | [Dancing At Your Funeral](https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7) | [LOVELORN DOLLS](https://open.spotify.com/artist/5LRTjy2y6L1hn8JcdpOqVz), [Dero Goi](https://open.spotify.com/artist/4oT317XjfNqi7Iv2VLTrDV) | [Deadtime Stories](https://open.spotify.com/album/6LNJswYZkDk5BpEw299Id2) | 4:47 |
 | 41 | [Where The Bubbles Rise](https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [JUST LIZZY](https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST) | [Where The Bubbles Rise](https://open.spotify.com/album/3BRwzCH1qETmg49Eoz8xbq) | 3:39 |
 | 42 | [Endless Lovers Story](https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm) | [Rorschach](https://open.spotify.com/artist/3hBNt22u2iu8Xu4bpMtOaA) | [Endless Lovers Story](https://open.spotify.com/album/1j9v4IgMHmYDlCPzxm8Rdx) | 4:20 |
-| 43 | [MILKY BREATH](https://open.spotify.com/track/5EeKOXvp1SAJuZqmDsb3xN) | [SYNVILLA](https://open.spotify.com/artist/6ivl9xBuIqLqQr78BgJPQv) | [MILKY BREATH](https://open.spotify.com/album/16sawerMDTlZsDE9xtR7yh) | 5:03 |
-| 44 | [The Girl In Room 9](https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4) | [The Exceptional Mr Hyde](https://open.spotify.com/artist/57Ig5EuC0yQOfKxTmtmLHp) | [The Girl In Room 9](https://open.spotify.com/album/5zpXk19unE6IduKcYOjz5c) | 3:19 |
-| 45 | [The Desert Inside](https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl) | [Kirlian Camera](https://open.spotify.com/artist/6b5KqGQYLUb3NuD2G6W2Op) | [The Desert Inside](https://open.spotify.com/album/0axuw8Ws45UIyQhlHJpNSP) | 4:33 |
+| 43 | [The Girl In Room 9](https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4) | [The Exceptional Mr Hyde](https://open.spotify.com/artist/57Ig5EuC0yQOfKxTmtmLHp) | [The Girl In Room 9](https://open.spotify.com/album/5zpXk19unE6IduKcYOjz5c) | 3:19 |
+| 44 | [The Desert Inside](https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl) | [Kirlian Camera](https://open.spotify.com/artist/6b5KqGQYLUb3NuD2G6W2Op) | [The Desert Inside](https://open.spotify.com/album/0axuw8Ws45UIyQhlHJpNSP) | 4:33 |
+| 45 | [TRITAGONIST 1](https://open.spotify.com/track/2vmmih4JawzVaMCvfVhcZx) | [Siren Section](https://open.spotify.com/artist/0RnTKd7dLzpmajuKd0XnUY) | [Separation Team](https://open.spotify.com/album/37TnqdAwxVxAJPqVVAUaVG) | 2:42 |
 | 46 | [Can You See](https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [Lasslett](https://open.spotify.com/artist/56kxW9cyQU10hrJWbHDJFu) | [Murmurs Under Memphis](https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW) | 5:10 |
-| 47 | [TRITAGONIST 1](https://open.spotify.com/track/2vmmih4JawzVaMCvfVhcZx) | [Siren Section](https://open.spotify.com/artist/0RnTKd7dLzpmajuKd0XnUY) | [Separation Team](https://open.spotify.com/album/37TnqdAwxVxAJPqVVAUaVG) | 2:42 |
+| 47 | [Where the Stars are Swallowed by the Mist](https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO) | [Storm Kingdom](https://open.spotify.com/artist/5XgHWolhNhGCCYkTbmDtFY), [Across the Frostlands](https://open.spotify.com/artist/65m1udpn7yPQe04sDRH55y) | [Where the Stars are Swallowed by the Mist](https://open.spotify.com/album/7hrq35hWS4vPE6Z4i6OQOr) | 4:56 |
 | 48 | [bitter farewell](https://open.spotify.com/track/5TVfdngL5Ch8LNbCedvQ0E) | [Whispergun](https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6) | [\*the colour of lead\*](https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT) | 2:18 |
-| 49 | [Where the Stars are Swallowed by the Mist](https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO) | [Storm Kingdom](https://open.spotify.com/artist/5XgHWolhNhGCCYkTbmDtFY), [Across the Frostlands](https://open.spotify.com/artist/65m1udpn7yPQe04sDRH55y) | [Where the Stars are Swallowed by the Mist](https://open.spotify.com/album/7hrq35hWS4vPE6Z4i6OQOr) | 4:56 |
-| 50 | [Spellbound](https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E) | [Veronica Stardust](https://open.spotify.com/artist/2TYtg9AFfS13CsqDBmaUUF) | [Spellbound](https://open.spotify.com/album/4srKHN0ChQ9VTxmtIYiQXD) | 3:30 |
+| 49 | [Spellbound](https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E) | [Veronica Stardust](https://open.spotify.com/artist/2TYtg9AFfS13CsqDBmaUUF) | [Spellbound](https://open.spotify.com/album/4srKHN0ChQ9VTxmtIYiQXD) | 3:30 |
+| 50 | [Shoreless](https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA) | [Feyleux](https://open.spotify.com/artist/7uz4Pa8gJsbsHcAyAlPsDw) | [Phases](https://open.spotify.com/album/6VH44OS0EX9Rv5TMknO4X0) | 4:46 |
 
-Snapshot ID: `AAAAAMMz4GcUJMZmnDlusBYqLQXz4ozy`
+Snapshot ID: `AAAAAPl9Aa2IqoQyCIpdGWDUBkBcsgUJ`

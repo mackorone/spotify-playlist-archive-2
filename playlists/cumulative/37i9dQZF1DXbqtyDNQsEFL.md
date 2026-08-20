@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-794 songs - 2 day 20 hr 40 min
+795 songs - 2 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,7 @@
 | [Praise You](https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Praise You](https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV) | 1:59 | 2024-06-14 | 2024-07-05 |
 | [Praise Your Name](https://open.spotify.com/track/4HE0C1QJPhX9vzBqbJg5oT) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Praise Your Name](https://open.spotify.com/album/0OZoD6xavZhIqeJblkeasq) | 4:47 | 2024-01-19 | 2024-02-09 |
 | [Pray](https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pray](https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi) | 2:50 | 2025-06-13 | 2025-10-03 |
-| [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 | 2025-05-30 |  |
+| [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 | 2025-05-30 | 2026-08-20 |
 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 | 2024-10-25 | 2025-07-04 |
 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 | 2025-06-13 | 2025-07-04 |
 | [Prepare the Way](https://open.spotify.com/track/7uW9MM84wg65ODHwMTL5Fc) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Prepare the Way](https://open.spotify.com/album/3DZGhQN7bHZeQ62egNvQST) | 2:27 | 2025-06-27 | 2025-07-04 |
@@ -623,6 +623,7 @@
 | [Some Kind Days](https://open.spotify.com/track/3U4G6fFubdM42azAkSa2cQ) | [Chapta5ive](https://open.spotify.com/artist/4Ey8WbKfZAkHyRTaBHApQy), [Sage L](https://open.spotify.com/artist/5q1400hNymy30C4p5c4Gi8), [Freyama Asham](https://open.spotify.com/artist/5Ob7esJzcooLYAE6CdFa9p) | [Some Kind Days](https://open.spotify.com/album/0T2XCtOcjRa53y9rw1d3Nj) | 2:44 | 2025-08-22 | 2025-09-06 |
 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-10 | 2024-07-27 |
 | [Someone](https://open.spotify.com/track/6AdMC6uV7DtLq2A7ya1UOp) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1) | [Someone](https://open.spotify.com/album/2k8TLgBxuwl80S4czOOTA2) | 3:39 | 2025-11-28 | 2025-12-19 |
+| [SOMETHING GOOD](https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd) | [Sydni Alexander](https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq), [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW), [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [SOMETHING GOOD](https://open.spotify.com/album/6duqiwAuZbZPW9OVJHX5BY) | 2:44 | 2026-07-03 |  |
 | [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 | 2025-02-26 |
 | [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 | 2026-02-13 | 2026-05-22 |
 | [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 | 2026-01-30 |

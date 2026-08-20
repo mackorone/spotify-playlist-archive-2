@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "A Fellow Needs A Girl",
       "url": "https://open.spotify.com/track/7C7lRq6GjavadXmQQ0kEey"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 190533,
       "name": "A Fellow Needs A Girl - alternate take",
       "url": "https://open.spotify.com/track/5NOhmkFcxuCtcn45VLIdJM"
@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Bali Ha'i",
+      "url": "https://open.spotify.com/track/01j42XhxWLwpAfqGunGeUx"
+    },
+    {
+      "album": {
         "name": "South Pacific - Original 1949 Broadway Cast Recording",
         "url": "https://open.spotify.com/album/37a5gwhtE6ZZbllt6PsnfC"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 205923,
       "name": "Bali Ha'i",
       "url": "https://open.spotify.com/track/49x68Stt4KZQ1EvlHKG0A3"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 212826,
       "name": "Everything I've Got",
       "url": "https://open.spotify.com/track/1Zh8BXvxFNDZceyIz6bG2j"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 191993,
       "name": "Give It Back To The Indians",
       "url": "https://open.spotify.com/track/6s0pDeoqLEDYye5uxrbXT9"
@@ -2954,6 +2972,24 @@
       "duration_ms": 192920,
       "name": "Give It Back To The Indians",
       "url": "https://open.spotify.com/track/2BwZM9WlW4t96MHmkxPsuy"
+    },
+    {
+      "album": {
+        "name": "When The Sun Comes Out",
+        "url": "https://open.spotify.com/album/14s1ezNddWNG10wDX4Olts"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald and Her Famous Orchestra",
+          "url": "https://open.spotify.com/artist/02UotVhmqPg91twSGAwSgR"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187875,
+      "name": "Give It Back To The Indians",
+      "url": "https://open.spotify.com/track/5xY5MOhPQn6P25mpZ6Ig4Z"
     },
     {
       "album": {
@@ -3964,7 +4000,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 164066,
       "name": "I Whistle A Happy Tune",
       "url": "https://open.spotify.com/track/5Z2gU4zFvyZ1qlnazZ9U6s"
@@ -3982,7 +4018,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 164813,
       "name": "I Whistle a Happy Tune",
       "url": "https://open.spotify.com/track/6Y2TR6aosaUpbJ8eBVm8v6"
@@ -4632,7 +4668,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 218906,
       "name": "June Is Bustin' Out All Over",
       "url": "https://open.spotify.com/track/6pPRqrIhOSTcRVWKp3xX83"
@@ -4654,7 +4690,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 405320,
       "name": "June Is Bustin' Out All Over",
       "url": "https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9"
@@ -5818,7 +5854,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 225006,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/1IHECgKLEKs5eGtJlUtxHY"
@@ -5840,6 +5876,24 @@
       "duration_ms": 254026,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
+    },
+    {
+      "album": {
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431213,
+      "name": "My Romance (take 1)",
+      "url": "https://open.spotify.com/track/2u6gOYRHuN06LMQDHTwUrl"
     },
     {
       "album": {
@@ -6534,7 +6588,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 315000,
       "name": "Overture",
       "url": "https://open.spotify.com/track/0lwtgfd7Asz21a3sexSbnj"
@@ -6728,7 +6782,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 193760,
       "name": "Overture",
       "url": "https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG"
@@ -6788,6 +6842,46 @@
       "duration_ms": 85533,
       "name": "Overture and Te Deum",
       "url": "https://open.spotify.com/track/0RwaNAIKTa1V7d80RH6rfO"
+    },
+    {
+      "album": {
+        "name": "BEETHOVEN, L. van: Overtures (Leipzig Gewandhaus Orchestra, Konwitschny)",
+        "url": "https://open.spotify.com/album/6fTzi4cb2dt8BAV2Q75i4u"
+      },
+      "artists": [
+        {
+          "name": "Franz Konwitschny, Leipzig Gewandhaus Orchestra",
+          "url": "https://open.spotify.com/artist/5EvdnWLCq0LQ0hc4342DOH"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509333,
+      "name": "Overture to Collin's Coriolan, Op. 62, \"Coriolan Overture\"",
+      "url": "https://open.spotify.com/track/7hgebypP0NHHbNojL3CXGb"
+    },
+    {
+      "album": {
+        "name": "The Magic Flute (Zauberfl\u00f6te) - The Marriage Of Figaro (Die Hochzeit des Figaro) - Iomeneo - Cosi Fan Tutte",
+        "url": "https://open.spotify.com/album/3oTJHrACvuIAemztp9eADd"
+      },
+      "artists": [
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Paul Redinowski",
+          "url": "https://open.spotify.com/artist/7Ll5bMukP8EFpnv1rFm9Yr"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439386,
+      "name": "Overture: The Magic Flute",
+      "url": "https://open.spotify.com/track/7cyXYn8TwArPhRKf58scw4"
     },
     {
       "album": {
@@ -8042,7 +8136,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Surrey With The Fringe On Top",
       "url": "https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6"
@@ -9398,7 +9492,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 293133,
       "name": "The Surrey with the Fringe on Top (From Oklahoma)",
       "url": "https://open.spotify.com/track/2okfraIAWPYig5lZx1aOd1"

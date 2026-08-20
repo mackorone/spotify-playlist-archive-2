@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,783 likes - 100 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,817 likes - 100 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 3 | [Flawless](https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Flawless](https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R) | 3:20 |
 | 4 | [Reprocessing](https://open.spotify.com/track/5wWR6zMNFj7AncdcfylDYd) | [Fireground](https://open.spotify.com/artist/0ddxBl1iyyAs79zjt7YRsJ) | [Memories](https://open.spotify.com/album/055qVzzSRbGpIGhlFwKcaq) | 4:57 |
 | 5 | [Want 2](https://open.spotify.com/track/2Xzkluga8FYJSrvFSg1Mel) | [Eden Aurelius](https://open.spotify.com/artist/5Hs3xbnOvuzuQrBTp2XTOA) | [Plateau](https://open.spotify.com/album/5gaunzRiHIJ4eAGPrES3Dn) | 5:02 |
-| 6 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 6 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 |
 | 7 | [\(What You Want\) Is Music](https://open.spotify.com/track/5nSFzgKcfBdE6nmzimkiLj) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [\(What You Want\) Is Music EP](https://open.spotify.com/album/0F8AVKhErXv59AeGBB80ST) | 5:44 |
-| 8 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 |
+| 8 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
 | 9 | [Sleepygirl 1](https://open.spotify.com/track/7d7BxwnjpR4WrBHmyo5tnA) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Sleepygirls](https://open.spotify.com/album/1C04uwe7mOJ9ogiOCjnKqd) | 5:23 |
 | 10 | [Fall Into Oblivion](https://open.spotify.com/track/7eIIV93xHU6odccCn9WU4A) | [Quantec](https://open.spotify.com/artist/1hjNDDzz7GzmceHSWgWdck) | [Cauldron Subsidence](https://open.spotify.com/album/183YlFZ9H0uHv60lP49lod) | 6:22 |
 | 11 | [Tendency](https://open.spotify.com/track/6Py6ERVoAbMCwQhTatlluh) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 7:21 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 42 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
 | 43 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
 | 44 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
-| 45 | [Aether](https://open.spotify.com/track/24wWZAHUvMPIG9h7zjq0yQ) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 6:13 |
-| 46 | [Lucrezia](https://open.spotify.com/track/5fQrCXdKizySUZDgd0htNB) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 9:45 |
+| 45 | [Lucrezia](https://open.spotify.com/track/5fQrCXdKizySUZDgd0htNB) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 9:45 |
+| 46 | [Aether](https://open.spotify.com/track/24wWZAHUvMPIG9h7zjq0yQ) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 6:13 |
 | 47 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
 | 48 | [Reverberation](https://open.spotify.com/track/5xHKk5E3IV8QR9pTfaIhFm) | [Substance](https://open.spotify.com/artist/2OhRlg8iJc0v8XeRiXRr4H), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reverberation](https://open.spotify.com/album/1LuJs9bcsMfRsgOBiHoZ7l) | 9:46 |
 | 49 | [Quadrant Dub I \- Edit](https://open.spotify.com/track/66I6gDEjkZZyVFfyRTtKPx) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:56 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 67 | [Heavy Snow](https://open.spotify.com/track/1343rvbH69vJ3mPDmPwBrg) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound, Pt\. 1](https://open.spotify.com/album/6R1ntsOgTuBhIXqAGyU3b2) | 9:10 |
 | 68 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
 | 69 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
-| 70 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
-| 71 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
+| 70 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
+| 71 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
 | 72 | [G3](https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL) | [Monoder](https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn) | [Ikikieriö](https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi) | 7:44 |
 | 73 | [Delicately in the Sunlight](https://open.spotify.com/track/6wwJpnx8QOlKhooSOp4I8I) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [An Act of Love](https://open.spotify.com/album/7iVg6RDW5EdYQ6zs0BzGzl) | 3:07 |
 | 74 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 88 | [Draught](https://open.spotify.com/track/4MQZjU6uaFobbj5MaxtAGe) | [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q), [Ordo Sakhna](https://open.spotify.com/artist/3SnKKOKMywsI29DK4qoIIe) | [Moritz Von Oswald & Ordo Sakhna](https://open.spotify.com/album/0GWKJ6ct7XkaD7KwDYPJk4) | 4:44 |
 | 89 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 |
 | 90 | [Different Lives](https://open.spotify.com/track/2DjWrM03s7Y50aHSfvQeh7) | [Mr\. Cloudy](https://open.spotify.com/artist/38zfjwWSt5995vjlOcQ0ed) | [Different Lives](https://open.spotify.com/album/0718LPIq9rnJEznKVAGEO1) | 8:33 |
-| 91 | [Becoming](https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Becoming](https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ) | 5:44 |
-| 92 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
+| 91 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
+| 92 | [Becoming](https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Becoming](https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ) | 5:44 |
 | 93 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
 | 94 | [Autumn \- Original Mix](https://open.spotify.com/track/3c2jXCxdXZLY3HXzdzrmES) | [Izzat Man](https://open.spotify.com/artist/2TJqlwyMRNWecsnAaI7Mes) | [Third Dive](https://open.spotify.com/album/1CMGPzaXavvbjRi4k1ILG2) | 5:10 |
 | 95 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 99 | [Sands of Rainbow](https://open.spotify.com/track/0n8gv3n5Do8SvY14NUt0Es) | [Insect O.](https://open.spotify.com/artist/3DvAgRmwCrUUlnvqASCdDB) | [Bondi Dub](https://open.spotify.com/album/2FPGWeGodZYh0CDrbSmHoO) | 7:36 |
 | 100 | [Cadence](https://open.spotify.com/track/3p3mBN7TxJaIjJufQS6Agz) | [Tomas Rubeck](https://open.spotify.com/artist/5vHlxnXxdR1AkCKRhUSgFK) | [The Blueprint](https://open.spotify.com/album/0eBbk8OVWXihwYfb5k5Ify) | 6:08 |
 
-Snapshot ID: `AAAAAOOI1U0eE7a0YZCfl1zqUiiXgsTB`
+Snapshot ID: `AAAAAI1N2tq5RVBcCkyNtaeVMIGTYQ2h`

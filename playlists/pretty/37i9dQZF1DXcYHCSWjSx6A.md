@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,066 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,085 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 30 | [Ak \- The Tiger](https://open.spotify.com/track/6XyeIcCT97drM5lzi9Pq88) | [Darkkey](https://open.spotify.com/artist/04RZUhq6dIFyX9eJYij92Q), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Good Bad Ugly \[TAMIL\]](https://open.spotify.com/album/2HGpHw3UR9kqSeiVyjO0MC) | 3:23 |
 | 31 | [Top Tucker](https://open.spotify.com/track/2S6DBGSl8c7hWZmC7R0Lgj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 3:43 |
 | 32 | [Arjunar Villu](https://open.spotify.com/track/6iRxlGYx90YnrXZCur191p) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Manikka Vinayagam](https://open.spotify.com/artist/5sehJiCiH15ihXYCKyEALX), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6) | [Gilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6quR1wqFlwSoCANhnfN9r9) | 4:26 |
-| 33 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
-| 34 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander,Vignesh Shivan](https://open.spotify.com/artist/51JNE3tEZCBbwogHG5FSgQ) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
+| 33 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander,Vignesh Shivan](https://open.spotify.com/artist/51JNE3tEZCBbwogHG5FSgQ) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
+| 34 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
 | 35 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 |
 | 36 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 |
 | 37 | [Kadhal Yaanai](https://open.spotify.com/track/2EmoaXUqkNFzIj6L9Oy0uy) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Harini](https://open.spotify.com/artist/1pnRoXjrOiEtxcTxJPBJKH) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jVAsnneh2gwlQRfbJ5M13) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 49 | [Surviva \(feat\. Yogi B & Mali\)](https://open.spotify.com/track/0jvNc73pMCkyHTchaQu6NV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siva](https://open.spotify.com/artist/6KFWuJEsbPBADnWEVRhXwh), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 3:42 |
 | 50 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 |
 
-Snapshot ID: `AAAAAGwcW8NXmwJXMrNNtCK9UIbldlvz`
+Snapshot ID: `AAAAANlGt6PTGmb35dG7o66P0s/MZeJS`

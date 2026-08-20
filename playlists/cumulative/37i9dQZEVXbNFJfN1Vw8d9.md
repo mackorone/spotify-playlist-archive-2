@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,841 songs - 4 day 5 hr 5 min
+1,842 songs - 4 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1050,7 +1050,7 @@
 | [Me Maten \- Live at NPR's Tiny Desk](https://open.spotify.com/track/5py3FJrHEuR67BjR7wm8uj) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [El Madrileño \(Live at NPR's Tiny Desk\)](https://open.spotify.com/album/3hQIiRWmSllPrVnOEG1qVS) | 4:02 | 2021-04-23 | 2021-05-18 |
 | [Me Muero](https://open.spotify.com/track/4MfDHmbJQNpeBp83uSlsSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:15 | 2025-04-05 | 2025-04-07 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-07 | 2023-02-15 |
-| [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 | 2025-07-28 |  |
+| [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 | 2025-07-28 | 2026-08-20 |
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2021-12-16 | 2022-05-08 |
 | [MEDIA LUNA](https://open.spotify.com/track/7h3mCPlHYCPuSG93s7M3Xt) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:14 | 2023-08-30 | 2023-09-22 |
 | [MEJOR ASÍ](https://open.spotify.com/track/3XAHTceKLB1RnMxrRJ7lx1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:39 | 2024-08-24 | 2024-08-26 |
@@ -1568,6 +1568,7 @@
 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 | 2021-10-07 | 2021-10-17 |
 | [SOÑASTE CON UN DRACO](https://open.spotify.com/track/7q0a8J8BbJa37unL0borYd) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [TA FACIL](https://open.spotify.com/album/3NfLFMJll0BlczcIVzDu2m) | 3:21 | 2025-11-29 | 2025-12-05 |
 | [SPANISH TETEO](https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SPANISH TETEO](https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0) | 3:01 | 2023-09-09 | 2023-09-12 |
+| [SPICY](https://open.spotify.com/track/1lmGCKyRnoiRuuJQrNdsfB) | [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL DIAMOND FOREVER](https://open.spotify.com/album/3XKJ8cCTqAPODrDQRCBo1J) | 3:11 | 2026-08-19 |  |
 | [Sport+ RMX](https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sport+ RMX](https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L) | 3:39 | 2024-08-14 | 2024-08-25 |
 | [Stand By](https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Yo, Minoría Absoluta](https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh) | 3:27 | 2025-12-11 | 2025-12-26 |
 | [STAR](https://open.spotify.com/track/2mnehJ4xPqFe4cNi7BG2rc) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [KM 33](https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8) | 2:36 | 2024-10-19 | 2025-03-14 |

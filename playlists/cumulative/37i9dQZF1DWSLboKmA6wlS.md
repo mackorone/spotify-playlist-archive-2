@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Jduck\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Kiismet\. Artwork: Isu Kim
 
-2,681 songs - 7 day 0 hr 13 min
+2,682 songs - 7 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Get drunk](https://open.spotify.com/track/6Bb80JdngrlVnOtV1UhVzq) | [Cold Boy](https://open.spotify.com/artist/4JUGFYHBpqFZZ4YrXaJtzC) | [Get drunk](https://open.spotify.com/album/1Gf14GoiByuTDjAnpOpQW2) | 3:37 | 2023-02-24 | 2023-03-11 |
 | [Ghosted](https://open.spotify.com/track/50kMzVlEwrHnHlIdCWFp1o) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [Ghosted](https://open.spotify.com/album/5GQi00TAPvs8TkfQt89Bhz) | 3:25 | 2024-11-22 | 2025-01-25 |
 | [Gimme A Rest](https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Gimme A Rest](https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm) | 3:18 | 2026-07-22 |  |
+| [GIVE ME MORE](https://open.spotify.com/track/4DlxcnXHwp426Y0vDs41GN) | [Kiismet](https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ) | [GIVE ME MORE](https://open.spotify.com/album/4kYHYWCJSsUfLAEr0jg6RB) | 3:17 | 2026-08-19 |  |
 | [Go Out](https://open.spotify.com/track/34k88WHxuyyA4LcUJrrbgA) | [WHALJAY](https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy) | [Go Out](https://open.spotify.com/album/4KxKvBEjpSz3aBf4HQmrFv) | 2:26 | 2025-04-10 | 2025-05-16 |
 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 | 2022-09-29 | 2023-03-18 |
 | [Good Time](https://open.spotify.com/track/7vE205Rf0HGJp64nksjjvZ) | [TANGMO](https://open.spotify.com/artist/6Q13eKwpcbmEwhUEGwWapB) | [Good Time](https://open.spotify.com/album/1NhR4vTpstGZOa0WSDAe6F) | 3:23 | 2024-10-18 | 2024-11-02 |
@@ -1558,7 +1559,7 @@
 | [ยิ้มรับความเจ็บ](https://open.spotify.com/track/0DcRxlubhiFffhFIKmeKW7) | [BIGBRIGHT](https://open.spotify.com/artist/00jhZjklgCBIPAD3KuAlFt), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ยิ้มรับความเจ็บ](https://open.spotify.com/album/5lbc0mqZEh6sSiFNoCYGz8) | 4:24 | 2024-10-11 | 2024-11-02 |
 | [ยิ้มสิ](https://open.spotify.com/track/7chvvYJtx6Nnw4LUzhTeeB) | [Ball Pharanwat](https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p), [NED](https://open.spotify.com/artist/1J2DMJsTqJ6vZDRKdtnatX), [KittyAmath](https://open.spotify.com/artist/53FqoMOX2hHl94eqn7aQOF) | [ยิ้มสิ](https://open.spotify.com/album/2WGJVpaF2GwC6AfMbvtYb1) | 2:50 | 2025-10-03 | 2025-10-18 |
 | [ยิ้มแฉ่ง](https://open.spotify.com/track/76dAVBRahwA6DHCIftqOAf) | [TALAY](https://open.spotify.com/artist/55iFqROs9c9nw2auYuJ370) | [ยิ้มแฉ่ง](https://open.spotify.com/album/7hGzFIC7QOi8Odn0UIXwvK) | 2:39 | 2026-03-05 | 2026-03-21 |
-| [ย้อน](https://open.spotify.com/track/3xd3G6dwfBYP2Ui5hNdzDx) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ย้อน](https://open.spotify.com/album/3AnO1SEz5z3Vr7vBaInDcR) | 5:12 | 2026-08-05 |  |
+| [ย้อน](https://open.spotify.com/track/3xd3G6dwfBYP2Ui5hNdzDx) | [reu](https://open.spotify.com/artist/73jWtoYEh1OYEnsF7cnVEQ) | [ย้อน](https://open.spotify.com/album/3AnO1SEz5z3Vr7vBaInDcR) | 5:12 | 2026-08-05 | 2026-08-20 |
 | [ย้อนวันเวลา](https://open.spotify.com/track/0Z9m9sXqkSyHNlCVL7vcZV) | [WHALJAY](https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy) | [ย้อนวันเวลา](https://open.spotify.com/album/5IDqbCGWoDICoIAwHfwl2S) | 2:25 | 2024-09-27 | 2024-10-05 |
 | [ย้อนเวลา](https://open.spotify.com/track/2k0olfmkfyFrefBarL1OQ3) | [อุ๋ย วงDRINKS](https://open.spotify.com/artist/3dv9WAZdVOXlyCla1KoeaO) | [ย้อนเวลา](https://open.spotify.com/album/0YqbrXadj1tQiLQZ9uTFYC) | 4:00 | 2023-06-23 | 2023-07-01 |
 | [ย้อนไม่ได้](https://open.spotify.com/track/2Eqn4iF4L5KNtBmoa9Ao8k) | [OVERLOAD](https://open.spotify.com/artist/20kUPQgb18oRW7yYAuf7EK) | [ย้อนไม่ได้](https://open.spotify.com/album/0IN3JYM7guxbQWlOci87JG) | 4:36 | 2023-06-30 | 2023-09-02 |

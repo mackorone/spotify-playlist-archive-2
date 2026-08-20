@@ -1,13 +1,45 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Ami Cheon Artwork by Paola Saliby",
-  "num_followers": 242174,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sophia Willingham & Elisheva Artwork by Paola Saliby",
+  "num_followers": 242175,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABAIdFNrMDrfoS+3R6PjB+6I1p9z",
+  "snapshot_id": "AAAAAOFqw3tcYN/cAGEV29fr7qAEA7wG",
   "tracks": [
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
+    },
+    {
+      "added_at": "2026-08-19 04:00:32",
+      "album": {
+        "name": "PINK CIGARETTE",
+        "url": "https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 162140,
+      "name": "PINK CIGARETTE",
+      "url": "https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG"
+    },
     {
       "added_at": "2026-08-12 04:00:21",
       "album": {
@@ -27,6 +59,102 @@
     {
       "added_at": "2026-08-12 04:00:21",
       "album": {
+        "name": "Sadder Days",
+        "url": "https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Sadder Days",
+      "url": "https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX"
+    },
+    {
+      "added_at": "2026-08-19 04:00:32",
+      "album": {
+        "name": "a changeable feast",
+        "url": "https://open.spotify.com/album/0bcGgTQAUwQqBXGUMmUGSv"
+      },
+      "artists": [
+        {
+          "name": "oktehya",
+          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
+        }
+      ],
+      "duration_ms": 139690,
+      "name": "complicated",
+      "url": "https://open.spotify.com/track/5ywG0YZhCKpQ6JVDoVw8hY"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "i'm not stupid",
+        "url": "https://open.spotify.com/album/6iLemoWCEBzsn34LNHhi4x"
+      },
+      "artists": [
+        {
+          "name": "Prestyn Smith",
+          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "i'm not stupid",
+      "url": "https://open.spotify.com/track/4IRByDfK4OxuN4fXigs7OS"
+    },
+    {
+      "added_at": "2026-08-19 04:00:32",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
+    },
+    {
+      "added_at": "2026-08-19 04:00:32",
+      "album": {
+        "name": "Stunner",
+        "url": "https://open.spotify.com/album/1WOBDxDGuGF763HTh7YSEV"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Stunner",
+      "url": "https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN"
+    },
+    {
+      "added_at": "2026-08-19 04:00:32",
+      "album": {
+        "name": "One Life To Give",
+        "url": "https://open.spotify.com/album/1DnpAElpk83B3mKAoiZSmE"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 165975,
+      "name": "One Life To Give",
+      "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
         "name": "feelers",
         "url": "https://open.spotify.com/album/00lY3S9VQS87lbDYv8xZkx"
       },
@@ -39,6 +167,22 @@
       "duration_ms": 215713,
       "name": "feelers",
       "url": "https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ"
+    },
+    {
+      "added_at": "2026-08-19 04:00:32",
+      "album": {
+        "name": "Good Run",
+        "url": "https://open.spotify.com/album/2f8t1TimRsjgQ4WCNG9vES"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "Good Run",
+      "url": "https://open.spotify.com/track/6DbRfIYcho6OCdzAAuvGAI"
     },
     {
       "added_at": "2026-08-12 04:00:21",
@@ -57,68 +201,36 @@
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
-      "added_at": "2026-08-12 04:00:21",
+      "added_at": "2026-08-19 04:00:32",
       "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c"
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/458xr5gXcZeM9PJCnvKL5U"
       },
       "artists": [
         {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+          "name": "Maria Taktouk",
+          "url": "https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL"
         }
       ],
-      "duration_ms": 202880,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
+      "duration_ms": 179929,
+      "name": "hurt me",
+      "url": "https://open.spotify.com/track/56hoNdnffCWzh1toUVDUfg"
     },
     {
-      "added_at": "2026-08-12 04:00:21",
+      "added_at": "2026-08-19 04:00:32",
       "album": {
-        "name": "Into the Ground",
-        "url": "https://open.spotify.com/album/2ydeZcsTVJEe7IPzam2gL6"
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/3ck2ziXg7uIlJ8apM1neJ0"
       },
       "artists": [
         {
-          "name": "dearest",
-          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+          "name": "Enola Bedard",
+          "url": "https://open.spotify.com/artist/4FhVSiLEO4NPE3gZiaMg7Y"
         }
       ],
-      "duration_ms": 192845,
-      "name": "Into the Ground",
-      "url": "https://open.spotify.com/track/7qS4cZTYXHyqwJn8omn2lR"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "Sadder Days",
-        "url": "https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Sadder Days",
-      "url": "https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "i'm not stupid",
-        "url": "https://open.spotify.com/album/6iLemoWCEBzsn34LNHhi4x"
-      },
-      "artists": [
-        {
-          "name": "Prestyn Smith",
-          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "i'm not stupid",
-      "url": "https://open.spotify.com/track/4IRByDfK4OxuN4fXigs7OS"
+      "duration_ms": 137276,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/0VoPr66RRMVRD2LLIuqzw2"
     },
     {
       "added_at": "2026-08-12 04:00:21",
@@ -607,22 +719,6 @@
     {
       "added_at": "2026-07-22 04:00:22",
       "album": {
-        "name": "4L",
-        "url": "https://open.spotify.com/album/6xibxT71j595mgwTr3FASn"
-      },
-      "artists": [
-        {
-          "name": "oktehya",
-          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
-        }
-      ],
-      "duration_ms": 124309,
-      "name": "4L",
-      "url": "https://open.spotify.com/track/5rylK4OzVZA4Se5TM997rb"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
         "name": "Eat",
         "url": "https://open.spotify.com/album/69g6I12DCHSqAFU18CoXrV"
       },
@@ -667,22 +763,6 @@
       "duration_ms": 206407,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "The Pavement",
-        "url": "https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gordon",
-          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "The Pavement",
-      "url": "https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY"
     },
     {
       "added_at": "2026-07-15 04:00:28",
@@ -1023,22 +1103,6 @@
     {
       "added_at": "2026-06-17 04:00:29",
       "album": {
-        "name": "ma na\u2019isni",
-        "url": "https://open.spotify.com/album/7tA7HkegCgdZFAxKC3ishK"
-      },
-      "artists": [
-        {
-          "name": "Maria Taktouk",
-          "url": "https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL"
-        }
-      ],
-      "duration_ms": 115863,
-      "name": "ma na\u2019isni",
-      "url": "https://open.spotify.com/track/264pRJzxYHJdTvuuvgNlfB"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
         "name": "Sorry You're Not Sorry",
         "url": "https://open.spotify.com/album/5maDinbDKH5eS7n3boHnjY"
       },
@@ -1147,70 +1211,6 @@
       "duration_ms": 257386,
       "name": "Baby Again",
       "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
-    },
-    {
-      "added_at": "2026-06-10 04:00:26",
-      "album": {
-        "name": "Satisfied Girl",
-        "url": "https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 211184,
-      "name": "Undiscovered",
-      "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
-    },
-    {
-      "added_at": "2026-06-10 04:00:26",
-      "album": {
-        "name": "Heartache Made Me A Killer",
-        "url": "https://open.spotify.com/album/2MktPd6o9NIZG9t8gkKGGU"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hu",
-          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
-        }
-      ],
-      "duration_ms": 184726,
-      "name": "Heartache Made Me A Killer",
-      "url": "https://open.spotify.com/track/0xMb6R3pzOzaFPrmAIHsUZ"
-    },
-    {
-      "added_at": "2026-06-10 04:00:26",
-      "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3g9UF1Df3H7B0KVS6FzpsD"
-      },
-      "artists": [
-        {
-          "name": "Jenny Baker",
-          "url": "https://open.spotify.com/artist/3dpzuWZAPfCMiZqR2KP7eT"
-        }
-      ],
-      "duration_ms": 198462,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/1sFl68Q8f6W8Arq5o2FfAd"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh"
-      },
-      "artists": [
-        {
-          "name": "Paycheque",
-          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
     }
   ],
   "unique_name": "Fresh Finds Pop",

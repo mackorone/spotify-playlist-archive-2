@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 
 > <a href="spotify:artist:1vK8NnrPlBlF34LaiFX1SK">Funk Tribu</a>'s favorite tracks\. Updated regularly\. Curated by Funk Tribu\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,538 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 | 49 | [All I Need](https://open.spotify.com/track/6LcObOqDJdQxkP1qrBk3R0) | [Edo](https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz), [THŪR](https://open.spotify.com/artist/6D0RHeCz6cDV1dE2fSyPQp) | [All I Need](https://open.spotify.com/album/2xgobypOX2225BbBNRphTQ) | 3:23 |
 | 50 | [Enter The Portal](https://open.spotify.com/track/6F1a7UPE0UDu6UzJ8wsPLZ) | [CALUSIA](https://open.spotify.com/artist/29azIOtHtbQ50bwhz1QLwO), [Pro Athlete](https://open.spotify.com/artist/0NHPzpSq5sdEiS3GEL9uzv) | [Singularity \#1](https://open.spotify.com/album/2OnCuisH6vAn3WDT7PbXC1) | 6:05 |
 
-Snapshot ID: `AAAAAPdyL4MPHdyrX2UsqTcYvnFTd7OO`
+Snapshot ID: `AAAAAPqvqsiGLSUxKXP2fkBzKU2dz9bS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Tove Lo & Stromae
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,237 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,245 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Dream As One \- from Avatar: Fire and Ash](https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Dream As One \(from Avatar: Fire and Ash\)](https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q) | 3:19 |
 | 50 | [Take Me Away \- French Version](https://open.spotify.com/track/73SraS0lQwmtbEGXUIkIQO) | [Mike Demero](https://open.spotify.com/artist/6rC45dneYNC1ulqOz12cyK), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [Take Me Away \(French Version\)](https://open.spotify.com/album/2TPt07LJghXz0ATYaaemXB) | 2:36 |
 
-Snapshot ID: `AAAAADJC8+Fo1uyODFKz4AZKsiJK9+Dk`
+Snapshot ID: `AAAAANU/8/EDuaGgPJGNEzMbM99sN8Qh`

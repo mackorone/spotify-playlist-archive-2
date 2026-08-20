@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,136 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,119 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [Crown Jewel](https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Crown Jewel](https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH) | 4:01 |
 | 80 | [Cutting Off The Head Of A Ghost](https://open.spotify.com/track/34h77avpCK81oQ6o6uT61x) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [So Help Me God](https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt) | 3:51 |
 
-Snapshot ID: `AAAAAK2lnIzNfJKllpNtVHI7k/CwgLbb`
+Snapshot ID: `AAAAALoNFUY04kK8kgReRsOild49mB4k`

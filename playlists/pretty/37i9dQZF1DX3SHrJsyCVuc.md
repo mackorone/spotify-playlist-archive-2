@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Gurriers
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,661 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,678 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 |
 | 75 | [Leech](https://open.spotify.com/track/3EBbanbifx3F1RkgX9fPhB) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Leech](https://open.spotify.com/album/4v6pUeg5eGETi1Aj9VlwQF) | 4:22 |
 
-Snapshot ID: `AAAAAACImXAnd8W6YbMy+36bfnZFGbPc`
+Snapshot ID: `AAAAAOJivOMXlIJsx9oDcBnSc+A7oelr`

@@ -4,7 +4,7 @@
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 22 min
+59 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bitches Over Boys](https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Bitches Over Boys](https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN) | 2:27 | 2026-06-16 |  |
 | [blaming me](https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [were all the ig girls worth it?](https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx) | 2:05 | 2026-06-16 |  |
 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 | 2026-06-16 |  |
-| [BRUK DOWN](https://open.spotify.com/track/01dDzsg3OmroMykhxXsr22) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [GYALGEBRA](https://open.spotify.com/album/2njtPiJqJCSMgRCoB1Xide) | 2:45 | 2026-06-16 |  |
+| [BRUK DOWN](https://open.spotify.com/track/315N7Ek8GwT6yHNPLN92DT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [GYALGEBRA](https://open.spotify.com/album/7AGIBsV07JEUc8gF3FE7kx) | 2:45 | 2026-08-20 |  |
+| [BRUK DOWN](https://open.spotify.com/track/01dDzsg3OmroMykhxXsr22) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [GYALGEBRA](https://open.spotify.com/album/2njtPiJqJCSMgRCoB1Xide) | 2:45 | 2026-06-16 | 2026-08-20 |
 | [Call Me Back](https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Call Me Back](https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa) | 2:56 | 2026-06-16 |  |
 | [cunty \(feat\. Duquesa\)](https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:49 | 2026-06-16 |  |
 | [Curry Goat](https://open.spotify.com/track/2wAulGVvxnOtYqLGI1dVeW) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:00 | 2026-07-19 |  |

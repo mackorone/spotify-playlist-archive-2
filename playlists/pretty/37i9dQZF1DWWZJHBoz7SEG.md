@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Lo más nuevo de tus artistas favoritos, en un solo lugar\. Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,331 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,363 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 82 | [SUIZA](https://open.spotify.com/track/4hqt4IjJOeEs1bvObzujuw) | [New Norte MX](https://open.spotify.com/artist/1ikU0TQsEjscHm5y8xU1BL) | [SUIZA](https://open.spotify.com/album/6tXXbHHlSUpogyEp1hjST1) | 2:21 |
 | 83 | [Explota](https://open.spotify.com/track/2KDERTO2wgJzNPMKEeVruP) | [Andrea Bayardo](https://open.spotify.com/artist/7ltZTIPxGZ7TbQDPZvMMDo) | [Explota](https://open.spotify.com/album/71XKxvJXVlBOAlSeEPY8ve) | 3:14 |
 
-Snapshot ID: `AAAAAO12z9uji75ugpTkMU1wvN1Aqi8t`
+Snapshot ID: `AAAAAGreNZcAQ+RN+KErnOwEJ8nWoooS`

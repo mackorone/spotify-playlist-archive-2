@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115744,
+      "name": "222",
+      "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
+    },
+    {
+      "album": {
         "name": "5 A.M.",
         "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
       },
@@ -5931,6 +5949,28 @@
     },
     {
       "album": {
+        "name": "MI BB",
+        "url": "https://open.spotify.com/album/2Jr3nTZOyITGzoZJ98LODA"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "MI BB",
+      "url": "https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU"
+    },
+    {
+      "album": {
         "name": "Mi Cama",
         "url": "https://open.spotify.com/album/4GqnDhhhYDasj34XJMIHrT"
       },
@@ -6116,6 +6156,24 @@
       "duration_ms": 131282,
       "name": "mirar, no tocar",
       "url": "https://open.spotify.com/track/71Ygz46nLYgYQpaliluecH"
+    },
+    {
+      "album": {
+        "name": "MIRI",
+        "url": "https://open.spotify.com/album/0zAk51cLVolkn75hiW8P9t"
+      },
+      "artists": [
+        {
+          "name": "Markitos Nasa",
+          "url": "https://open.spotify.com/artist/2BX1LBkSzIUWBLmFfd1SQ0"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168996,
+      "name": "MIRI",
+      "url": "https://open.spotify.com/track/1y7kb1VHAEUDXeBCHrCEos"
     },
     {
       "album": {
@@ -6472,6 +6530,24 @@
       "duration_ms": 163516,
       "name": "Nela",
       "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+    },
+    {
+      "album": {
+        "name": "El Amante",
+        "url": "https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG"
+      },
+      "artists": [
+        {
+          "name": "Dariel Amant",
+          "url": "https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181628,
+      "name": "New Things",
+      "url": "https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5"
     },
     {
       "album": {

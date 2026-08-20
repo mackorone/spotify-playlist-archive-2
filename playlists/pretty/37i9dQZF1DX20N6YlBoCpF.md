@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Die Heuwels Fantasties, Tasché, Neil Somers, Dassie en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,187 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,188 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 69 | [Nie So Diep Nie](https://open.spotify.com/track/43C9DJ72nZW2ATcoxzYxIB) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Dis Nie So Diep Nie](https://open.spotify.com/album/2uKcmBvNzVaspPoSet0I4M) | 3:15 |
 | 70 | [Wil Jy Bly \- SENSASIE Remix](https://open.spotify.com/track/4uvIDGoQh4q8rhtDiNSxdG) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Wil Jy Bly \(SENSASIE Remix\)](https://open.spotify.com/album/6jmoZVhOls3BiLGeDAzere) | 3:18 |
 
-Snapshot ID: `AAAAANgASJmsLYh0X9p2S9LP+Bou7t7K`
+Snapshot ID: `AAAAAFmk7nr0C8C8iK7B8ibm2qCXlHkh`

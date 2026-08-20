@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,563 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,501 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [HOMECOMING](https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [HOMECOMING](https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL) | 2:21 |
 | 90 | [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 |
 
-Snapshot ID: `AAAAAE+9u6qif5A4FE4NkqTPPpCb009l`
+Snapshot ID: `AAAAAPywBOz0UVGw4/mYfaeKXW/18i1o`

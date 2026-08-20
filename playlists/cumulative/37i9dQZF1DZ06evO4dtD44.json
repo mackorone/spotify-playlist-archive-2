@@ -770,7 +770,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 88084,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/4U4YKjoNec7hFsUP98NtjS"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 176173,
       "name": "Nao Vou Pra Casa",
       "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107493,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J"
+    },
+    {
+      "album": {
         "name": "Chega de saudade de Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 107560,
       "name": "Saudade F\u00eaz Um Samba",
       "url": "https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,620 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,643 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
 | 50 | [que te vaya bien](https://open.spotify.com/track/58LiAJyT6hMMUzW0npHfzY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [que te vaya bien](https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme) | 3:14 |
 
-Snapshot ID: `AAAAAIX32Gfe14vVMjYx1ZB1E5d3d9CR`
+Snapshot ID: `AAAAAGRJgFZoF6KaKpJsMTkc7fvkJQz1`

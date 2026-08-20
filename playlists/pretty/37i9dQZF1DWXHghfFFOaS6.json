@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 390380,
+  "num_followers": 390445,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKg6wMTLNMPIoWeS5OdQceQfiRm8",
+  "snapshot_id": "AAAAABei0IasYxdty8Jbo8XuypJVnWP2",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 355373,
-      "name": "Love Will Bring Us Back Together",
-      "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 247893,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 355373,
+      "name": "Love Will Bring Us Back Together",
+      "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1057,20 +1057,20 @@
       "url": "https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
+      "added_at": "2026-07-03 04:00:31",
       "album": {
-        "name": "Culture of Fear",
-        "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
+        "name": "Acid Jazz Revenge",
+        "url": "https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
         }
       ],
-      "duration_ms": 272800,
-      "name": "Web of Deception",
-      "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
+      "duration_ms": 271810,
+      "name": "Let the Music Find You",
+      "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1093,20 +1093,20 @@
       "url": "https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB"
     },
     {
-      "added_at": "2026-07-03 04:00:31",
+      "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Acid Jazz Revenge",
-        "url": "https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF"
+        "name": "Culture of Fear",
+        "url": "https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263"
       },
       "artists": [
         {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 271810,
-      "name": "Let the Music Find You",
-      "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
+      "duration_ms": 272800,
+      "name": "Web of Deception",
+      "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
     },
     {
       "added_at": "2022-07-14 19:24:43",

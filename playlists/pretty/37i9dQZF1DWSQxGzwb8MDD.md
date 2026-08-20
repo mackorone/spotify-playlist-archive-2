@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 94 | [Photographic \- Some Bizzare Version](https://open.spotify.com/track/4K451UeT59EIVvVDto4ZFK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 81\-85](https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR) | 3:11 |
 | 95 | [Cyber Sunshine \- Angel D'lite & Eoin DJ Remix](https://open.spotify.com/track/30mCeDo8Gr6MVJ24N1r5JD) | [Match Box](https://open.spotify.com/artist/4d8xBGF8IuHVSHRSpB0dTn), [Angel D'lite](https://open.spotify.com/artist/3hTukG4F04etkdZSQBsPOf), [Eoin DJ](https://open.spotify.com/artist/61lnAG9y0PG9hYkqpTWsLz) | [Cyber Sunshine \(Deluxe Remix Pack\)](https://open.spotify.com/album/4gnlErpA5VWMzrpXF982ys) | 5:46 |
 
-Snapshot ID: `AAAAABLJ4dzM/+jOU6++7IvGgZj5wTK1`
+Snapshot ID: `AAAAAPKCwajYIwoTToVL025SWOVHIiZX`

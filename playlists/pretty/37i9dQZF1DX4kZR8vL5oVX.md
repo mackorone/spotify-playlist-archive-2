@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Emma'a \(du titre \#1 au \#15\)\. Les titres \#16 à \#50 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,835 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,774 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Comme au cinéma](https://open.spotify.com/track/6ulsztRQFzuHNWswC3bzjF) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [BPM](https://open.spotify.com/album/0dQQNapuO631RSnGLl0oTA) | 2:57 |
 | 50 | [NÉGATIF](https://open.spotify.com/track/0w6Vy1gKQEAEnRYuEngGmM) | [Teyma](https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h) | [NÉGATIF](https://open.spotify.com/album/2pQJ2UhdgpAWjOytKXNkQi) | 2:19 |
 
-Snapshot ID: `AAAAAHUa/6QtiIZl0AI47kaLbXlMDWbF`
+Snapshot ID: `AAAAAI8hSC1gAd2bQEOB+3iLmTpvn2kN`

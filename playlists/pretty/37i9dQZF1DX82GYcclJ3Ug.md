@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,784 likes - 151 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,743 likes - 151 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 150 | [ninetynine](https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [dollhouse](https://open.spotify.com/album/201hc47dwex9hgvquFuPyK) | 2:43 |
 | 151 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 
-Snapshot ID: `AAAAAOj4avGybvZ2iE15mR9Dt85Nor+l`
+Snapshot ID: `AAAAANeAU+cmBAY7HBjgUVPvD+zxsgmn`

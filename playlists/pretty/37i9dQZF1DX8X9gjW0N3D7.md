@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Hansom Ēli
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,563 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,593 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 26 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
 | 27 | [Expedition](https://open.spotify.com/track/5bT4JjpOvG7vjH6wRnTwvS) | [Désaccords](https://open.spotify.com/artist/5O4DFUrc2Xb9U3UglWdQtC) | [À fleur de paupière](https://open.spotify.com/album/6bJKvM31AJJuhOaFmyii8z) | 4:19 |
 | 28 | [Leave You Behind](https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Leave You Behind](https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd) | 2:53 |
-| 29 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 |
+| 29 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
 | 30 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
-| 31 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
+| 31 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 |
 | 32 | [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 |
 | 33 | [Je fais confiance au temps](https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Je fais confiance au temps](https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U) | 3:17 |
-| 34 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
+| 34 | [OLI](https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi) | 3:19 |
 | 35 | [Dis\-moi, dis\-moi](https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [I Liked Blue After You](https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD) | 2:58 |
-| 36 | [OLI](https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi) | 3:19 |
+| 36 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
 | 37 | [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 |
 | 38 | [Roses](https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w) | 3:55 |
 | 39 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 49 | [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 |
 | 50 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
 | 51 | [Comme un bébé](https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:09 |
-| 52 | [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 |
-| 53 | [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 |
+| 52 | [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 |
+| 53 | [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 |
 | 54 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 |
 | 55 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 |
 | 56 | [Todas mis amigas](https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Todas mis amigas](https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s) | 3:48 |
 | 57 | [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 |
 | 58 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
-| 59 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 |
+| 59 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 |
 | 60 | [Qu'est\-ce que je viens faire ici ?](https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [xx](https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4) | 2:14 |
-| 61 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 |
+| 61 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 |
 | 62 | [If You Love Her](https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Sad Songs for Grieving](https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8) | 3:37 |
 | 63 | [Courtside](https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Courtside](https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq) | 3:02 |
 | 64 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 70 | [Tangerine](https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Tangerine](https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i) | 3:45 |
 | 71 | [Les serpents dans l'eau](https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu) | [cécile](https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH) | [Les serpents dans l'eau](https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge) | 3:37 |
 | 72 | [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 |
-| 73 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 |
-| 74 | [Psychanalyse](https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [L'Empreinte](https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R) | 3:02 |
+| 73 | [Psychanalyse](https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [L'Empreinte](https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R) | 3:02 |
+| 74 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 |
 | 75 | [rêves en hd](https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [rêves en hd](https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi) | 4:13 |
 
-Snapshot ID: `AAAAACow9kKPliHiGJElYke5cEkCu6Ao`
+Snapshot ID: `AAAAALndv7UABSgQcliTPVOMY3npLDaY`

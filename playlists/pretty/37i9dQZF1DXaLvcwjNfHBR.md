@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,738 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,733 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 79 | [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 |
 | 80 | [NEW WORLD](https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [RUN IT BACK](https://open.spotify.com/album/0PSuvb9N4opuNDBsMOKcRN) | 3:43 |
 
-Snapshot ID: `AAAAANRgd1dekU6LsV3OSo09MTCiTssF`
+Snapshot ID: `AAAAAJ9IyZ99FUdpuA8TOepxAbAAUn3m`

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Marvin Winans, Melvin Crispell III, Vickie Winans and more
+> With Melvin Crispell III, Vickie Winans, James Cleveland and more
 
 2,024 songs - 6 day 12 hr 48 min
 

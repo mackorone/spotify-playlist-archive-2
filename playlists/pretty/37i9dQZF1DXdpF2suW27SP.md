@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Julinho Ksd entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,810 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,820 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Tráfico n°2 / Dama da Noite](https://open.spotify.com/track/6srwAFrvqjV4tt0rkzzHRw) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Traficante D'Arte](https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF), [Stevão NDM](https://open.spotify.com/artist/5JpEb19393qOrYgRniHY6h), [Missy Bity](https://open.spotify.com/artist/454cRoiGliscM95RXMHeMY), [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh), [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7), [DSB 1224](https://open.spotify.com/artist/2stDBehct4FMgEapZ92nLg), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Tráfico n°2 / Dama da Noite](https://open.spotify.com/album/6wu0RQWFn5BH2SerKYNUO2) | 7:16 |
 | 70 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 |
 
-Snapshot ID: `AAAAAHX1uVytynYoa8Gz5Npl9/9lIVts`
+Snapshot ID: `AAAAAO/qFSdDQM8a1hhyFQx6zJPIzaq6`

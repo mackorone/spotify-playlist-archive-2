@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoJPAAAAAAC5P5DEUkEhew5T68nR8tJN",
+  "snapshot_id": "aoOggAAAAAB6TteUZatil6c4xudYEkai",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa",
-        "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 288006,
-      "name": "Mesa",
-      "url": "https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing To (Khotin Remix)",
         "url": "https://open.spotify.com/album/0g2LS4DdFS1SKPVBirPG2E"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 217253,
       "name": "Sing To - Khotin Remix",
       "url": "https://open.spotify.com/track/2on9Qx0i7XjUicfxPca2ha"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mesa",
+        "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 288006,
+      "name": "Mesa",
+      "url": "https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchtheplants Presents: Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 226693,
-      "name": "Flew",
-      "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
+      "duration_ms": 386000,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
     },
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Touchtheplants Presents: Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Flew",
+      "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cloud Time",
         "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
@@ -188,25 +204,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 386000,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silken Pt. 2.1",
-        "url": "https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Silken Pt. 2.1",
-      "url": "https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silken Pt. 2.1",
+        "url": "https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Silken Pt. 2.1",
+      "url": "https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cloud Time",
         "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
@@ -252,25 +268,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Star Gazing",
-      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -332,9 +316,25 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 351093,
-      "name": "Woven",
-      "url": "https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c"
+      "duration_ms": 413826,
+      "name": "Star Gazing",
+      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Each Story",
+      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Each Story",
-      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -396,9 +380,25 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 575320,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
+      "duration_ms": 351093,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 610000,
+      "name": "Matsumoto",
+      "url": "https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
       "duration_ms": 443440,
       "name": "Piano 1",
       "url": "https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 575320,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
       "duration_ms": 369773,
       "name": "Rain",
       "url": "https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 610000,
-      "name": "Matsumoto",
-      "url": "https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Hudson Westbrook, Jordan Davis, Little Big Town with Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,397 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,485 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 88 | [Living Proof](https://open.spotify.com/track/6ohqoeitJYY4iS7OYfh76u) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [Living Proof](https://open.spotify.com/album/5ZijHtnJsPqaabFiMb588U) | 3:44 |
 | 89 | [Hell I Won't](https://open.spotify.com/track/4p9oq2SHPTIXvMPZ25WPWd) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Hell I Won't](https://open.spotify.com/album/5mIvk2CepPD3fKrVhYrVmz) | 2:48 |
 
-Snapshot ID: `AAAAAAkOyslU1VVAHKHM3h42dUMeX0TT`
+Snapshot ID: `AAAAAJ+M+18eOeqqFiXGpDb1IIw2sJGe`

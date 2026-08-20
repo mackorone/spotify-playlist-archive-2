@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 171432,
       "name": "Furta-Cor",
       "url": "https://open.spotify.com/track/4PUFsnaztPNbXSHhGnQ2Tw"
@@ -4270,6 +4270,32 @@
       "duration_ms": 278033,
       "name": "N\u00c3O ME CHAME DE AMOR",
       "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o mente pra mim",
+        "url": "https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr"
+      },
+      "artists": [
+        {
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "N\u00e3o mente pra mim",
+      "url": "https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M"
     },
     {
       "album": {

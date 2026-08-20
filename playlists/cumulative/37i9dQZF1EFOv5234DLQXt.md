@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 10 hr 28 min
+149 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [En Camino \- Remasterizado 2007](https://open.spotify.com/track/4EO3RjlXJbTUQdDnRGlcGa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:29 | 2024-01-29 |  |
 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 | 2024-01-29 |  |
 | [En el Séptimo Día](https://open.spotify.com/track/6WFqaM9j9vyHi9BNKjWYWM) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 4:17 | 2024-01-29 | 2024-01-31 |
-| [En la Ciudad de la Furia](https://open.spotify.com/track/0iXtuWmY23LWSpZiQJKmnQ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:40 | 2026-08-18 |  |
+| [En la Ciudad de la Furia](https://open.spotify.com/track/0iXtuWmY23LWSpZiQJKmnQ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:40 | 2026-08-18 | 2026-08-20 |
+| [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 | 2026-08-19 |  |
 | [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 | 2024-01-29 | 2026-08-19 |
 | [En Remolinos](https://open.spotify.com/track/4MTSnsogocVrDHSbgQZpXC) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Reflejos de Lo Eterno](https://open.spotify.com/album/1H83qbfi02zo43uG3qwXJO) | 4:42 | 2025-04-01 |  |
 | [En Remolinos](https://open.spotify.com/track/1Q5DZiLiUoLs3cG5ZkmcP3) | [Pixel](https://open.spotify.com/artist/61tsAT8ra4mLllePLRikc2) | [En Remolinos](https://open.spotify.com/album/05EhD6gV31HCFHMbsq89HT) | 4:53 | 2024-01-29 | 2025-04-02 |

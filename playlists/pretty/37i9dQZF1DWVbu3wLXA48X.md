@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: yung kai
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,150 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,143 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [sailing](https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [sailing](https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I) | 4:04 |
 | 100 | [Marrying For Love](https://open.spotify.com/track/1ZnMLgyS075eOwZX5YLTkA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [The Man Comes Around](https://open.spotify.com/album/0GSS3P7JIbwd15FHWwHV82) | 3:38 |
 
-Snapshot ID: `AAAAAGV3gXkKK42VVqXQ7Sto9Ny7K4rP`
+Snapshot ID: `AAAAAH0tFO/c7wtTf/NkPtF/IKjX6+AJ`

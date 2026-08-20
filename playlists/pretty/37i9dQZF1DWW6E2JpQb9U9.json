@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 127016,
+  "num_followers": 127030,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0UTulWmm2Q1aUlnDahN/K9iWTg",
+  "snapshot_id": "AAAAAObVNtXRXqq10MJ1Nf2JC94YEHD7",
   "tracks": [
     {
       "added_at": "2026-06-12 03:00:36",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Pepsi Music 2005",
+        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "El Viejo (En Vivo)",
+      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 334320,
       "name": "Avanti Morocha (En Vivo Provincia Emergente)",
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Pepsi Music 2005",
-        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "El Viejo (En Vivo)",
-      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Ven Aqu\u00ed (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 266519,
       "name": "Ven Aqu\u00ed - MTV Unplugged",
       "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Divididos en Argentinos Juniors (En Vivo)",
-        "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        },
-        {
-          "name": "Claudio Marciello",
-          "url": "https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr"
-        }
-      ],
-      "duration_ms": 293061,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Divididos en Argentinos Juniors (En Vivo)",
+        "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        },
+        {
+          "name": "Claudio Marciello",
+          "url": "https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr"
+        }
+      ],
+      "duration_ms": 293061,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1367,6 +1367,26 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Nike es la Cultura (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
+        "url": "https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 346986,
+      "name": "Nike es la Cultura - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
+      "url": "https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1399,26 +1419,6 @@
       "duration_ms": 269911,
       "name": "Espejo Roto - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Nike es la Cultura (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
-        "url": "https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 346986,
-      "name": "Nike es la Cultura - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
-      "url": "https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Razzmatazz (En directo)",
-        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 180885,
-      "name": "Me envenenaste - En directo Razzmatazz",
-      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ritual Piojoso (En Vivo en River Plate)",
-        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+        "name": "Razzmatazz (En directo)",
+        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 284048,
-      "name": "Pac\u00edfico - En Vivo en River Plate",
-      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+      "duration_ms": 180885,
+      "name": "Me envenenaste - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Ritual Piojoso (En Vivo en River Plate)",
+        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 284048,
+      "name": "Pac\u00edfico - En Vivo en River Plate",
+      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
         "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Vuelo del Drag\u00f3n, Pt. 3",
-        "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
-      },
-      "artists": [
-        {
-          "name": "Palo Pandolfo",
-          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
-        }
-      ],
-      "duration_ms": 289804,
-      "name": "Ella Vendr\u00e1",
-      "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Fr\u00e1gil (En Vivo)",
         "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Carretera Perdida (En Vivo)",
-        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+        "name": "El Vuelo del Drag\u00f3n, Pt. 3",
+        "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
       },
       "artists": [
         {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+          "name": "Palo Pandolfo",
+          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
         }
       ],
-      "duration_ms": 290496,
-      "name": "Carretera Perdida - En Vivo",
-      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+      "duration_ms": 289804,
+      "name": "Ella Vendr\u00e1",
+      "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1623,6 +1607,22 @@
       "duration_ms": 280661,
       "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
       "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Sheriff (En Vivo en Baradero Diciembre 2024)",
+        "url": "https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 347227,
+      "name": "Sheriff - En Vivo en Baradero Diciembre 2024",
+      "url": "https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "EN LA CIUDAD DE LA FURIA (En Vivo)",
         "url": "https://open.spotify.com/album/1loCmsGg5lk8HmRcRlMxQ8"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 338123,
       "name": "EN LA CIUDAD DE LA FURIA - En Vivo",
       "url": "https://open.spotify.com/track/2fw3ujE8zbNVsl4EM7d0lR"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Sheriff (En Vivo en Baradero Diciembre 2024)",
-        "url": "https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 347227,
-      "name": "Sheriff - En Vivo en Baradero Diciembre 2024",
-      "url": "https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW"
     }
   ],
   "unique_name": "Vivo de Rock",

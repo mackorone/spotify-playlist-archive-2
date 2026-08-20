@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Ozuna & Omar Courtz are bringing the heat this week\. Tap in every Thursday for a refresh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,805 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,774 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [EL BAIFO](https://open.spotify.com/track/3e9zgP2N318DmC6qP7kdNj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 3:19 |
 | 50 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
 
-Snapshot ID: `AAAAAJPwbtFyMUV46dxGZ7zveeKweP0+`
+Snapshot ID: `AAAAAATdBR75g5O58x+Y3wSARfS92pOe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,646 likes - 262 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,800 likes - 262 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 68 | [One More Time](https://open.spotify.com/track/4mDySZQYofX5dZSPpQNxi7) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Entropy](https://open.spotify.com/album/17n5dv9DOKRXZepPMDvHtS) | 2:45 |
 | 69 | [Safe and Sound](https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Safe and Sound](https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj) | 3:17 |
 | 70 | [Say That You'll Be There](https://open.spotify.com/track/4JMuodI0azkbgFuMnBkILH) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Say That You'll Be There](https://open.spotify.com/album/2Db78tYGSKC6Qjr9CqjmTD) | 3:15 |
-| 71 | [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 |
+| 71 | [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 |
 | 72 | [Ceasefire](https://open.spotify.com/track/4RIw1uiwQ1dnr8hXUB8Hpy) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Ceasefire](https://open.spotify.com/album/6UISk0EXFfBXqhTN6KRfjC) | 2:31 |
 | 73 | [Everybody](https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R) | 2:34 |
 | 74 | [Sweet Nothings](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 3:40 |
 | 75 | [I Don't Wanna Stop](https://open.spotify.com/track/5mLybISpqBigKI2dXM3Yl5) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [I Don't Wanna Stop](https://open.spotify.com/album/1oMTheMSsGJrmkGr2NbrnZ) | 3:38 |
 | 76 | [How Does It Feel](https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [How Does It Feel](https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V) | 3:33 |
 | 77 | [Miss That \- Marten Lou Remix](https://open.spotify.com/track/01jOgVUVbmT0lXRaWRmYqi) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Miss That \(Marten Lou Remix\)](https://open.spotify.com/album/0lLbRJhBbp37aZYgdOBqm2) | 3:40 |
-| 78 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
+| 78 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
 | 79 | [Night Moves](https://open.spotify.com/track/2ZKSwkHVK9S75VTWc4Y97D) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Night Moves](https://open.spotify.com/album/0S1kO9zEDLKx9oKGVRnBDt) | 3:02 |
 | 80 | [Soaring](https://open.spotify.com/track/3t61xVGeNITVblylUfIHU0) | [Sindresu](https://open.spotify.com/artist/76ABe2gQodROtWDOWQRL9J) | [Soaring](https://open.spotify.com/album/0ALI5lP9Vo94YoJZy8OoRk) | 2:16 |
 | 81 | [at the wheel](https://open.spotify.com/track/7DGHxfw67pmv0mX6bqd4hP) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [at the wheel](https://open.spotify.com/album/3ErLSH0Zm5mNXftzdBn0WV) | 2:41 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 261 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
 | 262 | [I Want You](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Want You](https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL) | 3:27 |
 
-Snapshot ID: `AAAAAOvsBTziqChzvXCgOiI7txJjz5IS`
+Snapshot ID: `AAAAAL7TV7FaKT1Mm5/89OT/3zKukZxb`

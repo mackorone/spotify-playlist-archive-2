@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: FYP
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,580 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,582 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 111 | [Pandora's Box](https://open.spotify.com/track/3XsfXT3LPFxbX0y1IOj06N) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Pandora's Box](https://open.spotify.com/album/18mEhuXOgTnx1VGH7Uk3Rb) | 4:34 |
 | 112 | [微光](https://open.spotify.com/track/6BXwrKETFgjzwV0EGjOE6T) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Monologue](https://open.spotify.com/album/5FyXA1no5WG94R1b8RA9Nr) | 3:54 |
 
-Snapshot ID: `AAAAANznCL196i5TsQgAtRFEEG9/X9DX`
+Snapshot ID: `AAAAAMETKR0ykIAPMBxf2/RyiurFwVQ5`

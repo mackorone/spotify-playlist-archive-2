@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,338 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,344 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Noothana \- From "Niram \- Telugu"](https://open.spotify.com/track/2eDxTuSCTI6PEYzBwjRftP) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Vanamali](https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Niram \- Telugu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bRHrymP34zj09SPW0UkG6) | 4:01 |
 | 51 | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/album/0dPSyFZAgD9WtDVIHujBc5) | 3:13 |
 
-Snapshot ID: `AAAAAGVmp6kEmM0wOQDJFGunmiPLEI41`
+Snapshot ID: `AAAAAKLkyVn2JdPaA/NqWQ46Elf1qNhN`

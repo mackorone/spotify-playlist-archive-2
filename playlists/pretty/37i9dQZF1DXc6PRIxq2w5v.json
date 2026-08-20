@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 192785,
+  "num_followers": 192798,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLT5PIOBPvCKXLfRE+TQDyOLH/E",
+  "snapshot_id": "AAAAANpSH2To+Su+ferjqnyCnuUFLDkx",
   "tracks": [
     {
       "added_at": "2026-08-15 03:01:19",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "O Plano",
+        "url": "https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Coroa Da Vida",
+      "url": "https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
         "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 280028,
       "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
       "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "O Plano",
-        "url": "https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Coroa Da Vida",
-      "url": "https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -555,22 +555,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado",
-        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
+        "name": "Seu Poder",
+        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
       },
       "artists": [
         {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         },
         {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Cora\u00e7\u00e3o Cansado",
-      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
+      "duration_ms": 222169,
+      "name": "Seu Poder",
+      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -595,22 +595,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Seu Poder",
-        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
+        "name": "Cora\u00e7\u00e3o Cansado",
+        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 222169,
-      "name": "Seu Poder",
-      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
+      "duration_ms": 160000,
+      "name": "Cora\u00e7\u00e3o Cansado",
+      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -815,6 +815,30 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "B\u00edblia no Jeans",
+        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
+      },
+      "artists": [
+        {
+          "name": "Kinho",
+          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "B\u00edblia no Jeans",
+      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Momentos Dif\u00edceis",
         "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
       },
@@ -859,30 +883,6 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "B\u00edblia no Jeans",
-        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
-      },
-      "artists": [
-        {
-          "name": "Kinho",
-          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "B\u00edblia no Jeans",
-      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
         "name": "Deus Me Estendeu Sua M\u00e3o",
         "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
       },
@@ -895,6 +895,30 @@
       "duration_ms": 167947,
       "name": "Deus Me Estendeu Sua M\u00e3o",
       "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -939,30 +963,6 @@
       "duration_ms": 183321,
       "name": "Rio De \u00c1guas Vivas",
       "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Sem a Sua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Clerick",
-          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
-        }
-      ],
-      "duration_ms": 185072,
-      "name": "Sem a Sua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
         "name": "Melhores Dias",
         "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 159069,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "Sem a Sua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Clerick",
+          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
+        }
+      ],
+      "duration_ms": 185072,
+      "name": "Sem a Sua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
+      },
+      "artists": [
+        {
+          "name": "EMID\u00ca",
+          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
+        },
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 146750,
       "name": "Irris\u00f3rio",
       "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
-      },
-      "artists": [
-        {
-          "name": "EMID\u00ca",
-          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
-        },
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
       "artists": [
         {
@@ -1248,29 +1248,17 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1287,6 +1275,22 @@
       "duration_ms": 155300,
       "name": "Prosseguir",
       "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1331,8 +1335,8 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
       },
       "artists": [
         {
@@ -1340,17 +1344,13 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Refer\u00eancia",
+        "url": "https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5"
+      },
+      "artists": [
+        {
+          "name": "Jovem Z",
+          "url": "https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Refer\u00eancia",
+      "url": "https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Cristo T\u00e1 Voltando",
         "url": "https://open.spotify.com/album/6MKefo2q2MITMbG7cHaesH"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 169090,
       "name": "Por Onde C Andar",
       "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Refer\u00eancia",
-        "url": "https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5"
-      },
-      "artists": [
-        {
-          "name": "Jovem Z",
-          "url": "https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Refer\u00eancia",
-      "url": "https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Se Anima",
         "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 138139,
       "name": "Se Anima",
       "url": "https://open.spotify.com/track/1xOINsI8OIOpS8MsqyqySJ"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
       },
       "artists": [
         {
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
     },
     {
       "added_at": "2026-08-15 03:01:19",

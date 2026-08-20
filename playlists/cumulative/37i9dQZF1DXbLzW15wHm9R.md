@@ -2,7 +2,7 @@
 
 ### [needle drop](https://open.spotify.com/playlist/37i9dQZF1DXbLzW15wHm9R)
 
-> Original and synced songs that stay with you long after the credits roll..\. Cover: The Devil Wears Prada 2
+> Original and synced songs that stay with you long after the credits roll..\. Cover: Spider\-Man: Brand New Day.
 
 227 songs - 12 hr 46 min
 

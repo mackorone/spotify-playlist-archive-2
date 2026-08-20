@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 50 | [Bandolero](https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 2:48 |
 
-Snapshot ID: `AAAAALJgyRJgbtfcAa4ps2BjiJ7ZRmNa`
+Snapshot ID: `AAAAAB/9OJMM3GcGeccdWoTqEOG2Lool`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPHAl7NJnI/t6oukU8o49jIZ9TG",
+  "snapshot_id": "AAAAAKavYkFPXS0SmloiMo3dRAn6338A",
   "tracks": [
     {
       "added_at": "2026-08-07 02:26:26",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-08-07 02:26:26",
       "album": {
+        "name": "What can I do",
+        "url": "https://open.spotify.com/album/4eV349LplmfXn5COoDAriG"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 207788,
+      "name": "What can I do",
+      "url": "https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv"
+    },
+    {
+      "added_at": "2026-08-07 02:26:26",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 195882,
       "name": "EVEREST (with Sam Kim)",
       "url": "https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo"
-    },
-    {
-      "added_at": "2026-08-07 02:26:26",
-      "album": {
-        "name": "What can I do",
-        "url": "https://open.spotify.com/album/4eV349LplmfXn5COoDAriG"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 207788,
-      "name": "What can I do",
-      "url": "https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

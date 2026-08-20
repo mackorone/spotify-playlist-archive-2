@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KATSEYE, Phoebe Bridgers, XPOSE more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,158 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,155 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 100 | [People Just Don’t Know](https://open.spotify.com/track/6ePFr34xi2SYUokrAke1xG) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [Lost In Another World](https://open.spotify.com/album/6a4PjuIDMW3kxLNuoi4LXf) | 4:09 |
 | 101 | [Coco](https://open.spotify.com/track/4pkUQA1yJom2KKgaGuK0VE) | [kiOra](https://open.spotify.com/artist/4KlNJ2885MAzt6tcpW7G4j) | [Coco](https://open.spotify.com/album/7uSyx8AvhEuiRs17jWW0lr) | 2:15 |
 
-Snapshot ID: `AAAAAJKtFfhnEKlMXMSnU9LQuKMnVYPx`
+Snapshot ID: `AAAAAFIvM/vBc0891/jO4QnBTrsg49zT`

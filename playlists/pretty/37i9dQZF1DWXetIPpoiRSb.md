@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pop's R&D department ⚡️🧪🧬 cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,827 likes - 79 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,805 likes - 79 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 78 | [Power Trip](https://open.spotify.com/track/3b3jJlhmSubEOqxFhiVBmR) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Power Trip](https://open.spotify.com/album/5FvNU9rPFFZWI5OrIVv3j5) | 2:47 |
 | 79 | [Where's My Bikini](https://open.spotify.com/track/37or6sHEsIQ2afxg2A1srK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Where’s My Bikini](https://open.spotify.com/album/0kZoa3mz2zdbYvPTwNAhoi) | 2:39 |
 
-Snapshot ID: `AAAAALKGb3R3/uyXeWvNzUVAJ1jeqewR`
+Snapshot ID: `AAAAANnwnmwFMAIsj8s2C96/MT8GLCkE`

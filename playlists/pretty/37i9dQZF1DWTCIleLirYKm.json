@@ -1,12 +1,12 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 225727,
+  "num_followers": 225772,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWd3TI16eaAdSaUrZD7MPezrGeO",
+  "snapshot_id": "AAAAAB4e4Z2cVN5ofq/MJzJY8RFn3N8s",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:57",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 231720,
       "name": "Devil Always Made Me Think Twice",
       "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Back To The Barrooms",
         "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 271160,
       "name": "I Think I'll Just Stay Here And Drink",
       "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "The Road Goes On Forever",
-        "url": "https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "The Road Goes On Forever",
+        "url": "https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "A Country Star Is Born",
+        "url": "https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 188998,
+      "name": "Why You Been Gone so Long",
+      "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "Outlaw Shit (feat. Shooter Jennings)",
         "url": "https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 245046,
       "name": "Outlaw Shit (feat. Shooter Jennings)",
       "url": "https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
-        "name": "A Country Star Is Born",
-        "url": "https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae"
-      },
-      "artists": [
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 188998,
-      "name": "Why You Been Gone so Long",
-      "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"
     },
     {
       "added_at": "2026-07-24 04:01:57",

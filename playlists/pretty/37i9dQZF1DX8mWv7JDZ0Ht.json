@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  GIANA",
-  "num_followers": 433677,
+  "num_followers": 433673,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOE8mNocbLKdTr+3punfFxzlilNY",
+  "snapshot_id": "AAAAAF4uOxyaiGsOb3LbrsBs5TjoNtaw",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:28",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
+        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 189276,
+      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
+      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
         "name": "Fa\u00e7o Parar de Chover",
         "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 199711,
       "name": "Fa\u00e7o Parar de Chover",
       "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
-        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 189276,
-      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
-      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
         "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
         "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2026-08-14 03:00:28",

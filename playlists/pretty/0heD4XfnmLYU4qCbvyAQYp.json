@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO8RuF7r389FbHfQIbVOt7TYW/xMQw",
+  "snapshot_id": "AAAO9Xwf9EN4oilYkKwS83WBxlVusuuc",
   "tracks": [
+    {
+      "added_at": "2026-08-19 13:19:59",
+      "album": {
+        "name": "Non ho niente d'intelligente da dire",
+        "url": "https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ"
+      },
+      "artists": [
+        {
+          "name": "Hofmann Orchestra",
+          "url": "https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK"
+        }
+      ],
+      "duration_ms": 182636,
+      "name": "Non ho niente d'intelligente da dire",
+      "url": "https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ"
+    },
     {
       "added_at": "2026-08-17 13:54:12",
       "album": {
@@ -1111,6 +1127,54 @@
       "duration_ms": 328000,
       "name": "Le chant du cygne - Live",
       "url": "https://open.spotify.com/track/7mutnL7QlWUr3iduMEZnLF"
+    },
+    {
+      "added_at": "2026-08-19 08:11:37",
+      "album": {
+        "name": "Pain Taught Me Your Name",
+        "url": "https://open.spotify.com/album/4RLyGKU0h23VjtswJADXHV"
+      },
+      "artists": [
+        {
+          "name": "The Divas Five",
+          "url": "https://open.spotify.com/artist/2IKZBpocujc08kPUTKpcfh"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Pain Taught Me Your Name",
+      "url": "https://open.spotify.com/track/3BxezNMRlnYNFhELtUBhUl"
+    },
+    {
+      "added_at": "2026-08-19 08:11:44",
+      "album": {
+        "name": "Youth in the Rearview",
+        "url": "https://open.spotify.com/album/3e8PYfNC7bwlzMPO8OdLul"
+      },
+      "artists": [
+        {
+          "name": "DH Litra",
+          "url": "https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47"
+        }
+      ],
+      "duration_ms": 270165,
+      "name": "Youth in the Rearview",
+      "url": "https://open.spotify.com/track/4EH6QCKty7zmXSv6kbUPIk"
+    },
+    {
+      "added_at": "2026-08-19 08:11:48",
+      "album": {
+        "name": "Made For Cruising",
+        "url": "https://open.spotify.com/album/6RFCGXVP342Uy9H38kEc8L"
+      },
+      "artists": [
+        {
+          "name": "Silky Vibe",
+          "url": "https://open.spotify.com/artist/4tOHwi0n1qCj5tKL4S52V0"
+        }
+      ],
+      "duration_ms": 128562,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/3kQXaFWq16QpxZDkKI7R2k"
     }
   ],
   "unique_name": "Indie Rock",

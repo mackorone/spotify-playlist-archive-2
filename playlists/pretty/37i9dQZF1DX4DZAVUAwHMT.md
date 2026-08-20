@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460,513 likes - 81 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,460,420 likes - 81 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 80 | [HOTEL](https://open.spotify.com/track/5O6hZDPvTS31fXufypSL9d) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [O'JOY!](https://open.spotify.com/album/6JqFMGRvFqLkWd4RMVNWAM) | 3:19 |
 | 81 | [HEALTH+](https://open.spotify.com/track/5P7iWxMrJCKmAlmTYi29Jy) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Resistance](https://open.spotify.com/album/7tSXgQdkbNATcCYbOzIjW4) | 3:46 |
 
-Snapshot ID: `AAAAACMMY/2u3i9YmMa1N7imnrCFOusG`
+Snapshot ID: `AAAAAJTEzcPQjhIzyULrfUZpkpHsg9ZR`

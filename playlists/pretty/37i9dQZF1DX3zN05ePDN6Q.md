@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Makalister, Luiz Barata, Montosz, Nitcho
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,007 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,030 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Visão](https://open.spotify.com/track/7DjoXdHlrEbVFursvIQr9l) | [DENI](https://open.spotify.com/artist/3lV2AlHBLg7PlxnmR2D6BJ), [mayksoundsystem](https://open.spotify.com/artist/4Fe8FRX4IS2EluuU5J0Gd5) | [Visão](https://open.spotify.com/album/6k6GuREvPpGAqtjapoprXP) | 2:18 |
 | 75 | [Quem É Você ?](https://open.spotify.com/track/0XLbjpLEfZmvF0rTl51plG) | [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [Quem É Você ?](https://open.spotify.com/album/2PAOTuYYVflDdkiQ7HNf2H) | 2:01 |
 
-Snapshot ID: `AAAAABF+6rgPJUFDUk8rt6fs7JK/6cCz`
+Snapshot ID: `AAAAAC60KsIHgURIggyghxEuo6eA6q1G`

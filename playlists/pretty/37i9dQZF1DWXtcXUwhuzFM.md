@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Jami Faltin, Pihlaja, Ida.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,057 likes - 87 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,051 likes - 87 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 86 | [Sweet Devotion](https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Sweet Devotion](https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg) | 3:08 |
 | 87 | [always](https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [g00se](https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi) | 2:54 |
 
-Snapshot ID: `AAAAACUmACviW6UjwZAvaFZseoyd6UaW`
+Snapshot ID: `AAAAAI1QHHq7tFo7rikqRnQytRKYA/aP`

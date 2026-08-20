@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Erykah Badu, The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,394 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,400 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [Love Was Made of Stone](https://open.spotify.com/track/5HXoQhJCu7Axg0J1pBsCj2) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Love Was Made of Stone](https://open.spotify.com/album/3tog0SBGhLT15iGueL35qG) | 3:22 |
 | 50 | [PINK CROCS/CRASH](https://open.spotify.com/track/4z9datrd90eswIFvuSnalK) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [EGO](https://open.spotify.com/album/5FH5G40sEyTpn3aBKIzVPK) | 3:39 |
 
-Snapshot ID: `AAAAAFccHhJz62MoU3hcrH1dREqQM+5F`
+Snapshot ID: `AAAAAOfvH1Yiox+YlTLXocHGbzNPSgkE`

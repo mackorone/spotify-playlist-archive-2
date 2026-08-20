@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-340 songs - 19 hr 6 min
+341 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [For No One](https://open.spotify.com/track/7h3oEzebG1EiGrlelJYaUd) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/3c6QuGftzoHlZZ10TPsHsB) | 5:02 | 2022-04-01 | 2022-04-21 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-21 | 2025-02-01 |
 | [Frágil Coração](https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Frágil Coração](https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP) | 3:36 | 2022-04-01 | 2023-08-02 |
-| [Furta\-Cor](https://open.spotify.com/track/4PUFsnaztPNbXSHhGnQ2Tw) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Respiro](https://open.spotify.com/album/2wKOCCeBGn6D2KJImp97vW) | 2:51 | 2022-04-01 |  |
+| [Furta\-Cor](https://open.spotify.com/track/4PUFsnaztPNbXSHhGnQ2Tw) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Respiro](https://open.spotify.com/album/2wKOCCeBGn6D2KJImp97vW) | 2:51 | 2022-04-01 | 2026-08-20 |
 | [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 | 2023-08-04 |  |
 | [Gente Aberta / Imensamente Visceral](https://open.spotify.com/track/125cqbgLq4WeIW65E33qNU) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Mano](https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7) | 3:37 | 2026-05-29 |  |
 | [Gigi](https://open.spotify.com/track/1W39bHsutPg1ItstVvzS2T) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:56 | 2022-04-01 | 2022-04-21 |
@@ -220,6 +220,7 @@
 | [Nossa Resenha](https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Nossa Resenha](https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr) | 2:41 | 2024-01-12 | 2026-02-13 |
 | [nosso canto](https://open.spotify.com/track/17lHEqIcsyNsMUQrAtBWlt) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nosso canto](https://open.spotify.com/album/0j3EzUqUgTI1Wa71ud5k0p) | 2:56 | 2022-04-01 | 2022-04-15 |
 | [NÃO ME CHAME DE AMOR](https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa) | [NÃO ME CHAME DE AMOR](https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs) | 4:38 | 2026-02-06 | 2026-03-22 |
+| [Não mente pra mim](https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Não mente pra mim](https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr) | 3:22 | 2026-08-14 |  |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 | 2023-05-23 |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-02-18 |  |
 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-23 |  |

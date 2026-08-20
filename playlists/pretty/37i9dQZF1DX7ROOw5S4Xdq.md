@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,346 likes - 49 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,405 likes - 49 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Espelho](https://open.spotify.com/track/5XmeZzlMKtOd9dOfLpqDY1) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Espelho](https://open.spotify.com/album/3BzesyNkmHObHIIOKuBMAN) | 3:57 |
 | 49 | [Estou Te Esperando \(Ao Vivo\)](https://open.spotify.com/track/0ZJAbUoRb2yCL9nWuA9G7U) | [Jonata Cabral](https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp) | [Estou Te Esperando \(Ao Vivo\)](https://open.spotify.com/album/3aXICAnXXEGrUi1evWbiwz) | 5:24 |
 
-Snapshot ID: `AAAAALvb+AhOuv0EwZhvSel8a1cpGMjv`
+Snapshot ID: `AAAAAJjZjJ6L/hCisr1dh8pGOSJXTzRe`

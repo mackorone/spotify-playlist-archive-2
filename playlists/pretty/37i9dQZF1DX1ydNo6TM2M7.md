@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our 2025 setlists\. Featuring Chloé Caillet & Luke Alessi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,511 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,512 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 26 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 27 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 28 | [Yosemite \- Philip George Remix](https://open.spotify.com/track/6ckbOEFwlBqzUnXO0rPeiE) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Yosemite \(Philip George Remix\)](https://open.spotify.com/album/7wZSxAAKzDBJ2D40CG6IbK) | 4:35 |
-| 29 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
+| 29 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 30 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:10 |
 | 31 | [Mind Games](https://open.spotify.com/track/0eKOn3pMNfyrG2FvJNkbcc) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Games](https://open.spotify.com/album/5jdVZUJ0zD7e0pJmueEtEw) | 3:33 |
 | 32 | [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 65 | [Love Is Gonna Save Us](https://open.spotify.com/track/4YyL9oV3tJzX596f2CfzrE) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Love Is Gonna Save Us](https://open.spotify.com/album/4k3RDMGyLFORmxATJ2yjc6) | 3:26 |
 | 66 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 67 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
-| 68 | [It Gets Better \- Chris Stussy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stussy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
+| 68 | [It Gets Better \- Chris Stussy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stussy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
 | 69 | [Bad Boy \- GENESI Remix](https://open.spotify.com/track/4MKqROsy64whz0A1YyCXGE) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Bad Boy \(GENESI Remix\)](https://open.spotify.com/album/4Dcsa8dzEEkaqAwdF7q7rM) | 3:08 |
 | 70 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 |
 | 71 | [Kids](https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz) | [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB) | [Kids](https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp) | 2:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 79 | [Space Pump \(Space Jam\)](https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Space Pump \(Space Jam\)](https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA) | 2:45 |
 | 80 | [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 |
 
-Snapshot ID: `AAAAABG/zgtu4HAE7NiahvJE0RwoqoZy`
+Snapshot ID: `AAAAAAlN0RnbjTTeVDiQnVry2+avXuCh`

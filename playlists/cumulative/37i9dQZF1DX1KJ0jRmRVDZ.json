@@ -27771,6 +27771,28 @@
     },
     {
       "album": {
+        "name": "\u6069\u5bf5",
+        "url": "https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        },
+        {
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192672,
+      "name": "\u6069\u5bf5",
+      "url": "https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS"
+    },
+    {
+      "album": {
         "name": "\u60aa\u304f\u3041\u306a\u3044",
         "url": "https://open.spotify.com/album/2YTL1eKDiSO1hIGGhgHC2h"
       },

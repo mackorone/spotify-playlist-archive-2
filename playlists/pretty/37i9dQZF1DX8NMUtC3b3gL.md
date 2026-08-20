@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > chill vibes for lazy mornings, sun\-soaked afternoons, and late\-night breezes 🏖️☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,194 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,283 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 99 | [Flow](https://open.spotify.com/track/0cBibStw3Zb77l6PYWdC3c) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flow](https://open.spotify.com/album/7sQwmtEGzUMY0s5zcN2r8e) | 2:25 |
 | 100 | [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 |
 
-Snapshot ID: `AAAAAJCapQHbTBhpjSdSb5GJfocVjbMz`
+Snapshot ID: `AAAAAFRfc4H7o9fZvISIWqjoaak6M18W`

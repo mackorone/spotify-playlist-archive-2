@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,066 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,095 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 59 | [Row Zero](https://open.spotify.com/track/4TgJdKhrwTpRPNpUHMIfMm) | [Rabbit Cult](https://open.spotify.com/artist/3nv8z7TDLduEcN9mhGURA1) | [Row Zero](https://open.spotify.com/album/44MfCXXTJEEh6Bh7ZGbGN1) | 3:44 |
 | 60 | [To the Spoils of Faith](https://open.spotify.com/track/6iblhpFZohZYLTOmzAG5Xy) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [To the Spoils of Faith](https://open.spotify.com/album/4FsISzhUmQLLdakTy5So6J) | 3:02 |
 
-Snapshot ID: `AAAAAGLPbZ2XRrtxlL86fyzga8fq1ngZ`
+Snapshot ID: `AAAAAJjU0rsmSA4tQJ9SX93S9EhVvF4M`

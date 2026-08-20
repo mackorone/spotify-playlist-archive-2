@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,918 likes - 82 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,890 likes - 82 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 81 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
 | 82 | [Just Love](https://open.spotify.com/track/7cOUAzSxknlzBK3nc8zbvQ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Just Love](https://open.spotify.com/album/4CVZ1KT74BU4BwPs3vxgsN) | 3:03 |
 
-Snapshot ID: `AAAAANDh/pke6cXUh295IuM1hSSs5zPB`
+Snapshot ID: `AAAAAOuVrNzCEbQDN1zEWuYFEi390/ho`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,157,173 likes - 232 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,157,353 likes - 231 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,22 +223,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 213 | [Yuma](https://open.spotify.com/track/5fx3COZ7NYkn4RAsoBRE2P) | [Astral Tides](https://open.spotify.com/artist/1cdgWAGKwSdNvftvPz273S) | [Yuma](https://open.spotify.com/album/2yc1OPQg3UjVYOCH2V7rNr) | 2:36 |
 | 214 | [Trace](https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL) | [Cuatico](https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m) | [Trace](https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF) | 2:17 |
 | 215 | [Oniria](https://open.spotify.com/track/5Cwt22rLEsrCjIXvcZ4Gz2) | [Dopamine clouds](https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j) | [Oniria](https://open.spotify.com/album/4MAMfvGlOx5tJXldqQQfLL) | 3:17 |
-| 216 | [Gathering Air](https://open.spotify.com/track/3XD2C228jwgCL9yw1YKumV) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Gathering Air](https://open.spotify.com/album/3JZwbtaUkKIi6AckDaNMXH) | 2:54 |
-| 217 | [Mindful](https://open.spotify.com/track/4RdYM4DGRiOVVfS4clDCQZ) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mindful](https://open.spotify.com/album/6mVNoG3FVEMrIVqPLNKT7T) | 2:40 |
-| 218 | [The Last Light](https://open.spotify.com/track/5Q6tpNCQsROJYtUDbZfG5U) | [Gulminya](https://open.spotify.com/artist/60OXiiKVILw7mjGg6M6x1v) | [The Last Light](https://open.spotify.com/album/5qa4tRbKnDOAbSWFQwFGoh) | 2:35 |
-| 219 | [New Stars](https://open.spotify.com/track/00VGEglw1DyTGaoWiULmXW) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [New Stars](https://open.spotify.com/album/5n6azA3gbMLKU8st8jznpS) | 2:43 |
-| 220 | [Vigour](https://open.spotify.com/track/0jExd9lmCPL16B6jHBboup) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Vigour](https://open.spotify.com/album/0QSIFeRzSPmXPN5hDlQ9Nv) | 2:48 |
-| 221 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
-| 222 | [Anaies](https://open.spotify.com/track/6BHstQgIKxveXJUpIcznFj) | [Jolene Fowler](https://open.spotify.com/artist/6Tjq532tuubVAcdcG8oMbW) | [Anaies](https://open.spotify.com/album/2GsYsnTElXjo3miBnZBVcY) | 3:04 |
-| 223 | [Tikal](https://open.spotify.com/track/1tCbkqQkZBAEaMd1gqX5LO) | [Echoes of Embers](https://open.spotify.com/artist/7MwzUYxIJX8T2qqwLBAlGH) | [Tikal](https://open.spotify.com/album/63WHoBmoPhLexglwoKtQPu) | 3:29 |
-| 224 | [Angelic Planet](https://open.spotify.com/track/3PQkT6k7wYVrpCdfw1nUHC) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Galactic](https://open.spotify.com/album/5auZsjKYVdL2d7aSHgXMWV) | 2:47 |
-| 225 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 |
-| 226 | [Expansion](https://open.spotify.com/track/5kb3YbGwrOyLIRVCPacxdS) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Expansion](https://open.spotify.com/album/4CxEf4ZzyrctwCJI5JoUgK) | 4:14 |
-| 227 | [Brilliance](https://open.spotify.com/track/5YPIHz8UW4svRQXWQLOEca) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Brilliance](https://open.spotify.com/album/2B8IiSDoWZO1j4hRyAa8fF) | 2:48 |
-| 228 | [Abbraccio](https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Abbraccio](https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi) | 2:37 |
-| 229 | [Entier](https://open.spotify.com/track/45ATKvftf1YwtvgcLMkE9U) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Entier](https://open.spotify.com/album/1ZoJ00NOn05iYsbQaGlEEZ) | 2:12 |
-| 230 | [Vanishing Light](https://open.spotify.com/track/0qd4mu1lWIUumPHcEwU6Yj) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Vanishing Light](https://open.spotify.com/album/38TkvyhOmfRqX8I7PhEOKV) | 2:10 |
-| 231 | [Radiant Rest](https://open.spotify.com/track/5AAU0OmE8fl8VUvbpwAysX) | [Estralogic](https://open.spotify.com/artist/2dUNXGoOnNW3Zk6d7dzkJA) | [Radiant Rest](https://open.spotify.com/album/0qz4bgqNefnDgdSwHkUKFW) | 2:41 |
-| 232 | [Glänta](https://open.spotify.com/track/75w6qH6tVL9yij3NrcLrys) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Glänta](https://open.spotify.com/album/5QCFXzAomqb6o4WcdsSIFJ) | 3:04 |
+| 216 | [Mindful](https://open.spotify.com/track/4RdYM4DGRiOVVfS4clDCQZ) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mindful](https://open.spotify.com/album/6mVNoG3FVEMrIVqPLNKT7T) | 2:40 |
+| 217 | [The Last Light](https://open.spotify.com/track/5Q6tpNCQsROJYtUDbZfG5U) | [Gulminya](https://open.spotify.com/artist/60OXiiKVILw7mjGg6M6x1v) | [The Last Light](https://open.spotify.com/album/5qa4tRbKnDOAbSWFQwFGoh) | 2:35 |
+| 218 | [New Stars](https://open.spotify.com/track/00VGEglw1DyTGaoWiULmXW) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [New Stars](https://open.spotify.com/album/5n6azA3gbMLKU8st8jznpS) | 2:43 |
+| 219 | [Vigour](https://open.spotify.com/track/0jExd9lmCPL16B6jHBboup) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Vigour](https://open.spotify.com/album/0QSIFeRzSPmXPN5hDlQ9Nv) | 2:48 |
+| 220 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/4SnAG3DMYmxqUwelTO2Y5A) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 |
+| 221 | [Anaies](https://open.spotify.com/track/6BHstQgIKxveXJUpIcznFj) | [Jolene Fowler](https://open.spotify.com/artist/6Tjq532tuubVAcdcG8oMbW) | [Anaies](https://open.spotify.com/album/2GsYsnTElXjo3miBnZBVcY) | 3:04 |
+| 222 | [Tikal](https://open.spotify.com/track/1tCbkqQkZBAEaMd1gqX5LO) | [Echoes of Embers](https://open.spotify.com/artist/7MwzUYxIJX8T2qqwLBAlGH) | [Tikal](https://open.spotify.com/album/63WHoBmoPhLexglwoKtQPu) | 3:29 |
+| 223 | [Angelic Planet](https://open.spotify.com/track/3PQkT6k7wYVrpCdfw1nUHC) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Galactic](https://open.spotify.com/album/5auZsjKYVdL2d7aSHgXMWV) | 2:47 |
+| 224 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 |
+| 225 | [Expansion](https://open.spotify.com/track/5kb3YbGwrOyLIRVCPacxdS) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Expansion](https://open.spotify.com/album/4CxEf4ZzyrctwCJI5JoUgK) | 4:14 |
+| 226 | [Brilliance](https://open.spotify.com/track/5YPIHz8UW4svRQXWQLOEca) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Brilliance](https://open.spotify.com/album/2B8IiSDoWZO1j4hRyAa8fF) | 2:48 |
+| 227 | [Abbraccio](https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Abbraccio](https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi) | 2:37 |
+| 228 | [Entier](https://open.spotify.com/track/45ATKvftf1YwtvgcLMkE9U) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Entier](https://open.spotify.com/album/1ZoJ00NOn05iYsbQaGlEEZ) | 2:12 |
+| 229 | [Vanishing Light](https://open.spotify.com/track/0qd4mu1lWIUumPHcEwU6Yj) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Vanishing Light](https://open.spotify.com/album/38TkvyhOmfRqX8I7PhEOKV) | 2:10 |
+| 230 | [Radiant Rest](https://open.spotify.com/track/5AAU0OmE8fl8VUvbpwAysX) | [Estralogic](https://open.spotify.com/artist/2dUNXGoOnNW3Zk6d7dzkJA) | [Radiant Rest](https://open.spotify.com/album/0qz4bgqNefnDgdSwHkUKFW) | 2:41 |
+| 231 | [Glänta](https://open.spotify.com/track/75w6qH6tVL9yij3NrcLrys) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Glänta](https://open.spotify.com/album/5QCFXzAomqb6o4WcdsSIFJ) | 3:04 |
 
-Snapshot ID: `AAAAAOjqGv00shemAN3zDudHdibe8MjY`
+Snapshot ID: `AAAAAHjatv30Jgn/rFmliID6RH0bmkhR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,777 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,763 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 101 | [For A Minute](https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [For A Minute](https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH) | 3:35 |
 | 102 | [So What?](https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [So What?](https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9) | 2:48 |
 
-Snapshot ID: `AAAAAB/MnOagipP4ZNT2ThCONbICbZWS`
+Snapshot ID: `AAAAAM/qhjIm28LOrasAQhsyhTsN8F5/`

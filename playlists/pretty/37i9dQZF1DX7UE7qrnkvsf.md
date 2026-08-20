@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,934 likes - 146 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,965 likes - 146 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 145 | [Alma](https://open.spotify.com/track/6Tb2bIfXcBmajMseEi8IvV) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Alma](https://open.spotify.com/album/231SdPQjS8cC12hJySISpI) | 4:24 |
 | 146 | [Simple Pleasures](https://open.spotify.com/track/6T8bDagGPseQN443XT93yr) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Simple Pleasures](https://open.spotify.com/album/7y61HScW0XVioiqKAIakYy) | 4:51 |
 
-Snapshot ID: `AAAAAM7ll9/lvq9v8zpyfEgrIyqUxOFN`
+Snapshot ID: `AAAAAGaD6qLa4bnYGme6DTCpdqCNcN4p`

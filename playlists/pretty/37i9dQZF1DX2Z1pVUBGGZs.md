@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 💐 cover: Sam Tompkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,695 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,670 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 99 | [Prettier Things](https://open.spotify.com/track/1Y5MdLY2r5PmrRUzcl2dIw) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Tell Me It's A Dream](https://open.spotify.com/album/46hJQsJ4KcnzlyqDBjpZrw) | 3:36 |
 | 100 | [Earthworm](https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL) | [Laizer](https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22) | [Earthworm](https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v) | 2:56 |
 
-Snapshot ID: `AAAAABHt9llmQFKV3CtfpbimPEhKFs1K`
+Snapshot ID: `AAAAANSyzOJ/k6TPWlOJEbXdK85NVWzk`

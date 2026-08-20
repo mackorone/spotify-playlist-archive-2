@@ -1,12 +1,12 @@
 {
   "description": "youngs soundss \ud83e\udd5e Blaue Blume p\u00e5 forsiden ",
-  "num_followers": 47199,
+  "num_followers": 47209,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIulzxyKJVwakM/QZYp0MO9wcpZP",
+  "snapshot_id": "AAAAAH/+3fsWFKeAPgoass6+VGZGDUTT",
   "tracks": [
     {
       "added_at": "2026-08-14 09:27:18",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-08-14 09:27:18",
       "album": {
-        "name": "Sweetheart",
-        "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bider Det I Mig",
-      "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
-    },
-    {
-      "added_at": "2026-08-14 09:27:18",
-      "album": {
         "name": "Hygge & Hustle",
         "url": "https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 191764,
       "name": "Forfra",
       "url": "https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X"
+    },
+    {
+      "added_at": "2026-08-14 09:27:18",
+      "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bider Det I Mig",
+      "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
     },
     {
       "added_at": "2026-08-14 09:27:18",
@@ -627,8 +627,8 @@
     {
       "added_at": "2026-08-14 09:27:18",
       "album": {
-        "name": "Var det dig, der var derinde?",
-        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
+        "name": "Ring, n\u00e5r du har tid",
+        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
       "artists": [
         {
@@ -636,13 +636,25 @@
           "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         },
         {
-          "name": "Sarah Wichmann",
-          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
+          "name": "Kristoffer Jessen",
+          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
+        },
+        {
+          "name": "Pernille Rosendahl",
+          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
+        },
+        {
+          "name": "Pia Raug",
+          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
+        },
+        {
+          "name": "S\u00f8ren Huss",
+          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
         }
       ],
-      "duration_ms": 255223,
-      "name": "Var det dig, der var derinde?",
-      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
+      "duration_ms": 394340,
+      "name": "Ring, n\u00e5r du har tid",
+      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
     },
     {
       "added_at": "2026-08-14 09:27:18",
@@ -699,54 +711,6 @@
     {
       "added_at": "2026-08-14 09:27:18",
       "album": {
-        "name": "Hvis jeg ku'",
-        "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
-      },
-      "artists": [
-        {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Hvis jeg ku'",
-      "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
-    },
-    {
-      "added_at": "2026-08-14 09:27:18",
-      "album": {
-        "name": "Ring, n\u00e5r du har tid",
-        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Kristoffer Jessen",
-          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
-        },
-        {
-          "name": "Pernille Rosendahl",
-          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
-        },
-        {
-          "name": "Pia Raug",
-          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
-        },
-        {
-          "name": "S\u00f8ren Huss",
-          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
-        }
-      ],
-      "duration_ms": 394340,
-      "name": "Ring, n\u00e5r du har tid",
-      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
-    },
-    {
-      "added_at": "2026-08-14 09:27:18",
-      "album": {
         "name": "Walmart",
         "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 171200,
       "name": "Walmart",
       "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+    },
+    {
+      "added_at": "2026-08-14 09:27:18",
+      "album": {
+        "name": "Var det dig, der var derinde?",
+        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Sarah Wichmann",
+          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
+        }
+      ],
+      "duration_ms": 255223,
+      "name": "Var det dig, der var derinde?",
+      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
+    },
+    {
+      "added_at": "2026-08-14 09:27:18",
+      "album": {
+        "name": "Hvis jeg ku'",
+        "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Hvis jeg ku'",
+      "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
     },
     {
       "added_at": "2026-08-14 09:27:18",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-14 09:27:18",
       "album": {
-        "name": "niu bi",
-        "url": "https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 139303,
-      "name": "niu bi",
-      "url": "https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm"
-    },
-    {
-      "added_at": "2026-08-14 09:27:18",
-      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
+    },
+    {
+      "added_at": "2026-08-14 09:27:18",
+      "album": {
+        "name": "niu bi",
+        "url": "https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 139303,
+      "name": "niu bi",
+      "url": "https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm"
     },
     {
       "added_at": "2026-08-14 09:27:18",

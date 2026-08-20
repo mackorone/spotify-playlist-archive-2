@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 17 | [Issues](https://open.spotify.com/track/73RF3sAfPudbZ57jChqhiv) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/1fXSKNUR40ajVJvD4inDly) | 2:46 |
 | 18 | [Life Goes On](https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Life Goes On](https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W) | 2:46 |
 | 19 | [THROW UP](https://open.spotify.com/track/3baUe3C6XeMeE0GcHOn0xR) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 3:07 |
-| 20 | [Hate The Real](https://open.spotify.com/track/5ftWjOByjaSeEXbiiAUU5U) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Hate The Real](https://open.spotify.com/album/1siHdZPVsaanNBgk0E6Efe) | 3:38 |
-| 21 | [Site Flipping](https://open.spotify.com/track/7q09p7MYHpq9Bbg80wnW6r) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 2:50 |
+| 20 | [Site Flipping](https://open.spotify.com/track/7q09p7MYHpq9Bbg80wnW6r) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 2:50 |
+| 21 | [Hate The Real](https://open.spotify.com/track/5ftWjOByjaSeEXbiiAUU5U) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Hate The Real](https://open.spotify.com/album/1siHdZPVsaanNBgk0E6Efe) | 3:38 |
 | 22 | [Sprung](https://open.spotify.com/track/5QryAaFK2iXUBX4KhC6QaZ) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:14 |
 | 23 | [Snipers And Robbers](https://open.spotify.com/track/14uozm5j9UJWSQ8tDCs2rE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:18 |
 | 24 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 39 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
 | 40 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 
-Snapshot ID: `AcZ75AAAAAA+PyGmOnGi2sqQo99kD6LL`
+Snapshot ID: `AcaBhAAAAACrqQNmLowrAl54K4yK+Kkz`

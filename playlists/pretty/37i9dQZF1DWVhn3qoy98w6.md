@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Sita Rizzi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,116 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,129 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [kascov](https://open.spotify.com/track/6u4C0zTLKiqW1ccpqeSTmI) | [duna](https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz) | [kascov](https://open.spotify.com/album/19iySh44LmSxj104KyQ9G8) | 1:42 |
 | 50 | [Mi odio para el bien común](https://open.spotify.com/track/55CwDJQl6bbI9CJMPPzRMy) | [Técnicas y Procedimientos](https://open.spotify.com/artist/7zSpEAeV9StUa2heFItReM) | [Mi odio para el bien común](https://open.spotify.com/album/6g1jlKOWbGL1MfhnyCvCnu) | 2:27 |
 
-Snapshot ID: `AAAAAM2mez92STsKpwBIGKzNVpKMU7/y`
+Snapshot ID: `AAAAAGwrrmvFn2cXtCDFwuT5cr1PXowb`

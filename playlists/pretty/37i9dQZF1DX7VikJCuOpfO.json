@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
-  "num_followers": 368376,
+  "num_followers": 368384,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoNCFs8AC2BfhLRlVxJS8TDqOUG",
+  "snapshot_id": "AAAAAHpXCVj0wxS5ea9lwoVuqwQ+1acM",
   "tracks": [
     {
       "added_at": "2026-08-14 06:00:30",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "El Hombre Que Yo Amo",
         "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 235338,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -996,7 +996,7 @@
           "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 209920,
+      "duration_ms": 209322,
       "name": "Que Ganas De No Verte Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
-      },
-      "artists": [
-        {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
-        }
-      ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 169287,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
       "added_at": "2026-08-14 06:00:30",

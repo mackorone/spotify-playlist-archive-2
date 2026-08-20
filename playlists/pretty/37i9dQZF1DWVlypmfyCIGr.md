@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: GrimesとさたぱんP
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,434 likes - 79 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,433 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 78 | [Cattitude](https://open.spotify.com/track/627FD5UenbVZM9d6BJsoS8) | [seiza](https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY) | [Cattitude](https://open.spotify.com/album/4yYMW17ztBxlqhGlYUXPFY) | 3:10 |
 | 79 | [Synthetic海岸](https://open.spotify.com/track/25CDM5xcxU25roRWz7xu0Z) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Synthetic海岸](https://open.spotify.com/album/1korXzyIsbsutjtb1k7xeF) | 6:14 |
 
-Snapshot ID: `AAAAAG9Uw0TVA4kI8ZXkafQvVo2W4Dzm`
+Snapshot ID: `AAAAAEP4mQ9XEZTrASRDUHWoUlXnjFZ3`

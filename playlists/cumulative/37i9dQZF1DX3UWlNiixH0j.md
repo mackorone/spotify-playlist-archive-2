@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MASS OF THE FERMENTING DREGS
 
-3,786 songs - 10 day 0 hr 11 min
+3,787 songs - 10 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,6 +1267,7 @@
 | [Mayfly](https://open.spotify.com/track/0F97rI9eyqqVehbA68TZAJ) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [Mayfly](https://open.spotify.com/album/4xNsGBPFxFhpmqTXup0r9S) | 4:47 | 2025-05-27 | 2025-06-04 |
 | [Mayonaka Coin Laundry](https://open.spotify.com/track/3orUmm90hIY21pYBNE5AXH) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [HEAVEN 2](https://open.spotify.com/album/3zodGjSN7ySAwGBKCy6JRq) | 3:16 | 2023-11-29 | 2023-12-06 |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2023-03-28 | 2023-06-28 |
+| [Mazaranai](https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [REFRACTIONS](https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm) | 5:25 | 2026-08-18 |  |
 | [McDonald no coffee](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [McDonald no coffee](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 | 2023-09-22 | 2023-10-04 |
 | [ME](https://open.spotify.com/track/78e38oTL0hbxSiFVsc8WSr) | [PEAR OF THE WEST](https://open.spotify.com/artist/1c2XCKoaZoYFwSFtIZtMzf) | [ME](https://open.spotify.com/album/4KSVirz36v7aGgkjas1YPF) | 2:39 | 2026-04-14 | 2026-04-22 |
 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 | 2023-12-19 | 2024-02-07 |
@@ -2234,7 +2235,6 @@
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
-| [Track 2](https://open.spotify.com/track/4GbkddXfqsOgYx2qFWggU8) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [REFRACTIONS](https://open.spotify.com/album/71PA5dNWPzfnGfHg1hYeWm) | 0:00 | 2026-08-18 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |
@@ -3339,6 +3339,7 @@
 | [恋の手招き](https://open.spotify.com/track/20lgUET3pBpt1aVmOCB6E5) | [Togoz](https://open.spotify.com/artist/0ImOKCwdgFSvoHOVXDLap1) | [恋の手招き](https://open.spotify.com/album/29pZyY0kxU8AjJfPely39T) | 4:30 | 2026-04-08 | 2026-04-15 |
 | [恋はシュワシュワ](https://open.spotify.com/track/2AEWLRoWHfTtAHhilrF0YG) | [ソフテロ](https://open.spotify.com/artist/1jm0IJeNIH2moFJC8nfyFR) | [恋はシュワシュワ](https://open.spotify.com/album/2BF0oSdZIZsRM7D9t7QFSe) | 2:54 | 2026-05-12 | 2026-05-20 |
 | [恋人という名前](https://open.spotify.com/track/5dvz6viFuPbmdCBoLSkuPv) | [kiss the gambler](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [恋人という名前](https://open.spotify.com/album/42AIgtO0nzzifOC1pTwrjy) | 4:20 | 2026-07-28 | 2026-08-05 |
+| [恩寵](https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [HaHa And The Hairpins](https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs) | [恩寵](https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU) | 3:12 | 2026-08-18 |  |
 | [息を待つ茶碗に朝焼けが灯れば](https://open.spotify.com/track/7j3oVuO6XLGTQ7VFHrweQt) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [息を待つ茶碗に朝焼けが灯れば](https://open.spotify.com/album/0KxMBr7cmMCUUlTcrAwXFl) | 3:51 | 2026-06-30 | 2026-07-15 |
 | [悪魔くん](https://open.spotify.com/track/1dfN1UyFFMMnUf1nb0glwG) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [悪魔くん](https://open.spotify.com/album/5kSNrVSQsOCifIzOQkNzuB) | 2:42 | 2023-03-30 | 2023-04-28 |
 | [悪魔くん](https://open.spotify.com/track/5J3XK7QsuVn5bnyQz9kWsC) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:42 | 2023-05-16 | 2023-07-07 |

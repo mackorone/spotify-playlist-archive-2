@@ -7230,10 +7230,40 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 302173,
       "name": "Live Like Horses",
       "url": "https://open.spotify.com/track/2KLJQEXMyfxMHmdkXIA0aq"
+    },
+    {
+      "album": {
+        "name": "Live Like Horses",
+        "url": "https://open.spotify.com/album/5BCFbF7KrmJGQnKcefeQs1"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra filarmonica di Torino",
+          "url": "https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "Live Like Horses - Live Finale Version",
+      "url": "https://open.spotify.com/track/6KLG9HMfu5ClVRJMm49P8S"
     },
     {
       "album": {

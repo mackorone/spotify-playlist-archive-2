@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc?si=9d4c2de5d15c4aaa\">Devin Donnell</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV?si=087f02470e9c40cb\">Parisalexa</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -7417,6 +7417,28 @@
     },
     {
       "album": {
+        "name": "Bet It Up",
+        "url": "https://open.spotify.com/album/1korh6ho4eMKNwPzsTzgSh"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "OMGKENNY",
+          "url": "https://open.spotify.com/artist/5T34n8lqqgWAoZUcCgnynj"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Bet It Up",
+      "url": "https://open.spotify.com/track/2XSYw7txCw1eCw0lH7o4jD"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/4eNjoHyP2waU2tvAKqMRUP"
       },
@@ -13998,7 +14020,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 157104,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/12h2cHbM10ncxX79QW1swO"
@@ -14576,7 +14598,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 153312,
       "name": "Crashing Out!",
       "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
@@ -19300,7 +19322,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 259540,
       "name": "Driving Miss Daisy",
       "url": "https://open.spotify.com/track/5Pw1JjIwTA5pG2M9B8sGOB"
@@ -29403,6 +29425,24 @@
     },
     {
       "album": {
+        "name": "PRIVATE NIGHTS, VOL. 1",
+        "url": "https://open.spotify.com/album/6GcbRM717nVNucJiPlkJaQ"
+      },
+      "artists": [
+        {
+          "name": "Ron E",
+          "url": "https://open.spotify.com/artist/0NzaWuALv0Wr2gcdSbQ5zn"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192008,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/52jm5RVamHiJTsVvVFxaHv"
+    },
+    {
+      "album": {
         "name": "NO DEMO LEFT UNHEARD",
         "url": "https://open.spotify.com/album/51x0bq0jh1KjY52glK4Fo7"
       },
@@ -30194,6 +30234,24 @@
       "duration_ms": 241966,
       "name": "HONEYGIRL",
       "url": "https://open.spotify.com/track/4YkjDwqszbn3qmOb0I3FYR"
+    },
+    {
+      "album": {
+        "name": "HONEYMOON",
+        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "HONEYMOON",
+      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
     },
     {
       "album": {
@@ -33146,7 +33204,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 215332,
       "name": "In This Room",
       "url": "https://open.spotify.com/track/6V8VqT1eTdgAkMZJaAhVMz"
@@ -37023,6 +37081,24 @@
     },
     {
       "album": {
+        "name": "left you",
+        "url": "https://open.spotify.com/album/46r0YggpgLn2vgxuYgs7o6"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157948,
+      "name": "left you",
+      "url": "https://open.spotify.com/track/6yI8tTGKH2LRIufGSck7GN"
+    },
+    {
+      "album": {
         "name": "Lego",
         "url": "https://open.spotify.com/album/5j4HNbEloTq9YOB4hzuOpg"
       },
@@ -37052,7 +37128,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 184137,
       "name": "Leila",
       "url": "https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B"
@@ -43528,6 +43604,24 @@
       "duration_ms": 170711,
       "name": "MONSTER!",
       "url": "https://open.spotify.com/track/5rLkXX1jm8OGRGarxEbPY1"
+    },
+    {
+      "album": {
+        "name": "Moody (Interlude)",
+        "url": "https://open.spotify.com/album/3by0xIg8P6so2mXRs8SDps"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111780,
+      "name": "Moody - Interlude",
+      "url": "https://open.spotify.com/track/4gszCRGb7JVjsN7FTXwr8Y"
     },
     {
       "album": {
@@ -58932,7 +59026,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 181714,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
@@ -58986,7 +59080,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 218346,
       "name": "SETTLE DOWN",
       "url": "https://open.spotify.com/track/7zWvXIq2ZWWSyN3WCrJieS"
@@ -64239,6 +64333,24 @@
     },
     {
       "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/3UpjXvU89J0X1Lyx7uAyrG"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "Sugarcane",
+      "url": "https://open.spotify.com/track/4UaWK6d1o295r49cTKnAPk"
+    },
+    {
+      "album": {
         "name": "Suite Escape",
         "url": "https://open.spotify.com/album/5ytNaxwiQuGmPfVgR3d6GH"
       },
@@ -67113,6 +67225,24 @@
     },
     {
       "album": {
+        "name": "The Dealer",
+        "url": "https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189371,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy"
+    },
+    {
+      "album": {
         "name": "The Falls",
         "url": "https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB"
       },
@@ -68484,7 +68614,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 178791,
       "name": "ti ti ti.",
       "url": "https://open.spotify.com/track/6kzqFDDgT9rJBf1bIQYspf"
@@ -69585,6 +69715,24 @@
     },
     {
       "album": {
+        "name": "TOPDOWN",
+        "url": "https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "TOPDOWN",
+      "url": "https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A"
+    },
+    {
+      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/4nlkDC4YtliiFhSY9OYEyi"
       },
@@ -69676,7 +69824,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 224062,
       "name": "touch me, tease me",
       "url": "https://open.spotify.com/track/3f3fJODVfB5gZKrkyNy5xg"
@@ -70464,7 +70612,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 178000,
       "name": "Tug of War",
       "url": "https://open.spotify.com/track/6E07ZoEWflbVhVaMF8CYRF"
@@ -73822,7 +73970,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 196363,
       "name": "What Does Your Heart Say?",
       "url": "https://open.spotify.com/track/1HweujonOvuWBoA1GxBNut"
@@ -75428,7 +75576,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 246610,
       "name": "Will U Stay?",
       "url": "https://open.spotify.com/track/375tB7HBafQWGn6wB1KhXV"
@@ -77476,7 +77624,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 193100,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"

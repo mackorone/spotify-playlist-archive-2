@@ -1,12 +1,12 @@
 {
   "description": "chill christmas beats to keep you cozy and focused",
-  "num_followers": 21928,
+  "num_followers": 21926,
   "original_name": "lofi christmas study\ud83c\udf84\ud83d\udcda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG7sGZhQLU5EHqyt9pi/flD788nl",
+  "snapshot_id": "AAAAAGD8Tmm0IQXw3cGBpcRDFXggG/WY",
   "tracks": [
     {
       "added_at": "2025-12-19 14:39:19",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Snow Snow Snow",
-        "url": "https://open.spotify.com/album/3enFn4zZ26VzPwjzLgrUq3"
-      },
-      "artists": [
-        {
-          "name": "tonierki",
-          "url": "https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY"
-        }
-      ],
-      "duration_ms": 131730,
-      "name": "Snow Snow Snow",
-      "url": "https://open.spotify.com/track/3NiLkCJRuRYaBc1W17h2NY"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 150150,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Snow Snow Snow",
+        "url": "https://open.spotify.com/album/3enFn4zZ26VzPwjzLgrUq3"
+      },
+      "artists": [
+        {
+          "name": "tonierki",
+          "url": "https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY"
+        }
+      ],
+      "duration_ms": 131730,
+      "name": "Snow Snow Snow",
+      "url": "https://open.spotify.com/track/3NiLkCJRuRYaBc1W17h2NY"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "December Dreams",
-        "url": "https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX"
-      },
-      "artists": [
-        {
-          "name": "My Lucid Dreams",
-          "url": "https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "December Dreams",
-      "url": "https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Snow EP",
         "url": "https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 153600,
       "name": "Snow",
       "url": "https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "December Dreams",
+        "url": "https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX"
+      },
+      "artists": [
+        {
+          "name": "My Lucid Dreams",
+          "url": "https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "December Dreams",
+      "url": "https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/03lrkjhqiwLRfAYVolwAKJ"
-      },
-      "artists": [
-        {
-          "name": "Slow Bounce",
-          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
-        }
-      ],
-      "duration_ms": 87670,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/4hqviDebP0XpwxYVEz60mo"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "rockin' around the christmas tree",
         "url": "https://open.spotify.com/album/22NWfF1izoNL5WEJuCIgdo"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 126966,
       "name": "rockin' around the christmas tree",
       "url": "https://open.spotify.com/track/0CtRhDaDV78eFvClLfu582"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/03lrkjhqiwLRfAYVolwAKJ"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "duration_ms": 87670,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/4hqviDebP0XpwxYVEz60mo"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -631,18 +631,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Lofi Christmas",
-        "url": "https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT"
+        "name": "Cozy Little Christmas",
+        "url": "https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp"
       },
       "artists": [
         {
-          "name": "Utah Noir",
-          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
+          "name": "Little Smokey",
+          "url": "https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4"
         }
       ],
-      "duration_ms": 149972,
-      "name": "Sleepy Christmas",
-      "url": "https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB"
+      "duration_ms": 143647,
+      "name": "Do They Know It's Christmas",
+      "url": "https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Cozy Little Christmas",
-        "url": "https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp"
+        "name": "Lofi Christmas",
+        "url": "https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT"
       },
       "artists": [
         {
-          "name": "Little Smokey",
-          "url": "https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4"
+          "name": "Utah Noir",
+          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
         }
       ],
-      "duration_ms": 143647,
-      "name": "Do They Know It's Christmas",
-      "url": "https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId"
+      "duration_ms": 149972,
+      "name": "Sleepy Christmas",
+      "url": "https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ"
+      },
+      "artists": [
+        {
+          "name": "Yagami Lo Vibe",
+          "url": "https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "Joyeux No\u00ebl Mes Amis",
         "url": "https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "God Rest Ye Merry Gentlemen",
-        "url": "https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ"
-      },
-      "artists": [
-        {
-          "name": "Yagami Lo Vibe",
-          "url": "https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Silver bells",
         "url": "https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 156990,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/5oSd5Ri6AYoeh52kcOsE7I"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "From all of us",
+        "url": "https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10"
+      },
+      "artists": [
+        {
+          "name": "Krims Krams",
+          "url": "https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu"
+        }
+      ],
+      "duration_ms": 131233,
+      "name": "From all of us",
+      "url": "https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -855,22 +871,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "From all of us",
-        "url": "https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10"
-      },
-      "artists": [
-        {
-          "name": "Krims Krams",
-          "url": "https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu"
-        }
-      ],
-      "duration_ms": 131233,
-      "name": "From all of us",
-      "url": "https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "El Tamborillero",
         "url": "https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Coming Home To You",
-        "url": "https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Coming Home To You",
-      "url": "https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "A Jobii Christmas",
         "url": "https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 153895,
       "name": "All the Jingle Ladies",
       "url": "https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Coming Home To You",
+        "url": "https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Coming Home To You",
+      "url": "https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -999,8 +999,8 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Snowday",
-        "url": "https://open.spotify.com/album/39hzFWykaMtDNN5tnoUzWw"
+        "name": "Mistle Bro",
+        "url": "https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en"
         }
       ],
-      "duration_ms": 125500,
-      "name": "Mittens",
-      "url": "https://open.spotify.com/track/167wzYrPHytGWBEWgkhIfu"
+      "duration_ms": 141374,
+      "name": "Mistle Bro",
+      "url": "https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Mistle Bro",
-        "url": "https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC"
+        "name": "Snowday",
+        "url": "https://open.spotify.com/album/39hzFWykaMtDNN5tnoUzWw"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en"
         }
       ],
-      "duration_ms": 141374,
-      "name": "Mistle Bro",
-      "url": "https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo"
+      "duration_ms": 125500,
+      "name": "Mittens",
+      "url": "https://open.spotify.com/track/167wzYrPHytGWBEWgkhIfu"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Christmas with the Fam",
-        "url": "https://open.spotify.com/album/6JXqAeAzROt0JixEaCbQBx"
-      },
-      "artists": [
-        {
-          "name": "DonVayei",
-          "url": "https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb"
-        }
-      ],
-      "duration_ms": 148941,
-      "name": "Christmas with the Fam",
-      "url": "https://open.spotify.com/track/6tbT1c1921mH2FgqKsRDup"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "The Lonely Elf",
         "url": "https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 102857,
       "name": "The Lonely Elf",
       "url": "https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Christmas with the Fam",
+        "url": "https://open.spotify.com/album/6JXqAeAzROt0JixEaCbQBx"
+      },
+      "artists": [
+        {
+          "name": "DonVayei",
+          "url": "https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "Christmas with the Fam",
+      "url": "https://open.spotify.com/track/6tbT1c1921mH2FgqKsRDup"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Christmas Spirit",
-        "url": "https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz"
-      },
-      "artists": [
-        {
-          "name": "Akkoro",
-          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Christmas Spirit",
-      "url": "https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Winter rose",
         "url": "https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 147000,
       "name": "Winter rose",
       "url": "https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Christmas Spirit",
+        "url": "https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz"
+      },
+      "artists": [
+        {
+          "name": "Akkoro",
+          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Christmas Spirit",
+      "url": "https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Portal De Belen",
-        "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
-      },
-      "artists": [
-        {
-          "name": "Antiguos Hop",
-          "url": "https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Portal De Belen",
-      "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/4btW84uwKxLPx96n35337s"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "Portal De Belen",
+        "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
+      },
+      "artists": [
+        {
+          "name": "Antiguos Hop",
+          "url": "https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Portal De Belen",
+      "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "wrap up warm",
         "url": "https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb"
       },
@@ -1331,6 +1331,38 @@
       "duration_ms": 129000,
       "name": "wrap up warm",
       "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "The Christmas Song (Chestnuts Roasting)",
+        "url": "https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "duration_ms": 143855,
+      "name": "The Christmas Song (Chestnuts Roasting)",
+      "url": "https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg"
+      },
+      "artists": [
+        {
+          "name": "Max Mix",
+          "url": "https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1367,18 +1399,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "The Christmas Song (Chestnuts Roasting)",
-        "url": "https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm"
+        "name": "Cookies for Santa",
+        "url": "https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2"
       },
       "artists": [
         {
-          "name": "louke's beats",
-          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+          "name": "tonierki",
+          "url": "https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY"
         }
       ],
-      "duration_ms": 143855,
-      "name": "The Christmas Song (Chestnuts Roasting)",
-      "url": "https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b"
+      "duration_ms": 121828,
+      "name": "Cookies for Santa",
+      "url": "https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1403,38 +1435,6 @@
       "duration_ms": 123428,
       "name": "Santas Bag",
       "url": "https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg"
-      },
-      "artists": [
-        {
-          "name": "Max Mix",
-          "url": "https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka"
-        }
-      ],
-      "duration_ms": 189196,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "Cookies for Santa",
-        "url": "https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2"
-      },
-      "artists": [
-        {
-          "name": "tonierki",
-          "url": "https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY"
-        }
-      ],
-      "duration_ms": 121828,
-      "name": "Cookies for Santa",
-      "url": "https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Mistletoe Melodies",
-        "url": "https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs"
-      },
-      "artists": [
-        {
-          "name": "Jazztroopers",
-          "url": "https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "O holy night",
         "url": "https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 147677,
       "name": "O holy night",
       "url": "https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Mistletoe Melodies",
+        "url": "https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs"
+      },
+      "artists": [
+        {
+          "name": "Jazztroopers",
+          "url": "https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg"
     },
     {
       "added_at": "2025-12-19 14:39:19",

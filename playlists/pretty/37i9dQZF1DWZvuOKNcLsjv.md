@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: December 10
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,088 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,085 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 59 | [Right Here, Right Now](https://open.spotify.com/track/7BtJasZtJfoNBKNUBeRoOC) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Right Here, Right Now](https://open.spotify.com/album/3laTrY6eTPdR4xc3OIPZPU) | 4:11 |
 | 60 | [ojigi](https://open.spotify.com/track/4XTJaCl0DLgZrd7ZexuXQh) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [ojigi](https://open.spotify.com/album/0xcUMeamFTuOLMKSicNYWx) | 3:54 |
 
-Snapshot ID: `AAAAABQya1K6DlsflDi4pOaJcSL8595u`
+Snapshot ID: `AAAAANYFVe5RjirBin/7KvlUcFzNXmcA`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3k3mRstDc/qcOiDKiD1JZy/6nk",
+  "snapshot_id": "AAAAABPodHoUD9muveaHzQ7Jwb7yB7Ml",
   "tracks": [
     {
       "added_at": "2026-08-13 22:01:33",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "TRESURA",
-        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 190062,
-      "name": "TRESURA",
-      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
+        "name": "TRESURA",
+        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 190062,
+      "name": "TRESURA",
+      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
         "name": "Widz\u0119 Ci\u0119",
         "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 143500,
       "name": "Widz\u0119 Ci\u0119",
       "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "Kim jestem?",
+        "url": "https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc"
+      },
+      "artists": [
+        {
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kim jestem?",
+      "url": "https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -311,18 +327,18 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "Kim jestem?",
-        "url": "https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc"
+        "name": "Zapomnij mnie",
+        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
       },
       "artists": [
         {
-          "name": "MECNER",
-          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Kim jestem?",
-      "url": "https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge"
+      "duration_ms": 169840,
+      "name": "Zapomnij mnie",
+      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -339,22 +355,6 @@
       "duration_ms": 116885,
       "name": "PARANOJA",
       "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
-        "name": "Zapomnij mnie",
-        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Zapomnij mnie",
-      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "SAJGON",
-        "url": "https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 120896,
-      "name": "SAJGON",
-      "url": "https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "Wo\u0142am",
         "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 166315,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "SAJGON",
+        "url": "https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 120896,
+      "name": "SAJGON",
+      "url": "https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
+        "name": "Po nocach",
+        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "Po nocach",
+      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
         "name": "GRANATOWE PORSCHE",
         "url": "https://open.spotify.com/album/4FayjfHekWl4Rl1PXNr5Ak"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 138197,
       "name": "GRANATOWE PORSCHE",
       "url": "https://open.spotify.com/track/1sxyNQkN7ZboctIXesWxZl"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
-        "name": "Po nocach",
-        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
-      },
-      "artists": [
-        {
-          "name": "Natalia Zast\u0119pa",
-          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
-        }
-      ],
-      "duration_ms": 211732,
-      "name": "Po nocach",
-      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "DOM\u00d3WKI",
-        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
-      },
-      "artists": [
-        {
-          "name": "Jan Marczewski",
-          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "DOM\u00d3WKI",
-      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "Jak si\u0119 masz?",
         "url": "https://open.spotify.com/album/7tVBD8s3hArTYpLBr5WLlH"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 153882,
       "name": "Jak si\u0119 masz?",
       "url": "https://open.spotify.com/track/2v47bRt43uKCgSz4S0A6eF"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "DOM\u00d3WKI",
+        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "DOM\u00d3WKI",
+      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
+        "name": "Miodowe lata",
+        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 211196,
+      "name": "Miodowe lata",
+      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
         "name": "dancefloor?",
         "url": "https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "Miodowe lata",
-        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 211196,
-      "name": "Miodowe lata",
-      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "Ziemia",
         "url": "https://open.spotify.com/album/5whIBdiOSX0IVuhE5tJrSc"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 275593,
       "name": "Ziemia",
       "url": "https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
-        "name": "Szk\u0142o",
-        "url": "https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA"
-      },
-      "artists": [
-        {
-          "name": "Kuba Folwarczny",
-          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
-        }
-      ],
-      "duration_ms": 242443,
-      "name": "Szk\u0142o",
-      "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -927,6 +911,22 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
+        "name": "Szk\u0142o",
+        "url": "https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA"
+      },
+      "artists": [
+        {
+          "name": "Kuba Folwarczny",
+          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
+        }
+      ],
+      "duration_ms": 242443,
+      "name": "Szk\u0142o",
+      "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 144586,
       "name": "NASA",
       "url": "https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "Kafejka na Ochocie",
+        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Kafejka na Ochocie",
+      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "Kafejka na Ochocie",
-        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
-      },
-      "artists": [
-        {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Kafejka na Ochocie",
-      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "Chc\u0119 Ci\u0119 Mie\u0107",
         "url": "https://open.spotify.com/album/7GE8HosOSSTdP4BQVTu6oo"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 142641,
       "name": "Chc\u0119 Ci\u0119 Mie\u0107",
       "url": "https://open.spotify.com/track/0fWrI1QQJxOMzOzAOBLwYA"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
-        "name": "Glitch",
-        "url": "https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "GlowUp",
-      "url": "https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -1079,6 +1063,22 @@
       "duration_ms": 204878,
       "name": "Stoj\u0119 (na stacji paliw)",
       "url": "https://open.spotify.com/track/13Piq3mRqhDFClyldq9WiO"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "GlowUp",
+      "url": "https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6"
     },
     {
       "added_at": "2026-08-13 22:01:33",

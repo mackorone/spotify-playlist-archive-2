@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Iqbal, BAD Junkie, Dhoot Mani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,083 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,096 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 2 | [666](https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [SoundsbyJeremy](https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ) | [666](https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm) | 2:47 |
 | 3 | [SOLO](https://open.spotify.com/track/3Ew6vefMmYgQt7qvsjFv9L) | [4tee7ven](https://open.spotify.com/artist/6EjilIQSEv30SRtJCx506v), [Jee Pro Beats](https://open.spotify.com/artist/05hXkdZe2i2rwXjnHsgChz) | [SOLO](https://open.spotify.com/album/1YeZjlXGkNtCN6l1ROyhez) | 2:28 |
 | 4 | [They Call Me](https://open.spotify.com/track/6U9fUXfhdkjdpqfxr4acfh) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [They Call Me](https://open.spotify.com/album/6N1tvDuiSFWrEwTC61sNk1) | 2:53 |
-| 5 | [No Expectation](https://open.spotify.com/track/3t8YomlzmLEnQh1CcX1TYc) | [Rav Dhaliwal](https://open.spotify.com/artist/3baxKbDHRBBht0hRIlFdnB) | [HighRoller](https://open.spotify.com/album/16ruaAgfRR4m2IpNdpa012) | 2:28 |
+| 5 | [No Expectation](https://open.spotify.com/track/3t8YomlzmLEnQh1CcX1TYc) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [HighRoller](https://open.spotify.com/album/16ruaAgfRR4m2IpNdpa012) | 2:28 |
 | 6 | [Young Code](https://open.spotify.com/track/6tn4DK4gDIaFN78JyziB2X) | [Kulwinder Sohi](https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe), [Dr.Sidhu](https://open.spotify.com/artist/26zNI72NLoi14xOYoYjWKg), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Young Code](https://open.spotify.com/album/7fBCglldtl1JySIWOwDy36) | 2:51 |
 | 7 | [Aura Change](https://open.spotify.com/track/0uQST5LgmdaJCZYgm0SjKH) | [SINGAAX](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Drippy](https://open.spotify.com/artist/1jkknDhiQJBRpS9DIbf8QA) | [Punjab's Blood](https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd) | 2:36 |
 | 8 | [Trophy](https://open.spotify.com/track/07KLnLi64F3u5qQgxHrl8a) | [Dhoot Mani](https://open.spotify.com/artist/4Qxx0J73vOmSCfMCAgwRzd), [Shehbaaz](https://open.spotify.com/artist/0eOgf3NSBxsGIhXqhSfX3P) | [Trophy](https://open.spotify.com/album/4Hf53dEgoBQnR0YGwiE7xK) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Price](https://open.spotify.com/track/0lytH5hWcasqEhdqyctvGE) | [Ace Cheema](https://open.spotify.com/artist/3F6AM6L6e1Etc8vPgIB6NO), [DLJT](https://open.spotify.com/artist/1daMl9RMxIuGwUAX9cXgFI), [Kambo](https://open.spotify.com/artist/6loadYwLyghfaWZXbDfcHi) | [Price](https://open.spotify.com/album/3ZTeRDaqZ19ff4xOUcAm6q) | 3:38 |
 | 75 | [Top Tier](https://open.spotify.com/track/41r9ZEXKHCb1J0tODvuWxA) | [ARSH](https://open.spotify.com/artist/0vzZDYE6Z4rvZXMReRwlHi), [Inder Saini](https://open.spotify.com/artist/7o7RSfgBdKZH06WSC4lwSx) | [Top Tier](https://open.spotify.com/album/6ZKMdzlq0L5VxnDZZOStey) | 2:43 |
 
-Snapshot ID: `AAAAAG2EjkNVC4Gd/SlLB3jSDcsQvNlS`
+Snapshot ID: `AAAAAJJgEPg7Gws0Cpf/PXQkU7SRMUp/`

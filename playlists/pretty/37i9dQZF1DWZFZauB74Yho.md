@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Bronwyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,819 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,822 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Here Rattler](https://open.spotify.com/track/15SLW0p76aVCqCeN1ZtMTg) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Here Rattler](https://open.spotify.com/album/1qzQ6LslZmLiBWOAtnlwJE) | 2:48 |
 | 100 | [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 |
 
-Snapshot ID: `AAAAAF4omJFfA65MgoMk3ttwo6rz1nxR`
+Snapshot ID: `AAAAAOXxO/hFAIEZR7yAaOCW1Yo32zfb`

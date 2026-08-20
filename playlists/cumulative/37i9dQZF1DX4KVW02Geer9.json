@@ -3013,6 +3013,28 @@
     },
     {
       "album": {
+        "name": "Est\u00e9tica da fome",
+        "url": "https://open.spotify.com/album/0kfx60lnf68PnD1oChnFJb"
+      },
+      "artists": [
+        {
+          "name": "Matu Miranda",
+          "url": "https://open.spotify.com/artist/6N7m34YWGpILJZidrmNbRf"
+        },
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197761,
+      "name": "Est\u00e9tica da fome",
+      "url": "https://open.spotify.com/track/38KaJU1zHbu8tbyGewGg87"
+    },
+    {
+      "album": {
         "name": "Eternal Child",
         "url": "https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm"
       },

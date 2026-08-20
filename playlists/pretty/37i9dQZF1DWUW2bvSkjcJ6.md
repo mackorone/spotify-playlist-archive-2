@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ayra Starr, ZAYN, Summer Cem, Shirin David, reezy, KATSEYE & vielen mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,317 likes - 93 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,186 likes - 93 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 92 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
 | 93 | [BDU](https://open.spotify.com/track/5oVh8A7uaAzHxOWn4kqd41) | [Trailerpark](https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB), [Hämatom](https://open.spotify.com/artist/6vg9BW5gHSjidGbypXQku2) | [BDU](https://open.spotify.com/album/13QAw95YQRAbF9b2RWCAOs) | 3:38 |
 
-Snapshot ID: `AAAAAJvlkiN3Aqe7q138uWr6j9/Rdg7v`
+Snapshot ID: `AAAAALObKbRiHevlvNdgdUTTvjQMuFhk`

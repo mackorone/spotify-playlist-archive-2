@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122984,
+  "num_followers": 122970,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVq1Nhhc6I708uVo+auaE77ioKHfhQ",
+  "snapshot_id": "AAAVrVeKz1KQG/IkoFN2xzKdBuR7cwSp",
   "tracks": [
+    {
+      "added_at": "2026-08-19 14:49:27",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/15vUIAEbtiB2yINh6MJxNE"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/77GRdgRszNNe4ZyDSV2cfD"
+    },
     {
       "added_at": "2026-08-17 15:58:04",
       "album": {
@@ -1187,46 +1203,6 @@
       "duration_ms": 137960,
       "name": "BURST",
       "url": "https://open.spotify.com/track/57V2MhFR1RSbVrAsH2w5wN"
-    },
-    {
-      "added_at": "2026-05-11 13:15:18",
-      "album": {
-        "name": "powerANTHEM / need (u)",
-        "url": "https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg"
-      },
-      "artists": [
-        {
-          "name": "No Signal",
-          "url": "https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        },
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "need (u)",
-      "url": "https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4"
-    },
-    {
-      "added_at": "2026-05-08 12:23:53",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

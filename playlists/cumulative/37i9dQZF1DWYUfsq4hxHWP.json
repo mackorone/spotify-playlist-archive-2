@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Phil Kane, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: KIANA, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -12980,7 +12980,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 258789,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/7za9HMz5ZnzqUbbKnBPHzn"
@@ -13978,6 +13978,24 @@
       "duration_ms": 245399,
       "name": "Deep Cuts",
       "url": "https://open.spotify.com/track/1LEOSfKAoEFCjQPiF44kqI"
+    },
+    {
+      "album": {
+        "name": "Definitely, Maybe",
+        "url": "https://open.spotify.com/album/1v89tZEZGq1KyAoWMkJrEO"
+      },
+      "artists": [
+        {
+          "name": "KC Bruner",
+          "url": "https://open.spotify.com/artist/6Hn5B6LUK3ITIJPfLBxvOg"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209284,
+      "name": "Definitely, Maybe",
+      "url": "https://open.spotify.com/track/3OnVapd4Op4VkwAgdTWQdA"
     },
     {
       "album": {
@@ -21386,7 +21404,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 162063,
       "name": "Girls Are Goin' Out",
       "url": "https://open.spotify.com/track/0Gz4iVIKbllyML6BV96n0G"
@@ -21768,7 +21786,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 177899,
       "name": "Going Going Gone",
       "url": "https://open.spotify.com/track/0ueTgZA9IOBKZ6HvIFG7ax"
@@ -22244,6 +22262,24 @@
       "duration_ms": 186026,
       "name": "Good for You",
       "url": "https://open.spotify.com/track/4p3oWf0tvGvaDFTkiyBKyy"
+    },
+    {
+      "album": {
+        "name": "Good for You",
+        "url": "https://open.spotify.com/album/335iz7n8dnG2tMQaRF0Hbl"
+      },
+      "artists": [
+        {
+          "name": "Micah Fletcher",
+          "url": "https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182786,
+      "name": "Good for You",
+      "url": "https://open.spotify.com/track/3V46ysYS6gN5LTH9MG8DYO"
     },
     {
       "album": {
@@ -32113,6 +32149,24 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/7IyKQfRj6QUZ8iosYPBVxU"
+      },
+      "artists": [
+        {
+          "name": "KIANA",
+          "url": "https://open.spotify.com/artist/1vYuk9KHwhwdru7gTpTqcB"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5trDaSTaJAh91axXwUYCVv"
+    },
+    {
+      "album": {
         "name": "Jump Right In",
         "url": "https://open.spotify.com/album/5CfMbOsqhphHWbbxFHrYMq"
       },
@@ -32614,6 +32668,24 @@
       "duration_ms": 186798,
       "name": "Keep It to Yourself",
       "url": "https://open.spotify.com/track/1uHYqKJ08RhTXHD6fAvoTl"
+    },
+    {
+      "album": {
+        "name": "Keep Livin'",
+        "url": "https://open.spotify.com/album/4BFf5nJWY6KuKgpF0KRNOU"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Keep Livin'",
+      "url": "https://open.spotify.com/track/5iXLh9N6zEoQcpQ52nruG1"
     },
     {
       "album": {
@@ -37178,6 +37250,24 @@
       "duration_ms": 182660,
       "name": "Love Used To Live Here",
       "url": "https://open.spotify.com/track/5FpvSvp7kdRj8dsEZBtYnn"
+    },
+    {
+      "album": {
+        "name": "Love Without You",
+        "url": "https://open.spotify.com/album/5ZllP1aHO5oBAn0qKchBBT"
+      },
+      "artists": [
+        {
+          "name": "Logan Crosby",
+          "url": "https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Love Without You",
+      "url": "https://open.spotify.com/track/6w69BvxUOLpmy06M2oRH0K"
     },
     {
       "album": {
@@ -50240,7 +50330,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 154734,
       "name": "She Got It",
       "url": "https://open.spotify.com/track/1pYqjfBoWA5d0pPAgPXioF"
@@ -68080,7 +68170,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 208562,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/6Bt7KhPcD0rjrbqSTwgRKV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,860 likes - 50 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,874 likes - 50 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 14 | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/track/5XPrRgrHIWUxxRa6fH2Z7Y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Harsha Darivemula](https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk) | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/album/6GaUSu3Nt2OSXNyoXGiamF) | 1:53 |
 | 15 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
 | 16 | [Sita Ramam Theme \(Telugu\)](https://open.spotify.com/track/1YxoeF51bofo4ODO9XQkTV) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:34 |
-| 17 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
+| 17 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |
 | 18 | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/track/1iteo50Gfd0ppGjlAPlNRH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/album/0LmnQpQW64JbYG6VESRi43) | 1:57 |
-| 19 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |
+| 19 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
 | 20 | [Train Station Scene](https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:52 |
 | 21 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
 | 22 | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/640ga7jK6YDPomC5rzmmwx) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/3PPd4ij0aGjshDKmm3MIWd) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Businessman Theme](https://open.spotify.com/track/7CDtNYmYLreTJB3NCQOOz6) | [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Puri Jagannath](https://open.spotify.com/artist/5qRAnJeG7hK5QaUm79GKhg), [Chours](https://open.spotify.com/artist/0GIOsTRn0PVodWAHcc6NkB) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 2:47 |
 | 50 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
 
-Snapshot ID: `AAAAAC+IctmYGSenrdYiXRagP4mdSVCl`
+Snapshot ID: `AAAAAO4fBzRMkMZvAjFCJTq4golhzX4i`

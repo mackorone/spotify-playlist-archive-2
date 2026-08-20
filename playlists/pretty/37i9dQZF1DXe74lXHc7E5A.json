@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake",
-  "num_followers": 45739,
+  "num_followers": 45754,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFfLZl3AcY5eTd4WD/WbtBswl0t",
+  "snapshot_id": "AAAAAB9aZ91EVnt8coxzsD2Kr+NFECw9",
   "tracks": [
     {
       "added_at": "2026-07-24 00:01:45",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/4rrc4bpJQTBYksOfoq7jaD"
-      },
-      "artists": [
-        {
-          "name": "Bkay EastGaad",
-          "url": "https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "100",
-      "url": "https://open.spotify.com/track/7LASjI4SnF704ycOSLMRIg"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 181600,
       "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
       "url": "https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/4rrc4bpJQTBYksOfoq7jaD"
+      },
+      "artists": [
+        {
+          "name": "Bkay EastGaad",
+          "url": "https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "100",
+      "url": "https://open.spotify.com/track/7LASjI4SnF704ycOSLMRIg"
     },
     {
       "added_at": "2026-07-24 00:01:45",

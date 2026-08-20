@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,702 songs - 10 day 12 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,703 songs - 10 day 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4710,5 +4710,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4700 | [The Devils Name](https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k) | [Spacebreaker](https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE) | [The Devils Name](https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z) | 3:29 |
 | 4701 | [GANG](https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [GANG](https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU) | 1:53 |
 | 4702 | [Viajero del Tiempo](https://open.spotify.com/track/5fXv91jyW5roZBefIaJoXW) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Viajero del Tiempo](https://open.spotify.com/album/5ueAQ14A9yhL2OgWa1WADX) | 5:30 |
+| 4703 | [O Izabelo](https://open.spotify.com/track/0AlBsgWxQApbgmgqWBduTy) | [Abbracci](https://open.spotify.com/artist/1NpreKADLYFXclehTsMe3s) | [O Izabelo](https://open.spotify.com/album/6c6jkLX29ma2DtKYSQigvI) | 3:26 |
 
-Snapshot ID: `AAAJuZy+chKn5AOtyIyWMMJnLS9ENeJ2`
+Snapshot ID: `AAAJugmZlVTaAGXBGAGgusLOvmimN6wn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Phoebe Bridgers, KATSEYE, Becky G, Ayra Starr, aespa and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,600 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,598 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [EE\-OO ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢](https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [GOBLIN](https://open.spotify.com/artist/6vfRizJ3fbwxBxyEzZoEfG) | [EE\-OO ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢](https://open.spotify.com/album/7rqFyCqT3DczGfy4Ib873J) | 2:51 |
 | 74 | [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 |
 
-Snapshot ID: `AAAAAF/vH6SyLRM2j+x1U5i4o2FHRCMh`
+Snapshot ID: `AAAAAMWbkDxeW9LOhAqZ+Zw3r+0AEIpI`

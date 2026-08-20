@@ -4,7 +4,7 @@
 
 > 
 
-390 songs - 22 hr 57 min
+391 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 | 2025-01-29 | 2025-02-22 |
 | [Fresh Eyes](https://open.spotify.com/track/4ftPj2fBTJ5pytddHwCPH0) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Fresh Eyes](https://open.spotify.com/album/5RClKl1PRdmGyC4n6BCOw0) | 3:18 | 2023-07-13 |  |
 | [From Time](https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 5:22 | 2023-07-13 |  |
+| [Fuera Del Planeta](https://open.spotify.com/track/2xtjRPbaX8bM3W27qgehjo) | [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Eloy](https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu) | [Fuera Del Planeta](https://open.spotify.com/album/1zNMWlkUlnBFSBoGh2CwN8) | 3:42 | 2026-08-20 |  |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-13 |  |
 | [Full Moon \- Twilight Soundtrack Version](https://open.spotify.com/track/5xWm07eno5Lt6V397VEIQd) | [The Black Ghosts](https://open.spotify.com/artist/6j0sVXUMU7BEZZ5cfEwjkq) | [Twilight Original Motion Picture Soundtrack](https://open.spotify.com/album/34OCKs861Ot5CwDfTYksLe) | 3:50 | 2025-07-17 |  |
 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 | 2025-10-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Future, Lil Baby and Lil Uzi Vert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,593,785 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,592,468 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Loco](https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Loco](https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM) | 2:34 |
 | 50 | [KILLIN EM](https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [KILLIN EM](https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR) | 1:53 |
 
-Snapshot ID: `AAAAAMvAKm0S94YkT/YPZ6y5TRQinipi`
+Snapshot ID: `AAAAACoK4PndUs52Fxod5AfCJXLQvnDF`

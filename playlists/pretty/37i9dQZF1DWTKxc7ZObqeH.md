@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz for warm summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,644 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,710 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 45 | [Do Nothin' Til You Hear from Me](https://open.spotify.com/track/3nWyP7orBO4WCuAfIetpX1) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Do Nothin' Til You Hear from Me](https://open.spotify.com/album/1ounwufvmQ9EfCEbBboss3) | 2:43 |
 | 46 | [Velvet Nightfall](https://open.spotify.com/track/44H2n9uGagQmP9k6TvAJ13) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Sapphire Dreams](https://open.spotify.com/album/3j4YOkM5ZR0yybllI5FiQO) | 3:59 |
 
-Snapshot ID: `AAAAAF2q+RbeGY2I/EbJ3c8G0M90yTPJ`
+Snapshot ID: `AAAAALQGbCnQCe62Bvkd1FS25iKqOm7y`

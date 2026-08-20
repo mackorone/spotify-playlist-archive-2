@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Cortis, Juicy J\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,043 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,965 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 99 | [Animal \(Feat\. E SENS\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 4:43 |
 | 100 | [2 Chainz & Rollies 2026 \(Feat\. The Quiett\) \(Prod\. by Lil Moshpit\)](https://open.spotify.com/track/4fLEhL7E1SJhvZNL4ZSCpW) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 3:28 |
 
-Snapshot ID: `AAAAAA1YbbNbsh/LH2Wfo26A+q2cV0ZY`
+Snapshot ID: `AAAAACcnn21lm9l9vU/dPTwVO1TDmS9x`

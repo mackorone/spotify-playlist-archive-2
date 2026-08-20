@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Electric Love",
+        "url": "https://open.spotify.com/album/64PIYW3DLk5EHFJuGhnRpQ"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/3nnVBpOLN06xpAZ1kAkmIc"
+    },
+    {
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/237JwE1vurV2zm9dzp32Dy"
       },

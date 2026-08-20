@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,222 likes - 103 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,253 likes - 103 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 102 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
 | 103 | [BETTER](https://open.spotify.com/track/3AONiqYdMZ3kYKCUAaODZv) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn) | [BETTER](https://open.spotify.com/album/7xRyRsObMEc3SEP0vYSD8c) | 3:23 |
 
-Snapshot ID: `AAAAANn0Ba/NNYsTrQQj6jyaAKd+aVcu`
+Snapshot ID: `AAAAALKBIpluX4tBAVrYSqUD+rB5pusb`

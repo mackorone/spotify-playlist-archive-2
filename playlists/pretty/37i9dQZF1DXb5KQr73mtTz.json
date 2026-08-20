@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22145,
+  "num_followers": 22150,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdHmLnMKk3IZ/OhQMu1f6OebQNZ",
+  "snapshot_id": "AAAAAJcygmMBbf5j0mbZX58/fptV7iEV",
   "tracks": [
     {
       "added_at": "2026-04-29 09:21:42",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "long to be the garden",
-        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -531,6 +515,22 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
+        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
+        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
+      },
+      "artists": [
+        {
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
+        }
+      ],
+      "duration_ms": 202142,
+      "name": "Sorrow at my door(Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
-        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
-        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
-      },
-      "artists": [
-        {
-          "name": "Nam Gyu ri",
-          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Sorrow at my door(Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
     },
     {
       "added_at": "2026-04-29 09:21:42",

@@ -12017,6 +12017,24 @@
     },
     {
       "album": {
+        "name": "Empty Streets",
+        "url": "https://open.spotify.com/album/5HY8Nnt2HMPG4WkvCOFJts"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Empty Streets",
+      "url": "https://open.spotify.com/track/58vNJXmharklZeHTgF94EC"
+    },
+    {
+      "album": {
         "name": "Empty Throne",
         "url": "https://open.spotify.com/album/7DiX78iL5AVcU05Cos49A2"
       },
@@ -15824,6 +15842,24 @@
       "duration_ms": 223044,
       "name": "Goodbye Love",
       "url": "https://open.spotify.com/track/5iSPBKBJhRbhm4mvCvcGIT"
+    },
+    {
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/57L4nw8EjLLRdFQZgzts8I"
+      },
+      "artists": [
+        {
+          "name": "Random Anthem",
+          "url": "https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259992,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/2DIm16Db0DLjItmIBQgyIK"
     },
     {
       "album": {

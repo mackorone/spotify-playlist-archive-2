@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 506956,
+  "num_followers": 507030,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFlKlE+xdkCyzhMJr+Btg0CZTQqI",
+  "snapshot_id": "AAAAAAcxJJaGwouZwlabcI3qucMX01Em",
   "tracks": [
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "El Arte De Roberto Carlos",
-        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "El alma al aire",
         "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 308560,
       "name": "Cuando nadie me ve",
       "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "El Arte De Roberto Carlos",
+        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "The Essential Cyndi Lauper",
-        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "The Essential Cyndi Lauper",
+        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Tanto (Edici\u00f3n Premium)",
-        "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
+        "name": "Cara A Cara",
+        "url": "https://open.spotify.com/album/0etPi7dhXGp6ax4LXLesNC"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Los Chunguitos",
+          "url": "https://open.spotify.com/artist/5dRk8JyA2Tg9wL0iiTqbVu"
         }
       ],
-      "duration_ms": 225013,
-      "name": "Donde est\u00e1 el amor",
-      "url": "https://open.spotify.com/track/6yR4OhiJYiH9YXOgv8MO0A"
+      "duration_ms": 227333,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/3ROd8cCRdRJpeh6P2zTAJk"
     }
   ],
   "unique_name": "Las 100 mejores baladas rom\u00e1nticas",

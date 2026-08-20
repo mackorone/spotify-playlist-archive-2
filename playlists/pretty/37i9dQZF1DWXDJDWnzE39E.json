@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox",
-  "num_followers": 791453,
+  "num_followers": 791567,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbgW5befByn43VE5MGLv3WtKhpU",
+  "snapshot_id": "AAAAAI9bNiD0IfewBKwcDiYGp6dRCbIo",
   "tracks": [
     {
       "added_at": "2026-04-27 18:28:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE"
-      },
-      "artists": [
-        {
-          "name": "Showing Teeth",
-          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "ICONIC",
         "url": "https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 206944,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE"
+      },
+      "artists": [
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Beyond The Black",
-        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 253853,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Eye For An Eye...",
         "url": "https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 199672,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Beyond The Black",
+        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 253853,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "WORTHY",
-        "url": "https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp"
-      },
-      "artists": [
-        {
-          "name": "KNIFE BRIDE",
-          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "WORTHY",
-      "url": "https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Edge of the Abyss",
         "url": "https://open.spotify.com/album/721FHMhryOj2trRzrV4twJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 252000,
       "name": "Under The Skin",
       "url": "https://open.spotify.com/track/58DzQUCO4CTDaiF152lClc"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "WORTHY",
+        "url": "https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "WORTHY",
+      "url": "https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "My Demon",
-      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Witch Club Satan",
         "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 215786,
       "name": "Fresh Blood, Fresh Pussy",
       "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "World Domination",
-        "url": "https://open.spotify.com/album/1PMmd57x3WmnxAbns3ptpy"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "The Plague On Both Your Houses",
-      "url": "https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 230181,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "World Domination",
+        "url": "https://open.spotify.com/album/1PMmd57x3WmnxAbns3ptpy"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "The Plague On Both Your Houses",
+      "url": "https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Witchcraft Destroys Minds And Reaps Souls",
-        "url": "https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF"
-      },
-      "artists": [
-        {
-          "name": "Coven",
-          "url": "https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y"
-        }
-      ],
-      "duration_ms": 177622,
-      "name": "Wicked Woman",
-      "url": "https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Thorn In My Side",
         "url": "https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 225901,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Witchcraft Destroys Minds And Reaps Souls",
+        "url": "https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF"
+      },
+      "artists": [
+        {
+          "name": "Coven",
+          "url": "https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y"
+        }
+      ],
+      "duration_ms": 177622,
+      "name": "Wicked Woman",
+      "url": "https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF"
     },
     {
       "added_at": "2026-04-27 18:28:08",

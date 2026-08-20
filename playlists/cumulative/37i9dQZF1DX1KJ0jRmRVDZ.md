@@ -4,7 +4,7 @@
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: Midnight Grand Orchestra
 
-1,805 songs - 4 day 5 hr 54 min
+1,806 songs - 4 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1457,6 +1457,7 @@
 | [恋愛くたばれ同好会 \(仮\) REMIX \(feat\. さかな\)](https://open.spotify.com/track/0FC3KEGSJlf4Kurp9Fyi9N) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [恋愛くたばれ同好会 \(仮\) REMIX \(feat\. さかな\)](https://open.spotify.com/album/5jKFYLjacX9duSlbvFL2EK) | 3:01 | 2022-10-04 | 2022-10-06 |
 | [恍惚に病む。\(feat\. たかやん\)](https://open.spotify.com/track/20qEQNn37wWxgCdvoNtzjA) | [+α/あるふぁきゅん。](https://open.spotify.com/artist/6h5CRuhHGbYgXjqsw76K3i), [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [恍惚に病む。\(feat\. たかやん\)](https://open.spotify.com/album/4Is4qM3DvhtSW1GxOwLwZ4) | 3:35 | 2022-07-07 | 2022-07-22 |
 | [恥さらし](https://open.spotify.com/track/0hPclHnMZKlhUpkiB1jnnE) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [露骨](https://open.spotify.com/album/02X3t1aEenx2AMLgk6egVg) | 3:38 | 2023-06-27 | 2023-06-29 |
+| [恩寵](https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [HaHa And The Hairpins](https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs) | [恩寵](https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU) | 3:12 | 2026-08-18 |  |
 | [悪くぁない](https://open.spotify.com/track/3zF2FesG8CbLBPNu8ZVgYp) | [夜更かしさんは白昼夢を見る](https://open.spotify.com/artist/3Tekc5GNuIH1o2psFvYPJk) | [悪くぁない](https://open.spotify.com/album/2YTL1eKDiSO1hIGGhgHC2h) | 4:41 | 2024-02-15 | 2024-02-21 |
 | [悪人](https://open.spotify.com/track/7uWxsv7spQIqAqDTibWZY9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [悪人](https://open.spotify.com/album/19znVd3k8G2JEA2SwPEXjC) | 3:15 | 2026-03-24 | 2026-05-20 |
 | [悪夢](https://open.spotify.com/track/2pjnFk45Ncea9ehKBcWQ0c) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [悪夢](https://open.spotify.com/album/3eQhxQpEwff0eD0lSMgFFh) | 3:34 | 2026-06-23 | 2026-08-19 |

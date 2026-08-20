@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20449,
+  "num_followers": 20448,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG7IQ8EG4Bz0jbiOIe4q2ybl+hZr",
+  "snapshot_id": "AAAAACpHdICtfKIPiKVTwHb6X1v/84Pf",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Druga Furioza (Soundtrack From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
+      },
+      "artists": [
+        {
+          "name": "Miro Kepinski",
+          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Wolny jak Li\u015b\u0107",
+      "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Oran\u017cowy \u015awit",
         "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 203000,
       "name": "W \u017byciu Bywa Jak W Piosence",
       "url": "https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Druga Furioza (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
-      },
-      "artists": [
-        {
-          "name": "Miro Kepinski",
-          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Wolny jak Li\u015b\u0107",
-      "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",

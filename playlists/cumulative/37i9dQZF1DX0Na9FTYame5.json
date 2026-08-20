@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 165960,
       "name": "EIN TEIL VON MIR",
       "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 139204,
       "name": "genau das",
       "url": "https://open.spotify.com/track/696HqZNd1Er130PoTo4Gdn"
@@ -5997,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft III",
+        "url": "https://open.spotify.com/album/2eFSxvxOTCXFeg0uR5uA3p"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178582,
+      "name": "Sad Holiday (Schwarzer Sand)",
+      "url": "https://open.spotify.com/track/4j2bC6YHKhUl8YaFHoqwqd"
+    },
+    {
+      "album": {
         "name": "Safe Space",
         "url": "https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R"
       },
@@ -7264,7 +7282,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-20",
       "duration_ms": 208888,
       "name": "VVS",
       "url": "https://open.spotify.com/track/6onbI7qxcklUZDFwndE9ZO"

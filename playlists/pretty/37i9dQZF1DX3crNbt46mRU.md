@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ayra Starr, ZAYN, Shirin David, Summer Cem, GIMS, Luis Fonsi & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,974 likes - 96 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,972 likes - 96 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 95 | [aLLeS nOrMaL](https://open.spotify.com/track/0j5ANYYrGEnSqJbxdIGHqp) | [Maiva](https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5) | [aLLeS nOrMaL](https://open.spotify.com/album/4Tq5uNiJgiTA1PqsvUtcky) | 2:31 |
 | 96 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
 
-Snapshot ID: `AAAAAECq3AnuMoL59JDgQa6HklbMdCMQ`
+Snapshot ID: `AAAAAGCtoWx9eBHCvNlUp0Nz2P97AuO+`

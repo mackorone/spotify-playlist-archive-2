@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 116691,
+  "num_followers": 116734,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZwiiFBXHSHozXN7CbSsbrHRyDr",
+  "snapshot_id": "AAAAAM1PXDdji6KNi/gWPXTqhoRhkc46",
   "tracks": [
     {
       "added_at": "2025-10-04 00:28:31",
@@ -987,6 +987,26 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Roda de Funk",
+        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
+      },
+      "artists": [
+        {
+          "name": "Funk Como Le Gusta",
+          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Nem um Dia (JAH-VAN)",
         "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 335796,
       "name": "Nem um Dia - JAH-VAN",
       "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Roda de Funk",
-        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
-      },
-      "artists": [
-        {
-          "name": "Funk Como Le Gusta",
-          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
     },
     {
       "added_at": "2025-10-04 00:28:31",

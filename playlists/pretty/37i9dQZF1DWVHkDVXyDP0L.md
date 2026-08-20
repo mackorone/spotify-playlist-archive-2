@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Bugs
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,169 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,154 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Rodeo](https://open.spotify.com/track/3sWBZQBdlKzc5HedwrSBo9) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Rodeo](https://open.spotify.com/album/7GYagap5OF6hoaGyfHCzLc) | 2:58 |
 | 100 | [Reins](https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Reins](https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV) | 2:55 |
 
-Snapshot ID: `AAAAABEcPCVs6FXtS2SJPZQ5WpZ0EkaG`
+Snapshot ID: `AAAAANbz6Joftf2lwKW/O5LZf8dZqULM`

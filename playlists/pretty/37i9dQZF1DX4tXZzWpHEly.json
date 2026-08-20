@@ -1,12 +1,12 @@
 {
   "description": "Country songs that soundtrack the great Australian outback",
-  "num_followers": 66061,
+  "num_followers": 66073,
   "original_name": "Outback Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH5RGxuTrZpYAulP/Tr8qYXgoV88",
+  "snapshot_id": "AAAAAHNCl8dbq3AezsIOAdgTxkyOl4zm",
   "tracks": [
     {
       "added_at": "2025-01-06 13:00:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-06 13:00:51",
       "album": {
-        "name": "Chaos and Bright Lights",
-        "url": "https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i"
-      },
-      "artists": [
-        {
-          "name": "The McClymonts",
-          "url": "https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z"
-    },
-    {
-      "added_at": "2025-01-06 13:00:51",
-      "album": {
         "name": "Somebody's Daughter",
         "url": "https://open.spotify.com/album/3qSwSOljlJQC62UatQYzOu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 205426,
       "name": "Dancin' with Elvis",
       "url": "https://open.spotify.com/track/0nvRN2P2zKZ1HnBeRdVELA"
+    },
+    {
+      "added_at": "2025-01-06 13:00:51",
+      "album": {
+        "name": "Chaos and Bright Lights",
+        "url": "https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i"
+      },
+      "artists": [
+        {
+          "name": "The McClymonts",
+          "url": "https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z"
     },
     {
       "added_at": "2025-01-06 13:00:51",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-01-06 13:00:51",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c"
-      },
-      "artists": [
-        {
-          "name": "Casey Barnes",
-          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ"
-    },
-    {
-      "added_at": "2025-01-06 13:00:51",
-      "album": {
         "name": "Long Five Days",
         "url": "https://open.spotify.com/album/3Xn6NYkxkjdXhgHW0WoXH0"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 220693,
       "name": "Cuttin' Up B&S Style",
       "url": "https://open.spotify.com/track/2BvMgmJfX93gDxhi3rxAwj"
+    },
+    {
+      "added_at": "2025-01-06 13:00:51",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ"
     },
     {
       "added_at": "2025-01-06 13:00:51",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-01-06 13:00:51",
       "album": {
-        "name": "Country Heart",
-        "url": "https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it"
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/2tJ15wx7pKOp8VfDjcfkIy"
       },
       "artists": [
         {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
         }
       ],
-      "duration_ms": 162693,
-      "name": "Storm Rollin In",
-      "url": "https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5"
+      "duration_ms": 173746,
+      "name": "Thank God I'm A Country Boy",
+      "url": "https://open.spotify.com/track/0ihAsdbpsY2N4WLncykpAW"
     },
     {
       "added_at": "2025-01-06 13:00:51",
@@ -1331,26 +1331,18 @@
     {
       "added_at": "2025-01-06 13:00:51",
       "album": {
-        "name": "Porch Party",
-        "url": "https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c"
+        "name": "Aussie As",
+        "url": "https://open.spotify.com/album/2SwhJEwrr67HiKHjdQXAJv"
       },
       "artists": [
         {
-          "name": "Jayne Denham",
-          "url": "https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ"
-        },
-        {
-          "name": "Jasmine Rae",
-          "url": "https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm"
-        },
-        {
-          "name": "Amber Lawrence",
-          "url": "https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg"
+          "name": "Matt Scullion",
+          "url": "https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml"
         }
       ],
-      "duration_ms": 201906,
-      "name": "Porch Party",
-      "url": "https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi"
+      "duration_ms": 220241,
+      "name": "Aussie As",
+      "url": "https://open.spotify.com/track/65zmFWDgzNuTlpwnErXJ7j"
     }
   ],
   "unique_name": "Outback Country",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJiLCShDbvABenmFJPWCZNsKRlvV",
+  "snapshot_id": "AAAAAG65eoL7CB5W8pOqSR6geVlL4sQA",
   "tracks": [
     {
       "added_at": "2026-06-08 07:23:44",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
-      },
-      "artists": [
-        {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
-        },
-        {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "The Cocktail Hour",
         "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 211653,
       "name": "Supercolor (feat. CECI)",
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        },
+        {
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "All In One",
         "url": "https://open.spotify.com/album/5b7t6LQrYvDVAnsPf6wf4A"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 172398,
       "name": "All In One",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Young Forever",
         "url": "https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 251428,
       "name": "Full Speed",
       "url": "https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
     },
     {
       "added_at": "2026-06-08 07:23:44",

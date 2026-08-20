@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: FIG\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Emma Suhaimi\. Artwork: Isu Kim.
 
-1,506 songs - 3 day 10 hr 32 min
+1,509 songs - 3 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Again](https://open.spotify.com/track/637QmtjwFCTxMqIYNZQKo0) | [jan osg](https://open.spotify.com/artist/1R9V4etlxmQ7HaJyY3tozP) | [Again](https://open.spotify.com/album/7MVO282s0BAIXdFUmYxTsd) | 4:09 | 2023-11-09 | 2024-02-16 |
 | [AIN'T GONNA SPOIL MY DAY](https://open.spotify.com/track/2etrtrW2rqBpiogWKkn3Yc) | [Sissy Imann](https://open.spotify.com/artist/49Ur9nGoemmrL6ABgELR8K) | [Sissy Imann](https://open.spotify.com/album/0m8kflCq7b42GUadcCshc4) | 3:10 | 2023-07-21 | 2024-02-16 |
 | [Ain't the Same](https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il) | [Ain't the Same](https://open.spotify.com/album/1zypId3rIQPZ5V3ncqeuLG) | 2:45 | 2025-10-30 | 2026-03-21 |
+| [Aku Berdiri](https://open.spotify.com/track/2KUYI63quKX1rj33FkogWJ) | [Shatirah Amanda](https://open.spotify.com/artist/69ARIasVk4Kn7xFx6Sxjlm) | [Aku Berdiri](https://open.spotify.com/album/7Jb1FVfpoQRV12zW0sSiiK) | 3:42 | 2026-08-19 |  |
 | [Aku Bodoh](https://open.spotify.com/track/1qYaW3kfOO7LLmXYF3soBc) | [Gretchene Quirina](https://open.spotify.com/artist/3VnYhB6dvJbz0VhKRP6cUd) | [Aku Bodoh](https://open.spotify.com/album/0Mg3sPaEMPCvfZe6QLe4qS) | 4:07 | 2025-06-12 | 2026-01-15 |
 | [Aku Bukan Narsisis \(Piano Version\) \- From "Dia Bukan Syurga"](https://open.spotify.com/track/10nXhBNQrV0KDJVPWw2naP) | [Rian Shain](https://open.spotify.com/artist/3hvCRbNPcN2DAA9wJbjHTq) | [Aku Bukan Narsisis \(Piano Version\) \[From "Dia Bukan Syurga"\]](https://open.spotify.com/album/1yoyNgVfnZY4sAcXVVAPYQ) | 4:00 | 2025-05-22 | 2025-07-18 |
 | [Aku Dicuba](https://open.spotify.com/track/4NhB266X2sp6VBdGlngxCY) | [Nadia Rozi](https://open.spotify.com/artist/2Y4faeoKHS6UTTVwSiGNST) | [Aku Dicuba](https://open.spotify.com/album/3EU8KFRYQqoPgpwxSOVL3k) | 3:40 | 2025-05-22 | 2025-07-18 |
@@ -1210,6 +1211,7 @@
 | [Terbang](https://open.spotify.com/track/2ZxiiqY8mqEGnNYaN32Quk) | [Tour Bunker](https://open.spotify.com/artist/4Aq0cQZsj48aLLDIi42rBM) | [Terbang](https://open.spotify.com/album/11tbJRrasWzLiyJwpYDYkA) | 4:14 | 2025-08-07 | 2025-09-06 |
 | [Terluka](https://open.spotify.com/track/7oaWiTbsZInCdPGNmSW6vJ) | [Khai Sani](https://open.spotify.com/artist/48PhWnsulGxlKPf5gzGUOv) | [Terluka](https://open.spotify.com/album/4zCkzk2qHR6OtTgXiW5aWk) | 4:00 | 2025-08-15 | 2025-09-27 |
 | [terminal 8](https://open.spotify.com/track/6IWP1R1MyXt6FXahUlSQtp) | [lauren matienzo](https://open.spotify.com/artist/4B49XZW38ZLZKGRIZ3OTuN) | [terminal 8](https://open.spotify.com/album/0ZwwXJOcvLmq09SvHqWDNJ) | 3:48 | 2023-03-09 | 2023-10-20 |
+| [Tersakiti](https://open.spotify.com/track/2Kn64PP25EtjC7pFGrS4Pu) | [Emma Suhaimi](https://open.spotify.com/artist/1VyP6GHBpLB37osEmr3XJd) | [Tersakiti](https://open.spotify.com/album/58apzZ9XT1cq8ArlzmKrui) | 4:00 | 2026-08-19 |  |
 | [That's Why](https://open.spotify.com/track/3GOOIIhr07OoxXOPsq6kwK) | [The Februarys](https://open.spotify.com/artist/5jXHSFm2oSCzyLDSsXr8hE) | [That's Why](https://open.spotify.com/album/1Z5WpQ8H8Sas78M804Ufh1) | 3:08 | 2025-11-07 | 2026-03-14 |
 | [The Best](https://open.spotify.com/track/56YAo97obzRit5RnOLQqsC) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [The Best](https://open.spotify.com/album/1tyOHGTBE9u62kfDcA9D8R) | 2:58 | 2025-01-17 | 2026-01-15 |
 | [the best you'll ever get](https://open.spotify.com/track/4lkcYyDMHg67rccag5uCHg) | [desthemess](https://open.spotify.com/artist/3kylCL6jUWlEECElJhtmqw) | [the best you'll ever get](https://open.spotify.com/album/03uNV4pJSHWEjSK19n0r65) | 3:41 | 2026-01-14 | 2026-03-14 |
@@ -1266,6 +1268,7 @@
 | [Tokyu Hands Shinjuku 7F](https://open.spotify.com/track/7MACq9SlKI1IY6imiwOsoR) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh) | [Tokyu Hands Shinjuku 7F](https://open.spotify.com/album/3hWKYzcAE8Yl0qE9d3mk1s) | 2:08 | 2022-09-09 | 2022-09-23 |
 | [tomatoes](https://open.spotify.com/track/1rpI2jUuX92lJw4Dn99q54) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [tomatoes](https://open.spotify.com/album/0uqD5K89odStpa8PApjeIO) | 4:10 | 2026-06-03 |  |
 | [Tonight](https://open.spotify.com/track/6JweBwElpt2a9lCTzYHky9) | [Ki Biru](https://open.spotify.com/artist/5mXfpkZBZsW5tiMzj7isCU) | [Tonight](https://open.spotify.com/album/1Fjt6bsTzIVsDwy3GGzvDd) | 4:07 | 2023-10-19 | 2024-01-19 |
+| [TOO LONG](https://open.spotify.com/track/55IaRKEQyAuwcfSs7rSmLN) | [RAYNEN](https://open.spotify.com/artist/3uOyuWQkjSOd1Cranub73X) | [TOO LONG](https://open.spotify.com/album/0m4KqLRmlNd4Uv8YT91y8n) | 2:58 | 2026-08-19 |  |
 | [Too Many Times](https://open.spotify.com/track/2IwtpJlL47MrqPMgqiXUga) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf), [Virgo's Child](https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp) | [Too Many Times](https://open.spotify.com/album/5WsyPULWLBoiepNu2hMgv8) | 2:57 | 2023-02-17 | 2024-01-12 |
 | [Too Much](https://open.spotify.com/track/2iXP9xTOL6asAxM8EnhnPy) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L) | [Too Much](https://open.spotify.com/album/4tOcEdCiGTeA4zHic6WEsd) | 4:05 | 2025-11-07 | 2026-03-14 |
 | [too pretty \(to be worried\)](https://open.spotify.com/track/7ta7gwuiwwTGjeuXPTPRPF) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [too pretty \(to be worried\)](https://open.spotify.com/album/2rnZ19XUfUyG8UMhYzKY4V) | 3:33 | 2025-08-07 | 2025-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec GreenWoodz, Classe Moyenne, GIMS, Kat Pereira, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,179 likes - 94 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,178 likes - 94 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 93 | [ALLÔ](https://open.spotify.com/track/0n32sIa0y7K0HkQt7PHJpE) | [Given](https://open.spotify.com/artist/20m9hXpcZFZXl77udXpI3m) | [ALLÔ](https://open.spotify.com/album/0CpO6FKYhip8wI2rxvSMS0) | 2:01 |
 | 94 | [FANTAISIE](https://open.spotify.com/track/6D3FyauwPesFG3RDs7IpML) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [FANTAISIE](https://open.spotify.com/album/6d9I4Fr7wF3edbZfl8TiBi) | 2:40 |
 
-Snapshot ID: `AAAAANy4OjmwC0lSdcBr8nUcz4rxQLUF`
+Snapshot ID: `AAAAAHRp9nLJoCMbOaDEnd6EbexzdzBb`

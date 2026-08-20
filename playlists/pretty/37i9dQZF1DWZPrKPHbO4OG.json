@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38767,
+  "num_followers": 38793,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE/5hU9WHC196jCHoKMVDHgdylZS",
+  "snapshot_id": "AAAAAF5alF8CmL87q1nSd4JCHPSwAC5S",
   "tracks": [
     {
       "added_at": "2026-08-04 09:03:36",
@@ -223,26 +223,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Ajay Gogavale Marathi Hits",
-        "url": "https://open.spotify.com/album/1yyZeTlOf1fPF188RD1oHV"
-      },
-      "artists": [
-        {
-          "name": "Atul Gogavale",
-          "url": "https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 226523,
-      "name": "Zingaat",
-      "url": "https://open.spotify.com/track/1Mi5Q2PMz4euXqJ3IwdFfX"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Rege (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 307304,
       "name": "Shitti Wajali Gaadi Sutali",
       "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Ajay Gogavale Marathi Hits",
+        "url": "https://open.spotify.com/album/1yyZeTlOf1fPF188RD1oHV"
+      },
+      "artists": [
+        {
+          "name": "Atul Gogavale",
+          "url": "https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 226523,
+      "name": "Zingaat",
+      "url": "https://open.spotify.com/track/1Mi5Q2PMz4euXqJ3IwdFfX"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -519,6 +519,30 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Jaal Jaal (From \"Chowk\")",
+        "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
+      },
+      "artists": [
+        {
+          "name": "Nagesh Morwekar",
+          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
+        },
+        {
+          "name": "Dr. Vinayak Pawar",
+          "url": "https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt"
+        },
+        {
+          "name": "Onkarswaroop",
+          "url": "https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs"
+        }
+      ],
+      "duration_ms": 289680,
+      "name": "Jaal Jaal - From \"Chowk\"",
+      "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Kajwa",
         "url": "https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0"
       },
@@ -543,30 +567,6 @@
       "duration_ms": 249622,
       "name": "Kajwa",
       "url": "https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Jaal Jaal (From \"Chowk\")",
-        "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
-      },
-      "artists": [
-        {
-          "name": "Nagesh Morwekar",
-          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
-        },
-        {
-          "name": "Dr. Vinayak Pawar",
-          "url": "https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt"
-        },
-        {
-          "name": "Onkarswaroop",
-          "url": "https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs"
-        }
-      ],
-      "duration_ms": 289680,
-      "name": "Jaal Jaal - From \"Chowk\"",
-      "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Ghotala Ghotala Zala (From \"Partu\")",
         "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 261120,
       "name": "Ghotala Ghotala Zala - From \"Partu\"",
       "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
     },
     {
       "added_at": "2026-08-04 09:03:36",

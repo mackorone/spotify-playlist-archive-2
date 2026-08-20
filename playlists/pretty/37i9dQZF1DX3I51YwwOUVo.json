@@ -1,12 +1,12 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 10467,
+  "num_followers": 10464,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0FxJHQpJTBi9vpYfmrGE1O4Yqy",
+  "snapshot_id": "AAAAAHv31c62IipgtDW4vdxJmadiYovB",
   "tracks": [
     {
       "added_at": "2026-01-12 16:30:22",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
-        "name": "WHIM WHAMIEE",
-        "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "YKNIECE",
-          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "WHIM WHAMIEE",
-      "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
         "name": "MAKKA",
         "url": "https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 180000,
       "name": "MAKKA",
       "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
+        "name": "WHIM WHAMIEE",
+        "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "WHIM WHAMIEE",
+      "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
     },
     {
       "added_at": "2026-01-12 16:30:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
-        "name": "The Pines",
-        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
         "name": "You Go I Go",
         "url": "https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 166595,
       "name": "You Go I Go",
       "url": "https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
+        "name": "The Pines",
+        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
     },
     {
       "added_at": "2026-01-12 16:30:22",

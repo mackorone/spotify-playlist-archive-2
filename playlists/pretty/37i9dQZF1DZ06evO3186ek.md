@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,278 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,284 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 46 | [Such an Awesome God \(feat\. Maryanne J\. George\)](https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:12 |
 | 47 | [Move Your Heart \(feat\. Dante Bowe & Elyssa Smith\)](https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 10:21 |
 | 48 | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL) | 3:22 |
-| 49 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
-| 50 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
+| 49 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
+| 50 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
 
-Snapshot ID: `aoJPAAAAAADui83MloIejBWJhasIud9W`
+Snapshot ID: `aoOggAAAAADk4Z0qTPuZjbTgj1ql91Xn`
