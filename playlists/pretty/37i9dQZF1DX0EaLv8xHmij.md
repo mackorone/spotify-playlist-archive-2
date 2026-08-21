@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Thalin
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,613 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,615 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Quem Que Fica](https://open.spotify.com/track/6DyxxUezwxebNw7ngUSv89) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [MG CDD](https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn), [G\. Shao](https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:18 |
 | 75 | [Freestyle 03](https://open.spotify.com/track/2U8ogfw2aVxpVyuNVKjUDj) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Freestyle 03](https://open.spotify.com/album/0YBtQACylOjMHjYR5QCyEf) | 1:55 |
 
-Snapshot ID: `AAAAADKR7khVhfMh7CA/x5uQZbdzbBx8`
+Snapshot ID: `AAAAAAIBTO+MEG9ObjxPWYlnU6cA5uKS`

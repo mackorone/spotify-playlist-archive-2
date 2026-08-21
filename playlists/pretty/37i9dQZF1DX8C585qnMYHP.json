@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent Experimental artists. DjRUM on cover. Artwork by Thami Nabil.",
-  "num_followers": 199722,
+  "num_followers": 199774,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKMiGWi0j/o4EXDN9797URNc2BBN",
+  "snapshot_id": "AAAAAJFlOFwMgabfofPykcQGTLnbQH4R",
   "tracks": [
     {
       "added_at": "2026-08-13 12:07:23",
@@ -129,6 +129,26 @@
       "url": "https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7"
     },
     {
+      "added_at": "2026-08-19 17:49:37",
+      "album": {
+        "name": "Water, CA",
+        "url": "https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr"
+      },
+      "artists": [
+        {
+          "name": "Donatell",
+          "url": "https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d"
+        },
+        {
+          "name": "Zack Sekoff",
+          "url": "https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq"
+        }
+      ],
+      "duration_ms": 161670,
+      "name": "JV Jordan",
+      "url": "https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg"
+    },
+    {
       "added_at": "2026-07-30 04:00:30",
       "album": {
         "name": "Vanishing",
@@ -199,6 +219,22 @@
       "duration_ms": 211626,
       "name": "City Dreams",
       "url": "https://open.spotify.com/track/1F7o8AyrudMe3K3BJm9VcL"
+    },
+    {
+      "added_at": "2026-08-19 17:49:37",
+      "album": {
+        "name": "Sense of Place",
+        "url": "https://open.spotify.com/album/76nMEcZNfe9hIW18OqCoss"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Sense of Place",
+      "url": "https://open.spotify.com/track/6H0DYW3RyHoTatvBva0fqc"
     },
     {
       "added_at": "2026-08-13 12:07:23",

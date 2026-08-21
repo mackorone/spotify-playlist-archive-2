@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 32999,
+  "num_followers": 33015,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPQeU+kb2BZZIb96ymGuiIVH0buL",
+  "snapshot_id": "AAAAAKAJfxibu/Wzx88CAZ0+81NGo6Lj",
   "tracks": [
     {
       "added_at": "2024-08-05 16:58:20",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Sherlock - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 239186,
-      "name": "Sherlock (Clue + Note)",
-      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+      "duration_ms": 190821,
+      "name": "View",
+      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -551,8 +551,8 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Odd - The 4th Album",
-        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 190821,
-      "name": "View",
-      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "THE SECRET",
-        "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 222581,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Grown-Up",
         "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 250644,
       "name": "Severely",
       "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "THE SECRET",
+        "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 222581,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 226715,
-      "name": "Just Like a Dream",
-      "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Full Album RED PLANET",
         "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Volume Up",
-        "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
+        "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
       "artists": [
         {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 230008,
-      "name": "Volume Up",
-      "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
+      "duration_ms": 226715,
+      "name": "Just Like a Dream",
+      "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1267,6 +1251,22 @@
       "duration_ms": 193253,
       "name": "ME",
       "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Volume Up",
+        "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 230008,
+      "name": "Volume Up",
+      "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Let's not fall in love - KR Ver.",
+      "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "The Spring of Twenty",
         "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 196853,
       "name": "NEVER",
       "url": "https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Let's not fall in love - KR Ver.",
-      "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
     },
     {
       "added_at": "2024-08-05 16:58:20",

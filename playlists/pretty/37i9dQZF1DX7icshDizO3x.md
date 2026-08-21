@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 30 | [Chk Chk Boom \(Festival Version\)](https://open.spotify.com/track/0pvWPyB7T0auonNDeNmyVa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:33 |
 | 31 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
 
-Snapshot ID: `AAAAAIzX/dzdt0SBC5apd3kwHrQtsSYP`
+Snapshot ID: `AAAAAFxlPb/pIR26dvHj+J7P2bYu/8dS`

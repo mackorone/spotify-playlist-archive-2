@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-353 songs - 18 hr 21 min
+354 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-30 | 2024-09-22 |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-08-11 | 2023-09-28 |
 | [I Feel](https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Feel](https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb) | 2:20 | 2024-07-26 | 2026-02-14 |
+| [I Just Wanna Dance](https://open.spotify.com/track/1PjV08bIIIuy37rpKowy8h) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Just Wanna Dance](https://open.spotify.com/album/69lgKYiY4vmLPkknOpwl6R) | 2:06 | 2026-08-14 |  |
 | [I Need A Doctor](https://open.spotify.com/track/3rGanGtuzfsLUuDo8Y73XA) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [I Need A Doctor](https://open.spotify.com/album/1JY8jVxE6d7vJTcdPDFU83) | 2:24 | 2025-02-28 | 2026-02-14 |
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 | 2025-04-14 |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-20 | 2024-07-15 |
@@ -271,7 +272,7 @@
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-04-17 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-08-11 | 2024-02-03 |
 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 | 2024-08-09 | 2024-11-19 |
-| [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 | 2023-11-03 |  |
+| [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 | 2023-11-03 | 2026-08-21 |
 | [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 | 2025-02-21 | 2025-03-15 |
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-08-11 | 2025-08-04 |
 | [Rewind](https://open.spotify.com/track/7qrj7lRzVLTMPLUt4ge274) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Rewind](https://open.spotify.com/album/2X63qmnbwC2KTbSy4YMMHD) | 2:59 | 2026-02-13 | 2026-07-25 |

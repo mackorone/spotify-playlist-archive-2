@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 | 91 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 92 | [Man I Need \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2UaHy96emBz85rYljZTs8S) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/5Bt2zqIvQ5BtgoLrKjcyI6) | 3:03 |
 
-Snapshot ID: `AAAAAAJ5/qSh4HdHQSEKD2Ehkg5RRU/L`
+Snapshot ID: `AAAAAF9xIcrN52Rb++IPE5uzyFm+YHgm`

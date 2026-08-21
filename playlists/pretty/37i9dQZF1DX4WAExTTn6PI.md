@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Meels
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,552 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,569 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Suitcase](https://open.spotify.com/track/7yWUwranBTGBPpIkWaemdL) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Suitcase](https://open.spotify.com/album/2NnNFQpObfTQx8KB4XLIPD) | 2:52 |
 | 100 | [Is This Really Happening?](https://open.spotify.com/track/1ivFENev90vl7KkhV4ZuoV) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Is This Really Happening?](https://open.spotify.com/album/3mzlLP2CBMZGX3sYYbSwQW) | 4:21 |
 
-Snapshot ID: `AAAAAI8XiVB0Uh4txPC/huWMS3VOJwXX`
+Snapshot ID: `AAAAAJGFvpka+t80Ye2qXeYydvuhnB48`

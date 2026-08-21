@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Linda Sikhakhane",
-  "num_followers": 14517,
+  "num_followers": 14520,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+8kyb9gi+rmMh9ZhXABQTWEltS",
+  "snapshot_id": "AAAAABiuZmrf7jAUYpAVww0LzOyqam5v",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:42",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Kumi Lach",
-        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kumi Lach",
-      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "Ndilapha",
         "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 257096,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Modeh Ani",
-        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 239107,
-      "name": "Modeh Ani",
-      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "A Dance More Sweetly Played",
         "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 384853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -823,6 +823,26 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
         "name": "ZINZA",
         "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 298400,
       "name": "Sombhuluka",
       "url": "https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-08-06 22:01:42",

@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Baraka Nyingi",
+        "url": "https://open.spotify.com/album/4dlSafbIgyaTEIY7fOZxK3"
+      },
+      "artists": [
+        {
+          "name": "MwanaFA",
+          "url": "https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188114,
+      "name": "Baraka Nyingi",
+      "url": "https://open.spotify.com/track/4lXLnRKdciANNcHvaReiem"
+    },
+    {
+      "album": {
         "name": "Barbender 8",
         "url": "https://open.spotify.com/album/2zCJtguOXaiNyNYCAZVIhc"
       },
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 128659,
       "name": "Mamaaakooh",
       "url": "https://open.spotify.com/track/2cHdmiHuxULYYIA5ieAN5f"
@@ -3560,6 +3578,24 @@
       "duration_ms": 216097,
       "name": "Mzee Mbuzi",
       "url": "https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8"
+    },
+    {
+      "album": {
+        "name": "Mzigo",
+        "url": "https://open.spotify.com/album/5WAioVlmDY7Ae33xw8rJfV"
+      },
+      "artists": [
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Mzigo",
+      "url": "https://open.spotify.com/track/74lvxpvYHuyw3JsAgvHPhK"
     },
     {
       "album": {
@@ -5192,7 +5228,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 194347,
       "name": "Suluhu",
       "url": "https://open.spotify.com/track/71g0kfOCpNm6V5RAfXALH7"

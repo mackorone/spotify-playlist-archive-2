@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Josey",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Daoudi le Kirikou",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "David Fofana",
+        "url": "https://open.spotify.com/album/4hICyNZfHx1LgA1QmRbdsp"
+      },
+      "artists": [
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "David Fofana",
+      "url": "https://open.spotify.com/track/1sYgGGP9aOTpoWjZOJAeyC"
+    },
+    {
+      "album": {
         "name": "DD",
         "url": "https://open.spotify.com/album/7lOGhoBQ4XvmhbjpY6vdiA"
       },
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164800,
       "name": "Fais ton malin",
       "url": "https://open.spotify.com/track/6xe7QejzwfHeBFWTtQ9LDU"
@@ -2968,6 +2986,24 @@
       "duration_ms": 238504,
       "name": "Ils n'ont pas cru",
       "url": "https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b"
+    },
+    {
+      "album": {
+        "name": "Ils ont peur",
+        "url": "https://open.spotify.com/album/6XExsWB5vgz6NZFJFf39Lv"
+      },
+      "artists": [
+        {
+          "name": "Puissance 225",
+          "url": "https://open.spotify.com/artist/39MKS7R6rFb0JwY0Nglq7t"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162631,
+      "name": "Ils ont peur",
+      "url": "https://open.spotify.com/track/1PN42kfV8J4ZbIhccMQZFI"
     },
     {
       "album": {
@@ -3550,7 +3586,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 154461,
       "name": "La B\u00eatise",
       "url": "https://open.spotify.com/track/3Q5EeS00OhCeCphR0X4G2S"
@@ -3854,7 +3890,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 162223,
       "name": "Les Jaloux",
       "url": "https://open.spotify.com/track/2fyfSbf6jsixylBUff0E0m"
@@ -4749,6 +4785,28 @@
     },
     {
       "album": {
+        "name": "PEHISAIR",
+        "url": "https://open.spotify.com/album/2crde7cMJSJFzuorwTYwow"
+      },
+      "artists": [
+        {
+          "name": "KOMMANDER SAMO",
+          "url": "https://open.spotify.com/artist/6ISXvRgrIwGbdIBahSp3iV"
+        },
+        {
+          "name": "Maa Bio",
+          "url": "https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100182,
+      "name": "PEHISAIR",
+      "url": "https://open.spotify.com/track/3KXEpfUgDz7wJKqZf8SV5Y"
+    },
+    {
+      "album": {
         "name": "CHANGEMENT",
         "url": "https://open.spotify.com/album/1t8v9ob5LHoe880FILPwf2"
       },
@@ -5092,7 +5150,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 156279,
       "name": "Rien du Tout",
       "url": "https://open.spotify.com/track/0OAe0ZaxtHyeUhqqJx541P"
@@ -5860,6 +5918,28 @@
       "duration_ms": 165957,
       "name": "Tui Tui",
       "url": "https://open.spotify.com/track/3iH43p8bTxZCYReFtkj4Lp"
+    },
+    {
+      "album": {
+        "name": "UN PIED DEDANS",
+        "url": "https://open.spotify.com/album/6647YsDOZIa1ayZ9VSAeNf"
+      },
+      "artists": [
+        {
+          "name": "Vitale",
+          "url": "https://open.spotify.com/artist/2EIvPjbDmvkpdvqMLZ00me"
+        },
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "UN PIED DEDANS",
+      "url": "https://open.spotify.com/track/04lbmeWHODu3QBxt7oz3BX"
     },
     {
       "album": {

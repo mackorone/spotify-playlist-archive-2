@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Northlane",
+  "description": "The sound of the underground. Cover: Wage War",
   "name": "The Pit",
   "tracks": [
     {
@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "None Of The Above",
+        "url": "https://open.spotify.com/album/1bOsWrsy9ZlwSQEyKVOYWE"
+      },
+      "artists": [
+        {
+          "name": "LOVELETTER",
+          "url": "https://open.spotify.com/artist/1pDutNOTPYGgy5MgOn3OXZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145104,
+      "name": "Another Shade",
+      "url": "https://open.spotify.com/track/19Q9lwvjRlnYDcvYjVbxdl"
+    },
+    {
+      "album": {
         "name": "CONCRETE JUNGLE [THE OST]",
         "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
       },
@@ -1416,6 +1434,24 @@
       "duration_ms": 272967,
       "name": "Black & Blue - 2026 Repented",
       "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+    },
+    {
+      "album": {
+        "name": "Black Magick Radio",
+        "url": "https://open.spotify.com/album/6FIn9BR00xrBzxm5veinqL"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301012,
+      "name": "Black Magick Radio",
+      "url": "https://open.spotify.com/track/33JwbpvfMLOk7nLbFlHFmc"
     },
     {
       "album": {
@@ -2086,7 +2122,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164200,
       "name": "Bring On The Psychics",
       "url": "https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq"
@@ -2815,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "critic",
+        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146058,
+      "name": "critic",
+      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
+    },
+    {
+      "album": {
         "name": "Cross Your Heart",
         "url": "https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM"
       },
@@ -3130,7 +3184,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 235253,
       "name": "Dark Summer",
       "url": "https://open.spotify.com/track/3LIcmUJ28o3q9Ak35ORrFB"
@@ -3334,6 +3388,24 @@
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. robbietheused)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+    },
+    {
+      "album": {
+        "name": "Death Threat",
+        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Death Threat",
+      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
     },
     {
       "album": {
@@ -3845,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "do or die",
+        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204714,
+      "name": "do or die",
+      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg"
       },
@@ -4120,7 +4210,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
@@ -4662,6 +4752,24 @@
       "duration_ms": 249293,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+    },
+    {
+      "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "album": {
@@ -5580,7 +5688,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 222893,
       "name": "Give Me Dirt",
       "url": "https://open.spotify.com/track/03A8fV79d1nMZXMo3vdw3u"
@@ -5804,7 +5912,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 165970,
       "name": "Good Enough (feat. Caskets)",
       "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
@@ -5996,7 +6104,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 181463,
       "name": "H.A.T.E",
       "url": "https://open.spotify.com/track/5hOJXXHeOEnrgKFdVYHhEQ"
@@ -7324,7 +7432,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 235285,
       "name": "Intertwined (feat. Jessie Powell)",
       "url": "https://open.spotify.com/track/3nacMJqs7z60ocGlnBqoqh"
@@ -8177,6 +8285,42 @@
     },
     {
       "album": {
+        "name": "Live by the Sword",
+        "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219665,
+      "name": "Live by the Sword",
+      "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
+    },
+    {
+      "album": {
+        "name": "Living/Ending",
+        "url": "https://open.spotify.com/album/2t4y0xuK6G0Wgg2eiZycci"
+      },
+      "artists": [
+        {
+          "name": "Godflesh",
+          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Living/Ending",
+      "url": "https://open.spotify.com/track/77u9CeQx36eluADaPXVZyD"
+    },
+    {
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG"
       },
@@ -9012,6 +9156,24 @@
       "duration_ms": 129078,
       "name": "Mitsuko",
       "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
+    },
+    {
+      "album": {
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "album": {
@@ -10355,6 +10517,24 @@
     },
     {
       "album": {
+        "name": "Pulling The Thread",
+        "url": "https://open.spotify.com/album/5XQVn4iVnE3XJswwZtwxZj"
+      },
+      "artists": [
+        {
+          "name": "HRTLSS",
+          "url": "https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208861,
+      "name": "Pulling The Thread",
+      "url": "https://open.spotify.com/track/4kg3Ei5X1z81FmNnHjwV1t"
+    },
+    {
+      "album": {
         "name": "Pump It",
         "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
       },
@@ -11614,7 +11794,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 182665,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
@@ -11726,7 +11906,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 269318,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
@@ -11906,7 +12086,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
@@ -12531,6 +12711,24 @@
     },
     {
       "album": {
+        "name": "Survive If I Let Ye",
+        "url": "https://open.spotify.com/album/025DuqGZMnBhDYLEO4r4X4"
+      },
+      "artists": [
+        {
+          "name": "Aerial Salad",
+          "url": "https://open.spotify.com/artist/7eq7Gy7wawqSKSYMiN4m3e"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129773,
+      "name": "Survive If I Let Ye",
+      "url": "https://open.spotify.com/track/1nVONyhLEWyJJeCwBOaFDw"
+    },
+    {
+      "album": {
         "name": "Survivor\u2019s Guilt",
         "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
       },
@@ -12564,6 +12762,42 @@
       "duration_ms": 189018,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA"
+    },
+    {
+      "album": {
+        "name": "SWALLOW",
+        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209422,
+      "name": "SWALLOW",
+      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "album": {
@@ -13252,7 +13486,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 193628,
       "name": "The Space In Between - DLX",
       "url": "https://open.spotify.com/track/6mAyBNFHwjuiTNnpejt3YR"
@@ -14110,7 +14344,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161306,
       "name": "Ultraviolet Parasite",
       "url": "https://open.spotify.com/track/19xaqmguTFdtJepNgV0EsR"
@@ -14988,7 +15222,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185733,
       "name": "What Will You Give?",
       "url": "https://open.spotify.com/track/4MJdaJXyYokypgeMsJMiuV"
@@ -15276,7 +15510,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
@@ -15450,6 +15684,24 @@
       "duration_ms": 209280,
       "name": "Zero",
       "url": "https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4"
+    },
+    {
+      "album": {
+        "name": "Zero Day",
+        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145129,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
     },
     {
       "album": {

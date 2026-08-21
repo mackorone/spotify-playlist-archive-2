@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Ronisia
+> Le R&B français, nouvelle ère\. Photo : Joé Dwèt Filé
 
-764 songs - 1 day 11 hr 55 min
+766 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [BoBo](https://open.spotify.com/track/0Win4YFmAvETJbDVOxFauD) | [Jay luv](https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs) | [BoBo](https://open.spotify.com/album/0S4ZF3VYQv4KczulNtV2Ir) | 2:37 | 2025-08-21 | 2025-09-12 |
 | [Bobo](https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Bobo](https://open.spotify.com/album/6qrU2hCfC6rguDad15MZz4) | 2:07 | 2026-08-13 |  |
 | [Bobo](https://open.spotify.com/track/4vUDJ6ajc7zjVjCu132UvT) | [SisiK](https://open.spotify.com/artist/2uCRg5frmbfGvzlLRR0Pyi) | [Bobo](https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ) | 2:38 | 2023-07-06 | 2023-09-15 |
+| [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy) | 2:48 | 2026-08-20 |  |
 | [Body call](https://open.spotify.com/track/6BEBGfPaust05aYwizTSXO) | [Asma](https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB) | [Body call](https://open.spotify.com/album/4cIUnkPLcnsoFLLzJbyuNX) | 2:29 | 2023-12-15 | 2024-02-02 |
 | [Body Language](https://open.spotify.com/track/2RjeaLCkaAfxfKZFoLJRB5) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [Body Language](https://open.spotify.com/album/1emz5zZGrwexpAKUH7urFw) | 2:19 | 2025-10-09 | 2025-11-07 |
 | [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-09 | 2024-12-06 |
@@ -566,7 +567,7 @@
 | [Pray for me](https://open.spotify.com/track/2c1ASssfom79tTydcurJwp) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Pray for me](https://open.spotify.com/album/639ICExmmeVlloWfT6gQz8) | 3:09 | 2024-03-28 | 2024-06-14 |
 | [PRENDS SUR MOI \(feat\. DAKEEZ\)](https://open.spotify.com/track/5lW3atf42ItPyQxFWahkBf) | [PRINC€](https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [SOUSCALCUL MIXTAPE VOL.1](https://open.spotify.com/album/6UiBEkleixVDeJ1KbQhQUv) | 2:38 | 2025-08-07 | 2025-10-17 |
 | [Pression](https://open.spotify.com/track/2KLfIFfR1PLMXvMthsuAWK) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [Pression](https://open.spotify.com/album/5B47198bhoTCOhMDrSPHuB) | 2:53 | 2026-03-05 | 2026-04-10 |
-| [Pretty Mama](https://open.spotify.com/track/6AYhLMFpbiNfQ2191WWyAz) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [HateLove](https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x) | 2:51 | 2026-05-21 |  |
+| [Pretty Mama](https://open.spotify.com/track/6AYhLMFpbiNfQ2191WWyAz) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [HateLove](https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x) | 2:51 | 2026-05-21 | 2026-08-21 |
 | [Prie Pour Moi](https://open.spotify.com/track/24crm1CmCOg633efjOSduY) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Prie Pour Moi](https://open.spotify.com/album/7GQlUc3nmWlRkCtQU74Cup) | 2:31 | 2024-10-24 | 2025-02-14 |
 | [PRISON DOREE](https://open.spotify.com/track/6Yp7FdkoCnFHk7vALvsRkv) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [CUXI BOY PART II \(Réédition\)](https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr) | 3:45 | 2025-06-26 | 2025-09-05 |
 | [Privé](https://open.spotify.com/track/3UnFyMSzH3wFKgMX3jskiE) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [STAR](https://open.spotify.com/album/3bp5Asakxkml0rvZjbcnH4) | 2:52 | 2025-11-20 | 2026-01-23 |
@@ -705,6 +706,7 @@
 | [Terminé \- Summer Version](https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Terminé \(Summer Version\)](https://open.spotify.com/album/78U3ufc3lkUfLlwLk5vo8Z) | 2:19 | 2025-07-10 | 2025-11-14 |
 | [Ti Ki Da](https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Ti Ki Da](https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV) | 2:41 | 2023-10-05 | 2023-12-08 |
 | [TIKI](https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [TIKI](https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U) | 2:12 | 2024-09-12 | 2024-11-08 |
+| [Titanic](https://open.spotify.com/track/6Z7tzt8vD8pVgy58IOUKoj) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Titanic](https://open.spotify.com/album/76mqpNEK8FRHzOMZUxwDaK) | 2:59 | 2026-08-20 |  |
 | [Titulaire](https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Titulaire](https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS) | 3:06 | 2025-04-17 | 2025-09-12 |
 | [Tlc](https://open.spotify.com/track/3PKRmwLD2ZKAybOfDYse2J) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [Tlc](https://open.spotify.com/album/3whVCbHWnDqjyGwx5NSafh) | 2:18 | 2025-11-20 | 2025-12-12 |
 | [To The Moon](https://open.spotify.com/track/0TDkJWfz5t1smyD9cGeoV8) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Story Time \(Prelude\)](https://open.spotify.com/album/3XCZt6uNpVtTJKlqvcBU0A) | 2:20 | 2025-10-09 | 2025-11-21 |
@@ -744,7 +746,7 @@
 | [VICE](https://open.spotify.com/track/1pghHNuVjQLObEKTkbrB66) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [My Eyes Only](https://open.spotify.com/album/096KAIqQBU6VAIoslHuybX) | 2:53 | 2025-09-04 | 2026-01-02 |
 | [Vie d’après](https://open.spotify.com/track/2sZOchSAjMIK8abd0giWKu) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ame](https://open.spotify.com/album/3ACiqzYVVGynQtQstUXoiy) | 2:25 | 2024-02-29 | 2024-05-03 |
 | [Vitamine](https://open.spotify.com/track/1p6U4CG4deYuJq9RdVgVm7) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Vitamine](https://open.spotify.com/album/1BuI9ubZKzBHVf0Gc3RRcL) | 2:07 | 2025-01-16 | 2025-02-14 |
-| [VITESSE](https://open.spotify.com/track/7G3RGNervmyqvGocFcNnov) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [SENTIMENTALE](https://open.spotify.com/album/3Oiq6i29v8OLSMMlGHhElF) | 2:34 | 2026-05-28 |  |
+| [VITESSE](https://open.spotify.com/track/7G3RGNervmyqvGocFcNnov) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [SENTIMENTALE](https://open.spotify.com/album/3Oiq6i29v8OLSMMlGHhElF) | 2:34 | 2026-05-28 | 2026-08-21 |
 | [Vizion](https://open.spotify.com/track/5uOGBgJyCuqbkba18YhWRv) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Vizion](https://open.spotify.com/album/0XfBtZt0fTT4VFUI8n4I90) | 2:16 | 2023-09-07 | 2023-09-29 |
 | [Voyager](https://open.spotify.com/track/2AfDJqcpnqU8Y2XEMzfcjK) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Voyager](https://open.spotify.com/album/4ziU4cUCiPShT8TSaERrQi) | 2:53 | 2024-03-14 | 2024-11-29 |
 | [Vrai visage](https://open.spotify.com/track/4hmupxfWB67RZ95TFyqvOs) | [NTH](https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s) | [Vrai visage](https://open.spotify.com/album/5khBhQxdPVowT9kyGvPaPb) | 1:57 | 2024-02-01 | 2024-02-23 |

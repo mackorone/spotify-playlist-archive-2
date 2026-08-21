@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40",
+  "description": "kun det nyeste danske rap \ud83d\udc40 YAWO p\u00e5 cover!!",
   "name": "rap dk",
   "tracks": [
     {
@@ -7855,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "Mr. Entrepren\u00f8r",
+        "url": "https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O"
+      },
+      "artists": [
+        {
+          "name": "YAWO",
+          "url": "https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Mr. Entrepren\u00f8r",
+      "url": "https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym"
+    },
+    {
+      "album": {
         "name": "Murci\u00e9lago",
         "url": "https://open.spotify.com/album/2HZAQ8Ur0Ac7es5G4IfIAS"
       },
@@ -10424,6 +10442,24 @@
       "duration_ms": 131156,
       "name": "Topskud",
       "url": "https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG"
+    },
+    {
+      "album": {
+        "name": "Sputnik",
+        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
+      },
+      "artists": [
+        {
+          "name": "Sm\u00f8gm\u00e6nd",
+          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-1,758 songs - 3 day 8 hr 46 min
+1,759 songs - 3 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Cheyenne](https://open.spotify.com/track/2wQiBztQjOll9BOAAWrcpV) | [BENN](https://open.spotify.com/artist/78HUUoGoKAtMnyN22htoLx) | [Nil il coniglio](https://open.spotify.com/album/2Z0zIxJid4ELsikOwDeMQe) | 3:00 | 2024-11-14 | 2024-11-29 |
 | [CHIAMAMI](https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [CHIAMAMI](https://open.spotify.com/album/5dkHtUJw9XOSGjrFhnJo3A) | 2:35 | 2023-07-27 | 2023-09-22 |
 | [Chiara](https://open.spotify.com/track/7tEEqmmsZvUEGupDfsh54X) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Chiara](https://open.spotify.com/album/7mqjgz9vcp6atDJZaKWIKf) | 2:19 | 2023-06-08 | 2023-10-06 |
-| [CHIARA E NICOLA](https://open.spotify.com/track/2vFYn3aWck0rcjpBMvtiPa) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m), [6tt](https://open.spotify.com/artist/6tzFd4YqBCoF7NvKyqM0LJ) | [Family and Friends](https://open.spotify.com/album/2cY7Zmk1w0wORFDGuDDSB8) | 2:01 | 2026-05-14 |  |
+| [CHIARA E NICOLA](https://open.spotify.com/track/2vFYn3aWck0rcjpBMvtiPa) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m), [6tt](https://open.spotify.com/artist/6tzFd4YqBCoF7NvKyqM0LJ) | [Family and Friends](https://open.spotify.com/album/2cY7Zmk1w0wORFDGuDDSB8) | 2:01 | 2026-05-14 | 2026-08-21 |
 | [chiaroscuro](https://open.spotify.com/track/0RfrHDSuwVNXeTz2Epoq8J) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [chiaroscuro](https://open.spotify.com/album/6IF0K41GIEmHd6zx3DYuH7) | 3:38 | 2023-10-26 | 2023-12-01 |
 | [Chicco \(feat\. Tripolare\)](https://open.spotify.com/track/5tZdJhXY8z7AthEIsn5KUs) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Chicco \(feat\. Tripolare\)](https://open.spotify.com/album/2Ls2f0KJmFdKv0fRNzS2lT) | 1:55 | 2024-02-27 | 2024-04-19 |
 | [CHIEDIMI COME STAI](https://open.spotify.com/track/2k15OSvsBSNgU0NveUfu4q) | [Sunset Radio](https://open.spotify.com/artist/1se8zzXJ2zpzQvdAQIhr4H) | [CHIEDIMI COME STAI](https://open.spotify.com/album/4NwS1GgxOk43Df0M3VyPX9) | 2:28 | 2025-02-20 | 2025-05-23 |
@@ -1379,6 +1379,7 @@
 | [Sempre noi](https://open.spotify.com/track/25Qy4fpeZW6YMKqVCDJZdV) | [MAYA](https://open.spotify.com/artist/3DfPNcjkxl8PPOSrL0Tn94), [Yanna](https://open.spotify.com/artist/7pD6tESFPJvN3nEvIEJ9Ol) | [Sempre noi](https://open.spotify.com/album/5fG5aQsEOFRFPu0u2VVHtJ) | 3:06 | 2025-11-06 | 2025-11-28 |
 | [Sempre più buia](https://open.spotify.com/track/7oaIdLf33upBcb3GbvOJI0) | [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [Sempre più buia](https://open.spotify.com/album/3stovOuaEcI1LGuDibKyzP) | 2:37 | 2024-04-04 | 2024-07-12 |
 | [Sempre Più Sad](https://open.spotify.com/track/5MmRzShl2D8yjNFKzqtQK4) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Sempre Più Sad](https://open.spotify.com/album/12ZdOJivQx0sWX47pibeKB) | 2:59 | 2023-02-23 | 2023-04-14 |
+| [sentirmi di nuovo](https://open.spotify.com/track/3DPAH6kszAwV20Ner1zAC3) | [Murphy](https://open.spotify.com/artist/1VmfzwrzzditKu8NPltZXB) | [sentirmi di nuovo](https://open.spotify.com/album/3soaLBLeGMu07VTLk9YEob) | 2:47 | 2026-08-20 |  |
 | [Senza fiato](https://open.spotify.com/track/5dUhGys4taBvM5IKwXbIUZ) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [JacksonT](https://open.spotify.com/artist/1yNAga7GlT0lz8n92zuU47), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [Senza fiato](https://open.spotify.com/album/1DNHsQY8HdA1MhIUeij5Lv) | 2:46 | 2022-09-22 | 2022-10-28 |
 | [senza la barba sono grande anch’io](https://open.spotify.com/track/4HRgCzXPjab3ViCZuau9hT) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [neanche anch'io](https://open.spotify.com/album/5MXqHsstPId7lDStI2rySw) | 2:42 | 2023-03-23 | 2023-10-13 |
 | [Senza le ali](https://open.spotify.com/track/1rxdV2Tgct9dPGlr6eNyRZ) | [millepaure](https://open.spotify.com/artist/7Ch7MLfFSiVCLWYnX7a7sH), [steee](https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Senza le ali](https://open.spotify.com/album/5aUwXsNqggDeMhyMpFBd7e) | 2:15 | 2025-09-18 | 2025-10-17 |

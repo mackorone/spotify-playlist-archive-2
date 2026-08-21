@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Wasia Project",
-  "num_followers": 1664021,
+  "num_followers": 1663946,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6hUUtZiZPriGidX+ilLNVkuGO2",
+  "snapshot_id": "AAAAABFoMZVX8p7A+2hf6IEb+h1o25g7",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:11",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 200874,
-      "name": "Blue Dream",
-      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
     },
     {
       "added_at": "2026-07-03 04:20:13",
@@ -945,20 +945,20 @@
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
     },
     {
-      "added_at": "2026-06-22 21:48:31",
+      "added_at": "2026-07-31 04:02:11",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
+        "name": "Crush On You",
+        "url": "https://open.spotify.com/album/3GHaB9uuOC97efCTFZnEhP"
       },
       "artists": [
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
         }
       ],
-      "duration_ms": 194773,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
+      "duration_ms": 169411,
+      "name": "Crush On You",
+      "url": "https://open.spotify.com/track/1DbYXCbGZe3xR8N1nVdhgH"
     },
     {
       "added_at": "2026-06-19 04:01:13",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
     },
     {
+      "added_at": "2026-06-22 21:48:31",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
+    },
+    {
       "added_at": "2026-07-17 04:02:10",
       "album": {
         "name": "PIXIE",
@@ -991,22 +1007,6 @@
       "duration_ms": 203728,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
-    },
-    {
-      "added_at": "2026-07-31 04:02:11",
-      "album": {
-        "name": "Crush On You",
-        "url": "https://open.spotify.com/album/3GHaB9uuOC97efCTFZnEhP"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Crush On You",
-      "url": "https://open.spotify.com/track/1DbYXCbGZe3xR8N1nVdhgH"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1161,20 +1161,20 @@
       "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
     },
     {
-      "added_at": "2026-06-26 04:55:44",
+      "added_at": "2026-08-14 04:01:48",
       "album": {
-        "name": "Water The Flowers",
-        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 150994,
-      "name": "Water The Flowers",
-      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1209,36 +1209,20 @@
       "url": "https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf"
     },
     {
-      "added_at": "2026-07-24 04:02:39",
+      "added_at": "2026-06-26 04:55:44",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
+        "name": "Water The Flowers",
+        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
       },
       "artists": [
         {
-          "name": "Jace Cameron",
-          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 230637,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
-    },
-    {
-      "added_at": "2026-07-10 16:27:35",
-      "album": {
-        "name": "Haven't Said I Love You Yet",
-        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
-      },
-      "artists": [
-        {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
-        }
-      ],
-      "duration_ms": 113725,
-      "name": "Haven't Said I Love You Yet",
-      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
+      "duration_ms": 150994,
+      "name": "Water The Flowers",
+      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
       "added_at": "2026-07-31 16:09:08",
@@ -1275,6 +1259,38 @@
       "duration_ms": 133270,
       "name": "wasted time",
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
+    },
+    {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Haven't Said I Love You Yet",
+        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "duration_ms": 113725,
+      "name": "Haven't Said I Love You Yet",
+      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
+    },
+    {
+      "added_at": "2026-07-24 04:02:39",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
+      },
+      "artists": [
+        {
+          "name": "Jace Cameron",
+          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
+        }
+      ],
+      "duration_ms": 230637,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1323,22 +1339,6 @@
       "duration_ms": 234971,
       "name": "you and forever",
       "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
-    },
-    {
-      "added_at": "2026-08-14 04:01:48",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-07-10 16:27:35",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
     },
     {
-      "added_at": "2026-07-17 04:02:10",
-      "album": {
-        "name": "Isn't it sweeter?",
-        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 150901,
-      "name": "A Little More Fun",
-      "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "down under",
@@ -1469,6 +1453,22 @@
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
     },
     {
+      "added_at": "2026-07-17 04:02:10",
+      "album": {
+        "name": "Isn't it sweeter?",
+        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 150901,
+      "name": "A Little More Fun",
+      "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
+    },
+    {
       "added_at": "2026-08-07 15:29:36",
       "album": {
         "name": "She's The Only One",
@@ -1483,38 +1483,6 @@
       "duration_ms": 200417,
       "name": "She's The Only One",
       "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
-    },
-    {
-      "added_at": "2026-06-19 04:01:13",
-      "album": {
-        "name": "we're all in love",
-        "url": "https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "made for love",
-      "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
-    },
-    {
-      "added_at": "2026-07-10 16:27:35",
-      "album": {
-        "name": "Girl, Intentions",
-        "url": "https://open.spotify.com/album/0zam2ZW2T22AhELRLudgoF"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 227127,
-      "name": "Girl, Intentions",
-      "url": "https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v"
     },
     {
       "added_at": "2026-08-07 15:29:36",
@@ -1549,6 +1517,38 @@
       "url": "https://open.spotify.com/track/6Ht6IgAvwRHNUDFlwdYdMt"
     },
     {
+      "added_at": "2026-06-19 04:01:13",
+      "album": {
+        "name": "we're all in love",
+        "url": "https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "made for love",
+      "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
+    },
+    {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Girl, Intentions",
+        "url": "https://open.spotify.com/album/0zam2ZW2T22AhELRLudgoF"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 227127,
+      "name": "Girl, Intentions",
+      "url": "https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v"
+    },
+    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "Mesmerized",
@@ -1563,22 +1563,6 @@
       "duration_ms": 158936,
       "name": "Mesmerized",
       "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
-    },
-    {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 228904,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1599,6 +1583,38 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 228904,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
+    },
+    {
+      "added_at": "2026-08-07 15:29:36",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 215531,
       "name": "Lipdance",
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
-    },
-    {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "plum",
-        "url": "https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG"
-      },
-      "artists": [
-        {
-          "name": "josh conway",
-          "url": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "breathless",
-      "url": "https://open.spotify.com/track/3f1B7seoBSLXlyXS2QZU46"
     }
   ],
   "unique_name": "Indie Pop",

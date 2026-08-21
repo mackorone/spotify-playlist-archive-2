@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Kabza De Small
+> Proudly Southern African Afropop gems\. Cover: MaWhoo, Lwah Ndlunkulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,483 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,540 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 99 | [Friend Zone](https://open.spotify.com/track/6LD23718ptbF2UipIVjoaN) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Friend Zone](https://open.spotify.com/album/2R464IbguB4Bf4PAqo6I2F) | 3:24 |
 | 100 | [Nhliziyo Yami](https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [Nhliziyo Yami](https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs) | 4:06 |
 
-Snapshot ID: `AAAAAETf9geMrfBrDc2kfxw9YtbRhhu+`
+Snapshot ID: `AAAAALLE2VgVbNthH5xTWP844dUlb813`

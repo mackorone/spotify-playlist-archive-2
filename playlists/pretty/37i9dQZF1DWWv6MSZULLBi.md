@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Julian Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,288 likes - 175 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,280 likes - 175 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 174 | [Carolina Heart](https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:27 |
 | 175 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
 
-Snapshot ID: `AAAAAJ8qx6yZ+fqh0OgtMr2YhqMcIdmE`
+Snapshot ID: `AAAAAHQAT3Q/eQ1jU1QtxSxAJwO3/Ycq`

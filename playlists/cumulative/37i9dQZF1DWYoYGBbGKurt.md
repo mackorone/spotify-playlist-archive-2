@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,168 songs - 3 day 11 hr 48 min
+2,170 songs - 3 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1253,6 +1253,7 @@
 | [Midway Through](https://open.spotify.com/track/7fWT76LjGYJ492nKGTvSTo) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Midway Through](https://open.spotify.com/album/6pBzSxNAOZlVtNrGcj4jzf) | 2:20 | 2026-01-08 |  |
 | [Miffing](https://open.spotify.com/track/482V3gj1s0CmyxggOk4OLh) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Miffing](https://open.spotify.com/album/2HW7ivX1zL2ymrEdQkecm8) | 2:23 | 2021-12-07 | 2022-06-03 |
 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2022-09-02 | 2025-02-01 |
+| [Mindful Mind](https://open.spotify.com/track/6QCxlLob9xxVWwtBli3dYU) | [Thélian](https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0) | [Mindful Mind](https://open.spotify.com/album/2IkYNSFnM5RqknQrZyAoKd) | 3:04 | 2026-08-20 |  |
 | [Mindgarden](https://open.spotify.com/track/3YBeXgkUD57X0iUYQGhynQ) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Roelo](https://open.spotify.com/artist/427NoskGkRLFdKbxUEsEPr) | [Mindgarden](https://open.spotify.com/album/4oUlY36Ux1lsTRU1PjpkCP) | 2:49 | 2022-06-24 | 2022-08-05 |
 | [Mini Voyage](https://open.spotify.com/track/4VQtTjadPJv7Zov9EsRThJ) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Mini Voyage](https://open.spotify.com/album/22Etq0tTXSN3sjePstvSSt) | 2:23 | 2024-05-13 | 2024-10-17 |
 | [minimalistic](https://open.spotify.com/track/510JH6c5Uvtl4GmReyTDI7) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [minimalistic](https://open.spotify.com/album/5XrMahpqjNshTBeOHPoa6D) | 2:08 | 2022-11-11 | 2025-03-08 |
@@ -1655,7 +1656,7 @@
 | [Sideways Jake](https://open.spotify.com/track/0ixJMMkWmsaQUffky26nrb) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Under the Rainbow](https://open.spotify.com/album/2gGuBCwA5LI669yzQpa5hN) | 2:11 | 2023-02-17 | 2025-02-22 |
 | [Sight](https://open.spotify.com/track/4VYbyIj0tZVlhGGNiCUw6v) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Sight](https://open.spotify.com/album/6IfwKkmDITX8ixnWdvjBw8) | 3:02 | 2022-09-23 | 2022-09-30 |
 | [Sigma](https://open.spotify.com/track/6Ll6fSsEQKikhmHOg9bCSG) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sigma](https://open.spotify.com/album/60DlCi93e7e8osNwfvnPna) | 2:54 | 2023-03-08 | 2024-06-27 |
-| [siljan](https://open.spotify.com/track/5Yr3Hd5gqRhLzRDOwCrGsG) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [siljan](https://open.spotify.com/album/5cF3OTCLJrlGp9NYUz6BYt) | 2:42 | 2025-05-16 |  |
+| [siljan](https://open.spotify.com/track/5Yr3Hd5gqRhLzRDOwCrGsG) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [siljan](https://open.spotify.com/album/5cF3OTCLJrlGp9NYUz6BYt) | 2:42 | 2025-05-16 | 2026-08-21 |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2021-12-07 | 2022-07-22 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 | 2025-06-07 |
 | [Simmer Down](https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Simmer Down](https://open.spotify.com/album/0mzDPdasH5BhizWTqoMlRV) | 3:05 | 2021-12-07 | 2022-08-05 |
@@ -1792,6 +1793,7 @@
 | [Stutter](https://open.spotify.com/track/6JikGZ9a80lLgEi3tXzSX0) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Reactor](https://open.spotify.com/album/3l3ehOEXCHbmZrOVvA5tKU) | 2:07 | 2021-12-07 | 2022-04-08 |
 | [Submerge](https://open.spotify.com/track/4KXNe9tmjQuevVM5NFQ0uM) | [ticofaces](https://open.spotify.com/artist/7fG9d41QElOF8zSI1OoRbE) | [Lunar Isle II](https://open.spotify.com/album/3RsHVwixBbrxVMFyhxHvbW) | 2:03 | 2022-07-29 | 2022-11-12 |
 | [subtopia](https://open.spotify.com/track/3dR99FWjRwfbjFLl7l9Gl2) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [subtopia](https://open.spotify.com/album/5MD8YF55ju64o9Cu0R5XCM) | 3:52 | 2021-12-07 | 2022-04-22 |
+| [suburbia](https://open.spotify.com/track/5Z1qcRRM1b2YC0kafJLS2V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [suburbia](https://open.spotify.com/album/6s2DtWZkxBjJL1jyCCoZ4V) | 2:17 | 2026-08-20 |  |
 | [Sudden Demise](https://open.spotify.com/track/5lKoXOXRzS2rviuoqivws3) | [Flawsomeness](https://open.spotify.com/artist/6CZ3rcK8pBgqZSyNin4yVP) | [Sudden Demise](https://open.spotify.com/album/7lAlQmh1q47tdLnJxdGFOa) | 2:48 | 2022-11-25 | 2023-04-21 |
 | [Sugah Kick](https://open.spotify.com/track/0jvBTSg9Rm8EDuhLg16f6N) | [Anima](https://open.spotify.com/artist/53aEqZJgTm47vAYN2bJW3u) | [Plectrum](https://open.spotify.com/album/1zRI27Dk6Su1M9lvnrPYTo) | 2:08 | 2021-12-07 | 2022-07-22 |
 | [Sultry](https://open.spotify.com/track/35bkfQzstqvT9pCGbQbdSb) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Sultry](https://open.spotify.com/album/6TcTnnYs2mkXcTuMUHoLBh) | 1:40 | 2022-08-12 | 2022-11-26 |
@@ -2016,7 +2018,7 @@
 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-08-19 | 2023-04-21 |
 | [Underglow](https://open.spotify.com/track/3IqfukMjUfGnheoVpwbmIt) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Underglow](https://open.spotify.com/album/3JpD4nO7WHIk5V1COO2ky3) | 2:08 | 2025-04-18 |  |
 | [Undersea](https://open.spotify.com/track/5CGRlXxWh4zaskAWpg4AeB) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Undersea](https://open.spotify.com/album/2nzMIHsSPel9lPyUGWGnUp) | 2:56 | 2022-07-22 | 2022-11-12 |
-| [Underwater Blue](https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Underwater Blue](https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B) | 1:42 | 2025-01-17 |  |
+| [Underwater Blue](https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Underwater Blue](https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B) | 1:42 | 2025-01-17 | 2026-08-21 |
 | [Unfair](https://open.spotify.com/track/6almDaOLy2R0MAMTLmNIBb) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Unfair](https://open.spotify.com/album/3eYupVErUCArn2ltlYQ3NA) | 2:10 | 2022-08-12 | 2022-11-12 |
 | [Unfair Ways](https://open.spotify.com/track/5szxQkFES2xCKVgyVfM7YM) | [Mysolar](https://open.spotify.com/artist/6Mn6XV2oKxar2RnbvDRSqi) | [Musique Aquarelle](https://open.spotify.com/album/0jSiLY1h1Y7KLSvwT1Bd1f) | 2:00 | 2021-12-07 | 2022-10-08 |
 | [Unfocused](https://open.spotify.com/track/1nvfLfYYMaqp727vk7SQdn) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [Firetree](https://open.spotify.com/album/114VCNLwSI8JIysVGXZUmX) | 1:25 | 2021-12-07 | 2022-05-27 |

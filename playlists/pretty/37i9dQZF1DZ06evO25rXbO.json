@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1248787,
+  "num_followers": 1248918,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAA2H7ItCScovS19szXM1Rkx",
+  "snapshot_id": "aoTyAAAAAABuY0hZ3SXdsx5tH63zeqlj",
   "tracks": [
     {
       "added_at": null,
@@ -556,13 +556,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "Mark E. Smith",
+          "url": "https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ"
         }
       ],
-      "duration_ms": 189021,
-      "name": "The God of Lying (feat. IDLES)",
-      "url": "https://open.spotify.com/track/5nrbuDZe5Hod1nUsND6QUA"
+      "duration_ms": 232173,
+      "name": "Delirium (feat. Mark E. Smith)",
+      "url": "https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p"
     },
     {
       "added_at": null,
@@ -632,13 +632,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Mark E. Smith",
-          "url": "https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 232173,
-      "name": "Delirium (feat. Mark E. Smith)",
-      "url": "https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p"
+      "duration_ms": 189021,
+      "name": "The God of Lying (feat. IDLES)",
+      "url": "https://open.spotify.com/track/5nrbuDZe5Hod1nUsND6QUA"
     },
     {
       "added_at": null,
@@ -847,26 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
+        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
       },
       "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
         }
       ],
-      "duration_ms": 245988,
-      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
-      "url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
+      "duration_ms": 202066,
+      "name": "Doncamatic (feat. Daley)",
+      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
     },
     {
       "added_at": null,
@@ -927,22 +923,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
-        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
       "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Daley",
-          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Doncamatic (feat. Daley)",
-      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
+      "duration_ms": 245988,
+      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+      "url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
     },
     {
       "added_at": null,

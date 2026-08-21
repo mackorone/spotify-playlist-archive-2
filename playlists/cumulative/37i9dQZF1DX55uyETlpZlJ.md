@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sumedh
 
-711 songs - 1 day 16 hr 16 min
+712 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Na Ninne Preetisuve](https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ) | 3:40 | 2023-10-26 | 2024-02-17 |
 | [Na Ninne Preetisuve](https://open.spotify.com/track/3QneWObcFZcEvpMNhAxxJZ) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8) | 3:40 | 2023-10-26 | 2024-01-07 |
 | [Naa Arive](https://open.spotify.com/track/0qFEglcQZCUMNADVKihoYy) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Naa Arive](https://open.spotify.com/album/0gQRlHibWUXKObi4Csgvn9) | 4:26 | 2023-08-08 | 2024-04-02 |
+| [Naane](https://open.spotify.com/track/5dSufOmNhk2yZYqgiac9Gg) | [Nachiketa Sharma Miganakallu](https://open.spotify.com/artist/10u3I5e6QGvudWNU1wRUzC) | [Naane](https://open.spotify.com/album/70SeJH7oX83QrNbVjwcurt) | 3:14 | 2026-08-20 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
 | [Naavu Kuuda OG](https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Naavu Kuuda OG](https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq) | 1:00 | 2023-08-18 | 2024-02-20 |
 | [Nagu](https://open.spotify.com/track/2slEJoC0joGbBb1MXeCIWi) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Ajith Keshava](https://open.spotify.com/artist/3bN8X7e50eYFGhuqctG5Te) | [Nagu](https://open.spotify.com/album/2aVEDrhiFODgbnvPQpTfCV) | 3:37 | 2023-11-16 | 2024-02-17 |
@@ -494,7 +495,7 @@
 | [Nemmadi](https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl), [Manujjes](https://open.spotify.com/artist/5fjJ0wwxbYv20BeN5IQuFK) | [Nemmadi](https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx) | 2:20 | 2023-12-29 | 2024-06-04 |
 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 | 2023-12-09 |
 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 | 2023-11-02 |
-| [Nenapale](https://open.spotify.com/track/3yOPmz3W9psgd9XX5BMHcK) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Nenapale](https://open.spotify.com/album/5ajuZjDYqrJU1TzcFBG60H) | 2:53 | 2026-01-16 |  |
+| [Nenapale](https://open.spotify.com/track/3yOPmz3W9psgd9XX5BMHcK) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Nenapale](https://open.spotify.com/album/5ajuZjDYqrJU1TzcFBG60H) | 2:53 | 2026-01-16 | 2026-08-21 |
 | [Nenapina Sagaradlli](https://open.spotify.com/track/0O0l6M3ZGLkbIZEQfGuW4W) | [Chethan Shrinivas](https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem) | [Nenapina Sagaradlli](https://open.spotify.com/album/2pdVLRAz7nK21vOQavJKNl) | 3:28 | 2025-01-27 | 2025-06-07 |
 | [Nenapina Setuve](https://open.spotify.com/track/0VDUfZ6bgbZVrVqgsc1r9Q) | [Ananya Muthamma](https://open.spotify.com/artist/3HqWWm7osZH8AXR98w2aHq), [Suraj Jois](https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp) | [Nenapina Setuve](https://open.spotify.com/album/4bOC609dc5Qf2gyMKU6ZZz) | 3:42 | 2024-12-03 | 2025-03-19 |
 | [Nettana Mugina Hudugi](https://open.spotify.com/track/7ykUCq7PqPn1PzQbTDYJzh) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Nettana Mugina Hudugi](https://open.spotify.com/album/5qjMYqIsGGT01LQTlJXgpA) | 3:03 | 2024-07-01 | 2024-12-07 |

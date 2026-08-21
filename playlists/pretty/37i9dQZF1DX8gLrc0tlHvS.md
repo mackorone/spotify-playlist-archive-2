@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Stomping rhythms, rustic strings, communal harmonies, or maybe something cool like indie folk? Cover: Edward Sharpe & The Magnetic Zeros
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,089 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,101 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 75 | [From the Wreckage Build a Home](https://open.spotify.com/track/4nfJaz7eFYR82rWumtPutG) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 3:33 |
 | 76 | [Terrified](https://open.spotify.com/track/5uB9SvKVs8Ii0UVAATw2Ga) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Terrified](https://open.spotify.com/album/3AG9nQqOW90mcdscav6TpP) | 3:03 |
 
-Snapshot ID: `AAAAAN9elH6nu6W98nZdo1b5Na2c4sfe`
+Snapshot ID: `AAAAAIDo9B1pa8AteVi0S6dYye5NhHbg`

@@ -1,12 +1,12 @@
 {
   "description": "This is Irv Gotti. The essential tracks, all in one playlist.",
-  "num_followers": 168,
+  "num_followers": 169,
   "original_name": "This Is Irv Gotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACrj/QcCyaPUwd6LZgM4oY1",
+  "snapshot_id": "aoTyAAAAAAAzpaoqdwZctqyBRjlU3iWJ",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Informal Introduction OG",
+        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 278200,
       "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
       "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Informal Introduction OG",
-        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
-      },
-      "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
     },
     {
       "added_at": null,
@@ -191,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Open Door (feat. Irv Gotti) - Single",
+        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
+      },
+      "artists": [
+        {
+          "name": "Chunk",
+          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 229643,
+      "name": "Open Door",
+      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 233773,
       "name": "Here We Come",
       "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Door (feat. Irv Gotti) - Single",
-        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
-      },
-      "artists": [
-        {
-          "name": "Chunk",
-          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 229643,
-      "name": "Open Door",
-      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
     },
     {
       "added_at": null,

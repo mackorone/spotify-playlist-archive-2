@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16627,
+  "num_followers": 16631,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACW8OXviLZAK6z3dq0EpL69",
+  "snapshot_id": "aoTyAAAAAACY+SsHtveRYhQZh3iA3PqX",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 185826,
-      "name": "My Plague",
-      "url": "https://open.spotify.com/track/3Riuyxso4Zj3w1IVUw3waL"
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+      "duration_ms": 185826,
+      "name": "My Plague",
+      "url": "https://open.spotify.com/track/3Riuyxso4Zj3w1IVUw3waL"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Forgive And Forget",
-      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+      "duration_ms": 210160,
+      "name": "Sorrow I Know",
+      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Sorrow I Know",
-      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
+      "duration_ms": 224160,
+      "name": "Forgive And Forget",
+      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
     }
   ],
   "unique_name": "This Is Kittie",

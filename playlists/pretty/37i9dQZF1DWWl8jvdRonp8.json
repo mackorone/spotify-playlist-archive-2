@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 310778,
+  "num_followers": 310859,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFaHoz1vTgAXdL9TTcLXh4vr3sUr",
+  "snapshot_id": "AAAAADkIR/3sWPALIEM3OkdSIZ8/CiHd",
   "tracks": [
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Te Voy a Hacer Feliz",
         "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 260263,
       "name": "Se Va Muriendo M\u00ed Alma",
       "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Y Yo Sin Ti",
-        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Y Yo Sin Ti",
-      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Mi Eterno Amor Secreto (En Vivo)",
         "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 233728,
       "name": "Mi Eterno Amor Secreto (En Vivo)",
       "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Y Yo Sin Ti",
+        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Y Yo Sin Ti",
+      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
     },
     {
       "added_at": "2026-07-16 23:50:42",

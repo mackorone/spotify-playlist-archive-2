@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285980,
+  "num_followers": 285999,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADvsPh6O6EKPuobM/c0Bnre+Zu/7",
+  "snapshot_id": "AAAAAMRN979EMcCGcqaZQ7I8ad5VgPEI",
   "tracks": [
     {
       "added_at": "2026-07-23 21:17:27",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 184773,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Me and Bobby McGee (2024 Mix)",
         "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-07-23 21:17:27",

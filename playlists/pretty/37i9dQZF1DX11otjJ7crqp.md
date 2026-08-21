@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,313 likes - 149 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,337 likes - 149 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 148 | [closer to heaven](https://open.spotify.com/track/1JXw8B8PTWPnn6C7RMnvl1) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [closer to heaven](https://open.spotify.com/album/3oksuTJWcaHwJPgSkQq1oA) | 2:40 |
 | 149 | [even if it's tonight](https://open.spotify.com/track/0v1F8KXgtN8CdlrSHlSbbK) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [even if it's tonight](https://open.spotify.com/album/64X2kNDlf5J37DmlDP4keJ) | 3:24 |
 
-Snapshot ID: `AAAAABx8WfOd7PlRmf4QQ7wqZ3FwYf8d`
+Snapshot ID: `AAAAAEBWtRE6ALQV7kXs+2FP9wQRxHa+`

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos pop m\u00e1s escuchados de Argentina. Foto: Maria Becerra",
-  "num_followers": 47433,
+  "num_followers": 47446,
   "original_name": "Lo mejor de POP FLOW 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOcqOg7h7yF78NzC34zxid35+LW",
+  "snapshot_id": "AAAAADbP5sZTRw6CTSYMEwNig4XbKBPw",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -258,6 +258,14 @@
         {
           "name": "Dread Mar I",
           "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 213480,

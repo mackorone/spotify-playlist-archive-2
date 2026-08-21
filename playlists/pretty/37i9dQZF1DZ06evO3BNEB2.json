@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40898,
+  "num_followers": 40908,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAA2N5f9qQO74h30plVJjbg8",
+  "snapshot_id": "aoTyAAAAAABarkzNSIyRkzKmJnMiOH5q",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 277970,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ambition",
         "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 269266,
       "name": "That Way (feat. Jeremih & Rick Ross)",
       "url": "https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
-      },
-      "artists": [
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 277970,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
-        }
-      ],
-      "duration_ms": 230527,
-      "name": "Sue Me (feat. Kelly Price)",
-      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Tengo Todo Menos A Ti",
         "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
       },
@@ -923,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
         }
       ],
-      "duration_ms": 158933,
-      "name": "Shotgun (feat. Wale)",
-      "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
+      "duration_ms": 230527,
+      "name": "Sue Me (feat. Kelly Price)",
+      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
     },
     {
       "added_at": null,
@@ -967,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Shotgun (feat. Wale)",
+      "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 201000,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drew Barrymore (feat. Wale)",
+        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 216246,
+      "name": "Drew Barrymore (feat. Wale)",
+      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
     },
     {
       "added_at": null,
@@ -1019,26 +1039,6 @@
       "duration_ms": 249271,
       "name": "The Girls on Drugs",
       "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drew Barrymore (feat. Wale)",
-        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 216246,
-      "name": "Drew Barrymore (feat. Wale)",
-      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
     },
     {
       "added_at": null,

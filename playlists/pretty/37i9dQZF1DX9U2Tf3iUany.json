@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 60123,
+  "num_followers": 60135,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANv6E0Obi1KRG5Oq1EJStYibDOX+",
+  "snapshot_id": "AAAAAJH+Yp1tTLyy98tNGHXQk7enrOGB",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 241800,
       "name": "Purple Reign",
       "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "La Vie en rose",
-      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Hunger For More",
         "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 278533,
       "name": "Karma",
       "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "La Vie en rose",
+      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V"
     },
     {
       "added_at": "2022-10-01 16:00:00",

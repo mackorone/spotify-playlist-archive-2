@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,468 likes - 52 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,475 likes - 52 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 | 51 | [「怪物」原作「自分の胸に自分の耳を押し当てて」板垣巴留](https://open.spotify.com/track/405SMhw5iHVNLeiYdX2uJQ) | [小林親弘](https://open.spotify.com/artist/3MxQSv3Aor49FCaki1Vfql) | [YOASOBI THE BOOK 2 SPOTIFY EDITION](https://open.spotify.com/album/0V8jsT3W9BHVUiq4rJAY2H) | 8:34 |
 | 52 | [「優しい彗星」原作「獅子座流星群のままに」板垣巴留](https://open.spotify.com/track/6IZCwR01FZDfN5lr2gGHl0) | [小野友樹](https://open.spotify.com/artist/7tCijmBsVuU68ChD05AXEk) | [YOASOBI THE BOOK 2 SPOTIFY EDITION](https://open.spotify.com/album/0V8jsT3W9BHVUiq4rJAY2H) | 9:20 |
 
-Snapshot ID: `AAAAAA6R5j9XxWaFe+LhJwFchx8UzT9+`
+Snapshot ID: `AAAAAHaZ3+H/ayk8BanGXwowGSmKE2bp`

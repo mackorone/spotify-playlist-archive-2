@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 92457,
+  "num_followers": 92462,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABuiD+adO1CXbD+gaU0MAdS",
+  "snapshot_id": "aoTyAAAAAABRMubgwksbPqatfSdzYquF",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 226416,
-      "name": "Con el diablo al lado",
-      "url": "https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3"
+      "duration_ms": 184132,
+      "name": "Es ignorancia",
+      "url": "https://open.spotify.com/track/46Q8tX9yStG64mwCDNW9MF"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 184132,
-      "name": "Es ignorancia",
-      "url": "https://open.spotify.com/track/46Q8tX9yStG64mwCDNW9MF"
+      "duration_ms": 226416,
+      "name": "Con el diablo al lado",
+      "url": "https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 266006,
-      "name": "Indescriptible sensaci\u00f3n",
-      "url": "https://open.spotify.com/track/5xy52OLb6E4La3aVrtfItN"
+      "duration_ms": 162857,
+      "name": "MUSICA CONSCIENTE - En Vivo",
+      "url": "https://open.spotify.com/track/359xvA1jrNIhi5wcZz4KE2"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ"
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 162857,
-      "name": "MUSICA CONSCIENTE - En Vivo",
-      "url": "https://open.spotify.com/track/359xvA1jrNIhi5wcZz4KE2"
+      "duration_ms": 266006,
+      "name": "Indescriptible sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/5xy52OLb6E4La3aVrtfItN"
     },
     {
       "added_at": null,

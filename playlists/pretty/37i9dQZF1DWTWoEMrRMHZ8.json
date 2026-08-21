@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABCvJK2RW5KA9nP3FeoEmrzOI5rQ",
+  "snapshot_id": "AAAAAMu1eQvgNsJr/WjbJFSS2cZLzL6I",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:54",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Cors\u00e1rio",
-        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 256048,
-      "name": "Cors\u00e1rio",
-      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Sua Onda",
         "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 216410,
       "name": "Sua Onda",
       "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Cors\u00e1rio",
+        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 256048,
+      "name": "Cors\u00e1rio",
+      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "Todo Sempre",
+        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Todo Sempre",
+      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Estrela Do Meu Show",
         "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
       },
@@ -335,26 +351,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "1\u00b0 Ato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Orquestra Sesiminas",
-          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
-        }
-      ],
-      "duration_ms": 228314,
-      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Mano",
         "url": "https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7"
       },
@@ -379,6 +375,26 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "1\u00b0 Ato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Orquestra Sesiminas",
+          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
+        }
+      ],
+      "duration_ms": 228314,
+      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 297233,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "Todo Sempre",
-        "url": "https://open.spotify.com/album/2zXgUnG7LQUPuztDPRl8FX"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Todo Sempre",
-      "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 276459,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Punto Muerto",
         "url": "https://open.spotify.com/album/2LbMl8yquJnbhqF18eSoo3"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 120091,
       "name": "Punto Muerto",
       "url": "https://open.spotify.com/track/2GBA7z3iXINkXreGRD8Cct"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 276459,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "LA MIA STORIA TRA LE DITA / All Versions",
-        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "QUEM DE N\u00d3S DOIS (solo version)",
-      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Relevuras",
         "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 217666,
       "name": "Relevuras",
       "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "QUEM DE N\u00d3S DOIS (solo version)",
+      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -835,42 +835,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Eu Venho de Longe",
-        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 223009,
-      "name": "Eu Venho de Longe",
-      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "romance",
-        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
-      },
-      "artists": [
-        {
-          "name": "renanrenan",
-          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
-        },
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "romance",
-      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "S\u00f3 Quero Te Amar",
         "url": "https://open.spotify.com/album/5Nxy7aGj0SayXmRNlEJGGf"
       },
@@ -903,6 +867,42 @@
       "duration_ms": 237580,
       "name": "eu mandei meu amor pro espa\u00e7o",
       "url": "https://open.spotify.com/track/3Yaaohz7X5t5kMG9rhCzvg"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Eu Venho de Longe",
+        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "Eu Venho de Longe",
+      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "romance",
+        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
+      },
+      "artists": [
+        {
+          "name": "renanrenan",
+          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "romance",
+      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
         "name": "Depois do Breu",
         "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 133566,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "Minhas L\u00e1grimas",
         "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 231201,
       "name": "\u00cata N\u00f3is",
       "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+        "name": "A paz que desejamos",
+        "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
       "artists": [
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Renato Motha",
+          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
+        },
+        {
+          "name": "Patricia Lobato",
+          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
         }
       ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
+      "duration_ms": 191232,
+      "name": "A paz que desejamos",
+      "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "A paz que desejamos",
-        "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
       "artists": [
         {
-          "name": "Renato Motha",
-          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
-        },
-        {
-          "name": "Patricia Lobato",
-          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
         }
       ],
-      "duration_ms": 191232,
-      "name": "A paz que desejamos",
-      "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-08-14 03:00:54",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-14 03:00:54",
       "album": {
-        "name": "Tum Tum Tum",
-        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
-      },
-      "artists": [
-        {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
-        }
-      ],
-      "duration_ms": 250156,
-      "name": "Tudo Que Se Tem",
-      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
-    },
-    {
-      "added_at": "2026-08-14 03:00:54",
-      "album": {
         "name": "\u00c1frica Em Mim",
         "url": "https://open.spotify.com/album/6qUWp2kF7yyNpEUkI7yLW0"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 202555,
       "name": "\u00c1frica Em Mim",
       "url": "https://open.spotify.com/track/7qkHJZGB3s2jAXgTBAmbiQ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:54",
+      "album": {
+        "name": "Tum Tum Tum",
+        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
+      },
+      "artists": [
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "duration_ms": 250156,
+      "name": "Tudo Que Se Tem",
+      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
     },
     {
       "added_at": "2026-08-14 03:00:54",

@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 | 97 | [Solo](https://open.spotify.com/track/5RImZc9H7YL09uYtGJOyQ2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Solo](https://open.spotify.com/album/7gH5CBKgAqawLXRmbTFxnp) | 1:45 |
 | 98 | [Coffee Visit](https://open.spotify.com/track/27ms1wvWsuFCwUUEPtmmna) | [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Coffee Visit](https://open.spotify.com/album/5scRAyP8mVQVsWhoH0u4MZ) | 1:51 |
 
-Snapshot ID: `AAAAAIlnDsTWOlwl5skDNH7FN9UI9LdG`
+Snapshot ID: `AAAAAE3ZhMkS9a0O3ai0fOcV6A6wSTry`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Wamen x K\u00fffy",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Jah\u00efem Solo",
   "name": "le miel",
   "tracks": [
     {
@@ -464,6 +464,28 @@
       "duration_ms": 214311,
       "name": "Anomalie",
       "url": "https://open.spotify.com/track/0S6FEI3T21lJ49ivaBajmQ"
+    },
+    {
+      "album": {
+        "name": "Map Of Her Shadow",
+        "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        },
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/6PDC2aRCsLxpbz2HSM6MoX"
     },
     {
       "album": {
@@ -3750,7 +3772,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 181593,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
@@ -6890,7 +6912,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 131333,
       "name": "Mes pens\u00e9es.",
       "url": "https://open.spotify.com/track/3NTNHeoCMpQl69O4HkPnHT"
@@ -11540,6 +11562,24 @@
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
+    },
+    {
+      "album": {
+        "name": "Viseur",
+        "url": "https://open.spotify.com/album/4HGn7dfECuJjFxQXqcbq7w"
+      },
+      "artists": [
+        {
+          "name": "N\u00ebo",
+          "url": "https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Viseur",
+      "url": "https://open.spotify.com/track/6FfSxK3cAq25DsEL1IHEtL"
     },
     {
       "album": {

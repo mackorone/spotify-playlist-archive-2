@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4827,
+  "num_followers": 4829,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAApRjzpFFzCBFvo1Fjolx9J",
+  "snapshot_id": "aoTyAAAAAACTGH/RyIrFlbh91A1dAjAz",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 176242,
-      "name": "Savoring",
-      "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
+      "duration_ms": 175934,
+      "name": "Force of Habit",
+      "url": "https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral In A Straight Line",
-        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 175934,
-      "name": "Force of Habit",
-      "url": "https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6"
+      "duration_ms": 176242,
+      "name": "Savoring",
+      "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
     },
     {
       "added_at": null,

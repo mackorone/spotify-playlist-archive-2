@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Honey Bxby and JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,021 likes - 198 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,024 likes - 198 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 197 | [Come Home](https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Come Home](https://open.spotify.com/album/3coobmbIsiyA7O8K3PIEYQ) | 3:12 |
 | 198 | [to see thru closed eyes](https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:15 |
 
-Snapshot ID: `AAAAAOwdmuPtFaqTKhoS7cseSa400dE2`
+Snapshot ID: `AAAAALrMM9r+RHkC3kNSPGqrYZWz+1JG`

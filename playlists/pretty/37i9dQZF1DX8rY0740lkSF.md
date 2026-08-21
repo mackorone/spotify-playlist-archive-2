@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,546 likes - 94 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,552 likes - 94 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 93 | [THE SECOND ACT \- X ver.](https://open.spotify.com/track/39pHrTjDWuDvbuLY6i2qnT) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ファンタジア なりきりダンジョンX オリジナルサウンドトラック](https://open.spotify.com/album/71bEOsE8FKdYOyFTvAeMlA) | 2:11 |
 | 94 | [TAKE UP THE CROSS \- X ver.](https://open.spotify.com/track/3VbCwh5njuLRxHdXTzFYnc) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ファンタジア なりきりダンジョンX オリジナルサウンドトラック](https://open.spotify.com/album/71bEOsE8FKdYOyFTvAeMlA) | 2:39 |
 
-Snapshot ID: `AAAAAA55SRm/MPGyF1dMCznFIrfFBQHW`
+Snapshot ID: `AAAAAJLLfMmvwrL/Shjl82dTbWuFhrnC`

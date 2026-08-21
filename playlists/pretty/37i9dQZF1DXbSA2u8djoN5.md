@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cabron
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,507 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,509 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 14 | [Semn de la univers](https://open.spotify.com/track/5mqo31hExeEv6ua5u5Mt3y) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Naomi Prie](https://open.spotify.com/artist/6zNRGomsiFmhEa19WlgAto) | [Semn de la univers](https://open.spotify.com/album/1fzCv3Nb36uXHJLC7yHKTp) | 3:15 |
 | 15 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
 | 16 | [BACCARAT](https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [BACCARAT](https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2) | 2:41 |
-| 17 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
+| 17 | [Tot Ce E Frumos](https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Tot Ce E Frumos](https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE) | 3:41 |
 | 18 | [HOT GIRL SUMMER](https://open.spotify.com/track/0AKBfcYdzMMFx77ou9OSnQ) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [HOT GIRL SUMMER](https://open.spotify.com/album/1cOmvFMN1vbjgpJoGVZd6S) | 2:41 |
 | 19 | [Interes](https://open.spotify.com/track/3KZoTu5JGe5QtK97DrBLAi) | [GYXBaby](https://open.spotify.com/artist/1XWVFUESxCqRo0TkyIamEv), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Interes](https://open.spotify.com/album/6k8yGq5Ra4fyhQ4egdooMO) | 2:31 |
 | 20 | [FATA REA](https://open.spotify.com/track/1KWCfZB9OrFpmYXUjsgDTW) | [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR) | [BRILIANTU'](https://open.spotify.com/album/43SLx62IuvqO2AO0S4RZZx) | 2:22 |
 | 21 | [Natural](https://open.spotify.com/track/4aK1zeqgOwUel3T5xpVhyQ) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Rusu](https://open.spotify.com/artist/1Sv7lDvguOrZI37FulYZ9Q), [ARG](https://open.spotify.com/artist/3xKYlqzRMv6TKZvhHOzw9O) | [Natural](https://open.spotify.com/album/23x3PN8zT0WXc7e8hqumN7) | 3:42 |
-| 22 | [Tot Ce E Frumos](https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Tot Ce E Frumos](https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE) | 3:41 |
+| 22 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
 | 23 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 24 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 |
 | 25 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 |
 | 50 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 
-Snapshot ID: `AAAAAGpU7JVy2uDkAR9tLEzIRsqvP5e1`
+Snapshot ID: `AAAAAN3BvXe8Su1lpjQeQgwqAQzJ5UUp`

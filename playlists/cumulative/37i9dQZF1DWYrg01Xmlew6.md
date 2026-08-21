@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Frezza in cover.
 
-642 songs - 1 day 4 hr 54 min
+643 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Love Song](https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W) | 3:24 | 2022-06-09 | 2024-04-26 |
 | [Love Song](https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz) | 3:24 | 2022-07-28 | 2024-04-19 |
 | [LUCE](https://open.spotify.com/track/5XrYC2Z3xsIgx5jvBBuyWH) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [LUCE](https://open.spotify.com/album/0VdHdzakwR6BsQ1V6KY4mC) | 2:30 | 2023-03-23 | 2023-04-14 |
+| [LUFTHANSA](https://open.spotify.com/track/5slNUA5XM0c3yugE3Hj1xW) | [MOWGLI](https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa), [musa](https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno), [Chancho](https://open.spotify.com/artist/3G155o8uoot6ywzOpdwv8f) | [LUFTHANSA](https://open.spotify.com/album/3CP4upldnNTGipKi260UqT) | 2:18 | 2026-08-20 |  |
 | [LUMINOR](https://open.spotify.com/track/4L54Nd3uiIFYMNzBL3j8CT) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD) | [LUMINOR](https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1) | 2:20 | 2025-11-20 |  |
 | [Lupare \(feat\. IvanBi\)](https://open.spotify.com/track/2sLyF6Upnl1DR8mNBRk0yK) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PNTWINS](https://open.spotify.com/album/43jNfQrxWhj6m0Yms8PJDn) | 3:14 | 2025-07-24 | 2025-09-05 |
 | [M Serv Na 9 \(feat\. Dipinto\)](https://open.spotify.com/track/2mHWTJ9MRggZObUWsis90w) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [M Serv Na 9 \(feat\. Dipinto\)](https://open.spotify.com/album/0J5VZrPpgLGawsjP7Yev9K) | 2:10 | 2025-11-13 | 2026-02-20 |
@@ -467,7 +468,7 @@
 | [Porta Una Rosa \(Red Bull 64 Bars\)](https://open.spotify.com/track/0DEonV559DYbtSPEvw7VtD) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Porta Una Rosa \(Red Bull 64 Bars\)](https://open.spotify.com/album/4ZQN1l3WwrgReFmVXpeNrl) | 2:38 | 2023-12-14 | 2024-01-26 |
 | [PRASSI \(FREESTYLE\)](https://open.spotify.com/track/14LUkVHB5XXy1qaT2zSPkG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [esse](https://open.spotify.com/artist/2NpT5FefBTdvfkg8U1FMgL) | [NICOLA SICILIANO](https://open.spotify.com/album/48aU4rA5RshBYnfytGovks) | 1:56 | 2025-12-18 | 2026-01-16 |
 | [Preghiera](https://open.spotify.com/track/1sA6XW1Ijn9GWOvGkmpwqt) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [Preghiera](https://open.spotify.com/album/6uGSUalrJ1dmERfJtU2jJy) | 2:52 | 2023-12-07 | 2024-01-09 |
-| [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/track/5hMNzRMmktrzIeoFoykfo3) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/album/1T9FkoJv3d75YhqxWHVvdx) | 2:17 | 2025-03-13 |  |
+| [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/track/5hMNzRMmktrzIeoFoykfo3) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/album/1T9FkoJv3d75YhqxWHVvdx) | 2:17 | 2025-03-13 | 2026-08-21 |
 | [PRESIDENTE](https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:14 | 2024-06-06 | 2024-11-22 |
 | [Primma](https://open.spotify.com/track/7GY5uK8LtZGIA4IiGg5Li2) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Primma](https://open.spotify.com/album/12uUkIYJag0ui0vWd48zdw) | 3:24 | 2023-12-07 | 2024-04-05 |
 | [PRIMMA VOT'](https://open.spotify.com/track/0JSuco2bCNbbsRUunG60md) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [PRIMMA VOT'](https://open.spotify.com/album/2cxk31UrFnrGtRR3RgBaP1) | 2:21 | 2023-09-21 | 2023-11-10 |

@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "BiiiG",
+        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164208,
+      "name": "BiiiG",
+      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
+    },
+    {
+      "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
       },
@@ -2920,6 +2938,24 @@
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
+    },
+    {
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166149,
+      "name": "Candy Pink Magic Hole Flip Phone",
+      "url": "https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq"
     },
     {
       "album": {
@@ -7540,7 +7576,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 148000,
       "name": "Hertz",
       "url": "https://open.spotify.com/track/5p0aJa6Kr7l23VTbA9egQt"
@@ -10330,7 +10366,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S"
@@ -12288,6 +12324,24 @@
       "duration_ms": 221040,
       "name": "One (Monster & Infinity)",
       "url": "https://open.spotify.com/track/5b841RC6QkaHVh4tS3lQ3n"
+    },
+    {
+      "album": {
+        "name": "One - Spotify Singles",
+        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "One - Spotify Singles",
+      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
     },
     {
       "album": {
@@ -18838,7 +18892,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 162000,
       "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
       "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"

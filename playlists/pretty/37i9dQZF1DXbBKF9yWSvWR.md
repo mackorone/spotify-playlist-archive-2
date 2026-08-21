@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,769 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,766 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 98 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 99 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 |
 
-Snapshot ID: `AAAAAIMuuHLr6Mr6ZlATeh91v8E4m92M`
+Snapshot ID: `AAAAAOjWtJvKgyWmpLHJ89NS+0a+JfJb`

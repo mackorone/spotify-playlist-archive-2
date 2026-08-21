@@ -1,13 +1,29 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 47261,
+  "num_followers": 47272,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbHeCX590wX/I9Gg/MXPj+zugDs",
+  "snapshot_id": "AAAAANL5pmnlXAsN8U5WE/yrxosKRCcU",
   "tracks": [
+    {
+      "added_at": "2026-08-20 11:25:27",
+      "album": {
+        "name": "Wahashteny",
+        "url": "https://open.spotify.com/album/6n18pz47yCIKayhgX1zgsO"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Elmuanna",
+          "url": "https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Wahashteny",
+      "url": "https://open.spotify.com/track/1ziuZS8AVYREsNsFTCShse"
+    },
     {
       "added_at": "2026-08-13 10:38:39",
       "album": {

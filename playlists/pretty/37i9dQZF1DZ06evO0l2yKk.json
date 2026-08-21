@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206805,
+  "num_followers": 206841,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACvgompXMvVGR1QEC+v+Lxf",
+  "snapshot_id": "aoTyAAAAAADwwYvI5Cw5YuwCAk8b3pRK",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Norte A Sur",
-        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Y Que Ganaste",
-      "url": "https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuego Contra Fuego",
         "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Canciones Y Tequila",
-        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
+        "name": "De Norte A Sur",
+        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
       "artists": [
         {
@@ -596,9 +580,25 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 179786,
-      "name": "No Te Imaginas",
-      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
+      "duration_ms": 198533,
+      "name": "Y Que Ganaste",
+      "url": "https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "D\u00edmelo Cantando",
+      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+        "name": "Con Canciones Y Tequila",
+        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 149186,
-      "name": "D\u00edmelo Cantando",
-      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
+      "duration_ms": 179786,
+      "name": "No Te Imaginas",
+      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,

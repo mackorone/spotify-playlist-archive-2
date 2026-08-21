@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7652,
+  "num_followers": 7658,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADv61j8UBfGsT+cEYrRSSF8",
+  "snapshot_id": "aoTyAAAAAABPtcto65k53ZPQXFUjGLkp",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 217662,
+      "name": "AM I OKAY?!",
+      "url": "https://open.spotify.com/track/6QLRg3NlTVItMsH3WBLn6q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EP 8",
         "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 184295,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BERNARR.",
-        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 217662,
-      "name": "AM I OKAY?!",
-      "url": "https://open.spotify.com/track/6QLRg3NlTVItMsH3WBLn6q"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unblocked",
+        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 315072,
+      "name": "Sam\u2019s Vibe",
+      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Isle Of Queens Deluxe",
         "url": "https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 231133,
       "name": "New Phone, Who Dis? (Remix) [feat. Durand Bernarr]",
       "url": "https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unblocked",
-        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 315072,
-      "name": "Sam\u2019s Vibe",
-      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 230517,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus Glow (Deluxe)",
         "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 189813,
       "name": "Le D\u00e9part - Feat. Durand Bernarr",
       "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 230517,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
-      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "baby, can we?",
         "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 246422,
       "name": "baby, can we?",
       "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
+      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
       "added_at": null,
@@ -687,30 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Fail Are We Still Cool?",
-        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
       "artists": [
         {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        },
-        {
-          "name": "Allen Love",
-          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
-        },
-        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 229558,
-      "name": "Whisper (Want My Luv)",
-      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -751,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raw In Amsterdam (Live)",
         "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
       },
@@ -783,6 +755,34 @@
       "duration_ms": 291053,
       "name": "Bump The Man - Live",
       "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Fail Are We Still Cool?",
+        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Paige II",
+          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
+        },
+        {
+          "name": "Allen Love",
+          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 229558,
+      "name": "Whisper (Want My Luv)",
+      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
     },
     {
       "added_at": null,

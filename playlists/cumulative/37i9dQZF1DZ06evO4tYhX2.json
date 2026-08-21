@@ -571,6 +571,28 @@
     },
     {
       "album": {
+        "name": "Dios De Milagros (En Vivo Desde M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6Mags1nOOjDgrLzhba75MM"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366554,
+      "name": "Dios De Milagros - En Vivo Desde M\u00e9xico",
+      "url": "https://open.spotify.com/track/1v2lsV9SYQc0KbRkOLEJzk"
+    },
+    {
+      "album": {
         "name": "Dios En Casa",
         "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
       },
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 370279,
       "name": "Resucit\u00f3",
       "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"

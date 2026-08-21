@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,159 likes - 62 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,166 likes - 62 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 61 | [The Unforgiven](https://open.spotify.com/track/5qzzFRYW7fbG7UMVK79GkN) | [Fatin Majidi](https://open.spotify.com/artist/0ddd7w9reaR40shckQqUep) | [The Unforgiven](https://open.spotify.com/album/1uS73kkNltHKdmBzk8yjsS) | 6:35 |
 | 62 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 
-Snapshot ID: `AAAAAHdhMKl1ZU89HOmx7IJ7eBKJWe7C`
+Snapshot ID: `AAAAAFaxoktNUQZtmdnU2jUOR3dAiQk0`

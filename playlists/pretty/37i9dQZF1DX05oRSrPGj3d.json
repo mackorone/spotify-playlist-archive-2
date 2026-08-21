@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 290942,
+  "num_followers": 290955,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADA0TsNkOjuIid/wDo0Blf+By/iM",
+  "snapshot_id": "AAAAADxfXw7CcZav5MQ8FUj7vnhK/i+m",
   "tracks": [
     {
       "added_at": "2026-02-11 22:47:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "You In A Honky Tonk",
-        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183570,
-      "name": "You In A Honky Tonk",
-      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Cold Hard Truth",
         "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 206213,
       "name": "Choices",
       "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "You In A Honky Tonk",
+        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183570,
+      "name": "You In A Honky Tonk",
+      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "West Textures",
-        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Resurrection EP",
         "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 211973,
       "name": "Texas Rain",
       "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Walking Distance",
+        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Walking Distance",
-        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+        "name": "West Textures",
+        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
         }
       ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+      "duration_ms": 303000,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Tails I Lose",
-        "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
+        "name": "The Waiting",
+        "url": "https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 225801,
-      "name": "Tails I Lose",
-      "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
+      "duration_ms": 275523,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "The Waiting",
-        "url": "https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG"
+        "name": "Tails I Lose",
+        "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 275523,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw"
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+      "duration_ms": 157773,
+      "name": "There Goes My Heart Again",
+      "url": "https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
       "artists": [
         {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 157773,
-      "name": "There Goes My Heart Again",
-      "url": "https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH"
+      "duration_ms": 174453,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Willis Alan Ramsey",
-        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
-      },
-      "artists": [
-        {
-          "name": "Willis Alan Ramsey",
-          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Ballad Of Spider John",
-      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "With You Gone",
         "url": "https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 246222,
       "name": "With You Gone",
       "url": "https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Willis Alan Ramsey",
+        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
+      },
+      "artists": [
+        {
+          "name": "Willis Alan Ramsey",
+          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Ballad Of Spider John",
+      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
     },
     {
       "added_at": "2026-02-11 22:47:27",

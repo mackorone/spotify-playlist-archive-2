@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 36232,
+  "num_followers": 36241,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABi7mGURSoNXUj1GXhHh2nH",
+  "snapshot_id": "aoTyAAAAAACKUtNMoyeVm5arcbpz9QRq",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pass the Salt (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+        "name": "THE NEW WORLD",
+        "url": "https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1"
       },
       "artists": [
+        {
+          "name": "Swindle",
+          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
+        },
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         },
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "JNR WILLIAMS",
+          "url": "https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
-      "duration_ms": 167010,
-      "name": "Pass the Salt (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
+      "duration_ms": 309093,
+      "name": "HOW I'VE BEEN (feat. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical)",
+      "url": "https://open.spotify.com/track/0WfENrbos3cdD4TZaT4tEk"
     },
     {
       "added_at": null,
@@ -527,34 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE NEW WORLD",
-        "url": "https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1"
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
       },
       "artists": [
-        {
-          "name": "Swindle",
-          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
-        },
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         },
         {
-          "name": "JNR WILLIAMS",
-          "url": "https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 309093,
-      "name": "HOW I'VE BEEN (feat. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical)",
-      "url": "https://open.spotify.com/track/0WfENrbos3cdD4TZaT4tEk"
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
     },
     {
       "added_at": null,
@@ -639,6 +639,26 @@
       "duration_ms": 147506,
       "name": "Mahi Sona (AKA The Wedding Song) - Joy Crookes Version",
       "url": "https://open.spotify.com/track/4oDFdxr8iodW5JubvDmjMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/1vdboilGvupoL2cHxQAHUp"
+      },
+      "artists": [
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Feet Don't Fail Me Now (Joy Crookes) - slowed down",
+      "url": "https://open.spotify.com/track/1U8rk8ToClBxfEpplurUf0"
     }
   ],
   "unique_name": "This Is Joy Crookes",

@@ -1,12 +1,12 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696604,
+  "num_followers": 696590,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRl9vVmKYNtZXPMIZ02gn3UZjth",
+  "snapshot_id": "AAAAABGVDza1m8YWzpxJczgTIw1Y8OpH",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "LUCK RA | DJ TAO Turreo Sessions #19",
-        "url": "https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j"
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
       "artists": [
         {
@@ -1020,13 +1020,13 @@
           "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
         }
       ],
-      "duration_ms": 130613,
-      "name": "LUCK RA | DJ TAO Turreo Sessions #19",
-      "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+        "name": "LUCK RA | DJ TAO Turreo Sessions #19",
+        "url": "https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j"
       },
       "artists": [
         {
@@ -1108,13 +1108,13 @@
           "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+      "duration_ms": 130613,
+      "name": "LUCK RA | DJ TAO Turreo Sessions #19",
+      "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1731,34 +1731,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Pistola Remix",
-        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "El Mas Ladron",
-          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
-        },
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Pistola Remix",
-      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto (Session #9)",
         "url": "https://open.spotify.com/album/0ngWXQa5OZeQmUvkNPsLek"
       },
@@ -1795,6 +1767,34 @@
       "duration_ms": 197642,
       "name": "Ya No Se Enamora",
       "url": "https://open.spotify.com/track/1gzKgjSbfgQIcpbdV6UaCK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Pistola Remix",
+        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "El Mas Ladron",
+          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
+        },
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Pistola Remix",
+      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Retumbando la Bocina #2 (Set Remix)",
+        "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
+      },
+      "artists": [
+        {
+          "name": "Lea in the Mix",
+          "url": "https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP"
+        }
+      ],
+      "duration_ms": 1079142,
+      "name": "Retumbando la Bocina #2 - Set Remix",
+      "url": "https://open.spotify.com/track/2EI9zwvbsXb2hDXUxnnjsl"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "El Dia de Mi Suerte (Guaracha)",
         "url": "https://open.spotify.com/album/619f11g93vnIAbxjiNh1qa"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 145511,
       "name": "El Dia de Mi Suerte - Guaracha",
       "url": "https://open.spotify.com/track/6jkSYIxKp9dq5cUV3AVxHe"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Retumbando la Bocina #2 (Set Remix)",
-        "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
-      },
-      "artists": [
-        {
-          "name": "Lea in the Mix",
-          "url": "https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP"
-        }
-      ],
-      "duration_ms": 1079142,
-      "name": "Retumbando la Bocina #2 - Set Remix",
-      "url": "https://open.spotify.com/track/2EI9zwvbsXb2hDXUxnnjsl"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Este o Este (Guaracha)",
-        "url": "https://open.spotify.com/album/09zAdSWAEqa8NoyQmO6xMa"
-      },
-      "artists": [
-        {
-          "name": "Chichee",
-          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
-        },
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "Este o Este - Guaracha",
-      "url": "https://open.spotify.com/track/2uSeA4d12mQpsFxMHbnVxz"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "La Curiosidad",
         "url": "https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 165340,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Este o Este (Guaracha)",
+        "url": "https://open.spotify.com/album/09zAdSWAEqa8NoyQmO6xMa"
+      },
+      "artists": [
+        {
+          "name": "Chichee",
+          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
+        },
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "Este o Este - Guaracha",
+      "url": "https://open.spotify.com/track/2uSeA4d12mQpsFxMHbnVxz"
     }
   ],
   "unique_name": "Joda",

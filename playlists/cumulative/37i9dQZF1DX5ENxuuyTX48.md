@@ -4,7 +4,7 @@
 
 > After all, we are all siblings\. Cover: For Revenge
 
-2,446 songs - 6 day 2 hr 33 min
+2,447 songs - 6 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [DIAM!](https://open.spotify.com/track/12Up29VqU3Eym1pDUGPu1l) | [K1O](https://open.spotify.com/artist/5222gtAqkQGUSpSJOrSlPs) | [DIAM!](https://open.spotify.com/album/4iX1bwDuop8lUX91J1T7fA) | 3:04 | 2026-03-26 | 2026-04-04 |
 | [Diam, Kamu Berisik!](https://open.spotify.com/track/2OCgdKh0K1rFW1Gi8Y7rOt) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [KENALI, PAHAMI, EMPATI](https://open.spotify.com/album/0eh9Z9qkqWNkorijht9BiA) | 4:32 | 2025-08-01 | 2025-08-08 |
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-21 | 2024-06-28 |
+| [DIFFERENT](https://open.spotify.com/track/4Cy4n8Tskg9Hn8L90mW4VL) | [Syasya Rizal](https://open.spotify.com/artist/5v6OyN4JnkVwba9Rd83ozu) | [DIFFERENT](https://open.spotify.com/album/0xC5bXCoXOiZjWcT1wK10z) | 3:02 | 2026-08-13 |  |
 | [Dilamun](https://open.spotify.com/track/7AB7DpmOpwIWaLAxCMxmY1) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Persona](https://open.spotify.com/album/3eUsPahj6UMdIBreWMxUMO) | 3:29 | 2023-09-22 | 2023-09-29 |
 | [Dilematika](https://open.spotify.com/track/5fRyXs8qRcD2bPFaOUv1Nh) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [SATU 7AN](https://open.spotify.com/album/2pn9DNWXKIlQsWwwySEt26) | 3:53 | 2025-05-02 | 2025-05-10 |
 | [Ding Geding](https://open.spotify.com/track/0SeZcSxcfuAdyMKiixA14J) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [Ding Geding](https://open.spotify.com/album/0iLwGEZeW1q8EEAcY0nHKi) | 2:41 | 2026-06-04 | 2026-06-13 |
@@ -1404,7 +1405,7 @@
 | [Menuju Bahagia](https://open.spotify.com/track/3NPzkjI48tzcEH1Vvq22PT) | [Fauzie Laily](https://open.spotify.com/artist/5JJigP0kXom0NYSXt23NsM) | [Menuju Bahagia](https://open.spotify.com/album/1r2m0OFBSldutEdc5dwwj4) | 3:18 | 2025-08-08 | 2025-08-17 |
 | [Menunggu Giliran](https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Sebelum Merayakan](https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si) | 3:38 | 2025-01-23 | 2025-01-31 |
 | [Menunggumu](https://open.spotify.com/track/100giIaiJwDtWegTWIwAM2) | [Taufiq Sondang](https://open.spotify.com/artist/2iREELD10kmXcocyOYzlDn), [Iqa Nizam](https://open.spotify.com/artist/5FWynBR4a7O3yjzQbRvYqZ) | [Taufiq Sondang & Iqa Nizam \- Menunggumu](https://open.spotify.com/album/1FsHPsi5q9EHcwK1sKY5iz) | 7:55 | 2023-05-25 | 2023-06-02 |
-| [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 | 2025-07-11 |  |
+| [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 | 2025-07-11 | 2026-08-21 |
 | [Menutup Hati](https://open.spotify.com/track/5lenPf4eUfVeQpCzZSRwVX) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Menutup Hati](https://open.spotify.com/album/7grxHWTcFfWfoyMiyC56PY) | 3:22 | 2025-07-18 | 2025-07-26 |
 | [Menyala](https://open.spotify.com/track/521ou1Glbfl0JXgWhWWlBd) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Menyala](https://open.spotify.com/album/19K8Pgig7u6Rjg4GrcI2Ss) | 3:18 | 2026-05-15 | 2026-05-23 |
 | [menyesal](https://open.spotify.com/track/5GYmoRBgyubcAf7AzyjvrQ) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [menyesal](https://open.spotify.com/album/7g09lUwD82vX7IK3lIATai) | 4:30 | 2025-07-11 | 2025-07-19 |
@@ -2350,7 +2351,7 @@
 | [UNREQUITED](https://open.spotify.com/track/2fTu2cGWAlpNmGDir37308) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:55 | 2023-08-03 | 2023-08-11 |
 | [untitled freestyle](https://open.spotify.com/track/2gCE0vGQutTYjtP8RSX7eJ) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [untitled freestyle](https://open.spotify.com/album/0CgRM8fYzDD41CdXnRpHsU) | 1:57 | 2026-05-08 | 2026-05-16 |
 | [Untuk Kamu](https://open.spotify.com/track/1eyoRsVJWrAeqhmKMzI4bE) | [Afiq Adnan](https://open.spotify.com/artist/4N5d5HPKGz8hi3Tv9WdPJu) | [Untuk Kamu](https://open.spotify.com/album/77airu86CtsFbGmgtBz08g) | 3:01 | 2024-08-16 | 2024-08-24 |
-| [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 | 2026-07-31 | 2026-08-07 |
+| [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 | 2026-07-31 |  |
 | [Untuk Selalu Senang](https://open.spotify.com/track/7d5MSiGff1HYAvjVdQkhmh) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini & Sampai Kapanpun](https://open.spotify.com/album/0ikkz9CCu9uM54Mcguh1rA) | 4:11 | 2025-01-16 | 2025-01-24 |
 | [Untukmu](https://open.spotify.com/track/7pnKaWTph1SdQkKhbMfu2Q) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Untukmu](https://open.spotify.com/album/3p3vPnUwLRH9HStKeQAAvf) | 2:54 | 2025-08-29 | 2025-09-06 |
 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 | 2023-03-24 | 2025-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Daichi Yamamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,198 likes - 147 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,199 likes - 147 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 146 | [HOURS:AFTER](https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [HOURS:AFTER](https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI) | 3:50 |
 | 147 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 |
 
-Snapshot ID: `AAAAAPOBn6qj2oB2uC9Qw6jTN6suDHSm`
+Snapshot ID: `AAAAAK0vIw7Fa3RxszjT5vyMq6XlUbpm`

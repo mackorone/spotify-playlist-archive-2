@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,593 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,572 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 7 | [School](https://open.spotify.com/track/4rN5JelPY9qa05kvG6TTzQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 4:23 |
 | 8 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
 | 9 | [Crash Out](https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Crash Out](https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB) | 3:10 |
-| 10 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 11 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
+| 10 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
+| 11 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 12 | [Gimme Dat Ting \(with NO11\)](https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Gimme Dat Ting](https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc) | 4:03 |
 | 13 | [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 |
 | 14 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [KIMI](https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Piscine de billets avec débordement](https://open.spotify.com/track/6aWTFEVWMVPUccV0kqQqAX) | [Lexsaburo](https://open.spotify.com/artist/4gdGGF5b5CmhxYophp5yRz), [Oni Kira](https://open.spotify.com/artist/4whmrth50Dva4FQMy3qAv4) | [Tivoli](https://open.spotify.com/album/2a4RR5W80WHsCWK0jJhW78) | 2:22 |
 | 40 | [endless blooming](https://open.spotify.com/track/1rSMBhv5oAKhHxprdZf21G) | [Kaba](https://open.spotify.com/artist/18BCzFFTNty1NeevlaCjuN), [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA), [Goldie B](https://open.spotify.com/artist/0jFDyXLQ2Dx2TcjDOFZ0dv) | [endless blooming](https://open.spotify.com/album/7JrZPjTyVE4A0Vn9Qiq59E) | 3:49 |
 
-Snapshot ID: `AAAAAF4hloDTTVy03v8XNItOufbl7seD`
+Snapshot ID: `AAAAAPU30JfYdL6TFcy+nBiuvx1lz2lE`

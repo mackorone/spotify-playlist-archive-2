@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 993,
+  "num_followers": 994,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgcRECrikn8D2qdeudcz7Dwcmj9",
+  "snapshot_id": "AAAAAKhr5C2o7bXbR/sr0W6DtM2lsuSQ",
   "tracks": [
     {
       "added_at": "2025-11-10 09:53:18",
@@ -507,6 +507,30 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Rollin' (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -531,26 +555,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Rollin' (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -579,22 +595,6 @@
       "duration_ms": 250986,
       "name": "Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "MANTA BIPOLAR, Pt. 2",
+        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "GANGSHIN",
+      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1179,6 +1195,26 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
+        "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
+      "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1211,42 +1247,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
-        "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
-      "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "MANTA BIPOLAR, Pt. 2",
-        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        }
-      ],
-      "duration_ms": 120502,
-      "name": "GANGSHIN",
-      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Intro: Flight and a new beginning",
         "url": "https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy"
       },
@@ -1259,26 +1259,6 @@
       "duration_ms": 163773,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Millionaire Poetry",
-        "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1299,6 +1279,26 @@
       "duration_ms": 310535,
       "name": "Green Ideology",
       "url": "https://open.spotify.com/track/71ZB74M3yK0Pb0zsZH77Sr"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Millionaire Poetry",
+        "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "1LL Recognize 1LL - Bonus Track",
-      "url": "https://open.spotify.com/track/7vBMlFHfDoZqHCf7sWLWu5"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 177220,
       "name": "Ride it like",
       "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "1LL Recognize 1LL - Bonus Track",
+      "url": "https://open.spotify.com/track/7vBMlFHfDoZqHCf7sWLWu5"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Berry Loves My Mood",
-        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        }
-      ],
-      "duration_ms": 162113,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 194252,
       "name": "GNGB",
       "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Berry Loves My Mood",
+        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 162113,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1655,6 +1655,26 @@
       "duration_ms": 167571,
       "name": "Retirement (feat. The Quiett)",
       "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+        }
+      ],
+      "duration_ms": 250195,
+      "name": "Story On Sale (Feat. DAMYE)",
+      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1687,26 +1707,6 @@
       "duration_ms": 263505,
       "name": "1llusion Remix - Bonus Track",
       "url": "https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "GAROSAWK",
-        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
-      },
-      "artists": [
-        {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
-        },
-        {
-          "name": "DAMYE",
-          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
-        }
-      ],
-      "duration_ms": 250195,
-      "name": "Story On Sale (Feat. DAMYE)",
-      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Superbee's Maserati",
         "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 230408,
       "name": "Superbee's Maserati",
       "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 199755,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        }
-      ],
-      "duration_ms": 148983,
-      "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-      "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "duration_ms": 148983,
+      "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+      "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
     },
     {
       "added_at": "2025-11-10 09:53:18",

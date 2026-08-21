@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,129 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,183 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [JJC](https://open.spotify.com/track/0NBEhowJUHYLWhe1BNGLDa) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [JJC](https://open.spotify.com/album/65Xb0BUvLHFqXhF3Ev0slx) | 3:42 |
 | 60 | [CHASE](https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [CHASE](https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0) | 2:19 |
 
-Snapshot ID: `AAAAAA7PVA7+wWCrVN2Jfma75/sRe4YS`
+Snapshot ID: `AAAAAEQohRgZTBn6fa1sc/+8mzPTCSk4`

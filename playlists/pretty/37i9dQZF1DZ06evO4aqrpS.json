@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 66873,
+  "num_followers": 66904,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAAuUvdEyBwtlv1BD9E6Y5Wy",
+  "snapshot_id": "aoTyAAAAAACp2RMAn6eT9f4ggwF1pYJn",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libro Abierto",
-        "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "D\u00edas Que No Lloro",
-      "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 370946,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1WcVu6GCEcThyJBBZovFNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Libro Abierto",
+        "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "D\u00edas Que No Lloro",
+      "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,407 songs - 3 day 9 hr 51 min
+1,408 songs - 3 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1060,6 +1060,7 @@
 | [Sing That Note](https://open.spotify.com/track/6agxfeIlKwBzmOTkqO3j2c) | [Justyn Cairo](https://open.spotify.com/artist/6Ej4tehqEWvLRd23RkS9a6) | [Heart of Gold](https://open.spotify.com/album/2ETuq1DDCZryjQQFNJxPLz) | 2:56 | 2026-05-08 | 2026-06-05 |
 | [Sister Jump!](https://open.spotify.com/track/7LohvYSmaSusHptw1k5zjX) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Sister Jump!](https://open.spotify.com/album/0INugDX8i5DKES8W55FIEh) | 5:43 | 2023-04-27 | 2025-11-29 |
 | [Situazione complicata](https://open.spotify.com/track/08UX2BEhPxVX2TFBl1igwE) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Situazione complicata](https://open.spotify.com/album/6yKjEIz2nxP8dpTOfwwoZ9) | 3:42 | 2026-01-04 | 2026-02-03 |
+| [Six Days and A Single Dime](https://open.spotify.com/track/3B5cbLWHEa7mQuhy1Lf3ca) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:02 | 2026-08-20 |  |
 | [Six Years](https://open.spotify.com/track/2oKwFFkRhsqN2Ja8BZ0io7) | [hateclay](https://open.spotify.com/artist/3NQb1iQBV5F8gf03zwRfPX), [Clay Winters](https://open.spotify.com/artist/5dMclDZPP5Ng2HVspxz3ip) | [Repeat](https://open.spotify.com/album/2VI3dPgXtGqWbEvWmRcvwL) | 2:18 | 2026-03-09 | 2026-04-12 |
 | [Skimming stones](https://open.spotify.com/track/5d7lKC9rNskbkpOOnaAz69) | [Treetunnels](https://open.spotify.com/artist/7nlrtDTZoeoxdtsXWeAgyk) | [Skimming stones](https://open.spotify.com/album/7FkKOBkPuKSO3Dfh0tCemg) | 3:17 | 2026-05-20 | 2026-07-03 |
 | [Sky Castles](https://open.spotify.com/track/6grhaVHkFcpNhIydGg7OJe) | [Andaluz](https://open.spotify.com/artist/1fVpy9sfYVCnGSDG8EyrQo), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [The Sky Silk Road](https://open.spotify.com/album/2egcGjuz3oX770IVcxZDiX) | 3:52 | 2023-04-20 | 2025-11-29 |

@@ -2,7 +2,7 @@
 
 ### [HITS 2026 \- Today's Top Songs](https://open.spotify.com/playlist/5iwkYfnHAGMEFLiHFFGnP4)
 
-> HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Madonna
+> HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Bruno Mars
 
 159 songs - 8 hr 53 min
 

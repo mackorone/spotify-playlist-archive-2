@@ -3005,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/69lgKYiY4vmLPkknOpwl6R"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126357,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1PjV08bIIIuy37rpKowy8h"
+    },
+    {
+      "album": {
         "name": "I Need A Doctor",
         "url": "https://open.spotify.com/album/1JY8jVxE6d7vJTcdPDFU83"
       },
@@ -5822,7 +5844,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 151688,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"

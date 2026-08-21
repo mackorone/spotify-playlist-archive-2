@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-482 songs - 2 day 3 hr 31 min
+483 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 | 2020-06-05 | 2025-04-11 |
 | [Ndincedeni \- Revisit](https://open.spotify.com/track/0zQwnZkXQJzhSQlrncqcaF) | [Dalom Kids](https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg), [King Khustah](https://open.spotify.com/artist/2OeJAwEHcmTrY8hN8KaY7E), [Myy Gerald](https://open.spotify.com/artist/4e7JCY44Wr1TDHPK3KVzhl), [Gash Beats](https://open.spotify.com/artist/5KuOKkfVLTYxjLLpglBUpE) | [Ndincedeni \(Revisit\)](https://open.spotify.com/album/0KLqMnVd4DLDOPhrpCY5nA) | 4:40 | 2024-05-17 | 2025-02-14 |
 | [Ndiyabulela](https://open.spotify.com/track/2YfwvRx9xsrWBUAHC2RVEG) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Vine&Vibes](https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Ndiyabulela](https://open.spotify.com/album/1eTtBbq0UmNuZY8ZQpcp2T) | 2:47 | 2025-11-28 | 2026-01-30 |
+| [Never Fail \- \(Live\)](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 | 2026-08-21 |  |
 | [Ngegama Lakho \- Live at the Durban ICC/ 2025](https://open.spotify.com/track/7lzUhnLMAJ6I0wZYUQQJJ6) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngegama Lakho/ Themba Lethu](https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX) | 3:37 | 2026-05-15 |  |
 | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD) | 7:05 | 2024-10-25 |  |
 | [Ngeke Ng'suke Kuwe](https://open.spotify.com/track/2qMpi2KOaaE95OVSuFA3OA) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ngeke Ng'suke Kuwe](https://open.spotify.com/album/6VSBeHUCkZslvEBS4tbZOO) | 10:43 | 2024-03-29 | 2024-04-05 |
@@ -458,7 +459,7 @@
 | [We Worship Adonai](https://open.spotify.com/track/1wMaAMLB1cLDnGUnz6FYwP) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [We Worship Adonai](https://open.spotify.com/album/6dMQKkdVA32CvBA5ZFcw77) | 6:42 | 2025-03-21 | 2025-10-31 |
 | [Well Done](https://open.spotify.com/track/7K5iy5DqaqfvcBmYRkuiP8) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [Well Done](https://open.spotify.com/album/31rCHYaPX2s01fwV7kEouW) | 7:45 | 2025-10-03 | 2026-01-23 |
 | [Wethembekile](https://open.spotify.com/track/7Hoh0EFokhyX9zjt9Ngb2x) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wethembekile](https://open.spotify.com/album/4ZXch2i9RsaPUWK8r3ouTz) | 5:13 | 2024-05-10 | 2024-07-12 |
-| [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 | 2024-12-20 |  |
+| [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 | 2024-12-20 | 2026-08-21 |
 | [Wonderful Love \- Live](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love \(Live\)](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 | 2023-09-29 | 2024-02-02 |
 | [Wozani Zindlamafa](https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Wozani Zindlamafa](https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4) | 4:00 | 2023-09-08 | 2023-09-15 |
 | [Wubani O zo Pepeza](https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Wubani O zo Pepeza](https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm) | 4:50 | 2024-10-11 | 2024-12-20 |

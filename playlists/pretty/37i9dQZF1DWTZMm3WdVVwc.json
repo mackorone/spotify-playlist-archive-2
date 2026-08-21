@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM9+dlu7j38In8yTB5BCuMY/lGSF",
+  "snapshot_id": "AAAAAAuTIbL7BFwEo6p7xE67OWJrvF9y",
   "tracks": [
     {
       "added_at": "2025-10-23 13:55:51",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
+        "name": "Shout Out to Jesus",
+        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
         "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
         "url": "https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA"
       },
@@ -677,22 +693,6 @@
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Shout Out to Jesus",
-        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u6708\u5149\u6d74",
@@ -707,22 +707,6 @@
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
-        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
-      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -747,6 +731,22 @@
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1089,6 +1089,22 @@
       "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
+        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+      },
+      "artists": [
+        {
+          "name": "Shogo Hamada",
+          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
+      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "OH MY LITTLE GIRL",
@@ -1151,22 +1167,6 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
-        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
-      },
-      "artists": [
-        {
-          "name": "Shogo Hamada",
-          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
-      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
       "added_at": "2025-03-11 22:40:18",

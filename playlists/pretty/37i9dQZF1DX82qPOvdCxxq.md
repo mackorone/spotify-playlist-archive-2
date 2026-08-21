@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Mark Barlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,968 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,989 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [That's Me](https://open.spotify.com/track/7FI0JvQ4EzjxdFeQYBVnZW) | [Rachel DeLong](https://open.spotify.com/artist/7DUD02SdWCZHYKKGjnwUQK) | [Confessions Of A Church Kid](https://open.spotify.com/album/0UFQ4cWwfOd9cQAMl5QgXI) | 3:11 |
 | 75 | [Show Me](https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Prodigal](https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5) | 4:05 |
 
-Snapshot ID: `AAAAALSt41/v4JGg8KByFPGlfGO6o7kK`
+Snapshot ID: `AAAAAIWd2LvLVuSvf04P8B2VErEsmonZ`

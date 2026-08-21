@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hasan Raheem, Abdullah Maharvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,473 likes - 91 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,478 likes - 91 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 90 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 |
 | 91 | [Jaise Hoor Aasmaani](https://open.spotify.com/track/3hfnqcRYwyXCHBE0NIcckI) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E) | [Jaise Hoor Aasmaani](https://open.spotify.com/album/4R5Q1p8qNkXEyKtmOmTnvA) | 2:52 |
 
-Snapshot ID: `AAAAAPNITgYLd5E04AsAzkCw4sAEXSd2`
+Snapshot ID: `AAAAALPpFdW+UELdofYVmgQa0lcZTFu9`

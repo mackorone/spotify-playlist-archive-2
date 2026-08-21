@@ -230,6 +230,28 @@
     {
       "album": {
         "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/1vdboilGvupoL2cHxQAHUp"
+      },
+      "artists": [
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Feet Don't Fail Me Now (Joy Crookes) - slowed down",
+      "url": "https://open.spotify.com/track/1U8rk8ToClBxfEpplurUf0"
+    },
+    {
+      "album": {
+        "name": "Feet Don't Fail Me Now",
         "url": "https://open.spotify.com/album/56evPTmSOUt4bS3nmn9VNZ"
       },
       "artists": [

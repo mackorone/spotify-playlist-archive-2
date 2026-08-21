@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 43 songs - 2 hr 49 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 41 | [Is there a chance of love in outer space? \- live](https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk) | [Vitamin Dream](https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE) | [Is there a chance of love in outer space? \(live\)](https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u) | 4:50 |
 | 42 | [MAX OUT](https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [MAX OUT](https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF) | 3:12 |
 | 43 | [Boys Wear Blue](https://open.spotify.com/track/6uLG0kC1IyMhhj2DPydi2d) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Boys Wear Blue](https://open.spotify.com/album/41291ChmIYkSjvsfJH4oKY) | 4:23 |
+| 44 | [Rule Breakers](https://open.spotify.com/track/6sdx6g2pj2YDMvqQBD3wu4) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Rule Breakers](https://open.spotify.com/album/5S6EUNPDwuZPWOttwz3ZAa) | 3:12 |
+| 45 | [Hope](https://open.spotify.com/track/7eTzPRx4F8hARRbGM9YAFX) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Hope](https://open.spotify.com/album/4rvubClwvLBYoVnJOzgmZi) | 2:57 |
 
-Snapshot ID: `AAAkXH4Sow2Zu2V+/3H6ZGMe4hvUpU06`
+Snapshot ID: `AAAkXkXVTx7/pp+xWTYb67q04vC2knXB`

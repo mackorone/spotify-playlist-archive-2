@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,902 likes - 1,128 songs - 2 day 19 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,903 likes - 1,128 songs - 2 day 19 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When He’s Gone \(Live\) \- Spotify Live Room](https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 3:17 |
-| 2 | [Big Girls Don't Cry \(Fergie Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 |
+| 1 | [When He's Gone \(Spotify Live Room\)](https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 3:17 |
+| 2 | [Big Girls Don't Cry \(Fergie Cover\) \[Spotify Live Room\]](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 |
 | 3 | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/track/35Wr5GycVuAXWCHqRCceqz) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 2:52 |
 | 4 | [It Takes A Woman \(Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1jnexmU3uWd0D54O3kWxKm) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 4:02 |
 | 5 | [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 |
@@ -1137,4 +1137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 1127 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 1128 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `AAAAAPEdJc6zSgDUmik+y3yh/gQ1EMUT`
+Snapshot ID: `AAAAAMgqyvl//qBegvBrvIAW2ae3fe7/`

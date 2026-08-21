@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: عفروتو
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,649 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,654 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ElDalma](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 1:39 |
+| 1 | [Keep Calm](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 3:22 |
 | 2 | [CHA CHA MATCHA](https://open.spotify.com/track/57dMVjmPjXVXGbbg5STyCb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [CHA CHA MATCHA](https://open.spotify.com/album/5TYiEK0q0nU8lXJWMerMKm) | 2:55 |
 | 3 | [SCENE 1](https://open.spotify.com/track/63rnlL8hsMSi6xFavQjyN2) | [Ashry](https://open.spotify.com/artist/5xhz2aFQHwKi3qc9AX7yAo) | [SCENE 1](https://open.spotify.com/album/3Bap1DrDCvIBqZ6vBHj0iA) | 3:50 |
 | 4 | [MAFHOOM](https://open.spotify.com/track/0ncJHVZ8L6MAYJPAkA5bYk) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [MAFHOOM](https://open.spotify.com/album/3ChfQ5spwL55P2xEKkhWsK) | 2:54 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 48 | [Meen Ytafy Nary](https://open.spotify.com/track/2ifemK90i9fSrsbC2mx46q) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Meen Ytafy Nary](https://open.spotify.com/album/1F5IOenDkbPmF3NuVzyEH8) | 3:08 |
 | 49 | [WADINI](https://open.spotify.com/track/2NVujx5LgFAIWPshaI6IYM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:22 |
 
-Snapshot ID: `AAAAANejtOIkv1aZ/QCSsoKw9k4hkXcf`
+Snapshot ID: `AAAAAPfD6lhIr+VnflSOh4qbxQr8zWUc`

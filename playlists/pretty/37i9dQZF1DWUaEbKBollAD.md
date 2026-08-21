@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,742 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,763 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 49 | [2084 \- Space 92 Remix](https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [2084 \(Space 92 Remix\)](https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA) | 3:46 |
 | 50 | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/track/6MziWtIveg3XEYr2VVyW0i) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH), [Widemode](https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS) | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1) | 2:17 |
 
-Snapshot ID: `AAAAABrMN7s4rIgRUq8S1qytdFdNWQzh`
+Snapshot ID: `AAAAAObaZ9LEigMvMGT459ZqYN4GViVl`

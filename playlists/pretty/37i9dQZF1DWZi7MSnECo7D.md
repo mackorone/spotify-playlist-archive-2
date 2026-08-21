@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Os Amantes, Jaloo, Strobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,932 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,753 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Cê La Vie](https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0) | [Julieta Social](https://open.spotify.com/artist/1r5YxPNUJqVbaBXdZLSqe7) | [Julieta](https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX) | 3:23 |
 | 70 | [Aguça](https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK) | [André Loyola](https://open.spotify.com/artist/5F591AtA6bo4HzuzRni12V) | [Aguça](https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB) | 2:52 |
 
-Snapshot ID: `AAAAAB42a+PsA1WoDVoPp3Nb90Sv5LDS`
+Snapshot ID: `AAAAAL/2JiX+jmaIzAZ6GZa8SVSjoXoH`

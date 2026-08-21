@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 498205,
+  "num_followers": 498226,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAD0MF94At1BE0shFOqKPEZx",
+  "snapshot_id": "aoTyAAAAAABHGn38i5oGFOnK04f7ZB0s",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100k On A Coupe",
-        "url": "https://open.spotify.com/album/05KwKSKIC05Z9KxqXRp2D5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
-        }
-      ],
-      "duration_ms": 117093,
-      "name": "100k On A Coupe",
-      "url": "https://open.spotify.com/track/6ra0Dds8XigftgKs64R1zq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 135111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100k On A Coupe",
+        "url": "https://open.spotify.com/album/05KwKSKIC05Z9KxqXRp2D5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "duration_ms": 117093,
+      "name": "100k On A Coupe",
+      "url": "https://open.spotify.com/track/6ra0Dds8XigftgKs64R1zq"
     },
     {
       "added_at": null,

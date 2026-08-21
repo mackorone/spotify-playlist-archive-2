@@ -9829,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/0vec6giGjk5XCpsGt8qGpB"
+      },
+      "artists": [
+        {
+          "name": "The Sway",
+          "url": "https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305503,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/2VqLPBZXPZRdC28oPsXWBH"
+    },
+    {
+      "album": {
         "name": "Silver stream",
         "url": "https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ"
       },

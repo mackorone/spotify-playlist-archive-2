@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,815 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,982 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 64 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
 | 65 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 |
 | 66 | [Rotation](https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Rotation](https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca) | 2:54 |
-| 67 | [Baguette](https://open.spotify.com/track/3FNTAEmWrb2XaFJmS0TPgT) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [Baguette](https://open.spotify.com/album/6qZuPGpXt2lujtqDNXF3Ec) | 2:41 |
-| 68 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
+| 67 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
+| 68 | [Baguette](https://open.spotify.com/track/3FNTAEmWrb2XaFJmS0TPgT) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [Baguette](https://open.spotify.com/album/6qZuPGpXt2lujtqDNXF3Ec) | 2:41 |
 | 69 | [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 |
-| 70 | [My Favourite Regrets](https://open.spotify.com/track/2o77A89Br1dHoz6O2bCvL4) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [MOVEMENT:X EP](https://open.spotify.com/album/77AA7tGtxYu52V0IZXqNdE) | 2:38 |
-| 71 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 |
+| 70 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 |
+| 71 | [My Favourite Regrets](https://open.spotify.com/track/2o77A89Br1dHoz6O2bCvL4) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [MOVEMENT:X EP](https://open.spotify.com/album/77AA7tGtxYu52V0IZXqNdE) | 2:38 |
 | 72 | [Automatic](https://open.spotify.com/track/6ApTUn36QPmFIb5tSezZFw) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [RAVEKINGS](https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5) | [Automatic](https://open.spotify.com/album/7Dw7nDMPL5OGBscWJS6qvK) | 2:37 |
 | 73 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 |
 | 74 | [Zick Zack](https://open.spotify.com/track/3Y9J7jIrOnVeRUxMhvtEVu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Zick Zack](https://open.spotify.com/album/6FGldN2NHAepVvpCPEC1h5) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 |
 | 80 | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/album/6h7bRxq7UfqGA1xZDPJe3S) | 3:22 |
 
-Snapshot ID: `AAAAAGEgfdI0kZuMafQVpA3kCLTMO+YN`
+Snapshot ID: `AAAAAOlYyog5H1nuarxzvgviWLPOrA5L`

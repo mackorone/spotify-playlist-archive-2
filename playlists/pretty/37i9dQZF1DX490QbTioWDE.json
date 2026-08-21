@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & DesaKTa2",
-  "num_followers": 816529,
+  "num_followers": 816544,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJSi/RwQRq682CoujpmButtW2Zh",
+  "snapshot_id": "AAAAAFvdzr5GEUplYghNO6POOf3u9Wnx",
   "tracks": [
     {
       "added_at": "2026-08-14 10:35:01",
@@ -518,6 +518,14 @@
         {
           "name": "La K'onga",
           "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 179876,
@@ -931,18 +939,26 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+        "name": "Ya Me Cans\u00e9",
+        "url": "https://open.spotify.com/album/71Kki8oS4g9fZ7ZTX6129X"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
         }
       ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+      "duration_ms": 156809,
+      "name": "Ya Me Cans\u00e9",
+      "url": "https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -967,26 +983,18 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Ya Me Cans\u00e9",
-        "url": "https://open.spotify.com/album/71Kki8oS4g9fZ7ZTX6129X"
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
       },
       "artists": [
         {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 156809,
-      "name": "Ya Me Cans\u00e9",
-      "url": "https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c"
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1047,22 +1055,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Dejame Intentar",
         "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
       },
@@ -1075,6 +1067,22 @@
       "duration_ms": 121551,
       "name": "Dejame Intentar",
       "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1187,6 +1195,22 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
         "name": "Amiga - A Medio Vivir (feat. Lucas Sugo)",
         "url": "https://open.spotify.com/album/1KSUi0LxqRfQkAxp97gfOG"
       },
@@ -1203,22 +1227,6 @@
       "duration_ms": 304938,
       "name": "Amiga - A Medio Vivir (feat. Lucas Sugo)",
       "url": "https://open.spotify.com/track/7m1Qy4NriMZ6ckFT4GbAMe"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/3pP8sHt6ddUHJ4CHPcGmnh"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1519,22 +1527,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Ta' Buenisimo",
-        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Ni Lo Pienses",
         "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
       },
@@ -1547,6 +1539,22 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Ta' Buenisimo",
+        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1663,6 +1671,22 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
+        "name": "Somos Todos",
+        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
+      },
+      "artists": [
+        {
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+        }
+      ],
+      "duration_ms": 271516,
+      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
+      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
         "name": "No Se Vivir Si No Es Contigo",
         "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
       },
@@ -1679,22 +1703,6 @@
       "duration_ms": 202149,
       "name": "No Se Vivir Si No Es Contigo",
       "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "Somos Todos",
-        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
-      },
-      "artists": [
-        {
-          "name": "Cachumba",
-          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
-        }
-      ],
-      "duration_ms": 271516,
-      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
-      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1739,26 +1747,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 159215,
-      "name": "Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Que Te Vuelva Amor",
         "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
       },
@@ -1775,6 +1763,26 @@
       "duration_ms": 150764,
       "name": "Que Te Vuelva Amor",
       "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 159215,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1935,22 +1943,22 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "El Trato",
-        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
+        "name": "T\u00fa Eres Ajena / No Quiero Herirte (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/6R6DuafSX3x5CqRucKRjhf"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
         },
         {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 191177,
-      "name": "El Trato",
-      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
+      "duration_ms": 286021,
+      "name": "T\u00fa Eres Ajena / No Quiero Herirte (En Vivo Gran Rex)",
+      "url": "https://open.spotify.com/track/6BjBSu7f5GshEq0VXRI4WK"
     },
     {
       "added_at": "2026-08-14 10:35:01",

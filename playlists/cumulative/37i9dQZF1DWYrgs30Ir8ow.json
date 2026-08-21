@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Tame Impala",
+  "description": "Altijd frisse hits! Cover: LA$$A, Cristian D & Frsh",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152166,
+      "name": "Bare Minimum",
+      "url": "https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd"
+    },
+    {
+      "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
       },
@@ -4071,6 +4089,24 @@
     },
     {
       "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/2pZsXPo2Q7sUOpi8GKXXxW"
+    },
+    {
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
@@ -4086,6 +4122,24 @@
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
       "album": {
@@ -18658,7 +18712,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 174676,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
@@ -22620,7 +22674,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 144491,
       "name": "SMAAKT NAAR WATER",
       "url": "https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B"
@@ -29010,7 +29064,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189090,
       "name": "Zomer, Zon & Strand",
       "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 507545,
+  "num_followers": 507554,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOjUKV5QeqMexcWi4T3N3loPWd0H",
+  "snapshot_id": "AAAAAC9AitlMX5fubr+CmVJSaeIn8dg6",
   "tracks": [
     {
       "added_at": "2026-07-24 03:03:18",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "Carla (Remix)",
         "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 146250,
       "name": "Baiana - With L-Gante",
       "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
-        "name": "Halfway (with Bhaskar)",
-        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 158416,
-      "name": "Halfway (with Bhaskar)",
-      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
         "name": "Summertime Sadness",
         "url": "https://open.spotify.com/album/68FOiKlSQI0SKc8exqAtVM"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 179512,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
+        "name": "Halfway (with Bhaskar)",
+        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 158416,
+      "name": "Halfway (with Bhaskar)",
+      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1391,6 +1391,30 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Olhos Coloridos (Rap Singulares)",
+        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
+      },
+      "artists": [
+        {
+          "name": "Sandra S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "MarVixx",
+          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
+        },
+        {
+          "name": "Simone Malafaia",
+          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Olhos Coloridos (Rap Singulares)",
+      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "Quem N\u00e3o Quer Sou Eu",
         "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
       },
@@ -1415,30 +1439,6 @@
       "duration_ms": 178205,
       "name": "Quem N\u00e3o Quer Sou Eu",
       "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
-        "name": "Olhos Coloridos (Rap Singulares)",
-        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
-      },
-      "artists": [
-        {
-          "name": "Sandra S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "MarVixx",
-          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
-        },
-        {
-          "name": "Simone Malafaia",
-          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Olhos Coloridos (Rap Singulares)",
-      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     },
     {
       "added_at": "2026-07-24 03:03:18",
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2026-07-24 03:03:18",
       "album": {
+        "name": "Hoje Caminhei (Remix)",
+        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
+      },
+      "artists": [
+        {
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
+        },
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        },
+        {
+          "name": "\u00d8NEhead",
+          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Hoje Caminhei - Remix",
+      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2026-07-24 03:03:18",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1523,26 +1547,6 @@
       "duration_ms": 158774,
       "name": "Please Don't Go - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
-    },
-    {
-      "added_at": "2026-07-24 03:03:18",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Yannick",
-          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
-        }
-      ],
-      "duration_ms": 216126,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
     }
   ],
   "unique_name": "Festa na Praia",

@@ -1,12 +1,12 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 166867,
+  "num_followers": 166869,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSp1F5E3oIroOUJTZek3x+I8H4/",
+  "snapshot_id": "AAAAAA6+Rj8lk3lIkOXljPGcOXas7+vu",
   "tracks": [
     {
       "added_at": "2026-02-09 02:11:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Downtown Vibes",
-        "url": "https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 108501,
-      "name": "Downtown Vibes",
-      "url": "https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 229750,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Downtown Vibes",
+        "url": "https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 108501,
+      "name": "Downtown Vibes",
+      "url": "https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Quixotic",
-        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
-      },
-      "artists": [
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Sandpaper Kisses",
-      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Quixotic",
+        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
+      },
+      "artists": [
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Sandpaper Kisses",
+      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Breath From Another",
-        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
-      },
-      "artists": [
-        {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Breath From Another",
+        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+      },
+      "artists": [
+        {
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Underground Vibes",
         "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 312413,
       "name": "Mad Blunted Jazz",
       "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 142310,
       "name": "Trying Not To Cry (feat. Cavetown)",
       "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "seek",
+        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
+      },
+      "artists": [
+        {
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "seek",
+      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "seek",
-        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
-      },
-      "artists": [
-        {
-          "name": "53 Thieves",
-          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "seek",
-      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
     },
     {
       "added_at": "2026-02-09 02:11:35",

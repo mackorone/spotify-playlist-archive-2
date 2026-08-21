@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish, MoStack",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: K-Trap",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 197932,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/0kWAW8wkGQwepTKyYjJTu5"
@@ -12838,6 +12838,28 @@
       "duration_ms": 149379,
       "name": "Doing Alright",
       "url": "https://open.spotify.com/track/59EjBhBCI893JiglW4MayL"
+    },
+    {
+      "album": {
+        "name": "TRAPO 2",
+        "url": "https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "DOING THE MOST",
+      "url": "https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE"
     },
     {
       "album": {
@@ -23201,6 +23223,28 @@
     },
     {
       "album": {
+        "name": "Keep Up (feat. Boohavinn)",
+        "url": "https://open.spotify.com/album/72nnb1NESNu80FvKIi38Kh"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Boohavinn",
+          "url": "https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102083,
+      "name": "Keep Up (feat. Boohavinn)",
+      "url": "https://open.spotify.com/track/13yfsQmT13TosKcw6181NQ"
+    },
+    {
+      "album": {
         "name": "Home Alone 2",
         "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
       },
@@ -24834,6 +24878,24 @@
       "duration_ms": 162061,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/04OZG5UQwgNAY3iHKffiAQ"
+    },
+    {
+      "album": {
+        "name": "Hood Exit",
+        "url": "https://open.spotify.com/album/0M1Q7no6b2N2UwuiKceadH"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Str8Drop",
+          "url": "https://open.spotify.com/artist/4VjhEOxeofC025Or5TsoHh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Like Me II",
+      "url": "https://open.spotify.com/track/3mDnLlxmXk0kjt51RNi22F"
     },
     {
       "album": {
@@ -27886,7 +27948,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 190104,
       "name": "Misunderstood - feat. Bawo",
       "url": "https://open.spotify.com/track/39lx7wFXnbiQvW7Cz5PaGs"
@@ -29472,7 +29534,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172000,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/50WEm376r4D4jArsLMw1at"
@@ -31392,10 +31454,28 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 144857,
       "name": "Oiii DJ",
       "url": "https://open.spotify.com/track/4PnPLsW50W3AoX8gYf3e7i"
+    },
+    {
+      "album": {
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/7kGeM6mH3TZ2seqyzc1vCW"
+      },
+      "artists": [
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116620,
+      "name": "Ok!",
+      "url": "https://open.spotify.com/track/3TAmIC0Q7Ms6LJp80vjRx3"
     },
     {
       "album": {
@@ -39904,7 +39984,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 160416,
       "name": "So LDN",
       "url": "https://open.spotify.com/track/3fbvgXvMuGBY29RH3wvlt7"
@@ -42449,6 +42529,24 @@
     },
     {
       "album": {
+        "name": "CANDORA",
+        "url": "https://open.spotify.com/album/0yw8ejFmX2ErV4CEspDouI"
+      },
+      "artists": [
+        {
+          "name": "Tommy Saint",
+          "url": "https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "temperature",
+      "url": "https://open.spotify.com/track/3Vnuls4zrhhuTBfSaylb9S"
+    },
+    {
+      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/7axnkQSYoljgwY0wgZzKzL"
       },
@@ -43922,7 +44020,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 186666,
       "name": "Too Bait - Music Inspired by the Original Series \"Bait\"",
       "url": "https://open.spotify.com/track/6e7eop8x4gRcuZAG3vBYc1"
@@ -44590,6 +44688,24 @@
       "duration_ms": 166000,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3UTI66CnVpvIgj0BR6VLAU"
+    },
+    {
+      "album": {
+        "name": "TRU STORY",
+        "url": "https://open.spotify.com/album/0Q8zyirMEK9dO43QMXJtKs"
+      },
+      "artists": [
+        {
+          "name": "Jaish",
+          "url": "https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "TRU STORY",
+      "url": "https://open.spotify.com/track/0xTW1xycfxf5nsvBtehY6R"
     },
     {
       "album": {
@@ -45276,6 +45392,24 @@
       "duration_ms": 177973,
       "name": "Underneath",
       "url": "https://open.spotify.com/track/3TK806HU0B5m5xhjFLem0S"
+    },
+    {
+      "album": {
+        "name": "understood",
+        "url": "https://open.spotify.com/album/0e6Vetk0r0IOvgntCewZXB"
+      },
+      "artists": [
+        {
+          "name": "kwes e",
+          "url": "https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138224,
+      "name": "understood",
+      "url": "https://open.spotify.com/track/6ckr4QzYRqDQ1COrVSST9w"
     },
     {
       "album": {
@@ -48218,7 +48352,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 140275,
       "name": "worry",
       "url": "https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z"

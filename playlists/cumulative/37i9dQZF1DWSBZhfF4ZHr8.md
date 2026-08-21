@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Eva.
+> Les meilleures nouveautés de la variété française avec Joseph Kamel et Vitaa.
 
-534 songs - 1 day 2 hr 10 min
+536 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [J'veux qu'on s'aime](https://open.spotify.com/track/3TcQ7REFvKc8LOy0QdmA2s) | [Nola](https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA) | [J'veux qu'on s'aime](https://open.spotify.com/album/02XVsG9Wr53zb3b2mFla8t) | 2:02 | 2026-02-05 | 2026-04-24 |
 | [J'veux que t'aies mal](https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Éclair](https://open.spotify.com/album/0gNAAFYDnBfBiPtMq4vtpu) | 3:12 | 2025-11-27 | 2026-03-13 |
 | [J'échangerais](https://open.spotify.com/track/5gMGpi4KPOzp8iDvJuCLSH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables \(C'est pas lui, c'est nous\)](https://open.spotify.com/album/3omafbw9Qr95NPmF8OCRpv) | 3:09 | 2026-05-21 |  |
+| [Jamais](https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Jamais](https://open.spotify.com/album/0IDj2r98eWhp9xWirfb0tL) | 3:06 | 2026-08-20 |  |
 | [Jamais deux sans trois](https://open.spotify.com/track/3Gl9006GKKQs0To5Xe940u) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [Jamais deux sans trois](https://open.spotify.com/album/7MQxrbB9MquN4xxCXSIwgJ) | 2:41 | 2025-05-15 | 2025-08-22 |
 | [Je dors](https://open.spotify.com/track/2gtBiMhgr0reYXn2CAoXGP) | [Tumulte](https://open.spotify.com/artist/3ot5afmxg2m0UcMaw6SaOg) | [Je dors](https://open.spotify.com/album/0EeVZMmm0FkrsiDkHCMI9D) | 2:43 | 2026-01-22 | 2026-04-10 |
 | [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 | 2026-07-09 |  |
@@ -210,6 +211,7 @@
 | [Je t'aimais, je t'aime, je t'aimerai \(Charles, Ebony, Emma & Marine\)](https://open.spotify.com/track/4B0pjx0g6xnGLSfMag56EL) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2024](https://open.spotify.com/album/7LXBJT1FsiJaudUCY2rHZQ) | 3:27 | 2024-12-05 | 2025-01-10 |
 | [Je t'aime](https://open.spotify.com/track/4qGzHySKdaIZGGTUy6um9z) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Balla Diabaté](https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA) | [Lamomali Totem](https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy) | 3:21 | 2025-04-24 | 2025-05-23 |
 | [Je t'aime](https://open.spotify.com/track/3U4wzM6Pli4NSayDSPcw7W) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Boîte à musique](https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3) | 2:52 | 2025-10-09 | 2025-11-07 |
+| [JE VEUX](https://open.spotify.com/track/3S7YivaVp428mXVQe6WoZx) | [Flo Delavega](https://open.spotify.com/artist/43bHLwpFPnPHdvID2juGoZ) | [JE VEUX](https://open.spotify.com/album/2y3kRxD1kVOfv5UUmnaKfN) | 2:45 | 2026-08-20 |  |
 | [Je veux](https://open.spotify.com/track/4S1FajtcvGHpETY3z7Iqmz) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Je veux](https://open.spotify.com/album/1oq3NpkDklIsqOObMhgoRK) | 2:49 | 2026-05-28 |  |
 | [Jet Lag](https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Jet Lag](https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh) | 2:45 | 2026-03-19 | 2026-06-19 |
 | [Joli rêve](https://open.spotify.com/track/5WEmSLGnZ8LiXuBDv5p7M6) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/2gtaaPpY13C7vyPw734gI4) | 2:59 | 2025-07-24 | 2025-10-03 |
@@ -341,7 +343,7 @@
 | [N'importe quoi](https://open.spotify.com/track/79bwfSoWwwKWjYpsP9nhC4) | [Charles](https://open.spotify.com/artist/3RdJWjyqcoybdcVZLsKkUE), [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [N'importe quoi \(Duo avec Joyce Jonathan\)](https://open.spotify.com/album/2BmEMP5uFyPNiYfn91s5f2) | 3:14 | 2025-05-15 | 2025-08-22 |
 | [Ne me dis plus jamais](https://open.spotify.com/track/6GPZUss1JVFJPOnfzJLDc8) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Signé, Linh](https://open.spotify.com/album/3OXwUO2YTrDnmAyVmP22eo) | 3:56 | 2024-10-17 | 2025-01-10 |
 | [Ne me quitte pas](https://open.spotify.com/track/6AaMzDiXXtC1ea2StLkvHG) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Ne me quitte pas](https://open.spotify.com/album/4hsCVZTavWC8i0BMHVr7z2) | 2:07 | 2026-04-16 |  |
-| [Ne reviens pas](https://open.spotify.com/track/2cVwmAFE0ZlTQ3K14bHx5I) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Ne reviens pas](https://open.spotify.com/album/3McWKavqxlBuMotx52KLGn) | 2:40 | 2026-05-07 |  |
+| [Ne reviens pas](https://open.spotify.com/track/2cVwmAFE0ZlTQ3K14bHx5I) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Ne reviens pas](https://open.spotify.com/album/3McWKavqxlBuMotx52KLGn) | 2:40 | 2026-05-07 | 2026-08-21 |
 | [No Name](https://open.spotify.com/track/5ZAdStqi2rBLZz2OGw8ZFH) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [No Name](https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul) | 4:23 | 2025-09-04 | 2025-10-03 |
 | [No Name \- Single Version](https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [No Name](https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul) | 3:51 | 2025-10-02 | 2025-10-24 |
 | [Noir ou blanc](https://open.spotify.com/track/66FEOnWVH3mbDg4yDULzii) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Noir ou blanc](https://open.spotify.com/album/5GsoO0MhTeehQrqcNcs7Rz) | 2:48 | 2025-06-05 | 2025-07-18 |
@@ -412,7 +414,7 @@
 | [Quand même](https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Adrénaline](https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK) | 3:13 | 2026-01-08 | 2026-04-03 |
 | [Que reste\-t\-il ?](https://open.spotify.com/track/2yuCAFKbsM5TaDXf1M7ZZU) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Que reste\-t\-il ?](https://open.spotify.com/album/5sSJ7zRawxZDwekt3AqAEC) | 2:51 | 2024-11-07 | 2025-01-10 |
 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 | 2024-07-04 | 2024-10-18 |
-| [Quelle époque](https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [MINUIT UNE](https://open.spotify.com/album/68Ytb90ofkAKWRfp2D5h1t) | 2:35 | 2026-04-23 |  |
+| [Quelle époque](https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [MINUIT UNE](https://open.spotify.com/album/68Ytb90ofkAKWRfp2D5h1t) | 2:35 | 2026-04-23 | 2026-08-21 |
 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-09-12 | 2024-10-04 |
 | [Qui tu es](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 3:27 | 2026-06-11 | 2026-07-24 |
 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 | 2024-10-03 | 2024-11-29 |

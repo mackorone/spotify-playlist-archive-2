@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-541 songs - 1 day 7 hr 31 min
+542 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [ホワイトマインド \(feat\. 初音ミク\)](https://open.spotify.com/track/6zFiEUXgQbwOtOeYi8TJyB) | [Glue](https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85) | [ホワイトマインド](https://open.spotify.com/album/0d3l2BZ46eTTzl0ZBKNXbt) | 3:30 | 2026-05-04 |  |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2024-09-08 |  |
 | [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 | 2025-07-14 |  |
+| [メロメロイド \(feat\. 初音ミク\)](https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [メロメロイド](https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA) | 3:03 | 2026-08-20 |  |
 | [メンヘラじゃないもん!](https://open.spotify.com/track/24E0iUwAK5CI2uUxucydxe) | [勇魚](https://open.spotify.com/artist/515c1YJxPvInDVwQbFvPvf) | [メンヘラじゃないもん!](https://open.spotify.com/album/1YO5k5RbPMiXCOp8YQG0vk) | 3:16 | 2024-08-06 |  |
 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 | 2025-08-25 |  |
 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 | 2022-11-25 |  |

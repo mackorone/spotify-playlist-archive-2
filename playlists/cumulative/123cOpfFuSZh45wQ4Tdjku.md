@@ -4,7 +4,7 @@
 
 > mostly furry
 
-495 songs - 1 day 0 hr 5 min
+496 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Underwater Level](https://open.spotify.com/track/2Bgc1lyacBEDSHsIaYk4z4) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 0:52 | 2025-04-22 |  |
 | [Universe](https://open.spotify.com/track/1UTmv2MSTadbW1JCF5zqgm) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 2:14 | 2024-05-15 |  |
 | [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2023-11-18 |  |
+| [unnatural](https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [unnatural](https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw) | 2:09 | 2026-08-20 |  |
 | [Urgently Jammin' \- Sir Meow Remix](https://open.spotify.com/track/6Jg34U868zijXDUyXATmiN) | [Domalomn](https://open.spotify.com/artist/0Kn6fWFACbBThLc8BIqe2S), [Sir Meow](https://open.spotify.com/artist/1CF0urFqWmcD4469a0xjvT) | [Urgently Jammin' \(Sir Meow Remix\)](https://open.spotify.com/album/6jwQWDPEOzsNd5f60FUfLP) | 2:30 | 2025-03-28 |  |
 | [Vancouver](https://open.spotify.com/track/5giRh5SXEgzL3xUmVG6Vsx) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:42 | 2024-12-07 |  |
 | [Vent Pipe](https://open.spotify.com/track/5wTZuPHVfLv4tvRVfzgNs9) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 3:05 | 2024-12-24 |  |

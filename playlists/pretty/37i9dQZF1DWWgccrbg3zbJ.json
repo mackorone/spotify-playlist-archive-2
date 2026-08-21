@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 633696,
+  "num_followers": 634107,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVJiOmij4g3mEogXi3nvjD5SyfA",
+  "snapshot_id": "AAAAANlAgqoE/ss/Yj1EKFUwuuT8/ptS",
   "tracks": [
     {
       "added_at": "2026-05-15 08:18:34",
@@ -207,18 +207,22 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+        "name": "The Brasil Project Vol. II",
+        "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
       },
       "artists": [
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
         }
       ],
-      "duration_ms": 128985,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
+      "duration_ms": 216360,
+      "name": "Samba de Orfeu",
+      "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -239,22 +243,18 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "The Brasil Project Vol. II",
-        "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
       "artists": [
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Samba de Orfeu",
-      "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
+      "duration_ms": 128985,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Bossa Nova Caf\u00e9",
-        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 72671,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
         "name": "A Bossa de Cauby Peixoto",
         "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 157333,
       "name": "At\u00e9 Quem Sabe",
       "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Bossa Nova Caf\u00e9",
+        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 72671,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Ultimate Guitar Classics 1951-1961",
-        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118040,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219093,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Ultimate Guitar Classics 1951-1961",
+        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118040,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
     },
     {
       "added_at": "2026-05-15 08:18:34",

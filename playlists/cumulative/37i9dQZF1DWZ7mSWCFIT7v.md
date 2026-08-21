@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-619 songs - 2 day 1 hr 31 min
+620 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Unknown](https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Unknown](https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA) | 4:00 | 2025-05-30 | 2025-11-04 |
 | [Ur Luv](https://open.spotify.com/track/1TaDpSIEbWbusLjU8LddEv) | [Jonas Landwehr](https://open.spotify.com/artist/6F1uLUaXAt2YmgW9lz1xt1) | [Ur Luv](https://open.spotify.com/album/5AVIux5SDjPmwdUsje8jlj) | 4:22 | 2025-11-03 | 2026-07-25 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 | 2025-07-17 |
+| [Vali](https://open.spotify.com/track/37bzxhJjcx7OO0D1nBhoma) | [Tyondai Braxton](https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK) | [Splayed Werks](https://open.spotify.com/album/3gralcjkI8QCnIgCmlJ6RP) | 4:41 | 2026-08-14 |  |
 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 | 2021-10-06 | 2025-07-17 |
 | [Vegetal Passivity](https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Vegetal Passivity](https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW) | 3:58 | 2023-03-03 | 2025-08-21 |
 | [Verba Aliena](https://open.spotify.com/track/1I4wMTKv80yAZ9S9ao802G) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq) | [Megaptera \(Original Soundtrack from the Movie the Musician and the Whale\)](https://open.spotify.com/album/5iUcoJgzmQzog02G4JgewC) | 2:43 | 2026-06-12 |  |

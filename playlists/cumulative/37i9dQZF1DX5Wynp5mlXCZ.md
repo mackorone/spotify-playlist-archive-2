@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2026](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: ROXOLANA
+> Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: Tember Blanche
 
-626 songs - 1 day 7 hr 56 min
+628 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 | 2026-01-15 | 2026-05-14 |
 | [747](https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [747](https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR) | 2:53 | 2026-08-06 |  |
 | [911](https://open.spotify.com/track/16Ssmu3cwZjySQWJ8MXyZt) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [911](https://open.spotify.com/album/3pKldQ7aSXiE9qD6oaxNre) | 2:22 | 2025-06-19 | 2025-07-11 |
-| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 |  |
+| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2026-08-21 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2026-04-24 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-06-27 | 2024-09-14 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 | 2025-03-21 |
@@ -59,6 +59,7 @@
 | [City](https://open.spotify.com/track/6VteRKmltuPC9dXVzPIeGK) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [City](https://open.spotify.com/album/34HGkiow2z1TpgAm5CmDU6) | 3:42 | 2025-09-25 | 2025-10-10 |
 | [City](https://open.spotify.com/track/7JbCtGesPFlyy1JWC2pA8Q) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 3:02 | 2025-05-01 | 2025-05-09 |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-05 | 2026-05-15 |
+| [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 | 2026-08-20 |  |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-06-27 | 2024-12-20 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-10-24 |
 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-20 | 2025-08-08 |
@@ -205,7 +206,7 @@
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2026-02-13 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-06-27 | 2024-08-27 |
 | [Nich](https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Nich](https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r) | 3:50 | 2025-05-22 | 2025-06-20 |
-| [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-02-26 |  |
+| [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-02-26 | 2026-08-21 |
 | [No Time to Cry](https://open.spotify.com/track/62Mlz8ffiLicV1Ngzlpjrw) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [No Time to Cry](https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw) | 2:50 | 2025-01-23 | 2025-03-03 |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-06-27 | 2024-10-11 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-13 | 2024-10-19 |
@@ -488,6 +489,7 @@
 | [На мені](https://open.spotify.com/track/5B6fxB6kV9ZI0M8O2Iofhp) | [USTYM](https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ) | [На мені](https://open.spotify.com/album/1mNGws2oblScckpEJ6ItAK) | 3:12 | 2026-07-23 |  |
 | [На нашому поверсі](https://open.spotify.com/track/4xUS7xMl8fQH76W8LBMpKU) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Тут і зараз](https://open.spotify.com/album/2FzdfpP13nCD7iZa792ccD) | 2:38 | 2025-11-20 | 2025-11-28 |
 | [На нічному небі](https://open.spotify.com/track/44il5IyxWcQ79aDkB2VVDZ) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [Svyatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [На нічному небі](https://open.spotify.com/album/0q7PaMgEklykA15z8bblGk) | 3:51 | 2024-10-04 | 2024-12-11 |
+| [На рахунок три](https://open.spotify.com/track/79aIWYzhChcOTKHv3UheC1) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [На рахунок три](https://open.spotify.com/album/3PT0PEg5HCw6UMwkiB2kYl) | 2:46 | 2026-08-20 |  |
 | [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 | 2024-12-19 | 2024-12-28 |
 | [навколо нас](https://open.spotify.com/track/13vEyHkvJydqiodokboN9T) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa), [vrochinskiy](https://open.spotify.com/artist/2eydKE9mnrtJ9yevtXpSQL), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy), [Lіsnyi](https://open.spotify.com/artist/1UBdJHMY0J54PBSl6Y7s4t), [Lesik Omodada](https://open.spotify.com/artist/2qVIjxlR8saj8fxHGgzvtC) | [цим літом](https://open.spotify.com/album/0uDOxTCBCiI3VsiPaE4k32) | 2:41 | 2026-08-06 |  |
 | [Надія](https://open.spotify.com/track/6aXnYkG6BhDkVC0APjkjtw) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Надія](https://open.spotify.com/album/3yeWhEBmhMGol4JnNEgbgT) | 2:49 | 2025-05-01 | 2025-05-23 |

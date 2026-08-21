@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+      },
+      "artists": [
+        {
+          "name": "Hitoshi Sakimoto",
+          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
+        }
+      ],
+      "date_added": "2026-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220640,
+      "name": "Antipyretic",
+      "url": "https://open.spotify.com/track/2FmH4JO42auhArapharZt6"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack",
         "url": "https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 105960,
       "name": "Character Creation",
       "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"

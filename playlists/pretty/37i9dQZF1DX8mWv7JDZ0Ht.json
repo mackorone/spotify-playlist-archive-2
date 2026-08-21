@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  GIANA",
-  "num_followers": 433673,
+  "num_followers": 433657,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF4uOxyaiGsOb3LbrsBs5TjoNtaw",
+  "snapshot_id": "AAAAAPBwMgARqqPTZSQB5RHaZhGzdi8Z",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:28",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "J\u00e1 Vi Fogo",
-        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
-      },
-      "artists": [
-        {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 273281,
-      "name": "J\u00e1 Vi Fogo",
-      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 189886,
       "name": "FOME",
       "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "J\u00e1 Vi Fogo",
+        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 273281,
+      "name": "J\u00e1 Vi Fogo",
+      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "Disco Tropical",
-        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 187589,
-      "name": "Disco Tropical",
-      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "Disco Tropical",
+        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 187589,
+      "name": "Disco Tropical",
+      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
         "name": "NOVA: Surpresa",
         "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 255333,
       "name": "NOVA: Surpresa",
       "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
-        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 189073,
-      "name": "M\u00e1gica - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -771,22 +771,22 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "dois brilhantes",
-        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
       "artists": [
         {
-          "name": "Dado Villa-Lobos",
-          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
         },
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
         }
       ],
-      "duration_ms": 203311,
-      "name": "dois brilhantes",
-      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -803,6 +803,26 @@
       "duration_ms": 165676,
       "name": "T\u00e3o Perto",
       "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "dois brilhantes",
+        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
+      },
+      "artists": [
+        {
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 203311,
+      "name": "dois brilhantes",
+      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -863,26 +883,6 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-08-14 03:00:28",

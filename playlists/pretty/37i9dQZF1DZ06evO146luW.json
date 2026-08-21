@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 53075,
+  "num_followers": 53088,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABxsSMBOWGEUETxUFdw9jfR",
+  "snapshot_id": "aoTyAAAAAAAqTSLYbtvfXoe1zks1cREr",
   "tracks": [
     {
       "added_at": null,
@@ -71,8 +71,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts Like You & Dollar and a Bottle",
-        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
       },
       "artists": [
         {
@@ -82,7 +82,7 @@
       ],
       "duration_ms": 195332,
       "name": "Hurts Like You",
-      "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
+      "url": "https://open.spotify.com/track/4IyUVGOKNmraQIymwHzm8m"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc"
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 228941,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu"
+      "duration_ms": 244580,
+      "name": "Song I Can Drink Too",
+      "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 244580,
-      "name": "Song I Can Drink Too",
-      "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 146657,
       "name": "College",
       "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 256765,
+      "name": "Lonely as It Gets",
+      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
       "duration_ms": 194621,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 256765,
-      "name": "Lonely as It Gets",
-      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 214532,
       "name": "What You Deserve",
       "url": "https://open.spotify.com/track/73xnOl3QWeh0GS720CFPrO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 239254,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   Sarkodie and Dopenation",
+  "description": "The hottest and recent Ghana party starters. Cover:   Lasmid",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 167996,
       "name": "A Fuul",
       "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
@@ -902,6 +902,28 @@
       "duration_ms": 156233,
       "name": "Alhaji Popping",
       "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
+    },
+    {
+      "album": {
+        "name": "Alhamdulillah 2.0",
+        "url": "https://open.spotify.com/album/0bNiTTXgrpEmOFgG9FolQl"
+      },
+      "artists": [
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191068,
+      "name": "Alhamdulillah 2.0",
+      "url": "https://open.spotify.com/track/3sGxDEDAyAZ8MVPVpb5H17"
     },
     {
       "album": {
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 182222,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
@@ -4398,10 +4420,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/1g6RD4FaJzAbxQE3fT6d7H"
+      },
+      "artists": [
+        {
+          "name": "Article Wan",
+          "url": "https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203525,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/7u4yWx8CrzZ0O2kRt3o9kD"
     },
     {
       "album": {
@@ -4852,7 +4892,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 177049,
       "name": "For the Popping (Apicki)",
       "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
@@ -7339,6 +7379,28 @@
     },
     {
       "album": {
+        "name": "Liquor Store",
+        "url": "https://open.spotify.com/album/3f7yVbV4DWziHiUBzcD0Pq"
+      },
+      "artists": [
+        {
+          "name": "N.E records",
+          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149836,
+      "name": "Liquor Store",
+      "url": "https://open.spotify.com/track/1V4oNBR2e0bSWcRldWYK7S"
+    },
+    {
+      "album": {
         "name": "Toopeezy",
         "url": "https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF"
       },
@@ -7380,10 +7442,32 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+    },
+    {
+      "album": {
+        "name": "Lonely World",
+        "url": "https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD"
+      },
+      "artists": [
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t"
     },
     {
       "album": {
@@ -8160,6 +8244,24 @@
       "duration_ms": 183405,
       "name": "Most Beautiful",
       "url": "https://open.spotify.com/track/5MYilFRKvwzBQpFqU0RQpI"
+    },
+    {
+      "album": {
+        "name": "Motherfxcker",
+        "url": "https://open.spotify.com/album/3FUWRe4bQJOynPXqMIm0Zb"
+      },
+      "artists": [
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "Motherfxcker",
+      "url": "https://open.spotify.com/track/1D1Mp6lTvkAqTjbVewRkpQ"
     },
     {
       "album": {
@@ -11463,6 +11565,28 @@
     },
     {
       "album": {
+        "name": "SEXY & BAD",
+        "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "SEXY & BAD",
+      "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
+    },
+    {
+      "album": {
         "name": "Her Vibe Is Right Vol. 2",
         "url": "https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy"
       },
@@ -13372,7 +13496,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189177,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
@@ -13909,6 +14033,24 @@
     },
     {
       "album": {
+        "name": "Here's Where We Once Were",
+        "url": "https://open.spotify.com/album/6LB53Bq9oKwQcPehJgevNe"
+      },
+      "artists": [
+        {
+          "name": "ginius",
+          "url": "https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5oJbBeEZEBmltcKPkLW8Ok"
+    },
+    {
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA"
       },
@@ -13938,7 +14080,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"

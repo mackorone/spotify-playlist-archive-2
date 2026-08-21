@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,157,353 likes - 231 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,157,525 likes - 231 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 230 | [Radiant Rest](https://open.spotify.com/track/5AAU0OmE8fl8VUvbpwAysX) | [Estralogic](https://open.spotify.com/artist/2dUNXGoOnNW3Zk6d7dzkJA) | [Radiant Rest](https://open.spotify.com/album/0qz4bgqNefnDgdSwHkUKFW) | 2:41 |
 | 231 | [Glänta](https://open.spotify.com/track/75w6qH6tVL9yij3NrcLrys) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Glänta](https://open.spotify.com/album/5QCFXzAomqb6o4WcdsSIFJ) | 3:04 |
 
-Snapshot ID: `AAAAAHjatv30Jgn/rFmliID6RH0bmkhR`
+Snapshot ID: `AAAAANGxIMnToOs2LVgxY6AUcTc18Ybf`

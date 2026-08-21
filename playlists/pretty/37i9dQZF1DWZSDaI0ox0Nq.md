@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,573 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,575 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Argentígena](https://open.spotify.com/track/0ZchY9PPDrUCIexK7FxnOH) | [María Laura Antonelli](https://open.spotify.com/artist/5tr45vqk4m3wj3HoMYjI9I) | [Argentígena](https://open.spotify.com/album/4yRJ2W2Re3eeHGlQzI0soI) | 3:38 |
 | 55 | [Mi Buenos Aires Querido](https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [La Grela Quinteto de Tango](https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53) | [Mi Buenos Aires Querido](https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n) | 3:43 |
 
-Snapshot ID: `AAAAACOPMWVkyT00B35D4vEv4iPckZxI`
+Snapshot ID: `AAAAAKsIf0RDNHDgB0IGCtyjKTja1FGO`

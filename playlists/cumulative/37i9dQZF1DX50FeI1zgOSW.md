@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-850 songs - 2 day 0 hr 3 min
+851 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Knock Knock Kadhal](https://open.spotify.com/track/5oeyn2YL6TK7wyWEMqJLaT) | [Lavloop](https://open.spotify.com/artist/6CnYMMTCuoTkCGF5B71rHs) | [Knock Knock Kadhal](https://open.spotify.com/album/18CQKctTvOISTNAQOt84mi) | 4:18 | 2026-01-30 | 2026-05-21 |
 | [Kobama](https://open.spotify.com/track/1sJ5KxFAHrHIIPLa5rCqDV) | [Niranjan Pandian](https://open.spotify.com/artist/3aGnF6rGsN6tejUQLODWUN), [Bhoomika Selvaraj](https://open.spotify.com/artist/4u1sktFCR8p40GBp8VVL8o) | [Kobama](https://open.spotify.com/album/1GiaF2Fm8MI9q6H67OEJRz) | 4:28 | 2023-12-01 | 2024-07-30 |
 | [Kolgai](https://open.spotify.com/track/2ddgHxxDt9Az2sKRdADK6P) | [abhiraman](https://open.spotify.com/artist/4Pb98qT9JyD9JoyqOa1P0i), [Amita](https://open.spotify.com/artist/4co2MtdGrIPhs6lAF4ga54), [Shafi Ali](https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG) | [Kolgai](https://open.spotify.com/album/6cK1DFzQhlHo1ljifpQS1k) | 1:48 | 2025-02-17 | 2025-03-22 |
-| [Komberi Mookan](https://open.spotify.com/track/6MpnkvHePziltlQjyZFKzn) | [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO), [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u) | [Komberi Mookan](https://open.spotify.com/album/5KG0c8eWi2LGOYWWgxbXSZ) | 4:32 | 2026-04-30 |  |
+| [Komberi Mookan](https://open.spotify.com/track/6MpnkvHePziltlQjyZFKzn) | [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO), [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u) | [Komberi Mookan](https://open.spotify.com/album/5KG0c8eWi2LGOYWWgxbXSZ) | 4:32 | 2026-04-30 | 2026-08-21 |
 | [Konji Pesa](https://open.spotify.com/track/4rxltwAsWLvTN3mvMLxoc9) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [47seconds](https://open.spotify.com/artist/6zSpeGx3zxDEH4QxixbJn6) | [Konji Pesa](https://open.spotify.com/album/3OT4puDbCCHSZwv0CXbdSL) | 3:22 | 2025-07-18 | 2025-08-26 |
 | [Koothu](https://open.spotify.com/track/6tP9H2YghB2KaNdWZwlVTp) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Agappor](https://open.spotify.com/album/6AV0XvOWE51QL7LozwDy2T) | 1:48 | 2023-04-28 | 2023-10-04 |
 | [Kozhupurale](https://open.spotify.com/track/3Wlpc4581rrTf20EeyNuOY) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 2:54 | 2025-09-17 | 2025-11-06 |
@@ -688,6 +688,7 @@
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/13peKDjGU45w5yvKR8QvCC) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/7tO2sPQbhwj5KcHkyGKy99) | 3:27 | 2023-03-21 | 2023-09-26 |
 | [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-06-16 | 2023-11-16 |
 | [Thanga Magale](https://open.spotify.com/track/5dwCMKQcJodMO8rWFcuv7p) | [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w), [Srini Selvaraj](https://open.spotify.com/artist/3e7p6Qs8gwYezBhY1V2ypm) | [Thanga Magale](https://open.spotify.com/album/7usdwmLURTexL1nUdmnlmL) | 3:14 | 2023-11-10 | 2024-03-01 |
+| [Thanga Pulla](https://open.spotify.com/track/1e8xYPPk90iMfk55UyeFwW) | [Manojh Kumar M](https://open.spotify.com/artist/1te3MJZ3tJYeKWTbKObrLQ) | [Thanga Pulla](https://open.spotify.com/album/45BlTpcQHlcnQD3sz8kRkn) | 3:03 | 2026-08-20 |  |
 | [Thangapulla](https://open.spotify.com/track/517mBtRX7D3fnQDcDPQXY4) | [JEY](https://open.spotify.com/artist/3HBWkGUsqeYfxJAgGTB4CX) | [Thangapulla](https://open.spotify.com/album/6pZB09ZNIIdwmaeIEH16Qw) | 1:50 | 2023-09-25 | 2024-02-29 |
 | [THANIMAI](https://open.spotify.com/track/2cbQSnKC35zh2WwIXsPZeS) | [KS Rajasundar](https://open.spotify.com/artist/5Y8gKVEYQ3iybKGEfdXQnY), [KRN](https://open.spotify.com/artist/4Cx0jVrb0BdGvKblfoilWq), [Srini Sena](https://open.spotify.com/artist/0TtY3LMlpioYr0wXbJv5gc) | [THANIMAI](https://open.spotify.com/album/5jv354Q4cSzzchqaf6w7e0) | 3:43 | 2024-04-01 | 2024-09-10 |
 | [Thanimaye](https://open.spotify.com/track/1UYRiq5YQMU0zfUFsGGXzv) | [Adithya L](https://open.spotify.com/artist/1CHukNLdtUsorPxFfbtzIA) | [Thanimaye](https://open.spotify.com/album/3Pl9tWmqUMiq5UMpfWwa1W) | 3:28 | 2023-09-01 | 2024-02-13 |

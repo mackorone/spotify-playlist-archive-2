@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,936 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,934 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 100 | [Bouquet Of Roses](https://open.spotify.com/track/7oI3Fv5ODSXjG9za7fiV9W) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [B.W\. Goes C.W.](https://open.spotify.com/album/19y16Sf0U5Hx3KLjHQPE4H) | 2:45 |
 | 101 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 
-Snapshot ID: `AAAAAHmNcZSvxKjVQdfgfEQy5HVWisUn`
+Snapshot ID: `AAAAAClxwB7YA7pS9on1uP49/0XX9hFr`

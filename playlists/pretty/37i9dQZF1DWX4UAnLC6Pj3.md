@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Marca MP 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,616 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,619 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 55 | [Te Quiero Así](https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Un Día Como Hoy](https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv) | 2:51 |
 | 56 | [Mil Heridas](https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Legado Coleccion 1 Regrabado](https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O) | 3:50 |
 | 57 | [Quisiera Rozar Tu Piel](https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Las Reglas Del Juego](https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ) | 2:51 |
-| 58 | [Lo Pasado Pisado](https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv) | [Lo Pasado Pisado](https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei) | 3:05 |
-| 59 | [Amor \(Bonus Track\)](https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Tu Ex Amigo](https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd) | 3:22 |
+| 58 | [Amor \(Bonus Track\)](https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Tu Ex Amigo](https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd) | 3:22 |
+| 59 | [Lo Pasado Pisado](https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv) | [Lo Pasado Pisado](https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei) | 3:05 |
 | 60 | [No Me Vuelvo Enamorar](https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [No Me Vuelvo Enamorar](https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu) | 2:36 |
 | 61 | [El Recuerdo Que Dejó](https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd), [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd) | [El Recuerdo Que Dejó](https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT) | 3:12 |
 | 62 | [Y Sigues Siendo Tú](https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Sigues Siendo Tú](https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd) | 2:42 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 68 | [ME DERRITO \- Banda](https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [ME DERRITO \(Banda\)](https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w) | 2:59 |
 | 69 | [Ebrio de amor](https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Ebrio de amor](https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV) | 3:08 |
 | 70 | [Hermosísimo Lucero](https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Hermosísimo Lucero](https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf) | 2:11 |
-| 71 | [Todo Que Ver](https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Todo Que Ver](https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV) | 3:05 |
-| 72 | [Mi Gallo](https://open.spotify.com/track/2QI9b2TU9qCRBTSYkGyCEi) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Mi Gallo](https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z) | 3:28 |
+| 71 | [Mi Gallo](https://open.spotify.com/track/2QI9b2TU9qCRBTSYkGyCEi) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Mi Gallo](https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z) | 3:28 |
+| 72 | [Todo Que Ver](https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Todo Que Ver](https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV) | 3:05 |
 | 73 | [Cariñito \- Live](https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Cariñito \(Live\)](https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw) | 3:50 |
 | 74 | [Piel de Azúcar](https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m) | [Edwin Garcia](https://open.spotify.com/artist/53kZNnikATba328qm2oHyF) | [Piel de Azúcar](https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih) | 2:56 |
 | 75 | [Se Nos Acabó El Amor](https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc) | [Banda Playa Grande](https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0) | [Se Nos Acabó El Amor](https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI) | 3:36 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 79 | [Coleccionando Heridas](https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7), [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Coleccionando Heridas](https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P) | 3:21 |
 | 80 | [Contigo Aprendí a Amar](https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB) | [Banda El Terre De Jerez](https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1) | [Contigo Aprendí a Amar](https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX) | 4:27 |
 | 81 | [Ya no Vivo por Vivir](https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ) | [Brazeros Musical De Durango](https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC) | [Ya no Vivo por Vivir](https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq) | 3:33 |
-| 82 | [Reproches Al Viento](https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno) | [Los Ex de la Banda](https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND) | [Reproches Al Viento](https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj) | 3:33 |
-| 83 | [Se Me Salió Una Lagrimita](https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Se Me Salió Una Lagrimita](https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr) | 2:45 |
+| 82 | [Se Me Salió Una Lagrimita](https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Se Me Salió Una Lagrimita](https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr) | 2:45 |
+| 83 | [Reproches Al Viento](https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno) | [Los Ex de la Banda](https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND) | [Reproches Al Viento](https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj) | 3:33 |
 | 84 | [Quién te entiende](https://open.spotify.com/track/6ZYufYYNZ18mWo1ogJQaYx) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Quién te entiende](https://open.spotify.com/album/1JkjGZwM13QmiR4HceYBzQ) | 3:16 |
 | 85 | [El secuestro del cachorro \- En Vivo](https://open.spotify.com/track/5vRXMsQS8lVlscTZarrMP3) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Banda la Única del Rancho](https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU) | [La Revancha Vol.2 \(En Vivo\)](https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq) | 3:24 |
 | 86 | [Como Me Haces Falta](https://open.spotify.com/track/26C8D69lTYNcxI3SY0sTLI) | [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK) | [Como Me Haces Falta](https://open.spotify.com/album/0ss7vkd2j4uJ13lKA3CSxW) | 4:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 96 | [Fuiste Mi Todo](https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH), [Israel Cienfuegos](https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y) | [Fuiste Mi Todo](https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP) | 2:26 |
 | 97 | [Tu Ex Amigo](https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Tu Ex Amigo](https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb) | 4:04 |
 
-Snapshot ID: `AAAAABKGs+LI6NgGc4EuAvpbktzFPvVR`
+Snapshot ID: `AAAAAFziuTOvkNWXqoGcjuw5qh7dIHg0`

@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 192212,
       "name": "Floette ft. John Glacier",
       "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
@@ -4648,7 +4648,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 260213,
       "name": "J\u00e1 perdeu",
       "url": "https://open.spotify.com/track/3VyJFbz6DJ6cG3VbcFLASV"
@@ -5408,6 +5408,24 @@
       "duration_ms": 162200,
       "name": "Maria Jorge",
       "url": "https://open.spotify.com/track/5HSqqe93kGPCiwPpREWXPg"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "album": {
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 224595,
       "name": "The light in the painting",
       "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
@@ -9148,6 +9166,24 @@
       "duration_ms": 176826,
       "name": "Tie you down",
       "url": "https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L"
+    },
+    {
+      "album": {
+        "name": "O Testamento do Tigre",
+        "url": "https://open.spotify.com/album/5tMnc3zxdh5TonYnsS405N"
+      },
+      "artists": [
+        {
+          "name": "A garota n\u00e3o",
+          "url": "https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213540,
+      "name": "Tigre III",
+      "url": "https://open.spotify.com/track/50ypYBFX2zduc4c8yDqN0Q"
     },
     {
       "album": {

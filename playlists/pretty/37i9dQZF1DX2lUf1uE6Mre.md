@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Luciano, Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,839 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,798 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 28 | [Miami](https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [Miami](https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE) | 2:19 |
 | 29 | [Bleib stark](https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Bleib stark](https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n) | 3:04 |
 | 30 | [Sonne über Berlin](https://open.spotify.com/track/2dw6tVaptSJwYvKK0hVrge) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Sonne über Berlin](https://open.spotify.com/album/27QReVTi8x2TlM819taRAq) | 2:32 |
-| 31 | [MON FRÈRE](https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv) | [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [MON FRÈRE](https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF) | 2:51 |
-| 32 | [Glastisch](https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Glastisch](https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw) | 2:51 |
+| 31 | [Glastisch](https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Glastisch](https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw) | 2:51 |
+| 32 | [MON FRÈRE](https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv) | [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [MON FRÈRE](https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF) | 2:51 |
 | 33 | [Meine Welt](https://open.spotify.com/track/00m8Dz5zDd1joPYxkHGKEl) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Meine Welt](https://open.spotify.com/album/3uCXw3zomzkSPHe9LX3HXB) | 2:29 |
 | 34 | [Love all night](https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Love all night](https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU) | 2:49 |
 | 35 | [WER BIST DU DENN?](https://open.spotify.com/track/0gKGWokeCq8WkXQB66ZSTw) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [WER BIST DU DENN?](https://open.spotify.com/album/4gHPTOO5l0tylL3GDBeOAB) | 2:27 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 70 | [KODEX](https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Kodex](https://open.spotify.com/album/7o0nZVcmciQEMApCgzwRkE) | 2:10 |
 | 71 | [AKRAPOVIC](https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [AKRAPOVIC](https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI) | 2:19 |
 | 72 | [To The Sky](https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [To The Sky](https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep) | 2:49 |
-| 73 | [VILLAIN](https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR) | [marlon](https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL) | [VILLAIN / EXCITING](https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df) | 2:16 |
-| 74 | [so einfach](https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [so einfach](https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M) | 2:07 |
+| 73 | [so einfach](https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [so einfach](https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M) | 2:07 |
+| 74 | [VILLAIN](https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR) | [marlon](https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL) | [VILLAIN / EXCITING](https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df) | 2:16 |
 | 75 | [Solo](https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Solo](https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP) | 2:20 |
 | 76 | [304](https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [4LAP](https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V) | 2:21 |
 | 77 | [GTS](https://open.spotify.com/track/3VKn4mxdxaQNm5Hc5h20BW) | [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [GTS](https://open.spotify.com/album/41BMJrVVmLUwZ3uAtUv27D) | 1:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 96 | [Planet](https://open.spotify.com/track/3jqrkCLNToczOkUbutDK2B) | [Berky](https://open.spotify.com/artist/2pMOrhY7Oit4TTRe6zEvJ2), [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [Planet](https://open.spotify.com/album/4AGuMclFqXQScBUF4OICPS) | 2:32 |
 | 97 | [BLOCKBABY](https://open.spotify.com/track/6U5tba39rJaXsFmknp2ONd) | [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp) | [BLOCKBABY](https://open.spotify.com/album/6jttmJEk3ELIrEvgQH36XW) | 2:12 |
 | 98 | [Familie](https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Familie](https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN) | 2:53 |
-| 99 | [Vollmond](https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [JUGGLERZ](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Vollmond](https://open.spotify.com/album/5R0nZ5Wweeme5DX3LNu3GY) | 2:27 |
-| 100 | [Heavyweight](https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY) | [Heavyweight](https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp) | 1:35 |
+| 99 | [Heavyweight](https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY) | [Heavyweight](https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp) | 1:35 |
+| 100 | [Vollmond](https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [JUGGLERZ](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Vollmond](https://open.spotify.com/album/5R0nZ5Wweeme5DX3LNu3GY) | 2:27 |
 
-Snapshot ID: `AAAAACqgcPCHmf2z+umUZTS///9rMsz+`
+Snapshot ID: `AAAAAPPQZDZFUHQotIwA4JgDCTHzcMzj`

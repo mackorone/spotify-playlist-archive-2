@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 8 hr 2 min
+148 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Moment With You](https://open.spotify.com/track/3hQHlu4SSbB37hrHAM2e83) | [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Moment With You \(feat\. Nova Tropics\)](https://open.spotify.com/album/5hWZZhkZJoBQ63d99QKhCS) | 2:43 | 2025-07-19 |  |
 | [More Than You \- Orchestra Version](https://open.spotify.com/track/0z9RDvy9eKlZftLGfD21hC) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [More Than You \(Orchestra Version\)](https://open.spotify.com/album/14V8LieonDK5IiEvKu6XCY) | 3:26 | 2024-06-13 | 2025-04-17 |
 | [More Than You \- Orchestra Version](https://open.spotify.com/track/6BvQD7I7zthv6riTie3T7l) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Wind Down Routine 040](https://open.spotify.com/album/2SgSDZ2Pc3d5nxkNcH2FF9) | 3:26 | 2025-04-16 |  |
+| [Mother Knows](https://open.spotify.com/track/6Qb0qxeXa3LzDvlGLsIXFM) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Mother Knows](https://open.spotify.com/album/6kqoJkb50m3pV2H7ybYJzm) | 3:05 | 2026-08-20 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5j78Z4yl0xJ4g3eTkryqen) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/6qpZvIqLVMoqwp1z67VVJD) | 3:23 | 2024-06-13 |  |
 | [Need You Now \- From "A Million Little Things: Season 2"](https://open.spotify.com/track/2L7NVGbpaotvB6fR3JcslU) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Need You Now \(From "A Million Little Things: Season 2"\)](https://open.spotify.com/album/5y8zj5nXNRADYpEQyWMbbV) | 3:29 | 2024-06-13 |  |
 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 | 2024-06-13 |  |

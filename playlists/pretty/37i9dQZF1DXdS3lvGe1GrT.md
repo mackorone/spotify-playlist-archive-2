@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,519 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,609 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [i've never been in love](https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [Common Holly](https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk) | [the end is a wave](https://open.spotify.com/album/4OsMPyGaxzsUrU7eBzbP9f) | 3:50 |
-| 2 | [Lay Down Your Cards](https://open.spotify.com/track/2lX9duK6llhtN7pRTuZjTa) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30), [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Lay Down Your Cards](https://open.spotify.com/album/7EtNGsZoiEXxXUMZtdhpiA) | 3:02 |
-| 3 | [Carol / not carol](https://open.spotify.com/track/5q94hPY3GrjhCUet14nIdl) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Carol / not carol](https://open.spotify.com/album/1gDhE3043O3EnYRZR4f0wi) | 4:21 |
-| 4 | [Salami](https://open.spotify.com/track/7kb5f5KOA5IFNUP1ZywIqo) | [Maya Donovan](https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX) | [Ceremony](https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ) | 3:37 |
-| 5 | [Ghost Lives](https://open.spotify.com/track/2diVSumIYeijG80qjMMKRH) | [Theo Kandel](https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q) | [Ghost Lives](https://open.spotify.com/album/2G1qtvEz2qdTI5s3A0BZgh) | 3:46 |
-| 6 | [Three Reds](https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Three Reds](https://open.spotify.com/album/1TORmjib416bF532Zsd0rL) | 3:52 |
-| 7 | [Night Fright](https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY) | [Biita Houdei](https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3) | [Night Fright](https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml) | 3:56 |
-| 8 | [Multiform](https://open.spotify.com/track/2bmiqYmS6rhfbUEUCXKueV) | [Coco Smith](https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E) | [You Won't Get My Message but You'll Hear It](https://open.spotify.com/album/5e3rEnZ6u57bMgXulTZ2xB) | 3:18 |
-| 9 | [OBL](https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [OBL](https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu) | 4:04 |
+| 1 | [Lay Down Your Cards](https://open.spotify.com/track/2lX9duK6llhtN7pRTuZjTa) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30), [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Lay Down Your Cards](https://open.spotify.com/album/7EtNGsZoiEXxXUMZtdhpiA) | 3:02 |
+| 2 | [Carol / not carol](https://open.spotify.com/track/5q94hPY3GrjhCUet14nIdl) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Carol / not carol](https://open.spotify.com/album/1gDhE3043O3EnYRZR4f0wi) | 4:21 |
+| 3 | [Salami](https://open.spotify.com/track/7kb5f5KOA5IFNUP1ZywIqo) | [Maya Donovan](https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX) | [Ceremony](https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ) | 3:37 |
+| 4 | [Ghost Lives](https://open.spotify.com/track/2diVSumIYeijG80qjMMKRH) | [Theo Kandel](https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q) | [Ghost Lives](https://open.spotify.com/album/2G1qtvEz2qdTI5s3A0BZgh) | 3:46 |
+| 5 | [Three Reds](https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Three Reds](https://open.spotify.com/album/1TORmjib416bF532Zsd0rL) | 3:52 |
+| 6 | [Night Fright](https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY) | [Biita Houdei](https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3) | [Night Fright](https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml) | 3:56 |
+| 7 | [Multiform](https://open.spotify.com/track/2bmiqYmS6rhfbUEUCXKueV) | [Coco Smith](https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E) | [You Won't Get My Message but You'll Hear It](https://open.spotify.com/album/5e3rEnZ6u57bMgXulTZ2xB) | 3:18 |
+| 8 | [OBL](https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [OBL](https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu) | 4:04 |
+| 9 | [i've never been in love](https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [Common Holly](https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk) | [the end is a wave](https://open.spotify.com/album/4OsMPyGaxzsUrU7eBzbP9f) | 3:50 |
 | 10 | [Sometimes I Think About You](https://open.spotify.com/track/0Sqlzv37E6nqOm6WVkv3Zn) | [Z Pocket](https://open.spotify.com/artist/1A0h9VcEvbimvAucnSZ4rV) | [Music For Best Friends](https://open.spotify.com/album/0VsbisroWrnWkteopzOyrz) | 3:00 |
 | 11 | [long way home](https://open.spotify.com/track/6uHtF3g68x3Mwj0xBmPh0n) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [winner \(deluxe edition\)](https://open.spotify.com/album/3Gv0nXcKGHYSjywqQMdyKV) | 2:26 |
 | 12 | [Wandering Arrow](https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic) | [Curiosity Shop](https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy) | [Wandering Arrow](https://open.spotify.com/album/6uTEoaDoCkx0x8XB1AAnGv) | 3:21 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 73 | [Six String](https://open.spotify.com/track/4NKSMuM0rG4FN6CwPjXHQM) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Six String](https://open.spotify.com/album/5v6BHPf3ikQi9d4kFih5PB) | 3:11 |
 | 74 | [Virginia Pastoral](https://open.spotify.com/track/6QVqAns8QLt0ykYY7Z27Jc) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [The Crowning](https://open.spotify.com/album/5RKs56AFtKc48TwoMk6620) | 3:32 |
 
-Snapshot ID: `AAAAAAQ8WkhHlcEMQWJYXbBFRqEtZO5x`
+Snapshot ID: `AAAAAEGv64eGXzO/5VmfT/V3uOH/giv3`

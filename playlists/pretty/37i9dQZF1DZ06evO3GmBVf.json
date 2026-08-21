@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 217862,
+  "num_followers": 217874,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABVl3TvTIoiXt04+t+iNw/Y",
+  "snapshot_id": "aoTyAAAAAACRrvRzXszm2adf8wC9xF23",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 189250,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flaco Pesado (Remix)",
         "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 227631,
       "name": "Flaco Pesado (Remix)",
       "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,
@@ -983,42 +983,6 @@
       "duration_ms": 374571,
       "name": "Todo x Nada",
       "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Fiest\u00f3n",
-        "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "El Fiest\u00f3n",
-      "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
     }
   ],
   "unique_name": "This Is Lefty Sm",

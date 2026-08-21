@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu sedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1200125,
+  "num_followers": 1200094,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCmtpa0nhmkJJ5HhPKpLThINuiD",
+  "snapshot_id": "AAAAAEsmKOuIZAZ4AeKc7lT1pElgogQl",
   "tracks": [
     {
       "added_at": "2026-05-01 01:20:26",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-01 01:20:26",
       "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Menjaga Hati",
-      "url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH"
-    },
-    {
-      "added_at": "2026-05-01 01:20:26",
-      "album": {
         "name": "Paradoks",
         "url": "https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 191950,
       "name": "Rahasia Hati",
       "url": "https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM"
+    },
+    {
+      "added_at": "2026-05-01 01:20:26",
+      "album": {
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Menjaga Hati",
+      "url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH"
     },
     {
       "added_at": "2026-05-01 01:20:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: kiddotin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040,406 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040,202 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Purgatoryo](https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Purgatoryo](https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0) | 2:15 |
 | 50 | [TATLONG WIFE](https://open.spotify.com/track/7MzcwGTPU2tRfv3UzTnwRJ) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [TATLONG WIFE](https://open.spotify.com/album/7pFGDyfyee6wvmw7auQQ0F) | 1:58 |
 
-Snapshot ID: `AAAAAHAhHM4o1BtheR/REguGDsGdxQNZ`
+Snapshot ID: `AAAAAPPsmAz9a/WnRfvdn82plVhTBqCE`

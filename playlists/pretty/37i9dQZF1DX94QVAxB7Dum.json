@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 829183,
+  "num_followers": 829242,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOBocNsVA2dvB+Fe32L+U/Zmgfib",
+  "snapshot_id": "AAAAAFkseG6Y7OcugavzU6hD5h5tCbOR",
   "tracks": [
     {
       "added_at": "2024-07-02 22:47:47",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "The Very Best Of William Bell",
         "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 242506,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
     },
     {
       "added_at": "2024-07-02 22:47:47",

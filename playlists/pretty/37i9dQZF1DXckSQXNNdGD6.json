@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Amor L\u00edquido.",
-  "num_followers": 22905,
+  "num_followers": 22915,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGYwNUI8xT/x/rGauLUiOdHnC0t",
+  "snapshot_id": "AAAAABdEgcwJvE/m1H3Sd/keZeHDroqE",
   "tracks": [
     {
       "added_at": "2026-08-10 22:00:36",
@@ -639,22 +639,18 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "21 de enero",
-        "url": "https://open.spotify.com/album/75Rwbds79sTzF4BLxH5stI"
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
       },
       "artists": [
         {
-          "name": "Ana Farelo",
-          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
-        },
-        {
-          "name": "M\u00eda Berl\u00edn",
-          "url": "https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 173076,
-      "name": "21 de enero",
-      "url": "https://open.spotify.com/track/6bN2gia9DIeUImuOuQDwH8"
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-08-10 22:00:36",
@@ -675,18 +671,22 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
+        "name": "21 de enero",
+        "url": "https://open.spotify.com/album/75Rwbds79sTzF4BLxH5stI"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        },
+        {
+          "name": "M\u00eda Berl\u00edn",
+          "url": "https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX"
         }
       ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
+      "duration_ms": 173076,
+      "name": "21 de enero",
+      "url": "https://open.spotify.com/track/6bN2gia9DIeUImuOuQDwH8"
     },
     {
       "added_at": "2026-08-10 22:00:36",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-08-10 22:00:36",
       "album": {
-        "name": "GORGONA",
-        "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Mujer\u00f3n",
-      "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
-    },
-    {
-      "added_at": "2026-08-10 22:00:36",
-      "album": {
         "name": "El Destello",
         "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 160684,
       "name": "El Destello",
       "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
+    },
+    {
+      "added_at": "2026-08-10 22:00:36",
+      "album": {
+        "name": "GORGONA",
+        "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
     },
     {
       "added_at": "2026-08-10 22:00:36",

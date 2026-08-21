@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 203815,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/3AONiqYdMZ3kYKCUAaODZv"
@@ -1874,6 +1874,24 @@
       "duration_ms": 148571,
       "name": "Calling",
       "url": "https://open.spotify.com/track/7xknfaFSBK5lKPWJuTidW5"
+    },
+    {
+      "album": {
+        "name": "Calling Me",
+        "url": "https://open.spotify.com/album/2MqG9x4guev6QaA81GsgdB"
+      },
+      "artists": [
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190945,
+      "name": "Calling Me",
+      "url": "https://open.spotify.com/track/5Y9cG6hrxIMkTGni30CIhg"
     },
     {
       "album": {
@@ -2868,6 +2886,28 @@
       "duration_ms": 182543,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a"
+    },
+    {
+      "album": {
+        "name": "Dey With Me",
+        "url": "https://open.spotify.com/album/5MksVoxutqJuEPoUqW191D"
+      },
+      "artists": [
+        {
+          "name": "NW.FRGVN",
+          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+        },
+        {
+          "name": "Blesside",
+          "url": "https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109518,
+      "name": "Dey With Me",
+      "url": "https://open.spotify.com/track/3RsuXvFRSdYeQJP4nUHyit"
     },
     {
       "album": {
@@ -13596,6 +13636,24 @@
       "duration_ms": 323076,
       "name": "What More",
       "url": "https://open.spotify.com/track/3sZpoD3qr89HOJORDAO02s"
+    },
+    {
+      "album": {
+        "name": "What shall I Render (YHWH)",
+        "url": "https://open.spotify.com/album/6wwki3MDUYmxJsr29bwksv"
+      },
+      "artists": [
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138556,
+      "name": "What shall I Render (YHWH)",
+      "url": "https://open.spotify.com/track/51PKN5drpFUmY1cOfc1uY3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65679,
+  "num_followers": 65683,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAB8F+QiIe6pKSEqvakwzDHZ",
+  "snapshot_id": "aoTyAAAAAABCXbv2c/DCcyFyddRIAdkP",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On My Way.",
         "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 187331,
       "name": "On My Way.",
       "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 162000,
-      "name": "I'd Do Anything For You",
-      "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
+      "duration_ms": 144008,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1QOsiJuZjJI7febiK6WjVA"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 144008,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/1QOsiJuZjJI7febiK6WjVA"
+      "duration_ms": 162000,
+      "name": "I'd Do Anything For You",
+      "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
     },
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: Midnight Grand Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,501 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,500 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [生活](https://open.spotify.com/track/4Nmki31FGggNIRruzEDU7r) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [生活](https://open.spotify.com/album/6vwrGmSQjnbV8BYBxQF6nB) | 4:58 |
 | 70 | [∞劣等星](https://open.spotify.com/track/3M69EtAKB8T0MBWyKHvxK4) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [∞劣等星](https://open.spotify.com/album/58nziDn890SKqaJdgs6DVr) | 3:04 |
 
-Snapshot ID: `AAAAAJx+YENnVEdn2+3yrDr8NEE/kI8q`
+Snapshot ID: `AAAAAD4HKcSFsdMeC8wnqZJLVXr0iRRg`

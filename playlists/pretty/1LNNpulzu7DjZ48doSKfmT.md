@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 365 songs - 19 hr 8 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 382 songs - 19 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -373,5 +373,22 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 363 | [Make Believe](https://open.spotify.com/track/76omlwBeYP3reKPhIMlDcB) | [Don Oyster](https://open.spotify.com/artist/4lOzeAqWH62k26Myk9xSNN) | [Make Believe](https://open.spotify.com/album/0gsvtNwXe8v3FkIuRIhnry) | 1:52 |
 | 364 | [Tarde Demais](https://open.spotify.com/track/1pUsLM8hPrVSZG8IepAROX) | [SECULA](https://open.spotify.com/artist/454r38dyHssBuCDmC5RuGf) | [Tarde Demais](https://open.spotify.com/album/3g6ck4FM6HbRu6nLdZBpiH) | 4:14 |
 | 365 | [All Nights Reserved](https://open.spotify.com/track/1W0PEM6m8tw84KzZ7Bj0H3) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:21 |
+| 366 | [BADDIE](https://open.spotify.com/track/2ok8gPYZaLX9qwbkN7B3Vs) | [King Gret](https://open.spotify.com/artist/0RDRJ7zpUc2jIoXfGEGNSd) | [LET’s EAT](https://open.spotify.com/album/2crZqLh32NUgVDHPlRL8be) | 2:31 |
+| 367 | [Motion](https://open.spotify.com/track/2avNdE3P1OjYp9Z8nQTkNw) | [King Gret](https://open.spotify.com/artist/0RDRJ7zpUc2jIoXfGEGNSd) | [Blunt Therapy 2](https://open.spotify.com/album/79Z86dek3ixz8kwMa5TvBg) | 2:54 |
+| 368 | [You didn't think you'd feel a thing](https://open.spotify.com/track/1apA7UyWhsWmeKCeK8vqWa) | [BRAI](https://open.spotify.com/artist/6DSKHtafh3x6o2DvDouNEt) | [CTRL+ALT+FEEL](https://open.spotify.com/album/21DRcNjWEQWlbMW1fPg9RV) | 3:03 |
+| 369 | [Echoes of us](https://open.spotify.com/track/6Xc29li7V1e61RJu1P8C6G) | [Davit Case](https://open.spotify.com/artist/6gfxKpKhcoU4CGdJ9Nc23H) | [Echoes of us](https://open.spotify.com/album/0tKAmmCf9wHCsouHo82ofI) | 2:43 |
+| 370 | [MADERA DE ROBLE](https://open.spotify.com/track/40DtYjYWM1S1xzbaqerK3j) | [YWES VETERANO](https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m), [EMEKA](https://open.spotify.com/artist/58tBj3en7pGm3RXLiYBrGj), [MARVIN](https://open.spotify.com/artist/7GBSkjpTtcPvPZmGu5GfCd) | [MADERA DE ROBLE](https://open.spotify.com/album/7aWCOPx3bfvYQefz60q2fG) | 2:26 |
+| 371 | [The Raccoon in My Yard](https://open.spotify.com/track/2oYq7f3o3tffKaLyEnlYHT) | [jogoskaiser](https://open.spotify.com/artist/7IAnvFtMsXjV1E2x9i6BBJ) | [The Raccoon in My Yard](https://open.spotify.com/album/0ZtSklTCoQLJvSQEW6eOEq) | 1:49 |
+| 372 | [Gravity \- Funky Remix](https://open.spotify.com/track/6EtK5C6vuGc6oYRZUC9SO3) | [Positronic](https://open.spotify.com/artist/6rDrqNMSUbW114j0HBKK6t) | [Gravity \(Funky Remix\)](https://open.spotify.com/album/4mApFau1oPjOzUkRnrp2Gc) | 4:30 |
+| 373 | [Get loose](https://open.spotify.com/track/1AN8TSSC3dPq08MixMXeXN) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw) | [Get loose](https://open.spotify.com/album/4npCeHL6WtjmOLum0eaIVz) | 3:25 |
+| 374 | [Archives](https://open.spotify.com/track/4c37BJHfOGBXzcv6MW9aWr) | [M'zayy](https://open.spotify.com/artist/1Ao44nmk3hu11f1JF7VEqW) | [Against The Algorithm](https://open.spotify.com/album/0WcN9LkY6X2O29YhUEzb4m) | 1:55 |
+| 375 | [Batmanatolian](https://open.spotify.com/track/50mPT0UC1Rn1v4xKNMjRaZ) | [Civaninho](https://open.spotify.com/artist/37YM7BWdkLPsGFQlsx73h1) | [Batmanatolian \- \(Deluxe Edition\)](https://open.spotify.com/album/5FtVwwOx8H3XIaO6sK8JQI) | 3:22 |
+| 376 | [From This Height](https://open.spotify.com/track/63xS1t0I37bDRVnoXOcOsX) | [Neon the Bishop](https://open.spotify.com/artist/2Sq4yDPC8Dbr2JzsPWOfBt) | [From This Height](https://open.spotify.com/album/5CqUxuMDpvFDJF3iEAcSN3) | 2:44 |
+| 377 | [Evolving](https://open.spotify.com/track/6CaRpsX1ADOKkLgQf6QZWq) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [Swell Fellow](https://open.spotify.com/artist/3M1JXFJCHoTm0hzU46Lrc5) | [Evolving](https://open.spotify.com/album/6NYtwgykgqykifPTat5MXa) | 1:55 |
+| 378 | [Good Life](https://open.spotify.com/track/6q8hZ5omgLkZiMUk6qMOHR) | [Edubb302](https://open.spotify.com/artist/4RAK6pU0fLfwmaOwLvq33G) | [Good Life](https://open.spotify.com/album/0xj5DKqoFW3VcFbvtgU8Qu) | 2:28 |
+| 379 | [The Score](https://open.spotify.com/track/1RiwPh2ljcpqkXl9jKhp78) | [Azitius](https://open.spotify.com/artist/7dZU1Z4jX4Z3ZVsD03OEBI) | [The Score](https://open.spotify.com/album/5qw0Ql04sFga3lmO1raOy8) | 2:53 |
+| 380 | [Over and Over](https://open.spotify.com/track/0pz7gA2lZYFG2QgkvGee1b) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [Over and Over](https://open.spotify.com/album/4D7SVZNXbybYJwnv01i176) | 3:22 |
+| 381 | [Kiss & Ride](https://open.spotify.com/track/6Es8zUwiIuKGRlVzojHgNz) | [SCIALABADEI](https://open.spotify.com/artist/0hETC09dvKqqsNrhbqDNdT) | [Kiss & Ride](https://open.spotify.com/album/2s1897TRFFF6DhtGihxsvr) | 4:31 |
+| 382 | [Forever Young](https://open.spotify.com/track/3FO31MJ3vLS6Phgn7RMmny) | [Crispy Sounds](https://open.spotify.com/artist/2Mwu0Y0JYSk8ZrQBnXSifl) | [Forever Young](https://open.spotify.com/album/2NKvK2T5jX2Rsn7bMK8m42) | 3:05 |
 
-Snapshot ID: `AAAehlSjPHh4cMJain/Dlr/lilOES8/V`
+Snapshot ID: `AAAel3tvUxN4dXFbEzN//7vDSRK2d37i`

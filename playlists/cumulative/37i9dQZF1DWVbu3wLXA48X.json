@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: yung kai",
+  "description": "Current indie tunes from Asia and around the world. Cover: HYUKOH",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 313417,
       "name": "100,000",
       "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 162920,
       "name": "6 Years",
       "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 216994,
       "name": "Baby Driver",
       "url": "https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE"
@@ -4116,6 +4116,24 @@
       "duration_ms": 207430,
       "name": "Beckham",
       "url": "https://open.spotify.com/track/1AURVCpSSc7w88q9Fvxu4e"
+    },
+    {
+      "album": {
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
     },
     {
       "album": {
@@ -5390,7 +5408,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 183788,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
@@ -5726,6 +5744,24 @@
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+    },
+    {
+      "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "album": {
@@ -12825,6 +12861,24 @@
     },
     {
       "album": {
+        "name": "elmyra",
+        "url": "https://open.spotify.com/album/65y4iXOL3zrW1njXzX3yQj"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283386,
+      "name": "elmyra",
+      "url": "https://open.spotify.com/track/5pedzmyyKGTs8PV23dnvbc"
+    },
+    {
+      "album": {
         "name": "Em Trang Tr\u00ed",
         "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3"
       },
@@ -16940,7 +16994,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185998,
       "name": "Go Fuck Urself",
       "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
@@ -17078,6 +17132,24 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
+        "name": "Godspeed!",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Godspeed!",
+      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
     },
     {
       "album": {
@@ -19523,6 +19595,24 @@
     },
     {
       "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159906,
+      "name": "Hit The Sky",
+      "url": "https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht"
+    },
+    {
+      "album": {
         "name": "HMU",
         "url": "https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT"
       },
@@ -20278,6 +20368,24 @@
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
+    {
+      "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267588,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6"
     },
     {
       "album": {
@@ -22615,6 +22723,28 @@
     },
     {
       "album": {
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+    },
+    {
+      "album": {
         "name": "Indifference",
         "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
       },
@@ -23816,7 +23946,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207120,
       "name": "Just When I Thought",
       "url": "https://open.spotify.com/track/7LuchRu3iFNM0OxCaJ3jzs"
@@ -25648,7 +25778,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 271835,
       "name": "Lockup",
       "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
@@ -25944,6 +26074,24 @@
       "duration_ms": 190631,
       "name": "Loser at Best",
       "url": "https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat"
+    },
+    {
+      "album": {
+        "name": "losing",
+        "url": "https://open.spotify.com/album/3wCiKIdsK37rlymuaanCV7"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "losing",
+      "url": "https://open.spotify.com/track/3foBwRLT4JpfChHjJj2Ow0"
     },
     {
       "album": {
@@ -26672,7 +26820,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 154562,
       "name": "lts here",
       "url": "https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL"
@@ -27395,6 +27543,24 @@
     },
     {
       "album": {
+        "name": "Ballad of You",
+        "url": "https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253296,
+      "name": "Manphasickzuck",
+      "url": "https://open.spotify.com/track/590xpNtvmYv7EaNukmeEcY"
+    },
+    {
+      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/2yIKE7vkAxLWkdFKovD8R6"
       },
@@ -27435,6 +27601,24 @@
     },
     {
       "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
+    {
+      "album": {
         "name": "Mark on You",
         "url": "https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN"
       },
@@ -27464,7 +27648,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 218646,
       "name": "Marrying For Love",
       "url": "https://open.spotify.com/track/1ZnMLgyS075eOwZX5YLTkA"
@@ -27768,6 +27952,24 @@
       "duration_ms": 216756,
       "name": "MELISA",
       "url": "https://open.spotify.com/track/7gBXc7NLb6e6tBdb4dJPW7"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "album": {
@@ -36436,7 +36638,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 335650,
       "name": "Rock o\u2019 Stone",
       "url": "https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48"
@@ -38606,7 +38808,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 232000,
       "name": "Silent Killer",
       "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
@@ -38810,6 +39012,24 @@
       "duration_ms": 409306,
       "name": "Sin",
       "url": "https://open.spotify.com/track/5k59VaLMbV9UsrEPasU5me"
+    },
+    {
+      "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/4baDwYsoKb6oVIftkoQGn1"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112793,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/3OnSXB53ZJJpjvyPJOgawp"
     },
     {
       "album": {
@@ -39842,7 +40062,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 262146,
       "name": "Soft Cover",
       "url": "https://open.spotify.com/track/4mOw9VUFVoDaY8TNdDUYgs"
@@ -45545,6 +45765,24 @@
     },
     {
       "album": {
+        "name": "This and That",
+        "url": "https://open.spotify.com/album/2GHpkTjWIlzkHSOE8HnzIZ"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "This and That",
+      "url": "https://open.spotify.com/track/13c64od8WGLypIJIlTivOM"
+    },
+    {
+      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
       },
@@ -45736,7 +45974,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 201987,
       "name": "Through The Heather",
       "url": "https://open.spotify.com/track/3GRGLRoEf6fWvGa8cbu0ol"
@@ -47361,6 +47599,24 @@
     },
     {
       "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
+    },
+    {
+      "album": {
         "name": "Uncolor",
         "url": "https://open.spotify.com/album/1fvAfZazn45UvimgK7WAmj"
       },
@@ -48188,7 +48444,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 454586,
       "name": "Virginia",
       "url": "https://open.spotify.com/track/0ChJIxlacjYmgrCf5O3xku"

@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87511,
+      "name": "Doralice - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2WHarQLA77Tbxa257meORW"
+    },
+    {
+      "album": {
         "name": "Jo\u00e3o Voz E Viol\u00e3o",
         "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176173,
       "name": "Nao Vou Pra Casa",
       "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 107493,
       "name": "Saudade F\u00eaz Um Samba",
       "url": "https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J"
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 225733,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/0LS3cTpTm5zPTmBcyIDfOJ"

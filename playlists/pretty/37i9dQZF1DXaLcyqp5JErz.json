@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 666919,
+  "num_followers": 667032,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJbWr33u+9iRWzjoukTXOdjNWAL",
+  "snapshot_id": "AAAAAKtQkbFfph8EYGPhFukqz+TOuJFM",
   "tracks": [
     {
       "added_at": "2025-10-17 18:07:08",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/2VIRRMWFHQ2sfHBqIn0FDb"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 369331,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/7nR5GkbEHay6T6zuZOkYge"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 304973,
       "name": "Te Agrade\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/2VIRRMWFHQ2sfHBqIn0FDb"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 369331,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/7nR5GkbEHay6T6zuZOkYge"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        }
-      ],
-      "duration_ms": 289726,
-      "name": "Abra\u00e7a-Me",
-      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 455106,
       "name": "Aclame ao Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "duration_ms": 289726,
+      "name": "Abra\u00e7a-Me",
+      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
     },
     {
       "added_at": "2025-10-17 18:07:08",

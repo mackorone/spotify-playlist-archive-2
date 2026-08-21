@@ -1,12 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1109332,
+  "num_followers": 1109438,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO76d2PEE8I8mHOsnEesJoJ1QYLS",
+  "snapshot_id": "AAAAAH60Ti+2/+3UBAY6/h8coR5A5yJ3",
   "tracks": [
     {
       "added_at": "2022-07-26 16:46:12",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Ocean Avenue",
-        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Ocean Avenue",
+        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Street Dogs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC"
+      },
+      "artists": [
+        {
+          "name": "Street Dogs",
+          "url": "https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Punk Rock And Roll",
+      "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "ROCKNROLL MACHINE",
         "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Street Dogs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC"
+        "name": "The Bronx (III)",
+        "url": "https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ"
       },
       "artists": [
         {
-          "name": "Street Dogs",
-          "url": "https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9"
+          "name": "The Bronx",
+          "url": "https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Punk Rock And Roll",
-      "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
+      "duration_ms": 235213,
+      "name": "Knifeman",
+      "url": "https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1279,22 +1295,6 @@
       "duration_ms": 153040,
       "name": "hollywood sucks//",
       "url": "https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "The Bronx (III)",
-        "url": "https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ"
-      },
-      "artists": [
-        {
-          "name": "The Bronx",
-          "url": "https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Knifeman",
-      "url": "https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Hello Exile",
-        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 244564,
-      "name": "Strain Your Memory",
-      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "A War Against You",
         "url": "https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 198400,
       "name": "Nothing Can Stop Me",
       "url": "https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Hello Exile",
+        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 244564,
+      "name": "Strain Your Memory",
+      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Titles",
-        "url": "https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
-          "name": "Red City Radio",
-          "url": "https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL"
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 183504,
-      "name": "Two Notes Shy of an Octave",
-      "url": "https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH"
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
     }
   ],
   "unique_name": "Skatepark Punks",

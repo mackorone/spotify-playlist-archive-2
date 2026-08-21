@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Charles Wesley Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,368 likes - 193 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,380 likes - 193 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 192 | [Drinkin' Alone](https://open.spotify.com/track/3Ni91Z7QsnmgEUwgdaVZV0) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Drinkin' Alone](https://open.spotify.com/album/5r1SZ8EYMUKGyyNX1qhKhT) | 4:14 |
 | 193 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 
-Snapshot ID: `AAAAAF16mL6P/opvR4iahj9GbMVR3OoI`
+Snapshot ID: `AAAAAKbjz4LVPn0s7bS/EgUduuRVb9Nc`

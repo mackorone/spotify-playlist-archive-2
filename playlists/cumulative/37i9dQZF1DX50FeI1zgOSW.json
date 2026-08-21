@@ -7688,7 +7688,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 272000,
       "name": "Komberi Mookan",
       "url": "https://open.spotify.com/track/6MpnkvHePziltlQjyZFKzn"
@@ -15078,6 +15078,24 @@
       "duration_ms": 194204,
       "name": "Thanga Magale",
       "url": "https://open.spotify.com/track/5dwCMKQcJodMO8rWFcuv7p"
+    },
+    {
+      "album": {
+        "name": "Thanga Pulla",
+        "url": "https://open.spotify.com/album/45BlTpcQHlcnQD3sz8kRkn"
+      },
+      "artists": [
+        {
+          "name": "Manojh Kumar M",
+          "url": "https://open.spotify.com/artist/1te3MJZ3tJYeKWTbKObrLQ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Thanga Pulla",
+      "url": "https://open.spotify.com/track/1e8xYPPk90iMfk55UyeFwW"
     },
     {
       "album": {

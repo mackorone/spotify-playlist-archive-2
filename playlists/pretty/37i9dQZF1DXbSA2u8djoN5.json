@@ -1,12 +1,12 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23507,
+  "num_followers": 23509,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGpU7JVy2uDkAR9tLEzIRsqvP5e1",
+  "snapshot_id": "AAAAAN3BvXe8Su1lpjQeQgwqAQzJ5UUp",
   "tracks": [
     {
       "added_at": "2026-08-13 21:00:11",
@@ -311,18 +311,26 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+        "name": "Tot Ce E Frumos",
+        "url": "https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE"
       },
       "artists": [
         {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        },
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
         }
       ],
-      "duration_ms": 159244,
-      "name": "Sunt fratii tai",
-      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+      "duration_ms": 221981,
+      "name": "Tot Ce E Frumos",
+      "url": "https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -403,26 +411,18 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Tot Ce E Frumos",
-        "url": "https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE"
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
       },
       "artists": [
         {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
-        },
-        {
-          "name": "Guess Who",
-          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
         }
       ],
-      "duration_ms": 221981,
-      "name": "Tot Ce E Frumos",
-      "url": "https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs"
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
       "added_at": "2026-08-13 21:00:11",

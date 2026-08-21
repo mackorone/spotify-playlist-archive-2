@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Maggie Rose",
-  "num_followers": 427647,
+  "num_followers": 427701,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyCZF7oF/T95Mipvl/pwG/9JB6h",
+  "snapshot_id": "AAAAAE5AhkO5+23/SzTiSf1yzq60ekrm",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:11",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Sushi and Coca-Cola",
         "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 157414,
       "name": "Sushi and Coca-Cola",
       "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
+        "name": "It's Been Too Long (Since I've Loved Someone)",
+        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "It's Been Too Long (Since I've Loved Someone)",
+      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
-        "name": "It's Been Too Long (Since I've Loved Someone)",
-        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "It's Been Too Long (Since I've Loved Someone)",
-      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Weekend Lover & Used To It",
-        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 221434,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Weekend Lover & Used To It",
+        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "Electric Fever",
-        "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
-      },
-      "artists": [
-        {
-          "name": "Them Vibes",
-          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
-        }
-      ],
-      "duration_ms": 227567,
-      "name": "Electric Fever",
-      "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Wait Til I Get Over",
         "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "Electric Fever",
+        "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
+      },
+      "artists": [
+        {
+          "name": "Them Vibes",
+          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
+        }
+      ],
+      "duration_ms": 227567,
+      "name": "Electric Fever",
+      "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "I Got A Lover",
-        "url": "https://open.spotify.com/album/409ODNlPOMWS16V3AlCY9T"
-      },
-      "artists": [
-        {
-          "name": "Kam Franklin",
-          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "I Got A Lover",
-      "url": "https://open.spotify.com/track/4P9kOpyeRrkzeDbDchWjnh"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Hey Mama",
         "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 193386,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "I Got A Lover",
+        "url": "https://open.spotify.com/album/409ODNlPOMWS16V3AlCY9T"
+      },
+      "artists": [
+        {
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "I Got A Lover",
+      "url": "https://open.spotify.com/track/4P9kOpyeRrkzeDbDchWjnh"
     },
     {
       "added_at": "2026-08-14 04:01:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-08-14 04:01:11",
       "album": {
-        "name": "The Dark Of The Morning EP",
-        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "When We Were On Fire",
-      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
-    },
-    {
-      "added_at": "2026-08-14 04:01:11",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 209360,
       "name": "Better Broken",
       "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
+    },
+    {
+      "added_at": "2026-08-14 04:01:11",
+      "album": {
+        "name": "The Dark Of The Morning EP",
+        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "When We Were On Fire",
+      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
     },
     {
       "added_at": "2026-08-14 04:01:11",

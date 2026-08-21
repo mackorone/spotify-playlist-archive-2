@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -5540,7 +5540,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"
@@ -9938,7 +9938,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 297213,
       "name": "It Blows My Mind",
       "url": "https://open.spotify.com/track/0vTYB6FL9N9VmgnlqZENig"
@@ -14622,7 +14622,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 200173,
       "name": "Pescadores de Ensenada",
       "url": "https://open.spotify.com/track/2FbGpWyPHVBFL9C35SGcMs"
@@ -18545,6 +18545,24 @@
     },
     {
       "album": {
+        "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/5CDQad1DaBcIZWTb99FXrb"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "That's My Man",
+      "url": "https://open.spotify.com/track/6mqqgrc6ePsLOrFOWPC5hq"
+    },
+    {
+      "album": {
         "name": "Cee-Lo Green... Is The Soul Machine",
         "url": "https://open.spotify.com/album/0wdleLMeNmGUHChsmx9svt"
       },
@@ -20576,7 +20594,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 201061,
       "name": "Whoa (feat. Pharrell Williams) - Remix",
       "url": "https://open.spotify.com/track/38wQVDEgYph2TE7o9ztioP"

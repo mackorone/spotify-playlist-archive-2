@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits! Cover: Diplo",
+  "description": "De beste dance hits! Cover: Robin Schulz & Waterm\u00e4t",
   "name": "360 Dance",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 113702,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179076,
       "name": "Beautiful Places",
       "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 166440,
       "name": "Dive Into Me",
       "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
@@ -1560,6 +1560,50 @@
       "duration_ms": 217674,
       "name": "Greece 2000 - Max Styler Rework",
       "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
+    },
+    {
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/17KyO8skBB8hQ4nI25mY3T"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Michael Amani",
+          "url": "https://open.spotify.com/artist/2NXXWnN62QbWBGoHCyKrTn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Hardcore Vibes",
+      "url": "https://open.spotify.com/track/6iN9kfzXNL0CB6ICAJsQRV"
     },
     {
       "album": {
@@ -3197,6 +3241,28 @@
     },
     {
       "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+    },
+    {
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW"
       },
@@ -3440,7 +3506,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 169241,
       "name": "One Night In Mykonos",
       "url": "https://open.spotify.com/track/1yfKPKAFn1T0WyhsJr1835"
@@ -3804,7 +3870,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207870,
       "name": "Rave Never Ends",
       "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
@@ -4507,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "Take It Slow (Bullit)",
+        "url": "https://open.spotify.com/album/5xIwMpVCiIrvWPBHmPVmOk"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176941,
+      "name": "Take It Slow (Bullit)",
+      "url": "https://open.spotify.com/track/3WrDF5bzGviLKHizs6yj8j"
+    },
+    {
+      "album": {
         "name": "Take My Mind",
         "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
@@ -4942,6 +5030,32 @@
       "duration_ms": 195707,
       "name": "Turn The Lights Off (AFROJACK Remix)",
       "url": "https://open.spotify.com/track/2rA4VTb4d3ELgJYr4H7BeT"
+    },
+    {
+      "album": {
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "album": {

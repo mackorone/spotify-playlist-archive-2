@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> youngs soundss 🥞 Blaue Blume på forsiden
+> Smøgmænd er unge knive 🎭
 
-454 songs - 23 hr 19 min
+455 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Overkill](https://open.spotify.com/track/2cKqnOnyn4m5ZCmShQxxzJ) | [MILA](https://open.spotify.com/artist/1kxYcDvkOzwczcvFlEBVwl) | [Overkill](https://open.spotify.com/album/4BZt0a3MXOMR4gpnLhujUM) | 2:44 | 2025-05-22 | 2025-05-30 |
 | [paper plane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 | 2025-09-04 | 2025-09-12 |
 | [PAPI](https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [PAPI](https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7) | 2:15 | 2025-07-10 | 2025-08-07 |
-| [passer på mit K](https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF) | [Klara Vibeke](https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby) | [passer på mit K](https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9) | 2:38 | 2026-06-19 |  |
+| [passer på mit K](https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF) | [Klara Vibeke](https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby) | [passer på mit K](https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9) | 2:38 | 2026-06-19 | 2026-08-21 |
 | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3) | [Aland Z](https://open.spotify.com/artist/5ac27Tra29pdLsxOZRddjm), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC) | 3:00 | 2025-09-25 | 2025-11-07 |
 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 | 2025-04-10 |  |
 | [plastikhjerte](https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [plastikhjerte](https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T) | 3:06 | 2025-01-23 | 2025-06-06 |
@@ -395,6 +395,7 @@
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
 | [TO OM NATTEN](https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd) | [Chukz](https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC) | [TO OM NATTEN](https://open.spotify.com/album/4YugKOIaP4dq24uqXYWAtI) | 2:07 | 2025-11-20 | 2026-02-06 |
+| [Track 5](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 | 2026-08-20 |  |
 | [Troede Det Var Os](https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Troede Det Var Os](https://open.spotify.com/album/7DqmAsltUZkIQNC60FJK2W) | 2:54 | 2026-05-28 | 2026-06-12 |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 | 2025-09-18 | 2026-03-06 |

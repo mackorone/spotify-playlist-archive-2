@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mumuzinho, KATSEYE, Froid, Simone Morena, Jota.pê,  Teresa Cristina, Rashid e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,773 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,534 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 54 | [Efeito do Álcool](https://open.spotify.com/track/5t9rSLqb5bgnLUJYhJusVb) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [BigJow](https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh), [Trak](https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe), [BAP](https://open.spotify.com/artist/6JfUkEGUtCVSsDMJrr3zYh), [ELLER](https://open.spotify.com/artist/2QDNG8xTZISEZrWghe0gq0) | [Efeito do Álcool](https://open.spotify.com/album/2e57f5ejFLi9Di6Tg46xKH) | 2:22 |
 | 55 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
 | 56 | [Me Despido](https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Me Despido](https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW) | 2:49 |
-| 57 | [GRWM](https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx) | [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS) | [É O Iguinho Da CT](https://open.spotify.com/album/1YtI1rFXKXmK4FBCMYyKhs) | 7:13 |
+| 57 | [GRWM](https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx) | [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS) | [É O Iguinho Da CT](https://open.spotify.com/album/1YtI1rFXKXmK4FBCMYyKhs) | 7:13 |
 | 58 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |
 | 59 | [Oração](https://open.spotify.com/track/3kiCdYLHMWhiT9krwsXN9v) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Pedrão MC](https://open.spotify.com/artist/4Rj1xCvqLRytes9pQJZO8n), [ZK Beats](https://open.spotify.com/artist/772Dxhq4j5Qlu8XJ8SeqJG) | [Oração](https://open.spotify.com/album/17Az8hM2dO57kr2aDIdpOw) | 3:17 |
 | 60 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 81 | [VANGUARDAH](https://open.spotify.com/track/3WMzulhqTgVNW2LBjVvm8N) | [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [VANGUARDAH](https://open.spotify.com/album/2gh6ojsYh7K7xpw3vhDiiN) | 3:07 |
 | 82 | [Monopólio Das Gostosas](https://open.spotify.com/track/5pQtycrKv2IxXx0RXIvB8H) | [Jenario Mc](https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa), [Abaddie](https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3) | [Monopólio Das Gostosas](https://open.spotify.com/album/2TH5NCqrndKoDlp9V2E9hW) | 3:09 |
 
-Snapshot ID: `AAAAAFR6tQBFWOVkDH7VOFOF2k6GzKM3`
+Snapshot ID: `AAAAAHNrl2EWLkDsN+OHdb9t7LX2odKl`

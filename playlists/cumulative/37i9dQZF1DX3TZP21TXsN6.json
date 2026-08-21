@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "BDLC, Dentalhon, Chrisjeboy en meer..",
+  "description": "Jc, Romano Santino, BDLC en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 171844,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/3yo0YifrOrqXSnY8HNVf6F"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 178838,
       "name": "Aquaplaning",
       "url": "https://open.spotify.com/track/73aDc3HlJ79Vrgq7hpJbXO"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 112447,
       "name": "Back voor je needs",
       "url": "https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 149538,
       "name": "BAD B'S & SHOTJES",
       "url": "https://open.spotify.com/track/0kgOTCTArXJfMdVvu6qaPb"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 112500,
       "name": "Buiten",
       "url": "https://open.spotify.com/track/5bGuY7nHhzEIUJbFqQyQ9T"
@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/07KHg4MG5lDqA3rWLxDZ2g"
+      },
+      "artists": [
+        {
+          "name": "DIM",
+          "url": "https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q"
+    },
+    {
+      "album": {
         "name": "Drunk In Love",
         "url": "https://open.spotify.com/album/1LesLGeixdb4rYYZA27JYi"
       },
@@ -3786,7 +3804,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 145454,
       "name": "Drunk In Love",
       "url": "https://open.spotify.com/track/3OUhJMDH1jlVTfe0wd3B7h"
@@ -4192,6 +4210,24 @@
       "duration_ms": 175810,
       "name": "Fall",
       "url": "https://open.spotify.com/track/5sug1YOaxIHjuuJLOGwUBL"
+    },
+    {
+      "album": {
+        "name": "Fata morgana",
+        "url": "https://open.spotify.com/album/3r6SoybuoXm6TpV05coF6V"
+      },
+      "artists": [
+        {
+          "name": "Romano Santino",
+          "url": "https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134870,
+      "name": "Fata morgana",
+      "url": "https://open.spotify.com/track/4vJSP4GSBOP0JQO0oD62Zq"
     },
     {
       "album": {
@@ -4656,6 +4692,24 @@
       "duration_ms": 126000,
       "name": "Geen Een Van Ze",
       "url": "https://open.spotify.com/track/0AbDf823EJzpZpTx1GXnxN"
+    },
+    {
+      "album": {
+        "name": "Geen Gedicht",
+        "url": "https://open.spotify.com/album/0AEUNq3yxBMdwFoDRCoCxV"
+      },
+      "artists": [
+        {
+          "name": "Casperr",
+          "url": "https://open.spotify.com/artist/1EzhBak6CiANVqE0lLeRwr"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "Geen Gedicht",
+      "url": "https://open.spotify.com/track/5VZ8kHIjed0nPZY0RpJuec"
     },
     {
       "album": {
@@ -5126,7 +5180,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 141467,
       "name": "Grindmode",
       "url": "https://open.spotify.com/track/1DgkkECXiTPdivUovw9Vqt"
@@ -5144,7 +5198,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 96000,
       "name": "Grote Back",
       "url": "https://open.spotify.com/track/4XacywqxO1Zqiex3gDfRsr"
@@ -5746,7 +5800,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 158297,
       "name": "HOE IK 'T DOE",
       "url": "https://open.spotify.com/track/2jXyQvhwidgE0JIsWpv5Q0"
@@ -5804,7 +5858,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172394,
       "name": "Hoelang",
       "url": "https://open.spotify.com/track/1q4YjSeskwHsABQzceWGv4"
@@ -6265,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/61FDAvH6H3NJSvbaEBRrnW"
+      },
+      "artists": [
+        {
+          "name": "Hendriks",
+          "url": "https://open.spotify.com/artist/5MXvJOVt68Xblvb81ZL2Ra"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117003,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/05pI1u9vnEPBNASwXKTO8a"
+    },
+    {
+      "album": {
         "name": "Toestand",
         "url": "https://open.spotify.com/album/4YogrwLA0r8NNOs1FamLQo"
       },
@@ -6390,6 +6462,24 @@
       "duration_ms": 132413,
       "name": "Jij Twijfelt",
       "url": "https://open.spotify.com/track/0KaBhFgSOivE823NU8pU86"
+    },
+    {
+      "album": {
+        "name": "JIJ WEET",
+        "url": "https://open.spotify.com/album/3SPzCGK2EfbeTZRxwT0yFK"
+      },
+      "artists": [
+        {
+          "name": "Jc",
+          "url": "https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182294,
+      "name": "JIJ WEET",
+      "url": "https://open.spotify.com/track/7CIJe4jbdObnCoc7R3xGnF"
     },
     {
       "album": {
@@ -6966,7 +7056,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 130084,
       "name": "Kom Ko",
       "url": "https://open.spotify.com/track/4HCdZTJ7zZRJoQudH4yL8X"
@@ -7630,7 +7720,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 200314,
       "name": "LIFE GAAT FAST",
       "url": "https://open.spotify.com/track/1Jj7i0iRp7AoMbZFjOCFaP"
@@ -8297,6 +8387,28 @@
     },
     {
       "album": {
+        "name": "Matje Vies",
+        "url": "https://open.spotify.com/album/4R0aHMXwIq9w909KoyxNwQ"
+      },
+      "artists": [
+        {
+          "name": "AangenaamBK",
+          "url": "https://open.spotify.com/artist/6KOuWujrKYQYnxrY3BwoCb"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Matje Vies",
+      "url": "https://open.spotify.com/track/7kYOl4HY4IgpcKphzxhs49"
+    },
+    {
+      "album": {
         "name": "Me Eige Beleid",
         "url": "https://open.spotify.com/album/1Pcuj2jdB4rWRSuCiQv35M"
       },
@@ -8334,7 +8446,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164210,
       "name": "Me Vader",
       "url": "https://open.spotify.com/track/66ymewmMQ9dklyuGruyRfc"
@@ -8552,7 +8664,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 166956,
       "name": "Midden in de Storm",
       "url": "https://open.spotify.com/track/0fsk6RxDSd12ET3vCAFske"
@@ -8940,7 +9052,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 117165,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1ZEvVN4HO11wmf566Utkji"
@@ -10910,7 +11022,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 129149,
       "name": "PTSS",
       "url": "https://open.spotify.com/track/3b99ZoNjPcuPYkzbvUiveQ"
@@ -11158,6 +11270,24 @@
       "duration_ms": 125000,
       "name": "RELAX",
       "url": "https://open.spotify.com/track/2oATxlELqGkzRDiEv3wkYX"
+    },
+    {
+      "album": {
+        "name": "Ren & Stimpy",
+        "url": "https://open.spotify.com/album/6CWS6wVOHWqbZA1vCi5a6z"
+      },
+      "artists": [
+        {
+          "name": "Dada 7x",
+          "url": "https://open.spotify.com/artist/3tsm4RW17sqEVfUPjIGb6K"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199518,
+      "name": "Ren & Stimpy",
+      "url": "https://open.spotify.com/track/0f4ebxJoebCa0CUfSB8UJ0"
     },
     {
       "album": {
@@ -11626,7 +11756,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 193412,
       "name": "Ski",
       "url": "https://open.spotify.com/track/5lRY5YVes9ZAs5XCgsdXoA"
@@ -11862,7 +11992,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 140307,
       "name": "Spenden",
       "url": "https://open.spotify.com/track/5iPw6v4NCBXOmZieHhHjuD"
@@ -12056,7 +12186,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172554,
       "name": "STRAAT RATJE - REMIX",
       "url": "https://open.spotify.com/track/5fJa3gonjXSLAT6sPrtBsA"
@@ -12996,7 +13126,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 145000,
       "name": "Trivela",
       "url": "https://open.spotify.com/track/4fjxPdqoaALSasdiIaUJKt"
@@ -14080,7 +14210,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168000,
       "name": "wesh",
       "url": "https://open.spotify.com/track/6TnWiHM9i2JPWCt9fLPXWv"
@@ -14256,7 +14386,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176666,
       "name": "Wie Niet Waagt",
       "url": "https://open.spotify.com/track/2atweV50Pjmp9syHhIGkGW"

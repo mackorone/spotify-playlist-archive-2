@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,955 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,970 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Devil in a Sleepin' Bag](https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:38 |
 | 50 | [Dream Chaser](https://open.spotify.com/track/2KbnXqhgfPQRq3fxoPu0C9) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 3:14 |
 
-Snapshot ID: `aoOggAAAAAB7asp1emWvLV7AcZFuO6yd`
+Snapshot ID: `aoTyAAAAAABqPRT69CXKJ0mzMawnggkn`

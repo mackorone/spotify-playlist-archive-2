@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: JAS",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: beabadoobee",
   "name": "me right now",
   "tracks": [
     {
@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "2MG",
+        "url": "https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127071,
+      "name": "2MG",
+      "url": "https://open.spotify.com/track/3fIY3qPEfdvUiD35HPbOtq"
+    },
+    {
+      "album": {
         "name": "2MS",
         "url": "https://open.spotify.com/album/2MsdWh9Jmo4SXXgVqqO5qG"
       },
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 101096,
       "name": "2x",
       "url": "https://open.spotify.com/track/6gY7aUuZ2vcWEB8ZLrrLrX"
@@ -9663,6 +9681,24 @@
     },
     {
       "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -16731,6 +16767,24 @@
     },
     {
       "album": {
+        "name": "dummes klavier",
+        "url": "https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4"
+      },
+      "artists": [
+        {
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199917,
+      "name": "dummes klavier",
+      "url": "https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef"
+    },
+    {
+      "album": {
         "name": "dunkelblau",
         "url": "https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm"
       },
@@ -23484,7 +23538,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 213035,
       "name": "Genauso allein",
       "url": "https://open.spotify.com/track/0bjarKTUb3IrD9yFuB4DKQ"
@@ -24382,7 +24436,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -27592,7 +27646,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 199354,
       "name": "Herz an Herz (mit verifiziert & KIARABABA)",
       "url": "https://open.spotify.com/track/6GqfbYHJi5svdPSXyfTGEW"
@@ -28468,7 +28522,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 493400,
       "name": "Holiday / Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo"
@@ -32068,6 +32122,28 @@
       "duration_ms": 185685,
       "name": "Intro (All That Matters)",
       "url": "https://open.spotify.com/track/6gMMLgxUm99rOZytHYKgQd"
+    },
+    {
+      "album": {
+        "name": "Inundauswendig",
+        "url": "https://open.spotify.com/album/0R7lKm7pMZHjdrY1UVcc02"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Inundauswendig",
+      "url": "https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq"
     },
     {
       "album": {
@@ -35816,6 +35892,24 @@
       "duration_ms": 163636,
       "name": "K\u00fcss mich",
       "url": "https://open.spotify.com/track/5cKOROElbZXQHLdKKlJ7eJ"
+    },
+    {
+      "album": {
+        "name": "K\u00fcss mich (Ivo Martin x Techno Mix)",
+        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140200,
+      "name": "K\u00fcss mich - (Ivo Martin x Techno Mix)",
+      "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
     },
     {
       "album": {
@@ -41284,6 +41378,24 @@
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "album": {
@@ -55414,7 +55526,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/6yitV90jE6KubBfcVxg0fb"
@@ -57532,7 +57644,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 126960,
       "name": "sommer",
       "url": "https://open.spotify.com/track/1IjKn6t23H2YAZnlWQqnQB"
@@ -57594,7 +57706,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 123950,
       "name": "SOMMER 218",
       "url": "https://open.spotify.com/track/070F9GBGdKgJx49yCKdMsA"
@@ -57860,6 +57972,28 @@
       "duration_ms": 182374,
       "name": "Sommerregen (Nimm meine Hand)",
       "url": "https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN"
+    },
+    {
+      "album": {
+        "name": "Sommersemester",
+        "url": "https://open.spotify.com/album/1irTeqVBOg0704NEEDTPHl"
+      },
+      "artists": [
+        {
+          "name": "MIDAN",
+          "url": "https://open.spotify.com/artist/42YC0yEUykvWFP5biYW4zI"
+        },
+        {
+          "name": "MICHI",
+          "url": "https://open.spotify.com/artist/11F4ZO6fZDv8H4UAH9V4zf"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127397,
+      "name": "Sommersemester",
+      "url": "https://open.spotify.com/track/0F5EohvdxjOjzjdqfsU9t4"
     },
     {
       "album": {
@@ -58672,7 +58806,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 155516,
       "name": "Spring",
       "url": "https://open.spotify.com/track/1gYhY6lBUobvFCB5klYJkL"
@@ -59288,7 +59422,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207424,
       "name": "sterne",
       "url": "https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT"
@@ -59904,7 +60038,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
@@ -61964,7 +62098,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
@@ -62849,6 +62983,24 @@
     },
     {
       "album": {
+        "name": "TIPICO!",
+        "url": "https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131493,
+      "name": "TIPICO!",
+      "url": "https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1"
+    },
+    {
+      "album": {
         "name": "TIPPS VON MIR",
         "url": "https://open.spotify.com/album/59l3DGO3ClmPgrX5pNssEL"
       },
@@ -63430,6 +63582,24 @@
       "duration_ms": 150599,
       "name": "Tracksuit Velours",
       "url": "https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE"
+    },
+    {
+      "album": {
+        "name": "Trance (Walk It Down)",
+        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161374,
+      "name": "Trance (Walk It Down)",
+      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
     },
     {
       "album": {
@@ -67004,6 +67174,24 @@
       "duration_ms": 122666,
       "name": "VV",
       "url": "https://open.spotify.com/track/1JO2pW8GgsoAMsQYZXk5Gb"
+    },
+    {
+      "album": {
+        "name": "vvm",
+        "url": "https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "vvm",
+      "url": "https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG"
     },
     {
       "album": {
@@ -71194,6 +71382,28 @@
       "duration_ms": 163359,
       "name": "Wo bist du",
       "url": "https://open.spotify.com/track/2UWuZkYZH9urjcC3UD4MtQ"
+    },
+    {
+      "album": {
+        "name": "Wo ist der DJ",
+        "url": "https://open.spotify.com/album/1qtnakc70LU3rza4lA4hAH"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161269,
+      "name": "Wo ist der DJ",
+      "url": "https://open.spotify.com/track/6GagT50zogqk5qzAPT6nVw"
     },
     {
       "album": {

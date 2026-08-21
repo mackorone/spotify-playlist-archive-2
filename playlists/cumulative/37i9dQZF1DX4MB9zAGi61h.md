@@ -2,7 +2,7 @@
 
 ### [Felted Piano](https://open.spotify.com/playlist/37i9dQZF1DX4MB9zAGi61h)
 
-> Close Mic, Muted Strings, Loud Hammers
+> Close Mic, Muted Strings
 
 80 songs - 3 hr 23 min
 

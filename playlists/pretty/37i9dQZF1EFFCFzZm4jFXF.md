@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 131 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 127 | [Scars](https://open.spotify.com/track/2SJv1I0qy3IGEERTcqRg2E) | [Bailey M](https://open.spotify.com/artist/1TIhisrXfEN9NqdalMWRn3) | [Scars](https://open.spotify.com/album/23hXENovDVDuaMyn3iDwFT) | 2:35 |
 | 128 | [Your Twilight](https://open.spotify.com/track/7HsrGGDmZrMfnbRyA2XMkr) | [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Your Twilight](https://open.spotify.com/album/5sIMic3WTMBZCwVGinynif) | 2:50 |
 | 129 | [Bring You Back To Life](https://open.spotify.com/track/41OUAgxqe5ZbmujCERvsVK) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:46 |
-| 130 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
-| 131 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
+| 130 | [Mother Knows](https://open.spotify.com/track/6Qb0qxeXa3LzDvlGLsIXFM) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Mother Knows](https://open.spotify.com/album/6kqoJkb50m3pV2H7ybYJzm) | 3:05 |
+| 131 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
+| 132 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcaBegAAAAA0Mhw6Pl6Oa1E2rZxGQGHz`
+Snapshot ID: `AcaHGgAAAADr16timnupnug7poXqPADU`

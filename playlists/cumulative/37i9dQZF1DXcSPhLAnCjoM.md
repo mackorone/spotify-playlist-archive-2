@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Frérot" de Jérémy Frerot est le Grand Hit de la semaine.
+> "Été avec toi" d'Adèle Castillon est le Grand Hit de la semaine.
 
-346 songs - 17 hr 40 min
+348 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 | 2024-01-11 | 2024-11-08 |
 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 | 2024-03-07 | 2024-04-26 |
 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-09-05 | 2025-01-31 |
+| [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 | 2026-08-20 |  |
 | [boomerang](https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [boomerang](https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY) | 2:57 | 2024-05-16 | 2024-07-05 |
 | [Bouquet final](https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Bouquet final](https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA) | 3:13 | 2025-06-26 | 2026-01-30 |
 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 | 2024-02-15 | 2024-03-22 |
@@ -46,7 +47,7 @@
 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 | 2024-07-25 | 2025-01-24 |
 | [Café froid](https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Café froid](https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G) | 3:20 | 2025-10-02 | 2026-01-15 |
 | [Capitaine \(feat\. Styleto\)](https://open.spotify.com/track/084wxZBvCg1vToPvQqqaow) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:33 | 2024-02-22 | 2024-04-05 |
-| [Capuche](https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé 2](https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB) | 3:22 | 2026-02-19 |  |
+| [Capuche](https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé 2](https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB) | 3:22 | 2026-02-19 | 2026-08-21 |
 | [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 | 2025-04-03 | 2025-09-27 |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 | 2024-10-04 |
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-09-28 | 2024-04-26 |
@@ -211,6 +212,7 @@
 | [Les jours qui restent](https://open.spotify.com/track/0frKjAjwE6M58Q6bmnesKk) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Les jours qui restent](https://open.spotify.com/album/1cc7KL70u0dacUY7Cog900) | 2:42 | 2024-08-22 | 2024-09-13 |
 | [Les jours qui restent](https://open.spotify.com/track/5a7xABOf6HTMIlNoQmaKIR) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [15h22](https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1) | 2:42 | 2024-09-26 | 2024-10-11 |
 | [Les longueurs \- Edit](https://open.spotify.com/track/5TH1qlhAzrCE2EgfJlkXAV) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Les longueurs \(Edit\)](https://open.spotify.com/album/6sPxIi31QDF9wq61tFA1C4) | 3:11 | 2024-04-18 | 2024-05-03 |
+| [Les nouveaux soleils \- Single Version](https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Les nouveaux soleils](https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z) | 3:58 | 2026-08-20 |  |
 | [Les petites gens \- Radio Edit](https://open.spotify.com/track/0xULefKNTqOSzZQK7CJznN) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:33 | 2023-10-05 | 2023-12-09 |
 | [Les visages et les odeurs](https://open.spotify.com/track/1wWlrjujdwAy7BC3EamVTU) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Les visages et les odeurs](https://open.spotify.com/album/5Jm4aY0hAgdP67HoSUSZwc) | 3:00 | 2023-12-07 | 2024-03-22 |
 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 | 2023-10-05 | 2024-06-07 |
@@ -255,7 +257,7 @@
 | [Origami](https://open.spotify.com/track/2aZzYnRRP6RNa6VVW1sNCl) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg), [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Origami](https://open.spotify.com/album/0lYIP2RbZuIay8OWZ0nPs7) | 2:34 | 2023-11-09 | 2024-05-17 |
 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 | 2025-10-02 | 2026-01-30 |
 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 | 2024-09-05 | 2024-11-08 |
-| [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/track/1grONqhU4gXxscprACJbzW) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk), [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze) | 2:55 | 2025-11-06 |  |
+| [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/track/1grONqhU4gXxscprACJbzW) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk), [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze) | 2:55 | 2025-11-06 | 2026-08-21 |
 | [Parapluie](https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Parapluie](https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF) | 2:56 | 2023-09-28 | 2024-06-07 |
 | [Parce que c'est toi](https://open.spotify.com/track/3NUWfWIcH0V9tSEgjYjnEh) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Parce que c'est toi](https://open.spotify.com/album/4U5QfkHKfVZ3aQU0Z3Veb3) | 2:50 | 2023-09-28 | 2023-11-11 |
 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 | 2023-09-28 | 2024-03-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from Africa and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 2972,
+  "num_followers": 2987,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJ30rxcJBzq7lfS/I8kSYBUPcOM",
+  "snapshot_id": "AAAAAMTzrZthUBwcp8RRnQB4kLxga3rj",
   "tracks": [
     {
       "added_at": "2026-08-07 02:00:02",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Lookalike",
-        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
         "name": "OKAY!",
         "url": "https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 177882,
       "name": "OKAY!",
       "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
+        "name": "Lookalike",
+        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV"
+      },
+      "artists": [
+        {
+          "name": "Kaiya Gamble",
+          "url": "https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU"
+        },
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 166940,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
         "name": "Mellow Dramatic",
         "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 193125,
       "name": "UNGOWAM",
       "url": "https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV"
-      },
-      "artists": [
-        {
-          "name": "Kaiya Gamble",
-          "url": "https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU"
-        },
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 166940,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr"
     },
     {
       "added_at": "2026-08-07 02:00:02",

@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Kabza De Small
+> Proudly Southern African Afropop gems\. Cover: MaWhoo, Lwah Ndlunkulu
 
 767 songs - 2 day 6 hr 28 min
 

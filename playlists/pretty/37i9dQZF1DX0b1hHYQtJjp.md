@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,531 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,607 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 | 2 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
-| 3 | [Big Girls Don't Cry \(Fergie Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 |
+| 3 | [Big Girls Don't Cry \(Fergie Cover\) \[Spotify Live Room\]](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 |
 | 4 | [All American](https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [All American](https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M) | 3:48 |
 | 5 | [Remember Me](https://open.spotify.com/track/1eSlBcOg9ZnuEjGLGz9KOV) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Remember Me](https://open.spotify.com/album/64OMCk6mYA9ZC8PkO8YMTl) | 3:12 |
 | 6 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 78 | [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 |
 | 79 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 
-Snapshot ID: `AAAAAOmkTxDaf+oI0bj//h8Nc0W4Voo8`
+Snapshot ID: `AAAAAEiXNdaHwLIvXyW0WFtSRIyhEntu`

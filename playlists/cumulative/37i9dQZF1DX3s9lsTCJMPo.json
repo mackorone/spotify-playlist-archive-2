@@ -238,7 +238,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 292986,
       "name": "Big Belly Man",
       "url": "https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257921,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
+    },
+    {
+      "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 195400,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
@@ -2202,6 +2220,24 @@
       "duration_ms": 228260,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1iYrehoutxonyzhjF9Kx0e"
+    },
+    {
+      "album": {
+        "name": "Hello (Cover) (Spotify Carnival Sounds) [Live]",
+        "url": "https://open.spotify.com/album/2ETAX3MeEb29BW9PE4vHm0"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187530,
+      "name": "Hello (Cover) (Spotify Carnival Sounds) - Live",
+      "url": "https://open.spotify.com/track/5Vo5Bk8m47qcG6bi7poyMy"
     },
     {
       "album": {
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 214720,
       "name": "Jump",
       "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 216653,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Oe39YjfLgr9bPh7JG1j7V"
@@ -2830,6 +2866,40 @@
       "duration_ms": 176207,
       "name": "Like Yuh Self",
       "url": "https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC"
+    },
+    {
+      "album": {
+        "name": "Liki Tiki (Reggae Remix)",
+        "url": "https://open.spotify.com/album/3vu3P7k95GmGbcihFAPNf3"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250105,
+      "name": "Liki Tiki - Reggae Remix",
+      "url": "https://open.spotify.com/track/7ffWg1aiz44kiCF6wtvypd"
     },
     {
       "album": {
@@ -4062,7 +4132,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179520,
       "name": "Savannah Grass",
       "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
@@ -4188,7 +4258,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 183490,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2WmNARSzCch3nzifLfn05K"
@@ -5564,7 +5634,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 205187,
       "name": "Your Body Working",
       "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"

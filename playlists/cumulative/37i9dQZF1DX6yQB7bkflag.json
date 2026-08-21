@@ -13891,6 +13891,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/0xC5bXCoXOiZjWcT1wK10z"
+      },
+      "artists": [
+        {
+          "name": "Syasya Rizal",
+          "url": "https://open.spotify.com/artist/5v6OyN4JnkVwba9Rd83ozu"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/4Cy4n8Tskg9Hn8L90mW4VL"
+    },
+    {
+      "album": {
         "name": "Do That Again",
         "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
       },

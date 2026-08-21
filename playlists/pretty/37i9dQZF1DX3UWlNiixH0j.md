@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MASS OF THE FERMENTING DREGS
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,058 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,077 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 30 | [Bonyo](https://open.spotify.com/track/1JhE2qRtMoMwdv0YwRFdW5) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Sunny Beat Deluxe !](https://open.spotify.com/album/60EhCA4OVatzgUY9rEqEl5) | 2:37 |
 | 31 | [Shippo](https://open.spotify.com/track/1hdp6CGludVSn1t4CQ30vf) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Shippo](https://open.spotify.com/album/7v1qWR7QnwrY54wwEwdR0d) | 4:43 |
 | 32 | [Cynical City \- 2026](https://open.spotify.com/track/4TZNuSe4YESYzKmoxAVJx5) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [SHINTOKYO THE BEST](https://open.spotify.com/album/7dTN12xA2A22pDTKbnP1vy) | 3:31 |
-| 33 | [グッドナイトヒーラー](https://open.spotify.com/track/5YKkBM9uQlXzaUliFmW4CF) | [ANMC](https://open.spotify.com/artist/5oHsqq24Aj6bLMCQTfkhZw), [長瀬有花](https://open.spotify.com/artist/1xAojWUxALloEEliizQQRm) | [グッドナイトヒーラー](https://open.spotify.com/album/65RqIcgojQNe0bTw5UPDH4) | 4:38 |
+| 33 | [グッドナイトヒーラー](https://open.spotify.com/track/5YKkBM9uQlXzaUliFmW4CF) | [ANMC](https://open.spotify.com/artist/5oHsqq24Aj6bLMCQTfkhZw), [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [グッドナイトヒーラー](https://open.spotify.com/album/65RqIcgojQNe0bTw5UPDH4) | 4:38 |
 | 34 | [かなしい](https://open.spotify.com/track/026gy3GKvBugjPHJasGJ1U) | [the band apart](https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf) | [かなしい](https://open.spotify.com/album/14rKvaF6hjTpMBb9jR34QS) | 5:02 |
 | 35 | [CHA\-CHA\-茶](https://open.spotify.com/track/5kt5rN1aZAweQCfZ1tWsl1) | [freespace](https://open.spotify.com/artist/5sRuYHUZg2rUKCkKJzw2ew), [chomo](https://open.spotify.com/artist/7rjESwAheDfoY7uPl823L4) | [CHA\-CHA\-茶](https://open.spotify.com/album/0VRKLB8auSPH1LAH9QzkgH) | 2:53 |
 | 36 | [卵](https://open.spotify.com/track/4qFs8ZIpixjozU6M6WfAvS) | [綿貫雪](https://open.spotify.com/artist/79KrOWHi6qdV9FWxSsskah) | [卵](https://open.spotify.com/album/5Iy19VHjhjNtHuWAELd6gj) | 3:46 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 44 | [impact tracker](https://open.spotify.com/track/0y7oGLbQ48W51TMileVUu1) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [impact tracker](https://open.spotify.com/album/4usP6ALpQ0LhFxX57Ox3Kb) | 3:14 |
 | 45 | [キテレビ](https://open.spotify.com/track/0zJX5aX998VxnRlSgh1euU) | [二兆円](https://open.spotify.com/artist/554sFTYvYYNJG8UNgSL8uZ) | [Gwa](https://open.spotify.com/album/6mPnLo8txr0ZY0hHJ1KRQ0) | 3:06 |
 | 46 | [Globster](https://open.spotify.com/track/7DJBCyVpHWPANrfPKx4sTt) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Globster](https://open.spotify.com/album/0VsUIGuWI5AOpy9x3FndkO) | 2:43 |
-| 47 | [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 |
+| 47 | [素敵すぎる](https://open.spotify.com/track/5tePLatUDsJg1idEVUiFA8) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [素敵すぎる/素晴らしき1日](https://open.spotify.com/album/5aLUNNI8YL0mibXFrvzELv) | 3:28 |
 | 48 | [永遠](https://open.spotify.com/track/7ChGyZoz0wU4HiAyWfTJ06) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [永遠](https://open.spotify.com/album/7FIwvXUDRDg3417MVqNkuT) | 7:39 |
 | 49 | [SAYONARA PENGUIN](https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SAYONARA PENGUIN](https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP) | 1:51 |
 | 50 | [The Bird](https://open.spotify.com/track/16hQX7cmgGVs7AWKrd6kNi) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [The Bird](https://open.spotify.com/album/1cinXLxGPsrpzJKh9elvFD) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 |
 | 100 | [jaded](https://open.spotify.com/track/2713O1GS43HGWyQVucGFMX) | [the carber](https://open.spotify.com/artist/4E2egeJp2wLcNBVUEdRjTM) | [光](https://open.spotify.com/album/0GDrp8ro4sDsQQzALuGzJp) | 5:29 |
 
-Snapshot ID: `AAAAAEA2CVRPphGa2II4wrNmZ43miTvf`
+Snapshot ID: `AAAAAK2qcIU1LhUiEA7Jarw7qkV3dMbK`

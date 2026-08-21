@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21211,
+  "num_followers": 21213,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3Mj2hA+ZtPHZtzc1LQxEhttIYX",
+  "snapshot_id": "AAAAADEzBe6ij4WQ+KYdpQ6WJVEYDvSd",
   "tracks": [
     {
       "added_at": "2025-06-20 07:45:33",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Lagos City Vice",
+        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "China Designer",
+      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Lagos City Vice",
-        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
-      },
-      "artists": [
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "China Designer",
-      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
     },
     {
       "added_at": "2025-06-20 07:45:33",

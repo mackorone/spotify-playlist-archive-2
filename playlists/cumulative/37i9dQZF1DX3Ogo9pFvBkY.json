@@ -4671,6 +4671,24 @@
     },
     {
       "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/05qg7L81Sqv3vZH6ZpTOu6"
+      },
+      "artists": [
+        {
+          "name": "lucen",
+          "url": "https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5eNE8zU33u5isYg7ywMxmf"
+    },
+    {
+      "album": {
         "name": "Dark Waters",
         "url": "https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF"
       },
@@ -5589,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Drift Geometry",
+        "url": "https://open.spotify.com/album/6H6iv6Zm7P9h2LDo8AUlPH"
+      },
+      "artists": [
+        {
+          "name": "Milo\u0161 Zakzewski",
+          "url": "https://open.spotify.com/artist/3xUiPDnT0opugzPPFAtF62"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134032,
+      "name": "Drift Geometry",
+      "url": "https://open.spotify.com/track/09WjZYPhNlFyQNzE4jXIS3"
+    },
+    {
+      "album": {
         "name": "Drifter",
         "url": "https://open.spotify.com/album/2TacCahMuiMbZUK5pel0wb"
       },
@@ -5658,6 +5694,24 @@
       "duration_ms": 253000,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc"
+    },
+    {
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/0kJcBOI4g4LdjL2A2rolKa"
+      },
+      "artists": [
+        {
+          "name": "Sonura",
+          "url": "https://open.spotify.com/artist/6JnZyzcigF0OU9VOMYaOGa"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7e7WH7z1zrY3di21M5JOrY"
     },
     {
       "album": {
@@ -8178,6 +8232,24 @@
       "duration_ms": 133853,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/20jRI6d4thOqdem7b3OBGm"
+    },
+    {
+      "album": {
+        "name": "Gentle Acceptance",
+        "url": "https://open.spotify.com/album/1IsOnZmM1C3Xxp3Hp4dp8u"
+      },
+      "artists": [
+        {
+          "name": "Elunara Mare",
+          "url": "https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Gentle Acceptance",
+      "url": "https://open.spotify.com/track/0bfpqncmxFv7QpzwLdDJh6"
     },
     {
       "album": {
@@ -11663,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "Lunaria Annua",
+        "url": "https://open.spotify.com/album/2sJe7aK1uvB80b2Zb1LTx9"
+      },
+      "artists": [
+        {
+          "name": "Loch Lua",
+          "url": "https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Lunaria Annua",
+      "url": "https://open.spotify.com/track/4Xt5fpnpdxebLqz05g5C9D"
+    },
+    {
+      "album": {
         "name": "Lyng",
         "url": "https://open.spotify.com/album/4pcZEf8H3djemmKDO63JWv"
       },
@@ -12452,6 +12542,42 @@
       "duration_ms": 178909,
       "name": "Montania",
       "url": "https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg"
+    },
+    {
+      "album": {
+        "name": "Moon Etching",
+        "url": "https://open.spotify.com/album/493CoZ2iqzKfknKRkY7b2Y"
+      },
+      "artists": [
+        {
+          "name": "Stellian",
+          "url": "https://open.spotify.com/artist/0J7ija5d6fGOPYGODzuRLq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Moon Etching",
+      "url": "https://open.spotify.com/track/5i4Aeef6KLQoOhRWfeqzD1"
+    },
+    {
+      "album": {
+        "name": "Moon Whisper",
+        "url": "https://open.spotify.com/album/7IrWewNly2l5QA4UllBbAf"
+      },
+      "artists": [
+        {
+          "name": "Arc Noir",
+          "url": "https://open.spotify.com/artist/3QWoAAa7Y8f8TYBEE8Afj6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138342,
+      "name": "Moon Whisper",
+      "url": "https://open.spotify.com/track/189OaoOrH9r4MSdHdhN02r"
     },
     {
       "album": {
@@ -13769,6 +13895,24 @@
     },
     {
       "album": {
+        "name": "One Reality",
+        "url": "https://open.spotify.com/album/0HMsT0arQl8t0Kt9rW3KUK"
+      },
+      "artists": [
+        {
+          "name": "Calmia",
+          "url": "https://open.spotify.com/artist/3lLrkEwsCiOO1ON2vt7nNy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154997,
+      "name": "One Reality",
+      "url": "https://open.spotify.com/track/7pSNa4QjoQFAsOHvIZdnR3"
+    },
+    {
+      "album": {
         "name": "Open Air 528 Hz",
         "url": "https://open.spotify.com/album/1yJBrl3TXOG4iqrhadflpN"
       },
@@ -13910,6 +14054,24 @@
       "duration_ms": 184363,
       "name": "Oriel",
       "url": "https://open.spotify.com/track/42YCCrzF1qfARWTsFpXSvf"
+    },
+    {
+      "album": {
+        "name": "Others",
+        "url": "https://open.spotify.com/album/5sS7giuBTzPlz8ODn7w8wk"
+      },
+      "artists": [
+        {
+          "name": "Arnar Egilsson",
+          "url": "https://open.spotify.com/artist/1zpMLqhMMTg2vzSf5BC5eI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162837,
+      "name": "Others",
+      "url": "https://open.spotify.com/track/20IQx4OLSWXwzVLHi8tU3r"
     },
     {
       "album": {
@@ -17081,6 +17243,24 @@
     },
     {
       "album": {
+        "name": "Simple Notions",
+        "url": "https://open.spotify.com/album/1kZUDWCY5eNRe7ZO4yLaQl"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "Simple Notions",
+      "url": "https://open.spotify.com/track/0RSTUgXuuLQVeWyvar55bp"
+    },
+    {
+      "album": {
         "name": "Sin Silencio",
         "url": "https://open.spotify.com/album/4DLwqh2xUHHbNqArqGVZfF"
       },
@@ -17996,6 +18176,24 @@
       "duration_ms": 234381,
       "name": "Spiritual Awakening",
       "url": "https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH"
+    },
+    {
+      "album": {
+        "name": "Stardust Drift",
+        "url": "https://open.spotify.com/album/6LrwZ7VTiowcJfX2gtnIE2"
+      },
+      "artists": [
+        {
+          "name": "Noctilune",
+          "url": "https://open.spotify.com/artist/65imc4HXi6wQ5ZUljfLi3X"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140287,
+      "name": "Stardust Drift",
+      "url": "https://open.spotify.com/track/2rAejnZY9qkJMpNgD03VUR"
     },
     {
       "album": {
@@ -19584,6 +19782,24 @@
       "duration_ms": 241200,
       "name": "There in the Silence",
       "url": "https://open.spotify.com/track/2egPExekvgp8AU7cYJw2it"
+    },
+    {
+      "album": {
+        "name": "Theta Bloom",
+        "url": "https://open.spotify.com/album/4hyEg8HQdZ1u6LHZ5nLXhD"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Theta Bloom",
+      "url": "https://open.spotify.com/track/0XaqQUNh0xPPYAws4y8j4x"
     },
     {
       "album": {

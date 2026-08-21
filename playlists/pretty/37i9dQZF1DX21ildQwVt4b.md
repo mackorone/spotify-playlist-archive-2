@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ildQwVt4b.md) - [plain]
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,926 likes - 7 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,925 likes - 7 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,4 +16,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ildQwVt4b.md) - [plain]
 | 6 | [Beyond Trans Visibility with Raquel Willis](https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9) | [Unladylike](https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73) | [Unladylike](https://open.spotify.com/album/4HIbrI2ckotPHTh6REyR73) | 41:04 |
 | 7 | [Bonus: From the Vault: Sylvia Rivera & Marsha P\. Johnson, 1970](https://open.spotify.com/episode/6quZFURWoHUBwJadcMCh9a) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/album/1NlHk37Vo7HlGE1CFg8uGx) | 22:07 |
 
-Snapshot ID: `AAAAAJDbeC3oHejQ8jSaNTX8PybFAoeb`
+Snapshot ID: `AAAAANMm7jY5x+fzGrPaZ0NK6WEHs7Y9`

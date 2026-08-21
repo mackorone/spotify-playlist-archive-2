@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81389,
+  "num_followers": 81395,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7rlf9uAgApEfxWtbr8GV9pTjt5",
+  "snapshot_id": "AAAAAOCWGC03YQTBn2EpYYnzMgxMOTnZ",
   "tracks": [
     {
       "added_at": "2026-03-12 23:00:43",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Evig kvile",
+        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 189239,
+      "name": "Evig kvile",
+      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Kniven i hjertet",
         "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 182316,
       "name": "Kniven i hjertet",
       "url": "https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Evig kvile",
-        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 189239,
-      "name": "Evig kvile",
-      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -823,18 +823,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Livstegn",
-        "url": "https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb"
+        "name": "Heimlandsong",
+        "url": "https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m"
       },
       "artists": [
         {
-          "name": "Ola Bremnes",
-          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Mi Pia. Din Gutt.",
-      "url": "https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF"
+      "duration_ms": 286675,
+      "name": "Heimlandsong",
+      "url": "https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ"
     },
     {
       "added_at": "2026-03-12 23:00:43",

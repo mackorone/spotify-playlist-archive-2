@@ -2011,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD"
+      },
+      "artists": [
+        {
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152706,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
+    },
+    {
+      "album": {
         "name": "Don Julio",
         "url": "https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX"
       },
@@ -2138,6 +2160,28 @@
       "duration_ms": 141173,
       "name": "Eeva-V\u00e9ra",
       "url": "https://open.spotify.com/track/2h25XNehanYRd8AJELbMHZ"
+    },
+    {
+      "album": {
+        "name": "Ehk\u00e4 Joskus",
+        "url": "https://open.spotify.com/album/7wNtkBCmS1wTdXL9AHifdP"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158585,
+      "name": "Ehk\u00e4 Joskus",
+      "url": "https://open.spotify.com/track/22w9MQkkSuE7iQphGYTfWx"
     },
     {
       "album": {
@@ -2428,6 +2472,24 @@
       "duration_ms": 190971,
       "name": "Ei voi (feat. Luwa.Mp4)",
       "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
+    },
+    {
+      "album": {
+        "name": "Eih\u00e4n se niin mee",
+        "url": "https://open.spotify.com/album/1GxXLyxw0iVCZr68cxydBH"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199110,
+      "name": "Eih\u00e4n se niin mee",
+      "url": "https://open.spotify.com/track/4Bi1wIyFOvZOHqA7clMY4Z"
     },
     {
       "album": {
@@ -3030,7 +3092,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 170831,
       "name": "Entiseen el\u00e4m\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/0M4OVohVXlUFJDT4PIxlTX"
@@ -5630,7 +5692,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 154247,
       "name": "Kaikki tahtoo taivaaseen",
       "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
@@ -5692,7 +5754,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 260869,
       "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
       "url": "https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H"
@@ -6508,6 +6570,28 @@
       "duration_ms": 176002,
       "name": "Kill4Me",
       "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
+    },
+    {
+      "album": {
+        "name": "KILLING SZN/BBL",
+        "url": "https://open.spotify.com/album/7oN4yHDWIQreYzauSJ0IW8"
+      },
+      "artists": [
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "KILLING SZN (feat. keiju)",
+      "url": "https://open.spotify.com/track/6YzFhKEWWGF8PUc1PfBvBq"
     },
     {
       "album": {
@@ -11905,6 +11989,24 @@
     },
     {
       "album": {
+        "name": "PALOKUNTA",
+        "url": "https://open.spotify.com/album/4wOzqHtHcCoqSKMh3Bx4y8"
+      },
+      "artists": [
+        {
+          "name": "Dw",
+          "url": "https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139565,
+      "name": "PALOKUNTA",
+      "url": "https://open.spotify.com/track/0xdOpyvLhP9uTgHFosrSN7"
+    },
+    {
+      "album": {
         "name": "Paluu",
         "url": "https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A"
       },
@@ -13534,7 +13636,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 202691,
       "name": "Reality-TV",
       "url": "https://open.spotify.com/track/0NvquMWOttRX8PkSnOKTbX"
@@ -17535,6 +17637,24 @@
     },
     {
       "album": {
+        "name": "Ty\u00f6tt\u00f6m\u00e4n p\u00e4iv\u00e4t",
+        "url": "https://open.spotify.com/album/6C6JQQL9doMlZxolI4KY1J"
+      },
+      "artists": [
+        {
+          "name": "Vet Pillows",
+          "url": "https://open.spotify.com/artist/3suATO6V6YnR4k27Diek4w"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181528,
+      "name": "Ty\u00f6tt\u00f6m\u00e4n p\u00e4iv\u00e4t",
+      "url": "https://open.spotify.com/track/0V3UHMinifL4dOB7Urriem"
+    },
+    {
+      "album": {
         "name": "T\u00e4hdet",
         "url": "https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q"
       },
@@ -17818,7 +17938,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 159000,
       "name": "T\u00e4\u00e4 tunne",
       "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
@@ -18574,7 +18694,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 200000,
       "name": "Viaton",
       "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"

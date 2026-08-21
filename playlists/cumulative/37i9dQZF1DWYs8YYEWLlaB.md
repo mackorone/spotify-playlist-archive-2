@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Asil Gök
+> viral, trend ve yükselenler\. Kapak: Burak Bulut
 
 313 songs - 15 hr 50 min
 

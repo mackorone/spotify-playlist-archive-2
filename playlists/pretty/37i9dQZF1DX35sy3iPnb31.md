@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 6 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
 | 7 | [HOW TO BE A LOVER](https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [HOW TO BE A LOVER](https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62) | 4:26 |
 | 8 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
-| 9 | [Trap 4 a Year II](https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Trap 4 a Year II](https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB) | 2:35 |
+| 9 | [GHOST DOG.](https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [GHOST DOG.](https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE) | 2:59 |
 | 10 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
 | 11 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
-| 12 | [GHOST DOG.](https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [GHOST DOG.](https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE) | 2:59 |
+| 12 | [Trap 4 a Year II](https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Trap 4 a Year II](https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB) | 2:35 |
 | 13 | [i have a secret](https://open.spotify.com/track/5rzr7pkEiYNFU11Q71XYb3) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [i have a secret](https://open.spotify.com/album/67boqqAnVnbMBsQ11b7rZR) | 2:15 |
 | 14 | [Men Into Boys](https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Men Into Boys](https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu) | 2:34 |
 | 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:21 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [KGB \(Kill Get Back\)](https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [KGB \(Kill Get Back\)](https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo) | 2:13 |
 | 20 | [Searchlight \(ft\. Kashus Culpepper\)](https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [In the Hour of Chaos](https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL) | 4:10 |
 | 21 | [intersection](https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [intersection](https://open.spotify.com/album/1QBqcimkOSDc56jvdra679) | 3:18 |
-| 22 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
-| 23 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
+| 22 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
+| 23 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 24 | [Sentimental Things](https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Sentimental Things](https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9) | 2:15 |
 | 25 | [Did That](https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:23 |
 | 26 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [World Tour Freestyle](https://open.spotify.com/track/4GiJmFhOuGbfPl6gdKErwe) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [World Tour Freestyle](https://open.spotify.com/album/1T6zovINsDE46fupkeHo7a) | 2:11 |
 | 35 | [work](https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [work](https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe) | 4:25 |
 | 36 | [Party Animal](https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Party Animal](https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew) | 2:36 |
-| 37 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
-| 38 | [La fin](https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [La fin](https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4) | 3:40 |
+| 37 | [La fin](https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [La fin](https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4) | 3:40 |
+| 38 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
 | 39 | [Tough](https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Bruise](https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ) | 3:27 |
 | 40 | [Dogs.](https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [Dogs.](https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye) | 2:43 |
 | 41 | [Take Me Under](https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Take Me Under](https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Adam West](https://open.spotify.com/track/2F5b6igudY64NBG42TCDjR) | [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Adam West](https://open.spotify.com/album/0MgV3Mr6t1dCpgHX9REqSY) | 3:45 |
 | 50 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 
-Snapshot ID: `AAAAAIa8513Yu/mffR4C1WHd47UkWoyY`
+Snapshot ID: `AAAAAJelFLaDM+SePjm1RFC64IJWFca4`

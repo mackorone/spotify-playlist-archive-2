@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Andien
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,964 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,962 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 99 | [Lembar Biru](https://open.spotify.com/track/2udnv6JwOA2gSJdmmx5Rrk) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Lembar Biru](https://open.spotify.com/album/2QaBwbWoOhQi4fv5s9COx1) | 3:15 |
 | 100 | [Baby July](https://open.spotify.com/track/6qLQbcKX71JBae01vAoIim) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:19 |
 
-Snapshot ID: `AAAAABvE6mWfv+vrWx3J3nBmD4BwzS8A`
+Snapshot ID: `AAAAAIbFwLG6F/MtvgNJB2Rh1nMsRhPt`

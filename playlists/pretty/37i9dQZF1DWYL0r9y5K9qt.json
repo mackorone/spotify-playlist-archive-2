@@ -1,12 +1,12 @@
 {
   "description": "time to strike a couple of poses. cover: KATSEYE",
-  "num_followers": 625645,
+  "num_followers": 625609,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALhcsG7HIruXfbWG1BkXQvXk0hRm",
+  "snapshot_id": "AAAAAEfDoCw9Nexg57AZ5LVvGDZAPURM",
   "tracks": [
     {
       "added_at": "2026-08-13 16:26:29",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
-        "name": "ATTITUDE",
-        "url": "https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw"
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 185000,
-      "name": "ATTITUDE",
-      "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
     },
     {
       "added_at": "2026-08-13 16:26:29",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
+        "name": "ATTITUDE",
+        "url": "https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+      "duration_ms": 185000,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
     },
     {
       "added_at": "2026-08-13 16:26:29",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
-        "name": "Forever July",
-        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Forever July",
-      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
-    },
-    {
-      "added_at": "2026-08-13 16:26:29",
-      "album": {
         "name": "Rich Man - The 6th Mini Album",
         "url": "https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg"
+    },
+    {
+      "added_at": "2026-08-13 16:26:29",
+      "album": {
+        "name": "Forever July",
+        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Forever July",
+      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
     },
     {
       "added_at": "2026-08-13 16:26:29",

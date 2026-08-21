@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Rise Against
 
-2,041 songs - 4 day 19 hr 6 min
+2,042 songs - 4 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-03-10 | 2023-07-29 |
 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 | 2024-08-30 | 2025-02-15 |
 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-07-21 | 2024-05-25 |
+| [Barking at the Sun](https://open.spotify.com/track/2UDn4XnFb0ACsgqoy61WXM) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Big Life, Big Leaf](https://open.spotify.com/album/5tWhmvVVwODyA4cWaNZPCT) | 5:09 | 2026-07-17 |  |
 | [Barricade](https://open.spotify.com/track/2x0ZiXiV0scZyYpM7oK9RQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Barricade](https://open.spotify.com/album/7pBVgL3XK5UzAxl9CxO0oS) | 3:25 | 2026-04-24 | 2026-05-30 |
 | [Bastards](https://open.spotify.com/track/7tPPuOGx3W8BvnmJ9okgQp) | [People I’ve Met](https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi) | [Bunny](https://open.spotify.com/album/5qdBUaySLATrml0n8EHlKl) | 2:56 | 2026-05-01 | 2026-06-06 |
 | [Bastards](https://open.spotify.com/track/0xTxwa4wSNNM0AvR6I7Rcq) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Bastards](https://open.spotify.com/album/1moHM39Yn3EqCVuNviMYBa) | 4:29 | 2025-04-25 | 2025-08-15 |

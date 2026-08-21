@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 101562,
+  "num_followers": 101606,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABo0mi6GyQDVym9HjTt5pHO",
+  "snapshot_id": "aoTyAAAAAACPlD4gVwq9JXCW3yRyEOkM",
   "tracks": [
     {
       "added_at": null,
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 293308,
-      "name": "Girl Like Me + Kaytranada",
-      "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
+      "duration_ms": 162352,
+      "name": "Girl Like Me + Oklou",
+      "url": "https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm"
     },
     {
       "added_at": null,
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Girl Like Me + Oklou",
-      "url": "https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm"
+      "duration_ms": 293308,
+      "name": "Girl Like Me + Kaytranada",
+      "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
     },
     {
       "added_at": null,

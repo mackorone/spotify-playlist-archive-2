@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Aishmeen
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,813 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,820 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Midnight Rush](https://open.spotify.com/track/0NpRYPoLBZX5MD5knyA70N) | [Aishmeen](https://open.spotify.com/artist/5TlAKbGTaPMgZdrMnaQfq1), [Rubab](https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO) | [Midnight Rush](https://open.spotify.com/album/4l3FOZJSpI3jnuAG8eds82) | 2:49 |
+| 1 | [Midnight Rush](https://open.spotify.com/track/0NpRYPoLBZX5MD5knyA70N) | [Aishmeen](https://open.spotify.com/artist/3hM0g4r0hu0BWh6BelOnnP), [Rubab](https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO) | [Midnight Rush](https://open.spotify.com/album/4l3FOZJSpI3jnuAG8eds82) | 2:49 |
 | 2 | [Saun Di Jhadi](https://open.spotify.com/track/5qqxfRniWjoW5VhYiQn0xy) | [Waras](https://open.spotify.com/artist/6JBbWsnxViz8AY8MGJqcIw), [The Sam](https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E) | [Saun Di Jhadi](https://open.spotify.com/album/5haRy27qHBvaviq5edWlVo) | 3:02 |
-| 3 | [Blooming](https://open.spotify.com/track/6WvY45yULwoQsArA3CwTxn) | [Jagga](https://open.spotify.com/artist/0vy1HF3LklyMrtQtkexRvu), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Blooming](https://open.spotify.com/album/6RJnbeK4yt386CfDs8rLbQ) | 2:49 |
+| 3 | [Blooming](https://open.spotify.com/track/6WvY45yULwoQsArA3CwTxn) | [Jagga](https://open.spotify.com/artist/75PQkpE5MpEK9j8rNaFijM), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Blooming](https://open.spotify.com/album/6RJnbeK4yt386CfDs8rLbQ) | 2:49 |
 | 4 | [Pariyaan Di](https://open.spotify.com/track/4Kb75fmgfLIUVP0Ure3vpK) | [Siddharth Koli](https://open.spotify.com/artist/2BU3ZzyJWDprXbwtEdIUz3), [Rahul Dayal](https://open.spotify.com/artist/2OwjtEG0CTyBinxl9f6fen) | [Pariyaan Di](https://open.spotify.com/album/3i5F8fFyxGVWc5aEFZgrNj) | 2:17 |
 | 5 | [Kankaan](https://open.spotify.com/track/2ztRxRCLjEnfTbPB5GoaWJ) | [Haavi](https://open.spotify.com/artist/0wX3Q5NGB6Ixsv2Ii8P1Vy) | [Kankaan](https://open.spotify.com/album/27vMhG8woX8y5Z38PYjiyu) | 2:54 |
 | 6 | [After You](https://open.spotify.com/track/5le3wiWUrfDd8GnDZuzaNv) | [Revaan](https://open.spotify.com/artist/5FFNq9NGYHoxLvRlC61A1N) | [After You](https://open.spotify.com/album/1iKfMVpB1ALzDh3sdwKb3s) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Novella](https://open.spotify.com/track/2TSL8yfTaoZxrd2Um4Edkx) | [Gill Ranjodh](https://open.spotify.com/artist/4VYsiN2BVC3o8wlmhd1Mu2), [Jeffrick](https://open.spotify.com/artist/5HD6kCaoqjrDx8W5ES0YC3) | [Novella](https://open.spotify.com/album/7yIxyqUTWtWXyTQK1E1HBq) | 2:13 |
 | 50 | [Let Me Go](https://open.spotify.com/track/27Dme4bufvtzLZklVhAxLS) | [EAGLE BEATZ](https://open.spotify.com/artist/1z3q1N6XSG06XXvknr5iU2), [Aniket](https://open.spotify.com/artist/6rDjrU2KLibztNixyM3Kia) | [Let Me Go](https://open.spotify.com/album/2psXgAp4DOpkcqWAObQq9p) | 2:23 |
 
-Snapshot ID: `AAAAALIW0cxbI4tQ/qz3Z3xgU2pkD7Fg`
+Snapshot ID: `AAAAAPntR7sftCOt+p/sfqD7njPp7BF2`

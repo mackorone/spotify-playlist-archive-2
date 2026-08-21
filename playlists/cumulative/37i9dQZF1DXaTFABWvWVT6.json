@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
+    },
+    {
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 227827,
       "name": "Closer - Edit",
       "url": "https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF"
@@ -2327,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2oGalbPEf7w5n4u68Y9UkL"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        },
+        {
+          "name": "MCYL",
+          "url": "https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0v9yDPKldiJDUWXlUo4t4i"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7ebm9IP2zYl77waFn1r5Xl"
       },
@@ -2444,6 +2488,28 @@
       "duration_ms": 150200,
       "name": "Get Buck",
       "url": "https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0"
+    },
+    {
+      "album": {
+        "name": "Get Shaky",
+        "url": "https://open.spotify.com/album/2QBBTLp8egbbcx4ZFn11oJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunt",
+          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+        },
+        {
+          "name": "Carter Walsh",
+          "url": "https://open.spotify.com/artist/5JL7mddmhq9K6dZqEaAyHG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179342,
+      "name": "Get Shaky",
+      "url": "https://open.spotify.com/track/31lQj7xMCEBA1bOwXVu7Pn"
     },
     {
       "album": {
@@ -4915,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/5zN1b1OpRWtQCGggVuvlNL"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/49tm2VZn9ALfFZChssSHHh"
+    },
+    {
+      "album": {
         "name": "Party People",
         "url": "https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD"
       },
@@ -5710,7 +5794,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 220312,
       "name": "Sing It Back",
       "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
@@ -5904,7 +5988,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179311,
       "name": "soul reply",
       "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
@@ -6948,7 +7032,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 195737,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq"

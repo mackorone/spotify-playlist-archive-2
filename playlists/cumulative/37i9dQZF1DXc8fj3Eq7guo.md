@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-109 songs - 6 hr 48 min
+110 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Africa](https://open.spotify.com/track/5rf4dV9ZV8K9b33f8wt0tU) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Afrikan Sauce](https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1) | 3:56 | 2023-10-20 | 2023-12-09 |
 | [Africa](https://open.spotify.com/track/6uGY5bjd4Gxu5hJDJRcrYn) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 3:56 | 2024-03-15 |  |
 | [Africa](https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mama Africa \(The Diary of an African Woman\)](https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8) | 3:56 | 2023-09-08 | 2024-04-19 |
+| [AMAZON](https://open.spotify.com/track/1N4YFAtZB8ja75bgXyxkhE) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:18 | 2026-08-21 |  |
 | [Angola](https://open.spotify.com/track/4ie2Gi47TfHrlan7gcL5Fd) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/5uIcFalqC6QjvKesBf4erF) | 7:26 | 2023-10-20 | 2024-04-19 |
 | [Angola](https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/2OFQgGsXO2ZpcUkGyaQ37y) | 7:26 | 2023-10-09 | 2026-04-18 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |
@@ -70,7 +71,7 @@
 | [Lusaka](https://open.spotify.com/track/1BELwoaSOmh6YGb1qgwmpk) | [Mzwakhe Mbuli](https://open.spotify.com/artist/7twu9bUEN6yXIHUn1tLCRP) | [Resistance Is Defence](https://open.spotify.com/album/39hP4HL2FKhNFy8YeR6SRz) | 6:55 | 2024-03-15 | 2026-04-18 |
 | [Lusaka](https://open.spotify.com/track/1BYefIW1aQuAHA7m3CHe8k) | [Mzwakhe Mbuli](https://open.spotify.com/artist/7twu9bUEN6yXIHUn1tLCRP) | [Resistance Is Defence](https://open.spotify.com/album/1e3jEC6NHIu0RrLmZjVoMU) | 6:56 | 2023-09-08 | 2024-04-19 |
 | [Lusaka By Night](https://open.spotify.com/track/0hMPIEHcy0SLQ6uuG17hxJ) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [John Wizards](https://open.spotify.com/album/6HyhRD63b98v7UpHiSMe8G) | 2:58 | 2023-10-09 | 2024-04-19 |
-| [Lusaka By Night](https://open.spotify.com/track/1skcULZDguUhHKbHBiFVfQ) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [John Wizards](https://open.spotify.com/album/17RTAHouHJi9YHwbXWanJs) | 2:58 | 2024-03-15 |  |
+| [Lusaka By Night](https://open.spotify.com/track/1skcULZDguUhHKbHBiFVfQ) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [John Wizards](https://open.spotify.com/album/17RTAHouHJi9YHwbXWanJs) | 2:58 | 2024-03-15 | 2026-08-21 |
 | [Lusaka!](https://open.spotify.com/track/6ChJEgvgEzkUB4GYUAhKVp) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [\[kimetsu.\]](https://open.spotify.com/artist/1PHEnDTwOtRf29ArCrHhJD) | [Lusaka!](https://open.spotify.com/album/4Ufcnd2d6LQ8dZ21eFN43O) | 4:27 | 2025-07-03 |  |
 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 | 2025-07-03 |  |
 | [Mannenberg](https://open.spotify.com/track/6bMWPW0ASgclSTgT3xbsFj) | [Dollar Brand](https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl), [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Mannenberg \- 'Is Where It's Happening'](https://open.spotify.com/album/211IJ33ehIcOM2fdMCxJRp) | 13:37 | 2023-10-09 | 2024-06-08 |

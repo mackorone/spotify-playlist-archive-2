@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4223,
+  "num_followers": 4225,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABtKmnOP7X9N4xonFVB/M+j",
+  "snapshot_id": "aoTyAAAAAADe5BEtmm55fRBi9mGiTZua",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/2ps1XIOsW5Kcz9cy8Igfz6"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        }
+      ],
+      "duration_ms": 356413,
+      "name": "Speaker",
+      "url": "https://open.spotify.com/track/0oGUm4677n6DnOavpodQvO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Next Gen",
         "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
@@ -899,54 +923,6 @@
       "duration_ms": 505747,
       "name": "Iminyaka (feat. Xylokeys & Shane907)",
       "url": "https://open.spotify.com/track/37CUYkpnqJEmYZ2gcy1pDv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/2ps1XIOsW5Kcz9cy8Igfz6"
-      },
-      "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Uhuru",
-          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
-        }
-      ],
-      "duration_ms": 356413,
-      "name": "Speaker",
-      "url": "https://open.spotify.com/track/0oGUm4677n6DnOavpodQvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mpho ya Mmino",
-        "url": "https://open.spotify.com/album/1cGnPxDFc6Bp1rSzcNZZPU"
-      },
-      "artists": [
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        }
-      ],
-      "duration_ms": 433850,
-      "name": "Ayhambi",
-      "url": "https://open.spotify.com/track/1DgrC8wW9FJgZzcXJ49GY3"
     },
     {
       "added_at": null,
@@ -983,26 +959,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canex Music Factory (Abidjan)",
-        "url": "https://open.spotify.com/album/7c1CjhhJHH4pHwIcqPiM9p"
+        "name": "Mpho ya Mmino",
+        "url": "https://open.spotify.com/album/1cGnPxDFc6Bp1rSzcNZZPU"
       },
       "artists": [
         {
-          "name": "REINE ABLAA",
-          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
         }
       ],
-      "duration_ms": 249927,
-      "name": "I'm on my way",
-      "url": "https://open.spotify.com/track/26UzaTXlONYVj375gM4eBF"
+      "duration_ms": 433850,
+      "name": "Ayhambi",
+      "url": "https://open.spotify.com/track/1DgrC8wW9FJgZzcXJ49GY3"
     },
     {
       "added_at": null,
@@ -1027,6 +1003,30 @@
       "duration_ms": 213706,
       "name": "Banane Mavoko",
       "url": "https://open.spotify.com/track/1oJgW0RaxtELOK1Y5otNGb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canex Music Factory (Abidjan)",
+        "url": "https://open.spotify.com/album/7c1CjhhJHH4pHwIcqPiM9p"
+      },
+      "artists": [
+        {
+          "name": "REINE ABLAA",
+          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 249927,
+      "name": "I'm on my way",
+      "url": "https://open.spotify.com/track/26UzaTXlONYVj375gM4eBF"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church Grooves (10th Commandment)",
+        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Synth Song",
+      "url": "https://open.spotify.com/track/6qYYbimYXbz2VvIeMFsEui"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 231578,
       "name": "African Prayer - Radio Edit",
       "url": "https://open.spotify.com/track/45XVXe9jL0LLN6iu45mpN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church Grooves (10th Commandment)",
-        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Synth Song",
-      "url": "https://open.spotify.com/track/6qYYbimYXbz2VvIeMFsEui"
     },
     {
       "added_at": null,
@@ -1235,34 +1235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Date Night (feat. King Talkzin)",
-        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        }
-      ],
-      "duration_ms": 378459,
-      "name": "Date Night (feat. King Talkzin) - Club Edit",
-      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iThuba",
         "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
       },
@@ -1287,6 +1259,34 @@
       "duration_ms": 432144,
       "name": "iThuba - Deep House Mix",
       "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Date Night (feat. King Talkzin)",
+        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+        }
+      ],
+      "duration_ms": 378459,
+      "name": "Date Night (feat. King Talkzin) - Club Edit",
+      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
     }
   ],
   "unique_name": "This Is OSKIDO",

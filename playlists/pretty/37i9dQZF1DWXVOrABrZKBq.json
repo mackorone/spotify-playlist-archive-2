@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Genezio",
-  "num_followers": 23279,
+  "num_followers": 23294,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABVuE7CmDf8V1vLjZMslg3D9FQHg",
+  "snapshot_id": "AAAAAEx8snMJ/H2ALIJr4b/yFzmG8x1J",
   "tracks": [
     {
       "added_at": "2026-08-14 04:03:21",
@@ -671,6 +671,30 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "Pow Pow / Allo Doudou",
+        "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 219583,
+      "name": "Pow Pow / Allo Doudou",
+      "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 136809,
       "name": "Avion de chasse",
       "url": "https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "Pow Pow / Allo Doudou",
-        "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 219583,
-      "name": "Pow Pow / Allo Doudou",
-      "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "MALVADO - R\u00c9\u00c9DITION",
-        "url": "https://open.spotify.com/album/7esGpcVtzjcjCBkd9IGVNb"
-      },
-      "artists": [
-        {
-          "name": "Lesram",
-          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
-        },
-        {
-          "name": "Nekfeu",
-          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
-        }
-      ],
-      "duration_ms": 204331,
-      "name": "DIS MOI (feat. Nekfeu)",
-      "url": "https://open.spotify.com/track/7siTckJKPsmo26zJ45mBWW"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
         "name": "La fuite en avant",
         "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
       },
@@ -1135,18 +1115,22 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
-        "name": "Rien Ne Va Plus",
-        "url": "https://open.spotify.com/album/2zcJp80IohR9krgMisnOC9"
+        "name": "MALVADO - R\u00c9\u00c9DITION",
+        "url": "https://open.spotify.com/album/7esGpcVtzjcjCBkd9IGVNb"
       },
       "artists": [
         {
-          "name": "WIXO & LA2S",
-          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
         }
       ],
-      "duration_ms": 178210,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/5ynyV6EvdxJW3HlzSRoRHQ"
+      "duration_ms": 204331,
+      "name": "DIS MOI (feat. Nekfeu)",
+      "url": "https://open.spotify.com/track/7siTckJKPsmo26zJ45mBWW"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "Rien Ne Va Plus",
+        "url": "https://open.spotify.com/album/2zcJp80IohR9krgMisnOC9"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "duration_ms": 178210,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/5ynyV6EvdxJW3HlzSRoRHQ"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "Insolent",
         "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
       },
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "The cat",
+        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "TENTATION",
+      "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "Charbon & Diamant",
         "url": "https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 159286,
       "name": "Charbon & Diamant",
       "url": "https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "The cat",
-        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "TENTATION",
-      "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
     },
     {
       "added_at": "2026-08-14 04:03:21",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-08-14 04:03:21",
       "album": {
+        "name": "LA VAR",
+        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+      },
+      "artists": [
+        {
+          "name": "Supremnova",
+          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+        },
+        {
+          "name": "Jemma's Palace",
+          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+        }
+      ],
+      "duration_ms": 102352,
+      "name": "LA VAR",
+      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-08-14 04:03:21",
+      "album": {
         "name": "Dunes & Icebergs",
         "url": "https://open.spotify.com/album/39xfHEPDX7l4fvJHdldemQ"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
-    },
-    {
-      "added_at": "2026-08-14 04:03:21",
-      "album": {
-        "name": "LA VAR",
-        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
-      },
-      "artists": [
-        {
-          "name": "Supremnova",
-          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
-        },
-        {
-          "name": "Jemma's Palace",
-          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
-        }
-      ],
-      "duration_ms": 102352,
-      "name": "LA VAR",
-      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
     }
   ],
   "unique_name": "Rap francophone",

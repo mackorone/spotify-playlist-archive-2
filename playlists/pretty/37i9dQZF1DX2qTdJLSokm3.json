@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://webtoon.onelink.me/u70y/Spotify1\">\ud654\uc0b0\uadc0\ud658</a>\uc758 \uacf5\uc2dd \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc785\ub2c8\ub2e4. \ub098\uc640 \uc74c\uc545 \ucde8\ud5a5\uc774 \ub2ee\uc740 \uce90\ub9ad\ud130 \ucee4\ubc84\ub97c \ub9cc\ub098\ubcf4\uc138\uc694. \ub2f9\uc2e0\uc758 \uce90\ub9ad\ud130\ub294 \uc5b4\ub5a4 \uce90\ub9ad\ud130\uc778\uac00\uc694? ",
-  "num_followers": 5180,
+  "num_followers": 5181,
   "original_name": "\ud654\uc0b0\uadc0\ud658",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwxH9Rxrr/DpCIDpN/xS7Vn5ldS",
+  "snapshot_id": "AAAAADdvQFfnYzf1sIOS0pKlSKR7Q+ax",
   "tracks": [
     {
       "added_at": "2026-04-19 15:00:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-19 15:00:06",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-04-19 15:00:06",
-      "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 163243,
       "name": "jellyous",
       "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
+    },
+    {
+      "added_at": "2026-04-19 15:00:06",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-04-19 15:00:06",

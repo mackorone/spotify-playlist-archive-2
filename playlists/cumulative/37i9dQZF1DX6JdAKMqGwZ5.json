@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Martin.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Nico.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 248677,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/6Lm9a422onZ6cOJB8yWP3D"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185379,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/5NMlBtIr4iJ5mPrh4b9lfN"
@@ -4740,7 +4740,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 251430,
       "name": "El deseo del genio",
       "url": "https://open.spotify.com/track/1itqgtr55ZgoBCiOf15qD0"
@@ -6377,6 +6377,28 @@
     },
     {
       "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/6jEDnIHxmmMODa1pkXmlNd"
+      },
+      "artists": [
+        {
+          "name": "natxo",
+          "url": "https://open.spotify.com/artist/6P7AHRoOhZJBgVjOuPL64R"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177108,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/4iyFSLbG83uQk3R3VFjzrj"
+    },
+    {
+      "album": {
         "name": "FLORES EN EL ASFALTO",
         "url": "https://open.spotify.com/album/5yQP9vQrbP7GBncWX7aoIa"
       },
@@ -7202,6 +7224,24 @@
       "duration_ms": 138467,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz"
+    },
+    {
+      "album": {
+        "name": "Huir",
+        "url": "https://open.spotify.com/album/2YlxbQw0ydp9I7Xa0tPEiX"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138757,
+      "name": "Huir",
+      "url": "https://open.spotify.com/track/7oNgiONvRB2OEtf04QO7I0"
     },
     {
       "album": {
@@ -11468,7 +11508,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 173444,
       "name": "NO SOY UN CHICO INDIE",
       "url": "https://open.spotify.com/track/1PZGngdgWTk8j7p3av1DMS"
@@ -15105,6 +15145,28 @@
     },
     {
       "album": {
+        "name": "Tan Lejos",
+        "url": "https://open.spotify.com/album/3HRob2GGrhgpBoSH6pMFvZ"
+      },
+      "artists": [
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
+        },
+        {
+          "name": "diego vega",
+          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158890,
+      "name": "Tan Lejos",
+      "url": "https://open.spotify.com/track/6TBRPzVnw01sQuFxHVa9Dr"
+    },
+    {
+      "album": {
         "name": "Las 3 Lunas",
         "url": "https://open.spotify.com/album/5pVkPaj29ZkcQF3p9l7HRH"
       },
@@ -16932,6 +16994,28 @@
       "duration_ms": 197303,
       "name": "Volando",
       "url": "https://open.spotify.com/track/2nZMn8akkwBKfaoQcGkKoe"
+    },
+    {
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/72xTzscV0cEu7i0Z8dSAhq"
+      },
+      "artists": [
+        {
+          "name": "Ben Yart",
+          "url": "https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV"
+        },
+        {
+          "name": "Mr. Worth",
+          "url": "https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169150,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/2qfRr8M9CsceZGIn3MAAQe"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254199,
+  "num_followers": 254206,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABQKxuJT4/5C4/IZHmRxf4D",
+  "snapshot_id": "aoTyAAAAAAA3CMKZr+XKTFvHR8y9Hkct",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Rock This Country!",
+      "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Miss Twain",
         "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 255883,
       "name": "Little Miss Twain (feat. Tanya Tucker)",
       "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Rock This Country!",
-      "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 204542,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf"
+      "duration_ms": 202238,
+      "name": "New Love",
+      "url": "https://open.spotify.com/track/1Kqg9ffdQMT47RtG59Dper"
     },
     {
       "added_at": null,

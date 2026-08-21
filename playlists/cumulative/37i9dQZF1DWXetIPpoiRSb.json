@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": ".com",
+        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
+    },
+    {
+      "album": {
         "name": "1 Day 2 Nights",
         "url": "https://open.spotify.com/album/4HOViEGgltWnwKliaJHX1K"
       },
@@ -11231,6 +11253,24 @@
     },
     {
       "album": {
+        "name": "Eat Me Better",
+        "url": "https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Eat Me Better",
+      "url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"
+    },
+    {
+      "album": {
         "name": "eat, sleep, slay, \ud83d\udd01 (VTSS Remix)",
         "url": "https://open.spotify.com/album/4Mq5jT6SeP02ejRrA4pJ1z"
       },
@@ -13326,6 +13366,32 @@
       "duration_ms": 207868,
       "name": "Fire Away (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4"
+    },
+    {
+      "album": {
+        "name": "Fire Away (feat. Slayyyter) (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/3L60MvbEOZz3VDRqYfdhmc"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Fire Away (feat. Slayyyter) - Frost Children Remix",
+      "url": "https://open.spotify.com/track/6Mu3CIPbtoPh1kEyBMLRJz"
     },
     {
       "album": {
@@ -21517,6 +21583,24 @@
     },
     {
       "album": {
+        "name": "CHOOSY",
+        "url": "https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "JUST FOR ME",
+      "url": "https://open.spotify.com/track/3zKmINBWNtYIos1l9IsGCF"
+    },
+    {
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW"
       },
@@ -26268,7 +26352,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 171736,
       "name": "Midnight Sun - Girls Trip",
       "url": "https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13"
@@ -31400,7 +31484,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 167750,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/3b3jJlhmSubEOqxFhiVBmR"
@@ -35241,6 +35325,24 @@
     },
     {
       "album": {
+        "name": "SMALL WORLD",
+        "url": "https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146998,
+      "name": "SMALL WORLD",
+      "url": "https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT"
+    },
+    {
+      "album": {
         "name": "Smeraldo Garden Marching Band (feat. Loco)",
         "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
       },
@@ -36772,7 +36874,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 158411,
       "name": "STAY IN UR LANE",
       "url": "https://open.spotify.com/track/3aDJwwV4q3GOmD5TZZOR6C"
@@ -40148,7 +40250,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 133725,
       "name": "third degree",
       "url": "https://open.spotify.com/track/7tGtSYXBIi5x8DxQD2oDlf"

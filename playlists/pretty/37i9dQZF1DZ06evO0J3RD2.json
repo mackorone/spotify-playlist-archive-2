@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10369,
+  "num_followers": 10373,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADNmt9wBq1BHu5FMH+iXnNa",
+  "snapshot_id": "aoTyAAAAAADtZqTeSAVspvO4xzaKM5N4",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cherry Thrill",
-        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 199521,
-      "name": "Cherry Thrill",
-      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+        "name": "Cherry Thrill",
+        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+      "duration_ms": 199521,
+      "name": "Cherry Thrill",
+      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
     },
     {
       "added_at": null,

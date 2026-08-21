@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: rumbos.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Dear Joanne.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -1310,6 +1310,24 @@
       "duration_ms": 311266,
       "name": "Baimen gabe",
       "url": "https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8"
+    },
+    {
+      "album": {
+        "name": "BAJO CONTROL",
+        "url": "https://open.spotify.com/album/0zfXIKKd2kB3ARl1ZRDWDj"
+      },
+      "artists": [
+        {
+          "name": "Atomic Lemons",
+          "url": "https://open.spotify.com/artist/71Gzjz9NF7NeA8VrLKVehu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164462,
+      "name": "BAJO CONTROL",
+      "url": "https://open.spotify.com/track/54QO2oFUdlOWSGbKA4mQsD"
     },
     {
       "album": {
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 132303,
       "name": "desespero",
       "url": "https://open.spotify.com/track/01LTw1am3qHNvSWogwZMK5"
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 146559,
       "name": "EMBUSTERO",
       "url": "https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe"
@@ -10790,6 +10808,28 @@
       "duration_ms": 235001,
       "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
       "url": "https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV"
+    },
+    {
+      "album": {
+        "name": "Estrellas Y Arte, Eternidad, Pt. II",
+        "url": "https://open.spotify.com/album/1RptV6JNILJtG56sT2niub"
+      },
+      "artists": [
+        {
+          "name": "Dumbmonei",
+          "url": "https://open.spotify.com/artist/1tW2MHiCKk8qcwfz3ChcTN"
+        },
+        {
+          "name": "Txefas",
+          "url": "https://open.spotify.com/artist/0dZ7zHbiBBlE9PwD0ElHsp"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Recu\u00e9rdame Entre Canciones Mientras Busco Mi Paz En Alg\u00fan Lugar",
+      "url": "https://open.spotify.com/track/1MSGC52xVg325IgEVIgvCI"
     },
     {
       "album": {

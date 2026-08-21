@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,369 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,373 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 6 | [Full Circle](https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:24 |
 | 7 | [Back in My Ways](https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Back in My Ways](https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec) | 4:03 |
 | 8 | [Skin To Skin](https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 |
-| 9 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 |
+| 9 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
 | 10 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 |
-| 11 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
+| 11 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 |
 | 12 | [Kept](https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:27 |
 | 13 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
 | 14 | [Third Degree](https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:46 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 37 | [Tightrope](https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:41 |
 | 38 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 |
 
-Snapshot ID: `aoOggAAAAADNmt9wBq1BHu5FMH+iXnNa`
+Snapshot ID: `aoTyAAAAAADtZqTeSAVspvO4xzaKM5N4`

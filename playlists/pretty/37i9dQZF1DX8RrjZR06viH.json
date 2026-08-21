@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158460,
+  "num_followers": 158451,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB04uVzQ3Vzd9Zvu38sVR1dFb4Le",
+  "snapshot_id": "AAAAAEIHfTDfP3P1Mm8LQj2BEWd7TFRx",
   "tracks": [
     {
       "added_at": "2026-05-22 07:11:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 292093,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Her vil e v\u00e6r",
-        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Her vil e v\u00e6r",
-      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Love & Hyperbole (Deluxe)",
         "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 192355,
       "name": "Clean",
       "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Oppe p\u00e5 m\u00e5nen",
         "url": "https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 215991,
       "name": "Oppe p\u00e5 m\u00e5nen",
       "url": "https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Fargepalett",
         "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
       },
@@ -1427,18 +1411,34 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+        "name": "Again, for the first time",
+        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
         }
       ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+      "duration_ms": 219130,
+      "name": "Alchemy (Living Is Not For The Heart)",
+      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

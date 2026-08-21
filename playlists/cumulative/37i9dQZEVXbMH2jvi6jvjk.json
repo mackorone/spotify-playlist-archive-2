@@ -13971,6 +13971,36 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/2Ivj87ZpYPeIt57s4kgrsZ"
+      },
+      "artists": [
+        {
+          "name": "Zulu Queens",
+          "url": "https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261076,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv"
+    },
+    {
+      "album": {
         "name": "Dlala (feat. DJ Maphorisa)",
         "url": "https://open.spotify.com/album/2LRlSTlr2ar6SJp4m5Ns8D"
       },
@@ -27440,7 +27470,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -31608,7 +31638,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -36226,7 +36256,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 384000,
       "name": "Mngani Wami (Jaydecai)",
       "url": "https://open.spotify.com/track/6R57BSk5QPahDhxRuVqWoh"
@@ -38129,6 +38159,28 @@
     },
     {
       "album": {
+        "name": "Maja - Samo",
+        "url": "https://open.spotify.com/album/7dz2BtduOkuorCzX4do7fx"
+      },
+      "artists": [
+        {
+          "name": "Litshepe Lr",
+          "url": "https://open.spotify.com/artist/4V2bNUzG4AXwrZE1Dxr8WX"
+        },
+        {
+          "name": "Khuthuza",
+          "url": "https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345248,
+      "name": "Natala",
+      "url": "https://open.spotify.com/track/0lFyg0WcBIm7tPCKerHyM8"
+    },
+    {
+      "album": {
         "name": "National Anthem",
         "url": "https://open.spotify.com/album/3O1PEMCkjVRr4Nq9qhUB1h"
       },
@@ -39518,6 +39570,28 @@
       "duration_ms": 282444,
       "name": "Nginsizwa Ngqo",
       "url": "https://open.spotify.com/track/5tC07gBboUig2RI6Bauc5i"
+    },
+    {
+      "album": {
+        "name": "AmaKillometre",
+        "url": "https://open.spotify.com/album/2zRYEhA2jbOEJkxHxmutpG"
+      },
+      "artists": [
+        {
+          "name": "Maqatha",
+          "url": "https://open.spotify.com/artist/7ijapeqUB1Kjh7Ou34Bbtk"
+        },
+        {
+          "name": "Inkosi Yamagcokama",
+          "url": "https://open.spotify.com/artist/6nUOVYcWS0pat3LXuZMe6q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262625,
+      "name": "Ngiphelele",
+      "url": "https://open.spotify.com/track/64N5FotBq94fBRNG6GWoTX"
     },
     {
       "album": {
@@ -57974,7 +58048,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 203388,
       "name": "U XA",
       "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
@@ -60314,7 +60388,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 198009,
       "name": "Uyajola lo",
       "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"
@@ -61338,7 +61412,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 278804,
       "name": "Vuka Vuka Ksile!!! - Remix",
       "url": "https://open.spotify.com/track/0Dh9VhB2hjN4pkvPvreIzw"
@@ -61460,6 +61534,24 @@
       "duration_ms": 277629,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/7csqXkDbGhTXVNqGFmbwUa"
+    },
+    {
+      "album": {
+        "name": "Vuma (Remix)",
+        "url": "https://open.spotify.com/album/1NsmOwDrZoOIxFxKT2tmFY"
+      },
+      "artists": [
+        {
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324724,
+      "name": "Vuma - Remix",
+      "url": "https://open.spotify.com/track/3622VWSFknHnLks1B4dyB7"
     },
     {
       "album": {

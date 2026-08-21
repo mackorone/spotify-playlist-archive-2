@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 611956,
+  "num_followers": 611961,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMQT44INQlEcnKzGuGtYlw4El9k",
+  "snapshot_id": "AAAAAGC5d516Ei2XA07RK3dtakMagXE/",
   "tracks": [
     {
       "added_at": "2026-02-08 16:59:41",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
-        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "The Glorious Dead",
         "url": "https://open.spotify.com/album/5MmMomspau1V5YpXjHYJRy"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 226380,
       "name": "What Makes A Good Man?",
       "url": "https://open.spotify.com/track/3nGWzFBJ5tMzHWAgs16fK6"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "In Times New Roman...",
         "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
       "added_at": "2026-02-08 16:59:41",

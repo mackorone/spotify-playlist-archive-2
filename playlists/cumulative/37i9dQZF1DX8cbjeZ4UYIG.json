@@ -131,24 +131,6 @@
     },
     {
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc"
-      },
-      "artists": [
-        {
-          "name": "N Joi",
-          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
-        }
-      ],
-      "date_added": "2020-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243826,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4"
-    },
-    {
-      "album": {
         "name": "Masters Series - 90's House Party",
         "url": "https://open.spotify.com/album/6QuICThYwco66fUhxNhmgY"
       },
@@ -164,6 +146,24 @@
       "duration_ms": 243973,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/3OmIL39latV0jEW8E68aoG"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc"
+      },
+      "artists": [
+        {
+          "name": "NJOI",
+          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4"
     },
     {
       "album": {

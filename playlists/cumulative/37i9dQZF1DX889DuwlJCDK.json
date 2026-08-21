@@ -16898,7 +16898,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 274388,
       "name": "\u305d\u306e\u672a\u6765",
       "url": "https://open.spotify.com/track/3ixysyKj23yfuMEP5kQTmL"
@@ -26302,6 +26302,24 @@
       "duration_ms": 224904,
       "name": "\u5411\u65e5\u8475",
       "url": "https://open.spotify.com/track/5wFG3IPIjDG4m5bNtubR7I"
+    },
+    {
+      "album": {
+        "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
+        "url": "https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
+      "url": "https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2116434,
+  "num_followers": 2116536,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJup9GssDtMzpUWaIxYf/qX4fCq",
+  "snapshot_id": "AAAAAGW2BpM7mhXLIV3nzTHMQBzAYtwW",
   "tracks": [
     {
       "added_at": "2026-07-31 00:00:14",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "That Sea, The Gambler",
-        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 360933,
-      "name": "The Stable Song",
-      "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "The Swell",
         "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 207959,
       "name": "The Swell",
       "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "That Sea, The Gambler",
+        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 360933,
+      "name": "The Stable Song",
+      "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Dying Star",
         "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 277293,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195763,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 217983,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195763,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 450986,
       "name": "Let Me Get There",
       "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "If It Ain't You",
         "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 210133,
       "name": "If It Ain't You",
       "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Unessential Oils",
-        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
-      },
-      "artists": [
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
-        }
-      ],
-      "duration_ms": 265880,
-      "name": "Solutions to My Gloom",
-      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "In the Clouds",
-        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 212047,
-      "name": "In the Clouds",
-      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "In the Clouds",
+        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 212047,
+      "name": "In the Clouds",
+      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Can You Handle My Love??",
-        "url": "https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 256326,
-      "name": "Can You Handle My Love??",
-      "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 213169,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Can You Handle My Love??",
+        "url": "https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 256326,
+      "name": "Can You Handle My Love??",
+      "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Shaking Hands With Elvis",
+        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 209087,
+      "name": "Hollywood Forever Cemetery",
+      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Ocean Bed",
         "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "Shaking Hands With Elvis",
-        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 209087,
-      "name": "Hollywood Forever Cemetery",
-      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 219725,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Anything Without You",
         "url": "https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 240987,
       "name": "Sunshine Kisses",
       "url": "https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Keep On Dreamin'",
         "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 266560,
       "name": "Keep On Dreamin'",
       "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "The Color That Suits You",
         "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
     },
     {
       "added_at": "2026-07-31 00:00:14",

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96300,
+  "num_followers": 96314,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYYiutJlTj5KouG1TKO/i9mrNh7",
+  "snapshot_id": "AAAAABsGv0MfxdjSSCRbCYQtmCAp9DWL",
   "tracks": [
     {
       "added_at": "2026-08-17 11:28:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Tequila In My Eyes",
-        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 183747,
-      "name": "Tequila In My Eyes",
-      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
         "name": "PSSY MTHRFCKRZ (Chaos Project & Sakyra Remix)",
         "url": "https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc"
       },
@@ -355,6 +335,26 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
+        "name": "Tequila In My Eyes",
+        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 183747,
+      "name": "Tequila In My Eyes",
+      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
         "name": "Round My Mind",
         "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
       },
@@ -367,42 +367,6 @@
       "duration_ms": 216000,
       "name": "Round My Mind",
       "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
-        "name": "Dark Smile",
-        "url": "https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc"
-      },
-      "artists": [
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        },
-        {
-          "name": "IMHAPPY",
-          "url": "https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB"
-        }
-      ],
-      "duration_ms": 216705,
-      "name": "Dark Smile",
-      "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -427,6 +391,42 @@
       "duration_ms": 161684,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
+        "name": "Dark Smile",
+        "url": "https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "IMHAPPY",
+          "url": "https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB"
+        }
+      ],
+      "duration_ms": 216705,
+      "name": "Dark Smile",
+      "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-08-17 11:28:00",

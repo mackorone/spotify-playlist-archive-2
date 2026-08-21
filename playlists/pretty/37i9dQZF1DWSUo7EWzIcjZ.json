@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 386257,
+  "num_followers": 386255,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMNBWr8wu5tYwVns6JdEOIPRx2m",
+  "snapshot_id": "AAAAAON9m7be3AsAafLwjdA+n1sXLwBh",
   "tracks": [
     {
       "added_at": "2025-04-10 23:53:58",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Amame",
-        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 289973,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 281760,
       "name": "Desnudate Mujer",
       "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Amame",
+        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 289973,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Devorame Otra Vez",
-      "url": "https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Resistire",
         "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 310226,
       "name": "Resistire",
       "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Devorame Otra Vez",
+      "url": "https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Me Olvide de Vivir",
         "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 351026,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "La Radio",
-      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Y M\u00e1s",
         "url": "https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 248400,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "La Radio",
+      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Como Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 322066,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Como Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 278760,
-      "name": "Medley",
-      "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El Maestro Con Sus 16 Exitos",
         "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 279533,
       "name": "No Hay Nadie Mas",
       "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 278760,
+      "name": "Medley",
+      "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues Volume 2",
-        "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 298360,
-      "name": "Colegiala (La)",
-      "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 237826,
       "name": "El Silencio, Tu Y Yo",
       "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues Volume 2",
+        "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 298360,
+      "name": "Colegiala (La)",
+      "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2415,8 +2415,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Mayimbe",
-        "url": "https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf"
+        "name": "El Gran Mayimbe",
+        "url": "https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC"
       },
       "artists": [
         {
@@ -2424,9 +2424,9 @@
           "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
         }
       ],
-      "duration_ms": 305933,
-      "name": "Tabaco Y Ron",
-      "url": "https://open.spotify.com/track/2xO37ku7ZNTDRaPx33a8dl"
+      "duration_ms": 141573,
+      "name": "Concavo Y Convexo",
+      "url": "https://open.spotify.com/track/38Nbr6NsK7PS12qPnbnUcz"
     },
     {
       "added_at": "2024-06-28 21:55:14",

@@ -1,411 +1,31 @@
 {
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:7a5xPqxWpIHk4tcdv7bDc6\">MICHA</a> ",
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:0BFood0cmj86LkpdOArhNs\">Langa</a> ",
   "num_followers": 8151,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFF7YDLRHme6HszaOoIA+nKUCxfm",
+  "snapshot_id": "AAAAACYiF3gwqdWbS3zNmH40hSEdMue4",
   "tracks": [
     {
-      "added_at": "2026-07-23 22:00:07",
+      "added_at": "2026-08-20 22:00:11",
       "album": {
-        "name": "Lose My Life",
-        "url": "https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg"
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
       },
       "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 187365,
-      "name": "Lose My Life",
-      "url": "https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 217637,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 189550,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Wishing Stone",
-        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Wishing Stone",
-      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Whatever It Takes (Break Your Heart)",
-        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 175588,
-      "name": "Whatever It Takes (Break Your Heart)",
-      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Vuurwerk",
-        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        },
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Vuurwerk",
-      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Ereronde (Deluxe)",
-        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Brassen",
-      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Ereronde (Deluxe)",
-        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 173513,
-      "name": "100K Summer",
-      "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Ereronde",
-        "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Eerste Klus",
-      "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Waar Blijf Je Nou",
-        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        }
-      ],
-      "duration_ms": 178432,
-      "name": "Waar Blijf Je Nou",
-      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Alles Wat Ik Nodig Heb",
-        "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "Alles Wat Ik Nodig Heb",
-      "url": "https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Tranen Van Goud",
-        "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Blommaert",
-          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
-        },
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Tranen Van Goud",
-      "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Huisje Aan De Zee",
-        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "Huisje Aan De Zee",
-      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Ik Zing (feat. Snelle)",
-        "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Ik Zing (feat. Snelle)",
-      "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Beter Zo",
-        "url": "https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI"
-      },
-      "artists": [
-        {
-          "name": "Aaron Blommaert",
-          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Beter Zo",
-      "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1k781LjKYC3QydP3Iqi42x"
-      },
-      "artists": [
-        {
-          "name": "Aaron Blommaert",
-          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "WIE?",
-        "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Blommaert",
-          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "WIE?",
-      "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Slow Death Of A Good Girl",
-        "url": "https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 287238,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Bowie's Pressure",
-        "url": "https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 192365,
-      "name": "Bowie's Pressure",
-      "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Youman",
-        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "Youman",
-      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
-    },
-    {
-      "added_at": "2026-07-23 22:00:07",
-      "album": {
-        "name": "Zijkant",
-        "url": "https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2"
-      },
-      "artists": [
-        {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
-        },
         {
           "name": "Langa",
           "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
-        },
-        {
-          "name": "Priceless",
-          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
-        },
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Zijkant",
-      "url": "https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg"
+      "duration_ms": 152500,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
-      "added_at": "2026-07-23 22:00:07",
+      "added_at": "2026-08-20 22:00:11",
       "album": {
         "name": "Op Een Go",
         "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
@@ -429,7 +49,7 @@
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
     },
     {
-      "added_at": "2026-07-23 22:00:07",
+      "added_at": "2026-08-20 22:00:11",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -453,7 +73,375 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-07-23 22:00:07",
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Lose My Life",
+        "url": "https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 187365,
+      "name": "Lose My Life",
+      "url": "https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 217637,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 189550,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Whatever It Takes (Break Your Heart)",
+        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Whatever It Takes (Break Your Heart)",
+      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Vuurwerk",
+        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Vuurwerk",
+      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Brassen",
+      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 173513,
+      "name": "100K Summer",
+      "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Ereronde",
+        "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Eerste Klus",
+      "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Waar Blijf Je Nou",
+        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Waar Blijf Je Nou",
+      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Alles Wat Ik Nodig Heb",
+        "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "Alles Wat Ik Nodig Heb",
+      "url": "https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Tranen Van Goud",
+        "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        },
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Tranen Van Goud",
+      "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Ik Zing (feat. Snelle)",
+        "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 174288,
+      "name": "Ik Zing (feat. Snelle)",
+      "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Beter Zo",
+        "url": "https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Beter Zo",
+      "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1k781LjKYC3QydP3Iqi42x"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "WIE?",
+        "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "WIE?",
+      "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Slow Death Of A Good Girl",
+        "url": "https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "duration_ms": 287238,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Bowie's Pressure",
+        "url": "https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "duration_ms": 192365,
+      "name": "Bowie's Pressure",
+      "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
+      "album": {
+        "name": "Youman",
+        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "Youman",
+      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
+    },
+    {
+      "added_at": "2026-08-20 22:00:11",
       "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
@@ -473,7 +461,7 @@
       "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
-      "added_at": "2026-07-23 22:00:07",
+      "added_at": "2026-08-20 22:00:11",
       "album": {
         "name": "Echte Liefde Is Te Koop - Spotify Singles",
         "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
@@ -489,7 +477,7 @@
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
     },
     {
-      "added_at": "2026-07-23 22:00:07",
+      "added_at": "2026-08-20 22:00:11",
       "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"

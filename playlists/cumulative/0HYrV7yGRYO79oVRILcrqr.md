@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-688 songs - 1 day 18 hr 44 min
+689 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [She's the girl](https://open.spotify.com/track/45N1BAybnbjmr7GqLsWpGB) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Tell me what it's for](https://open.spotify.com/album/3rbYCgf76Hv8h5GqckdG7U) | 3:38 | 2025-12-16 | 2026-04-21 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2025-12-04 | 2025-12-17 |
 | [Sick!](https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A) | [Sick!](https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5) | 2:59 | 2026-07-06 | 2026-08-01 |
+| [Silk](https://open.spotify.com/track/2VqLPBZXPZRdC28oPsXWBH) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Silk](https://open.spotify.com/album/0vec6giGjk5XCpsGt8qGpB) | 5:05 | 2026-08-20 |  |
 | [Silver stream](https://open.spotify.com/track/02G5hYmq30lppq3ApFFVyQ) | [Latencia 0](https://open.spotify.com/artist/6HS2Rmxcd00zEKWt6AIn43) | [Silver stream](https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ) | 3:01 | 2026-05-06 | 2026-05-26 |
 | [Silver Sun](https://open.spotify.com/track/1SRg1WTKk2Uq8tw0MmgDi2) | [Fish Pond Ponies](https://open.spotify.com/artist/6JDLBZ98LILGDamFL9XE9H) | [Silver Sun](https://open.spotify.com/album/5I4IV0TfzKqZ8TH4BrNAJk) | 2:18 | 2026-04-02 | 2026-04-21 |
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-01-02 | 2026-03-18 |

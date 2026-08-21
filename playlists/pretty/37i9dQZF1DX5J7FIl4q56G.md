@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Wage War
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,918 likes - 205 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,063 likes - 205 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 204 | [Tyhjyys](https://open.spotify.com/track/7MmtXuRMx1kyCE8Jw3d4Xm) | [Noumena](https://open.spotify.com/artist/4vWgFBf8pMnDHVq2CTWvvL) | [Tyhjyys](https://open.spotify.com/album/7rRDyiaX4ljOrlejDkTRcc) | 4:55 |
 | 205 | [TOTKO](https://open.spotify.com/track/69zZLgwJBv5remaMH8Xu0v) | [Bexley](https://open.spotify.com/artist/4svqYIReyb53k0Kaxun76R) | [TOTKO](https://open.spotify.com/album/5TmPO0yBNPR2k9sF99EV5i) | 3:07 |
 
-Snapshot ID: `AAAAAMvSG0+6VTihbII/FSkqRQBbhsyk`
+Snapshot ID: `AAAAAOClSZiAI+ylWOsXdccfnsaduJ1L`

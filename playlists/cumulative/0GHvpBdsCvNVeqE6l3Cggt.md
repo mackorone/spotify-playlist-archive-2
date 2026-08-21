@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-142 songs - 8 hr 13 min
+144 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [GROWING](https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW) | 2:49 | 2025-12-29 | 2026-01-29 |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |
 | [Heat Waves](https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [Heat Waves](https://open.spotify.com/album/15VpR4eExdUCyULMe0WZum) | 2:59 | 2025-12-24 | 2026-01-29 |
+| [Hope](https://open.spotify.com/track/7eTzPRx4F8hARRbGM9YAFX) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Hope](https://open.spotify.com/album/4rvubClwvLBYoVnJOzgmZi) | 2:57 | 2026-08-20 |  |
 | [I Have Myself](https://open.spotify.com/track/23VrT5eYArnddWOUZNwxVK) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [I Have Myself](https://open.spotify.com/album/34v9wtjbxHZ1qz4SY6UbPl) | 3:07 | 2026-07-03 | 2026-07-30 |
 | [I Told You She's Mental](https://open.spotify.com/track/5gTEjXDkpMHIZwPatbmzx9) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/5fVZjOtZae0991fzloTglF) | 2:51 | 2025-10-13 |  |
 | [I Want More](https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP) | [The Sunshine Kidz](https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ) | [I Want Your Soul](https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv) | 4:25 | 2026-02-13 | 2026-03-06 |
@@ -110,6 +111,7 @@
 | [Reason](https://open.spotify.com/track/2Dj0xj2L1oYGiiANCfXHao) | [Maliuha](https://open.spotify.com/artist/3t5EqB9jJnmv9F5OlYH3Yk) | [Molly19](https://open.spotify.com/album/2h8A8KwGkeNxcznsicyj2I) | 4:21 | 2025-11-06 | 2025-11-22 |
 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 | 2026-02-23 | 2026-03-14 |
 | [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-10-22 | 2025-12-03 |
+| [Rule Breakers](https://open.spotify.com/track/6sdx6g2pj2YDMvqQBD3wu4) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Rule Breakers](https://open.spotify.com/album/5S6EUNPDwuZPWOttwz3ZAa) | 3:12 | 2026-08-20 |  |
 | [Sandcastle](https://open.spotify.com/track/0N2d2I8iFfz6ExzJeVQ5gU) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 3:02 | 2025-10-13 |  |
 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 | 2025-12-02 | 2025-12-28 |
 | [Second Chance](https://open.spotify.com/track/49D2hBnLk5rqQzPUEsS0zS) | [Ryandexbull](https://open.spotify.com/artist/6xcOyB1OapzUvFSR8d6R4M) | [Second Chance](https://open.spotify.com/album/74CnigfnvWZeyglwZYzMcO) | 3:03 | 2026-04-20 | 2026-05-21 |

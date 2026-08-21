@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "1991",
+        "url": "https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375586,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z"
+    },
+    {
+      "album": {
         "name": "2 GUNS UPP SOM JUL",
         "url": "https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 130294,
       "name": "ADONAI",
       "url": "https://open.spotify.com/track/54JmOwxeiHWuCQg0ILYrB1"
@@ -9412,7 +9430,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 142666,
       "name": "CONFETTI",
       "url": "https://open.spotify.com/track/2AV8Is68dMMEMOE30D1nb7"
@@ -14576,7 +14594,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 128837,
       "name": "FINAL",
       "url": "https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw"
@@ -20417,6 +20435,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/45karA3JGFDxce1LsNYaMI"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/7m4RmldpdOi6IyZRXQdWkA"
+    },
+    {
+      "album": {
         "name": "IGEN",
         "url": "https://open.spotify.com/album/24tvr6O3G1H2yqyh0xEeUL"
       },
@@ -20574,6 +20610,24 @@
       "duration_ms": 124363,
       "name": "IKV\u00c4LL",
       "url": "https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa"
+    },
+    {
+      "album": {
+        "name": "ILLEGAL",
+        "url": "https://open.spotify.com/album/5OBWvFVMdmfDOPmQ5DkE1n"
+      },
+      "artists": [
+        {
+          "name": "R10",
+          "url": "https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "ILLEGAL",
+      "url": "https://open.spotify.com/track/2AnpaLZEachdaUtzpoLrjn"
     },
     {
       "album": {
@@ -23954,7 +24008,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 126000,
       "name": "K\u00e4rlek & brott",
       "url": "https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI"
@@ -31065,6 +31119,28 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140198,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d"
+    },
+    {
+      "album": {
         "name": "NO NAMES",
         "url": "https://open.spotify.com/album/5iEGH5wFfbpWxdWSUWaL3R"
       },
@@ -33438,7 +33514,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 116000,
       "name": "PERFORMANTE",
       "url": "https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q"
@@ -33590,7 +33666,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 110769,
       "name": "Pimp",
       "url": "https://open.spotify.com/track/660TO98oRtW8Sky6qNDzL7"
@@ -35968,6 +36044,24 @@
       "duration_ms": 167727,
       "name": "R\u00f6sten",
       "url": "https://open.spotify.com/track/0CosqxAwNE3c9HGwPuGxey"
+    },
+    {
+      "album": {
+        "name": "SABR",
+        "url": "https://open.spotify.com/album/6TWAS7oAvNtpF019v2MYne"
+      },
+      "artists": [
+        {
+          "name": "LB",
+          "url": "https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "SABR",
+      "url": "https://open.spotify.com/track/5xL3o0xOyLiHQ5J7zhxQIE"
     },
     {
       "album": {
@@ -38922,7 +39016,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 183000,
       "name": "Span",
       "url": "https://open.spotify.com/track/2YTyG2NLCd6gFJjAXlgHuU"
@@ -39258,6 +39352,24 @@
       "duration_ms": 132244,
       "name": "Stanna",
       "url": "https://open.spotify.com/track/2J8yqByteAvzKhHpyIx0WH"
+    },
+    {
+      "album": {
+        "name": "Stanna h\u00e4r",
+        "url": "https://open.spotify.com/album/49ScE4ysBiRGmClxB3KpOx"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174015,
+      "name": "Stanna h\u00e4r",
+      "url": "https://open.spotify.com/track/2z6wMEjHwzyKZd2xyZC0yv"
     },
     {
       "album": {
@@ -43647,6 +43759,24 @@
     },
     {
       "album": {
+        "name": "TURN ME ON",
+        "url": "https://open.spotify.com/album/0J4qaLQe1pjShuDZU2eeaw"
+      },
+      "artists": [
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86400,
+      "name": "TURN ME ON",
+      "url": "https://open.spotify.com/track/6dU5BjBor0KLXvhf77KDrZ"
+    },
+    {
+      "album": {
         "name": "Turn Up",
         "url": "https://open.spotify.com/album/4Two3vx9kFzg7akNFxd2UK"
       },
@@ -43908,7 +44038,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 149367,
       "name": "T\u00e5rar Under Regn",
       "url": "https://open.spotify.com/track/5ya4qhXRXjgXDFAa8x2k6y"
@@ -46088,6 +46218,32 @@
       "duration_ms": 161250,
       "name": "WAS GEHT",
       "url": "https://open.spotify.com/track/3DchPWZrC5ZjjCEVkU392L"
+    },
+    {
+      "album": {
+        "name": "WATAGWAN",
+        "url": "https://open.spotify.com/album/4bdaG6mFwOPmdMvvSnxyOt"
+      },
+      "artists": [
+        {
+          "name": "D4vvyy",
+          "url": "https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl"
+        },
+        {
+          "name": "1HUNNA",
+          "url": "https://open.spotify.com/artist/5atNT9H8UsejUwzKrmzipk"
+        },
+        {
+          "name": "Maxxk",
+          "url": "https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126637,
+      "name": "WATAGWAN",
+      "url": "https://open.spotify.com/track/7ss109bgEL5gY3T8LEeDkD"
     },
     {
       "album": {

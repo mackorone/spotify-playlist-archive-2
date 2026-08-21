@@ -2,9 +2,9 @@
 
 ### [pop tranqui](https://open.spotify.com/playlist/37i9dQZF1DXbVHKWFrMbq2)
 
-> canciones para chillear con Mar Marzo
+> Canciones para chillear, con esperanzah en portada.
 
-252 songs - 13 hr 36 min
+253 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 | 2024-03-30 |
 | [Qué Bien Se Te Ve \(En la Ventana\) \[feat\. Alex Ubago\]](https://open.spotify.com/track/5Lc6t78tSYI5tILlFyr3l0) | [MARASMO](https://open.spotify.com/artist/5c7eng6pvZIUFqfgWMTHWX), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Qué Bien Se Te Ve \(En la Ventana\) \[feat\. Alex Ubago\]](https://open.spotify.com/album/4DdM1WZrGoE41e524zFqRV) | 3:01 | 2026-02-06 | 2026-02-28 |
 | [Rayo de sol](https://open.spotify.com/track/11aKpufd8rGqYlnvdV1tsy) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Rayo de sol](https://open.spotify.com/album/0nk9G0rOQPxTQuSkSGnPVn) | 2:35 | 2025-09-26 |  |
+| [Reflejo](https://open.spotify.com/track/4pKSx913Sc7SxKryMlVf0q) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6), [Victoria May](https://open.spotify.com/artist/6uTYglYuTqzO0tdbDEmiQR) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 3:46 | 2026-08-20 |  |
 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2023-10-17 | 2024-03-30 |
 | [Resurrección](https://open.spotify.com/track/25w2E5BsT292BwrbwTL1Uk) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Resurrección](https://open.spotify.com/album/5AhTQn9Qduu2blrjquRNmO) | 2:10 | 2025-06-20 | 2025-07-18 |
 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 | 2023-11-14 | 2024-03-07 |
@@ -229,7 +230,7 @@
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-29 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 | 2024-03-31 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-19 | 2024-12-26 |
-| [TRANQUILO](https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [TRANQUILO](https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo) | 4:00 | 2026-05-08 |  |
+| [TRANQUILO](https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [TRANQUILO](https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo) | 4:00 | 2026-05-08 | 2026-08-21 |
 | [Tu mala suerte](https://open.spotify.com/track/1WWEnbMSb8iptrRueYKKQR) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Tu mala suerte](https://open.spotify.com/album/7eW7B86BPBgyQ5ZVvvjgk7) | 2:03 | 2025-12-21 | 2026-02-28 |
 | [Tu soledad y la mía \- En vivo en Buenos Aires](https://open.spotify.com/track/1qBuD0e1Iv3CMmUYfWrvDB) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [En vivo en Buenos Aires](https://open.spotify.com/album/0QVugRCVGqYENIJvtfxvfZ) | 3:42 | 2026-04-24 | 2026-05-15 |
 | [Tus Ojos](https://open.spotify.com/track/2AxlsVkjmhSPn8xVZLLeDx) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Tus Ojos](https://open.spotify.com/album/2kbuz6nzNvlAgmNavzihpv) | 2:15 | 2023-10-17 | 2023-12-25 |

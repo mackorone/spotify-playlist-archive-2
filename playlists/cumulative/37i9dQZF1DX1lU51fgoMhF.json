@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: Red Velvet)",
+  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: AtHeart)",
   "name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 215560,
       "name": "22CENTURY GIRL",
       "url": "https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7"
+    },
+    {
+      "album": {
+        "name": "3!4!",
+        "url": "https://open.spotify.com/album/3zkhIjoJcVRSDmJgqcJQ0S"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "3!4!",
+      "url": "https://open.spotify.com/track/0T4MGleipdya21hGDdMjhY"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"

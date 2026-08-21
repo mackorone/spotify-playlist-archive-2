@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,046 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,058 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 59 | [Satisfy My Soul \- Acoustic Version](https://open.spotify.com/track/1zVOkdbHW9jlgPsjlhlbQd) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Satisfy My Soul \(Acoustic Version\)](https://open.spotify.com/album/0j91XRAE07yea6hPkMgN0e) | 3:15 |
 | 60 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
 
-Snapshot ID: `AAAAAHuV9lqQywDaxnVjjv8MY0T147VS`
+Snapshot ID: `AAAAADutTO/n8u1Sop7N04EshEBC8sDt`

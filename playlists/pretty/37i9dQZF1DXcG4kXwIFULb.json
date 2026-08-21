@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 231344,
+  "num_followers": 231387,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5ZaRuJtmZKICAHQzGvDbMAkhM4",
+  "snapshot_id": "AAAAAK8s3VnPW/ZWOWCDMklzbH64j0HH",
   "tracks": [
     {
       "added_at": "2024-07-12 16:10:01",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Audience's Listening (U.S. Version)",
-        "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
-      },
-      "artists": [
-        {
-          "name": "Cut Chemist",
-          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
-        }
-      ],
-      "duration_ms": 375546,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Paradise Blown",
         "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The Audience's Listening (U.S. Version)",
+        "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
+      },
+      "artists": [
+        {
+          "name": "Cut Chemist",
+          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
+        }
+      ],
+      "duration_ms": 375546,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1303,6 +1303,38 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
       },
@@ -1335,34 +1367,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
+        "name": "The Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
       },
       "artists": [
         {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+      "duration_ms": 290826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Come Touch The Sun",
         "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -1515,6 +1515,26 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Superluminal",
+        "url": "https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        },
+        {
+          "name": "Mani Obeya",
+          "url": "https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1663,22 +1683,6 @@
       "duration_ms": 272613,
       "name": "Ocean Beat",
       "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Maim That Tune",
-        "url": "https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF"
-      },
-      "artists": [
-        {
-          "name": "Fila Brazillia",
-          "url": "https://open.spotify.com/artist/2wss0kNi7zdZTrxnCFxSQW"
-        }
-      ],
-      "duration_ms": 566146,
-      "name": "A Zed And Two L's",
-      "url": "https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ"
     }
   ],
   "unique_name": "Chillout Classics",

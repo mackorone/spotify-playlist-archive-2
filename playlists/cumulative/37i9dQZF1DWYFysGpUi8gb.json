@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 317613,
       "name": "5words",
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
@@ -1983,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2TMK2M8u1jWYeSTayIAcis"
+      },
+      "artists": [
+        {
+          "name": "Lande Hekt",
+          "url": "https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224663,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4Xxs7mapd3iReIcGZ2pR8d"
+    },
+    {
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i"
       },
@@ -3641,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Flight Path",
+        "url": "https://open.spotify.com/album/5IGMa2oQqkImPC71LLpJfA"
+      },
+      "artists": [
+        {
+          "name": "The Tullamarines",
+          "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214464,
+      "name": "Flight Path",
+      "url": "https://open.spotify.com/track/0XiJyhqf5EpBkCXydRUBdk"
+    },
+    {
+      "album": {
         "name": "Flowers in the Rain",
         "url": "https://open.spotify.com/album/3ch7NaK5OfME3gyySmo7Dt"
       },
@@ -4120,7 +4156,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 257907,
       "name": "Goddamn, Lizard Man!",
       "url": "https://open.spotify.com/track/4idVmr6bLVBwoEn9rtmBKP"
@@ -4214,7 +4250,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 267560,
       "name": "grapevine",
       "url": "https://open.spotify.com/track/37x7bNCSFxzYXoyrDZXQZd"
@@ -4236,6 +4272,24 @@
       "duration_ms": 148093,
       "name": "Grazer",
       "url": "https://open.spotify.com/track/6x5YxvJ6jFKTSCNU8FfJ2U"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0A7dqAIbdqlPyBhoOyeAN4"
+      },
+      "artists": [
+        {
+          "name": "the Po",
+          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186540,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/0a87nx2e9JdXHbn2Cjhhvp"
     },
     {
       "album": {
@@ -4470,7 +4524,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 141146,
       "name": "Heaven Now",
       "url": "https://open.spotify.com/track/6754QvJuh7U1XbvgGPhPNv"
@@ -5284,7 +5338,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 197997,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/0FXwIu4BmpxGIV0R3cWgFy"
@@ -5738,7 +5792,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 196926,
       "name": "Lazy Dreams",
       "url": "https://open.spotify.com/track/7fjRfwPl4Ay7o70O5eaRIp"
@@ -6152,7 +6206,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 216208,
       "name": "Lunch Money",
       "url": "https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds"
@@ -6444,6 +6498,24 @@
       "duration_ms": 237997,
       "name": "Miss Together",
       "url": "https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w"
+    },
+    {
+      "album": {
+        "name": "Mission St.",
+        "url": "https://open.spotify.com/album/6aAxCcRVbyIJzKtZdoBAmw"
+      },
+      "artists": [
+        {
+          "name": "Big Red",
+          "url": "https://open.spotify.com/artist/6BEEGVEK6XIrmqi64E66vC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205340,
+      "name": "Mission St.",
+      "url": "https://open.spotify.com/track/65IyYU7YrR6KPhtBym6fdP"
     },
     {
       "album": {
@@ -7070,7 +7142,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 339424,
       "name": "Nosedive",
       "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
@@ -8208,7 +8280,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161720,
       "name": "Runners",
       "url": "https://open.spotify.com/track/646Ny25eCJqWKRFoU9eeCD"
@@ -8410,6 +8482,24 @@
       "duration_ms": 262517,
       "name": "Selling Shovels",
       "url": "https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc"
+    },
+    {
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Sensational",
+      "url": "https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS"
     },
     {
       "album": {
@@ -9439,6 +9529,28 @@
     },
     {
       "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3W6IgepbcJE1WdvIFfQyjt"
+      },
+      "artists": [
+        {
+          "name": "lil ket",
+          "url": "https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7"
+        },
+        {
+          "name": "David Grey",
+          "url": "https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165349,
+      "name": "Streetlights",
+      "url": "https://open.spotify.com/track/1IsY2z3JN7QTunKn1pSdZ9"
+    },
+    {
+      "album": {
         "name": "Strobe Lights",
         "url": "https://open.spotify.com/album/7ltYQhxKcZxV1eWQmBVBsM"
       },
@@ -9822,6 +9934,24 @@
       "duration_ms": 153780,
       "name": "The Age of Innocence",
       "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
+    },
+    {
+      "album": {
+        "name": "The Ballad of DCB",
+        "url": "https://open.spotify.com/album/2mqVi5BQFMJS0fYCwWfY8T"
+      },
+      "artists": [
+        {
+          "name": "Formal Sppeedwear",
+          "url": "https://open.spotify.com/artist/6jGvuyheUzkEjJLHJopDuu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "The Ballad of DCB",
+      "url": "https://open.spotify.com/track/66mscDg4cGONwg59RJD2Lt"
     },
     {
       "album": {
@@ -10477,6 +10607,24 @@
     },
     {
       "album": {
+        "name": "Tom Will Smack Your Ass",
+        "url": "https://open.spotify.com/album/4Sf27x9wlx7oqbET1SFVz5"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146387,
+      "name": "Tom Will Smack Your Ass",
+      "url": "https://open.spotify.com/track/5i6NfclWkzWgBuJ3YcZdXy"
+    },
+    {
+      "album": {
         "name": "Tomorrow is Perfect",
         "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
       },
@@ -11086,6 +11234,24 @@
       "duration_ms": 256497,
       "name": "Well Done Honey",
       "url": "https://open.spotify.com/track/3wSMGOqlVmrE6yhv7kCKfp"
+    },
+    {
+      "album": {
+        "name": "It Goes On",
+        "url": "https://open.spotify.com/album/3dWKCKeiWtxjDNPTbGCQTO"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207299,
+      "name": "Well Done Kid, You Did It",
+      "url": "https://open.spotify.com/track/0QF3qDMCjP59ycqXSofJA4"
     },
     {
       "album": {

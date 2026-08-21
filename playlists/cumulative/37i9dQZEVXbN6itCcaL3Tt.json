@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Baciata",
       "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
@@ -9892,7 +9892,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 149333,
       "name": "Cartier Love",
       "url": "https://open.spotify.com/track/2h5cUGlv4YPdAYnvgaqnZP"
@@ -25467,6 +25467,24 @@
     },
     {
       "album": {
+        "name": "Jest pi\u0105tek ona mi m\u00f3wi \u017ce chce mnie (Kolorowa magia)",
+        "url": "https://open.spotify.com/album/0CUbvYSdE3ni8zYqLQXoKE"
+      },
+      "artists": [
+        {
+          "name": "undeniable",
+          "url": "https://open.spotify.com/artist/47OhC8ruSKLxnCHs3IqjX9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112709,
+      "name": "Jest pi\u0105tek ona mi m\u00f3wi \u017ce chce mnie (Kolorowa magia)",
+      "url": "https://open.spotify.com/track/6H8iQnkAhAq9lutvxf4weG"
+    },
+    {
+      "album": {
         "name": "Jest tylko teraz (feat. Bedoes, Krzysztof Zalewski & Kwiat Jab\u0142oni)",
         "url": "https://open.spotify.com/album/1HlWatPRHfTF1gw0DjMZbG"
       },
@@ -25824,7 +25842,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 195428,
       "name": "jeszcze raz?",
       "url": "https://open.spotify.com/track/2XrSMR3UjiT4HugD84Y9kt"
@@ -30464,7 +30482,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 109124,
       "name": "LEPA",
       "url": "https://open.spotify.com/track/5V209N14zVkCdrL7AOUxx0"
@@ -34548,7 +34566,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 251400,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
@@ -47320,7 +47338,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 203255,
       "name": "PRZY TOBIE",
       "url": "https://open.spotify.com/track/0XcA8Sa8YTCz5GacKTDy64"
@@ -57540,7 +57558,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"

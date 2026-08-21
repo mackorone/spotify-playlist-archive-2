@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Abigail Chams
+> What is your love language? Say it in Swahili\.  Cover: Mbosso, Nandy, S2kizzy
 
-383 songs - 21 hr 27 min
+385 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Dai](https://open.spotify.com/track/7kfS56uoLEzF0ZZGqCLO5h) | [Dufla](https://open.spotify.com/artist/4GoDK9fd6jIRjetgGZnmnC), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Dai](https://open.spotify.com/album/6z1HBn8vf6Nm9GU8KkT673) | 3:33 | 2023-07-06 | 2023-08-04 |
 | [Dansi](https://open.spotify.com/track/1NP8M4sGjCFA5LBnatSgSz) | [D Ukingo](https://open.spotify.com/artist/3TqLsJbCWP1kXZocSWhpCO) | [Dansi](https://open.spotify.com/album/1eLebeQYFZWIThElQphNZ0) | 2:39 | 2024-11-29 | 2024-12-06 |
-| [Darasa La Saba](https://open.spotify.com/track/2kK6L0G26k6GrYCVG6BKwX) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Darasa La Saba](https://open.spotify.com/album/2wmpUJYl76GbTXEBJn52qV) | 4:20 | 2026-01-29 |  |
+| [Darasa La Saba](https://open.spotify.com/track/2kK6L0G26k6GrYCVG6BKwX) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Darasa La Saba](https://open.spotify.com/album/2wmpUJYl76GbTXEBJn52qV) | 4:20 | 2026-01-29 | 2026-08-21 |
 | [Dawa](https://open.spotify.com/track/6FIJbcrsBRPJ6aMD0pK6Gc) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr) | [Love & Vibes](https://open.spotify.com/album/1kHwfAtBDOcE1cWChXeGNa) | 3:15 | 2023-06-02 | 2023-11-04 |
 | [Dear Dingi](https://open.spotify.com/track/0DkW4lgpl26aY0ScNy5vX2) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Dear Dingi](https://open.spotify.com/album/5cnOSewDZ7XLUtNpqSOSQr) | 3:46 | 2023-11-30 | 2024-05-24 |
 | [Dear X](https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Grace](https://open.spotify.com/album/5SkSitVZlbjhckkWzEyvzj) | 3:47 | 2024-02-22 | 2024-09-21 |
@@ -93,6 +93,7 @@
 | [Hapa](https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Hapa](https://open.spotify.com/album/1Q88BNMCpqlFBh46WRR7pn) | 3:17 | 2023-09-14 | 2024-02-24 |
 | [Hapa](https://open.spotify.com/track/45ON4DKNqj7ZgHlCUZNjkY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Hapa](https://open.spotify.com/album/6wSJ80vqdxaD1x0441FO9n) | 3:17 | 2024-02-22 | 2024-03-08 |
 | [Hate That I Love You](https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Hate That I Love You](https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M) | 2:37 | 2026-06-11 |  |
+| [Hatubishani](https://open.spotify.com/track/3Jv5xwkkioKOhbWWJhECzJ) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL), [Motra the Future](https://open.spotify.com/artist/7kwDEyETjNtgnnqTS2aV6w) | [Hatubishani](https://open.spotify.com/album/5FR7ISBWyHNF5QqOt3KqA4) | 2:43 | 2026-08-20 |  |
 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 | 2023-07-20 | 2024-09-21 |
 | [Hayanogi](https://open.spotify.com/track/3CsK7zOiSlT58HlRHKASOh) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Hayanogi](https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS) | 3:24 | 2026-01-29 |  |
 | [Hello](https://open.spotify.com/track/4csQCFGpamickIt2YqTV8f) | [Malha](https://open.spotify.com/artist/7tJ5WcaS5OyCmruqwhhDNO), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Hello](https://open.spotify.com/album/4fBmAGox8cAnx2OGAIOpum) | 3:19 | 2024-05-23 | 2024-08-30 |
@@ -152,6 +153,7 @@
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 | 2026-03-27 |
 | [Mahaba Rundo](https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 2:46 | 2024-08-15 | 2025-01-31 |
 | [MAJO](https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [MAJO / SEE BODY](https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC) | 2:26 | 2025-12-05 | 2026-08-14 |
+| [Malaika](https://open.spotify.com/track/4pDrRoXNJ89IcAVzYLlNkn) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Malaika](https://open.spotify.com/album/0ncMgAh9d9EphTcCTSYVqK) | 3:21 | 2026-08-20 |  |
 | [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-05-26 | 2023-04-21 |
 | [Mali Safi](https://open.spotify.com/track/275GPFzAqqi5hEZWTvdmPU) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Prince Indah](https://open.spotify.com/artist/72UZHvETWq3aV97cVxC5VS) | [Mali Safi](https://open.spotify.com/album/7fotVPs9r5uBiCmpzidB76) | 3:58 | 2024-07-04 | 2025-02-14 |
 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 | 2024-03-14 | 2024-03-22 |

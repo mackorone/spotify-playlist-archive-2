@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Rise Against",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Rising Insane",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 223827,
       "name": "A Means To An End",
       "url": "https://open.spotify.com/track/3GGb3e8QkQJhH0X8NZNYHu"
@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Calvary Drive",
+        "url": "https://open.spotify.com/album/0JOOdfELgtztjIz9bdvkxs"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165063,
+      "name": "Calvary Drive",
+      "url": "https://open.spotify.com/track/4dHi0ke5ncQfI8gUv2eFRP"
+    },
+    {
+      "album": {
         "name": "Camouflage",
         "url": "https://open.spotify.com/album/2vRnSFCLg0U3l0IE55pLB6"
       },
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189677,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 251200,
       "name": "Control",
       "url": "https://open.spotify.com/track/7KxLGAVUttZgVbFw4CTrQv"
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 158347,
       "name": "Don't Play Nice",
       "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
@@ -6076,7 +6094,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 219230,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/4lS4dkYdYTresy3PchfOFo"
@@ -7325,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "DEATHRACE",
+        "url": "https://open.spotify.com/album/2MDW2hI2jAiomZu97YafXG"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        },
+        {
+          "name": "David Schneider",
+          "url": "https://open.spotify.com/artist/3uADcSi6kTC1leaIeYD2xX"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "GREY (feat. DAVID SCHNEIDER)",
+      "url": "https://open.spotify.com/track/5JgqB4G7hnhLEuWOohcd0a"
+    },
+    {
+      "album": {
         "name": "Soft Noise",
         "url": "https://open.spotify.com/album/3NhMG4t5Jt8fKwGEXeXc1A"
       },
@@ -7732,6 +7772,24 @@
       "duration_ms": 195840,
       "name": "Have You Nothing Left To Say",
       "url": "https://open.spotify.com/track/4731ECfaiQdRvPtE7ioKRN"
+    },
+    {
+      "album": {
+        "name": "He's You",
+        "url": "https://open.spotify.com/album/11Is4izbFAAq8Js1g7qw59"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170358,
+      "name": "He's You",
+      "url": "https://open.spotify.com/track/5hJvxhOBDy3QBkXSzEAWjM"
     },
     {
       "album": {
@@ -9867,6 +9925,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Behind",
+        "url": "https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228052,
+      "name": "Leave Me Behind",
+      "url": "https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ"
+    },
+    {
+      "album": {
         "name": "Generation 404",
         "url": "https://open.spotify.com/album/70GDU423Uvb8h1n9L0b7td"
       },
@@ -10762,7 +10838,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 210555,
       "name": "Lucid Love",
       "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
@@ -11319,6 +11395,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
+    },
+    {
+      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/0ukrY1ejoNr2wqvgWmSkyW"
       },
@@ -11356,6 +11450,24 @@
       "duration_ms": 207160,
       "name": "MISTY ECSTASY",
       "url": "https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl"
+    },
+    {
+      "album": {
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "album": {
@@ -11716,7 +11828,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 304716,
       "name": "Neighbors Blues",
       "url": "https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z"
@@ -12782,7 +12894,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 202866,
       "name": "OVERDOSE",
       "url": "https://open.spotify.com/track/7nfprYkcT4lSxYI8Dnc1hz"
@@ -13288,7 +13400,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 195966,
       "name": "Play Your Games",
       "url": "https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0"
@@ -13494,6 +13606,24 @@
       "duration_ms": 263389,
       "name": "Promises",
       "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
+    },
+    {
+      "album": {
+        "name": "Psalm",
+        "url": "https://open.spotify.com/album/7hPoyoRkH89u0JOn5dpYRk"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134609,
+      "name": "Psalm",
+      "url": "https://open.spotify.com/track/46sup4hIDbytO5HWVQtt6H"
     },
     {
       "album": {
@@ -14547,6 +14677,24 @@
     },
     {
       "album": {
+        "name": "Seasonal Depression",
+        "url": "https://open.spotify.com/album/2eP2gDIgfJctylDFTcmqDc"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152530,
+      "name": "Seasonal Depression",
+      "url": "https://open.spotify.com/track/1bbNPCsT6THQolMQgCKzeK"
+    },
+    {
+      "album": {
         "name": "A.R.S.O.N.",
         "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
@@ -14638,7 +14786,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 236692,
       "name": "Separate",
       "url": "https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3"
@@ -16147,6 +16295,24 @@
     },
     {
       "album": {
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+    },
+    {
+      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/2Ng8R8nGsEKQokT5BqLaoU"
       },
@@ -16212,7 +16378,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 224508,
       "name": "Sweet Sad Sugar",
       "url": "https://open.spotify.com/track/6XPnQtpYuNe8X0wvn4p5K3"
@@ -16432,7 +16598,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 246767,
       "name": "TAPDAT",
       "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
@@ -19418,7 +19584,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"

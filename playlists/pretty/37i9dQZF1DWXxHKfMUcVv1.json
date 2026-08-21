@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127650,
+  "num_followers": 127655,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACjezPeJPyPh2O+KGvJGZ+Ve6vfP",
+  "snapshot_id": "AAAAAGsCZ6SDAX9t2T35xg1dUSzwYL8z",
   "tracks": [
     {
       "added_at": "2025-03-14 20:46:39",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Rey del Norte",
-        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
+        "name": "Canciones Rotas",
+        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
       },
       "artists": [
         {
-          "name": "Grupo Ternura",
-          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
+          "name": "Pablo Benegas",
+          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
+      "duration_ms": 210506,
+      "name": "Soy De Mi Tierra",
+      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Canciones Rotas",
-        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
+        "name": "El Rey del Norte",
+        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
       },
       "artists": [
         {
-          "name": "Pablo Benegas",
-          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
+          "name": "Grupo Ternura",
+          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Soy De Mi Tierra",
-      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
+      "duration_ms": 198960,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        }
+      ],
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "D\u00f3nde est\u00e1 el amor?",
         "url": "https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 194022,
       "name": "D\u00f3nde est\u00e1 el amor?",
       "url": "https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        }
-      ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
-      },
-      "artists": [
-        {
-          "name": "Flou",
-          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Auto",
         "url": "https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 142016,
       "name": "Auto",
       "url": "https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
+      },
+      "artists": [
+        {
+          "name": "Flou",
+          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

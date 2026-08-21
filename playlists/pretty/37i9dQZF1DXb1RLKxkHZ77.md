@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,676 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,680 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Tempuh](https://open.spotify.com/track/7ly5OdpR9vLlNUPmbE6HWh) | [Hady Mirza](https://open.spotify.com/artist/2PpD3uapjVwWbLJI2qbG27) | [Tempuh](https://open.spotify.com/album/3jqANC15vTxL6JpZsx3d2Y) | 4:04 |
 | 50 | [Pugar](https://open.spotify.com/track/3eo26uAD9G5raiXXXpABFQ) | [Umairah](https://open.spotify.com/artist/6qIDCzCk27YtmOVGAllzpa) | [Pugar](https://open.spotify.com/album/3sTxFKkv1lfHDNQPEGWywH) | 4:04 |
 
-Snapshot ID: `AAAAACDcmzlv8mnFxlxJiP2cpMIsXRIh`
+Snapshot ID: `AAAAAG4DLeAV6XyYhQSVo08DPAx//3gm`

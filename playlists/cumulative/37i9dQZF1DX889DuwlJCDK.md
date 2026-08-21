@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: あたらよ
 
-1,913 songs - 4 day 19 hr 50 min
+1,914 songs - 4 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,7 @@
 | [ずっと前から君に恋してる](https://open.spotify.com/track/3yU9LJ8C3szUxYxoXZixBJ) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ずっと前から君に恋してる](https://open.spotify.com/album/062n4VMq8mOi5SHYHL34CX) | 4:08 | 2024-12-24 | 2025-07-09 |
 | [そうじゃなくて](https://open.spotify.com/track/1i7Qw25mXinQVsSP81tQQe) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [そうじゃなくて](https://open.spotify.com/album/75ZXehDeU9L5UMcWqIBAGn) | 4:00 | 2024-04-23 | 2024-05-01 |
 | [そのままのスピードで](https://open.spotify.com/track/2MY8ZClxI6x0lIRTs2nBVn) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [EMBERS](https://open.spotify.com/album/6FMPSSwaKMNjf5gAdxjMWc) | 4:37 | 2026-06-02 | 2026-06-10 |
-| [その未来](https://open.spotify.com/track/3ixysyKj23yfuMEP5kQTmL) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [その未来 / ハロー](https://open.spotify.com/album/1qF9FErvknwXVMkfO0crkz) | 4:34 | 2026-04-14 |  |
+| [その未来](https://open.spotify.com/track/3ixysyKj23yfuMEP5kQTmL) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [その未来 / ハロー](https://open.spotify.com/album/1qF9FErvknwXVMkfO0crkz) | 4:34 | 2026-04-14 | 2026-08-21 |
 | [そばにいてね](https://open.spotify.com/track/6a1hpSyKNuGA4PYJrFD2NI) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [そばにいてね](https://open.spotify.com/album/5ZczWeL8nhL0cgtwNSK7H0) | 4:06 | 2023-12-05 | 2023-12-13 |
 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 | 2025-09-09 | 2026-02-12 |
 | [それは恋に違いない](https://open.spotify.com/track/1mVYkBedxkBJx8bNUvhM3Q) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [それは恋に違いない](https://open.spotify.com/album/5SZfuQLgIsXb13fEgKlGkn) | 3:29 | 2025-08-05 | 2025-08-13 |
@@ -1462,6 +1462,7 @@
 | [合鍵とアイロニー](https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [合鍵とアイロニー](https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf) | 2:52 | 2024-12-17 | 2025-04-02 |
 | [向日葵](https://open.spotify.com/track/7gApMTH54kCLmdFsgr7rT8) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [向日葵](https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr) | 3:19 | 2023-07-27 | 2023-11-10 |
 | [向日葵](https://open.spotify.com/track/5wFG3IPIjDG4m5bNtubR7I) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [向日葵](https://open.spotify.com/album/7DgzqTDAkYBd0J4Slcrqut) | 3:44 | 2026-03-24 | 2026-07-20 |
+| [君がいるはずの駅](https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [君がいるはずの駅](https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5) | 4:01 | 2026-08-18 |  |
 | [君が夜](https://open.spotify.com/track/643xbfqfIM6ltW5jycXFGf) | [anewhite](https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM) | [君が夜](https://open.spotify.com/album/1X502middk1MLmArlQfz1r) | 3:32 | 2024-04-23 | 2024-05-01 |
 | [君が眩しいから僕は星が見えない](https://open.spotify.com/track/2AofAbNYmyevuCF6JEnyOZ) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [All Right](https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n) | 3:55 | 2026-07-16 |  |
 | [君と](https://open.spotify.com/track/63WA25WfYdOGJWSKW9g2NG) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 3:49 | 2024-09-10 | 2024-10-30 |

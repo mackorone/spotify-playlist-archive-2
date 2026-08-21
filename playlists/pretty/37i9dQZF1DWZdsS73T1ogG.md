@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: LIT killah
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,623 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,582 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Dicen](https://open.spotify.com/track/39BO0Ck61wmOvtBB3827ZO) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [Dicen](https://open.spotify.com/album/7hPjkmWA9w1zwxNre2qKgS) | 3:03 |
 | 100 | [CUANDO NOS BAÑAMOS](https://open.spotify.com/track/55jJi3Or9rhLuVZApElz8S) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO) | [CUANDO NOS BAÑAMOS](https://open.spotify.com/album/56uWu01DmOq6JNhvaEF9X3) | 2:14 |
 
-Snapshot ID: `AAAAAKwx+CJVNPWKFpeg88/7q8IaD0RV`
+Snapshot ID: `AAAAALsO12suVgyUABbmPpKD/r/S246G`

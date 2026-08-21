@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 99671,
+  "num_followers": 99712,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACHq0IwsyBA8hMn1bAsuTq6",
+  "snapshot_id": "aoTyAAAAAAC8X9lBc5Oki+TXBTDmIKKK",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Visions (with Stick Figure)",
-      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 274498,
       "name": "Got Me On The Run (with Stick Figure and Pepper)",
       "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Visions (with Stick Figure)",
+      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy to Love You",
-        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
-      },
-      "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 269090,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hopes and Dreams",
         "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 233810,
       "name": "Livin' Easy",
       "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy to Love You",
+        "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
+      },
+      "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 269090,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
     },
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restless Soul",
-        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
       },
       "artists": [
-        {
-          "name": "Stay High",
-          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 256878,
-      "name": "Restless Soul",
-      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+        "name": "Restless Soul",
+        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
       },
       "artists": [
+        {
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
+      "duration_ms": 256878,
+      "name": "Restless Soul",
+      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
     },
     {
       "added_at": null,

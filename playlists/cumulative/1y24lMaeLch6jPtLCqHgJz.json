@@ -879,6 +879,28 @@
     },
     {
       "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW"
+    },
+    {
+      "album": {
         "name": "Bassline Vandal",
         "url": "https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM"
       },
@@ -9360,6 +9382,28 @@
       "duration_ms": 191250,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/12LCVUj2fcM15u5nVfh7ml"
+    },
+    {
+      "album": {
+        "name": "The World Never Sleeps",
+        "url": "https://open.spotify.com/album/6AlRAyUgWH4jc3wGXjVBKr"
+      },
+      "artists": [
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        },
+        {
+          "name": "Blink",
+          "url": "https://open.spotify.com/artist/19fY7qlB3oRObm7sXD64kI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147602,
+      "name": "The World Never Sleeps",
+      "url": "https://open.spotify.com/track/0B2lx3qUaH6N4ZjkPEk5nY"
     },
     {
       "album": {

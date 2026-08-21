@@ -19709,6 +19709,28 @@
     },
     {
       "album": {
+        "name": "Water, CA",
+        "url": "https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr"
+      },
+      "artists": [
+        {
+          "name": "Donatell",
+          "url": "https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d"
+        },
+        {
+          "name": "Zack Sekoff",
+          "url": "https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161670,
+      "name": "JV Jordan",
+      "url": "https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg"
+    },
+    {
+      "album": {
         "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
         "url": "https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f"
       },
@@ -31458,6 +31480,24 @@
       "duration_ms": 256364,
       "name": "Send Your Name To Mars",
       "url": "https://open.spotify.com/track/5FAnr3QSEL1An4ClKU4Fcb"
+    },
+    {
+      "album": {
+        "name": "Sense of Place",
+        "url": "https://open.spotify.com/album/76nMEcZNfe9hIW18OqCoss"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Sense of Place",
+      "url": "https://open.spotify.com/track/6H0DYW3RyHoTatvBva0fqc"
     },
     {
       "album": {

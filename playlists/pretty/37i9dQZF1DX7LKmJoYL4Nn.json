@@ -1,12 +1,12 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63231,
+  "num_followers": 63235,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1GPd+FimFznKJOacz/P3844HE/",
+  "snapshot_id": "AAAAAD08vnio1busicjtDIR6guseRUGt",
   "tracks": [
     {
       "added_at": "2026-04-21 15:00:41",
@@ -391,6 +391,26 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
+      },
+      "artists": [
+        {
+          "name": "TearS",
+          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 280665,
+      "name": "\u30bb\u30c4\u30caDrops",
+      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 218159,
       "name": "SAKE OF LOVE",
       "url": "https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
-      },
-      "artists": [
-        {
-          "name": "TearS",
-          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 280665,
-      "name": "\u30bb\u30c4\u30caDrops",
-      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -823,46 +823,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "fine\u300cFairy Tale Library\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/53hOfB0pGFBGTP98otdyLP"
-      },
-      "artists": [
-        {
-          "name": "fine",
-          "url": "https://open.spotify.com/artist/2HITkH8f0R5lC0uR1QgyI9"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 210323,
-      "name": "Fairy Tale Library",
-      "url": "https://open.spotify.com/track/1IPJ4i89RPAkg3TyRUrtK5"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 219170,
-      "name": "Wish upon a MUSIC!!",
-      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300cYeeeeES! JUKEBOX\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/1NssTUwDb3XvecIxuODTPi"
       },
@@ -915,6 +875,46 @@
       "duration_ms": 242533,
       "name": "YeeeeES! JUKEBOX",
       "url": "https://open.spotify.com/track/6Yoj7gRWD3AfUuUUrJkBFM"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 219170,
+      "name": "Wish upon a MUSIC!!",
+      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "fine\u300cFairy Tale Library\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/53hOfB0pGFBGTP98otdyLP"
+      },
+      "artists": [
+        {
+          "name": "fine",
+          "url": "https://open.spotify.com/artist/2HITkH8f0R5lC0uR1QgyI9"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 210323,
+      "name": "Fairy Tale Library",
+      "url": "https://open.spotify.com/track/1IPJ4i89RPAkg3TyRUrtK5"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d5\u30e9\u30bf\u30cb\u30c6\u30a3\u300c\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7\u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30e9\u30bf\u30cb\u30c6\u30a3/\u6c37\u9df9 \u5317\u6597(CV.\u524d\u91ce \u667a\u662d)\u3001\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)",
+          "url": "https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7 - Game Edit",
+      "url": "https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "Switch \u2715 Eden\u300cMajestic Magic\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 01",
         "url": "https://open.spotify.com/album/6hm5BKEBt63N5fLqnaV45V"
       },
@@ -1535,6 +1551,38 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
+        "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Awakening Myth",
+      "url": "https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
+        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
+      },
+      "artists": [
+        {
+          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Romantic Xday!",
+      "url": "https://open.spotify.com/track/1y6DVlLnYmNg5shSlLxKyo"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "2wink\u300cSwee2wink Love Letter\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z"
       },
@@ -1551,38 +1599,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
-      },
-      "artists": [
-        {
-          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "THE GENESIS",
-      "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
-        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
-      },
-      "artists": [
-        {
-          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
-        }
-      ],
-      "duration_ms": 290266,
-      "name": "\u5e78\u305b\u306e\u6b4c",
-      "url": "https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Puffy\u2606Bunny\u300c\u30d1\u30e9\u30c0\u30a4\u30e0\u30fb\u30ea\u30d0\u30fc\u30b7! \u300d (Game Edit)",
         "url": "https://open.spotify.com/album/7xbBxtVFkI3g9PKY1WwFLP"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 134793,
       "name": "\u30d1\u30e9\u30c0\u30a4\u30e0\u30fb\u30ea\u30d0\u30fc\u30b7! - Game Edit",
       "url": "https://open.spotify.com/track/7cYaHEeUt6Kdk1W7rLeah2"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
-        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
-      },
-      "artists": [
-        {
-          "name": "\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)",
-          "url": "https://open.spotify.com/artist/6SnZppEs1Cpthc4gNQKEHv"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "ALTA MODA -\u30a2\u30eb\u30bf\u30fb\u30e2\u30fc\u30c0-",
-      "url": "https://open.spotify.com/track/29c5z1PTpP8LWWBIVEggiT"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

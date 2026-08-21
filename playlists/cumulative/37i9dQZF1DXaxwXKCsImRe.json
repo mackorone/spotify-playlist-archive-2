@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:7a5xPqxWpIHk4tcdv7bDc6\">MICHA</a> ",
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:0BFood0cmj86LkpdOArhNs\">Langa</a> ",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -652,6 +652,24 @@
       "duration_ms": 181530,
       "name": "Boss (io & te)",
       "url": "https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a"
+    },
+    {
+      "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
       "album": {
@@ -4898,7 +4916,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 166400,
       "name": "Zijkant",
       "url": "https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg"

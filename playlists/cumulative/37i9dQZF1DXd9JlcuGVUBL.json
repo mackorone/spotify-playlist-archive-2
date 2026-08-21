@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: BlackByrd",
+  "description": "Die beste country musiek. Omslag: Chris Else",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "Across the River (feat. Reese Wynans) [Live]",
+        "url": "https://open.spotify.com/album/1lxDXH6dsZlsRXrjgfGSa9"
+      },
+      "artists": [
+        {
+          "name": "Steve Louw",
+          "url": "https://open.spotify.com/artist/1tDJGPhogoRKzlQVww3uAr"
+        },
+        {
+          "name": "Reese Wynans",
+          "url": "https://open.spotify.com/artist/7J0VJcG407uO7AK3JsP3jn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175450,
+      "name": "Across the River (feat. Reese Wynans) - Live",
+      "url": "https://open.spotify.com/track/2aKynFKKSAxIf0BdMQJRwy"
     },
     {
       "album": {
@@ -662,7 +684,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
@@ -1842,10 +1864,28 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207457,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1AW7TOM8R1J99EgFnxfxIM"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/28ukIB4sEoUaeSG7b8b6Ht"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251481,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj"
     },
     {
       "album": {
@@ -2808,7 +2848,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 279293,
       "name": "Ligstraal",
       "url": "https://open.spotify.com/track/6vmfYFdK8NbNPWJvd91iNb"
@@ -3358,7 +3398,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 169958,
       "name": "ONE MORE",
       "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
@@ -3546,7 +3586,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164264,
       "name": "Park",
       "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
@@ -3878,7 +3918,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 167076,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/30UDPxDLTxPUb4JAx7eil0"
@@ -4544,7 +4584,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"

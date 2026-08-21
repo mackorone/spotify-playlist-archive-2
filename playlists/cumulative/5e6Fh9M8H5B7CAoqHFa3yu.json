@@ -38775,6 +38775,24 @@
     },
     {
       "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/4qqpwmGS9zaPcAmR3FgkWw"
+      },
+      "artists": [
+        {
+          "name": "Nedim ERTUNA",
+          "url": "https://open.spotify.com/artist/0MFMm7OrfEjP2QmfFQfWLs"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/0qKadBHML8rQm8EOtniFNd"
+    },
+    {
+      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/6GyR4IdJwhvK1ReW1tsF4Z"
       },

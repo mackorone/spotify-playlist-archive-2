@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "BLACK SUMMER",
       "url": "https://open.spotify.com/track/3cv9qR7Y4ORPBtjxZ6RTVV"
@@ -3560,7 +3560,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -4192,7 +4192,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/6xMoVtv5mx5IAMmtLvehA1"
@@ -4766,7 +4766,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 233325,
       "name": "Details Fade - Hex Formes & D1NTR Remix",
       "url": "https://open.spotify.com/track/4EW3YZgKOsvbbLPVLmPboY"
@@ -8083,6 +8083,24 @@
     },
     {
       "album": {
+        "name": "However You Want It",
+        "url": "https://open.spotify.com/album/37M1zmDgCRIUIRcpeBoTwg"
+      },
+      "artists": [
+        {
+          "name": "Oddysseys",
+          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "How Could You?",
+      "url": "https://open.spotify.com/track/6IrCgHzHi0myHz1R7RvfhQ"
+    },
+    {
+      "album": {
         "name": "How To Be Dead",
         "url": "https://open.spotify.com/album/7AlXLiNkiFLpb6UeuDsnr6"
       },
@@ -8412,7 +8430,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "I Need Something Stronger",
       "url": "https://open.spotify.com/track/4nAeuKOsuzJHWubLQzBrwr"
@@ -9786,7 +9804,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/3OKtkqTikliFqEHjs9hMF1"
@@ -9974,7 +9992,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -10648,7 +10666,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 113041,
       "name": "Love Animal",
       "url": "https://open.spotify.com/track/1Mpv51mv1cdBD46g1aRPDO"
@@ -11890,7 +11908,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 244800,
       "name": "Necromantic",
       "url": "https://open.spotify.com/track/4vs2lgSfRqonxxsumPueKr"
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -13996,7 +14014,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 276108,
       "name": "Ruin You - Ghost Cop Remix",
       "url": "https://open.spotify.com/track/2k1U936X1ZmCN9mUsCse9s"
@@ -15782,7 +15800,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -15854,7 +15872,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 327951,
       "name": "Stale",
       "url": "https://open.spotify.com/track/7i4c2nXS9JyKmajo0VMcNI"
@@ -17120,7 +17138,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 273933,
       "name": "The Desert Inside",
       "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
@@ -17156,7 +17174,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 252746,
       "name": "The End",
       "url": "https://open.spotify.com/track/31Kvm2IaOHyI90Q5NqFDBn"
@@ -17300,7 +17318,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -18664,7 +18682,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 162911,
       "name": "TRITAGONIST 1",
       "url": "https://open.spotify.com/track/2vmmih4JawzVaMCvfVhcZx"
@@ -18956,7 +18974,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 155637,
       "name": "two vampires",
       "url": "https://open.spotify.com/track/7i4gNccpFhJaT4yMHPsWN2"
@@ -19350,7 +19368,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -20596,7 +20614,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 175714,
       "name": "X-Sized",
       "url": "https://open.spotify.com/track/63RQckPbqdMR5PmiIdOLbI"
@@ -20740,7 +20758,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 232727,
       "name": "Your Blood",
       "url": "https://open.spotify.com/track/6akKRWsHi55Qxd9SPLQMSm"

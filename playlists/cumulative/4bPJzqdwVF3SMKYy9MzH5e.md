@@ -4,7 +4,7 @@
 
 > 
 
-2,451 songs - 5 day 11 hr 39 min
+2,452 songs - 5 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1531,6 +1531,7 @@
 | [Not Thinkin' Bout You](https://open.spotify.com/track/2awExtNBABpwOFC78XViJd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:08 | 2021-08-05 |  |
 | [Not ur friend](https://open.spotify.com/track/65gQnsdCvfoiLyhqP6FNJq) | [The Femcels](https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK) | [I Have To Get Hotter](https://open.spotify.com/album/7EA0BJIxzjox8bBpMXSvqF) | 2:40 | 2026-03-05 |  |
 | [Not Waving But Drowning](https://open.spotify.com/track/6d66xhuOy1Fg9gTt2RUgqT) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:49 | 2023-06-25 | 2023-07-01 |
+| [Nothing More to Say \- Dub](https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 5:25 | 2026-08-20 |  |
 | [Nothing Special](https://open.spotify.com/track/653D64DIGoDXYlODZWRYKC) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:59 | 2023-04-13 |  |
 | [Nothing To Do](https://open.spotify.com/track/5p8cpRDCuoFONFIHRGg1ae) | [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Circular Motions EP](https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h) | 3:20 | 2026-03-05 |  |
 | [Noticed I Cried](https://open.spotify.com/track/5w9YU63asHqNFyWq3nCsSl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:22 | 2021-11-14 |  |

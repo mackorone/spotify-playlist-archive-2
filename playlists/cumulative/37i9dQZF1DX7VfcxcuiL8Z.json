@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Rise Against",
+  "description": "The best in new rock. Cover: Gang of Youths",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 149653,
       "name": "595",
       "url": "https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184073,
       "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
       "url": "https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30"
@@ -1148,6 +1148,24 @@
       "duration_ms": 167746,
       "name": "Beat A B!tch Up",
       "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
+    },
+    {
+      "album": {
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
     },
     {
       "album": {
@@ -2175,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "The Bloody Unknown",
+        "url": "https://open.spotify.com/album/0rWkrIwG9aCjbMy0wsB2Ez"
+      },
+      "artists": [
+        {
+          "name": "Adam Newling",
+          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218445,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/0Unh3BSFCSb2oWWXtMwvPU"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
       },
@@ -2886,7 +2922,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 162213,
       "name": "Dollar Bill",
       "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
@@ -3203,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "DMA'S",
+        "url": "https://open.spotify.com/album/4Kv9OwVTPZLYN8h0OJIHid"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217117,
+      "name": "Emailz",
+      "url": "https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO"
+    },
+    {
+      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -3500,7 +3554,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 219328,
       "name": "far away from here - ACT I : The Setup",
       "url": "https://open.spotify.com/track/2WXIVz7W62BqMoYX0k8cm3"
@@ -3926,6 +3980,24 @@
       "duration_ms": 211794,
       "name": "Fuck You, Pay Me",
       "url": "https://open.spotify.com/track/7jSwMVsXQgjXgX8Rc5e9LW"
+    },
+    {
+      "album": {
+        "name": "Fur Elise",
+        "url": "https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256413,
+      "name": "Fur Elise",
+      "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
     },
     {
       "album": {
@@ -4540,7 +4612,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 192026,
       "name": "Heart Has To Work So Hard",
       "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
@@ -5604,7 +5676,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 282138,
       "name": "In Your Name",
       "url": "https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm"
@@ -5802,7 +5874,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 229994,
       "name": "Jealous Lover",
       "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
@@ -5824,6 +5896,24 @@
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
+    },
+    {
+      "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/73NRRphTqoKyjai7s6i3oM"
+      },
+      "artists": [
+        {
+          "name": "Bugs",
+          "url": "https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230688,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/71Re2CdkQKaANfrj7wamde"
     },
     {
       "album": {
@@ -6818,7 +6908,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 216208,
       "name": "Lunch Money",
       "url": "https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds"
@@ -6984,6 +7074,24 @@
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "album": {
@@ -9119,6 +9227,24 @@
     },
     {
       "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223961,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
+    },
+    {
+      "album": {
         "name": "Ride Lonesome",
         "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
       },
@@ -10431,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+    },
+    {
+      "album": {
         "name": "Tacklebox",
         "url": "https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ"
       },
@@ -11176,6 +11320,24 @@
       "duration_ms": 246694,
       "name": "THICK SKIN (feat. Thelma Plum, Emma Donovan, Kee'ahn & Jada Weazel)",
       "url": "https://open.spotify.com/track/57lqdbgvZslueRuQOeOwTq"
+    },
+    {
+      "album": {
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "album": {
@@ -12116,7 +12278,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 155819,
       "name": "Warna Prut",
       "url": "https://open.spotify.com/track/6eHMIFLg3MAsOC6tzOPk19"
@@ -12289,6 +12451,24 @@
     },
     {
       "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/3Ze7N7q2EaXdHT49plOMkU"
+      },
+      "artists": [
+        {
+          "name": "lahgo",
+          "url": "https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181535,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/7KhRUljgpU7zKMWSCiqCHT"
+    },
+    {
+      "album": {
         "name": "What You've Lost",
         "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
       },
@@ -12448,7 +12628,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 217373,
       "name": "Window",
       "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAB6TteUZatil6c4xudYEkai",
+  "snapshot_id": "aoTyAAAAAAA398S7kJzxZnJXtH1rD9yS",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mesa",
+        "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 288006,
+      "name": "Mesa",
+      "url": "https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing To (Khotin Remix)",
         "url": "https://open.spotify.com/album/0g2LS4DdFS1SKPVBirPG2E"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 217253,
       "name": "Sing To - Khotin Remix",
       "url": "https://open.spotify.com/track/2on9Qx0i7XjUicfxPca2ha"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mesa",
-        "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 288006,
-      "name": "Mesa",
-      "url": "https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 208723,
+  "num_followers": 208737,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwdrZZM2GerdEbafJw6rajAYdyL",
+  "snapshot_id": "AAAAAFIYPCbO/jFSFjlorKG1ub2kBULP",
   "tracks": [
     {
       "added_at": "2025-11-18 17:38:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Hay Veces",
         "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186445,
       "name": "Hay Veces",
       "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "wanderlust",
-        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
-      },
-      "artists": [
-        {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
-        }
-      ],
-      "duration_ms": 184504,
-      "name": "wanderlust",
-      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "The Apple Drop",
         "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "wanderlust",
+        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "duration_ms": 184504,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Evening Mood",
-        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 384589,
-      "name": "Evening Mood",
-      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Where To Put The Pain",
         "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Al Sur",
         "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
@@ -1247,34 +1231,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 291771,
-      "name": "Lovegaze",
-      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1291,6 +1259,22 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 291771,
+      "name": "Lovegaze",
+      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1323,6 +1307,22 @@
       "duration_ms": 211386,
       "name": "Space Jumps",
       "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1579,34 +1579,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Suono Assente",
-        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
-      },
-      "artists": [
-        {
-          "name": "V/Z",
-          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
-        },
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        },
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        },
-        {
-          "name": "Cathy Lucas",
-          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Habadash",
-      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Unfamiliar Minds",
         "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
       },
@@ -1639,18 +1611,30 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Estar\u00e1n aparcando",
-        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
+        "name": "Suono Assente",
+        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
       },
       "artists": [
         {
-          "name": "Espanto",
-          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        },
+        {
+          "name": "Cathy Lucas",
+          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
         }
       ],
-      "duration_ms": 140727,
-      "name": "Estar\u00e1n aparcando",
-      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
+      "duration_ms": 249798,
+      "name": "Habadash",
+      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1667,6 +1651,22 @@
       "duration_ms": 210912,
       "name": "Me Gustas Pero No Te Quiero",
       "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Estar\u00e1n aparcando",
+        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
+      },
+      "artists": [
+        {
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+        }
+      ],
+      "duration_ms": 140727,
+      "name": "Estar\u00e1n aparcando",
+      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
     },
     {
       "added_at": "2025-11-18 17:38:22",

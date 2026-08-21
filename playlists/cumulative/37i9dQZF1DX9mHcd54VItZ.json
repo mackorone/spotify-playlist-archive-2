@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Francois van Coke",
+  "description": "The best new and classic South African Rock. Cover: Shortstraw",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 202887,
       "name": "A Little Less",
       "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 158750,
       "name": "Abafana",
       "url": "https://open.spotify.com/track/0BbzM5seFqOXV8xem4oM5i"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179646,
       "name": "Bid",
       "url": "https://open.spotify.com/track/3ukaWRNUa3ABSHLgDvUD5d"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 237456,
       "name": "Bleek",
       "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 200625,
       "name": "By Jou",
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
@@ -5960,7 +5960,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
@@ -6508,7 +6508,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 132283,
       "name": "Groen en Goud",
       "url": "https://open.spotify.com/track/4ECZ8E595VQ5yQFMtCT7s2"
@@ -7046,7 +7046,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
@@ -8332,7 +8332,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
@@ -9566,7 +9566,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
@@ -11514,7 +11514,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 186490,
       "name": "Oogkontak",
       "url": "https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w"
@@ -13206,6 +13206,42 @@
       "duration_ms": 195431,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M"
+    },
+    {
+      "album": {
+        "name": "Schr\u00f6dinger",
+        "url": "https://open.spotify.com/album/7bMg2XxlfItkJkjgZdUyEC"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Schr\u00f6dinger",
+      "url": "https://open.spotify.com/track/3EQTiUIFIxvzJqXyXyjTT1"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/1ZlOQ6S4rFdK84F6rY7Osz"
+      },
+      "artists": [
+        {
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171060,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/6HwZw3Q6Mw3SIB2pYWPPet"
     },
     {
       "album": {
@@ -15251,6 +15287,24 @@
     },
     {
       "album": {
+        "name": "Te Laat",
+        "url": "https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Te Laat",
+      "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
+    },
+    {
+      "album": {
         "name": "Teeth",
         "url": "https://open.spotify.com/album/24s4moFjVF8bscpV2Yw94X"
       },
@@ -16178,7 +16232,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172440,
       "name": "Tough",
       "url": "https://open.spotify.com/track/05c24M6IA8m5XTkD73pk0U"
@@ -16272,7 +16326,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 149446,
       "name": "TREAT HIM LIKE A BABY",
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
@@ -17608,7 +17662,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 163560,
       "name": "Wishing On A Daydream",
       "url": "https://open.spotify.com/track/16JMEE1MP1bS93XHJ2TxoQ"

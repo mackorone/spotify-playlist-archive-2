@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari con Danny Ocean y Ryan Castro.",
-  "num_followers": 1148002,
+  "num_followers": 1148004,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAS/kNCVQq8tM1c1vpwlLxCNOSA9",
+  "snapshot_id": "AAAAADl4PG1AQVZc+/e7WyZFT996fk2R",
   "tracks": [
     {
       "added_at": "2026-05-15 06:00:25",
@@ -166,6 +166,14 @@
         {
           "name": "Dread Mar I",
           "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 213480,
@@ -779,22 +787,18 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Cali Roots Riddim 2023",
-        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
       "artists": [
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
+      "duration_ms": 338146,
+      "name": "Verde, amarillo y rojo",
+      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -863,18 +867,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+        "name": "Cali Roots Riddim 2023",
+        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
       },
       "artists": [
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 338146,
-      "name": "Verde, amarillo y rojo",
-      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1323,6 +1331,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Lo que piensen de mi",
         "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
       },
@@ -1347,22 +1371,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Dejando Huella",
         "url": "https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa"
       },
@@ -1375,6 +1383,22 @@
       "duration_ms": 183626,
       "name": "Besos Para Ti",
       "url": "https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1395,22 +1419,6 @@
       "duration_ms": 233116,
       "name": "Mi Guitarra Enamorada",
       "url": "https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1819,6 +1827,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "El Baile y El Sal\u00f3n",
+        "url": "https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 291160,
+      "name": "El Baile y El Sal\u00f3n",
+      "url": "https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
       },
@@ -1835,22 +1859,6 @@
       "duration_ms": 199293,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "El Baile y El Sal\u00f3n",
-        "url": "https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 291160,
-      "name": "El Baile y El Sal\u00f3n",
-      "url": "https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,069 likes - 341 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,075 likes - 341 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -350,4 +350,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 340 | [Walking On A Dream \- Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/1amxeKLCkKqHmSLOGGs6Wr) | 3:52 |
 | 341 | [Disco Baile \- Dança Tardia Mix](https://open.spotify.com/track/7yi2lu0fRop8m7pdzBzCB2) | [Akalex](https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Disco Baile \(Dança Tardia Mix\)](https://open.spotify.com/album/3rrFiERlK4B7B25wUuQXZC) | 3:47 |
 
-Snapshot ID: `AAAAAH8pahERKK7CxfsX7QKLJ3mw7hek`
+Snapshot ID: `AAAAAB+IAxMbevHgDsHPImNKJsDrPQsS`

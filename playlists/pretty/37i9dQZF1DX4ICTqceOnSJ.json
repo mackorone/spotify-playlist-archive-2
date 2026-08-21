@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 390146,
+  "num_followers": 390021,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwO3Q4cxulDIKVteiG/0Mt+/Zrb",
+  "snapshot_id": "AAAAAK3m3yNjOoEPsCYxSXMJto7YYRW4",
   "tracks": [
     {
       "added_at": "2024-06-14 04:59:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Un D\u00eda en el Mundo",
         "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 303693,
       "name": "Copenhague",
       "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pol\u00edtico",
-        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 226742,
-      "name": "M\u00e9xico",
-      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Los A\u00f1os Futuros",
         "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187824,
       "name": "Extranjero",
       "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pol\u00edtico",
+        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 226742,
+      "name": "M\u00e9xico",
+      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Murasaki",
-        "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        },
-        {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Murasaki",
-      "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pel\u00edcula",
         "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 225697,
       "name": "Sexo en la playa",
       "url": "https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Murasaki",
+        "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Murasaki",
+      "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
     },
     {
       "added_at": "2024-06-14 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 47511,
+  "num_followers": 47529,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAAjMkYUnoBKjx9j0Jcgh3d2",
+  "snapshot_id": "aoTyAAAAAACoVwuVkHKkUV1XunP4//Ga",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 306813,
-      "name": "Mythological Beauty",
-      "url": "https://open.spotify.com/track/3DM9c4wXXe0FBIBE6sgahF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 193506,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/79zOjwivNbq4XVaWufOyvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 306813,
+      "name": "Mythological Beauty",
+      "url": "https://open.spotify.com/track/3DM9c4wXXe0FBIBE6sgahF"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/0hCMAsSI7vjdb4Z1I5pJkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 245640,
       "name": "Cattails",
       "url": "https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/0hCMAsSI7vjdb4Z1I5pJkN"
     },
     {
       "added_at": null,

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGJMVAvFFjF0yEnPuvKRZ23DP5Y",
+  "snapshot_id": "AAAAAAFXbzC14wYBQa7P3C03qCE3SamW",
   "tracks": [
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "KUTA UBUD",
         "url": "https://open.spotify.com/album/4QLgbioQMtsszGKfYtI8cQ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2e79sjRRdXPRc8wijqAVnX"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Belek",
         "url": "https://open.spotify.com/album/6WyGM8HsbPI3OQSeW9PRB5"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5P0y33C4m5uK9TcMHRnCsL"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PeakLifeNostalgia",
         "url": "https://open.spotify.com/album/3fkZWqll8Trf2fdENAyB9m"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/78Jaxa2LLQstsGyU0tE8DR"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "STEP DOPO STEP DOPO STEP DOPO STEP",
         "url": "https://open.spotify.com/album/3jBSs2FA2LSxdRc7D9XWLs"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0DDGTQ99yhnIkmsGB6zcpV"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ALE MAROC",
         "url": "https://open.spotify.com/album/01PmjvqFGaIeRDwrFtluBQ"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1SnqWvqpkeUtJS3ub9HxaU"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "BOP BOP",
         "url": "https://open.spotify.com/album/5PGTq47um2SyPb07sm58pY"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/7lnA7L04Q3ELVmMoMVeFrw"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "MILLION DOLLAR BABE",
         "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "FREESTYLE",
         "url": "https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm"
@@ -141,7 +141,67 @@
       "url": "https://open.spotify.com/track/0IgGFVvbuzzghavTQI8ii0"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
+      "album": {
+        "name": "QUELLO CHE AVEVAMO",
+        "url": "https://open.spotify.com/album/3LNp9d8VQFlPWGZpXO8kGh"
+      },
+      "artists": [
+        {
+          "name": "Venti",
+          "url": "https://open.spotify.com/artist/3i7RpH6T3cDpEhsBUA1JSH"
+        },
+        {
+          "name": "Valubs",
+          "url": "https://open.spotify.com/artist/66kSbpFYlcivshjTgcyABc"
+        }
+      ],
+      "duration_ms": 128776,
+      "name": "QUELLO CHE AVEVAMO",
+      "url": "https://open.spotify.com/track/7mOgGANLSIyyvzyB8Gy5yd"
+    },
+    {
+      "added_at": "2026-08-20 22:02:13",
+      "album": {
+        "name": "iCarly",
+        "url": "https://open.spotify.com/album/1DMLuLq2kLwTeTO2N4atX0"
+      },
+      "artists": [
+        {
+          "name": "nm rem",
+          "url": "https://open.spotify.com/artist/5YOv0H9RZYWaympdXEiaTF"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "iCarly",
+      "url": "https://open.spotify.com/track/3VqAlxTUUnOnO2kPuk2WC6"
+    },
+    {
+      "added_at": "2026-08-20 22:02:13",
+      "album": {
+        "name": "LUFTHANSA",
+        "url": "https://open.spotify.com/album/3CP4upldnNTGipKi260UqT"
+      },
+      "artists": [
+        {
+          "name": "MOWGLI",
+          "url": "https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa"
+        },
+        {
+          "name": "musa",
+          "url": "https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno"
+        },
+        {
+          "name": "Chancho",
+          "url": "https://open.spotify.com/artist/3G155o8uoot6ywzOpdwv8f"
+        }
+      ],
+      "duration_ms": 138201,
+      "name": "LUFTHANSA",
+      "url": "https://open.spotify.com/track/5slNUA5XM0c3yugE3Hj1xW"
+    },
+    {
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Sensei",
         "url": "https://open.spotify.com/album/3dZtszG5fzKK6Cwctz9gq9"
@@ -157,7 +217,7 @@
       "url": "https://open.spotify.com/track/3YbKppfOt1bpwSJgEboivC"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "L'amore ci ha reso schiavi",
         "url": "https://open.spotify.com/album/3AhOpsgBtuMX4F53cJo6EZ"
@@ -173,7 +233,7 @@
       "url": "https://open.spotify.com/track/12DIGVx9KOyYlXwIFh8FRq"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
         "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
@@ -201,7 +261,7 @@
       "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "TRIPLA LAVATA",
         "url": "https://open.spotify.com/album/4KEj7AixlvORwpGE8ENuv3"
@@ -217,7 +277,7 @@
       "url": "https://open.spotify.com/track/5mJcGctTsItXNTpxDKiBwI"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "AJEJE BRAZORF",
         "url": "https://open.spotify.com/album/0uJu2qJhoFIy8ruwYxI6Xf"
@@ -233,7 +293,7 @@
       "url": "https://open.spotify.com/track/1GVcIQLWqo5hF6MvH4eECe"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "BARS",
         "url": "https://open.spotify.com/album/5ON5Aa28Q3fFP7uik7xqdQ"
@@ -253,7 +313,7 @@
       "url": "https://open.spotify.com/track/5UkceP02klZWhR56bsR4Wi"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "\u00c8 O G.",
         "url": "https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH"
@@ -277,7 +337,7 @@
       "url": "https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/6iUJGl6ls2vgYKviip8L8y"
@@ -301,7 +361,7 @@
       "url": "https://open.spotify.com/track/0xSPqtkOYsnTx9yGya4UQg"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Incidentiamo / Golfo Aranci",
         "url": "https://open.spotify.com/album/13tUuwDshDyZnXuZDMlvWl"
@@ -317,7 +377,7 @@
       "url": "https://open.spotify.com/track/2MCaHJcXbB820H32sYFcqf"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PeakLifeNostalgia",
         "url": "https://open.spotify.com/album/2sd0OGrLM7U8BOO0hNZnag"
@@ -333,7 +393,7 @@
       "url": "https://open.spotify.com/track/7fWysNKbVF0lDRQJyMF6PB"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "K-Hole",
         "url": "https://open.spotify.com/album/3HT3yd272iUgi5RNlEq6xu"
@@ -349,7 +409,7 @@
       "url": "https://open.spotify.com/track/6VO9ZURtZ6s3jwR3dhUbON"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "SELEZIONANDO (feat. G.Mineiro)",
         "url": "https://open.spotify.com/album/6gh5OAMhdj5dtqX2L4WpfL"
@@ -369,7 +429,7 @@
       "url": "https://open.spotify.com/track/3ibbbbCSYM1bUAvJiMOkz1"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "SOLA",
         "url": "https://open.spotify.com/album/2p58U9RMya1lmVcRdepubx"
@@ -389,7 +449,7 @@
       "url": "https://open.spotify.com/track/5j3Vh66pbbZGWFTSM2XAcq"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "\u00c0 La Folie",
         "url": "https://open.spotify.com/album/1UMstCqGmqhmkjn8F0h47Q"
@@ -409,7 +469,7 @@
       "url": "https://open.spotify.com/track/1O05kineNAOAR8ldcmGy1U"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Marchio Italiano (feat. ayo ally)",
         "url": "https://open.spotify.com/album/2jDxNjexiZwTKGElFRswEH"
@@ -429,7 +489,7 @@
       "url": "https://open.spotify.com/track/6BJ8BhE79AJBQBwCZLxXCN"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ROOFTOP",
         "url": "https://open.spotify.com/album/0NQQmryYQtznQ81uZo3Ox0"
@@ -449,7 +509,7 @@
       "url": "https://open.spotify.com/track/66b4JihrP2ADIN3N6AHUTF"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "KO",
         "url": "https://open.spotify.com/album/617e25mOKebyBFJPgPTX0A"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/2wsHmUFaim1wAE8HqmwvOn"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "MILA",
         "url": "https://open.spotify.com/album/1SEV4WpfG7dkdNslAvL4Ur"
@@ -481,7 +541,7 @@
       "url": "https://open.spotify.com/track/6bbQDtMXUsxM8XWDniV3oM"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "31/07",
         "url": "https://open.spotify.com/album/7GkSHFdG9dRT6SgewzUxHh"
@@ -497,7 +557,7 @@
       "url": "https://open.spotify.com/track/5Qx6gyf8apd1tlOlvBPsqS"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "FREESTYLE",
         "url": "https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm"
@@ -517,7 +577,7 @@
       "url": "https://open.spotify.com/track/7wjG3MRJDHDeuxavSLDnKK"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "MILLION DOLLAR BABE",
         "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
@@ -537,7 +597,7 @@
       "url": "https://open.spotify.com/track/40UibIQfdcyLJDgfDDA2MR"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "DBoyz",
         "url": "https://open.spotify.com/album/2EQfFGlA80o9y1W3qqQzaP"
@@ -557,7 +617,7 @@
       "url": "https://open.spotify.com/track/78BANAfWg5oeFbsxiWsHMX"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Cavernicolo (feat. G.Mineiro)",
         "url": "https://open.spotify.com/album/3N28OUxSi7nn1IsDWA0Tvv"
@@ -585,7 +645,7 @@
       "url": "https://open.spotify.com/track/5cxWrhYjKgoVSkbSQ4bGCP"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "C0R0NA'S",
         "url": "https://open.spotify.com/album/5kO2qJlppleWHRWaDc4KPR"
@@ -617,7 +677,7 @@
       "url": "https://open.spotify.com/track/2rWlggaEJdwX8PTxlHxmcB"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/0qY8qe6PWf1hccAfRn8xAM"
@@ -637,7 +697,7 @@
       "url": "https://open.spotify.com/track/33tj8GZLFjbN6OD5pJGU7C"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "CHEESE",
         "url": "https://open.spotify.com/album/1VLcvBQt47swN9nqmS1MSu"
@@ -653,7 +713,7 @@
       "url": "https://open.spotify.com/track/7g3cZ20kA1HkkXRm8qx4Nz"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Trama",
         "url": "https://open.spotify.com/album/3IDym4wyo6zI9wcbc6oA2S"
@@ -669,7 +729,7 @@
       "url": "https://open.spotify.com/track/21gbVv0OpDZNqIYQ6vr4hi"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "BRABO DA ITA",
         "url": "https://open.spotify.com/album/2i5r2YLzgW2CvxD3qoHaHZ"
@@ -689,7 +749,7 @@
       "url": "https://open.spotify.com/track/2wy7ufH2CryaGpR3ahsZnU"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ribelle",
         "url": "https://open.spotify.com/album/5pnTkn0GLPg2ADO8s3oXGa"
@@ -705,7 +765,7 @@
       "url": "https://open.spotify.com/track/1OUPwuzOBWxywKt5fp2Y5Z"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "CHI\u00d9 FORT",
         "url": "https://open.spotify.com/album/2hJSbOBGJaAnHHv15CicjJ"
@@ -721,7 +781,7 @@
       "url": "https://open.spotify.com/track/5yzXUXCH6RmE25mqsoTFlj"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "THE BACONE",
         "url": "https://open.spotify.com/album/65imw0E4Ro9EYBzvRGfjLO"
@@ -745,7 +805,7 @@
       "url": "https://open.spotify.com/track/4uhHuL26tYOlpuhDvlvLWy"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ossitocina",
         "url": "https://open.spotify.com/album/0Sine9xKiOqqglAbv53kYZ"
@@ -761,7 +821,7 @@
       "url": "https://open.spotify.com/track/1IHAm3TFyx2itxje59QgK1"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "O'Croco",
         "url": "https://open.spotify.com/album/4ox4EJeyVJHgHqCexhnGrt"
@@ -781,7 +841,7 @@
       "url": "https://open.spotify.com/track/3jpn6bWP4zD7jqltNptGRT"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PRIORIT\u00c0",
         "url": "https://open.spotify.com/album/4OU2WlkERqgyKyCeeb5kXD"
@@ -797,7 +857,7 @@
       "url": "https://open.spotify.com/track/2g3ixwlckzC3Pz8j2LkfBl"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "FREESTYLE",
         "url": "https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm"
@@ -813,7 +873,7 @@
       "url": "https://open.spotify.com/track/73dLJurTb3X8P1RqJUN6zM"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "#cannavaro",
         "url": "https://open.spotify.com/album/3blrfGD0QaVacdmiXURSTu"
@@ -837,7 +897,7 @@
       "url": "https://open.spotify.com/track/1GbuCcP5T7MM6qIY3A8LWQ"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "G LIKE",
         "url": "https://open.spotify.com/album/0HrFgT6Ekec9NptniFs5mQ"
@@ -853,7 +913,7 @@
       "url": "https://open.spotify.com/track/5FXigPxEuRJNK72AzK99b5"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "No Love No Lies",
         "url": "https://open.spotify.com/album/5S2FWIbWHjzVPdVoXV4IFq"
@@ -873,7 +933,7 @@
       "url": "https://open.spotify.com/track/42BqDxZCkP9McrPfpqvspf"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "IRON KID",
         "url": "https://open.spotify.com/album/4iIJ6KI3FSriKrJO7RZmhv"
@@ -893,7 +953,7 @@
       "url": "https://open.spotify.com/track/6BMOc6ZpzUc5wi998tptk4"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Papi Chulo",
         "url": "https://open.spotify.com/album/303f51W3SEeXDWr92678PF"
@@ -917,7 +977,7 @@
       "url": "https://open.spotify.com/track/1yJGyKB9pNwINhSvdUTHwX"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "TUTT O MAL ASTIPAT",
         "url": "https://open.spotify.com/album/3n6JiPiAcfBBc18ErlEo4H"
@@ -933,7 +993,7 @@
       "url": "https://open.spotify.com/track/7LPbyEJhNfomKO0eB2zfji"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Fragile (feat. Fabrizia Salvia)",
         "url": "https://open.spotify.com/album/1I0MQjBWRJRAHVEmS2oH7O"
@@ -961,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5EbYzcVnEHTS6nmWFkYn7U"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ATTIVIT\u00c0 CRIMINALE",
         "url": "https://open.spotify.com/album/5WeUDWkW5T4JzgPQ6Aff9M"
@@ -977,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6doUyvSSm2y5jR3dYaGvld"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PATRIOTA (pensieri intrusivi)",
         "url": "https://open.spotify.com/album/3cL6zXXnT49bWMIWA8NhxX"
@@ -997,7 +1057,7 @@
       "url": "https://open.spotify.com/track/31bh2YfUakCx3aRIjIVWk1"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "FREESTYLE",
         "url": "https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm"
@@ -1013,7 +1073,7 @@
       "url": "https://open.spotify.com/track/1OiRlWD3XstCy7biUybzt0"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "010",
         "url": "https://open.spotify.com/album/1xPy8n9abOSsCJm4NDPdzf"
@@ -1029,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6HYB2Tlz9NgU4W0I9Ywl6F"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "A ROT GIR",
         "url": "https://open.spotify.com/album/5w2hY4S6123K7xE3tEHWNw"
@@ -1053,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3twNLjZOcirgWcvGyFLpwL"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "DEMONIO",
         "url": "https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8"
@@ -1069,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4QND8Cw1eFUdnyvvobmWHE"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ACCENDINO",
         "url": "https://open.spotify.com/album/1a66lWLWEHE9FuZZ1JVFEH"
@@ -1093,7 +1153,7 @@
       "url": "https://open.spotify.com/track/5Tji6xF6sSTunstcj1zVNR"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "OSAKA",
         "url": "https://open.spotify.com/album/3j4DAFbyzkqGv9yhOeLM3T"
@@ -1109,7 +1169,7 @@
       "url": "https://open.spotify.com/track/0CQAoQCJykpHrcPrBXzS4j"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "CAZZO DI KILO (feat. MUERO)",
         "url": "https://open.spotify.com/album/39Iwolld9rwa2qViv3CF7T"
@@ -1129,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7vUBVQenysA52HEBzTNl6m"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "maglietta termica",
         "url": "https://open.spotify.com/album/3lm2m9jab8KKQP6D2K4xUz"
@@ -1145,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2YlKIvdj7dq4Xcafxq7yuj"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PRESSING (feat. Macello, Enny P)",
         "url": "https://open.spotify.com/album/5evh0f9KvLmvgTDjEF0Uf5"
@@ -1169,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2eEDvgk3sZdd88jyYG82jK"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Stelle in Periferia",
         "url": "https://open.spotify.com/album/6Z3Hd7KwmEmvlcSeE8xOzc"
@@ -1189,7 +1249,7 @@
       "url": "https://open.spotify.com/track/76tlqDMvjDCBRqdEioWE1K"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "KILO1",
         "url": "https://open.spotify.com/album/6FdcTr6C4kvW625eQRTaif"
@@ -1205,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0S8V4U5BBkHEJzWwTak9q4"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PIQUE PAULISTA",
         "url": "https://open.spotify.com/album/4xV3FJnmtrpGgqQEsNB3i6"
@@ -1221,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4ZRb9GPJt67Ygr7ntm68Z8"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "tutto sotto controllo #326",
         "url": "https://open.spotify.com/album/2YsyzYwL1x6ZwewRL4AURF"
@@ -1237,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7BY3ndZRTSeq9GRFqIF3xO"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Avvelenati",
         "url": "https://open.spotify.com/album/6lsPYVy1EDXOLtgzQ7SNz2"
@@ -1265,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1R7m6hnlUA5Fd4ybUlu8ST"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Vampir",
         "url": "https://open.spotify.com/album/6alKUQHE9qfMkv0Ff6kOu6"
@@ -1289,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0a3ExYKSoPq3vHenZ0GZB1"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "ETERNAMENTE",
         "url": "https://open.spotify.com/album/1pcK908IWiET7rz9K3H5QS"
@@ -1305,7 +1365,7 @@
       "url": "https://open.spotify.com/track/0AFu0P10xID6xb0oh39A68"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "LUIS DIAZ",
         "url": "https://open.spotify.com/album/2duPlhFaYymgppQvXWmPSS"
@@ -1321,7 +1381,7 @@
       "url": "https://open.spotify.com/track/19v2AI33zQcb8KJuFUKua7"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "4X4 feat. KAIO",
         "url": "https://open.spotify.com/album/3EnB7FZ4Ofax5ds1aPXgGY"
@@ -1341,7 +1401,7 @@
       "url": "https://open.spotify.com/track/7B6gz2D1XxL2ZWqVZVGRZb"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "PAPPAGALLI",
         "url": "https://open.spotify.com/album/4lIi7kQnsdMHHSVpFDRxi8"
@@ -1357,7 +1417,7 @@
       "url": "https://open.spotify.com/track/2VcIoo461FCK5YNfiNMSNi"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "scarabocchi (feat. Frah Quintale)",
         "url": "https://open.spotify.com/album/1id30wqSAEon0hN5088lAr"
@@ -1377,7 +1437,7 @@
       "url": "https://open.spotify.com/track/0a4xzCqPMGAJwP9Z6W0GV4"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "BOSNIA VINCE",
         "url": "https://open.spotify.com/album/3zD0VFDIYejjgX77ixfODY"
@@ -1401,7 +1461,7 @@
       "url": "https://open.spotify.com/track/2InNrDj9WGtkblJ3I3hxNW"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/2aRfApg77rJ6J9zvyJ67Ku"
@@ -1417,7 +1477,7 @@
       "url": "https://open.spotify.com/track/1CGZyiwJcLAnNAlgSUKtwD"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "QUANDO TORNI DA ME?",
         "url": "https://open.spotify.com/album/2TxQsAuB5pwbReaufKb7No"
@@ -1437,7 +1497,7 @@
       "url": "https://open.spotify.com/track/3dFRI056kFcBp2hkn6tI9R"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "VITA AMARA",
         "url": "https://open.spotify.com/album/272bWT2yfHlw14dgaDZPbe"
@@ -1453,7 +1513,7 @@
       "url": "https://open.spotify.com/track/5oILUNhfmcRgR7lPEdK8vy"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "GANGSTA",
         "url": "https://open.spotify.com/album/3sFM1fJwF7OFkSxwYdDxsO"
@@ -1469,7 +1529,7 @@
       "url": "https://open.spotify.com/track/5aMX5IDUPrY41jS2KXpNeB"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Condizionatore",
         "url": "https://open.spotify.com/album/6zOYgUAMuiDhBiiLEAJKeH"
@@ -1493,7 +1553,7 @@
       "url": "https://open.spotify.com/track/6dYQtPQbTq8VS1zzBO3tLG"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "AUTO CASE GIOIELLI MILIONI",
         "url": "https://open.spotify.com/album/3HKDA6qDNyXjZAXfP3H7yp"
@@ -1509,7 +1569,7 @@
       "url": "https://open.spotify.com/track/1oLxwirWsqzOEyiXlp6leF"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Zarada",
         "url": "https://open.spotify.com/album/2eH1XtKjvhXC2V6EttC9Px"
@@ -1525,7 +1585,7 @@
       "url": "https://open.spotify.com/track/232WdojYyNtOdeKGMPTLCt"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "SKYAMI",
         "url": "https://open.spotify.com/album/2jpWyxD5ksXO2vOsTkBZaX"
@@ -1541,7 +1601,7 @@
       "url": "https://open.spotify.com/track/5QVbvGtDdNvls6Xqdevuxt"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "OCCHIALI BALENCI",
         "url": "https://open.spotify.com/album/5y9zRsHp2FLT5iKApa6Esb"
@@ -1557,7 +1617,7 @@
       "url": "https://open.spotify.com/track/2vVNAWkK4lbZZtXi9X82ll"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "IO NON SONO SPENDER",
         "url": "https://open.spotify.com/album/33rYT0Uxu1e1ZFfKiegFM0"
@@ -1581,7 +1641,7 @@
       "url": "https://open.spotify.com/track/0sHk9tq3YyHKWP89IlPwEQ"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "KILO",
         "url": "https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji"
@@ -1597,7 +1657,7 @@
       "url": "https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "CAMBIA LA TRAMA",
         "url": "https://open.spotify.com/album/0rVfxN3oRUTwOe6HKqbNk7"
@@ -1621,7 +1681,7 @@
       "url": "https://open.spotify.com/track/1PE7dc6ZGhZCqGqsmBSIKG"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "basta farci male!",
         "url": "https://open.spotify.com/album/28S7tcmjr95SPGTwD77Qz1"
@@ -1637,7 +1697,7 @@
       "url": "https://open.spotify.com/track/6nUZvVe0z5ssimDg5BLIuC"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Ne vale la pena?",
         "url": "https://open.spotify.com/album/6QE9u7lXzLruetLnYYA9bA"
@@ -1657,7 +1717,7 @@
       "url": "https://open.spotify.com/track/7sm7O1uEXb4MDlqXLyxTxu"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "MILLION DOLLAR BABE",
         "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
@@ -1677,7 +1737,7 @@
       "url": "https://open.spotify.com/track/2qPmfC6698p228q3F1Zlbk"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Dudu",
         "url": "https://open.spotify.com/album/0BGEDQ4dmHSBc5YvZSAJXg"
@@ -1701,7 +1761,7 @@
       "url": "https://open.spotify.com/track/56IqrezOABnxOa9y9ftJEc"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/75LOppKfXo0Dhi6LBSnTC1"
@@ -1721,7 +1781,7 @@
       "url": "https://open.spotify.com/track/6up8PCLYFvcSUp2PLQJIR2"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "N.I.L.N.Y. (Naples Is Like New York)",
         "url": "https://open.spotify.com/album/1kEYLU8I5dsuoqONZsjX7a"
@@ -1753,7 +1813,7 @@
       "url": "https://open.spotify.com/track/0Pnj5PIHqDFZjUESFBBnLD"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4lHwQznOVfliPBMdu6hQbB"
@@ -1769,7 +1829,7 @@
       "url": "https://open.spotify.com/track/67mVMvKZME6kgSEP2jbtsj"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "CAPITALE",
         "url": "https://open.spotify.com/album/7jcV64SvJLYibcNtxaq7kE"
@@ -1785,7 +1845,7 @@
       "url": "https://open.spotify.com/track/6JDtYIGpLNuP1ZV6yXAUE4"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "DAGESTAN",
         "url": "https://open.spotify.com/album/51BzesvAdsbwoBfLO82cmn"
@@ -1801,7 +1861,7 @@
       "url": "https://open.spotify.com/track/3cfbmRolSwOA49NQyhgbeB"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "DALLA SICILIA",
         "url": "https://open.spotify.com/album/2x5sYOeiQZnYWhBcZAvOW8"
@@ -1817,7 +1877,7 @@
       "url": "https://open.spotify.com/track/0VsS5jGUCY1J7T89jSqAmb"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "Costiera Amalfitana",
         "url": "https://open.spotify.com/album/4g2cjKinD5ufqAMhRxB7YK"
@@ -1837,7 +1897,7 @@
       "url": "https://open.spotify.com/track/4j86k4TJsXGu0PbxmEHf3I"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "No Stop",
         "url": "https://open.spotify.com/album/0IewVxeS8s8c2yDpLC4jFF"
@@ -1853,7 +1913,7 @@
       "url": "https://open.spotify.com/track/7LIbHpdcNQO9nXVjShOISk"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "L'ERBA VOGLIO",
         "url": "https://open.spotify.com/album/3xz2Ei2Nti6KzOpXbqc0IT"
@@ -1869,7 +1929,7 @@
       "url": "https://open.spotify.com/track/67CjWq2N5eCDCCBml4dAbb"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "CONTO FINO A 4",
         "url": "https://open.spotify.com/album/1ZdECgnvHUbgJcHVdnTTcp"
@@ -1885,7 +1945,7 @@
       "url": "https://open.spotify.com/track/7oVBdUwzeMmsTxUYjND1GX"
     },
     {
-      "added_at": "2026-08-06 22:02:27",
+      "added_at": "2026-08-20 22:02:13",
       "album": {
         "name": "LAGUCCI",
         "url": "https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL"

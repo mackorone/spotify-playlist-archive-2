@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Tulus
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,543 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,492 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 49 | [她已不再是那個女孩](https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [她已不再是那個女孩](https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy) | 4:57 |
 | 50 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 
-Snapshot ID: `AAAAAMYmYFb+mULX4yFpmHGndbPF51/y`
+Snapshot ID: `AAAAADkba99MUzsu54YoH8oSlUYCaQFG`

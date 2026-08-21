@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 487 likes - 56 songs - 3 hr 37 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 490 likes - 58 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 54 | [Tu Primera](https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Tu Primera](https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz) | 3:30 |
 | 55 | [Me Perdiste](https://open.spotify.com/track/1cqGYfBmRlSuKdsICL6NlJ) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Me Perdiste](https://open.spotify.com/album/6I4YSYqOfTf9QYpjonc4tR) | 3:16 |
 | 56 | [Eres Tú](https://open.spotify.com/track/5eE6XuwOh8Y5PhQ9W0OKE5) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Eres Tú](https://open.spotify.com/album/3QCzmTe5ZqdamwPHdIrwBe) | 3:28 |
+| 57 | [Tu siempre yo](https://open.spotify.com/track/1VzekpDrenZM01GurlUS6n) | [David M.](https://open.spotify.com/artist/5BIPYCEhkHamS9soXgw5wD) | [Tu siempre yo](https://open.spotify.com/album/55uSySpz1Ua0SAKgqSNLf1) | 3:25 |
+| 58 | [Sin Control](https://open.spotify.com/track/6OJ0tbNV5zj9UvyBH43ZuT) | [La Racha](https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx) | [Sin Control](https://open.spotify.com/album/4o5djTfRbeyWhCr2cZvO4c) | 3:48 |
 
-Snapshot ID: `AAACSRP1EyjM9DVC6G9C0j7ZcfCWzprv`
+Snapshot ID: `AAACS3P+q57pX8yzTsmy4k397rIjf3FN`

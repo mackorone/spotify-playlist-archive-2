@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1098257,
+  "num_followers": 1098319,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHuPV94Xw4KPMZuS1GfGq6Lr4bzz",
+  "snapshot_id": "AAAAAAGOZWFdxToJ/ExzkxhKXbk4EDY9",
   "tracks": [
     {
       "added_at": "2026-04-08 19:46:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
+        "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
+      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
         "name": "bloody valentine (Acoustic)",
         "url": "https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 195857,
       "name": "bloody valentine - Acoustic",
       "url": "https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     },
     {
       "added_at": "2026-04-08 19:46:17",

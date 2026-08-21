@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38793,
+  "num_followers": 38812,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5alF8CmL87q1nSd4JCHPSwAC5S",
+  "snapshot_id": "AAAAAMwjqy2Wdf1GMRk9BpeaL464U7rD",
   "tracks": [
     {
       "added_at": "2026-08-04 09:03:36",
@@ -667,6 +667,30 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Ghotala Ghotala Zala (From \"Partu\")",
+        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
+      },
+      "artists": [
+        {
+          "name": "Janhavi Prabhu Arora",
+          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
+        },
+        {
+          "name": "Shashank Powar",
+          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
+        },
+        {
+          "name": "Guru Thakur",
+          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Ghotala Ghotala Zala - From \"Partu\"",
+      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Ghotala Ghotala Zala (From \"Partu\")",
-        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
-      },
-      "artists": [
-        {
-          "name": "Janhavi Prabhu Arora",
-          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
-        },
-        {
-          "name": "Shashank Powar",
-          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
-        },
-        {
-          "name": "Guru Thakur",
-          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Ghotala Ghotala Zala - From \"Partu\"",
-      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
     },
     {
       "added_at": "2026-08-04 09:03:36",

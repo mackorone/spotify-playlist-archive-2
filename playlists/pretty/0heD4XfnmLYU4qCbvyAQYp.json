@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO9Xwf9EN4oilYkKwS83WBxlVusuuc",
+  "snapshot_id": "AAAO9jUpme/oUsMxJQr55zak2AG6C8oK",
   "tracks": [
+    {
+      "added_at": "2026-08-20 08:31:26",
+      "album": {
+        "name": "Vestibule",
+        "url": "https://open.spotify.com/album/3mbbJbahWy2dg7p5FePS2C"
+      },
+      "artists": [
+        {
+          "name": "Luniel12",
+          "url": "https://open.spotify.com/artist/5iFZs11tGSdpiD5G6SoZ9D"
+        }
+      ],
+      "duration_ms": 137001,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/4uwz0P6l6kqR3rQJ0xOvhX"
+    },
     {
       "added_at": "2026-08-19 13:19:59",
       "album": {

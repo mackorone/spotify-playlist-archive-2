@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 6006,
+  "num_followers": 6008,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADi2taMT5qdZCAWOG0vGJAV",
+  "snapshot_id": "aoTyAAAAAACY2t/4QnIX8WwAiSAzLoax",
   "tracks": [
     {
       "added_at": null,
@@ -318,11 +318,15 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 239504,
-      "name": "De Nada Me Arrepiento",
-      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
+      "duration_ms": 177389,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
     },
     {
       "added_at": null,
@@ -382,15 +386,11 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 177389,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+      "duration_ms": 239504,
+      "name": "De Nada Me Arrepiento",
+      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
     },
     {
       "added_at": null,

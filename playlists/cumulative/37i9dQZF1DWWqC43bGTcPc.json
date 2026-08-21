@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Eric Chou \u5468\u8208\u54f2 ",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u674e\u4f73\u8587",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -912,6 +912,24 @@
       "duration_ms": 168500,
       "name": "don't stop",
       "url": "https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04"
+    },
+    {
+      "album": {
+        "name": "Dream Light - HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/3PBQbrQX9TaEa8NMdKCh0u"
+      },
+      "artists": [
+        {
+          "name": "Yo Lee",
+          "url": "https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224342,
+      "name": "Dream Light - HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/5p3ipydCyJLu1suJsODquu"
     },
     {
       "album": {
@@ -10080,7 +10098,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 268117,
       "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:))",
       "url": "https://open.spotify.com/track/5u6xwrIwh9cPW9VXCODU7v"
@@ -10412,7 +10430,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 157268,
       "name": "\u5ba2\u5ba2\u6c23\u6c23 COURTESY",
       "url": "https://open.spotify.com/track/3aZIGAzaPiZY3CXpWLYHfq"
@@ -16503,6 +16521,24 @@
     },
     {
       "album": {
+        "name": "\u6bbc (HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/4AFSk6RpSohw1mOZfnZOcT"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211537,
+      "name": "\u6bbc - HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2lrfadrCJt3NajEvUdt77p"
+    },
+    {
+      "album": {
         "name": "\u6bcf\u4e00\u5929",
         "url": "https://open.spotify.com/album/1O9EwhCdlcqXwgrO05E2P5"
       },
@@ -16706,7 +16742,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 204774,
       "name": "\u6c92\u4eba\u559c\u6b61\u4f60 \u90a3\u53c8\u600e\u6a23",
       "url": "https://open.spotify.com/track/4ITbpz325QVvYYRFOFGtrs"
@@ -19393,6 +19429,24 @@
     },
     {
       "album": {
+        "name": "\u7d2b\u5916\u7dda 2.0",
+        "url": "https://open.spotify.com/album/1W8Ebu3CEleo0f66iQpJGb"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Dizzo \u8521\u8a69\u82b8",
+          "url": "https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "\u7d2b\u5916\u7dda 2.0",
+      "url": "https://open.spotify.com/track/5aOqVv5fepCrbUv8wBic3x"
+    },
+    {
+      "album": {
         "name": "LUNARFACE",
         "url": "https://open.spotify.com/album/5ZzlRR3ODf69DbXafWYIBn"
       },
@@ -19832,6 +19886,24 @@
       "duration_ms": 177676,
       "name": "\u805a\u5149\u71c8",
       "url": "https://open.spotify.com/track/0nmcxMPAZQHsJ0wsNlnLn5"
+    },
+    {
+      "album": {
+        "name": "\u602a\u661f\u96fb\u5f71\u9662",
+        "url": "https://open.spotify.com/album/4nYYB4OUnICXj9iTQArQGi"
+      },
+      "artists": [
+        {
+          "name": "\u602a\u661f",
+          "url": "https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200502,
+      "name": "\u8070\u660e\u93ae (Netflix \u5f71\u96c6\u300a\u8070\u660e\u93ae\u300b\u5ba3\u50b3\u66f2)",
+      "url": "https://open.spotify.com/track/3mAQPr6HpFl1PZ40Ik68wm"
     },
     {
       "album": {
@@ -21085,6 +21157,24 @@
     },
     {
       "album": {
+        "name": "\u8acb\u570d\u8457\u706b\u7130\u4fdd\u8b77\u6211",
+        "url": "https://open.spotify.com/album/1SkojqzU2AQIPpSrmei9y3"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "\u8acb\u570d\u8457\u706b\u7130\u4fdd\u8b77\u6211",
+      "url": "https://open.spotify.com/track/2R7crW2wgXJwSKPfKplHlT"
+    },
+    {
+      "album": {
         "name": "Deus Ex Machina",
         "url": "https://open.spotify.com/album/7fdXqmyXq530aJDeZud47I"
       },
@@ -21204,7 +21294,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 252543,
       "name": "\u8cb4\u5f97\u53ef\u4ee5 (\u5f71\u96c6\u300a\u6b20\u59b3\u7684\u90a3\u5834\u5a5a\u79ae\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/0wXB9Y8Kn5pKRg3XabUkb7"
@@ -23010,7 +23100,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 234507,
       "name": "\u9760\u95dc\u4fc2",
       "url": "https://open.spotify.com/track/0FnMg583fEr89brx7iss5s"

@@ -4,7 +4,7 @@
 
 > 
 
-934 songs - 2 day 11 hr 39 min
+936 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alien Crime Lord](https://open.spotify.com/track/4S5T3NPeWSPqgb3ElxL8MN) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Alien Crime Lord](https://open.spotify.com/album/5qIsoDussf4NrGw5WC9rXM) | 4:25 | 2024-06-06 |  |
 | [ALieNNatioN](https://open.spotify.com/track/7zpHInsypgrnY9zTeCXtI4) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:39 | 2024-06-06 |  |
 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 | 2025-12-17 |  |
+| [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 | 2026-08-20 |  |
 | [All or Nothing](https://open.spotify.com/track/44Wrizz3xIqDzjPREdGoAz) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 2:49 | 2024-12-31 | 2026-06-15 |
 | [All The Time](https://open.spotify.com/track/7uFZNMEZzAGOwQ6EZID1K4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:01 | 2024-05-11 |  |
 | [All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ferric Oxide \(Demos 1997 \- 2001\)](https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0) | 2:07 | 2026-05-17 |  |
@@ -874,6 +875,7 @@
 | [Waiting for the 7.18](https://open.spotify.com/track/16clYJA4LJME2u29OhGADh) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:15 | 2025-02-16 |  |
 | [Walking Habits](https://open.spotify.com/track/7Iz623tnrXFLlypmsPMVyb) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:16 | 2024-07-07 |  |
 | [Wallflower](https://open.spotify.com/track/2yMtXgbMV3CV9L0ZESYtjB) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Wallflower](https://open.spotify.com/album/4NYeFLdZrMlN2I01mzbZgU) | 3:41 | 2025-12-14 |  |
+| [Watch the Tapes](https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 3:55 | 2026-08-20 |  |
 | [Waves](https://open.spotify.com/track/7L3QmMRCPBgtt4hZADdyGt) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Waves](https://open.spotify.com/album/46FsQJ2hS4vzoAtKn4gDdy) | 2:18 | 2026-03-12 |  |
 | [We Are All Animals](https://open.spotify.com/track/74dVOaICSDwJkCFZsSKeOn) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 4:08 | 2026-02-17 |  |
 | [We Danced Together](https://open.spotify.com/track/4jUqjHS9fOjGYNGzG2Txsr) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:53 | 2026-02-17 |  |

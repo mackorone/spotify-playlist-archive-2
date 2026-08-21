@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 212945,
+  "num_followers": 213101,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABIQz8gHvOH+pSHjsPI6rca",
+  "snapshot_id": "aoTyAAAAAABjyD0Tlnn460r6g7GfXBzt",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JESUS IS COMING BACK SOON",
-        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
+        "name": "2 STEP THE ENEMY",
+        "url": "https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB"
       },
       "artists": [
         {
@@ -160,13 +160,17 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         },
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "LOST & FOUND",
+          "url": "https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo"
+        },
+        {
+          "name": "ZVC",
+          "url": "https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI"
         }
       ],
-      "duration_ms": 180034,
-      "name": "JESUS IS COMING BACK SOON",
-      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
+      "duration_ms": 162857,
+      "name": "2 STEP THE ENEMY",
+      "url": "https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw"
     },
     {
       "added_at": null,
@@ -191,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 STEP THE ENEMY",
-        "url": "https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB"
+        "name": "JESUS IS COMING BACK SOON",
+        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
       },
       "artists": [
         {
@@ -200,17 +204,13 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         },
         {
-          "name": "LOST & FOUND",
-          "url": "https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo"
-        },
-        {
-          "name": "ZVC",
-          "url": "https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI"
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
         }
       ],
-      "duration_ms": 162857,
-      "name": "2 STEP THE ENEMY",
-      "url": "https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw"
+      "duration_ms": 180034,
+      "name": "JESUS IS COMING BACK SOON",
+      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
     },
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "CHILD OF GOD II (BACK TO BACK)",
+        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
       },
       "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 158388,
+      "name": "GOD'S GOT MY BACK",
+      "url": "https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II (BACK TO BACK)",
-        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 158388,
-      "name": "GOD'S GOT MY BACK",
-      "url": "https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRUTH WILL SET YOU FREE",
-        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "TRUTH WILL SET YOU FREE",
-      "url": "https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE JESUS GENERATION",
         "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 255197,
       "name": "THE JESUS GENERATION",
       "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRUTH WILL SET YOU FREE",
+        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "TRUTH WILL SET YOU FREE",
+      "url": "https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X"
     },
     {
       "added_at": null,

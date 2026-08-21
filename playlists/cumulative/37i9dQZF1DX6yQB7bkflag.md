@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: KATSEYE
 
-3,212 songs - 7 day 17 hr 27 min
+3,213 songs - 7 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,6 +737,7 @@
 | [Die For You](https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/6EetSjlBdamHHg82She66u) | 3:06 | 2025-05-22 | 2025-06-06 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 | 2024-10-11 |
 | [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 | 2025-06-13 | 2025-06-27 |
+| [DIFFERENT](https://open.spotify.com/track/4Cy4n8Tskg9Hn8L90mW4VL) | [Syasya Rizal](https://open.spotify.com/artist/5v6OyN4JnkVwba9Rd83ozu) | [DIFFERENT](https://open.spotify.com/album/0xC5bXCoXOiZjWcT1wK10z) | 3:02 | 2026-08-13 |  |
 | [Difficult Love](https://open.spotify.com/track/0UDEtLcKGBU73D15u5g1r3) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 2:33 | 2026-06-04 | 2026-08-01 |
 | [Dihukum Rindu](https://open.spotify.com/track/2cQjLdCx6OmnXuFrEUc2jK) | [Yogie Nandes](https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62) | [Dihukum Rindu](https://open.spotify.com/album/3ITlmjxz4h4McMAbWmwEQG) | 4:05 | 2024-05-16 | 2024-06-14 |
 | [Dilematika](https://open.spotify.com/track/5fRyXs8qRcD2bPFaOUv1Nh) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [SATU 7AN](https://open.spotify.com/album/2pn9DNWXKIlQsWwwySEt26) | 3:53 | 2025-05-01 | 2025-05-16 |

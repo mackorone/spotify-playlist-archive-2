@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGquR9lelQD.md) - [plain]
 
 > Shame exists because representation doesn’t\. Unshaming shares the stories of silenced communities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 908 likes - 5 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 907 likes - 5 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGquR9lelQD.md) - [plain]
 | 4 | [Starter Episode: Shame of Being Gay](https://open.spotify.com/episode/3BkiHk6FrGJJ2uOuDDhGwy) | [Unshaming](https://open.spotify.com/show/0tUihHXJLcYyyYxqP9UW2Z) | [Unshaming](https://open.spotify.com/album/0tUihHXJLcYyyYxqP9UW2Z) | 30:09 |
 | 5 | [Shame of Growing Up Low Income](https://open.spotify.com/episode/0zHVJL1WxICR6KphwatkZu) | [Unshaming](https://open.spotify.com/show/0tUihHXJLcYyyYxqP9UW2Z) | [Unshaming](https://open.spotify.com/album/0tUihHXJLcYyyYxqP9UW2Z) | 33:49 |
 
-Snapshot ID: `AAAAAMsJh/g9OWHBUX88dqGuSh6jJ5xM`
+Snapshot ID: `AAAAAEwY3AI7xmbEH7+WptU22/RucH8V`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nipsey Hussle & Bino Rideaux,  Flo Milli, Trippie Redd and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,272 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,325 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Back In Paris](https://open.spotify.com/track/72qynWpQUJf1g8V2owyxwF) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Repeat Repeat Repeat](https://open.spotify.com/album/54dBz6T2bFDhrvBFu5rkE9) | 3:01 |
 | 36 | [Play If You Want](https://open.spotify.com/track/5Y6iBIsymrTLCaweTFxYDd) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Play If You Want](https://open.spotify.com/album/2wyutCkaaixvWDkH92jFYf) | 3:16 |
 | 37 | [FERRARI](https://open.spotify.com/track/4FOO0xTI6dXRRHJ8CCtAl6) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC) | [FERRARI](https://open.spotify.com/album/70mqGISBIev77sQBoNRVq3) | 1:49 |
-| 38 | [Rice N Butter](https://open.spotify.com/track/6ahJMgFJTq2xmAM7Wg38qN) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Rice N Butter](https://open.spotify.com/album/2pQkijDQ5wpFuTxtMBONg1) | 1:55 |
+| 38 | [Rice N Butta](https://open.spotify.com/track/6ahJMgFJTq2xmAM7Wg38qN) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Rice N Butta](https://open.spotify.com/album/2pQkijDQ5wpFuTxtMBONg1) | 1:55 |
 | 39 | [MY BLOCK \(ft\. PLUTO\)](https://open.spotify.com/track/1QTcxhshVabucxneUvTrXC) | [SMJ](https://open.spotify.com/artist/4pDtAjA47T0lTKu97HfNfq), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [PLEASURE TO MEET YOU](https://open.spotify.com/album/4XqLQZQCGJea014jHi6lY0) | 2:44 |
 | 40 | [Peace Sign](https://open.spotify.com/track/60n1FBG3P0AOgNk9h9p2nH) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU) | [Peace Sign](https://open.spotify.com/album/419wHwzAvO4ZKMaLCU1hIt) | 1:39 |
 | 41 | [Goin Down](https://open.spotify.com/track/72WJHJ1ktgtrOdDZZUSSGa) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [Kokane](https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ) | [Goin Down](https://open.spotify.com/album/08AyM8Pu79laPrFDci3T7Y) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Clutch My Bag](https://open.spotify.com/track/1SWAjSJbvr9yJ6HaKgZjE2) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Clutch My Bag](https://open.spotify.com/album/4Gu8yikbv2SCxwE7N4miue) | 2:23 |
 | 50 | [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/track/6pD0jkdVeQvIud7tUIBabj) | [Kent Loon](https://open.spotify.com/artist/4D10XmdrnAaDediMRuOBKM), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Swamp Olympics \(feat\. Skrilla & Wizz Havinn\)](https://open.spotify.com/album/5euDlk0QQfgnMovqEcqLCu) | 2:25 |
 
-Snapshot ID: `AAAAAEYwYekECZeoY0upTIGs9fXQekUm`
+Snapshot ID: `AAAAAECYigm94DoZA+PT51siapLKmmjO`

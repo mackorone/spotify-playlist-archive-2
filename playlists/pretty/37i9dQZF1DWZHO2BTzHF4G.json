@@ -1,12 +1,12 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 76009,
+  "num_followers": 76028,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVd/3fSu4r/3/SVLGjRBPbjvKVI",
+  "snapshot_id": "AAAAAC5/KJ9G8vZlfbJ9JakpynUEIBlL",
   "tracks": [
     {
       "added_at": "2024-07-12 15:02:20",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -963,8 +963,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons (Walmart Exclusive Edition)",
-        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 252040,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "All the Right Reasons (Walmart Exclusive Edition)",
+        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Broken Boy Soldiers",
-        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Steady, As She Goes",
-      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "The Best Yet",
         "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 199813,
       "name": "Meant to Live",
       "url": "https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Steady, As She Goes",
+      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
     },
     {
       "added_at": "2024-07-12 15:02:20",

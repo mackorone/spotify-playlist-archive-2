@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,928 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,967 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [KTRAP](https://open.spotify.com/track/1vFVE311YbgWWDQkJhBDd6) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [PROD OGG](https://open.spotify.com/artist/1aGYEe3T6Es7aIjI7ePvyb), [Marthian](https://open.spotify.com/artist/6yP6BN0EBh7xFek2c4Sh9J) | [KTRAP](https://open.spotify.com/album/0QUQSM3raRsnzXCa6kiNTz) | 2:11 |
 | 50 | [Givenchy](https://open.spotify.com/track/13ByvyMCrQs5zPnhIFpIYN) | [Blacka](https://open.spotify.com/artist/7CP3YMunVNU7kslDUDR3li) | [Luxe](https://open.spotify.com/album/2VbjJozJq7IyciVCGU2hWO) | 2:08 |
 
-Snapshot ID: `AAAAAF1LrhF4f5VmdMmVVucJbTJxg70n`
+Snapshot ID: `AAAAAGkZVxz2rEJeLWuMxjH8CoHXQmtl`

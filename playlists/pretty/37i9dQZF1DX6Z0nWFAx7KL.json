@@ -1,12 +1,12 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168071,
+  "num_followers": 168075,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG65eoL7CB5W8pOqSR6geVlL4sQA",
+  "snapshot_id": "AAAAAFdqWlh2yDGUI3PRtfFN+pkZjaBy",
   "tracks": [
     {
       "added_at": "2026-06-08 07:23:44",
@@ -459,6 +459,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Movement II",
+        "url": "https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "The Cocktail Hour",
         "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 145573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Movement II",
-        "url": "https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Eug\u00e9nie",
-          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+      },
+      "artists": [
+        {
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/5YWV2NWTHemfJwn25QEteH"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 169891,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/68xhZFDatrsgFByOoYY7GO"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
-      },
-      "artists": [
-        {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "All In One",
         "url": "https://open.spotify.com/album/5b7t6LQrYvDVAnsPf6wf4A"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 172398,
       "name": "All In One",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1031,22 +1031,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
       },
       "artists": [
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
         }
       ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
+      "duration_ms": 152000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1095,26 +1099,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
         },
         {
-          "name": "LAST CALL",
-          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
-        },
-        {
-          "name": "Horxata",
-          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
+      "duration_ms": 142956,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
     },
     {
       "added_at": "2026-06-08 07:23:44",

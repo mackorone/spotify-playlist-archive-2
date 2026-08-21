@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,299 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,295 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 10 | [Track 05](https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h) | [Temple of Speed](https://open.spotify.com/artist/3AWI9871W8BrYS6opessD9), [Sterneis](https://open.spotify.com/artist/2WkWYAv7rOry0WxWiDrcYE), [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [10 Tracks \- Vol\. 4](https://open.spotify.com/album/1ZAiyo0VLkq8hO4Ev6mEK0) | 6:40 |
 | 11 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
 | 12 | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/track/2oBcWgTaL7Hf3kwyKKoKAM) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/album/1FROZGtaQG82Gr2SkohAE3) | 3:32 |
-| 13 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
-| 14 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
+| 13 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
+| 14 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
 | 15 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |
 | 16 | [\[Ä\]](https://open.spotify.com/track/6lQPodqFBJRQqvuHPwY7ag) | [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [\[Ã\]](https://open.spotify.com/album/5Hu42gMxa1sqnZXIAb3edZ) | 2:57 |
 | 17 | [Mais oú? \- Single Version](https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Golden Greats](https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 49 | [Grächtigkeitsgass \[feat\. Lo & Leduc\]](https://open.spotify.com/track/3OPLuQps2zDnD0vmhTeXIn) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/5jlOlbLwRxl46TaqbpLhy9) | 4:01 |
 | 50 | [Die Grundregeln](https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui) | [Beat Dictator Crew](https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo), [Bdc](https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V) | [Mitgehen oder Aussteigen](https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH) | 3:40 |
 
-Snapshot ID: `AAAAANkkh/Iu5ywoCmGXdaRajelIk8f2`
+Snapshot ID: `AAAAAE1DXzXOstGa7unuSAOu7GOwG63a`

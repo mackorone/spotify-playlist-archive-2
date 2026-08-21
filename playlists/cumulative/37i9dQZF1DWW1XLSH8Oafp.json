@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": ".com",
+        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
+    },
+    {
+      "album": {
         "name": "Audio Diary",
         "url": "https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK"
       },
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 208005,
       "name": "Asking 4",
       "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
@@ -4405,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "CHOOSY",
+        "url": "https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "CHOOSY",
+      "url": "https://open.spotify.com/track/6bKGIXgqSvHjAkyvtuIgXu"
+    },
+    {
+      "album": {
         "name": "chuck x blair",
         "url": "https://open.spotify.com/album/3AORQRBMInwrERkWcN0tzV"
       },
@@ -5990,7 +6030,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 254464,
       "name": "do u feel it?",
       "url": "https://open.spotify.com/track/5GZkw8KgMnSunwUZmvlghK"
@@ -8052,6 +8092,32 @@
       "duration_ms": 316424,
       "name": "Fine Night",
       "url": "https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG"
+    },
+    {
+      "album": {
+        "name": "Fire Away (feat. Slayyyter) (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/3L60MvbEOZz3VDRqYfdhmc"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Fire Away (feat. Slayyyter) - Frost Children Remix",
+      "url": "https://open.spotify.com/track/6Mu3CIPbtoPh1kEyBMLRJz"
     },
     {
       "album": {
@@ -10532,6 +10598,24 @@
       "duration_ms": 156289,
       "name": "High",
       "url": "https://open.spotify.com/track/4aLoyjHI2UfR55tJwgAj6J"
+    },
+    {
+      "album": {
+        "name": "High Alert",
+        "url": "https://open.spotify.com/album/1oerDqkBRJohgYMF9abTWn"
+      },
+      "artists": [
+        {
+          "name": "Winifred",
+          "url": "https://open.spotify.com/artist/0nrIAg6pctHbjP3FyKOvgM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143853,
+      "name": "High Alert",
+      "url": "https://open.spotify.com/track/2Al4kVNnGx4PJAwRivvbDV"
     },
     {
       "album": {
@@ -13210,7 +13294,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 165360,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/7l0GVzj09ZIa78loQtndDt"
@@ -15372,7 +15456,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 159493,
       "name": "Miami Crest",
       "url": "https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q"
@@ -17378,7 +17462,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 202525,
       "name": "only the best",
       "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
@@ -20104,10 +20188,32 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 178758,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/7d1xRtN3t6WTIwL6F4kNwX"
+    },
+    {
+      "album": {
+        "name": "50 ballerinas",
+        "url": "https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "seeing stars",
+      "url": "https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x"
     },
     {
       "album": {
@@ -25530,6 +25636,24 @@
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "album": {
+        "name": "where_the_drummer_at?",
+        "url": "https://open.spotify.com/album/5IxKj56NYEWf1LqSqkhhNq"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195208,
+      "name": "where_the_drummer_at?",
+      "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
     },
     {
       "album": {

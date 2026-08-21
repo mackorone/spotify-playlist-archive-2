@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: LaCabra",
+  "description": "Only the hottest South African rap. \nCover: Tyson Sybateli",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -10363,6 +10363,24 @@
     },
     {
       "album": {
+        "name": "iSauce Yami",
+        "url": "https://open.spotify.com/album/7sipb96byc2sK2TgHot8ex"
+      },
+      "artists": [
+        {
+          "name": "M4L!",
+          "url": "https://open.spotify.com/artist/722tl0t6ZZ8C7MWyCZ28p7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132366,
+      "name": "iSauce Yami",
+      "url": "https://open.spotify.com/track/3QdSv4BeRvOlMuf3Kq596e"
+    },
+    {
+      "album": {
         "name": "31 Y?EARS AHEAD OF TIME",
         "url": "https://open.spotify.com/album/1NrWh6KoTILbEIyqI2cyBp"
       },
@@ -16352,7 +16370,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 236921,
       "name": "PHANDA",
       "url": "https://open.spotify.com/track/2eIyn0lOE2McKCCrOsBI8x"
@@ -18704,7 +18722,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 204589,
       "name": "Sewer",
       "url": "https://open.spotify.com/track/4iOeodQ4jq5aardIuyIR3F"
@@ -22842,6 +22860,24 @@
       "duration_ms": 210863,
       "name": "Twice",
       "url": "https://open.spotify.com/track/1Po23ny87Sx3gMB9DFqf1B"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/4q3wvz19PBlmKiH30hCdLc"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238374,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/1855Ag4aos9JsMp8TnCKkN"
     },
     {
       "album": {

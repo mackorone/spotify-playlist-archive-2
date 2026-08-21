@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-333 songs - 19 hr 33 min
+335 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Signal](https://open.spotify.com/track/7xYEHymB4dsZEJmKj1whhm) | [Another Concept](https://open.spotify.com/artist/0yIE6PqXFY8FS7YRdssKGM), [After Kollaps](https://open.spotify.com/artist/0qmiwvyNCscuDEAfDg0TYX), [1ØØ1](https://open.spotify.com/artist/6l5R4W3bm41mElXy4M8piI) | [Pressure](https://open.spotify.com/album/5TPOpROapN2A9cWr1FNXdZ) | 3:03 | 2026-06-13 |  |
 | [Silent Walls](https://open.spotify.com/track/64DwAgNn79OTMB8eMGi5oJ) | [CTRL+BODY](https://open.spotify.com/artist/5PnjACEeJw5UzZPiKRqvsD) | [Silent Walls](https://open.spotify.com/album/0yu49WtAKOBaMcnUDshgF1) | 3:04 | 2026-06-13 |  |
 | [Silver Threads: Dawn That Conquers Night](https://open.spotify.com/track/4dDmB5h8WUehCfXMNDW4wn) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Silver Threads: The Final Saga](https://open.spotify.com/album/3XEMADvwycV4x8hJDHi2Qo) | 6:44 | 2026-05-07 | 2026-06-12 |
+| [Sin Control](https://open.spotify.com/track/6OJ0tbNV5zj9UvyBH43ZuT) | [La Racha](https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx) | [Sin Control](https://open.spotify.com/album/4o5djTfRbeyWhCr2cZvO4c) | 3:48 | 2026-08-20 |  |
 | [SION](https://open.spotify.com/track/65jNAQhwNFLgALzsWSRgtO) | [CHA](https://open.spotify.com/artist/4SVS3RUjhRnMsmX2Q3NOpq) | [SION](https://open.spotify.com/album/7aMsx7582glx8y5kPmiRKg) | 3:59 | 2025-05-08 | 2026-04-06 |
 | [So, get away](https://open.spotify.com/track/4vxDZWJVAwVK4CWIR8nG9d) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [So, get away](https://open.spotify.com/album/7t9s6HULh9DQ4lF0IEoOg2) | 3:39 | 2025-10-24 | 2026-04-06 |
 | [Soledad](https://open.spotify.com/track/2w8JUSlPm6iq0qEbnec4mW) | [Monko](https://open.spotify.com/artist/62w78YeMxP37Tx063lbTKN) | [Soledad](https://open.spotify.com/album/0CweW2Z8YkerhXTZ6tmK5b) | 3:20 | 2025-07-28 | 2026-04-06 |
@@ -305,6 +306,7 @@
 | [Traveling in Sound](https://open.spotify.com/track/6QvIAtjdH0QZxfAbAyrfl8) | [DJ Rico](https://open.spotify.com/artist/5Z9hx7eqAWLRYIaTrbDA8W) | [Traveling in Sound](https://open.spotify.com/album/4pg64MEVnOkSmpEtDiYCoB) | 6:22 | 2025-04-12 | 2026-04-06 |
 | [Tu](https://open.spotify.com/track/5awnP8cETN8DFEu5n6enr8) | [Maralva](https://open.spotify.com/artist/6flMx7yW78NbeH2r7mV4iH) | [9 Caprichos](https://open.spotify.com/album/6CBVlWdf0YN6xeSMHdxNjg) | 3:15 | 2025-04-24 | 2026-04-06 |
 | [Tu Primera](https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Tu Primera](https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz) | 3:30 | 2026-06-23 |  |
+| [Tu siempre yo](https://open.spotify.com/track/1VzekpDrenZM01GurlUS6n) | [David M.](https://open.spotify.com/artist/5BIPYCEhkHamS9soXgw5wD) | [Tu siempre yo](https://open.spotify.com/album/55uSySpz1Ua0SAKgqSNLf1) | 3:25 | 2026-08-20 |  |
 | [Turn Around](https://open.spotify.com/track/4lKDjTiynrFSCjgqQVGqo6) | [Doriima](https://open.spotify.com/artist/1rjtnSQuAcnWSU6J1GT4RO) | [Turn Around](https://open.spotify.com/album/5Mg2Kl22dLH4Fr75Ofeo0F) | 1:42 | 2025-06-01 | 2026-04-06 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-01-24 | 2026-06-12 |
 | [t’s a fucking epic night, \. \- Live](https://open.spotify.com/track/3ebeBbrkBjJ44UXtqxHEPZ) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 3:29 | 2025-10-24 | 2026-04-06 |

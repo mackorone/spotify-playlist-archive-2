@@ -5913,6 +5913,24 @@
     },
     {
       "album": {
+        "name": "Wahashteny",
+        "url": "https://open.spotify.com/album/6n18pz47yCIKayhgX1zgsO"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Elmuanna",
+          "url": "https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Wahashteny",
+      "url": "https://open.spotify.com/track/1ziuZS8AVYREsNsFTCShse"
+    },
+    {
+      "album": {
         "name": "Wahshni",
         "url": "https://open.spotify.com/album/6NHVn2BIPCjj5mHuWLqLKV"
       },

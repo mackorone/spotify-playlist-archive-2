@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,184 songs - 2 day 13 hr 19 min
+1,185 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Ma cité](https://open.spotify.com/track/79QqECyxikygVPilAuAO0l) | [DLM](https://open.spotify.com/artist/4Fdja4uNAMdIjqg0cwRXm8) | [Ma cité](https://open.spotify.com/album/4gXdzYlgwYqlwTlhPIwGqY) | 3:06 | 2025-09-15 | 2025-10-11 |
 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 | 2023-09-29 | 2024-03-09 |
 | [Ma mélodie \(feat\. Maître Gims\)](https://open.spotify.com/track/0BU5e8rDml803bp7mbouC0) | [Dry](https://open.spotify.com/artist/5h0VUGq3Pn45E3rcz9oe66), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Tôt ou tard](https://open.spotify.com/album/3LvJrErdpL9v0qE85ZcgAE) | 3:42 | 2024-02-16 | 2024-04-06 |
+| [Ma Reine](https://open.spotify.com/track/2B5A0IJZTT5YsR6mMy8jnG) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [JE TE RESSEMBLE](https://open.spotify.com/album/0FpCvu4SIYPz7ptPcNMuRQ) | 3:39 | 2026-08-20 |  |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-08-14 | 2025-09-13 |
 | [Ma vida](https://open.spotify.com/track/3vDg435EBd8Eeai5io5vGX) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/0VrwXgh4GqaIV7XAuMdXDh) | 3:08 | 2025-02-14 | 2025-04-19 |
 | [Madame](https://open.spotify.com/track/2owjILiTibvZNB348YYQzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv) | [La tête dans les nuages](https://open.spotify.com/album/2UyUeMDqCwENnLIU7EQ3We) | 4:01 | 2023-05-05 | 2023-12-14 |
@@ -815,7 +816,7 @@
 | [On ira](https://open.spotify.com/track/0O7j6n6xv3XtsqAqZw0nYM) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Recto verso \(Deluxe\)](https://open.spotify.com/album/0rFKJTkteZamC0YcH3ZWf4) | 2:58 | 2024-01-12 | 2024-05-04 |
 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-08-14 |  |
 | [On se connaît](https://open.spotify.com/track/18m3o2kmvnYJn2cCOZ4LD9) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Noémie](https://open.spotify.com/artist/6I4Y1OpnBcs0srZPVBGAxO) | [On se connaît](https://open.spotify.com/album/1hHkSXJ6hAXPAO3Y2UMGP9) | 4:33 | 2025-07-04 | 2025-11-22 |
-| [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 | 2026-05-29 |  |
+| [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 | 2026-05-29 | 2026-08-21 |
 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 | 2025-08-22 | 2026-01-15 |
 | [On y va](https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [On y va](https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm) | 2:35 | 2024-05-17 | 2024-09-21 |
 | [On y va](https://open.spotify.com/track/2inSUOF1dSiy3NP2i3Wnxc) | [Smily](https://open.spotify.com/artist/6uz6yX6ZXG4XWprCf3ukx2) | [On y va](https://open.spotify.com/album/1KbEnw957NKsSQ1cxgIXnt) | 2:03 | 2023-12-01 | 2024-06-01 |

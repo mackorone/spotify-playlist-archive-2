@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2030275,
+  "num_followers": 2030256,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMtHKggjFllRDycuRTw7+JCen3G",
+  "snapshot_id": "AAAAACJs0ZK96ychGmVP9QE1bG9D48Vh",
   "tracks": [
     {
       "added_at": "2026-07-17 00:16:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 149232,
-      "name": "Jailhouse Rock",
-      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Metal Health",
         "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 149232,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1675,6 +1659,22 @@
       "duration_ms": 187853,
       "name": "Ten Tonne Skeleton",
       "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Masks Off",
-        "url": "https://open.spotify.com/album/1ADa0uCdQlkfKng3mYVF9C"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 172612,
-      "name": "Won\u2019t You Come Out Tonight",
-      "url": "https://open.spotify.com/track/5zEQVZW8QMbFXy6RzW44ji"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Masks Off",
+        "url": "https://open.spotify.com/album/1ADa0uCdQlkfKng3mYVF9C"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 172612,
+      "name": "Won\u2019t You Come Out Tonight",
+      "url": "https://open.spotify.com/track/5zEQVZW8QMbFXy6RzW44ji"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
+        "name": "Chronicles Of The Kid",
+        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
         "name": "Gods Of Rock N Roll",
         "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 316160,
       "name": "Gods Of Rock N Roll",
       "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
-        "name": "Chronicles Of The Kid",
-        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 341666,
-      "name": "This Land",
-      "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "The Perfume of Decay",
         "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 155603,
       "name": "Play My Favourite Song",
       "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 341666,
+      "name": "This Land",
+      "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
     },
     {
       "added_at": "2026-07-17 00:16:35",

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 143002,
+  "num_followers": 143012,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAA32bXIxgrr6xPT3KBT4Yd3",
+  "snapshot_id": "aoTyAAAAAAB6hbP0G8mW2N+8YxZsdV1x",
   "tracks": [
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 174639,
-      "name": "Doom or Destiny",
-      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
+      "duration_ms": 158800,
+      "name": "Fan Mail - Remastered",
+      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Fan Mail - Remastered",
-      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+      "duration_ms": 174639,
+      "name": "Doom or Destiny",
+      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
     },
     {
       "added_at": null,
@@ -655,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Angels On The Balcony - Remastered 2001",
-      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Panic of Girls",
         "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Angels On The Balcony - Remastered 2001",
+      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 246586,
-      "name": "Already Naked",
-      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,
@@ -719,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Live It Up - Remastered 2001",
-      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunter",
         "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Live It Up - Remastered 2001",
+      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 188480,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen"
+      "duration_ms": 246586,
+      "name": "Already Naked",
+      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6c3BB1ehH8VjFTj0lDXLoz"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "One Way Or Another - Live",
+      "url": "https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6c3BB1ehH8VjFTj0lDXLoz"
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 218760,
-      "name": "One Way Or Another - Live",
-      "url": "https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO"
+      "duration_ms": 188480,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen"
     }
   ],
   "unique_name": "This Is Blondie",

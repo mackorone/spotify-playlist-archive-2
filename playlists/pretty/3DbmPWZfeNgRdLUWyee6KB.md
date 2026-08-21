@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 113 songs - 6 hr 40 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 114 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 111 | [Final Orbit](https://open.spotify.com/track/2ITl2hSvHcXlBhnOvNhSaj) | [Todd & Karen](https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH) | [The Thrift Store Spaceship](https://open.spotify.com/album/1eCF2hRdwdRx5uLyzNcO0g) | 2:43 |
 | 112 | [Empreinte](https://open.spotify.com/track/1tK4igtCBcBdrylvPCljta) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [...Et de Delphine Volange le ciel était toujours sans nouvelles](https://open.spotify.com/album/58NYl8v1T3BJbX2SxDF7Lx) | 3:11 |
 | 113 | [Loin \- Radio Edit](https://open.spotify.com/track/0bDZY8NKhpgZnDfhyMzUUt) | [Perrine Hope](https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw) | [Loin](https://open.spotify.com/album/08dxpZlDC9PfHQJrmJN6Th) | 3:59 |
+| 114 | [Six Days and A Single Dime](https://open.spotify.com/track/3B5cbLWHEa7mQuhy1Lf3ca) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:02 |
 
-Snapshot ID: `AAAXKkH9z/X7ORkDQAoWvV3F/XKZmzhO`
+Snapshot ID: `AAAXK1MLew5xC8D4AHzGOcO6qCsOn8r+`

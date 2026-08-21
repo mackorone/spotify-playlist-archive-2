@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 271396,
+  "num_followers": 271383,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZYkZsWDblxmJhFtRjpgiLA5S8z",
+  "snapshot_id": "AAAAAC7sBkKU98TH1Kx6wnsKrGW3QT+g",
   "tracks": [
     {
       "added_at": "2025-12-17 22:42:18",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "The Best Of The Waitresses",
         "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 320800,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Learning to Crawl (US Release)",
-        "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "2000 Miles",
-      "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Dance Again",
         "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 221555,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Learning to Crawl (US Release)",
+        "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 134320,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Christmas (live from a restaurant in downtown Los Angeles)",
         "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "thank you wisdom angel i love you",
-        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "silver second",
-      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "santa baby",
-        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
       },
       "artists": [
         {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
         }
       ],
-      "duration_ms": 159209,
-      "name": "santa baby",
-      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1127,6 +1111,22 @@
       "duration_ms": 128737,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "santa baby",
+        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 159209,
+      "name": "santa baby",
+      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     }
   ],
   "unique_name": "Indie Christmas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: GrimesとさたぱんP
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,433 likes - 79 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,435 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 8 | [VEGA](https://open.spotify.com/track/4o1Ku9YhCedGkZZxwCaIyJ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [VEGA](https://open.spotify.com/album/7FBcUv81Lc4jO0UMhINANg) | 3:45 |
 | 9 | [ハイ↑ロー↓](https://open.spotify.com/track/7Jj4cttUj6b6VwD6aUnACP) | [yuri](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf) | [ハイ↑ロー↓](https://open.spotify.com/album/1lJtdC9xtgoGZBNjJHg0FE) | 2:07 |
 | 10 | [DAYS! \(NOMELON NOLEMON ver.\)](https://open.spotify.com/track/2WGSfWKHfom5dRiHgMEI21) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ユラリユレル / DAYS!](https://open.spotify.com/album/0g74c4L2btWbochcpLcy8k) | 3:46 |
-| 11 | [Pussy Cat!!](https://open.spotify.com/track/3gYThu2aSXgKI0mfubvqaQ) | [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [Pussy Cat!!](https://open.spotify.com/album/5BGVTRSmJty4qpa0G0kNv5) | 3:27 |
+| 11 | [Pussycat!!](https://open.spotify.com/track/3gYThu2aSXgKI0mfubvqaQ) | [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [Pussycat!!](https://open.spotify.com/album/5BGVTRSmJty4qpa0G0kNv5) | 3:27 |
 | 12 | [School bag](https://open.spotify.com/track/6z7kz4z91ucuC4NpmhTlNv) | [kohamo](https://open.spotify.com/artist/5zDPLSwW50hJIsOIy7hDVe) | [School bag](https://open.spotify.com/album/2q0RNtznRTFGNE7oYceTSJ) | 3:46 |
 | 13 | [モノクロマン](https://open.spotify.com/track/20cLYScPEm1Qg6BzCxb6SU) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [モノクロマン](https://open.spotify.com/album/207k60g8YnO33umTyaLrb0) | 4:03 |
 | 14 | [無責任ヒーロー](https://open.spotify.com/track/6STPDSKktjCeYWb4LmXgNx) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [Happy Birthday](https://open.spotify.com/album/35gULL5uqPPIBg9n2hq9Z1) | 4:27 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 78 | [Cattitude](https://open.spotify.com/track/627FD5UenbVZM9d6BJsoS8) | [seiza](https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY) | [Cattitude](https://open.spotify.com/album/4yYMW17ztBxlqhGlYUXPFY) | 3:10 |
 | 79 | [Synthetic海岸](https://open.spotify.com/track/25CDM5xcxU25roRWz7xu0Z) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Synthetic海岸](https://open.spotify.com/album/1korXzyIsbsutjtb1k7xeF) | 6:14 |
 
-Snapshot ID: `AAAAAEP4mQ9XEZTrASRDUHWoUlXnjFZ3`
+Snapshot ID: `AAAAAOXdGw3ZTXG788OKPSfhZR9dQwIn`

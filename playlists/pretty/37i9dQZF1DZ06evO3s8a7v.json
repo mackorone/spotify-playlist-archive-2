@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACDfcAH2l6nReYMTXScH3qr",
+  "snapshot_id": "aoTyAAAAAAAsluzlajSMWX0EJXVtWtx3",
   "tracks": [
     {
       "added_at": null,
@@ -46,6 +46,14 @@
         {
           "name": "Dread Mar I",
           "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 213480,
@@ -66,6 +74,14 @@
         {
           "name": "La K'onga",
           "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 179876,
@@ -90,6 +106,14 @@
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 231708,
@@ -134,6 +158,14 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 185426,
@@ -174,6 +206,14 @@
         {
           "name": "Rafaga",
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 190583,
@@ -234,6 +274,14 @@
         {
           "name": "Ulises Bueno",
           "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 177924,
@@ -302,6 +350,14 @@
         {
           "name": "Manuel Turizo",
           "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 221270,
@@ -414,11 +470,47 @@
         {
           "name": "Dvicio",
           "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
         }
       ],
       "duration_ms": 197600,
       "name": "4 Meses",
       "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuiste M\u00eda",
+        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 224098,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
     },
     {
       "added_at": null,
@@ -447,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste M\u00eda",
-        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 224098,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -478,6 +550,14 @@
         {
           "name": "Cali Y El Dandee",
           "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 180000,
@@ -550,6 +630,14 @@
         {
           "name": "Fer Palacio",
           "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 137293,
@@ -594,6 +682,14 @@
         {
           "name": "Rusherking",
           "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 209725,
@@ -614,6 +710,14 @@
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 205809,
@@ -658,6 +762,14 @@
         {
           "name": "Abel Pintos",
           "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 198353,
@@ -823,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco por Ti",
-        "url": "https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi"
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
       },
       "artists": [
         {
@@ -832,17 +944,17 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 194674,
-      "name": "Loco por Ti",
-      "url": "https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy"
+      "duration_ms": 148184,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
     },
     {
       "added_at": null,
@@ -898,22 +1010,6 @@
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "ME HACES FALTA",
-      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Escondidas",
-        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
           "name": "Agus Bernasconi",
@@ -924,9 +1020,41 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 148184,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
+      "duration_ms": 204069,
+      "name": "ME HACES FALTA",
+      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco por Ti",
+        "url": "https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 194674,
+      "name": "Loco por Ti",
+      "url": "https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy"
     },
     {
       "added_at": null,
@@ -1074,6 +1202,14 @@
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 303015,

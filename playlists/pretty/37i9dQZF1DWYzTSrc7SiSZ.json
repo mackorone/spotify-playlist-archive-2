@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 886646,
+  "num_followers": 886576,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdqMe0fRpxmSe9Zl1V4cDFObRWK",
+  "snapshot_id": "AAAAAC2y3GtoAxF+yd5dA91IvW8TLhkG",
   "tracks": [
     {
       "added_at": "2026-05-08 04:03:12",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3PofNKhlbZJcew6j3APkeL"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "barquito (bonus track)",
         "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3PofNKhlbZJcew6j3APkeL"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 163600,
       "name": "Intenciones",
       "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "Fui Yo",
-        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Fui Yo",
-      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "Fogata",
         "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 173200,
       "name": "Fogata",
       "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "aguasanta",
-        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
-      },
-      "artists": [
-        {
-          "name": "juliocesar",
-          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "aguasanta",
-      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "un mensaje de voz (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 203481,
       "name": "un mensaje de voz (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "FOK YO",
+      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "Lipstick ;*",
         "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 321019,
       "name": "Camarones y Viniles",
       "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "NICA",
-        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "FOK YO",
-      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
       },
       "artists": [
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 148266,
-      "name": "novatos",
-      "url": "https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe"
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Justrylove (Chill&Go Remix)",
         "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 148266,
+      "name": "novatos",
+      "url": "https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 106736,
-      "name": "cAnAimA",
-      "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 177867,
       "name": "I know",
       "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 106736,
+      "name": "cAnAimA",
+      "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "La Espa\u00f1ola",
-        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 170743,
-      "name": "Me Quiere No Me Quiere",
-      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "SOMOS JAVYPABLO",
         "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 192599,
       "name": "Flores Frescas",
       "url": "https://open.spotify.com/track/7nuZO15vxH0T8MtThmfjLC"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "La Espa\u00f1ola",
+        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 170743,
+      "name": "Me Quiere No Me Quiere",
+      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
     },
     {
       "added_at": "2026-05-08 04:03:12",

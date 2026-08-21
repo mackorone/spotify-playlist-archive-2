@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16036,
+  "num_followers": 16059,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABCiNGbryWooYzwS1sar8dU",
+  "snapshot_id": "aoTyAAAAAADFOfbCzqVJvyZd/fLg/FGq",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 89298,
-      "name": "Shakari",
-      "url": "https://open.spotify.com/track/6vDpN2kuIs8YjDsC9RH1Q1"
+      "duration_ms": 198861,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mandalorian: Chapter 1 (Original Score)",
-        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 198861,
-      "name": "The Mandalorian",
-      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
+      "duration_ms": 89298,
+      "name": "Shakari",
+      "url": "https://open.spotify.com/track/6vDpN2kuIs8YjDsC9RH1Q1"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 80818,
-      "name": "Caught in the Shadow",
-      "url": "https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 235570,
       "name": "BETRAYAL",
       "url": "https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creed (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 80818,
+      "name": "Caught in the Shadow",
+      "url": "https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI"
     },
     {
       "added_at": null,

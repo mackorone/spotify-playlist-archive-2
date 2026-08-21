@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! © Taiki Kawakami, Fuse, KODANSHA/“Ten\-Sura” Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,486 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,502 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 54 | [友情](https://open.spotify.com/track/2ggxbwmmlHKm1Tswjygyrs) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 2:18 |
 | 55 | [繁栄](https://open.spotify.com/track/0bcn7voVf6K5EwN0sRMmyZ) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:26 |
 
-Snapshot ID: `AAAAAG8/VXHDb/c9cR5lsR2hAoh5HAZw`
+Snapshot ID: `AAAAAPg1koKRUuSC3jDxx4yeOx72I1G3`

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s.",
-  "num_followers": 1909855,
+  "num_followers": 1910597,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJyXPtyAkWwYBC/mZhW/afoAhgJ",
+  "snapshot_id": "AAAAAB5QmiwUMV6HvuW81c4UYLeEGHVr",
   "tracks": [
     {
       "added_at": "2024-07-02 21:50:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Marc Cohn",
-        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
-      },
-      "artists": [
-        {
-          "name": "Marc Cohn",
-          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Walking in Memphis",
-      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "If We Fall in Love Tonight",
         "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Marc Cohn",
+        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
+      },
+      "artists": [
+        {
+          "name": "Marc Cohn",
+          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Walking in Memphis",
+      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Candle In The Wind 1997 / Something About ...",
-        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Candle In The Wind 1997",
-      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Beverley Craven",
         "url": "https://open.spotify.com/album/6FUmgVkSNOitCaITgXgDHJ"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 217360,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/4lnjHTyYWBrFGeRXDZaHCL"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Candle In The Wind 1997",
+      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 299760,
-      "name": "I Don't Want to Miss a Thing - From the Touchstone film, \"Armageddon\"",
-      "url": "https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 299760,
+      "name": "I Don't Want to Miss a Thing - From the Touchstone film, \"Armageddon\"",
+      "url": "https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq"
     }
   ],
   "unique_name": "Soft 90s",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 152103,
+  "num_followers": 152129,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAmwY00utkZtuzBldRhg2wJf2ku/",
+  "snapshot_id": "AAAAAGzly4ylcSIOCmE6Ziwv0ecayKwK",
   "tracks": [
     {
       "added_at": "2024-07-10 08:16:23",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Rip It Up",
         "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 320413,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "duration_ms": 344013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
     },
     {
       "added_at": "2024-07-10 08:16:23",

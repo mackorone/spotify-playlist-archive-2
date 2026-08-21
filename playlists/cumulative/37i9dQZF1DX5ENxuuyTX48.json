@@ -11059,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/0xC5bXCoXOiZjWcT1wK10z"
+      },
+      "artists": [
+        {
+          "name": "Syasya Rizal",
+          "url": "https://open.spotify.com/artist/5v6OyN4JnkVwba9Rd83ozu"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/4Cy4n8Tskg9Hn8L90mW4VL"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3eUsPahj6UMdIBreWMxUMO"
       },
@@ -27180,7 +27198,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
@@ -45336,7 +45354,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 258565,
       "name": "Untuk Kau Hargai",
       "url": "https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM"

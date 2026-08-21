@@ -2367,6 +2367,32 @@
     },
     {
       "album": {
+        "name": "DJAI",
+        "url": "https://open.spotify.com/album/0gXItWoNrQO433ZACQS6jY"
+      },
+      "artists": [
+        {
+          "name": "N\u00d4J",
+          "url": "https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O"
+        },
+        {
+          "name": "ALX FIDJI",
+          "url": "https://open.spotify.com/artist/6H0hJPDbTej7RXsnRAHqqD"
+        },
+        {
+          "name": "Lil Black",
+          "url": "https://open.spotify.com/artist/0iWrkhVAc1ZXc27V9PpLVN"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129567,
+      "name": "DJAI",
+      "url": "https://open.spotify.com/track/3XTN2zxzeggkBXmr6fvbCA"
+    },
+    {
+      "album": {
         "name": "Djamanan",
         "url": "https://open.spotify.com/album/5H7xOjqGNXigxGVbtapQ9L"
       },
@@ -3340,7 +3366,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 152876,
       "name": "GAWAYA.",
       "url": "https://open.spotify.com/track/3ghVMn5q0q4Dr4D2EJx5Wz"
@@ -3522,7 +3548,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 206000,
       "name": "GOR",
       "url": "https://open.spotify.com/track/58gfAtTrN0oZSXuer83Hj7"
@@ -4913,6 +4939,28 @@
     },
     {
       "album": {
+        "name": "M\u00c9TAMORPHOSE",
+        "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
+      },
+      "artists": [
+        {
+          "name": "SK 07",
+          "url": "https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "MINIMUM (feat. d\u00f8pelym)",
+      "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
+      "album": {
         "name": "Miyamoto Musashi",
         "url": "https://open.spotify.com/album/7Bf5cA7lfM5QDKVZoDVm2U"
       },
@@ -5860,7 +5908,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 157920,
       "name": "PAPACTISER",
       "url": "https://open.spotify.com/track/7G9mqI06xLgafa9iWtSCKk"
@@ -7190,6 +7238,32 @@
       "duration_ms": 158063,
       "name": "Tchiza",
       "url": "https://open.spotify.com/track/5LmvAYsbiAnm7DU9mxglZZ"
+    },
+    {
+      "album": {
+        "name": "Telegram",
+        "url": "https://open.spotify.com/album/5m0OJ0lHsQHreXr3doGAMz"
+      },
+      "artists": [
+        {
+          "name": "GK",
+          "url": "https://open.spotify.com/artist/1AYpjeuzivqYQNf5XplVkb"
+        },
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        },
+        {
+          "name": "Tripa Gninnin",
+          "url": "https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222410,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/5SR8wS0vMBOz3tenqpPNUa"
     },
     {
       "album": {

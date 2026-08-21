@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 72312,
+  "num_followers": 72323,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjVNJV91MP8RJHPcvyY3bk7NIZQ",
+  "snapshot_id": "AAAAADgLLQQqM054QAWhrDYG7E/qZcIA",
   "tracks": [
     {
       "added_at": "2026-06-09 17:29:19",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
+        "name": "June is Natural",
+        "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
+      },
+      "artists": [
+        {
+          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "June is Natural",
+      "url": "https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
         "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
         "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "June is Natural",
-        "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
+        "name": "Forever Note",
+        "url": "https://open.spotify.com/album/5DehSj5HPoXgAdC0wzSa4X"
       },
       "artists": [
         {
-          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 242013,
-      "name": "June is Natural",
-      "url": "https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH"
+      "duration_ms": 264760,
+      "name": "Forever Note",
+      "url": "https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -907,22 +923,6 @@
       "duration_ms": 201240,
       "name": "Unbalance Shadow",
       "url": "https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
-        "name": "Forever Note",
-        "url": "https://open.spotify.com/album/5DehSj5HPoXgAdC0wzSa4X"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 264760,
-      "name": "Forever Note",
-      "url": "https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 184106,
       "name": "Drift driving",
       "url": "https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "\u30ab\u30e9\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Risky\u306a\u5f7c\u5973",
-      "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
         "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
         "url": "https://open.spotify.com/album/19Er19UBgDjHxofmw8KnRR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 233760,
       "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
       "url": "https://open.spotify.com/track/4lDreS79cWyHzL9U6NMoh6"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Risky\u306a\u5f7c\u5973",
+      "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
     },
     {
       "added_at": "2026-06-09 17:29:19",

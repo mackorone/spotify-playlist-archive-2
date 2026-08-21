@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 8 hr 30 min
+157 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Saved](https://open.spotify.com/track/248OFOZef6ShXv6DGgbnxU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:26 | 2024-01-29 |  |
 | [Saved](https://open.spotify.com/track/52ARMnx6e49vp2zriS5aFK) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Saved \(Official Video\)](https://open.spotify.com/album/5VbCp4lYvDnAZARWYNQIdg) | 3:44 | 2024-01-31 | 2024-02-02 |
 | [See What You On](https://open.spotify.com/track/6GE4SSFlEpdLCSOLyXeBOh) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [No Hard Feelings](https://open.spotify.com/album/5D8kaq2gEsI1zaha675eIy) | 3:44 | 2024-01-29 |  |
+| [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 | 2026-08-20 |  |
 | [Shake It Up](https://open.spotify.com/track/2bTRpIxPniQmrSgwmtF1b2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 1:56 | 2024-01-29 |  |
 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 | 2024-01-29 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2024-01-29 |  |

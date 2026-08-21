@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Hadaya Eliana & Genes1s
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Njerae
 
-372 songs - 21 hr 0 min
+374 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,11 +249,12 @@
 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 | 2024-03-23 |
 | [Nyumbani](https://open.spotify.com/track/2eQeiHxv9epzbWsUQk1vPK) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Nyumbani](https://open.spotify.com/album/2gVOyoQ48YDu35k3Zk3zpu) | 3:07 | 2025-02-13 | 2025-02-21 |
 | [OASIS](https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:34 | 2026-07-15 | 2026-07-31 |
-| [OH COME](https://open.spotify.com/track/3GbKKWAHa8cBNoK1aEoztf) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ROSIE K](https://open.spotify.com/artist/00S43DmWWiMQCWXBw6ZggU), [TUNJAY](https://open.spotify.com/artist/79cKQVnKajMHzWIw4G8y6o) | [COLD CHRISTMAS: A Colossal rendition](https://open.spotify.com/album/6cqOMO1qtf4PuxE6HtM28O) | 3:59 | 2025-12-04 |  |
+| [OH COME](https://open.spotify.com/track/3GbKKWAHa8cBNoK1aEoztf) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ROSIE K](https://open.spotify.com/artist/00S43DmWWiMQCWXBw6ZggU), [TUNJAY](https://open.spotify.com/artist/79cKQVnKajMHzWIw4G8y6o) | [COLD CHRISTMAS: A Colossal rendition](https://open.spotify.com/album/6cqOMO1qtf4PuxE6HtM28O) | 3:59 | 2025-12-04 | 2026-08-21 |
 | [Olive\(ia\)](https://open.spotify.com/track/1xm5zaifC3MYTw8049ypZA) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Olive\(ia\)](https://open.spotify.com/album/1zUN2ALJ1OYmPYfES7oVGG) | 3:07 | 2025-02-13 | 2025-02-21 |
+| [On My Own](https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [On My Own / Let Them Know](https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ) | 3:18 | 2026-08-20 |  |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2022-11-11 |
 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-02 | 2024-10-11 |
-| [Options](https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [MAYBE II](https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv) | 3:42 | 2025-11-06 |  |
+| [Options](https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [MAYBE II](https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv) | 3:42 | 2025-11-06 | 2026-08-21 |
 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 | 2025-02-13 | 2025-02-21 |
 | [Panda Basi](https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp) | [Mvua](https://open.spotify.com/artist/6mK4gMeS7p1vS724AecSUO) | [Panda Basi](https://open.spotify.com/album/5yCp4CeBRujpxNTURyBCRO) | 2:47 | 2025-02-13 | 2025-02-21 |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |
@@ -351,6 +352,7 @@
 | [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 | 2026-02-13 |
 | [Ukimwona](https://open.spotify.com/track/77DPPsj43UAUoncZaJ5478) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Made in the Streets](https://open.spotify.com/album/0qlw8vU7ftNMYyuJ00Ka3D) | 3:52 | 2025-02-13 | 2025-02-21 |
 | [Uko Poa \- Full Version](https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Uko Poa \(Full Version\)](https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1) | 3:24 | 2022-04-28 | 2023-08-18 |
+| [Unanipa](https://open.spotify.com/track/263NrbGTVJI5draas4VOnY) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Unanipa](https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s) | 3:12 | 2026-08-20 |  |
 | [Under Cover Lover](https://open.spotify.com/track/1XLd6OwzEwbnGJQAUdZDZW) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [Under Cover Lover](https://open.spotify.com/album/2RDau5A3LLdLD0QkoUHHfH) | 3:49 | 2024-02-15 | 2024-06-14 |
 | [Unlove You](https://open.spotify.com/track/0NJoOCysG7PSFBFvbokwb5) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Myx Quest](https://open.spotify.com/artist/6JmBU7YwghMOJWV31Su7Ra) | [Unlove You](https://open.spotify.com/album/32blTzuslMKnhK0IjbUaEg) | 3:40 | 2026-06-18 |  |
 | [Usiende Mbali](https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Romantico](https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Usiende Mbali](https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M) | 4:34 | 2021-12-28 | 2022-06-17 |

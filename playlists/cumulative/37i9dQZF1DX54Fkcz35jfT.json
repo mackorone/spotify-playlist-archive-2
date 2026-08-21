@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 231773,
       "name": "IKIZAMA",
       "url": "https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk"
@@ -7542,6 +7542,24 @@
       "duration_ms": 485880,
       "name": "Voice",
       "url": "https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/3gthCm0KeAHGYjSwGlbOfr"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203798,
+      "name": "VOICE",
+      "url": "https://open.spotify.com/track/1wGkwIKe9VGWOmeqrPrB7C"
     },
     {
       "album": {

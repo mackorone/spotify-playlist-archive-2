@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-471 songs - 1 day 0 hr 8 min
+472 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [No Rival](https://open.spotify.com/track/1Q9IvR1mzz2qzElvcARuXF) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [No Rival](https://open.spotify.com/album/7cf61DeA3JoCN9n9nyBQ4V) | 3:18 | 2022-04-29 | 2023-08-11 |
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 | 2023-08-11 |
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 | 2023-08-11 |
+| [Nobody Around](https://open.spotify.com/track/0WGqG0Pg2Cyrj0FWBQS5s5) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody Around](https://open.spotify.com/album/0LIVRejBIFEyxlRoJjW2XE) | 3:18 | 2026-08-20 |  |
 | [Nobody Else](https://open.spotify.com/track/0kx3ml8bdAYrQtcIwvkhp8) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ) | [Nobody Else](https://open.spotify.com/album/598fb20yfA52W2gQNoCUZK) | 2:42 | 2022-03-17 | 2023-08-11 |
 | [Nobody Else](https://open.spotify.com/track/10u0qaODhMuvveoaaUtze2) | [Fryware](https://open.spotify.com/artist/5hvR80ZuQm5TWMu23iLqiQ), [Minnie](https://open.spotify.com/artist/2Rmz2lT1HgrTkKkeNR0kLd) | [Nobody Else](https://open.spotify.com/album/6DsCRRrTQ989S7B0vRGRUz) | 3:34 | 2025-10-28 |  |
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-07-26 | 2023-08-11 |

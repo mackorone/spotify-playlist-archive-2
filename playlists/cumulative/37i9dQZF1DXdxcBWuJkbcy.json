@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
@@ -4994,7 +4994,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 156668,
       "name": "Do You Want It Right Now",
       "url": "https://open.spotify.com/track/1xAMTwEG6OCawBiYzX3Kum"
@@ -7686,10 +7686,28 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 124203,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/5j6nS3lE5dyWjrTGGiZ2a2"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/6qBhR8G6Sy4pRejoaXQ626"
     },
     {
       "album": {
@@ -15316,7 +15334,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 170576,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw"
@@ -15416,6 +15434,28 @@
       "duration_ms": 163147,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1EgUI7Lcr7VvgDfYzb2UTl"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177458,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6HuYuY6eUIVaTZWpTDpNbq"
     },
     {
       "album": {
@@ -16040,7 +16080,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 211197,
       "name": "Pumpin",
       "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
@@ -18376,7 +18416,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 160758,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
@@ -19486,7 +19526,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189115,
       "name": "Swedish Mermaid (Rebecca & Fiona Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/70OKnvljXMOwtqhsMV5qW5"
@@ -21796,6 +21836,28 @@
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
+    },
+    {
+      "album": {
+        "name": "Voicemail (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6NeAtmL9sxQga7lc1EOQro"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Voicemail (Ti\u00ebsto Remix)",
+      "url": "https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc"
     },
     {
       "album": {

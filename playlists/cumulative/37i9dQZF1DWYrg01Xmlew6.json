@@ -6031,6 +6031,32 @@
     },
     {
       "album": {
+        "name": "LUFTHANSA",
+        "url": "https://open.spotify.com/album/3CP4upldnNTGipKi260UqT"
+      },
+      "artists": [
+        {
+          "name": "MOWGLI",
+          "url": "https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa"
+        },
+        {
+          "name": "musa",
+          "url": "https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno"
+        },
+        {
+          "name": "Chancho",
+          "url": "https://open.spotify.com/artist/3G155o8uoot6ywzOpdwv8f"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138201,
+      "name": "LUFTHANSA",
+      "url": "https://open.spotify.com/track/5slNUA5XM0c3yugE3Hj1xW"
+    },
+    {
+      "album": {
         "name": "LUMINOR",
         "url": "https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1"
       },
@@ -9886,7 +9912,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 137538,
       "name": "PREGIUDICAT (feat. El Chapo Junior)",
       "url": "https://open.spotify.com/track/5hMNzRMmktrzIeoFoykfo3"

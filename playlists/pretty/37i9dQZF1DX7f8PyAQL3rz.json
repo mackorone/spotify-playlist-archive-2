@@ -1,12 +1,12 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1435787,
+  "num_followers": 1435694,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABXPy0tdvZoBY/PbfrzP8OTZFJ/M",
+  "snapshot_id": "AAAAAIepVH1daDxUBL138ghkY1xLnnZ8",
   "tracks": [
     {
       "added_at": "2026-08-14 03:01:41",
@@ -947,30 +947,6 @@
     {
       "added_at": "2026-08-14 03:01:41",
       "album": {
-        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
-        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "COMO Q OFUSCA O BRILHO?",
-      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
-    },
-    {
-      "added_at": "2026-08-14 03:01:41",
-      "album": {
         "name": "Fiquei Bonito...",
         "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 134829,
       "name": "Fiquei Bonito...",
       "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
+    },
+    {
+      "added_at": "2026-08-14 03:01:41",
+      "album": {
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-08-14 03:01:41",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-08-14 03:01:41",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
-    },
-    {
-      "added_at": "2026-08-14 03:01:41",
-      "album": {
         "name": "Dentro da Sua",
         "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 136320,
       "name": "Dentro da Sua",
       "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
+    },
+    {
+      "added_at": "2026-08-14 03:01:41",
+      "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
     },
     {
       "added_at": "2026-08-14 03:01:41",
@@ -1199,6 +1199,30 @@
       "duration_ms": 164000,
       "name": "Sol Na Lata",
       "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
+    },
+    {
+      "added_at": "2026-08-14 03:01:41",
+      "album": {
+        "name": "MUSICAS PARA ELEVADOR",
+        "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 161856,
+      "name": "MARTINA",
+      "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
     },
     {
       "added_at": "2026-08-14 03:01:41",
@@ -1287,30 +1311,6 @@
       "duration_ms": 139033,
       "name": "Um Pouco Pensativo",
       "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
-    },
-    {
-      "added_at": "2026-08-14 03:01:41",
-      "album": {
-        "name": "MUSICAS PARA ELEVADOR",
-        "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
-      },
-      "artists": [
-        {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
-        },
-        {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 161856,
-      "name": "MARTINA",
-      "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
     },
     {
       "added_at": "2026-08-14 03:01:41",

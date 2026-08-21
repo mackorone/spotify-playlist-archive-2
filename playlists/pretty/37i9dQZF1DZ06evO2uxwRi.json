@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43992,
+  "num_followers": 43991,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACCBCL0Q/wjQwPnX6ci4TEf",
+  "snapshot_id": "aoTyAAAAAAB2rYp6mTXzGpBxoLweybRi",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Something I Call Personality",
+      "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Whole New Sound",
         "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 178823,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "Something I Call Personality",
-      "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
     },
     {
       "added_at": null,

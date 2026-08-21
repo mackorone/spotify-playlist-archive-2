@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 422974,
       "name": "1900 Washy",
       "url": "https://open.spotify.com/track/7dIrd347NR8f51JEM3gokY"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 242845,
       "name": "Al Mafrood",
       "url": "https://open.spotify.com/track/5Aigt44wICHJ2BDshPZqvh"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 319399,
       "name": "Alak Alak",
       "url": "https://open.spotify.com/track/5okjGjbI5S9GON1fM0delO"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 261381,
       "name": "Ayam",
       "url": "https://open.spotify.com/track/7ofxNHTN4kXff7Gay5Ez5R"
@@ -8475,6 +8475,24 @@
     },
     {
       "album": {
+        "name": "Ahmed Shaker Collection",
+        "url": "https://open.spotify.com/album/6HBJTTBr8PxEXyyj23tWEa"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Shaker",
+          "url": "https://open.spotify.com/artist/7d5WN8SAOMndgOFPSRnhUr"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325825,
+      "name": "Ebtalenah",
+      "url": "https://open.spotify.com/track/1ArkNgsSkppcMWXcyQunFk"
+    },
+    {
+      "album": {
         "name": "ecstacy (slowed)",
         "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
       },
@@ -11914,7 +11932,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 295157,
       "name": "Habibi Howa",
       "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
@@ -16238,7 +16256,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -18350,7 +18368,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 235368,
       "name": "Maool",
       "url": "https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ"
@@ -24602,7 +24620,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6"
@@ -24638,7 +24656,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
@@ -30140,7 +30158,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 277707,
       "name": "TQBL Kol",
       "url": "https://open.spotify.com/track/7b4B5ACH9ZxnDnUVi2USqV"
@@ -30220,7 +30238,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -31498,7 +31516,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -34810,6 +34828,24 @@
       "duration_ms": 212076,
       "name": "\u0628\u0644\u0627 \u062d\u0633",
       "url": "https://open.spotify.com/track/668tmk2KamY6cxXrWxoc3w"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0648\u0633",
+        "url": "https://open.spotify.com/album/7z2pn8ev8rElCIaVoipx8K"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u0644\u0628\u0646\u062f\u0643\u0627\u0631\u064a",
+          "url": "https://open.spotify.com/artist/0OuX5XYQTXq9S7LUd5JKfh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317204,
+      "name": "\u0628\u0648\u0633",
+      "url": "https://open.spotify.com/track/6GwqmeAv76WbU2eXBqPgK4"
     },
     {
       "album": {

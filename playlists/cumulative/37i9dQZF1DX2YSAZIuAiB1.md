@@ -4,7 +4,7 @@
 
 > zu dieser sonnigen playlist kann man nur viben
 
-663 songs - 1 day 8 hr 11 min
+664 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 | 2024-06-22 | 2024-07-20 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-07-26 | 2023-09-06 |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2024-01-17 | 2024-07-11 |
-| [Better With You](https://open.spotify.com/track/1d02xXMw1q5yqEvtn1gXDZ) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [Athenica](https://open.spotify.com/artist/6P8u7jHjhsQSi2b55HrItV) | [Better With You](https://open.spotify.com/album/4TNlFsqv4EflhYgnTib2Lq) | 2:42 | 2026-08-07 |  |
+| [Better With You](https://open.spotify.com/track/1d02xXMw1q5yqEvtn1gXDZ) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [Athenica](https://open.spotify.com/artist/6P8u7jHjhsQSi2b55HrItV) | [Better With You](https://open.spotify.com/album/4TNlFsqv4EflhYgnTib2Lq) | 2:42 | 2026-08-07 | 2026-08-21 |
 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 | 2026-04-16 |  |
 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2023-11-08 | 2024-01-18 |
 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/0SJsn8JEZ0xnLqmfOYqfrL) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/album/6SvkUyQ0OAvPs9UJ92ZvYG) | 3:01 | 2024-12-20 | 2025-02-15 |
@@ -563,6 +563,7 @@
 | [Syt](https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Playboys im AMG](https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq) | 2:33 | 2025-09-24 | 2026-02-13 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-07-26 | 2023-09-16 |
 | [Take it](https://open.spotify.com/track/0ya0fBUHF1TKookyKM5ZVQ) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Take it](https://open.spotify.com/album/3W3co9SDAzroZoUME3aaZ3) | 2:52 | 2023-09-30 | 2023-12-12 |
+| [Take It Slow \(Bullit\)](https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Take It Slow \(Bullit\)](https://open.spotify.com/album/3Pd6Q22lKUjKnJ3Tysz26h) | 2:56 | 2026-08-20 |  |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-09 |  |
 | [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2024-11-13 | 2025-02-15 |
 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 | 2026-07-30 |  |

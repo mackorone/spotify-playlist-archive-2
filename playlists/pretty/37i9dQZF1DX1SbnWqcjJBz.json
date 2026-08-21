@@ -1,12 +1,12 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 138296,
+  "num_followers": 138312,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClO7sfl5A4tBT6eNfWYjkSzgwI9",
+  "snapshot_id": "AAAAAPaCcEi+FKRaug5JsgF50ocJpG/l",
   "tracks": [
     {
       "added_at": "2024-06-02 21:23:10",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272806,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Teen Spirit",
         "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 225972,
       "name": "Heart to Break",
       "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272806,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Demi",
-        "url": "https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8"
+        "name": "SuperLove",
+        "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 233173,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
+      "duration_ms": 193163,
+      "name": "SuperLove",
+      "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "SuperLove",
-        "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
+        "name": "Demi",
+        "url": "https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 193163,
-      "name": "SuperLove",
-      "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
+      "duration_ms": 233173,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
     },
     {
       "added_at": "2024-06-02 21:23:10",

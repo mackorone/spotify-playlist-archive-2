@@ -204,7 +204,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 453906,
       "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: II. Largo ma non tanto",
       "url": "https://open.spotify.com/track/1hQ6islKOavGoic51UqZez"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 394560,
       "name": "Mendelssohn: Violin Concerto in E Minor, Op. 64, MWV O14: III. Allegretto non troppo - Allegro molto vivace",
       "url": "https://open.spotify.com/track/4iMIwIruufuyVUVNFnpb7d"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 198893,
       "name": "Out of Africa: Main Title",
       "url": "https://open.spotify.com/track/0twtEOouu8gohnjlPGYa9O"
@@ -2192,6 +2192,32 @@
       "duration_ms": 356000,
       "name": "Violin Sonata in F Major, K. 547 \"F\u00fcr Anf\u00e4nger\": I. Andantino cantabile",
       "url": "https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Violin Sonatas",
+        "url": "https://open.spotify.com/album/14yiJ6AS8kWPaKgVByAt7T"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596333,
+      "name": "Violin Sonata No. 5 in F Major, Op. 24 \"Spring\": I. Allegro",
+      "url": "https://open.spotify.com/track/2NacT7zc2e5irqNTEqtslD"
     },
     {
       "album": {

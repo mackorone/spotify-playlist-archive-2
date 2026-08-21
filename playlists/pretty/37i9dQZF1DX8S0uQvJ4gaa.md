@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Ashley Cooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,737 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,861 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Signs](https://open.spotify.com/track/7jhElwMOXDg8Zp0wJipK4e) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Signs](https://open.spotify.com/album/7MT9amGXSnTJpeC2ATgNnc) | 2:34 |
 | 100 | [Stranger Things](https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:18 |
 
-Snapshot ID: `AAAAAJjOztIqoEDKLclLtd5EipVV6aah`
+Snapshot ID: `AAAAAMEu+nQD4sKPhYtF8g7rELiMhq+l`

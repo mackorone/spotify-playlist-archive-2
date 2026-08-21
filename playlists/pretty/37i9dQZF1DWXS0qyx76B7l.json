@@ -1,12 +1,12 @@
 {
   "description": "The greatest city on earth!",
-  "num_followers": 153677,
+  "num_followers": 153703,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANANz+AJQzlIZA9E8RfXqcPA0zSD",
+  "snapshot_id": "AAAAAKo0gbaLebpCpjWCxu/hI5ftOhm4",
   "tracks": [
     {
       "added_at": "2025-08-25 18:53:45",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-08-25 18:53:45",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
-      "added_at": "2025-08-25 18:53:45",
-      "album": {
         "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 242040,
       "name": "Children's Story",
       "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
+    },
+    {
+      "added_at": "2025-08-25 18:53:45",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
       "added_at": "2025-08-25 18:53:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-08-25 18:53:45",
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "I Love New York",
-      "url": "https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe"
-    },
-    {
-      "added_at": "2025-08-25 18:53:45",
-      "album": {
         "name": "Illmatic XX",
         "url": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 294081,
       "name": "N.Y. State of Mind",
       "url": "https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe"
+    },
+    {
+      "added_at": "2025-08-25 18:53:45",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "I Love New York",
+      "url": "https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe"
     },
     {
       "added_at": "2025-08-25 18:53:45",

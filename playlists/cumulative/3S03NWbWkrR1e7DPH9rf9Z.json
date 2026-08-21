@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW"
+    },
+    {
+      "album": {
         "name": "Bassline Vandal",
         "url": "https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM"
       },

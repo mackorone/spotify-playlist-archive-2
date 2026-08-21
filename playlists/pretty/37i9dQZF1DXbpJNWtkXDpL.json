@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOo2qcVEWsTgYumWkL/dUpNz3R1u",
+  "snapshot_id": "AAAAAAfi8NNq3uefd4Ps++8WRgfMlOxq",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:21",
@@ -83,26 +83,30 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "1PERREO",
-        "url": "https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv"
+        "name": "BRAZIL",
+        "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
       "artists": [
         {
-          "name": "Ikoniko",
-          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
         },
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Jrkv",
+          "url": "https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn"
         },
         {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+          "name": "NEOBUCHONISMO",
+          "url": "https://open.spotify.com/artist/6uwNBej1hJMyCg8q8EqdwI"
+        },
+        {
+          "name": "LP Ent",
+          "url": "https://open.spotify.com/artist/7d9CZuwUGhwVmGgUBAMwPm"
         }
       ],
-      "duration_ms": 129032,
-      "name": "1PERREO",
-      "url": "https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K"
+      "duration_ms": 124878,
+      "name": "BRAZIL",
+      "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -127,18 +131,26 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "dormir\u00e9 sin ti",
-        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
+        "name": "1PERREO",
+        "url": "https://open.spotify.com/album/7HBWqq0M9YPAnEagnfyFnv"
       },
       "artists": [
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
         }
       ],
-      "duration_ms": 197600,
-      "name": "dormir\u00e9 sin ti",
-      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
+      "duration_ms": 129032,
+      "name": "1PERREO",
+      "url": "https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -167,30 +179,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "BRAZIL",
-        "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
+        "name": "dormir\u00e9 sin ti",
+        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
       },
       "artists": [
         {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "Jrkv",
-          "url": "https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn"
-        },
-        {
-          "name": "NEOBUCHONISMO",
-          "url": "https://open.spotify.com/artist/6uwNBej1hJMyCg8q8EqdwI"
-        },
-        {
-          "name": "LP Ent",
-          "url": "https://open.spotify.com/artist/7d9CZuwUGhwVmGgUBAMwPm"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 124878,
-      "name": "BRAZIL",
-      "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
+      "duration_ms": 197600,
+      "name": "dormir\u00e9 sin ti",
+      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "CAMINO",
-        "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        },
-        {
-          "name": "Xiuhtezcatl",
-          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
-        }
-      ],
-      "duration_ms": 184832,
-      "name": "CAMINO",
-      "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "URUS",
         "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "CAMINO",
+        "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Xiuhtezcatl",
+          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+        }
+      ],
+      "duration_ms": 184832,
+      "name": "CAMINO",
+      "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "ETHEREA",
         "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 224416,
       "name": "Encu\u00e9ntrame en Tokio",
       "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -875,6 +859,22 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "ati!",
         "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 148363,
       "name": "ati!",
       "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Vasito en mano",
-        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Vasito en mano",
-      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "La Culpable",
         "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 237005,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Vasito en mano",
+        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Vasito en mano",
+      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Se Va Se Va",
-        "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
-      },
-      "artists": [
-        {
-          "name": "Dylan Coronel",
-          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
-        },
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        }
-      ],
-      "duration_ms": 195103,
-      "name": "Se Va Se Va",
-      "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "empezar al rev\u00e9s",
         "url": "https://open.spotify.com/album/0ubjYBDDdREIRUBqRgoY5D"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 202230,
       "name": "empezar al rev\u00e9s",
       "url": "https://open.spotify.com/track/6M2sc6l4w1wCSZSwE3HVMj"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Se Va Se Va",
+        "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "duration_ms": 195103,
+      "name": "Se Va Se Va",
+      "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
     },
     {
       "added_at": "2026-07-17 06:00:21",

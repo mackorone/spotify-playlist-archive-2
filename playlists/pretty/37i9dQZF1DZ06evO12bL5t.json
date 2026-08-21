@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 144983,
+  "num_followers": 144989,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACR+eeBkW+EU1RY/+Tcm+CG",
+  "snapshot_id": "aoTyAAAAAAAkCrdUUbQfd5muPsk07+8i",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 178368,
-      "name": "HASHERO",
-      "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 222819,
       "name": "Coraz\u00f3n Cromado",
       "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 178368,
+      "name": "HASHERO",
+      "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
     },
     {
       "added_at": null,

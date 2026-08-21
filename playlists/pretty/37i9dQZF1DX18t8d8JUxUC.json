@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALDKajjKWrPxp3wMP/vNP9U36lEp",
+  "snapshot_id": "AAAAACIhLX6tZG1GZQ25qF2WxG6cv5vF",
   "tracks": [
     {
       "added_at": "2026-06-17 15:34:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "julia",
-        "url": "https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "julia",
-      "url": "https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 202090,
       "name": "Me Empiezo a Enamorar",
       "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "julia",
+        "url": "https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "julia",
+      "url": "https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Flores Muertas",
         "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 328663,
       "name": "Flores Muertas",
       "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Qu\u00e9 Problema",
         "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 220765,
       "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 124365,
-      "name": "yo as\u00ed",
-      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Ojos Vac\u00edos",
-        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 204417,
-      "name": "Por Ahorita",
-      "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 200613,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Ojos Vac\u00edos",
+        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 204417,
+      "name": "Por Ahorita",
+      "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Motel Kilomango",
+        "url": "https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp"
+      },
+      "artists": [
+        {
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
+        }
+      ],
+      "duration_ms": 173512,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
         "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "Motel Kilomango",
-        "url": "https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp"
-      },
-      "artists": [
-        {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        }
-      ],
-      "duration_ms": 173512,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Dicen Que Llora",
-        "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
-      },
-      "artists": [
-        {
-          "name": "Ara Malikian",
-          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
-        },
-        {
-          "name": "Elena Medina",
-          "url": "https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj"
-        }
-      ],
-      "duration_ms": 209326,
-      "name": "Dicen Que Llora",
-      "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Dicen Que Llora",
+        "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
+      },
+      "artists": [
+        {
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        },
+        {
+          "name": "Elena Medina",
+          "url": "https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj"
+        }
+      ],
+      "duration_ms": 209326,
+      "name": "Dicen Que Llora",
+      "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Tu mirar",
+        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
+      "duration_ms": 162661,
+      "name": "Tu mirar",
+      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Tu mirar",
-        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 162661,
-      "name": "Tu mirar",
-      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2026-06-17 15:34:50",

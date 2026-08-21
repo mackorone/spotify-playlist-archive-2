@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 11910,
+  "num_followers": 11913,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANci0ZBlUCODn5TY0WFhnj95zPKI",
+  "snapshot_id": "AAAAAA+ZEulhkv/hezZbqi4mUiRfR6Zl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Gangsta (Remix)",
-        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "One Acen",
-          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 256133,
       "name": "On To The Next One",
       "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Gangsta (Remix)",
+        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -615,6 +615,34 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 276208,
+      "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
+      "url": "https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS"
       },
@@ -643,34 +671,6 @@
       "duration_ms": 211133,
       "name": "She's All I Got - Radio Edit",
       "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 276208,
-      "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
-      "url": "https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej"
     },
     {
       "added_at": "2022-10-01 16:43:03",

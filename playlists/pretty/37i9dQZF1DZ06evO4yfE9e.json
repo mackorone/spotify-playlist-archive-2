@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2937,
+  "num_followers": 2939,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACyL0PrBF+7IuKJ4Y2ANW/0",
+  "snapshot_id": "aoTyAAAAAAA6lv+uAyVRC8d64OW06el6",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "nympho",
+        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "2 boys",
+      "url": "https://open.spotify.com/track/6fx0GG75TjPdW8gSW1GrDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deserve Each Other",
         "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "nympho",
-        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167291,
-      "name": "2 boys",
-      "url": "https://open.spotify.com/track/6fx0GG75TjPdW8gSW1GrDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BODY PARTS (Full Frontal)",
         "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 192881,
       "name": "BODY PARTS",
       "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nympho",
+        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 156578,
+      "name": "would you ever?",
+      "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
     },
     {
       "added_at": null,
@@ -323,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "nympho",
-        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 156578,
-      "name": "would you ever?",
-      "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "sex toy",
         "url": "https://open.spotify.com/album/4UBaohjI3bU6TzlcSiToLZ"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 159069,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nympho",
+        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 152418,
+      "name": "bubblegum pink",
+      "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
     },
     {
       "added_at": null,
@@ -403,22 +419,6 @@
       "duration_ms": 149760,
       "name": "Lickity Splickity",
       "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nympho",
-        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 152418,
-      "name": "bubblegum pink",
-      "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
     },
     {
       "added_at": null,

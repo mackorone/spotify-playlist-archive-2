@@ -3655,6 +3655,28 @@
     },
     {
       "album": {
+        "name": "TITIZ A KHAY",
+        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "TITIZ A KHAY",
+      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
+    },
+    {
+      "album": {
         "name": "Toi & moi",
         "url": "https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL"
       },

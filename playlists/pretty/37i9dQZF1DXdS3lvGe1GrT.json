@@ -1,33 +1,13 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel",
-  "num_followers": 101519,
+  "num_followers": 101609,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAQ8WkhHlcEMQWJYXbBFRqEtZO5x",
+  "snapshot_id": "AAAAAEGv64eGXzO/5VmfT/V3uOH/giv3",
   "tracks": [
-    {
-      "added_at": "2026-08-12 14:26:15",
-      "album": {
-        "name": "the end is a wave",
-        "url": "https://open.spotify.com/album/4OsMPyGaxzsUrU7eBzbP9f"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        },
-        {
-          "name": "Common Holly",
-          "url": "https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "i've never been in love",
-      "url": "https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y"
-    },
     {
       "added_at": "2026-08-19 04:00:35",
       "album": {
@@ -159,6 +139,26 @@
       "duration_ms": 244483,
       "name": "OBL",
       "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "the end is a wave",
+        "url": "https://open.spotify.com/album/4OsMPyGaxzsUrU7eBzbP9f"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        },
+        {
+          "name": "Common Holly",
+          "url": "https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "i've never been in love",
+      "url": "https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y"
     },
     {
       "added_at": "2026-08-19 04:00:35",

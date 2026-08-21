@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: dance anthems! Cover: David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,458 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,436 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 | 59 | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/track/60qbU5QgEnzBqUfXSUh0mc) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/album/5hWljyIu9DZbTeO6yoljXU) | 3:32 |
 | 60 | [Say Say Say \(Waiting 4 U\) \- Radio Mix](https://open.spotify.com/track/5fpjavxccYCvgNPxlYLIz3) | [Hi\_Tack](https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN) | [Say Say Say \(Waiting 4 U\) \[Radio Mix\]](https://open.spotify.com/album/1ksNFE3ilFzjzfC63W0XR9) | 2:55 |
 
-Snapshot ID: `AAAAAJXkJdM2o4D/0w3ZHssvb1v7xjtc`
+Snapshot ID: `AAAAAAKaP3eEz+2uOfNV5Fgr6mWYcX6f`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Elif Buse Do\u011fan, \u00dcmit Say\u0131n ",
+  "description": "Pop'un sevilen isimleri. Kapak: Umur Doma",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 201000,
       "name": "1 Dk Daha Dur",
       "url": "https://open.spotify.com/track/6msuLPPBIiO3xBtdh16oiJ"
@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "BEN YANMAM",
+        "url": "https://open.spotify.com/album/6Jw3xAEleEFKDJ1r7gSwiq"
+      },
+      "artists": [
+        {
+          "name": "Burcu G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "BEN YANMAM",
+      "url": "https://open.spotify.com/track/50Sw7HI3yNGT99XLPMx3sr"
+    },
+    {
+      "album": {
         "name": "Bence De Git",
         "url": "https://open.spotify.com/album/2RS2HYUvZ8OfOM54qzxv2n"
       },
@@ -3253,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Canavarlar",
+        "url": "https://open.spotify.com/album/6C9MQlOIK19IR0sKbgNCFT"
+      },
+      "artists": [
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Canavarlar",
+      "url": "https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy"
+    },
+    {
+      "album": {
         "name": "Can\u0131n Beni \u00c7ekti",
         "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
       },
@@ -3470,7 +3506,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 198227,
       "name": "Dava",
       "url": "https://open.spotify.com/track/6CoiPA6p82r6ZE5KwXVcPK"
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 151776,
       "name": "\u0130stanbul Sen Benden Misin?",
       "url": "https://open.spotify.com/track/6ENw9coxgqH9DjP6r1tbQc"
@@ -11216,6 +11252,24 @@
       "duration_ms": 263142,
       "name": "Uyku Tutmad\u0131",
       "url": "https://open.spotify.com/track/4mOQHgIFAcVlUGg0AGA8uC"
+    },
+    {
+      "album": {
+        "name": "Uyku Yok",
+        "url": "https://open.spotify.com/album/09EQ5Vthx0fUCS49lcDBX4"
+      },
+      "artists": [
+        {
+          "name": "Umur Doma",
+          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169038,
+      "name": "Uyku Yok",
+      "url": "https://open.spotify.com/track/7HY3TN4Rj2K6B7dNPRHVMu"
     },
     {
       "album": {

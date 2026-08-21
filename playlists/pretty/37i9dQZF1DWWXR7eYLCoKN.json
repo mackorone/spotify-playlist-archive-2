@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 169392,
+  "num_followers": 169402,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChaXiR1AyGB7ly8uqDtEOlXSWFN",
+  "snapshot_id": "AAAAAFOLeoYQ2LFfehU77lXQ+aHAl8iD",
   "tracks": [
     {
       "added_at": "2026-07-27 16:20:33",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "Ney Matogrosso Interpreta Cartola",
-        "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "Maria Rita - Portugal",
         "url": "https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 282293,
       "name": "Cara valente",
       "url": "https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "Ney Matogrosso Interpreta Cartola",
+        "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
     },
     {
       "added_at": "2026-07-27 16:20:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "Ningu\u00e9m Pro\u00edbe o Amor",
-        "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Coisa de Louco",
-      "url": "https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
         "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 264933,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "Ningu\u00e9m Pro\u00edbe o Amor",
+        "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Coisa de Louco",
+      "url": "https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4"
     },
     {
       "added_at": "2026-07-27 16:20:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "Xande Canta Caetano",
-        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Lua de S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "Pagode da Dand\u00e1",
         "url": "https://open.spotify.com/album/5Bq1aOjaQ7hp1wTMIWtvmj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 219300,
       "name": "Pagode da Dand\u00e1",
       "url": "https://open.spotify.com/track/3pPsoMcmUHCDApoqyIgfYp"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "Xande Canta Caetano",
+        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 181665,
+      "name": "Lua de S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
     },
     {
       "added_at": "2026-07-27 16:20:33",

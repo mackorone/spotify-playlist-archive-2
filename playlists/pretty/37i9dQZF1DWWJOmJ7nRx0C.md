@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Rise Against
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,847 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,894 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 |
 | 100 | [Bug In The Cake](https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [Be Sweet To Me](https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu) | 2:48 |
 
-Snapshot ID: `AAAAAMuSqzZ1V+Ra8pVoQpKajhvKTEVr`
+Snapshot ID: `AAAAAPJDGYyLhbhUbQe6FZUo2SOvUHk/`

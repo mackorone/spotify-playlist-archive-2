@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 458778,
+  "num_followers": 458794,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8IBK94pMgknD7Ylm2zDMP2q2GM",
+  "snapshot_id": "AAAAAALb/wekS3jlrBdaUAiI3XtfdQZq",
   "tracks": [
     {
       "added_at": "2025-07-31 16:00:18",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Money Sucks, Friends Rule",
-        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 212777,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Work With My Love",
         "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Money Sucks, Friends Rule",
+        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
     },
     {
       "added_at": "2025-07-31 16:00:18",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Twee exclusieve nieuwe tracks van Jack \u2757\ufe0f <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
+  "description": "\u2757\ufe0fNieuwe tracks: Eves Laurent, Jack, Langa en Siggy & D1ns. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Alleen Jij",
+        "url": "https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM"
+      },
+      "artists": [
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Alleen Jij",
+      "url": "https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT"
+    },
+    {
+      "album": {
         "name": "Alles Is Ok\u00e9",
         "url": "https://open.spotify.com/album/03XHGM7fb7OAXxeSYCQJCi"
       },
@@ -973,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Eb & Vloed",
+        "url": "https://open.spotify.com/album/2R5kRgGUs6vPsAOrYohTaO"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/7AzSpz2cBOFzFfBQwZHSyA"
+    },
+    {
+      "album": {
         "name": "Back 2 Back",
         "url": "https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs"
       },
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161379,
       "name": "Baff Baff",
       "url": "https://open.spotify.com/track/5E57anFYCRW3jQdgiGnMsk"
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 120000,
       "name": "Bell Me Op",
       "url": "https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz"
@@ -1710,6 +1746,24 @@
       "duration_ms": 144000,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx"
+    },
+    {
+      "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
       "album": {
@@ -3340,7 +3394,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 123564,
       "name": "Foreign Pak",
       "url": "https://open.spotify.com/track/5ctBgBPfLY3SiwMBQorwHm"
@@ -3776,6 +3830,28 @@
       "duration_ms": 160490,
       "name": "Gewoon Gewoon",
       "url": "https://open.spotify.com/track/1ipBTIjmFWJ3edDNxORkCu"
+    },
+    {
+      "album": {
+        "name": "GINJZ",
+        "url": "https://open.spotify.com/album/7bzpxq07dnFERpfI0B6TEC"
+      },
+      "artists": [
+        {
+          "name": "Quincy Promes",
+          "url": "https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS"
+        },
+        {
+          "name": "RpBeats",
+          "url": "https://open.spotify.com/artist/0QFgzVSc2hOUMogdnRp9VJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "GINZJ",
+      "url": "https://open.spotify.com/track/3S9i54xADvbm7YJlHUbOPv"
     },
     {
       "album": {
@@ -4522,7 +4598,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 158500,
       "name": "Hola Mami",
       "url": "https://open.spotify.com/track/6bIUUkEBBQNWjIkMpaAMvm"
@@ -5068,6 +5144,24 @@
       "duration_ms": 148695,
       "name": "Jon Snow",
       "url": "https://open.spotify.com/track/0CnM3vnBnjiIe2RqjmLJSM"
+    },
+    {
+      "album": {
+        "name": "De Stem van MERLOT",
+        "url": "https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy"
+      },
+      "artists": [
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Jongeman vd Wegen",
+      "url": "https://open.spotify.com/track/75muH9PLpaomRaUKBD1nwg"
     },
     {
       "album": {
@@ -6050,7 +6144,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 130476,
       "name": "LORO PIANA",
       "url": "https://open.spotify.com/track/5SXNdfEcNT0NQYoAjVD6xA"
@@ -6896,6 +6990,24 @@
       "duration_ms": 173513,
       "name": "My Type",
       "url": "https://open.spotify.com/track/5h6eCdszmkbsmF6toHPoU0"
+    },
+    {
+      "album": {
+        "name": "De Stem van MERLOT",
+        "url": "https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy"
+      },
+      "artists": [
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "M\u2019n Ballen & Woord",
+      "url": "https://open.spotify.com/track/2EvPLn6X1VJMlT13NyZyVS"
     },
     {
       "album": {
@@ -8468,7 +8580,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 128000,
       "name": "Queen Treatment",
       "url": "https://open.spotify.com/track/7Haxic1q7JdJEMPYQtRnGj"
@@ -8640,6 +8752,24 @@
       "duration_ms": 139891,
       "name": "Risico's",
       "url": "https://open.spotify.com/track/1mGE91efwr1B8B2xvdG2gU"
+    },
+    {
+      "album": {
+        "name": "Rode Wijn",
+        "url": "https://open.spotify.com/album/1pV3ECYqySPV6PbluDQcFt"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Rode WIjn",
+      "url": "https://open.spotify.com/track/6l4oieYjnpAtrAFjldrFuF"
     },
     {
       "album": {
@@ -9666,7 +9796,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 109954,
       "name": "STUK",
       "url": "https://open.spotify.com/track/6ktcLOodfzrT0e9G810fVZ"
@@ -10210,10 +10340,28 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
+    },
+    {
+      "album": {
+        "name": "Praat van de Straat II",
+        "url": "https://open.spotify.com/album/4MbPtKOIFIrsqED4DDBbYA"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/7Lx9vBCgugFoceLB5vaIF3"
     },
     {
       "album": {
@@ -10942,7 +11090,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168798,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf"
@@ -10990,7 +11138,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168786,
       "name": "Wap Wap (feat. Ronnie Flex)",
       "url": "https://open.spotify.com/track/6zyGYgUKH7tjp022XxLIUb"

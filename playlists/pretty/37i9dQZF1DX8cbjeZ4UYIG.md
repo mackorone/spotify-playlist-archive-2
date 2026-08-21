@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,868 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,921 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 3 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 |
 | 4 | [Sweet Harmony \(Original Mix\)](https://open.spotify.com/track/2321L83MMqryXE2eHB6PQT) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/3J4qnl8v2t2WtI3PwTBBzb) | 4:27 |
 | 5 | [Sweet Love](https://open.spotify.com/track/2xLB66JLQaWkmDSvTlrNEl) | [M\-Beat](https://open.spotify.com/artist/2KDNAkR001T3BGyYYTOSN4), [Nazlyn](https://open.spotify.com/artist/0EQyS8v2VnY0KBRtEPLo49) | [Jungle Is Massive: Renk Classics 1](https://open.spotify.com/album/3IExYAFsltrzGIW7nxhQr2) | 3:57 |
-| 6 | [Anthem](https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Anthem](https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc) | 4:03 |
+| 6 | [Anthem](https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4) | [NJOI](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Anthem](https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc) | 4:03 |
 | 7 | [Don’t Go \(Original Mix\)](https://open.spotify.com/track/3vvPzmRKwWXDosbNCkJ44P) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don’t Go](https://open.spotify.com/album/0IjSgtb2Mz2JMY6YmVQahI) | 5:11 |
 | 8 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 9 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 17 | [Voodoo Ray](https://open.spotify.com/track/4zQDitPz80YkzhK7gEKL0L) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [For The Love Of Rave](https://open.spotify.com/album/2ZK6fJi1Qbm8l2ujg9NMLj) | 4:25 |
 | 18 | [The Bouncer \- Housequake Mix](https://open.spotify.com/track/6OlygUNPF9IhPo7Zhri6sU) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/0vLYDCPo6GFOLo4c9QiMDO) | 6:04 |
 | 19 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
-| 20 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
-| 21 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
+| 20 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
+| 21 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
 | 22 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
 | 23 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 24 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 37 | [Anasthasia](https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7) | [T99](https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 4:33 |
 | 38 | [E\-Vapor\-8](https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:21 |
 | 39 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
-| 40 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 |
-| 41 | [Raving I'm Raving \- Remix.Mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 |
+| 40 | [Raving I'm Raving \- Remix.Mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 |
+| 41 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 |
 | 42 | [Bunn the Sensi \- Dub Hustlers Remix](https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 5:50 |
 | 43 | [Dirty Games](https://open.spotify.com/track/21X3WGIPMTDpZcjln2N2n3) | [Studio 2](https://open.spotify.com/artist/3y0Epqi7Oca2rKcMSClv1G) | [Jungle Hits, Vol\. 3](https://open.spotify.com/album/6HGdaWqz5J0Inr4AkPEZlX) | 4:11 |
 | 44 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/4qAu9FbxaULlca8tvHI8Tl) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3Npjea52mXpWbrxaobH0rj) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Samplemania](https://open.spotify.com/track/6J1en9RZriRTeTfVfzv2Ba) | [DJ Seduction](https://open.spotify.com/artist/3QCLS2hkq3jpkJuPmJZHyD) | [The Best of Impact Mixed By Slipmatt](https://open.spotify.com/album/3izM4uFu9nBTD3A5qJDQhx) | 4:46 |
 | 50 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
 
-Snapshot ID: `AAAAANO/MGTM8/BrjR7cUb8zEhmh4JGY`
+Snapshot ID: `AAAAAOr09ZY0OvyO5d7b5FU1M8NelngG`

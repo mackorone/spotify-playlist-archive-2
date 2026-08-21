@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 498727,
+  "num_followers": 498748,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1BBzjl4TNyPccUvGGG9D+WXug6",
+  "snapshot_id": "AAAAAAwOSpGjwIKo/P0NwRJCbgeB19P2",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:17",
@@ -619,30 +619,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "WIR SIND DIE DEUTSCHEN",
-        "url": "https://open.spotify.com/album/602HAtnVA6Z3YC0UOXD8yO"
-      },
-      "artists": [
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Andre Schnura",
-          "url": "https://open.spotify.com/artist/1kVBxbzTGmSjLrr3dPioHK"
-        }
-      ],
-      "duration_ms": 147724,
-      "name": "WIR SIND DIE DEUTSCHEN",
-      "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 140797,
       "name": "ANNE KAFFEEKANNE",
       "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "WIR SIND DIE DEUTSCHEN",
+        "url": "https://open.spotify.com/album/602HAtnVA6Z3YC0UOXD8yO"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Andre Schnura",
+          "url": "https://open.spotify.com/artist/1kVBxbzTGmSjLrr3dPioHK"
+        }
+      ],
+      "duration_ms": 147724,
+      "name": "WIR SIND DIE DEUTSCHEN",
+      "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Tag X (Geiles Leben Edition)",
-        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
-      },
-      "artists": [
-        {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
-        },
-        {
-          "name": "Madizin",
-          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Geiles Leben - Madizin Single Mix",
-      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "Tag X (Geiles Leben Edition)",
+        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
+      },
+      "artists": [
+        {
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Madizin",
+          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Geiles Leben - Madizin Single Mix",
+      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
         "name": "ALDI",
         "url": "https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 140818,
       "name": "ALDI",
       "url": "https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
-        "name": "Mama Laudaaa",
-        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
-      },
-      "artists": [
-        {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa",
-      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
     },
     {
       "added_at": "2026-08-06 22:01:17",

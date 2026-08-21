@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 163265,
       "name": "Bado Nakupenda",
       "url": "https://open.spotify.com/track/6Pk0SaknPaIZSB8ZE3EWQq"
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Baraka Nyingi",
+        "url": "https://open.spotify.com/album/4dlSafbIgyaTEIY7fOZxK3"
+      },
+      "artists": [
+        {
+          "name": "MwanaFA",
+          "url": "https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188114,
+      "name": "Baraka Nyingi",
+      "url": "https://open.spotify.com/track/4lXLnRKdciANNcHvaReiem"
+    },
+    {
+      "album": {
         "name": "Baridi",
         "url": "https://open.spotify.com/album/5sPRuQ28bhG1QuCVRRMP5R"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 180310,
       "name": "Bedui",
       "url": "https://open.spotify.com/track/5JXEL6pfOs68LSmjoipFL7"
@@ -2430,6 +2448,24 @@
       "duration_ms": 156651,
       "name": "Ex",
       "url": "https://open.spotify.com/track/2aKqtohPwH6iSJnil69Oix"
+    },
+    {
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/4Kax3PufTjdDW1jZOfKqav"
+      },
+      "artists": [
+        {
+          "name": "Christian Bella",
+          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0fTykCO8zh7Ymjz06F2vT1"
     },
     {
       "album": {
@@ -6323,6 +6359,32 @@
     },
     {
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/0ncMgAh9d9EphTcCTSYVqK"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "S2kizzy",
+          "url": "https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/4pDrRoXNJ89IcAVzYLlNkn"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj"
       },
@@ -6378,6 +6440,32 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
+    },
+    {
+      "album": {
+        "name": "Mama Yangu",
+        "url": "https://open.spotify.com/album/1w40QZXQPxIcNVCBzWLoXV"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/49mdQ4LqDjjUPSJ3p5Kc6G"
+        },
+        {
+          "name": "Mzee Wa Bwax",
+          "url": "https://open.spotify.com/artist/3foxaOijucHOO507Jr6ZKO"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Mama Yangu",
+      "url": "https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW"
     },
     {
       "album": {
@@ -7560,7 +7648,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 163564,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/1XhVA2goJwKSfUYN8k8AoF"
@@ -8604,7 +8692,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 122790,
       "name": "Niahidi",
       "url": "https://open.spotify.com/track/34NEbs787Ie5TTHfCR7cxh"
@@ -9690,7 +9778,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168340,
       "name": "OLUWA",
       "url": "https://open.spotify.com/track/5AgWHvmwQJGdZA09pSgkK9"
@@ -10492,7 +10580,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 248999,
       "name": "Raha",
       "url": "https://open.spotify.com/track/3ElRHHyivDOcADDlZFBXF8"
@@ -10663,6 +10751,28 @@
     },
     {
       "album": {
+        "name": "Rwanda",
+        "url": "https://open.spotify.com/album/0azC32XlyAOFzMXNOVYTE2"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Kusslove",
+          "url": "https://open.spotify.com/artist/2TLEUktuuUN5KwujvtdT87"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205416,
+      "name": "Rwanda",
+      "url": "https://open.spotify.com/track/497KEgCt6cqKsxxrw5YeP6"
+    },
+    {
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG"
       },
@@ -10718,7 +10828,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 215599,
       "name": "Sale Sale",
       "url": "https://open.spotify.com/track/38I89rKTy93qBoAXThI4Nk"
@@ -10922,7 +11032,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189034,
       "name": "Sella",
       "url": "https://open.spotify.com/track/7LOTcIQ7yuQHxTPEdIvP9g"
@@ -11017,6 +11127,28 @@
     },
     {
       "album": {
+        "name": "SEXY & BAD",
+        "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "SEXY & BAD",
+      "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
+    },
+    {
+      "album": {
         "name": "Shake Shake (feat. Dreamdoll)",
         "url": "https://open.spotify.com/album/0IRau8537fbmOYDvbUlgep"
       },
@@ -11050,7 +11182,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 222500,
       "name": "She's Mine",
       "url": "https://open.spotify.com/track/3DHNsoNifh1fBu5Xl13OC8"
@@ -11578,7 +11710,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 222399,
       "name": "Sio bure",
       "url": "https://open.spotify.com/track/52CnH3bFhkLjclDmCo1OSN"
@@ -14458,7 +14590,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 197999,
       "name": "Yanamwagika",
       "url": "https://open.spotify.com/track/2QDnyZuNoQdwKgaFQ9WVqm"

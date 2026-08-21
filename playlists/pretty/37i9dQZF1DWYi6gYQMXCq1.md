@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi6gYQMXCq1.md) - [plain]
 
 > No Signal is taking over a stage at All Points East with Kirk Franklin \(cover\), Mariah The Scientist, CARI and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,321 likes - 25 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,311 likes - 25 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi6gYQMXCq1.md) - [plain]
 | 24 | [Majesty](https://open.spotify.com/track/7gjTF9jCOS2XgWA2zQ0w1X) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:04 |
 | 25 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 |
 
-Snapshot ID: `AAAAAJVSiBoPaMrUtAp/clBUiBJgG9T3`
+Snapshot ID: `AAAAAE+MsJVcXd1AYvQwAj+xcQ6+DIVu`

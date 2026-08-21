@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Fr\u00e9rot\" de J\u00e9r\u00e9my Frerot est le Grand Hit de la semaine.  ",
+  "description": "\"\u00c9t\u00e9 avec toi\" d'Ad\u00e8le Castillon est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Bonjour, Pardon, Merci",
+        "url": "https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Bonjour, Pardon, Merci",
+      "url": "https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX"
+    },
+    {
+      "album": {
         "name": "boomerang",
         "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 202887,
       "name": "Capuche",
       "url": "https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6"
@@ -3859,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Les nouveaux soleils",
+        "url": "https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "Les nouveaux soleils - Single Version",
+      "url": "https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl"
+    },
+    {
+      "album": {
         "name": "Rose des vents",
         "url": "https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e"
       },
@@ -4718,7 +4754,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 175000,
       "name": "Par coeur (feat. Joseph Kamel)",
       "url": "https://open.spotify.com/track/1grONqhU4gXxscprACJbzW"

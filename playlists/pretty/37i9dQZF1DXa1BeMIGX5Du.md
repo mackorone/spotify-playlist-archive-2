@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,336 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,374 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [First Breath](https://open.spotify.com/track/318w7tTXrLWyNBFokyumUh) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [First Breath](https://open.spotify.com/album/5BM8EIcNMdIpzd5of7jR7Q) | 6:11 |
 | 100 | [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 |
 
-Snapshot ID: `AAAAAB4srQ0TlFWX+ors5x2vtrqF1QFf`
+Snapshot ID: `AAAAAJooa88eh7PW2eK65gV1rL5pUq1R`

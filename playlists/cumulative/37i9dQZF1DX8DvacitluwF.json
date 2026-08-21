@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: FLO",
+  "description": "The best in South African and international R&B. Cover: Njerae",
   "name": "R&Beats",
   "tracks": [
     {
@@ -144,6 +144,28 @@
       "duration_ms": 150384,
       "name": "4ME",
       "url": "https://open.spotify.com/track/1oWKgkHg6hpL5wa4nh69zi"
+    },
+    {
+      "album": {
+        "name": "4SHO",
+        "url": "https://open.spotify.com/album/4bVk5zGDh09UldFTsstEri"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "4SHO",
+      "url": "https://open.spotify.com/track/41E9ki1EIa57anDkzfNXNV"
     },
     {
       "album": {
@@ -670,7 +692,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 269028,
       "name": "Any Time (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
@@ -928,7 +950,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
@@ -950,7 +972,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 170760,
       "name": "Bad For You (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 169000,
       "name": "Blame U",
       "url": "https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn"
@@ -1666,7 +1688,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 205724,
       "name": "Burning Blue",
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
@@ -2037,6 +2059,32 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg"
+      },
+      "artists": [
+        {
+          "name": "sunandmoon",
+          "url": "https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        },
+        {
+          "name": "Anoop",
+          "url": "https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf"
+    },
+    {
+      "album": {
         "name": "CITY GYAL",
         "url": "https://open.spotify.com/album/7zwiPHmpaTlrEhH7RsbEoD"
       },
@@ -2145,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "SILK",
+        "url": "https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo"
+      },
+      "artists": [
+        {
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148163,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9"
+    },
+    {
+      "album": {
         "name": "T's & C's Apply",
         "url": "https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz"
       },
@@ -2164,7 +2230,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 222722,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/4IG4PZqVEbllfl3h0Qoypw"
@@ -2568,7 +2634,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172337,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
@@ -2720,7 +2786,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
@@ -2876,7 +2942,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "Don't Say the Words",
       "url": "https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot"
@@ -3058,7 +3124,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 152000,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
@@ -3160,7 +3226,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
@@ -3707,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "FAVORITE LOVER",
+        "url": "https://open.spotify.com/album/5aDXI1PoBR8V7T0fffBNHR"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148588,
+      "name": "FAVORITE LOVER",
+      "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
+    },
+    {
+      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/4wLHbwdD3Kc5nt73qOFixR"
       },
@@ -4220,7 +4304,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 192065,
       "name": "Free Fall (feat. J. Cole)",
       "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
@@ -4402,7 +4486,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
@@ -4468,7 +4552,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 168002,
       "name": "Give Me A Reason (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I"
@@ -4794,7 +4878,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "heal something",
       "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
@@ -4812,7 +4896,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 171000,
       "name": "Heart Of A Woman",
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
@@ -5436,7 +5520,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 205066,
       "name": "idea 1",
       "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
@@ -6054,7 +6138,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 294816,
       "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
@@ -6094,7 +6178,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 201722,
       "name": "IT'S OKAY",
       "url": "https://open.spotify.com/track/4P0qRl7ePBk2JkvvgmYLeN"
@@ -6516,7 +6600,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 183293,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
@@ -6676,7 +6760,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172924,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
@@ -7204,7 +7288,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
@@ -7382,7 +7466,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
@@ -7906,7 +7990,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 254015,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
@@ -8154,7 +8238,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 219053,
       "name": "NEED IT",
       "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL"
@@ -8460,6 +8544,28 @@
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "album": {
+        "name": "On My Own / Let Them Know",
+        "url": "https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l"
     },
     {
       "album": {
@@ -9250,7 +9356,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -9578,7 +9684,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
@@ -10858,7 +10964,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
@@ -11490,7 +11596,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 194895,
       "name": "TAI CHI",
       "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
@@ -11670,7 +11776,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189152,
       "name": "Taking Me Places",
       "url": "https://open.spotify.com/track/33ut674yyb3quH7Ubf6Q7J"
@@ -12256,7 +12362,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 249002,
       "name": "Truce",
       "url": "https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw"
@@ -12971,6 +13077,24 @@
     },
     {
       "album": {
+        "name": "it really isn't what it is",
+        "url": "https://open.spotify.com/album/33vEbEYuaVJzq96YwtB1Sb"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "What a Woman",
+      "url": "https://open.spotify.com/track/1c7gIfA5Lq06MHWIDMrCuB"
+    },
+    {
+      "album": {
         "name": "What Is Love?",
         "url": "https://open.spotify.com/album/5uaX4Bh833hXKXRldxi1uD"
       },
@@ -13152,7 +13276,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 217682,
       "name": "Will I Ever",
       "url": "https://open.spotify.com/track/2dSETOXRgjDX0yvYbATcTA"

@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Anna Joyce, Paulo Flores
+> Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos
 
-699 songs - 1 day 16 hr 11 min
+700 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [FREESTYLE](https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI) | [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u) | [FREESTYLE](https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B) | 2:56 | 2026-07-02 |  |
 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 | 2024-10-04 | 2025-06-06 |
 | [Gabriela](https://open.spotify.com/track/4h2efiSX3jLkhYbDKSnNJF) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Gabriela](https://open.spotify.com/album/0aQZXGj1TbwIyfNZicvSOt) | 3:44 | 2025-02-21 | 2025-04-18 |
-| [GBB](https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [GBB](https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh) | 3:22 | 2025-10-16 |  |
+| [GBB](https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [GBB](https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh) | 3:22 | 2025-10-16 | 2026-08-21 |
 | [Gestora](https://open.spotify.com/track/2N1hEIzWuX3YJoIzEn7F1g) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Gestora](https://open.spotify.com/album/7eVJGPWc09JB7RpqgEbbjJ) | 3:26 | 2026-03-06 | 2026-04-03 |
 | [Gogó Gúo Go](https://open.spotify.com/track/2pu3WSzex9of4eztWNPxPv) | [Heavy C](https://open.spotify.com/artist/70LmgRdYKHG2E9owGNTDbB) | [Gogó Gúo Go](https://open.spotify.com/album/2eWpNaolfGSy8Zs9m9KXw7) | 2:09 | 2024-08-08 | 2024-08-23 |
 | [Gostu Sabi](https://open.spotify.com/track/6cosp1xrAB2ibru87qvvqB) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Mito Kaskas](https://open.spotify.com/artist/61B4g2tzV2iOPCxFVXfC7F) | [Gostu Sabi](https://open.spotify.com/album/2Xi1UFTDSzhxS5bOn0uI3t) | 4:24 | 2022-06-16 | 2022-07-01 |
@@ -479,6 +479,7 @@
 | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX) | 3:38 | 2021-12-10 | 2023-02-17 |
 | [Perto De Ti](https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38) | [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK), [No Wahala Sound](https://open.spotify.com/artist/4eGONYIUZBlzHRBMSSEoln) | [Perto De Ti](https://open.spotify.com/album/7b7Lk9QKFVJo5q6TugxRro) | 3:05 | 2025-12-12 | 2026-04-10 |
 | [Pesadelo](https://open.spotify.com/track/14ARu7hPD42NU1adhNPCo0) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Pesadelo](https://open.spotify.com/album/3dnAjufiPKEgkngtFr8dcR) | 3:32 | 2023-09-21 | 2023-09-29 |
+| [Pilon Di Pikena](https://open.spotify.com/track/0EmVVA0ewHGRnj8kNctIzN) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Pilon Di Pikena](https://open.spotify.com/album/31w9tQ4Q0sDJRpIL9QaE4Z) | 2:29 | 2026-08-20 |  |
 | [Pipocar](https://open.spotify.com/track/1VJUgim9zAG0Af0OPUCMCw) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Pipocar](https://open.spotify.com/album/7wWvVunO3Rmj6VwLv2mexq) | 3:02 | 2022-01-21 | 2022-04-08 |
 | [Planos](https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Planos](https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb) | 3:39 | 2025-11-14 |  |
 | [Planos](https://open.spotify.com/track/39RaXavHae4m2ltDym9lIM) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Luna](https://open.spotify.com/album/2XInamj0wqhtNHSV0uXTkK) | 3:28 | 2021-12-10 | 2022-07-21 |

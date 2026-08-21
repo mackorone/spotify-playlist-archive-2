@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,285 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,237 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [くつずれ](https://open.spotify.com/track/7GKnUaCSps9im9sZRUbM66) | [ハチワレ（CV.田中誠人）](https://open.spotify.com/artist/22WLGArDVTIq1DKE6ScSP5) | [『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part1](https://open.spotify.com/album/7xx5V6cnXjC9CNcpbdBQpm) | 3:00 |
 | 100 | [「ねえ、言っちゃうよ。」](https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [アオワイファイ](https://open.spotify.com/artist/26GOjmK4PXXHaRArHl61IN) | [「ねえ、言っちゃうよ。」](https://open.spotify.com/album/14kMFgfCFcoQBzPEwjiv6N) | 3:56 |
 
-Snapshot ID: `AAAAACT0rHvTxNl7UAsLNJFSiK9zvDAf`
+Snapshot ID: `AAAAAKh31bTA2cYhmcMsEeukxXVBja3X`

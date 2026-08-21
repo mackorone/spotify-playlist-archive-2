@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Ryan Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,651,549 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,651,719 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 2:17 |
+| 1 | [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 1:55 |
 | 2 | [alle](https://open.spotify.com/track/1HHxQeNb0BwrhUIbQegebj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [alle](https://open.spotify.com/album/36aAA4soWIatiSyF7oJaBD) | 3:16 |
 | 3 | [My Closest Friend](https://open.spotify.com/track/1lHhEX1zhmracxjauG6UWf) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [My Closest Friend](https://open.spotify.com/album/6xkPWipz5QVgC4geXlOhYB) | 4:29 |
 | 4 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 |
 | 100 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 
-Snapshot ID: `AAAAAGMpNzGLzXYYhIXGzOlw7jb0qh2S`
+Snapshot ID: `AAAAALMdUVPdMOs109PteQ3NnAnD3isD`

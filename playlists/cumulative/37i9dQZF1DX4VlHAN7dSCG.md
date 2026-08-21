@@ -2,12 +2,13 @@
 
 ### [組團飆歌](https://open.spotify.com/playlist/37i9dQZF1DX4VlHAN7dSCG)
 
-> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Tizzy Bac
+> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 溫室雜草
 
-988 songs - 2 day 16 hr 21 min
+990 songs - 2 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100 秒的紅燈](https://open.spotify.com/track/0NJh6C9p5trVG3R0S5UlMV) | [普通隊長](https://open.spotify.com/artist/5qJoZTy9eeE8I3U87jtHXo) | [100 秒的紅燈](https://open.spotify.com/album/2FkIYUkkY4MyfOoz90hVb7) | 2:54 | 2026-08-20 |  |
 | [13% off Christmas](https://open.spotify.com/track/3kMi4aQlXsPx6rlJU8gj7y) | [Kumara the Cat 貓咪庫瑪拉](https://open.spotify.com/artist/77YGTeS9iyhPgzRlMgSaGv) | [13% off Christmas](https://open.spotify.com/album/2JZyHwhnneSqIkLAu0ltBM) | 3:27 | 2026-01-29 | 2026-02-20 |
 | [21世紀最強兒歌](https://open.spotify.com/track/2StS671VbCyK7z8xDk2oQp) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [21世紀最強兒歌](https://open.spotify.com/album/1br53c0YvFtqo6GcmA9lyg) | 5:17 | 2024-06-28 | 2024-07-27 |
 | [24/7 Shining](https://open.spotify.com/track/7cvkZVHF0tLOfKc9q4pEuq) | [AKB48 Team TP](https://open.spotify.com/artist/5EJySPaACof5q6mh88d3gb) | [24/7 Shining](https://open.spotify.com/album/2ntpCzRQE0RFCR2LCQAC2Y) | 4:37 | 2024-08-15 | 2024-09-07 |
@@ -439,6 +440,7 @@
 | [同病相戀 \(電影《有病才會喜歡你》宣傳曲\)](https://open.spotify.com/track/0XrQuH1KGidW0RVowpK0Pa) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [同病相戀](https://open.spotify.com/album/5LxIzRDFWTbeSMcGMvIlRc) | 3:07 | 2025-04-03 | 2025-05-02 |
 | [吟遊 \(Live\)](https://open.spotify.com/track/2QFehU1y2RlaFGXXsbJh3f) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [二十站一刻](https://open.spotify.com/album/5shh1qIqjZhBlph7r7UQZp) | 3:53 | 2025-07-24 | 2025-08-15 |
 | [呷飽未](https://open.spotify.com/track/7lvF3m9QnWYI2NxmDu1GDi) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [呷飽未](https://open.spotify.com/album/2IS82cFgSXJPVhGHTg6oWq) | 3:39 | 2025-01-16 | 2025-02-07 |
+| [命盤](https://open.spotify.com/track/7pj3Y9AthzXugrA4aLSqsH) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [命盤](https://open.spotify.com/album/5MxrQp3LYMxmkB0SpCwx3h) | 5:49 | 2026-08-20 |  |
 | [命運的蔥笛 \- 錯頻沒在稿 OFF THE RECORD \- DEMO](https://open.spotify.com/track/62LCeCVeQUAY44xjG4uUOh) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [命運的蔥笛 \- 錯頻沒在稿 OFF THE RECORD \(DEMO\)](https://open.spotify.com/album/7hiy3u7tMZbFcO711fGxIv) | 2:30 | 2025-10-09 | 2025-11-07 |
 | [和你一起的風景](https://open.spotify.com/track/5sXgC20W4HQKyJEp46qUqv) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [和你一起的風景未完待續](https://open.spotify.com/album/0tFoZb3tdwfNnjNIwG4mnO) | 3:25 | 2025-12-11 | 2026-01-02 |
 | [咚咚 Dong Dong](https://open.spotify.com/track/6CZNEKpxlYCab6qQeeDE5u) | [A Root 同根生](https://open.spotify.com/artist/4GNkB3y24Z3AV8itXAUGxE) | [咚咚 Dong Dong](https://open.spotify.com/album/7MXMKMtpnWfBOhyoQ17Rnd) | 4:14 | 2024-12-19 | 2025-01-24 |

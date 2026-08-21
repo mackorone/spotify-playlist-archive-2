@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos de Tamaulipas y Clave Especial en portada.",
-  "num_followers": 531409,
+  "num_followers": 531434,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANo+HFGzIsD76EOWkgxacjO/IQeN",
+  "snapshot_id": "AAAAAI3dTOeRhCDa2j5MU7gm5ir8Twsi",
   "tracks": [
     {
       "added_at": "2026-08-14 06:00:29",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 147567,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "The Magic Man",
         "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 218235,
       "name": "Mi Bonita",
       "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 147567,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "M\u00e9xico Sigue De Pie",
-        "url": "https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 187474,
-      "name": "M\u00e9xico Sigue De Pie",
-      "url": "https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Se Rindi\u00f3 El Amor",
         "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 153885,
       "name": "Se Rindi\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "M\u00e9xico Sigue De Pie",
+        "url": "https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 187474,
+      "name": "M\u00e9xico Sigue De Pie",
+      "url": "https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "La G\u00fcera",
-        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158242,
-      "name": "La G\u00fcera",
-      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Pero Me Da\u00f1aste",
         "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+        "name": "La G\u00fcera",
+        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
       },
       "artists": [
         {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
+      "duration_ms": 158242,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -699,6 +683,22 @@
       "duration_ms": 170454,
       "name": "La Meta Es Ser",
       "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "RED FLAG",
-        "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 186968,
-      "name": "RED FLAG",
-      "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181098,
       "name": "Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "RED FLAG",
+        "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 186968,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "Entre Besos",
-        "url": "https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 187691,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "TAN FACIL",
         "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 162711,
       "name": "TAN FACIL",
       "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "Entre Besos",
+        "url": "https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 187691,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "Quiero Todo Contigo",
-        "url": "https://open.spotify.com/album/2TtszaHGbpbdZkXlEqZL3B"
-      },
-      "artists": [
-        {
-          "name": "5to Vuelo",
-          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
-        }
-      ],
-      "duration_ms": 153302,
-      "name": "Quiero Todo Contigo",
-      "url": "https://open.spotify.com/track/0edCp96eUKetRNogYSGg4d"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "IMPERIO",
         "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 238463,
       "name": "Las Drzl",
       "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "Quiero Todo Contigo",
+        "url": "https://open.spotify.com/album/2TtszaHGbpbdZkXlEqZL3B"
+      },
+      "artists": [
+        {
+          "name": "5to Vuelo",
+          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
+        }
+      ],
+      "duration_ms": 153302,
+      "name": "Quiero Todo Contigo",
+      "url": "https://open.spotify.com/track/0edCp96eUKetRNogYSGg4d"
     },
     {
       "added_at": "2026-08-14 06:00:29",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-08-14 06:00:29",
       "album": {
-        "name": "Desde El Charco (En Vivo)",
-        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aktitud",
-          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
-        }
-      ],
-      "duration_ms": 227314,
-      "name": "Como Poder Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
-    },
-    {
-      "added_at": "2026-08-14 06:00:29",
-      "album": {
         "name": "Recuerdos De Ni\u00f1o",
         "url": "https://open.spotify.com/album/7cHIsnYvCUtwbsjHSQ23Cb"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 146350,
       "name": "Recuerdos De Ni\u00f1o",
       "url": "https://open.spotify.com/track/56xdph8ib9mB3hdwCYvzFK"
+    },
+    {
+      "added_at": "2026-08-14 06:00:29",
+      "album": {
+        "name": "Desde El Charco (En Vivo)",
+        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "duration_ms": 227314,
+      "name": "Como Poder Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
     },
     {
       "added_at": "2026-08-14 06:00:29",

@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 568779,
+  "num_followers": 568907,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD8SF0R84rnJr0p0sRxJHYigweko",
+  "snapshot_id": "AAAAAGPy2cQl8sM/EYL6f2sLx5i7H8Hn",
   "tracks": [
     {
       "added_at": "2025-01-22 16:03:55",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
-        "name": "Death by Rock and Roll",
-        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234476,
-      "name": "Death by Rock and Roll",
-      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
-    },
-    {
-      "added_at": "2025-01-22 16:03:55",
-      "album": {
         "name": "Saints & Sinners",
         "url": "https://open.spotify.com/album/1epDxzCjMekWTEBeuboSYm"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222733,
       "name": "Sound the Alarm",
       "url": "https://open.spotify.com/track/5YUaQCRrw0wZHIv1WSkE2n"
+    },
+    {
+      "added_at": "2025-01-22 16:03:55",
+      "album": {
+        "name": "Death by Rock and Roll",
+        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234476,
+      "name": "Death by Rock and Roll",
+      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
     },
     {
       "added_at": "2025-01-22 16:03:55",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Slave to the Grind",
-      "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
-    },
-    {
-      "added_at": "2025-01-22 16:03:55",
-      "album": {
         "name": "Balls To The Wall",
         "url": "https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
-        "name": "Here Comes The Boom",
-        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
       "artists": [
         {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Here Comes The Boom",
-      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
     },
     {
       "added_at": "2025-01-22 16:03:55",
@@ -1443,6 +1427,22 @@
       "duration_ms": 313520,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/1Krtfh550kyhfWPcRp6SnD"
+    },
+    {
+      "added_at": "2025-01-22 16:03:55",
+      "album": {
+        "name": "Here Comes The Boom",
+        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Here Comes The Boom",
+      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
     },
     {
       "added_at": "2025-01-22 16:03:55",

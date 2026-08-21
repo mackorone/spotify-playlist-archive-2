@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,763 likes - 260 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,988 likes - 260 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 259 | [Gentle Blue](https://open.spotify.com/track/2vKW6T5CCzWbt8eV3Vjq2x) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Gentle Blue](https://open.spotify.com/album/5Iw4gedNhoEGu4dLvL5m1t) | 2:33 |
 | 260 | [Lucent Calm](https://open.spotify.com/track/3AVyhHZshmqu53oCcqXV4Z) | [Phase Quiet](https://open.spotify.com/artist/4nGXChdq7ggYhLNnqP10Ma) | [Lucent Calm](https://open.spotify.com/album/0NsszANleiE6bzi09tjJ4J) | 2:42 |
 
-Snapshot ID: `AAAAAFr2lTyR7Lii2AfBZPeLRsHoC5yV`
+Snapshot ID: `AAAAABUAY/8KUJFz520v8Md3oLYXHVuB`

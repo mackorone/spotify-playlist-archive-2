@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: BLOK3",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Ezhel ",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV"
       },
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"

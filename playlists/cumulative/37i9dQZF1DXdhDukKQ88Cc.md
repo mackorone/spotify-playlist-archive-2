@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀
+> kun det nyeste danske rap 👀 YAWO på cover!!
 
-597 songs - 1 day 1 hr 33 min
+599 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Moneycall \(feat\. Fam & Smiley\)](https://open.spotify.com/track/3BwnaNDE0xNyveWURXjyGV) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Fam](https://open.spotify.com/artist/6o330LG7yXCDHiFTiGIyX8), [Smiley](https://open.spotify.com/artist/0VAbWUQfLnhk5rggicyL8f) | [Moneycall \(feat\. Fam & Smiley\)](https://open.spotify.com/album/1LYSciBvfi1dxYc4dh0WNE) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [MOULAGA](https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [MOULAGA](https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm) | 2:15 | 2023-09-21 | 2023-12-14 |
 | [Mozart](https://open.spotify.com/track/6PsOpjwjkUIAELLXz30bC9) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Mozart](https://open.spotify.com/album/1j9hmGqgddPasebxfgckk7) | 2:02 | 2026-01-08 | 2026-04-17 |
+| [Mr\. Entreprenør](https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [Mr\. Entreprenør](https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O) | 2:42 | 2026-08-20 |  |
 | [Murciélago](https://open.spotify.com/track/6bTv8wFuVu5O21g7HTxdqd) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Murciélago](https://open.spotify.com/album/2HZAQ8Ur0Ac7es5G4IfIAS) | 2:02 | 2024-02-08 | 2024-04-05 |
 | [NALE](https://open.spotify.com/track/4UrPdb0pMaoesMndj9mOQe) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [NALE](https://open.spotify.com/album/4chZ9FISEuX3ui3GH5KzCl) | 2:20 | 2025-04-17 | 2025-07-04 |
 | [Napoli](https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Napoli](https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72) | 2:42 | 2026-07-16 |  |
@@ -535,6 +536,7 @@
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
 | [Topskud](https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG) | [Tjabo](https://open.spotify.com/artist/4a8fAlcwVh5WQM19I6tZpU), [BONFI](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Tjabo](https://open.spotify.com/album/5m7m3rfPyB3FBYuedwOMgW) | 2:11 | 2026-08-07 |  |
+| [Track 5](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 | 2026-08-20 |  |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2026-01-02 |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 | 2026-04-10 |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |

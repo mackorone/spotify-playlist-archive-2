@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17136,
+  "num_followers": 17151,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJhMPfM0rMBEqKzeYs2Tljrz0MG",
+  "snapshot_id": "AAAAAN7f4EzgbhMyDUaUh05YdizJBlrJ",
   "tracks": [
     {
       "added_at": "2026-07-24 04:49:13",
@@ -515,22 +515,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/10evLNLrgCUrShWYttpITu"
+        "name": "PorquE Si Te QuedAs",
+        "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
       },
       "artists": [
         {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 206454,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2"
+      "duration_ms": 179166,
+      "name": "PorquE Si Te QuedAs",
+      "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -563,18 +559,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "PorquE Si Te QuedAs",
-        "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/10evLNLrgCUrShWYttpITu"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 179166,
-      "name": "PorquE Si Te QuedAs",
-      "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
+      "duration_ms": 206454,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "11:11pm",
-        "url": "https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 195481,
-      "name": "11:11pm",
-      "url": "https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Isla Pa Dos (Wawawao)",
         "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 137691,
       "name": "Isla Pa Dos (Wawawao)",
       "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "11:11pm",
+        "url": "https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 195481,
+      "name": "11:11pm",
+      "url": "https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Ci\u00e9naga",
-        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
       },
       "artists": [
         {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
         }
       ],
-      "duration_ms": 176353,
-      "name": "Ci\u00e9naga",
-      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1731,6 +1715,22 @@
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Ci\u00e9naga",
+        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 176353,
+      "name": "Ci\u00e9naga",
+      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
     },
     {
       "added_at": "2026-06-19 04:59:04",

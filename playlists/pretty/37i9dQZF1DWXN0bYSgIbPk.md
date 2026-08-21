@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,308 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,309 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 | 54 | [My Personal Sunset](https://open.spotify.com/track/1FKRN2qXbnDA5g07vwoid6) | [Miles Carter](https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7) | [The Weatherman](https://open.spotify.com/album/7MKzBuXbOl16C0iBlKXn9r) | 2:32 |
 | 55 | [tea](https://open.spotify.com/track/6YTZ3l7vbx2lrJYl60uxXS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [tea](https://open.spotify.com/album/2SFhJuvKw9tE8FI4RQUetm) | 3:41 |
 
-Snapshot ID: `AAAAABImJDZs+bC8tA/29YreHSaPH2WT`
+Snapshot ID: `AAAAAKxqTpCRl/jBUirR1cY6gooqcLQm`

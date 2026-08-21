@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Nipsey Hussle and Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,763 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,758 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 40 | [Left, Right](https://open.spotify.com/track/2T4nSoBudFjk3qG4HL6SNP) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [STILL OUTSIDE \(EP\)](https://open.spotify.com/album/6S4PM4QDNeY7l8YSujLVrg) | 1:26 |
 | 41 | [Live Your Life](https://open.spotify.com/track/3x9NMi02uf1xxmczl0Grxx) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Live Your Life](https://open.spotify.com/album/19Ul2SFUdm30hRpT2X6tin) | 2:03 |
 | 42 | [You On](https://open.spotify.com/track/1kJr8m35uMBGcuzb8ENR9I) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [You On](https://open.spotify.com/album/11EjCOqdbgF0BDkWON8GC4) | 2:53 |
-| 43 | [Rice N Butter](https://open.spotify.com/track/6ahJMgFJTq2xmAM7Wg38qN) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Rice N Butter](https://open.spotify.com/album/2pQkijDQ5wpFuTxtMBONg1) | 1:55 |
+| 43 | [Rice N Butta](https://open.spotify.com/track/6ahJMgFJTq2xmAM7Wg38qN) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Rice N Butta](https://open.spotify.com/album/2pQkijDQ5wpFuTxtMBONg1) | 1:55 |
 | 44 | [Too Much Hate](https://open.spotify.com/track/2m6slbCEp4sWomAvgNrWWO) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [One & The Same](https://open.spotify.com/album/1kOxOSjzSAWZujsHfiwNau) | 2:50 |
 | 45 | [Better Decisions](https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Who Coppin](https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB) | 2:35 |
 | 46 | [TAKE U HOME](https://open.spotify.com/track/34n0ATfkVijT83HeisJi7j) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [BIDNESS IS BOOMIN](https://open.spotify.com/album/75KSzdkYu0CEHoM7dDPgaD) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [Brrrrrdadumdum](https://open.spotify.com/track/6kWcOCCyJ2Pk3tLNBbxHw1) | [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [LA Nights](https://open.spotify.com/album/2zDpiDdNVACJmuA2G18EdH) | 2:40 |
 | 100 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 |
 
-Snapshot ID: `AAAAADoVk/BNTbi9L4eI4VirCBa8D2Wm`
+Snapshot ID: `AAAAAKj+DLW2bRBLdphyonclBxoi3O/5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bia Soull
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,931 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,922 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 51 | [8 HORAS DE PRAZER](https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [8 HORAS DE PRAZER](https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT) | 2:41 |
 | 52 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 |
 | 53 | [Deixa a Gira Girar](https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Deixa a Gira Girar](https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS) | 3:48 |
-| 54 | [como foi pra vc?](https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [como foi pra vc?](https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ) | 4:03 |
-| 55 | [Volta](https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Volta](https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk) | 2:07 |
+| 54 | [Volta](https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Volta](https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk) | 2:07 |
+| 55 | [como foi pra vc?](https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [como foi pra vc?](https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ) | 4:03 |
 | 56 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
 | 57 | [Fúria](https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Coral](https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fúria](https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx) | 3:13 |
 | 58 | [Sideral](https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sideral](https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ) | 2:49 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 68 | [AMOR PROIBIDO](https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH) | [Gael Vicci](https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw), [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [AMOR PROIBIDO](https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS) | 2:22 |
 | 69 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
 | 70 | [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 |
-| 71 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
-| 72 | [Aurora](https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a) | [Siamese](https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed) | [Aurora](https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0) | 3:22 |
+| 71 | [Aurora](https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a) | [Siamese](https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed) | [Aurora](https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0) | 3:22 |
+| 72 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
 | 73 | [Pra te amar as vezes](https://open.spotify.com/track/7kkHKnWWTKAq1pHOxXVtOF) | [Victor Cali](https://open.spotify.com/artist/2ZWCKKr8IDfkWL54yTLBVt), [Flowdi](https://open.spotify.com/artist/5Y5g7A0AbcaRgHBWB8r3B7) | [Pra te amar às vezes](https://open.spotify.com/album/4MiPpcMI523JiIsVt9fDMk) | 2:20 |
 | 74 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 |
 | 75 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 79 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 80 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 
-Snapshot ID: `AAAAAJO1lsOYKjNonMHAgDwGwrLuc0CH`
+Snapshot ID: `AAAAAFhryexys8Jj18gXZydKtRIX9Kfu`

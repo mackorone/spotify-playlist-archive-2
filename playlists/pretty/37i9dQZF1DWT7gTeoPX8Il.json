@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 171331,
+  "num_followers": 171358,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF2Di5cm3qy+EY/kvsmysDVqNTkc",
+  "snapshot_id": "AAAAAON8NAVqUosw1AhExVLPYWiaBnXB",
   "tracks": [
     {
       "added_at": "2026-07-17 07:14:07",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
+        "name": "Cinta Mati",
+        "url": "https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M"
+      },
+      "artists": [
+        {
+          "name": "Apau Qhaliff",
+          "url": "https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Cinta Mati",
+      "url": "https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
         "name": "Seni Berdamai Dengan Takdir",
         "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 235890,
       "name": "Seni Berdamai Dengan Takdir",
       "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
-        "name": "Cinta Mati",
-        "url": "https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M"
-      },
-      "artists": [
-        {
-          "name": "Apau Qhaliff",
-          "url": "https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Cinta Mati",
-      "url": "https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy"
     },
     {
       "added_at": "2026-07-17 07:14:07",

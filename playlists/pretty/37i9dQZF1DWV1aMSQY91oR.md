@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: SonReal
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,557 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,567 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Whine For Me](https://open.spotify.com/track/5u9hgLFpksyBSLrH1gWUVY) | [Young T](https://open.spotify.com/artist/3Pw9IzOKjxMQEwSQ7UAqo3), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Whine For Me](https://open.spotify.com/album/1mLXcLl9YMswIOwx59o6Q7) | 2:07 |
 | 49 | [Nightmares To Dreams](https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Nightmares To Dreams](https://open.spotify.com/album/7pimoRaeILGeWTQPOpwADL) | 3:14 |
 
-Snapshot ID: `AAAAAK5ZPlmukr2oUIZKAEW7yE0kfyPV`
+Snapshot ID: `AAAAACbsApeR7An39JSA0fkTVf03DOMb`

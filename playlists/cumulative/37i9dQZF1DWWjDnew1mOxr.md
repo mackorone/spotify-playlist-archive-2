@@ -2,15 +2,16 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Music that means it\. Cover: Yard Act
+> Music that means it\. Cover: Jamie T
 
-484 songs - 1 day 3 hr 24 min
+486 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 | 2023-01-30 | 2025-10-11 |
 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 | 2025-03-12 | 2025-06-07 |
 | [24 Hours In A&E](https://open.spotify.com/track/0hjTQE4rkJrFHmacqXdz0b) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [24 Hours In A&E](https://open.spotify.com/album/2KpGbl9FZaaRkOdNpG7ddI) | 2:32 | 2024-10-06 | 2025-02-08 |
+| [3310](https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [3310](https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb) | 3:02 | 2026-08-20 |  |
 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 | 2023-01-10 |  |
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2023-06-13 | 2023-07-29 |
 | [5168 Days](https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [5168 Days](https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg) | 3:15 | 2024-07-12 | 2024-10-07 |
@@ -167,7 +168,7 @@
 | [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-07-12 | 2024-10-07 |
 | [Gary](https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:30 | 2024-10-06 |  |
 | [Gaslight](https://open.spotify.com/track/0Ow0xBXS5g4q7vYvdcZIqi) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Gaslight](https://open.spotify.com/album/6Trkgc0inzePZjY1R6flBi) | 3:27 | 2024-05-31 | 2024-07-23 |
-| [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-04-15 | 2026-08-20 |
+| [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-04-15 |  |
 | [Get Me Started](https://open.spotify.com/track/1hc98h2pyMvYo6MAS18aDN) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Get Me Started](https://open.spotify.com/album/4sn2Ucedh0ERO2flaG1KdB) | 3:41 | 2024-04-15 | 2024-07-13 |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2023-06-07 |  |
 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 | 2024-01-26 | 2026-06-19 |
@@ -190,7 +191,7 @@
 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 | 2023-10-27 | 2024-08-22 |
 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2023-10-20 | 2024-07-13 |
 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 | 2023-12-22 | 2024-02-24 |
-| [Hatching](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 4:23 | 2026-07-23 |  |
+| [Hatching](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 4:23 | 2026-07-23 | 2026-08-21 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-10-06 |  |
 | [Heartbreak Town](https://open.spotify.com/track/7nT12hUGZBFNhtEszoe98S) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Heartbreak Town](https://open.spotify.com/album/5gHaj7LfX54Ex6IJUxlX7Q) | 3:47 | 2024-07-12 | 2024-08-21 |
 | [Heaven Knows You're Lonely](https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Heaven Knows You're Lonely](https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B) | 3:01 | 2026-06-18 |  |
@@ -274,7 +275,7 @@
 | [Life Will Go On](https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [When Youth Fades Away](https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u) | 3:36 | 2025-06-06 | 2026-01-06 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2023-01-10 | 2026-06-19 |
 | [Like No Other](https://open.spotify.com/track/65wlzirUN6886hIFivbF4p) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Like No Other](https://open.spotify.com/album/4aGXRRp2KhnNG4esidkYrl) | 2:20 | 2024-10-06 | 2025-12-03 |
-| [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-06-23 |  |
+| [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-06-23 | 2026-08-21 |
 | [Liquorice](https://open.spotify.com/track/60pygaEEzRQ9mh4VxqW2bf) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Liquorice](https://open.spotify.com/album/0RgikP1YRg3brEygNcfiQf) | 2:53 | 2025-02-07 | 2025-04-19 |
 | [Lists](https://open.spotify.com/track/6KTmfCSIIRjWFAfIYmAWYk) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo), [Perfect Binding](https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY) | [Lists / Superseded](https://open.spotify.com/album/4cgi0WPD00bWgRtKjxPTN9) | 2:20 | 2026-03-27 | 2026-04-25 |
 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 | 2025-02-21 |  |
@@ -294,6 +295,7 @@
 | [Make A Difference](https://open.spotify.com/track/3FW4sQFCb3v12aShwG2bR4) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 3:01 | 2025-02-07 | 2025-04-16 |
 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-02-07 |  |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-10-10 |  |
+| [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-20 |  |
 | [marry me to dopamine](https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [marry me to dopamine](https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7) | 3:33 | 2026-02-20 | 2026-06-21 |
 | [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 | 2026-01-30 | 2026-02-22 |
 | [Masquerade](https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Masquerade](https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy) | 3:47 | 2025-06-23 | 2025-08-06 |
@@ -449,7 +451,7 @@
 | [To Make Me Feel Good](https://open.spotify.com/track/0mMOvXqrgYzFXQmSDMnJTU) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [To Make Me Feel Good](https://open.spotify.com/album/5GEXrRfKyQv94ePIt24pg9) | 3:29 | 2025-02-07 | 2025-03-16 |
 | [Towards the One](https://open.spotify.com/track/3lqzSzW8W2JAlWBVYUd78y) | [Lost Under Heaven](https://open.spotify.com/artist/634K1Y2zhBHexel2Ma4xsC) | [Towards the One](https://open.spotify.com/album/5ijkLq2XBXY1cre1jR0fQ7) | 6:34 | 2023-07-28 | 2023-08-05 |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-18 | 2024-07-13 |
-| [Tubes](https://open.spotify.com/track/07jXAPRXGV5ZeXHXaMV3mo) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/6H8ULONWvrMzKel3GgVExV) | 2:49 | 2026-05-01 |  |
+| [Tubes](https://open.spotify.com/track/07jXAPRXGV5ZeXHXaMV3mo) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/6H8ULONWvrMzKel3GgVExV) | 2:49 | 2026-05-01 | 2026-08-21 |
 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 | 2024-08-21 |  |
 | [Two Times Over](https://open.spotify.com/track/7jHAUcPHqpVL3lQoRGN5sP) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [Two Times Over](https://open.spotify.com/album/37SVjv8XeK8M8tkL8tUAP3) | 4:01 | 2024-05-31 | 2024-10-01 |
 | [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-06-06 | 2025-06-23 |

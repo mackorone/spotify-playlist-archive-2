@@ -1,12 +1,12 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 357155,
+  "num_followers": 357211,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMOM/ZQpc++ykVVcTOXp9txINoo",
+  "snapshot_id": "AAAAAFPhG3lzV7nP+y4GwsJMZDCj8Qle",
   "tracks": [
     {
       "added_at": "2019-09-04 23:38:38",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1"
     },
     {
-      "added_at": "2023-03-25 17:43:32",
-      "album": {
-        "name": "Para los Peques",
-        "url": "https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o"
-      },
-      "artists": [
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 131693,
-      "name": "Si los Ni\u00f1os Gobernaran al Mundo",
-      "url": "https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77"
-    },
-    {
       "added_at": "2019-09-04 23:38:38",
       "album": {
         "name": "Serie 3X4 (Los Angeles Negros, Altemar Dutra, Carlos Lico)",
@@ -663,6 +647,22 @@
       "duration_ms": 184480,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/4irHHlpVq5VCPgqSoJgD89"
+    },
+    {
+      "added_at": "2023-03-25 17:43:32",
+      "album": {
+        "name": "Para los Peques",
+        "url": "https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 131693,
+      "name": "Si los Ni\u00f1os Gobernaran al Mundo",
+      "url": "https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -844,22 +844,6 @@
       "added_at": "2019-09-04 23:38:38",
       "album": {
         "name": "Personalidad",
-        "url": "https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "La de la Mochila Azul",
-      "url": "https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Personalidad",
         "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
       },
       "artists": [
@@ -871,6 +855,22 @@
       "duration_ms": 189813,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "La de la Mochila Azul",
+      "url": "https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j"
     },
     {
       "added_at": "2019-09-04 23:38:38",

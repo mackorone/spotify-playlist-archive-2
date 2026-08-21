@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7250,
+  "num_followers": 7252,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADP/3KZS694OO2boXbiUj+t",
+  "snapshot_id": "aoTyAAAAAAAUTdtYMZ4JxdcMxZfUMFPm",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Voy A Cuidar",
-        "url": "https://open.spotify.com/album/5DRUmF4QrwKqNTfphCWi8C"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 185958,
-      "name": "Te Voy A Cuidar",
-      "url": "https://open.spotify.com/track/6vyYZ6nUbfxaGUuUbeHPcL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos 2)",
         "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
       },
@@ -155,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+        "name": "Te Voy A Cuidar",
+        "url": "https://open.spotify.com/album/5DRUmF4QrwKqNTfphCWi8C"
       },
       "artists": [
         {
@@ -164,9 +148,25 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Infectado",
-      "url": "https://open.spotify.com/track/1ivC5BSk72cpuJuGohFMSZ"
+      "duration_ms": 185958,
+      "name": "Te Voy A Cuidar",
+      "url": "https://open.spotify.com/track/6vyYZ6nUbfxaGUuUbeHPcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/29FAw4iBbQtN5T7hU3Jpd8"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/29FAw4iBbQtN5T7hU3Jpd8"
+      "duration_ms": 198146,
+      "name": "Infectado",
+      "url": "https://open.spotify.com/track/1ivC5BSk72cpuJuGohFMSZ"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+      "duration_ms": 244869,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 244869,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW"
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,

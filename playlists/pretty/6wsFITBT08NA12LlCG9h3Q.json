@@ -1,15 +1,31 @@
 {
   "description": "A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!",
-  "num_followers": 142588,
+  "num_followers": 142578,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFdlkJT3pDhuTWHO1SjSLDUg75ZjrK",
+  "snapshot_id": "AAAFfq2mhN2CXPS9ZwpHlAuIJVGOBJfZ",
   "tracks": [
     {
       "added_at": "2026-08-13 19:11:06",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2026-08-20 21:34:25",
       "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
@@ -18,31 +34,11 @@
         {
           "name": "Montell Jordan",
           "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        },
-        {
-          "name": "Wino",
-          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
         }
       ],
-      "duration_ms": 277293,
-      "name": "This Is How We Do It",
-      "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2026-08-13 19:11:06",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
-        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Tonight, Tonight - Remastered 2012",
-      "url": "https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b"
+      "duration_ms": 268773,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/4b3RyDj2z82siOoYzJIPMw"
     },
     {
       "added_at": "2026-08-13 19:11:06",
@@ -63,18 +59,18 @@
     {
       "added_at": "2026-08-13 19:11:06",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
       },
       "artists": [
         {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+      "duration_ms": 254626,
+      "name": "Tonight, Tonight - Remastered 2012",
+      "url": "https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b"
     },
     {
       "added_at": "2026-08-13 19:11:06",
@@ -115,6 +111,26 @@
       "duration_ms": 191506,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
+    },
+    {
+      "added_at": "2026-08-13 19:11:06",
+      "album": {
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
     },
     {
       "added_at": "2026-08-13 19:11:06",

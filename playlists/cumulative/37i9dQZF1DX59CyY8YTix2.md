@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Chilli Beans.
 
-2,077 songs - 5 day 8 hr 41 min
+2,078 songs - 5 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [LSD](https://open.spotify.com/track/1CaHQd528Xcn0Jrj6rxjaM) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [pink II](https://open.spotify.com/album/4Qh5vpPfJWDvC51dtBKbXL) | 3:17 | 2025-01-07 | 2025-03-12 |
 | [LUCKY](https://open.spotify.com/track/4rynmW4wicv2AyFSt9mR9b) | [Gum Girl](https://open.spotify.com/artist/3yWWaRtnqLGvYJqNZfzh1t) | [LUCKY](https://open.spotify.com/album/4i8xlhMFCJMb9xUC3splBG) | 1:55 | 2022-06-28 | 2022-07-06 |
 | [Lucky Days](https://open.spotify.com/track/0Ru8fmxLWjvpMwFuVZ6cYU) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Lucky Days](https://open.spotify.com/album/2OoO1VK1Ukap8wNoVWXnvL) | 3:52 | 2022-05-26 | 2022-07-25 |
+| [LとR](https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [LとR](https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q) | 3:36 | 2026-08-18 |  |
 | [M](https://open.spotify.com/track/0DrJQpDMgtQgvW1PmD0D7d) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/32kUmikbtBBde9KFd5J5TW) | 5:38 | 2023-11-07 | 2023-11-09 |
 | [M](https://open.spotify.com/track/3YoG17ExAvxnuWNYbaoMOB) | [WAGAMAMA RAKIA](https://open.spotify.com/artist/0bnpBtGlXC8mn5fGHokarD) | [M](https://open.spotify.com/album/5w9rdYGOCpSeNIQVaA435U) | 5:38 | 2023-11-07 | 2023-11-16 |
 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 | 2022-10-18 | 2023-01-18 |
@@ -1516,7 +1517,7 @@
 | [リアライズ](https://open.spotify.com/track/6EUIU3lk0k61p67JdmJk0N) | [gyouninven](https://open.spotify.com/artist/1sYc6sSH2Oazo9seO3xdiH) | [会話と解話](https://open.spotify.com/album/3U7xfXLvn1D45iZnKdCzgL) | 4:27 | 2023-01-10 | 2023-01-18 |
 | [リグレットベイビーズ](https://open.spotify.com/track/51cpDgNDiulaRy3BL8rglS) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:13 | 2024-04-23 | 2024-07-17 |
 | [リップシンク](https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [charm](https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ) | 3:10 | 2023-09-19 | 2024-01-09 |
-| [リトルワールド](https://open.spotify.com/track/1cflsQcGcOcL7gkZaPyiYm) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [リトルワールド](https://open.spotify.com/album/1zAo81LJpiaH49DbvEKqCU) | 3:08 | 2026-04-29 |  |
+| [リトルワールド](https://open.spotify.com/track/1cflsQcGcOcL7gkZaPyiYm) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [リトルワールド](https://open.spotify.com/album/1zAo81LJpiaH49DbvEKqCU) | 3:08 | 2026-04-29 | 2026-08-21 |
 | [リドー](https://open.spotify.com/track/2ZKDT4B7UhV549F4FajHCX) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [リドー](https://open.spotify.com/album/6E4R01brTT1PaoQTw1AdUd) | 3:41 | 2022-08-23 | 2023-04-14 |
 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 | 2024-10-02 |
 | [リベリオン](https://open.spotify.com/track/3JTIwNusgtT95H26DDadkc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 2:58 | 2024-02-08 | 2024-04-19 |

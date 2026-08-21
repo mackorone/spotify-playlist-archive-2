@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 320253,
+  "num_followers": 320324,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYwJGMs0c21SuUugXlDwnPI2vjw",
+  "snapshot_id": "AAAAAAUrhkWWcAgAgbYcczZ2qqJ0lsB5",
   "tracks": [
     {
       "added_at": "2025-01-15 04:11:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Beautiful Freak",
         "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 188693,
       "name": "Novocaine For The Soul",
       "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Under the Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 305533,
-      "name": "Cornflake Girl - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Desperate Youth, Blood Thirsty Babes",
         "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 206986,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Under the Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 305533,
+      "name": "Cornflake Girl - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Monster (Remastered)",
-        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
-      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Sparkle And Fade",
         "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 143400,
       "name": "Heroin Girl",
       "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Galaxie / Hello, Goodbye",
-      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Signals, Calls and Marches",
         "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 233573,
       "name": "That's When I Reach for My Revolver",
       "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Galaxie / Hello, Goodbye",
+      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Return Of The Rentals",
-        "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
       "artists": [
         {
-          "name": "The Rentals",
-          "url": "https://open.spotify.com/artist/3NmdKZUM96z7NGvL35g5PC"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 212266,
-      "name": "Friends of P.",
-      "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
+      "duration_ms": 166226,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/4nC7ADktP434rqxHtFbkba"
     }
   ],
   "unique_name": "Thrifted",

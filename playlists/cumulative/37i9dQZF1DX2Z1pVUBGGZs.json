@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83d\udc90 cover: Sam Tompkins",
+  "description": "a playlist without boundaries \ud83d\ude80 cover: beabadoobee",
   "name": "Our Generation",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 111000,
       "name": "+delusion",
       "url": "https://open.spotify.com/track/7sjUc8BycWG0GPSN7lLQyz"
@@ -254,6 +254,50 @@
       "duration_ms": 178000,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
+    },
+    {
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/0aN0JCVQyKwsTRSzlV1pRL"
+      },
+      "artists": [
+        {
+          "name": "harrry",
+          "url": "https://open.spotify.com/artist/3xQRe0o7kXHEBqYexZjW1T"
+        },
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        },
+        {
+          "name": "loveyouinthemorning",
+          "url": "https://open.spotify.com/artist/3kthD2iW7PK5h94hA11tiP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168234,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/7zwKMNdWrjKVqkVgmkoQVW"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163772,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv"
     },
     {
       "album": {
@@ -1573,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "bathwater",
+        "url": "https://open.spotify.com/album/0UxSa6nePd4EEGq4gEEdlN"
+      },
+      "artists": [
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208239,
+      "name": "bathwater",
+      "url": "https://open.spotify.com/track/1sMjQIa3jeyk2L5nXNFYwX"
+    },
+    {
+      "album": {
         "name": "bbydoll",
         "url": "https://open.spotify.com/album/5U69I8URn5ZJZVR2lpB5XO"
       },
@@ -2573,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/6tIMT1JvRvkGh2FpxacyBU"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Hall",
+          "url": "https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200574,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/5h6egLpDakVbp8QnBIn8yD"
+    },
+    {
+      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5S7ckddyRxZPKcFwOMlKLS"
       },
@@ -2804,6 +2884,24 @@
       "duration_ms": 167965,
       "name": "By Now",
       "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
+    },
+    {
+      "album": {
+        "name": "Bye Bye .",
+        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Bye Bye .",
+      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
     },
     {
       "album": {
@@ -5296,7 +5394,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176277,
       "name": "Earthworm",
       "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
@@ -5390,7 +5488,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 131066,
       "name": "Eat",
       "url": "https://open.spotify.com/track/40kCK0g07iM65DGFaMb6Cv"
@@ -5664,7 +5762,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207272,
       "name": "Everything Has Changed",
       "url": "https://open.spotify.com/track/2pV9u6adwSpIWao14cMwE4"
@@ -7112,7 +7210,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 194230,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/4uLUT7PEZaxYOVdVlK1YnK"
@@ -7635,6 +7733,24 @@
     },
     {
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5egF45sAEJvROyvQlomzio"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/2LDLjL9TEy9HQqznnDaH3M"
+    },
+    {
+      "album": {
         "name": "Have I Been Living?",
         "url": "https://open.spotify.com/album/0RGPxLAT8PFE04pP79P8JD"
       },
@@ -7982,6 +8098,24 @@
       "duration_ms": 134909,
       "name": "high me raise",
       "url": "https://open.spotify.com/track/5Twl9IMecWukJB5FPPeo28"
+    },
+    {
+      "album": {
+        "name": "highest high",
+        "url": "https://open.spotify.com/album/6pQsNIXTtciKsJ7xbLUDoH"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232456,
+      "name": "highest high",
+      "url": "https://open.spotify.com/track/1nsPzblmbGbZTyj1vCV9mk"
     },
     {
       "album": {
@@ -9479,6 +9613,28 @@
     },
     {
       "album": {
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7"
       },
@@ -10208,6 +10364,24 @@
       "duration_ms": 228699,
       "name": "Kiss My Apocalypse",
       "url": "https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8"
+    },
+    {
+      "album": {
+        "name": "kitty",
+        "url": "https://open.spotify.com/album/1bFj1uD4eavmXYMKywDdeL"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158781,
+      "name": "kitty",
+      "url": "https://open.spotify.com/track/64wLsuDWkTMG2DCgnSc4Ah"
     },
     {
       "album": {
@@ -10976,7 +11150,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 254614,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
@@ -11734,6 +11908,24 @@
       "duration_ms": 137278,
       "name": "Meeting You Once (The End)",
       "url": "https://open.spotify.com/track/4a08u29chwEimXNJ2GbFzA"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "album": {
@@ -13600,7 +13792,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 186805,
       "name": "perspective",
       "url": "https://open.spotify.com/track/3aMW4lkNyt8DprkhSRPWB0"
@@ -14750,7 +14942,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
@@ -16220,7 +16412,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 138857,
       "name": "solo",
       "url": "https://open.spotify.com/track/5tmv0I8TqzOie4jLCf0za0"
@@ -16458,6 +16650,24 @@
       "duration_ms": 169149,
       "name": "special",
       "url": "https://open.spotify.com/track/7wLphY62GSh7PbG8iwD8ox"
+    },
+    {
+      "album": {
+        "name": "Spider-Man",
+        "url": "https://open.spotify.com/album/7pUWKKKzqy7B7Dd3WIWXot"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Spider-Man",
+      "url": "https://open.spotify.com/track/1D3oOPCVW4ARsWz76sJpVA"
     },
     {
       "album": {
@@ -17712,6 +17922,24 @@
       "duration_ms": 190000,
       "name": "THE CURRENCY",
       "url": "https://open.spotify.com/track/6PCkE8Iqcan3jIiGDaba2r"
+    },
+    {
+      "album": {
+        "name": "The Dealer",
+        "url": "https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189371,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy"
     },
     {
       "album": {
@@ -19006,6 +19234,24 @@
       "duration_ms": 203000,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/4NVyvRuKdJXqC7vnJycVjb"
+    },
+    {
+      "album": {
+        "name": "understood",
+        "url": "https://open.spotify.com/album/0e6Vetk0r0IOvgntCewZXB"
+      },
+      "artists": [
+        {
+          "name": "kwes e",
+          "url": "https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138224,
+      "name": "understood",
+      "url": "https://open.spotify.com/track/6ckr4QzYRqDQ1COrVSST9w"
     },
     {
       "album": {

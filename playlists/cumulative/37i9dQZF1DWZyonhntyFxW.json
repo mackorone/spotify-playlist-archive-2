@@ -3077,32 +3077,6 @@
     },
     {
       "album": {
-        "name": "ElDalma x ElNoor",
-        "url": "https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH"
-      },
-      "artists": [
-        {
-          "name": "Alvin",
-          "url": "https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA"
-        },
-        {
-          "name": "Young Giza",
-          "url": "https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1"
-        },
-        {
-          "name": "Keen",
-          "url": "https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy"
-        }
-      ],
-      "date_added": "2026-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 99565,
-      "name": "ElDalma",
-      "url": "https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H"
-    },
-    {
-      "album": {
         "name": "ElNaw Wy",
         "url": "https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb"
       },
@@ -4478,6 +4452,32 @@
       "duration_ms": 170769,
       "name": "KEBDA",
       "url": "https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp"
+    },
+    {
+      "album": {
+        "name": "ElDalma x ElNoor",
+        "url": "https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH"
+      },
+      "artists": [
+        {
+          "name": "Alvin",
+          "url": "https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA"
+        },
+        {
+          "name": "Young Giza",
+          "url": "https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1"
+        },
+        {
+          "name": "Keen",
+          "url": "https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202608,
+      "name": "Keep Calm",
+      "url": "https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H"
     },
     {
       "album": {

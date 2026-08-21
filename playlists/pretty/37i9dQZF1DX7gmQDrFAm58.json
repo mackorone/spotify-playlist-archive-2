@@ -1,12 +1,12 @@
 {
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
-  "num_followers": 84573,
+  "num_followers": 84564,
   "original_name": "Nana Nen\u00ea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJPj5KRTWvOg+htg/xfnkqZLe+4i",
+  "snapshot_id": "AAAAAFBwhRvR0cXPD1QUQdCxFoEd2xNu",
   "tracks": [
     {
       "added_at": "2026-06-15 08:57:04",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Quiet Love",
-        "url": "https://open.spotify.com/album/5USSIjBHs0LS48wAFYJv4r"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lund",
-          "url": "https://open.spotify.com/artist/1MgohlJcGnJQ8YHutASnnt"
-        }
-      ],
-      "duration_ms": 112705,
-      "name": "Quiet Love",
-      "url": "https://open.spotify.com/track/5KsDvwjhVfW1SHh4jwxYrz"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Three Jolly Fishermen",
         "url": "https://open.spotify.com/album/52LqGrg4oRQmr6skk5RIuV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 78073,
       "name": "Three Jolly Fishermen",
       "url": "https://open.spotify.com/track/43F86Pd7zjLtyPx3pxD02P"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Quiet Love",
+        "url": "https://open.spotify.com/album/5USSIjBHs0LS48wAFYJv4r"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lund",
+          "url": "https://open.spotify.com/artist/1MgohlJcGnJQ8YHutASnnt"
+        }
+      ],
+      "duration_ms": 112705,
+      "name": "Quiet Love",
+      "url": "https://open.spotify.com/track/5KsDvwjhVfW1SHh4jwxYrz"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Blissful Reverie",
-        "url": "https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H"
-      },
-      "artists": [
-        {
-          "name": "Alex Dawa",
-          "url": "https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV"
-        }
-      ],
-      "duration_ms": 161216,
-      "name": "Blissful Reverie",
-      "url": "https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Lights Down",
         "url": "https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 114706,
       "name": "Lights Down",
       "url": "https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Blissful Reverie",
+        "url": "https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H"
+      },
+      "artists": [
+        {
+          "name": "Alex Dawa",
+          "url": "https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV"
+        }
+      ],
+      "duration_ms": 161216,
+      "name": "Blissful Reverie",
+      "url": "https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Manx Lullaby",
-        "url": "https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn"
-      },
-      "artists": [
-        {
-          "name": "Cael Everly",
-          "url": "https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd"
-        }
-      ],
-      "duration_ms": 83969,
-      "name": "Manx Lullaby",
-      "url": "https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Robins Song",
         "url": "https://open.spotify.com/album/1asLoMcNOKc0bXr4nO8kOC"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 90085,
       "name": "Robins Song",
       "url": "https://open.spotify.com/track/6kmt5MttMsfQ8amN9xUW0O"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Manx Lullaby",
+        "url": "https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn"
+      },
+      "artists": [
+        {
+          "name": "Cael Everly",
+          "url": "https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd"
+        }
+      ],
+      "duration_ms": 83969,
+      "name": "Manx Lullaby",
+      "url": "https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "My Little Cat",
-        "url": "https://open.spotify.com/album/7DJ3vEW3DcZ1uPYgWQoYuC"
-      },
-      "artists": [
-        {
-          "name": "Taylor S Brooks",
-          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
-        }
-      ],
-      "duration_ms": 125168,
-      "name": "My Little Cat",
-      "url": "https://open.spotify.com/track/1Q6z5u3PE90BMkeqCuWfKK"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Le Mieux",
         "url": "https://open.spotify.com/album/0Y6XNg6UrJxL7T2px6NvDq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 112355,
       "name": "Le Mieux",
       "url": "https://open.spotify.com/track/6qAY1YWDswimKss02PPbiB"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "My Little Cat",
+        "url": "https://open.spotify.com/album/7DJ3vEW3DcZ1uPYgWQoYuC"
+      },
+      "artists": [
+        {
+          "name": "Taylor S Brooks",
+          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
+        }
+      ],
+      "duration_ms": 125168,
+      "name": "My Little Cat",
+      "url": "https://open.spotify.com/track/1Q6z5u3PE90BMkeqCuWfKK"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1403,38 +1403,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Tiny Toddler",
-        "url": "https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj"
-      },
-      "artists": [
-        {
-          "name": "Ken Silverstar",
-          "url": "https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG"
-        }
-      ],
-      "duration_ms": 90551,
-      "name": "Baby Sheep",
-      "url": "https://open.spotify.com/track/37afyLGImyXx8XFfALReAg"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "It's a Small World",
-        "url": "https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l"
-      },
-      "artists": [
-        {
-          "name": "Callum Waterford",
-          "url": "https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame"
-        }
-      ],
-      "duration_ms": 95291,
-      "name": "It's a Small World",
-      "url": "https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL"
       },
@@ -1447,54 +1415,6 @@
       "duration_ms": 116789,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/2tYsjJ92cFc8n0dxV4EhMO"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "To The Moon And Back",
-        "url": "https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz"
-      },
-      "artists": [
-        {
-          "name": "Eijah Nilson",
-          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
-        }
-      ],
-      "duration_ms": 115958,
-      "name": "Bedtime Serenade",
-      "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "Tucked In Tight",
-        "url": "https://open.spotify.com/album/4uLBc4qsjOh6jxxUoqVxkP"
-      },
-      "artists": [
-        {
-          "name": "Little Mishka",
-          "url": "https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n"
-        }
-      ],
-      "duration_ms": 101400,
-      "name": "Tucked In Tight",
-      "url": "https://open.spotify.com/track/5PzRql1K67CzFfWuYsRlNe"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "Sleep Till Morning Comes",
-        "url": "https://open.spotify.com/album/6IH9de87cAOQh4DsFYkg3v"
-      },
-      "artists": [
-        {
-          "name": "Amos Green",
-          "url": "https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY"
-        }
-      ],
-      "duration_ms": 109790,
-      "name": "Sleep Till Morning Comes",
-      "url": "https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1515,6 +1435,54 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
+        "name": "To The Moon And Back",
+        "url": "https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz"
+      },
+      "artists": [
+        {
+          "name": "Eijah Nilson",
+          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
+        }
+      ],
+      "duration_ms": 115958,
+      "name": "Bedtime Serenade",
+      "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Tiny Toddler",
+        "url": "https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj"
+      },
+      "artists": [
+        {
+          "name": "Ken Silverstar",
+          "url": "https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG"
+        }
+      ],
+      "duration_ms": 90551,
+      "name": "Baby Sheep",
+      "url": "https://open.spotify.com/track/37afyLGImyXx8XFfALReAg"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Tucked In Tight",
+        "url": "https://open.spotify.com/album/4uLBc4qsjOh6jxxUoqVxkP"
+      },
+      "artists": [
+        {
+          "name": "Little Mishka",
+          "url": "https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n"
+        }
+      ],
+      "duration_ms": 101400,
+      "name": "Tucked In Tight",
+      "url": "https://open.spotify.com/track/5PzRql1K67CzFfWuYsRlNe"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
         "name": "Lullaby Land",
         "url": "https://open.spotify.com/album/241TGPQPSZ5HqcyP4iSvJN"
       },
@@ -1527,6 +1495,38 @@
       "duration_ms": 93695,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/1iQnGjpwi75756UHViEqjN"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "It's a Small World",
+        "url": "https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l"
+      },
+      "artists": [
+        {
+          "name": "Callum Waterford",
+          "url": "https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame"
+        }
+      ],
+      "duration_ms": 95291,
+      "name": "It's a Small World",
+      "url": "https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Sleep Till Morning Comes",
+        "url": "https://open.spotify.com/album/6IH9de87cAOQh4DsFYkg3v"
+      },
+      "artists": [
+        {
+          "name": "Amos Green",
+          "url": "https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY"
+        }
+      ],
+      "duration_ms": 109790,
+      "name": "Sleep Till Morning Comes",
+      "url": "https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Golden Dreams",
-        "url": "https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW"
-      },
-      "artists": [
-        {
-          "name": "Arlo Fry",
-          "url": "https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs"
-        }
-      ],
-      "duration_ms": 108082,
-      "name": "Golden Dreams",
-      "url": "https://open.spotify.com/track/7K3ct3kNB4DbmABnWsuPIq"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "BINGO",
         "url": "https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 130933,
       "name": "BINGO",
       "url": "https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Golden Dreams",
+        "url": "https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW"
+      },
+      "artists": [
+        {
+          "name": "Arlo Fry",
+          "url": "https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs"
+        }
+      ],
+      "duration_ms": 108082,
+      "name": "Golden Dreams",
+      "url": "https://open.spotify.com/track/7K3ct3kNB4DbmABnWsuPIq"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Baby Miracle",
-        "url": "https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi"
-      },
-      "artists": [
-        {
-          "name": "Nattkvisten",
-          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
-        }
-      ],
-      "duration_ms": 111893,
-      "name": "Baby Miracle",
-      "url": "https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Little Ballerina",
         "url": "https://open.spotify.com/album/7bLaVvG89oTvjZJcGWp8kO"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 94568,
       "name": "Little Ballerina",
       "url": "https://open.spotify.com/track/0iVFnnn0nCjdv2XhlO7BA9"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Baby Miracle",
+        "url": "https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi"
+      },
+      "artists": [
+        {
+          "name": "Nattkvisten",
+          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "Baby Miracle",
+      "url": "https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec"
     },
     {
       "added_at": "2026-06-15 08:57:04",

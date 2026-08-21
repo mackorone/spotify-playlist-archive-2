@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Tizzy Bac",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u6eab\u5ba4\u96dc\u8349 ",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
+    {
+      "album": {
+        "name": "100 \u79d2\u7684\u7d05\u71c8",
+        "url": "https://open.spotify.com/album/2FkIYUkkY4MyfOoz90hVb7"
+      },
+      "artists": [
+        {
+          "name": "\u666e\u901a\u968a\u9577",
+          "url": "https://open.spotify.com/artist/5qJoZTy9eeE8I3U87jtHXo"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174378,
+      "name": "100 \u79d2\u7684\u7d05\u71c8",
+      "url": "https://open.spotify.com/track/0NJh6C9p5trVG3R0S5UlMV"
+    },
     {
       "album": {
         "name": "13% off Christmas",
@@ -8508,6 +8526,24 @@
       "duration_ms": 219826,
       "name": "\u5477\u98fd\u672a",
       "url": "https://open.spotify.com/track/7lvF3m9QnWYI2NxmDu1GDi"
+    },
+    {
+      "album": {
+        "name": "\u547d\u76e4",
+        "url": "https://open.spotify.com/album/5MxrQp3LYMxmkB0SpCwx3h"
+      },
+      "artists": [
+        {
+          "name": "\u6eab\u5ba4\u96dc\u8349",
+          "url": "https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349875,
+      "name": "\u547d\u76e4",
+      "url": "https://open.spotify.com/track/7pj3Y9AthzXugrA4aLSqsH"
     },
     {
       "album": {

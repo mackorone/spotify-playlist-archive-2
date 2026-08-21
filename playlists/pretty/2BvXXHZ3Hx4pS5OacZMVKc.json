@@ -1,13 +1,37 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 130233,
+  "num_followers": 130230,
   "original_name": "Gaming Music 2026",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMnb+cmWNL8R7R2BGDfZjRncRrWmHK",
+  "snapshot_id": "AAAMnkMrtO5MZ5c2rzX59fIIUdWnK3CO",
   "tracks": [
+    {
+      "added_at": "2026-08-20 09:17:47",
+      "album": {
+        "name": "Nobody Around",
+        "url": "https://open.spotify.com/album/0LIVRejBIFEyxlRoJjW2XE"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "CRVN",
+          "url": "https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Nobody Around",
+      "url": "https://open.spotify.com/track/0WGqG0Pg2Cyrj0FWBQS5s5"
+    },
     {
       "added_at": "2026-07-17 09:08:21",
       "album": {

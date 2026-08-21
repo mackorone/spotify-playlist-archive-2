@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 irossa sui vostri schermi
 
-2,023 songs - 4 day 16 hr 54 min
+2,024 songs - 4 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [A Luci Spente](https://open.spotify.com/track/6JLRMYtXE2rAEomsse0uns) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [A Luci Spente](https://open.spotify.com/album/2dQE0RL9VUoGiKtqeV0UXa) | 3:31 | 2025-11-06 | 2026-01-23 |
 | [A metà](https://open.spotify.com/track/1s6RyRMHG9wfHC1UEQ7ndJ) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [A metà](https://open.spotify.com/album/6u254JwNZjXr1cFrAGG2Q8) | 3:53 | 2024-02-22 | 2024-04-19 |
 | [a minute a moment](https://open.spotify.com/track/5lKxgT7JyS3nqVVrypMonw) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/5E6aswcc0puXAQvvGuzOtp) | 3:23 | 2026-01-29 | 2026-02-03 |
-| [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 | 2026-02-02 |  |
+| [a minute a moment](https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [MONOSTATIC](https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD) | 3:23 | 2026-02-02 | 2026-08-21 |
 | [A New Light](https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE) | [Amarcord](https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp), [Altutt](https://open.spotify.com/artist/7JHeVFGMb4p2Ayq1jU0g3p) | [A New Light](https://open.spotify.com/album/15Zt9VuEljTvIzCAQo6Ge9) | 3:35 | 2023-02-02 | 2023-04-02 |
 | [a proposito della neve bagnata](https://open.spotify.com/track/6dmLwIck9rCnPxDKOW8y04) | [Forse fa solo freddo](https://open.spotify.com/artist/0cKGZFaR4VqpykFHa0CRYq) | [a proposito della neve bagnata](https://open.spotify.com/album/0uTGblN00dM8pYzZb4Gzum) | 1:45 | 2026-04-23 | 2026-05-15 |
 | [A step to lose the balance](https://open.spotify.com/track/0cncltlVleqwfPtzS1hOdy) | [Corde Oblique](https://open.spotify.com/artist/2GjsEox2Zh6hdrFGq8EbUF) | [A step to lose the balance](https://open.spotify.com/album/39LWCLOWDQSSqHYeOkhNvx) | 4:40 | 2024-11-07 | 2024-11-29 |
@@ -657,6 +657,7 @@
 | [Franco Panini](https://open.spotify.com/track/2rs9NJEszvoO27Y7nOtseo) | [The Junction](https://open.spotify.com/artist/2cqOnMxNuwhIwkMQBgj5J2) | [Franco Panini](https://open.spotify.com/album/6xYnxLBEx4JjuS7Bm7Ocur) | 3:31 | 2022-12-15 | 2023-01-11 |
 | [FRATM](https://open.spotify.com/track/5AkwdXb5L3A0gcSSCVHtnt) | [Zack](https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO) | [BOOM!](https://open.spotify.com/album/0Ne4vQ3lRUpF1KESNe52sh) | 2:34 | 2024-06-06 | 2024-09-13 |
 | [Freakin'late](https://open.spotify.com/track/2Cq7rJrEM0Ap5kYUqYP5WI) | [Wilt/Plvce](https://open.spotify.com/artist/6WgDlmIyHKpjFNSAwGmLAr) | [Freakin'late](https://open.spotify.com/album/68X36QU0b3MRguamrJR5I3) | 3:22 | 2023-08-31 | 2023-10-06 |
+| [Freccia Rossa](https://open.spotify.com/track/4H6CGn4vlCTitULeFQX2Oo) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [La distanza tra noi e la riva](https://open.spotify.com/album/6lABr1q9xWtpu2it0p8uOi) | 4:16 | 2026-08-20 |  |
 | [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 | 2023-03-02 | 2023-04-04 |
 | [Freddy Krueger](https://open.spotify.com/track/0cKNxtpixpYANQTUs168su) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [DIRTY](https://open.spotify.com/album/1K5OLvgZOg4Ix9MMrQqqyc) | 3:05 | 2023-07-06 | 2023-11-17 |
 | [Frequenziale](https://open.spotify.com/track/3BCNQFt9XvtxviIStlTyOC) | [Globuli Rossi](https://open.spotify.com/artist/3c3mBi2xIhtnP9dvZCnwnk) | [Frequenziale](https://open.spotify.com/album/0zecLKNWc910LiaXnQJ2fv) | 2:08 | 2025-02-27 | 2025-03-28 |

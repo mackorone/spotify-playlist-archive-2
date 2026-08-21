@@ -894,7 +894,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 371321,
       "name": "Back to the Old School",
       "url": "https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6"
@@ -4773,6 +4773,32 @@
     },
     {
       "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
+    },
+    {
+      "album": {
         "name": "High On Me",
         "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
       },
@@ -5174,7 +5200,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 336567,
       "name": "I See You Baby (feat. Gramma Funk) - DJ BORING Remix",
       "url": "https://open.spotify.com/track/3RaOSNfKdHUMfrbBpzcnJ6"
@@ -8045,6 +8071,24 @@
     },
     {
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/5zN1b1OpRWtQCGggVuvlNL"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/49tm2VZn9ALfFZChssSHHh"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
@@ -9744,7 +9788,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 220312,
       "name": "Sing It Back",
       "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
@@ -11127,6 +11171,24 @@
     },
     {
       "album": {
+        "name": "The Revolution",
+        "url": "https://open.spotify.com/album/0rfqd6ffnEihhEizU9QTxH"
+      },
+      "artists": [
+        {
+          "name": "Cozmic Cat",
+          "url": "https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207984,
+      "name": "The Revolution",
+      "url": "https://open.spotify.com/track/6a8dInL7KpHA7g5fxGZPgQ"
+    },
+    {
+      "album": {
         "name": "The Shiver",
         "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
       },
@@ -11182,7 +11244,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 380625,
       "name": "The Whistle Tune",
       "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
@@ -11348,6 +11410,24 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "album": {
+        "name": "'Cause I Can",
+        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
     },
     {
       "album": {

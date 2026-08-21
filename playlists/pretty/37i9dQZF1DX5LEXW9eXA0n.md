@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: HYNN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,667 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,677 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [한마디](https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU) | [Ahn Yeseul](https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl) | [한마디](https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ) | 3:30 |
 | 100 | [When It’s Called Love](https://open.spotify.com/track/6iDfmFtNZGtXnpok8E7kbS) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON Digital Single ‘When It’s Called Love’](https://open.spotify.com/album/5cXFzlzAkJjKZU6mys5NEV) | 2:50 |
 
-Snapshot ID: `AAAAADO0S/HQ3c5A5QuGmcHVDz9bVkZZ`
+Snapshot ID: `AAAAABddHlEA4TMRvOp4r+MCzMIAXCyO`

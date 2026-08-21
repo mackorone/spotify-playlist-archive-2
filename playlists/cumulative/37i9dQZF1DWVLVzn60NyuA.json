@@ -3445,6 +3445,28 @@
     },
     {
       "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
+    },
+    {
+      "album": {
         "name": "Django",
         "url": "https://open.spotify.com/album/6b7lk6pIL6dN1cijCTqSjj"
       },
@@ -4708,6 +4730,32 @@
       "duration_ms": 152523,
       "name": "Gonn Do",
       "url": "https://open.spotify.com/track/2U15IErwpwD0ZXSAOwOpJc"
+    },
+    {
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1yXoCYl6ztNwguaidTQy2Y"
+      },
+      "artists": [
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        },
+        {
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
+        },
+        {
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180834,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/7wmgtLsS8IpBCPHjFiVrd3"
     },
     {
       "album": {
@@ -6592,6 +6640,28 @@
       "duration_ms": 331636,
       "name": "Love is Alive - Original",
       "url": "https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/03EOLpqJuTVPGqYkgoUE9A"
+      },
+      "artists": [
+        {
+          "name": "Rabiaa",
+          "url": "https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172625,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5z3wDXZKRW2vYjNQ3itkZe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: for KING & COUNTRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,238 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,262 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 58 | [SAY DAT](https://open.spotify.com/track/3KuFTFbzqhIjzAcWips1YY) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [MotoMoe](https://open.spotify.com/artist/2ro7RN7fffMC3WNJCSKX6n) | [SAY DAT](https://open.spotify.com/album/40XmXTwiogCPqMx84K3sZg) | 2:25 |
 | 59 | [GOODBYE 2 OLD ME](https://open.spotify.com/track/4bqSz8o52LIAEO4l5FDshO) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [GOODBYE 2 OLD ME](https://open.spotify.com/album/5wKs7EtlFsXVuptRgqpQ86) | 2:44 |
 | 60 | [POKEDEX](https://open.spotify.com/track/2nJjqgDKKMortxozu6EJu3) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [POKEDEX](https://open.spotify.com/album/6AsUd11YrLTRlDkREQ0Szh) | 1:30 |
-| 61 | [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 2:17 |
+| 61 | [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 1:55 |
 | 62 | [SHOUT TO THE MOON](https://open.spotify.com/track/7MAXikDmj42EcL3HSak5Ki) | [Myles Maestro](https://open.spotify.com/artist/5u2fFFwd5O5KivnDHrYWg3) | [SHOUT TO THE MOON](https://open.spotify.com/album/6ON7L1dBSF1hpczomYymSz) | 3:38 |
 | 63 | [ON EARTH \(REIMAGINED\)](https://open.spotify.com/track/6ox54vK0mDZHgW59IEMl4g) | [E.B\. and Shane Cole](https://open.spotify.com/artist/0BeveypmiG5rdXcOQBhNp3) | [ON EARTH \(REIMAGINED\)](https://open.spotify.com/album/3fGM5IRyCy60l810PmxS12) | 5:23 |
 | 64 | [Lift Me Up](https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Lift Me Up](https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [How Long Till Heaven Comes Down](https://open.spotify.com/track/7CvAyotGIP8asMi1FPoJRY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [How Long Till Heaven Comes Down](https://open.spotify.com/album/19m15vevD2eQWIh6ChWeor) | 4:21 |
 | 100 | [I Just Feel Like Something Good Is About to Happen](https://open.spotify.com/track/6WU04iW58hgbVq4ktGqff8) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Angela Primm](https://open.spotify.com/artist/7CUYweCBLcGYHhXo0gt0ss), [Amy Perry](https://open.spotify.com/artist/4vLFAWkUU2ZDPqdI4NENjw) | [I Just Feel Like Something Good Is About to Happen](https://open.spotify.com/album/02l8k05zSlszR66dMtrBkm) | 4:15 |
 
-Snapshot ID: `AAAAAEqp05Hpv7DNyocp7CvjHroq/EAx`
+Snapshot ID: `AAAAAGzl6Rz2zNLFeg7KHyw9EBAy4qhT`

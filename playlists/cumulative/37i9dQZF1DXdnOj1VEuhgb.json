@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Lvbel C5",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Khontkar, Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -222,6 +222,28 @@
       "duration_ms": 147000,
       "name": "16-24",
       "url": "https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi"
+    },
+    {
+      "album": {
+        "name": "IN THE CLUB",
+        "url": "https://open.spotify.com/album/7CYSwioxEydKCLDQHrbtxs"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120240,
+      "name": "2 KUZUKULAGI",
+      "url": "https://open.spotify.com/track/1hfS5LuAiQPCjJHBKAhqdZ"
     },
     {
       "album": {
@@ -1672,7 +1694,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 153600,
       "name": "Anti-Depresyon",
       "url": "https://open.spotify.com/track/0oZwCG6rpRa1hTmyZXxK1g"
@@ -3986,7 +4008,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185714,
       "name": "Bor\u00e7",
       "url": "https://open.spotify.com/track/532Na4VRMgoWzLH8Nd0hSO"
@@ -7021,6 +7043,32 @@
     },
     {
       "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/4bAamQMysxekb1UJ7nGR7G"
+      },
+      "artists": [
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Tuby",
+          "url": "https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/6Cd4tpGCTQnxkKVWsy6AUA"
+    },
+    {
+      "album": {
         "name": "FLEX SO HARD RMX",
         "url": "https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr"
       },
@@ -7682,6 +7730,50 @@
       "duration_ms": 125599,
       "name": "Geriye D\u00f6nemem",
       "url": "https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f"
+    },
+    {
+      "album": {
+        "name": "gez bloklarda",
+        "url": "https://open.spotify.com/album/2u2R6ormKGTHTdsIIaC6II"
+      },
+      "artists": [
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        },
+        {
+          "name": "BAR BIA",
+          "url": "https://open.spotify.com/artist/6tpQwZFjeQbKo0B2S7fZGg"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138519,
+      "name": "gez bloklarda",
+      "url": "https://open.spotify.com/track/53up6mr9jfFyrVfTJxwJXC"
+    },
+    {
+      "album": {
+        "name": "SIESTA",
+        "url": "https://open.spotify.com/album/6QX71ykL3Y8Kvv7IcD9juh"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Gezegenler Birle\u015fir",
+      "url": "https://open.spotify.com/track/2j6018mpTYd8d0537DIYzt"
     },
     {
       "album": {
@@ -8462,6 +8554,24 @@
       "duration_ms": 160000,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
+    },
+    {
+      "album": {
+        "name": "HAD\u0130 YA",
+        "url": "https://open.spotify.com/album/4jBSwSXtkU5xysfGlrctkF"
+      },
+      "artists": [
+        {
+          "name": "Alroca",
+          "url": "https://open.spotify.com/artist/3JXBXuCkqGWJKjli3bu15K"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109440,
+      "name": "HAD\u0130 YA",
+      "url": "https://open.spotify.com/track/47QmZt5F9bVvHlE14T1s4i"
     },
     {
       "album": {
@@ -10836,7 +10946,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 121760,
       "name": "KALBE KUR\u015eUN \u0130\u015eLEMEZ",
       "url": "https://open.spotify.com/track/0Frgwg3xttMqzGSZ7l5FRe"
@@ -11112,7 +11222,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172160,
       "name": "Kan\u0131ma",
       "url": "https://open.spotify.com/track/0nUqJFiJuBxYNh39Z72KL2"
@@ -13902,7 +14012,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 194122,
       "name": "mavi ay",
       "url": "https://open.spotify.com/track/2676GKWWnKEGJVkTZmv2yz"
@@ -13960,7 +14070,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 156986,
       "name": "MAYMUN",
       "url": "https://open.spotify.com/track/6CsoVateFOK4JEoMZx0NxI"
@@ -15540,6 +15650,24 @@
       "duration_ms": 124173,
       "name": "olsun",
       "url": "https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A"
+    },
+    {
+      "album": {
+        "name": "Olsun",
+        "url": "https://open.spotify.com/album/74v2vm82tfA8nTM9rm8HTX"
+      },
+      "artists": [
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188479,
+      "name": "Olsun",
+      "url": "https://open.spotify.com/track/6fsXUwx1fFULeH4nmR3AaJ"
     },
     {
       "album": {
@@ -17660,7 +17788,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 149567,
       "name": "sanma ki ya\u015f\u0131yorum",
       "url": "https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs"
@@ -18129,6 +18257,28 @@
     },
     {
       "album": {
+        "name": "Senin Olmama Ra\u011fmen",
+        "url": "https://open.spotify.com/album/1XYUs8xq2FEj3PqQ6cKbp5"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Piyanc\u0131",
+          "url": "https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae"
+        },
+        {
+          "name": "Efe Parlakdemir",
+          "url": "https://open.spotify.com/artist/1YHRtY8rMtXm5pzmtfE3eV"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152638,
+      "name": "Senin Olmama Ra\u011fmen",
+      "url": "https://open.spotify.com/track/3qumCYCiB3Rpuqnw6AdHBl"
+    },
+    {
+      "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
       },
@@ -18388,6 +18538,32 @@
       "duration_ms": 168000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/7qvOPqDhi5dv3qpHONKtvd"
+    },
+    {
+      "album": {
+        "name": "SEYMENMOMENT",
+        "url": "https://open.spotify.com/album/3qXyKZqZzI4rlHYlMPxdQP"
+      },
+      "artists": [
+        {
+          "name": "GRi",
+          "url": "https://open.spotify.com/artist/14jxoAO0NACMii5AuV4pnB"
+        },
+        {
+          "name": "Abugat",
+          "url": "https://open.spotify.com/artist/2KPINxWCVBb9yxO8xKtdFh"
+        },
+        {
+          "name": "SANC",
+          "url": "https://open.spotify.com/artist/4nU7wr9diAEypZ6Ei3MLeM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145812,
+      "name": "SEYMENMOMENT",
+      "url": "https://open.spotify.com/track/310Ma3rk2aolXmCt1nwCeY"
     },
     {
       "album": {
@@ -18863,6 +19039,28 @@
     },
     {
       "album": {
+        "name": "Son Mum",
+        "url": "https://open.spotify.com/album/4UnU3b7VlR0jxxM6kZOSm3"
+      },
+      "artists": [
+        {
+          "name": "Sansar Salvo",
+          "url": "https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9"
+        },
+        {
+          "name": "Volt",
+          "url": "https://open.spotify.com/artist/2EZY0VASOYzEheftuL1KeB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215241,
+      "name": "Son Mum",
+      "url": "https://open.spotify.com/track/11Cz8crr2qwLEHwv1HFhMD"
+    },
+    {
+      "album": {
         "name": "SONBAHAR",
         "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
       },
@@ -19028,7 +19226,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 120461,
       "name": "SSS",
       "url": "https://open.spotify.com/track/5TfWjnUm5l3TKx6bPuwKsY"
@@ -19950,7 +20148,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161500,
       "name": "TEQUILA SUNRISE",
       "url": "https://open.spotify.com/track/482TpzTIJWTZ6uEY0JifRU"

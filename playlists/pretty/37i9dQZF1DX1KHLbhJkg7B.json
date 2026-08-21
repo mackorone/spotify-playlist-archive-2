@@ -1,12 +1,12 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136717,
+  "num_followers": 136714,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsjyYpTVYr+riQ7oBYTIshgMtYS",
+  "snapshot_id": "AAAAAMwMF0xBcmlJVT1Ntxx6NuvJgDY0",
   "tracks": [
     {
       "added_at": "2026-07-23 22:45:25",
@@ -715,22 +715,18 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Feelin' Good Again",
-        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
+        "name": "No More Tears (live from the let go letters tour)",
+        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 216502,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
+      "duration_ms": 231155,
+      "name": "No More Tears - live from the let go letters tour",
+      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -755,18 +751,22 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "No More Tears (live from the let go letters tour)",
-        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
+        "name": "Feelin' Good Again",
+        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 231155,
-      "name": "No More Tears - live from the let go letters tour",
-      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
+      "duration_ms": 216502,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        },
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Still The One",
         "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 241280,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Blinding Lights (Country Version)",
-        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Blinding Lights - Country Version",
-      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 177867,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Blinding Lights (Country Version)",
+        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Blinding Lights - Country Version",
+      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 237613,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Pure BS (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
         "name": "If The World Was Ending",
         "url": "https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 208597,
       "name": "If The World Was Ending",
       "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2026-07-23 22:45:25",

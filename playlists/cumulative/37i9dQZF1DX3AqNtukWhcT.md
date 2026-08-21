@@ -4,7 +4,7 @@
 
 > Soft and soothing beats for all your yoga practices.
 
-300 songs - 14 hr 34 min
+307 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [cirrus](https://open.spotify.com/track/4GPggSBR3PNu6qTjDGNHLo) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [cirrus](https://open.spotify.com/album/71TDVgmpDHv7EjSEs4lvtc) | 2:05 | 2026-01-16 | 2026-06-30 |
 | [Clarity](https://open.spotify.com/track/4iOmGQQbhV8tunBS1y5yqT) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Clarity](https://open.spotify.com/album/1BY5nBH8o0jS8QMr9EshCW) | 2:30 | 2024-06-11 | 2025-11-26 |
 | [Clean Sheets](https://open.spotify.com/track/6iSwHHJCAUFpA1TrgKYk7s) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Clean Sheets](https://open.spotify.com/album/1FKGxbx8C5wjzLJjcQ1Zht) | 2:07 | 2025-11-25 |  |
+| [cloudycalm](https://open.spotify.com/track/0JJfO3qTZdcNuuOgwuzke9) | [hushpapi](https://open.spotify.com/artist/7wNCIjvREOe3XzXiykYwOU) | [cloudycalm](https://open.spotify.com/album/5pZmI3bAl2J4izs9gtNnPi) | 2:17 | 2026-08-20 |  |
 | [cocoon](https://open.spotify.com/track/79nz6puC2rx26h5JHH2sju) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [cocoon](https://open.spotify.com/album/2vsxrL5VXH4bi6FX2uHbVO) | 2:28 | 2025-11-25 |  |
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-09-02 | 2023-06-22 |
 | [Compassion](https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Compassion](https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP) | 2:23 | 2023-12-01 | 2024-09-07 |
@@ -71,6 +72,7 @@
 | [Dreamwalker](https://open.spotify.com/track/6O42QZVJXVbThqGmVf81av) | [Mearlorne](https://open.spotify.com/artist/3qBmBfvM7WekY4GCLnU9vk) | [Dreamwalker](https://open.spotify.com/album/7DG1RTtJnpGzSNVJmAsil9) | 2:33 | 2022-09-02 | 2025-11-26 |
 | [drowse](https://open.spotify.com/track/28DC7ed7WyifmElgEnqzZ4) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [drowse](https://open.spotify.com/album/1lVtgDrmobIrOKTqQiqgmS) | 2:31 | 2026-01-14 |  |
 | [Drums of Shamanic Ritual](https://open.spotify.com/track/0zbUcJfHT0cvEpxOmIlKNx) | [Relaxing Zen Music Therapy](https://open.spotify.com/artist/1uWS5oGawRMbrNpjVFOqAp) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:43 | 2022-09-02 | 2022-10-26 |
+| [Dusk](https://open.spotify.com/track/1cFqfTC3SI994GgFsyT3jE) | [Rosvägen](https://open.spotify.com/artist/5tZkaXlTrIPYDgpt3qFh7i) | [Dusk](https://open.spotify.com/album/1i5XJQ4Vn3kLxbr9GYO0IR) | 1:49 | 2026-08-20 |  |
 | [Détente \(Hang drum\)](https://open.spotify.com/track/799kB7l9LSSlsz4MMaoaok) | [Yoga Exercices Club](https://open.spotify.com/artist/5NlewSfsj9UeVhTKJrNip9) | [Yoga del Mar – Cours de Yoga et Pilates, musique d'ambience et ambient lounge pour Hatha Yoga et Power Pilates](https://open.spotify.com/album/3JXmupCoVuKGHGL2ji1Xbg) | 5:26 | 2022-09-02 | 2023-01-21 |
 | [Earth Dance](https://open.spotify.com/track/4maygfMYgTjmLYC5byUjo0) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Earth Dance](https://open.spotify.com/album/78LWNoi31VHKxGrqCF9iNG) | 2:53 | 2025-04-15 | 2025-11-26 |
 | [Edasi](https://open.spotify.com/track/7ytnlVd8PmIQKbIz0xDEls) | [Lõhmus](https://open.spotify.com/artist/3TybHE2vGmjjIgpEpoogjE) | [Edasi](https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4) | 3:42 | 2022-09-02 | 2025-11-26 |
@@ -142,6 +144,7 @@
 | [left behind](https://open.spotify.com/track/4y4DDo47fpa1i2952fWVoB) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [alcinous](https://open.spotify.com/artist/5exJeWiFSaSkGtUAThzDB2) | [left behind](https://open.spotify.com/album/4baeFGkwxGeCWFOilNpVgU) | 2:17 | 2026-05-15 |  |
 | [Let It Rain](https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo) | [Travertina](https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu) | [Let It Rain](https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5) | 2:31 | 2025-11-25 | 2026-01-15 |
 | [Life Is A Gift](https://open.spotify.com/track/6FDQviX4rM4mZJIqM9Gqih) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [The Rising](https://open.spotify.com/album/3mrcdI2YVDyjCZNtNeoOkf) | 2:59 | 2022-12-22 | 2025-11-26 |
+| [lily pond](https://open.spotify.com/track/5iwzIBnwk556Ahx63S7zPq) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [lily pond](https://open.spotify.com/album/1Zg2fLxNsJ56HG6LQsAPum) | 2:12 | 2026-08-20 |  |
 | [Lines of Mauve](https://open.spotify.com/track/0frLn0SaBgSQbRMbL2fpxG) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Lines of Mauve](https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V) | 3:20 | 2022-10-25 | 2025-11-26 |
 | [Liquid Moment](https://open.spotify.com/track/0l6oPvmPJ8b7PV2Oh0XkLI) | [oopiie](https://open.spotify.com/artist/29EJ2RABrsV5Do2YXqTlv1) | [Liquid Moment](https://open.spotify.com/album/0QzTkTDFUfs6dvWn4sFvsF) | 2:20 | 2025-11-25 | 2026-01-15 |
 | [Loden Purple](https://open.spotify.com/track/36vXzVFL3oT6Xyh1KzjtzY) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:30 | 2022-09-02 | 2023-06-22 |
@@ -197,10 +200,13 @@
 | [Pristine](https://open.spotify.com/track/6Nyf9PLKOI0IipkxXPnwdY) | [Óneiro agápis](https://open.spotify.com/artist/7txteNFusnMTkAZhJMqZj3) | [Ergo](https://open.spotify.com/album/6lso3LVOMoZjyInhTdXQzq) | 2:20 | 2022-09-02 | 2025-02-14 |
 | [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2022-10-25 | 2025-11-26 |
 | [Puddles](https://open.spotify.com/track/1LSdqUTKdIyeOz8dARVOe9) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Puddles](https://open.spotify.com/album/2t29gQrwKhC4ugQHGelet2) | 2:32 | 2024-06-11 | 2025-11-26 |
+| [puffer](https://open.spotify.com/track/2rtudDsdr1FJrTkis1ENyD) | [Gro](https://open.spotify.com/artist/3J9dqkHC9cq5gOwEUP86wJ) | [puffer](https://open.spotify.com/album/4gEl6azjyCP974ryvpGsXk) | 2:07 | 2026-08-20 |  |
 | [Pulse Of Peace](https://open.spotify.com/track/519vhV6AQMbb2FU6IaXcbe) | [Mt Kailash](https://open.spotify.com/artist/5G5FGND8Z8H1gKvdI1yDA4) | [Pulse Of Peace](https://open.spotify.com/album/5wPlcCI06LB2YzRGav0XI8) | 3:00 | 2022-09-02 | 2025-01-08 |
 | [Purity](https://open.spotify.com/track/4fu3B9ZiZThtlawPjsXy9q) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Oxygen](https://open.spotify.com/album/6xKe8eYdAqko4lwgPh9m7K) | 2:51 | 2023-06-21 | 2025-01-08 |
 | [Queen West Blues](https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Queen West Blues](https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW) | 2:21 | 2022-09-02 | 2025-11-26 |
+| [Quiet Lines](https://open.spotify.com/track/2LTeWAliRR6nJjb8avw0V5) | [Paler Blue](https://open.spotify.com/artist/6MUuwk8degW5jb94Aa2ziL) | [Quiet Lines](https://open.spotify.com/album/2DKGpth1fXiqIbYax66iT2) | 1:46 | 2026-08-20 |  |
 | [quiet stories](https://open.spotify.com/track/53SIQUu8UytBBUGso9m1RB) | [cosmo cat](https://open.spotify.com/artist/1noZJDxgC7jVP1t4Vgowms) | [quiet stories](https://open.spotify.com/album/46WWGYOqQmznEgil5VjOlh) | 2:08 | 2026-06-11 |  |
+| [Quietude](https://open.spotify.com/track/4y3mdViy762R955psB5OhT) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Quietude](https://open.spotify.com/album/2bQqjXPv0U52wf7p1bohPj) | 2:42 | 2026-08-20 |  |
 | [Ra](https://open.spotify.com/track/46WdVsTQR8oNSCz9TQTWup) | [Phumos](https://open.spotify.com/artist/4Kbma5Q6AakN90M13bF7mh) | [Ra](https://open.spotify.com/album/5iAKOHMEOZsRCvICTyDVuE) | 2:36 | 2023-08-11 | 2025-11-26 |
 | [Refract](https://open.spotify.com/track/4SW4q0IUhjq0upc0RFWM92) | [another night](https://open.spotify.com/artist/4jnXjSSUawBRoBGYAFYyGH) | [Refract](https://open.spotify.com/album/0sI4JTK1tPNvCROe0q362J) | 2:22 | 2026-01-14 |  |
 | [Reminiscing Hearts](https://open.spotify.com/track/6YfViY3EL57dtCnLlAAneM) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Reminiscing Hearts](https://open.spotify.com/album/4vF15grtrtvIXCWVtEZm7t) | 3:03 | 2025-09-30 | 2025-11-26 |
@@ -256,6 +262,7 @@
 | [Straight](https://open.spotify.com/track/3S157arhUxGRk5KMXQoH5I) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:21 | 2022-09-02 | 2023-08-12 |
 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 | 2025-11-25 |  |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-09-02 | 2022-11-26 |
+| [suburbia](https://open.spotify.com/track/5Z1qcRRM1b2YC0kafJLS2V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [suburbia](https://open.spotify.com/album/6s2DtWZkxBjJL1jyCCoZ4V) | 2:17 | 2026-08-20 |  |
 | [Summer Rain](https://open.spotify.com/track/2UkYVdcEStyKcLJy97Fcyb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Summer Rain](https://open.spotify.com/album/7GJb0jmfVGvtepXZflXny5) | 2:30 | 2024-07-13 | 2025-11-26 |
 | [Summer Sun](https://open.spotify.com/track/1GEWUEFm1XZeJc96Md6jIy) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Summer Sun](https://open.spotify.com/album/3ziksW8z4ispPgY7aRuXWe) | 2:20 | 2022-09-02 | 2025-02-14 |
 | [Sun Prayer](https://open.spotify.com/track/0KHcH20cePIP8078vLJljF) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Sun Prayer](https://open.spotify.com/album/2lJ6lbA5YHvcx9WM12Dnhr) | 3:32 | 2022-09-02 | 2023-01-21 |

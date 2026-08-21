@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Tete \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,299 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,319 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 99 | [Driving](https://open.spotify.com/track/5sWtchuJsOQFmX0SDn3ai1) | [16](https://open.spotify.com/artist/77IeznkiGkElBYV1hfo7k4) | [Driving](https://open.spotify.com/album/3XRT0QIm7eyjstGyaL9Zya) | 2:35 |
 | 100 | [Self Friday](https://open.spotify.com/track/79WvtR3PHx2ynu7RBaISe7) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [Self Friday](https://open.spotify.com/album/5ojERtMLLd8iXVj9PNJXkF) | 2:14 |
 
-Snapshot ID: `AAAAALILjyLPjoBmpO/3MK9olBA4VRhq`
+Snapshot ID: `AAAAAOgyfJ9PAd8GP3rg/5J76+4G61LY`

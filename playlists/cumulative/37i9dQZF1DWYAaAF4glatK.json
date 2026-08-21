@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : Ofenbach",
+  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : GIMS",
   "name": "hits de l'\u00e9t\u00e9 2026",
   "tracks": [
     {
@@ -2618,6 +2618,24 @@
       "duration_ms": 200720,
       "name": "Dis-Le Moi",
       "url": "https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v"
+    },
+    {
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/5TvxAsfOCZqJwcbeZ5HnOu"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189419,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az"
     },
     {
       "album": {
@@ -7142,7 +7160,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 208706,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl"
@@ -8320,7 +8338,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 121858,
       "name": "S\u00e9 Miimii",
       "url": "https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq"
@@ -9282,6 +9300,24 @@
       "duration_ms": 184186,
       "name": "VIVE LA MONNAIE",
       "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
+    },
+    {
+      "album": {
+        "name": "Wagyu",
+        "url": "https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117691,
+      "name": "Wagyu",
+      "url": "https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX"
     },
     {
       "album": {

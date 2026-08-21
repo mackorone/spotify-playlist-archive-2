@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Becky G, Anuel AA, Farruko, Natanael Cano & Gabito Ballesteros & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,116 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,143 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [SIGO AQUiii](https://open.spotify.com/track/2Ys0jcgz2rZUYEwBEibYLW) | [Paulé](https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52) | [SIGO AQUiii](https://open.spotify.com/album/0a4oDfOkpUYMKviL78x6ra) | 3:35 |
 | 40 | [La Villana](https://open.spotify.com/track/4mIgIPpTRA2aIfp3vCufep) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 3:33 |
 
-Snapshot ID: `AAAAAAUF4kmOkJuG1EcDPd0axiAuZGHj`
+Snapshot ID: `AAAAALQMCzEcf9pUPdyHw0cJbMAlZJcO`

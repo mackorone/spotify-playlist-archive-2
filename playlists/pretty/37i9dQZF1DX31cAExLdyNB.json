@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 86050,
+  "num_followers": 86075,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJqyyB5+0K5En5iPWRGeCg3nxVBU",
+  "snapshot_id": "AAAAAG6oy6DrbbcZY6wJSXc837UJ5yzJ",
   "tracks": [
     {
       "added_at": "2024-06-28 21:13:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Chapstick",
         "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
       },
@@ -779,6 +779,42 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "A Hero's Death (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 269540,
+      "name": "A Hero's Death - Soulwax Remix",
+      "url": "https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -883,26 +919,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "A Hero's Death (Soulwax Remix)",
-        "url": "https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 269540,
-      "name": "A Hero's Death - Soulwax Remix",
-      "url": "https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Los Caymanes (Para Olvidar)",
         "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
       },
@@ -987,8 +987,8 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
         }
       ],
-      "duration_ms": 168613,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
+      "duration_ms": 198880,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8"
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
         }
       ],
-      "duration_ms": 198880,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i"
+      "duration_ms": 168613,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
     },
     {
       "added_at": "2024-06-28 21:13:36",

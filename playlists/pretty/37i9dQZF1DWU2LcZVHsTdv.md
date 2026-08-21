@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,013 likes - 189 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,051 likes - 189 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 188 | [Made For Me To Love \- Demo](https://open.spotify.com/track/06ksFBqRI5cSghYy0ix1de) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Made For Me To Love \(Demo\)](https://open.spotify.com/album/6IVFgta0BGd8IGVwLRPb71) | 3:05 |
 | 189 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 |
 
-Snapshot ID: `AAAAAOENawaKm87X73hjhSCvdYkvJywy`
+Snapshot ID: `AAAAAI18GJXcLO0HiBKgmFi/rr6Phqsz`

@@ -1,13 +1,33 @@
 {
   "description": "\ud83c\uddf2\ud83c\udde6 \u0623\u062d\u0633\u0646 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u063a\u0631\u0628\u064a",
-  "num_followers": 108920,
+  "num_followers": 108966,
   "original_name": "POPSTARS*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrA1e15xfb151lCHTaftGMm/s9P",
+  "snapshot_id": "AAAAACPoLiV95TsOm4yka2x6ZUM7Q+cf",
   "tracks": [
+    {
+      "added_at": "2026-08-21 00:30:26",
+      "album": {
+        "name": "TITIZ A KHAY",
+        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "TITIZ A KHAY",
+      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
+    },
     {
       "added_at": "2026-08-06 11:34:06",
       "album": {

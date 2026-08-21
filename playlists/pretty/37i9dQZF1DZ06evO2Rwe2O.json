@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADaRN9TMB84qvDLljdjnI/8",
+  "snapshot_id": "aoTyAAAAAAAsZCERUYgtcwg6I8IEg13w",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Louder Than The Lies",
-      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
+      "duration_ms": 287143,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 287143,
-      "name": "Have Your Way",
-      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
+      "duration_ms": 231213,
+      "name": "Louder Than The Lies",
+      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "If You Died Tonight",
+      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 261921,
       "name": "I Want To Tell The World",
       "url": "https://open.spotify.com/track/57RNAiMB8QPGim8gwqiyGa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "If You Died Tonight",
-      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Completely Free",
-      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Completely Free",
+      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What I Was Made For",
         "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 334173,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2w1ztbOA65oNxOjBVKpnQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,

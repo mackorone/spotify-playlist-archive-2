@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "pop that *hits different* featuring daine",
+  "description": "pop that *hits different* featuring darcie haven",
   "name": "*hits different*",
   "tracks": [
     {
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
+    },
+    {
+      "album": {
         "name": "Bottle Blonde",
         "url": "https://open.spotify.com/album/6iV7cJxPKSyVwa1chM61FH"
       },
@@ -1726,6 +1744,24 @@
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
+    },
+    {
+      "album": {
+        "name": "Buck50",
+        "url": "https://open.spotify.com/album/4H7dS0dwIfGJzAyfpBEwp1"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185445,
+      "name": "Buck50",
+      "url": "https://open.spotify.com/track/6UVn2oEP0b9Sid7MmCPnAG"
     },
     {
       "album": {
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 178571,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/58DHNoxvttW7CLsfDQ7M9S"
@@ -4274,7 +4310,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 112353,
       "name": "Fluent",
       "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
@@ -5022,7 +5058,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 214125,
       "name": "HARD",
       "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
@@ -7626,7 +7662,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 211318,
       "name": "Lucky Girl",
       "url": "https://open.spotify.com/track/3lyjX7e9TsT4Z564QnCQ5b"
@@ -8970,7 +9006,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 205306,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
@@ -9096,7 +9132,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
@@ -9986,7 +10022,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 233785,
       "name": "Secret Language",
       "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
@@ -11232,7 +11268,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 182933,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd"
@@ -11522,7 +11558,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 273930,
       "name": "Swimming, Crying",
       "url": "https://open.spotify.com/track/2UGflaT34H95OkhndWi9GN"
@@ -11976,7 +12012,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 233533,
       "name": "the bridge",
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
@@ -13706,7 +13742,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 205720,
       "name": "When I Get Drunk (I Want You Boy)",
       "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"

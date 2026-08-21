@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Asake",
+  "description": "A perfect link up to soundtrack your day. Cover: Victony",
   "name": "The ACS",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 122592,
       "name": "Anyting",
       "url": "https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au"
@@ -784,6 +784,24 @@
       "duration_ms": 172972,
       "name": "Attack",
       "url": "https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg"
+    },
+    {
+      "album": {
+        "name": "attention!",
+        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155852,
+      "name": "attention!",
+      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
     },
     {
       "album": {
@@ -11304,7 +11322,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 142524,
       "name": "Soyaiya",
       "url": "https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw"

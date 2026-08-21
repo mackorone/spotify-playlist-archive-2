@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves right now.  Cover: Royal MusiQ",
+  "description": "The biggest Amapiano singles making waves right now.  Cover: Xduppy, Angekebabuye Mc",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -19026,7 +19026,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 509751,
       "name": "Khanya Njalo",
       "url": "https://open.spotify.com/track/6cOCBVXd40NIaEMKYnj1ry"
@@ -20214,6 +20214,36 @@
       "duration_ms": 424507,
       "name": "Kumnandi Ka Sash",
       "url": "https://open.spotify.com/track/2s820xPu41oFLnAbbVrhbO"
+    },
+    {
+      "album": {
+        "name": "AMA ROYALE",
+        "url": "https://open.spotify.com/album/2OCXDEmCTS9OUAVUkcVFJi"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Angekebabuye Mc",
+          "url": "https://open.spotify.com/artist/43bzhXRLYpIEutFybHmm6H"
+        },
+        {
+          "name": "Mluusician",
+          "url": "https://open.spotify.com/artist/7uNPGhyPtFpwvmSP3tTiaE"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390796,
+      "name": "Kumnandi Ukuba La (feat. Mluusician & Dj Maphorisa)",
+      "url": "https://open.spotify.com/track/3Jz0lrBK3mAncHykde4gA3"
     },
     {
       "album": {

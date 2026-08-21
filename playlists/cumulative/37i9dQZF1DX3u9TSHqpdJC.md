@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Sophia Willingham & Elisheva Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Grace Power Artwork by Paola Saliby
 
 4,595 songs - 9 day 18 hr 10 min
 

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2424148,
+  "num_followers": 2424022,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACmOI2uh/W8VLpT1TRUIM1wNUv7x",
+  "snapshot_id": "AAAAAKWLyVt9chBQbYm+Iy6YcdbYk9Qw",
   "tracks": [
     {
       "added_at": "2026-08-07 04:22:25",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
+        "name": "Sagip",
+        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Sagip",
+      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -847,18 +847,30 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Twelve: Fifty One (International Version)",
-        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
+        "name": "Titig",
+        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
       "artists": [
         {
-          "name": "krissy & ericka",
-          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
+          "name": "MC Einstein",
+          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Jekkpot",
+          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
         }
       ],
-      "duration_ms": 246280,
-      "name": "12:51",
-      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
+      "duration_ms": 259114,
+      "name": "Titig",
+      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
     }
   ],
   "unique_name": "OPM Favorites",

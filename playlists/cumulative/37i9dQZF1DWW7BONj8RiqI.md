@@ -2,9 +2,9 @@
 
 ### [Massive Soca Hits](https://open.spotify.com/playlist/37i9dQZF1DWW7BONj8RiqI)
 
-> The Soca hits we all love from back then til right now\. Cover: Voice
+> The Soca hits we all love from back then til right now\. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-401 songs - 21 hr 49 min
+403 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Big Truck](https://open.spotify.com/track/6bsdIx7sYZF8LHnheDVKDy) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Heavy Duty](https://open.spotify.com/album/15aeSbiDMIDiU84GKW76Ip) | 4:10 | 2023-02-21 | 2025-01-20 |
 | [Bless This Party](https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:50 | 2023-05-15 | 2025-02-07 |
 | [Blessing](https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR) | [Blaka Dan](https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s) | [Blessing](https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN) | 3:07 | 2025-08-29 |  |
-| [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 | 2023-05-15 |  |
+| [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 | 2023-05-15 | 2026-08-21 |
 | [Blinkin Bad](https://open.spotify.com/track/5os0fpMF0zgXbwKG8HYPew) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 3:08 | 2022-02-24 | 2022-08-19 |
 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 | 2024-07-24 |  |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 | 2021-08-26 | 2023-02-22 |
@@ -105,7 +105,7 @@
 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 | 2026-04-23 |  |
 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 | 2022-02-24 |  |
 | [Down Dey](https://open.spotify.com/track/3tPOEUg96R7zHynKC1ND3m) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Uncle Joe Riddim](https://open.spotify.com/album/5zT3bpSbT2XgdsGTZqig9r) | 2:13 | 2022-08-18 | 2023-02-22 |
-| [Down Dey \- Refix](https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Parry Jack](https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA), [All Star Brass](https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa) | [Down Dey \(Refix\)](https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY) | 2:53 | 2025-06-05 |  |
+| [Down Dey \- Refix](https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Parry Jack](https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA), [All Star Brass](https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa) | [Down Dey \(Refix\)](https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY) | 2:53 | 2025-06-05 | 2026-08-21 |
 | [Drink to Dat](https://open.spotify.com/track/0joSvXptTBr0oY2WdKYc7i) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 3:10 | 2022-08-18 | 2022-10-05 |
 | [Drink to Dat](https://open.spotify.com/track/3AvSXtQ7FvmXYwu2sRNqDn) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Get Soca 2022](https://open.spotify.com/album/3CG8gFB1aZo3xYW0AfWNO2) | 3:10 | 2022-08-18 | 2022-11-13 |
 | [Drink to Dat](https://open.spotify.com/track/5zTfojcQTaMHhT4auLiysR) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 3:10 | 2022-08-18 | 2023-02-22 |
@@ -162,6 +162,7 @@
 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 | 2023-08-11 | 2024-07-25 |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-26 | 2022-02-27 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2023-02-21 | 2025-06-06 |
+| [Hello \(Cover\) \(Spotify Carnival Sounds\) \- Live](https://open.spotify.com/track/5Vo5Bk8m47qcG6bi7poyMy) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Hello \(Cover\) \(Spotify Carnival Sounds\) \[Live\]](https://open.spotify.com/album/2ETAX3MeEb29BW9PE4vHm0) | 3:07 | 2026-08-20 |  |
 | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1) | [muddy](https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM) | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4) | 2:54 | 2025-06-20 |  |
 | [Hi & Bye](https://open.spotify.com/track/5gJIue3f58TO6RHRxEAIgJ) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Hi & Bye](https://open.spotify.com/album/1r6F0umKEM8d10C8L4Sa3y) | 4:07 | 2025-06-20 | 2025-08-26 |
 | [High Mass](https://open.spotify.com/track/4JESRfIwcr6xACaP4lUgeH) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Best of J.W\. Colllections](https://open.spotify.com/album/35QG2dkD2Bu1FksvC3nF2T) | 1:24 | 2021-08-26 | 2022-02-25 |
@@ -190,6 +191,7 @@
 | [Inch by Inch](https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Inch by Inch](https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy) | 3:09 | 2026-04-23 |  |
 | [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 | 2024-07-24 | 2025-06-21 |
 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 | 2023-05-15 | 2023-07-12 |
+| [Jab Decisions \(Spotify Carnival Sounds\) \- Live](https://open.spotify.com/track/1bYctWIqbWQL7EMYHZhlGn) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Jab Decisions \(Spotify Carnival Sounds\) \[Live\]](https://open.spotify.com/album/5wGUJOZMBXV55sZtKezTAp) | 2:27 | 2026-08-20 |  |
 | [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 | 2025-06-20 | 2026-01-04 |
 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 | 2025-02-06 |  |
 | [Jelly](https://open.spotify.com/track/4U5pcsopVSZq6BXCdgH9Uk) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Jelly](https://open.spotify.com/album/1KnpGxfiGrfTlN3YOCk9Do) | 3:01 | 2022-08-18 | 2022-11-13 |

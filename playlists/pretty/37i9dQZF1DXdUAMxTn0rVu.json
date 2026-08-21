@@ -1,18 +1,18 @@
 {
   "description": "Essential songs from the late '90s, 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 652758,
+  "num_followers": 652838,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHtAEPEXXWtNRAsuwDo4jxpyL8oc",
+  "snapshot_id": "AAAAAEiPunzmKHbtRA9RLelhILkntyEh",
   "tracks": [
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "MM..FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         },
         {
-          "name": "Mr. Fantastik",
-          "url": "https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb"
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Rapp Snitch Knishes",
-      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI"
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
       "added_at": "2026-06-12 18:31:14",
@@ -95,8 +95,8 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "MM..FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
       "artists": [
         {
@@ -104,13 +104,13 @@
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         },
         {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
+          "name": "Mr. Fantastik",
+          "url": "https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb"
         }
       ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+      "duration_ms": 172893,
+      "name": "Rapp Snitch Knishes",
+      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI"
     },
     {
       "added_at": "2026-06-12 18:31:14",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
-    },
-    {
-      "added_at": "2026-06-12 18:31:14",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 218079,
       "name": "The Look of Love, Pt. 1",
       "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
+    },
+    {
+      "added_at": "2026-06-12 18:31:14",
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2026-06-12 18:31:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-12 18:31:14",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Workinonit",
-      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
-    },
-    {
-      "added_at": "2026-06-12 18:31:14",
-      "album": {
         "name": "Game Tight",
         "url": "https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225253,
       "name": "Scary Movies",
       "url": "https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD"
+    },
+    {
+      "added_at": "2026-06-12 18:31:14",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Workinonit",
+      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
     },
     {
       "added_at": "2026-06-12 18:31:14",

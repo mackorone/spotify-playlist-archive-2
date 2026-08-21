@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 84527,
+  "num_followers": 84553,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKiFuxxMtR1S69w1m+HtMxBtf+0X",
+  "snapshot_id": "AAAAAOnrmomf7T7tj8fbWbqTOTyBYEFc",
   "tracks": [
     {
       "added_at": "2024-07-09 16:41:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/0mMsYu4KfiMiCRP0B1ZOWF"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "In De Wolken",
-      "url": "https://open.spotify.com/track/4yeOX2rVLDZ6XXh2TSkwN6"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Toen Ik Je Zag",
         "url": "https://open.spotify.com/album/3dIaI0iPa9ja1dXCyBPHoL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 201706,
       "name": "Toen Ik Je Zag",
       "url": "https://open.spotify.com/track/0FzCKjXKz9FMwtRlrOFQpt"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/0mMsYu4KfiMiCRP0B1ZOWF"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "In De Wolken",
+      "url": "https://open.spotify.com/track/4yeOX2rVLDZ6XXh2TSkwN6"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Kleine Jongen",
-      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 290733,
       "name": "Wat Zou Je Doen?",
       "url": "https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Kleine Jongen",
+      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Badmuts Verplicht",
-        "url": "https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem"
-      },
-      "artists": [
-        {
-          "name": "The Amazing Stroopwafels",
-          "url": "https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Oude Maasweg",
-      "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 213040,
       "name": "Aan De Kust",
       "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Badmuts Verplicht",
+        "url": "https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem"
+      },
+      "artists": [
+        {
+          "name": "The Amazing Stroopwafels",
+          "url": "https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "Oude Maasweg",
+      "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Niks Is Zoas 't Lek",
-        "url": "https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL"
+        "name": "Manen Kweken",
+        "url": "https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK"
       },
       "artists": [
         {
-          "name": "Skik",
-          "url": "https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc"
+          "name": "Marcel De Groot",
+          "url": "https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk"
         }
       ],
-      "duration_ms": 290840,
-      "name": "Op Fietse",
-      "url": "https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF"
+      "duration_ms": 261200,
+      "name": "Mag Ik Naar Je Kijken?",
+      "url": "https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Manen Kweken",
-        "url": "https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK"
+        "name": "Niks Is Zoas 't Lek",
+        "url": "https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL"
       },
       "artists": [
         {
-          "name": "Marcel De Groot",
-          "url": "https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk"
+          "name": "Skik",
+          "url": "https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Mag Ik Naar Je Kijken?",
-      "url": "https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet"
+      "duration_ms": 290840,
+      "name": "Op Fietse",
+      "url": "https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF"
     },
     {
       "added_at": "2024-07-09 16:41:04",

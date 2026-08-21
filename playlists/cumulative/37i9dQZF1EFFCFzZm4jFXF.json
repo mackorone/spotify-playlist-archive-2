@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Mother Knows",
+        "url": "https://open.spotify.com/album/6kqoJkb50m3pV2H7ybYJzm"
+      },
+      "artists": [
+        {
+          "name": "VENUS GRRRLS",
+          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185872,
+      "name": "Mother Knows",
+      "url": "https://open.spotify.com/track/6Qb0qxeXa3LzDvlGLsIXFM"
+    },
+    {
+      "album": {
         "name": "Need You Now (Acoustic)",
         "url": "https://open.spotify.com/album/6qpZvIqLVMoqwp1z67VVJD"
       },

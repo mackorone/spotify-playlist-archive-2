@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-255 songs - 15 hr 24 min
+256 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Me Tienes Que Olvidar / Tu Príncipe / Amor de Colegio / Baby Cuentale / Tu No Sabes](https://open.spotify.com/track/57wnGwuzxZIS7AjjTIEy8l) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Me Tienes Que Olvidar / Tu Principe / Amor de Colegio / Baby Cuentale / Tu No Sabes](https://open.spotify.com/album/3UWX5hb5szWplNu1vU4iN7) | 7:48 | 2023-08-25 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vive El Momento](https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4) | 3:43 | 2024-03-29 | 2025-05-05 |
 | [Medallita](https://open.spotify.com/track/6XMY9qZM7HXXu0PVqnv7y9) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 4:30 | 2024-03-29 | 2025-01-12 |
+| [Megamix](https://open.spotify.com/track/4IaTGBLqlOee3S98dm4Zxx) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [17 Hits](https://open.spotify.com/album/1rHbOwCoyYyoD116zagfP2) | 7:47 | 2025-11-20 |  |
 | [Megamix: Como Dejar de Amarte / Hoy Que Te Vas / La Mesa del Rincon / Charro para Rato](https://open.spotify.com/track/58f4umXEEGdf1S75sXWXGZ) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [17 Hits](https://open.spotify.com/album/1cJXdbu4wHVf4dYoDy5Dyn) | 7:47 | 2024-02-27 | 2024-04-19 |
 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 | 2024-03-29 | 2026-06-05 |
 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 | 2023-08-25 | 2024-02-28 |
@@ -213,7 +214,7 @@
 | [Si yo fuera él](https://open.spotify.com/track/2UFGsOAjNrQSoZwh5gZJs0) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [Perfume De Cumbia](https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie) | 3:30 | 2024-02-27 | 2024-04-19 |
 | [Sigo Enamorado de Ti](https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [A Su Manera](https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ) | [Sigo Enamorado de Ti](https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr) | 2:51 | 2023-08-25 |  |
 | [Sigue La Cumbia](https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Sigue La Cumbia](https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx) | 2:46 | 2023-09-15 |  |
-| [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 | 2025-01-17 |  |
+| [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 | 2025-01-17 | 2026-08-21 |
 | [Solos Solitos](https://open.spotify.com/track/4oYdiPvx5diufwkMGVipSC) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Algún día sabremos como se llama](https://open.spotify.com/album/00Hc5ZVRt1CUnrP7VjFISx) | 3:56 | 2023-08-25 | 2023-12-23 |
 | [Soltero](https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO) | [Cumbia para Rato](https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ) | 3:25 | 2025-01-17 | 2026-07-11 |
 | [Somos](https://open.spotify.com/track/4KhzKBfSMmRj9xYrsD4UZX) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [Somos](https://open.spotify.com/album/0o8fC6tDlWIBzcGtWHUIUF) | 3:13 | 2023-08-25 | 2024-02-28 |

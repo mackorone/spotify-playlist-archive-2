@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MASS OF THE FERMENTING DREGS
 
-3,787 songs - 10 day 0 hr 19 min
+3,788 songs - 10 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2222,7 +2222,7 @@
 | [Tonight](https://open.spotify.com/track/6xHQ5Pzxoor8cjQjKgcevB) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Tonight](https://open.spotify.com/album/0IMYcOMmlYhL0QFBekAHdX) | 3:33 | 2023-05-23 | 2023-06-07 |
 | [TOO COLD?](https://open.spotify.com/track/6Cj22QRXoeHrJIVE83F2bR) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [TOO COLD?](https://open.spotify.com/album/3kaxPX3SdnQM0k1sfaho1e) | 3:37 | 2024-07-16 | 2024-07-31 |
 | [Too dry to die](https://open.spotify.com/track/06PwDDJ5QSf53DBEX7PuzT) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Too dry to die](https://open.spotify.com/album/26NOGqdDjsSnXRYNWIsOwN) | 3:58 | 2023-01-12 | 2023-01-25 |
-| [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 | 2026-08-18 |  |
+| [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 | 2026-08-18 | 2026-08-21 |
 | [TOO LATE](https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/63wqYCsKXga09N2IXHPFuV) | 2:32 | 2024-03-19 | 2024-05-08 |
 | [TOO LATE](https://open.spotify.com/track/4Zs8jWeCujpyHVYdYMSTty) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/0gtvEjBBN5QTvB3lkyruNI) | 2:32 | 2024-03-19 | 2024-04-17 |
 | [Too Late](https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Too Late](https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj) | 3:06 | 2024-04-30 | 2024-08-07 |
@@ -2816,7 +2816,7 @@
 | [クラフトビール](https://open.spotify.com/track/0EUcaYeuuy1z6S0EWWvfTc) | [Alaska Jam](https://open.spotify.com/artist/25BYrQ1weAPalq5wmqL3Ph) | [クラフトビール](https://open.spotify.com/album/2RCdMjO7hDuAesz4EPze3G) | 3:39 | 2024-04-16 | 2024-04-24 |
 | [クワゴマダラヒトリ](https://open.spotify.com/track/7hxoBswytKgg61WnveUEf5) | [kiss the gambler](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [クワゴマダラヒトリ](https://open.spotify.com/album/54vAyXzwUsBTG4Kb0lYEWG) | 2:15 | 2026-03-31 | 2026-04-08 |
 | [クーポン](https://open.spotify.com/track/01pdUYUoID51rCnVBI8LGy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [クーポン](https://open.spotify.com/album/5uuInhJa0eNzpdI0vXQJJT) | 3:54 | 2023-10-24 | 2023-11-01 |
-| [グッドナイトヒーラー](https://open.spotify.com/track/5YKkBM9uQlXzaUliFmW4CF) | [ANMC](https://open.spotify.com/artist/5oHsqq24Aj6bLMCQTfkhZw), [長瀬有花](https://open.spotify.com/artist/1xAojWUxALloEEliizQQRm) | [グッドナイトヒーラー](https://open.spotify.com/album/65RqIcgojQNe0bTw5UPDH4) | 4:38 | 2026-08-18 |  |
+| [グッドナイトヒーラー](https://open.spotify.com/track/5YKkBM9uQlXzaUliFmW4CF) | [ANMC](https://open.spotify.com/artist/5oHsqq24Aj6bLMCQTfkhZw), [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [グッドナイトヒーラー](https://open.spotify.com/album/65RqIcgojQNe0bTw5UPDH4) | 4:38 | 2026-08-18 |  |
 | [グッドバイ](https://open.spotify.com/track/3BW1xBJid8ZdszDIgj4oJF) | [CONNECTION](https://open.spotify.com/artist/5AdJjBuXW9YHZC3GdafHxM), [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [グッドバイ](https://open.spotify.com/album/4yUtoaIVdrMDYeBboYwzFV) | 6:24 | 2026-03-31 | 2026-04-08 |
 | [グッド・バイ](https://open.spotify.com/track/5dpKo3gR5CnJ7d8ookkPDz) | [芝岡翔梧](https://open.spotify.com/artist/3mmLxRZUem9RCaW5xoLJcT) | [グッド・バイ](https://open.spotify.com/album/6fwieGfBGpAHYx9jJ8rEKN) | 4:25 | 2025-03-04 | 2025-03-12 |
 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 | 2024-09-24 | 2024-11-06 |
@@ -3624,6 +3624,7 @@
 | [笑ったり転んだり](https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [笑ったり転んだり](https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V) | 3:14 | 2025-09-30 | 2026-02-12 |
 | [第二心 \(Dainishin\)](https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [第二心 \(Dainishin\)](https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi) | 3:50 | 2026-01-20 | 2026-02-18 |
 | [素描](https://open.spotify.com/track/5oPoxGXzeK0gfpUmiZZunR) | [夜標](https://open.spotify.com/artist/3lNfCwk5LIfG6YlRoJElR8) | [Fading](https://open.spotify.com/album/07mUSXVWiF4GwWsZpnBWkE) | 3:26 | 2026-08-11 | 2026-08-19 |
+| [素敵すぎる](https://open.spotify.com/track/5tePLatUDsJg1idEVUiFA8) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [素敵すぎる/素晴らしき1日](https://open.spotify.com/album/5aLUNNI8YL0mibXFrvzELv) | 3:28 | 2026-08-20 |  |
 | [素晴らしい正解](https://open.spotify.com/track/4s2TT6oMv27gGo7FTr8sVD) | [bed](https://open.spotify.com/artist/4NAwul89Idux3j0y3yRJgh) | [split 7”](https://open.spotify.com/album/3CIO9gZIwjI62Qv0tP5WQj) | 4:48 | 2026-06-16 | 2026-06-24 |
 | [素直](https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直](https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp) | 3:46 | 2024-01-16 | 2024-03-14 |
 | [素直 \- My Favorite Things Ver.](https://open.spotify.com/track/4UT4ZIYNEZGNySxuaRQXD2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直 \(My Favorite Things Ver.\)](https://open.spotify.com/album/1zVYXR52oPGXd2MiJqqwIU) | 3:52 | 2024-10-01 | 2024-11-12 |

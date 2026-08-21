@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 570893,
+  "num_followers": 570904,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP/KLeE9x0wj9+4iOdtQQ4gz2cm1",
+  "snapshot_id": "AAAAALe3Y1QCwv1ATBH/+KD0OC397qZ/",
   "tracks": [
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Night Terror",
-        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 361130,
-      "name": "Night Terror - Radio Edit",
-      "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "M\u00far",
         "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 577506,
       "name": "Vitrun",
       "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Night Terror",
+        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 361130,
+      "name": "Night Terror - Radio Edit",
+      "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "A Broken Man",
         "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Stories to Forget",
-        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
-      },
-      "artists": [
-        {
-          "name": "Words Of Farewell",
-          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
-        }
-      ],
-      "duration_ms": 281187,
-      "name": "A Lesser King",
-      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Clawing out",
         "url": "https://open.spotify.com/album/2kyqjgvv8NNFF8ulOY0sYW"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Legion",
-        "url": "https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW"
-      },
-      "artists": [
-        {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Legion",
-      "url": "https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "How's The Heart? (Bonus Version)",
         "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Cinemetal",
-        "url": "https://open.spotify.com/album/51GYAV50CwKzPmKEXtu3ap"
+        "name": "Legion",
+        "url": "https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW"
       },
       "artists": [
         {
-          "name": "Galactic Empire",
-          "url": "https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY"
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
         }
       ],
-      "duration_ms": 260204,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/1TaT6WIQxVVrg6YLvDGkY3"
+      "duration_ms": 360000,
+      "name": "Legion",
+      "url": "https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Cinemetal",
+        "url": "https://open.spotify.com/album/51GYAV50CwKzPmKEXtu3ap"
+      },
+      "artists": [
+        {
+          "name": "Galactic Empire",
+          "url": "https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY"
+        }
+      ],
+      "duration_ms": 260204,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/1TaT6WIQxVVrg6YLvDGkY3"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 171422,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/1fXw2enARWsT5TnLyEOFn5"
-      },
-      "artists": [
-        {
-          "name": "BLACKSHAPE",
-          "url": "https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH"
-        }
-      ],
-      "duration_ms": 309448,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4WJTFDW2Z1PY3H88uBB540"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1fXw2enARWsT5TnLyEOFn5"
+      },
+      "artists": [
+        {
+          "name": "BLACKSHAPE",
+          "url": "https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH"
+        }
+      ],
+      "duration_ms": 309448,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4WJTFDW2Z1PY3H88uBB540"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
         "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 377773,
       "name": "Vasgy\u00e1r",
       "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Memorial",
-      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Your Little Suburbia Is In Ruins",
-        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
       },
       "artists": [
         {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
         }
       ],
-      "duration_ms": 245325,
-      "name": "Your Little Suburbia Is In Ruins",
-      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
+      "duration_ms": 278186,
+      "name": "Memorial",
+      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1631,6 +1615,22 @@
       "duration_ms": 382420,
       "name": "Splitting the Soul (feat. Ihsahn)",
       "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Your Little Suburbia Is In Ruins",
+        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 245325,
+      "name": "Your Little Suburbia Is In Ruins",
+      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1811,38 +1811,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "From Nothing",
-        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
-      },
-      "artists": [
-        {
-          "name": "Benthos",
-          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
-        }
-      ],
-      "duration_ms": 341480,
-      "name": "From Nothing",
-      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Nyetflix and Chill",
-        "url": "https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Power Trio",
-          "url": "https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev"
-        }
-      ],
-      "duration_ms": 203670,
-      "name": "Nyetflix and Chill",
-      "url": "https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Winds of Time",
         "url": "https://open.spotify.com/album/5fR2dtNeHgvBVawwNz1c0N"
       },
@@ -1855,6 +1823,22 @@
       "duration_ms": 640306,
       "name": "Winds of Time",
       "url": "https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "From Nothing",
+        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
+      },
+      "artists": [
+        {
+          "name": "Benthos",
+          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
+        }
+      ],
+      "duration_ms": 341480,
+      "name": "From Nothing",
+      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1879,6 +1863,22 @@
       "duration_ms": 647855,
       "name": "Let The Truth Speak",
       "url": "https://open.spotify.com/track/4g7bZNzADI6lzEbGQSyXsB"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Nyetflix and Chill",
+        "url": "https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Power Trio",
+          "url": "https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev"
+        }
+      ],
+      "duration_ms": 203670,
+      "name": "Nyetflix and Chill",
+      "url": "https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Insanium",
-        "url": "https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv"
-      },
-      "artists": [
-        {
-          "name": "Whom Gods Destroy",
-          "url": "https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH"
-        }
-      ],
-      "duration_ms": 398720,
-      "name": "In the Name of War",
-      "url": "https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "The Deceivers (Instrumental)",
         "url": "https://open.spotify.com/album/2xs01qTwDQ0BkreOq75GQT"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Insanium",
+        "url": "https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv"
+      },
+      "artists": [
+        {
+          "name": "Whom Gods Destroy",
+          "url": "https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH"
+        }
+      ],
+      "duration_ms": 398720,
+      "name": "In the Name of War",
+      "url": "https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "ARE YOU AFRAID?",
-        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
-      },
-      "artists": [
-        {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "ARE YOU AFRAID?",
-      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Prodigy",
         "url": "https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq"
       },
@@ -2159,18 +2143,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Advent",
-        "url": "https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c"
+        "name": "ARE YOU AFRAID?",
+        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
       },
       "artists": [
         {
-          "name": "Gus G.",
-          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
         }
       ],
-      "duration_ms": 243762,
-      "name": "Advent",
-      "url": "https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3"
+      "duration_ms": 202105,
+      "name": "ARE YOU AFRAID?",
+      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2187,6 +2171,22 @@
       "duration_ms": 193800,
       "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
       "url": "https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Advent",
+        "url": "https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c"
+      },
+      "artists": [
+        {
+          "name": "Gus G.",
+          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Advent",
+      "url": "https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Subatlantic",
-        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 415666,
-      "name": "Subatlantic",
-      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Beyond Obsidian Euphoria",
         "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 302094,
       "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
       "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Subatlantic",
+        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 415666,
+      "name": "Subatlantic",
+      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
     },
     {
       "added_at": "2026-05-15 04:02:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist met o.a\. Ray & Beer\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,829 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,831 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 59 | [Investeren In De Liefde](https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 2:57 |
 | 60 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
 
-Snapshot ID: `AAAAANSfjwaVDm6A6UFMk3qyw98lAWd2`
+Snapshot ID: `AAAAAD1IornGQqWOqQRmjKDm7FjUybXU`

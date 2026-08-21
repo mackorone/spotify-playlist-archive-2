@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,351 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,336 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 |
 | 100 | [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 |
 
-Snapshot ID: `AAAAAFlFpU9SFSq0VGC/+eCewWToxDag`
+Snapshot ID: `AAAAAM3djhqNjoi6P4d90o/vWuIaitIU`

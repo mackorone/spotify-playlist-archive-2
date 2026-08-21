@@ -101,10 +101,10 @@
 | [v](https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 8:24 | 2026-03-22 | 2026-07-25 |
 | [vi](https://open.spotify.com/track/2qpPcILan5cv1ql3739g3c) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 2:24 | 2026-03-04 |  |
 | [vii](https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 2:22 | 2026-03-04 |  |
-| [viii](https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:30 | 2026-03-04 | 2026-08-20 |
+| [viii](https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:30 | 2026-03-04 |  |
 | [w sunset blvd](https://open.spotify.com/track/0QnGxzCkv13R2qIj3LOd6a) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 1:17 | 2026-03-23 | 2026-07-13 |
 | [x](https://open.spotify.com/track/0Ua9LPrNVtitDgMQY9gLap) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:14 | 2026-04-24 | 2026-07-10 |
-| [xi](https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 1:36 | 2026-03-18 |  |
+| [xi](https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 1:36 | 2026-03-18 | 2026-08-21 |
 | [Your First Armadillo](https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 4:24 | 2026-03-04 |  |
 
 \*This playlist was first scraped on 2026-03-04. Prior content cannot be recovered.

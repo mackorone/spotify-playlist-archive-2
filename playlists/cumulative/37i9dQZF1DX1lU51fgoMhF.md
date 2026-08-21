@@ -2,9 +2,9 @@
 
 ### [Summer K\-Pop Hits \(썸머 히트\)](https://open.spotify.com/playlist/37i9dQZF1DX1lU51fgoMhF)
 
-> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Red Velvet\)
+> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: AtHeart\)
 
-421 songs - 22 hr 46 min
+422 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2021-11-17 | 2026-05-20 |
 | [10 Months](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:14 | 2021-11-17 | 2026-05-26 |
 | [22CENTURY GIRL](https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:35 | 2021-11-17 | 2022-05-29 |
+| [3!4!](https://open.spotify.com/track/0T4MGleipdya21hGDdMjhY) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [3!4!](https://open.spotify.com/album/3zkhIjoJcVRSDmJgqcJQ0S) | 4:12 | 2026-08-20 |  |
 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 | 2021-11-17 | 2026-05-26 |
 | [5 more minutes](https://open.spotify.com/track/2rxE9VsJp8mncqMcPxuTX0) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Silence of the REM](https://open.spotify.com/album/6Nuno2U89fute3Lrz8oIQL) | 3:13 | 2021-11-17 | 2022-07-16 |
 | [525](https://open.spotify.com/track/3Flz3eI2I7TdDXXEm3Lp9a) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 3:15 | 2021-11-17 | 2022-07-24 |
@@ -104,7 +105,7 @@
 | [Dancing In The Moonlight](https://open.spotify.com/track/5CNirIgKckyhPnocb96cN7) | [TOO](https://open.spotify.com/artist/3a0xHIHQPhhzgSOJzgB2Rz) | [Running TOOgether](https://open.spotify.com/album/21OdoBMLPTL7MymFTxe7oW) | 3:34 | 2022-01-09 | 2022-06-23 |
 | [Dear you](https://open.spotify.com/track/1mttCFELeKHQIs6A3WUNj5) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/02tASSJqgrHueEUw97lnRm) | 3:36 | 2021-11-17 | 2022-07-28 |
 | [Demente \(feat\. Guaynaa\)](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:43 | 2021-11-17 | 2022-07-17 |
-| [Ditto](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:05 | 2023-07-20 |  |
+| [Ditto](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:05 | 2023-07-20 | 2026-08-21 |
 | [DIVE](https://open.spotify.com/track/3aLwbQySjtFC963K2oEWDE) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE M](https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4) | 3:07 | 2021-11-17 | 2022-04-26 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-20 | 2026-05-26 |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:59 | 2021-11-17 | 2022-08-27 |

@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23408,
+  "num_followers": 23411,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAQPX9JgtgRTVxopPmqZxeGvRt3P",
+  "snapshot_id": "AAAAAAPADuyOY+Yw5DeuMYsydPzzkL8m",
   "tracks": [
     {
       "added_at": "2026-08-14 17:39:37",
@@ -523,6 +523,58 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
+        "name": "OUTRA VIBE",
+        "url": "https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        },
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "bernardo",
+          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "OUTRA VIBE",
+      "url": "https://open.spotify.com/track/55lABBf5SmAsYupb0Lt5Ww"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
+        "name": "QUERO (AI AI AI)",
+        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "QUERO (AI AI AI)",
+      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -555,26 +607,6 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "QUERO (AI AI AI)",
-        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "QUERO (AI AI AI)",
-      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -639,38 +671,6 @@
       "duration_ms": 172615,
       "name": "Fiona",
       "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "OUTRA VIBE",
-        "url": "https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe"
-      },
-      "artists": [
-        {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
-        },
-        {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
-        },
-        {
-          "name": "Mc J9",
-          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "bernardo",
-          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "OUTRA VIBE",
-      "url": "https://open.spotify.com/track/55lABBf5SmAsYupb0Lt5Ww"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
         "name": "Ol\u00e9, Ol\u00e9!",
         "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
       },
@@ -823,8 +823,8 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Porta Aberta",
-        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
       },
       "artists": [
         {
@@ -836,13 +836,13 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         },
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         }
       ],
-      "duration_ms": 167853,
-      "name": "Porta Aberta",
-      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
+      "duration_ms": 245841,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -923,8 +923,8 @@
     {
       "added_at": "2026-08-14 17:39:37",
       "album": {
-        "name": "Dengo",
-        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
+        "name": "Porta Aberta",
+        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
       "artists": [
         {
@@ -936,33 +936,13 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         },
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
         }
       ],
-      "duration_ms": 245841,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
-    },
-    {
-      "added_at": "2026-08-14 17:39:37",
-      "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+      "duration_ms": 167853,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
     },
     {
       "added_at": "2026-08-14 17:39:37",
@@ -987,6 +967,26 @@
       "duration_ms": 228735,
       "name": "A Beira Mar",
       "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+    },
+    {
+      "added_at": "2026-08-14 17:39:37",
+      "album": {
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-08-14 17:39:37",

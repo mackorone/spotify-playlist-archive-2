@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world, with Phoebe Bridgers on the cover.
 
-23,324 songs - 51 day 12 hr 47 min
+23,324 songs - 51 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10130,7 +10130,7 @@
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-07-01 | 2022-07-08 |
 | [I\-40](https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [I\-40](https://open.spotify.com/album/5Cbhorm19BqHu78wRuLjVD) | 3:54 | 2026-08-14 |  |
 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-16 | 2026-01-24 |
-| [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 2:17 | 2026-08-14 |  |
+| [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 1:55 | 2026-08-14 |  |
 | [ibiza is waiting for me](https://open.spotify.com/track/5vdhqDCTGz9wOOtfNc9WAb) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ), [Spring Breaker](https://open.spotify.com/artist/5ba5RugOUTTg6cRZQdV0bP) | [ibiza is waiting for me](https://open.spotify.com/album/1bN925mymBe394mn5MS3oX) | 5:27 | 2025-02-21 | 2025-03-01 |
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-28 | 2022-02-04 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-09 | 2024-02-17 |

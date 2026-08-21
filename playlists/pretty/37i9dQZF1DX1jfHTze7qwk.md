@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,325 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,327 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 27 | [ความจริงในใจ](https://open.spotify.com/track/4db90A1wSLdfFjh0JXe4NI) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [เครสเชนโด้](https://open.spotify.com/album/4eRAe2yUAxzbbPC0f9QCUk) | 4:04 |
 | 28 | [คุณเก็บความลับได้ไหม](https://open.spotify.com/track/1HfQcqDwV3UASZUOpMp9A9) | [Armchair](https://open.spotify.com/artist/12WQ39HU6t5eDvwjK0GFzT) | [คุณเก็บความลับได้ไหม](https://open.spotify.com/album/0vyHVuW90UueeOcOhiAaEl) | 4:39 |
 | 29 | [หรือ](https://open.spotify.com/track/0ogLgVg1RY7IGyrp1B8g4X) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [B](https://open.spotify.com/album/38rKe9bpwRTzQx80DvsFBl) | 4:53 |
-| 30 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
-| 31 | [วอน](https://open.spotify.com/track/6UVmRlDqKESmrA6CpqF48U) | [The Peach Band](https://open.spotify.com/artist/1EyFHLShIbVJnSjLT6tea1) | [เดอะ พีท แบนด์](https://open.spotify.com/album/6SXhTlaKDGKdPJauonN00p) | 4:49 |
+| 30 | [วอน](https://open.spotify.com/track/6UVmRlDqKESmrA6CpqF48U) | [The Peach Band](https://open.spotify.com/artist/1EyFHLShIbVJnSjLT6tea1) | [เดอะ พีท แบนด์](https://open.spotify.com/album/6SXhTlaKDGKdPJauonN00p) | 4:49 |
+| 31 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
 | 32 | [ใจกลางความเจ็บปวด](https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [4 Days](https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi) | 5:28 |
 | 33 | [เผด็จเกิร์ล](https://open.spotify.com/track/6dnXdI7OhOJYvVjlT6pR03) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:07 |
 | 34 | [ลอง \(Try\)](https://open.spotify.com/track/3uokib5yaVbbHSQIpQWLw6) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 49 | [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 |
 | 50 | [ปล่อยไปตามหัวใจ \(Let It Flow\)](https://open.spotify.com/track/1uR2ubwRuhaYyy7P98tlma) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:18 |
 
-Snapshot ID: `AAAAAI4002Aou2BCHgwfgwD95V1JL7So`
+Snapshot ID: `AAAAAKtJz+s2h1AzPdzpFG2Vrmqe0BTU`

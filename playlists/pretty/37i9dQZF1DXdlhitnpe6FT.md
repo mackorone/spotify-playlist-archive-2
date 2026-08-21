@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,395 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,483 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 88 | [Concierto para una Sola Voz](https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR) | [Spanish Caribe Band](https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q) | [Fusion Brasil Jazz\. Bossa Nova Música Brasileña](https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29) | 2:20 |
 | 89 | [The Shuffle](https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:21 |
 | 90 | [Spanish Flea](https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:06 |
-| 91 | [Before the Rain](https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before The Rain](https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg) | 8:15 |
-| 92 | [Rise](https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034) | 7:37 |
+| 91 | [Rise](https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034) | 7:37 |
+| 92 | [Before the Rain](https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before The Rain](https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg) | 8:15 |
 | 93 | [Imágenes](https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc) | [John Days](https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7) | [16 Grandes Éxitos Instrumentales](https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL) | 3:10 |
 | 94 | [Joy](https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus) | [Apollo 100](https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 2:43 |
 | 95 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
-| 96 | [Afrikaan Beat](https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Grandes Orquestas / Bert Kaempfert](https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i) | 2:25 |
-| 97 | [Fandango](https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:41 |
+| 96 | [Fandango](https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:41 |
+| 97 | [Afrikaan Beat](https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Grandes Orquestas / Bert Kaempfert](https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i) | 2:25 |
 | 98 | [Soleado](https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0) | [John Days](https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7) | [16 Grandes Éxitos Instrumentales](https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL) | 3:41 |
 | 99 | [Ballade Pour Adeline](https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz) | [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Romantique](https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX) | 2:37 |
 | 100 | [La Paloma](https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag) | 2:30 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Always in my heart](https://open.spotify.com/track/40rN59RjmCSBlXUNxKifae) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:29 |
 | 115 | [Frenesi](https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6qywWZ1ChDMHt0KBEf7Fq6) | 3:20 |
 
-Snapshot ID: `AAAAALquvN0L4I/dN/6Z/lW7tgDTQRDv`
+Snapshot ID: `AAAAAEHrjerme9bYQVOI8ayCDSTifU0s`

@@ -1,15 +1,31 @@
 {
-  "description": "The latest straight bars and Afro-Trap. Cover:  Ladipoe",
-  "num_followers": 193298,
+  "description": "The latest straight bars and Afro-Trap. Cover: ODUMODUBLVCK",
+  "num_followers": 193307,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFw+s0UZTWQ0Yu3ZLH1G1c4TT6LH",
+  "snapshot_id": "AAAAADBXsd5Je6AdX7jFSpQPaBckfdN4",
   "tracks": [
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "ISALE EKO",
+        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "ISALE EKO",
+      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Sexy Nana",
         "url": "https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Chanel (feat. Asake)",
         "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
@@ -49,27 +65,7 @@
       "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "No Level",
-      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "10 MINUTES",
         "url": "https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT"
@@ -89,27 +85,7 @@
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
-      },
-      "artists": [
-        {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
@@ -129,7 +105,7 @@
       "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
@@ -153,23 +129,7 @@
       "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "Na Afa Nna (Freestyle)",
-        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Na Afa Nna (Freestyle)",
-      "url": "https://open.spotify.com/track/5TuWB4YtUxUNJlkH1UJ74J"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
         "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
@@ -185,7 +145,39 @@
       "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Na Afa Nna (Freestyle)",
+        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Na Afa Nna (Freestyle)",
+      "url": "https://open.spotify.com/track/5TuWB4YtUxUNJlkH1UJ74J"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Ripper's Fate",
         "url": "https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB"
@@ -205,23 +197,7 @@
       "url": "https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "THEY LOVE ME",
-        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "THEY LOVE ME",
-      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
@@ -237,7 +213,59 @@
       "url": "https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "2:02PM IN LONDON (FREESTYLE)",
+        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "2:02PM IN LONDON (FREESTYLE)",
+      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
@@ -261,7 +289,7 @@
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "SWAGGA",
         "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
@@ -277,7 +305,7 @@
       "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Aimoye",
         "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
@@ -293,43 +321,7 @@
       "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "2:02PM IN LONDON (FREESTYLE)",
-        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "2:02PM IN LONDON (FREESTYLE)",
-      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "E No Easy",
-        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 190719,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "2026 Golden Run",
         "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
@@ -349,7 +341,47 @@
       "url": "https://open.spotify.com/track/62Fjtr5tv5Pw1GTUZzrNXH"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "E No Easy",
+        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 190719,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "No Level",
+      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "HIM",
         "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
@@ -369,27 +401,7 @@
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "NO MORE SLEEP",
-        "url": "https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q"
-      },
-      "artists": [
-        {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 169793,
-      "name": "NO MORE SLEEP",
-      "url": "https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "BARA BARA",
         "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
@@ -405,43 +417,7 @@
       "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "Major League",
-        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Major League",
-      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
@@ -469,7 +445,27 @@
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Major League",
+        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Major League",
+      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "CAME OF AGE",
         "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
@@ -489,7 +485,7 @@
       "url": "https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
@@ -505,7 +501,7 @@
       "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Big Bricks II",
         "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
@@ -529,7 +525,7 @@
       "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Dont Come Too Close II",
         "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
@@ -557,7 +553,7 @@
       "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
@@ -577,7 +573,27 @@
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Gaou la (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Gaou la (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Redemption Valley",
         "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "CAME OF AGE",
         "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Di Maria",
         "url": "https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "No Excuses Deluxe",
         "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
@@ -769,7 +785,27 @@
       "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "NO MORE SLEEP",
+        "url": "https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "NO MORE SLEEP",
+      "url": "https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Sounds of the Diaspora 2",
         "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
@@ -805,7 +841,7 @@
       "url": "https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
@@ -825,7 +861,55 @@
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Everlasting Taker",
+        "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 118736,
+      "name": "Everlasting Taker",
+      "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "News at 7",
+        "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 166097,
+      "name": "News at 7",
+      "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Motho Waka",
         "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
@@ -845,55 +929,7 @@
       "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "Everlasting Taker",
-        "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 118736,
-      "name": "Everlasting Taker",
-      "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "News at 7",
-        "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 166097,
-      "name": "News at 7",
-      "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "The Odyssey",
         "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
@@ -913,7 +949,7 @@
       "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "A Street Kid's Diary",
         "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
@@ -937,7 +973,7 @@
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "BEASTMODE VOL1",
         "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
@@ -953,7 +989,7 @@
       "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "WALK WITH ME",
         "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
@@ -973,27 +1009,7 @@
       "url": "https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "OUT OF SIGHT - OUT OF MIND: VOLUME 1",
-        "url": "https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP"
-      },
-      "artists": [
-        {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 172784,
-      "name": "ISLAND GIRLS",
-      "url": "https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Leftie (Dlala Ngcobo)",
         "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
@@ -1013,7 +1029,27 @@
       "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "OUT OF SIGHT - OUT OF MIND: VOLUME 1",
+        "url": "https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 172784,
+      "name": "ISLAND GIRLS",
+      "url": "https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Sexy Highlife",
         "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
@@ -1033,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "TAI CHI",
         "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
@@ -1049,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Nzogbu",
         "url": "https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1"
@@ -1069,7 +1105,23 @@
       "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Tontonte",
         "url": "https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV"
@@ -1093,23 +1145,7 @@
       "url": "https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "JET SET",
         "url": "https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV"
@@ -1133,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
         "url": "https://open.spotify.com/album/28pficBKrjRzddaQThdPo6"
@@ -1161,7 +1197,7 @@
       "url": "https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Modern Fantasy",
         "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
@@ -1181,27 +1217,7 @@
       "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "Contraband / Diamonds",
-        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Lights",
         "url": "https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63"
@@ -1225,7 +1241,27 @@
       "url": "https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
+      "album": {
+        "name": "Contraband / Diamonds",
+        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
+    },
+    {
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/7GkqQthzG3je276bnSIiBI"
@@ -1241,7 +1277,7 @@
       "url": "https://open.spotify.com/track/3FKMnb3BpxnPtLviwtNz1v"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Happy Place",
         "url": "https://open.spotify.com/album/2mvDoIS4T250xZx5qTy1mE"
@@ -1261,7 +1297,7 @@
       "url": "https://open.spotify.com/track/3Nk9QDlj5NJlXX2HeSZwVb"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
@@ -1277,7 +1313,7 @@
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli"
@@ -1297,7 +1333,7 @@
       "url": "https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "Ye Dede (feat. DarkoVibes)",
         "url": "https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW"
@@ -1321,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q"
     },
     {
-      "added_at": "2026-08-07 00:01:27",
+      "added_at": "2026-08-21 00:01:42",
       "album": {
         "name": "HOW FAR / SHIMA II",
         "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"

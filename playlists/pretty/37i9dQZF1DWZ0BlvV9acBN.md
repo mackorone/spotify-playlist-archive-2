@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,850 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,846 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 14 | [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 |
 | 15 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 |
 | 16 | [Oração](https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Oração](https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR) | 4:04 |
-| 17 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
-| 18 | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9) | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD) | 5:29 |
+| 17 | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9) | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD) | 5:29 |
+| 18 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
 | 19 | [467 \(Cabo da Nau\)](https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [467 \(Cabo da Nau\)](https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA) | 2:37 |
 | 20 | [Isaias 9 \- Ao Vivo em Florianópolis](https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN), [Victor Pradella](https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR), [OSSCA](https://open.spotify.com/artist/3CHuHOiTf1vYcdHsiOeNd4) | [Rodolfo Abrantes + Orquestra Sinfônica de Santa Catarina \(Ao Vivo em Florianópolis\)](https://open.spotify.com/album/0Kd6WjHFSxtVcuDGyCS47n) | 9:36 |
 | 21 | [Pra Descobrir](https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Pra Descobrir](https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV) | 4:17 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 54 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
 | 55 | [Minha Esperança](https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Minha Esperança](https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq) | 5:21 |
 | 56 | [Quebre as Correntes](https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Quebre as Correntes](https://open.spotify.com/album/1fto84wZULJvDxB44FccKm) | 4:08 |
-| 57 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
-| 58 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 |
+| 57 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 |
+| 58 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
 | 59 | [Filho do Homem](https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR) | [Rafa Couto](https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Filho do Homem](https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee) | 2:57 |
 | 60 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 |
 | 61 | [Me Deixa](https://open.spotify.com/track/7o5GLOR6dHfRKcPwJdARGo) | [Em Um](https://open.spotify.com/artist/3FQdrcZWCcXiofG7Pn4jx2) | [Me Deixa](https://open.spotify.com/album/5cCRbKpQUP23wd9VD6l52e) | 5:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Fui Encontrado](https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Fui Encontrado](https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu) | 3:13 |
 | 70 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz \- Ao Vivo](https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Eu Quero É Deus / Celebrai a Cristo / Aquele Que Está Feliz \(Ao Vivo\)](https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0) | 4:43 |
 
-Snapshot ID: `AAAAAFS8Ka64gYU7vBoSZ1CNc4THrpgV`
+Snapshot ID: `AAAAAEySU78BHnhKgmPUXq8jOFqcP5Zc`

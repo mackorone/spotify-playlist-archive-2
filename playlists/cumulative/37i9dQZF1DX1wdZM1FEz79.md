@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: george\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-688 songs - 1 day 16 hr 23 min
+689 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-13 | 2022-12-20 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 | 2026-04-03 |
-| [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 |  |
+| [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2026-08-21 |
 | [every night every day](https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [every night every day](https://open.spotify.com/album/2KzUmmLwP4ZH0X0096aahf) | 3:35 | 2025-04-17 | 2025-07-18 |
 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 | 2023-01-14 | 2023-01-26 |
 | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/track/0Q1vY2GRzE5hzTQBvEkOr3) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/album/7FJFPX2OyP0IS4koeEEEI1) | 3:52 | 2022-03-07 | 2022-04-21 |
@@ -195,6 +195,7 @@
 | [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 | 2025-08-21 |
 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 | 2026-02-20 | 2026-05-28 |
 | [Gleaning](https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [See You, Evergreen](https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ) | 4:27 | 2026-03-27 | 2026-05-16 |
+| [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 | 2026-08-20 |  |
 | [Going Home](https://open.spotify.com/track/2XgJawz0ICRWPMu6fLUM18) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [School 2017, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TNyLDNbnUnxnoLTS8pouH) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-12-10 | 2024-09-03 |
 | [GONE BY THE MORNING](https://open.spotify.com/track/0KlY3QwVmVZnW4fcuqoccY) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 2:09 | 2021-12-10 | 2022-06-07 |

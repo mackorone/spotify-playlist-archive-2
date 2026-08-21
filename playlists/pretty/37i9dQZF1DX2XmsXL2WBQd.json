@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 455107,
+  "num_followers": 455156,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkRRzoO/JB4AoLOVKPW7bR/SsLB",
+  "snapshot_id": "AAAAAE2ft4EUPJ7r6s0w4+eGJTNgY+PG",
   "tracks": [
     {
       "added_at": "2024-06-28 10:06:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Cool - Funk",
-        "url": "https://open.spotify.com/album/7gQvwVSqfD2lqzf40WFNQz"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Blow",
-          "url": "https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "The Breaks",
-      "url": "https://open.spotify.com/track/4Tr756ILIER3QrujKqVKcc"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 279960,
       "name": "I'm Bad",
       "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Cool - Funk",
+        "url": "https://open.spotify.com/album/7gQvwVSqfD2lqzf40WFNQz"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Blow",
+          "url": "https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "The Breaks",
+      "url": "https://open.spotify.com/track/4Tr756ILIER3QrujKqVKcc"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 216000,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
     },
     {
       "added_at": "2024-06-28 10:06:16",

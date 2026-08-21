@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Andy C",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Dimension, Subsonic\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2659,6 +2659,36 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1l4hy8Q8crmROqqJT9xY1F"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Bongo",
+          "url": "https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "Blocksberg",
+          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208900,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/721Kxpi83sO6IVAZTxT0sv"
+    },
+    {
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/637sHim0W1wbjkkZqoCsy4"
       },
@@ -5130,7 +5160,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 165803,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/5MJldOtMYUi7LVQkMtCgPx"
@@ -6560,7 +6590,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 235885,
       "name": "don't feel the same",
       "url": "https://open.spotify.com/track/4JLwXbAyXtIQzk7jt0Cj79"
@@ -8266,7 +8296,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 270455,
       "name": "Feelin' This Way",
       "url": "https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT"
@@ -9145,6 +9175,28 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/70QFIsa2huVcx1kRTOMkQG"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1XVKd6ab2dAGJyCQ04zUEK"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
       },
@@ -9862,6 +9914,28 @@
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
+    },
+    {
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/6Gul1OnvVvMxCUb9sfGYxq"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/0vHfY43h0GV1lRv5wPpbJR"
     },
     {
       "album": {
@@ -13493,6 +13567,28 @@
     },
     {
       "album": {
+        "name": "Lead Dem",
+        "url": "https://open.spotify.com/album/5zgopTVWcmxYCjDHfkychN"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Lead Dem",
+      "url": "https://open.spotify.com/track/54wrDUKN01VGqAMP0h5wWq"
+    },
+    {
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -15098,7 +15194,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179657,
       "name": "Low Down",
       "url": "https://open.spotify.com/track/0VDtSe7a10cC76oNy1bP8r"
@@ -20047,6 +20143,24 @@
     },
     {
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4prf0Y4U7ZlBFoSlcVy5dR"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243221,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/6yp4q7GjScposwHsu1dzfu"
+    },
+    {
+      "album": {
         "name": "ReBirth",
         "url": "https://open.spotify.com/album/2MvjqVF0AA2vgoFy5BWtSU"
       },
@@ -20742,7 +20856,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 200236,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/6yz6fybeShgviaEp1FLYJq"
@@ -20926,7 +21040,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 340250,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/1Zp2ClBKHS7All4GdEEMNy"
@@ -22292,6 +22406,28 @@
       "duration_ms": 172369,
       "name": "Situation",
       "url": "https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs"
+    },
+    {
+      "album": {
+        "name": "Six Days",
+        "url": "https://open.spotify.com/album/1VWAaZrEkyPLZXU8cQu8se"
+      },
+      "artists": [
+        {
+          "name": "Deekline",
+          "url": "https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7"
+        },
+        {
+          "name": "Zen Lewis",
+          "url": "https://open.spotify.com/artist/5vg6louGQciGy7zlWIHxFJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155057,
+      "name": "Six Days",
+      "url": "https://open.spotify.com/track/3ctE7MgKZ7raxnyqVUC12t"
     },
     {
       "album": {

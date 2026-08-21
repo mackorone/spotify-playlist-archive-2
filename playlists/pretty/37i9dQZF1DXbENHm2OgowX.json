@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 358413,
+  "num_followers": 358611,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuOm5FfseKbycjUntFYzn1ScReC",
+  "snapshot_id": "AAAAAFX8H6iQG8zf6HaQhb8skYWZNsAx",
   "tracks": [
     {
       "added_at": "2026-08-18 13:05:46",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "drift (ambient remixes)",
-        "url": "https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        },
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 229415,
-      "name": "fields of forever - helios rework",
-      "url": "https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "father\u00b4s love",
         "url": "https://open.spotify.com/album/1ComDzN2mFJDpIQv5uVt5E"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 93225,
       "name": "father\u00b4s love",
       "url": "https://open.spotify.com/track/6F7xtmh542Czm54izE7RIe"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "drift (ambient remixes)",
+        "url": "https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 229415,
+      "name": "fields of forever - helios rework",
+      "url": "https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Mat\u00e8l (original motion picture soundtrack)",
-        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
-      },
-      "artists": [
-        {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
-        }
-      ],
-      "duration_ms": 204043,
-      "name": "Mat\u00e8l",
-      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Mat\u00e8l (original motion picture soundtrack)",
+        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 204043,
+      "name": "Mat\u00e8l",
+      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Shall We Begin",
-        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Shall We Begin",
-      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 150299,
       "name": "(Something)",
       "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "wistful",
         "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 118400,
       "name": "wistful",
       "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "if i weren't so broken",
+        "url": "https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM"
+      },
+      "artists": [
+        {
+          "name": "analog_mannequin",
+          "url": "https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH"
+        }
+      ],
+      "duration_ms": 185711,
+      "name": "if i weren't so broken",
+      "url": "https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "if i weren't so broken",
-        "url": "https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM"
-      },
-      "artists": [
-        {
-          "name": "analog_mannequin",
-          "url": "https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH"
-        }
-      ],
-      "duration_ms": 185711,
-      "name": "if i weren't so broken",
-      "url": "https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "A Place To Sleep",
         "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Bardo Landscape",
         "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Common",
         "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 155186,
       "name": "Common",
       "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Bolted (Deconstructed)",
-        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 91000,
-      "name": "Night Sculpture - Deconstructed",
-      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
       },
@@ -1507,22 +1491,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 70306,
-      "name": "Safn",
-      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -1535,6 +1503,58 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Bolted (Deconstructed)",
+        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 91000,
+      "name": "Night Sculpture - Deconstructed",
+      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Canneto",
+        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
+      },
+      "artists": [
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        },
+        {
+          "name": "G.U.P. Alcaro",
+          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
+        }
+      ],
+      "duration_ms": 114500,
+      "name": "Canneto",
+      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1563,26 +1583,6 @@
       "duration_ms": 301863,
       "name": "Lonesome Sound",
       "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Canneto",
-        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
-      },
-      "artists": [
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
-        },
-        {
-          "name": "G.U.P. Alcaro",
-          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
-        }
-      ],
-      "duration_ms": 114500,
-      "name": "Canneto",
-      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Even The Horizon Knows Its Bounds",
         "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 176000,
       "name": "iel te guide (lumineuse arp v)",
       "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2026-08-18 13:05:46",

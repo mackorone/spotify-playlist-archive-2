@@ -4,7 +4,7 @@
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: for KING & COUNTRY
 
-13,407 songs - 36 day 7 hr 4 min
+13,407 songs - 36 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5655,7 +5655,7 @@
 | [I've Yet To Learn](https://open.spotify.com/track/5e5qRcTfIfD7FfSgSG1rgA) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [I’ve Yet To Learn](https://open.spotify.com/album/2JxoPpyay53wpEwQLgn8Ww) | 4:50 | 2025-09-05 | 2025-09-20 |
 | [I.H.N.N.](https://open.spotify.com/track/4fSj80XWxrsWlr6Nt405Vv) | [Don Jay Live](https://open.spotify.com/artist/3wfcroAgoETcDSTP9Dk2Lt), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS), [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL) | [I.H.N.N.](https://open.spotify.com/album/0Gcu0wIGqLUNVUFVfOxIKw) | 4:06 | 2026-06-12 | 2026-06-20 |
 | [I.S.W.I.S](https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Tr3 $ebiv](https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP) | [I.S.W.I.S](https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn) | 2:37 | 2024-11-08 | 2024-11-23 |
-| [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 2:17 | 2026-08-14 |  |
+| [i5 SOUTH \(HEAD TRAUMA\)](https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NO HALO](https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4) | 1:55 | 2026-08-14 |  |
 | [Icarus](https://open.spotify.com/track/3h5kGTuLeiPiO5p2aw6Io8) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Wild Sons](https://open.spotify.com/album/74cMCoijO7oVaK1KkOSfQR) | 2:27 | 2022-05-13 | 2022-05-28 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-10-07 | 2022-10-22 |
 | [ICL](https://open.spotify.com/track/6D3wxMiIP3rfCzL3XF7tj3) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1), [Maëlla](https://open.spotify.com/artist/7HztjQdZaz5lowPY3LIDFC) | [ICL](https://open.spotify.com/album/6qsjlhgngVJyHoUAD21iFq) | 3:02 | 2026-06-12 | 2026-06-20 |

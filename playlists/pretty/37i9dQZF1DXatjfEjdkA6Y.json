@@ -1,12 +1,12 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 6126,
+  "num_followers": 6127,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtRdSjxqRDl8e/MzCYOY5dDDQJI",
+  "snapshot_id": "AAAAAAl2TD/+XD46b8RRUkRMK7gz6bDP",
   "tracks": [
     {
       "added_at": "2025-03-14 16:55:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Una vida de canciones",
-        "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Hablemos del amor",
-      "url": "https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Golden Hits (Remastered)",
         "url": "https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 168333,
       "name": "Djambo Djambo",
       "url": "https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Una vida de canciones",
+        "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Hablemos del amor",
+      "url": "https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Golden Girls",
-        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
-      },
-      "artists": [
-        {
-          "name": "Silver Convention",
-          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Reeling In The Decades",
         "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 167466,
       "name": "Come Back To Stay",
       "url": "https://open.spotify.com/track/7lTuANjyCyJnxHMsDuly99"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Golden Girls",
+        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+      },
+      "artists": [
+        {
+          "name": "Silver Convention",
+          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
     }
   ],
   "unique_name": "Eurovision Gold",

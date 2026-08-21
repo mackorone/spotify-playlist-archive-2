@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 512 songs - 1 day 5 hr 22 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 513 songs - 1 day 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -520,5 +520,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 510 | [What A Strange Child](https://open.spotify.com/track/41qCOY36xnyCxjLI1oAckJ) | [Mushi\-P](https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0) | [The World Of Picture Book](https://open.spotify.com/album/63801ievlG9h3IzGger7u1) | 3:32 |
 | 511 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
 | 512 | [Aster](https://open.spotify.com/track/1I6TrS3GxQDnDzf479mYW0) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [NeoDreamTraveler](https://open.spotify.com/album/36VBZ7w53MCsXPfh3fyQdz) | 3:50 |
+| 513 | [メロメロイド \(feat\. 初音ミク\)](https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [メロメロイド](https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA) | 3:03 |
 
-Snapshot ID: `AAAKWrASn5uH6c0wvLG1HvsJHOHDudNV`
+Snapshot ID: `AAAKWyF2W/IjLK9xYv1tVtalgC9zZn5d`

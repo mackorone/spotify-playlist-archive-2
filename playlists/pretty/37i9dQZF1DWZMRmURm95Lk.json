@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49058,
+  "num_followers": 49059,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCysB2i0wt4TynkjrgytV5+Bc7Y",
+  "snapshot_id": "AAAAAJzSjKwbHm/7/XYqWel4HOFeWTNS",
   "tracks": [
     {
       "added_at": "2026-05-29 09:57:53",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "PALAZZINE",
+        "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
+      },
+      "artists": [
+        {
+          "name": "Jamil",
+          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "PALAZZINE",
+      "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "PALAZZINE",
-        "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
-      },
-      "artists": [
-        {
-          "name": "Jamil",
-          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
-        }
-      ],
-      "duration_ms": 151999,
-      "name": "PALAZZINE",
-      "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Io sono il viaggio",
-        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
-      },
-      "artists": [
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        }
-      ],
-      "duration_ms": 333296,
-      "name": "Io sono il viaggio",
-      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 250786,
       "name": "Lo straniero",
       "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Io sono il viaggio",
+        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
+      },
+      "artists": [
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        }
+      ],
+      "duration_ms": 333296,
+      "name": "Io sono il viaggio",
+      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Beat Coin",
         "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
@@ -2055,6 +2039,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Modus Operandi",
         "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
       },
@@ -2075,18 +2075,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+        "name": "Sedicinoni",
+        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
       "artists": [
         {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 368156,
-      "name": "Delle Volte",
-      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
+      "duration_ms": 211930,
+      "name": "Funema (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2119,26 +2127,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Sedicinoni",
-        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
       "artists": [
         {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
         }
       ],
-      "duration_ms": 211930,
-      "name": "Funema (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+      "duration_ms": 368156,
+      "name": "Delle Volte",
+      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2475,6 +2475,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/214vCBQmCXS0AdXwB7K6rz"
       },
@@ -2487,22 +2507,6 @@
       "duration_ms": 131162,
       "name": "My Way",
       "url": "https://open.spotify.com/track/5AituxD4v7K00yqjQx851p"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Il viaggio dell'anima",
-        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
-      },
-      "artists": [
-        {
-          "name": "Jesto",
-          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Il viaggio dell'anima",
-      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2531,22 +2535,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+        "name": "Il viaggio dell'anima",
+        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
         }
       ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+      "duration_ms": 212915,
+      "name": "Il viaggio dell'anima",
+      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2587,26 +2587,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Guns & Butter",
-        "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
-      },
-      "artists": [
-        {
-          "name": "Click Head",
-          "url": "https://open.spotify.com/artist/56aUoplmbKn4XspyEbhAfs"
-        },
-        {
-          "name": "Lvnar",
-          "url": "https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "C.L.I.C.K.",
-      "url": "https://open.spotify.com/track/37GF4wrZNkyqR6ftWjktyf"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Fuori di qua! (Stories) [2022 Remastered]",
         "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
       },
@@ -2623,6 +2603,26 @@
       "duration_ms": 159000,
       "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
       "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Guns & Butter",
+        "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
+      },
+      "artists": [
+        {
+          "name": "Click Head",
+          "url": "https://open.spotify.com/artist/56aUoplmbKn4XspyEbhAfs"
+        },
+        {
+          "name": "Lvnar",
+          "url": "https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "C.L.I.C.K.",
+      "url": "https://open.spotify.com/track/37GF4wrZNkyqR6ftWjktyf"
     },
     {
       "added_at": "2026-05-29 09:57:53",

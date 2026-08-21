@@ -1,29 +1,13 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 134219,
+  "num_followers": 134266,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA9Ela/Fg6aaLlzoW7h8y/P1dmUD",
+  "snapshot_id": "AAAAAM2NLLuTWJmZ0JVAUm7KqOhmFmYW",
   "tracks": [
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
-      },
-      "artists": [
-        {
-          "name": "Brenda & The Big Dudes",
-          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Weekend Special",
-      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
-    },
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 386160,
       "name": "Fantastic Man",
       "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+      },
+      "artists": [
+        {
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Weekend Special",
+      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
-      },
-      "artists": [
-        {
-          "name": "Onyeka Onwenu",
-          "url": "https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7"
-        }
-      ],
-      "duration_ms": 364706,
-      "name": "Living Music",
-      "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "I Like Your Style",
         "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 185933,
       "name": "I Like Your Style",
       "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+      },
+      "artists": [
+        {
+          "name": "Onyeka Onwenu",
+          "url": "https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7"
+        }
+      ],
+      "duration_ms": 364706,
+      "name": "Living Music",
+      "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
         }
       ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -531,6 +531,22 @@
       "duration_ms": 182226,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -567,18 +583,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
+        "name": "Boom Shaka",
+        "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
       },
       "artists": [
         {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
         }
       ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
+      "duration_ms": 339000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -651,22 +667,6 @@
       "duration_ms": 448914,
       "name": "Akula Owu Onyeara",
       "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Boom Shaka",
-        "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     }
   ],
   "unique_name": "Classic Afropop",

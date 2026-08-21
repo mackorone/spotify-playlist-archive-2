@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 279255,
+  "num_followers": 279259,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEB0f/iZT7tVrtiL2hm0RluTFbzj",
+  "snapshot_id": "AAAAAOA4KkbhNGOUFs6Ir2ABAKkfQYwl",
   "tracks": [
     {
       "added_at": "2026-08-14 15:00:14",
@@ -582,6 +582,14 @@
         {
           "name": "Dread Mar I",
           "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
       "duration_ms": 213480,
@@ -1527,6 +1535,22 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2026-08-14 15:00:14",
+      "album": {
         "name": "Trepando Paredes",
         "url": "https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC"
       },
@@ -1543,22 +1567,6 @@
       "duration_ms": 233738,
       "name": "Trepando Paredes",
       "url": "https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS"
-    },
-    {
-      "added_at": "2026-08-14 15:00:14",
-      "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "added_at": "2026-08-14 15:00:14",
@@ -1831,18 +1839,22 @@
     {
       "added_at": "2026-08-14 15:00:14",
       "album": {
-        "name": "+ de cerquita",
-        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
       "artists": [
         {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 181500,
-      "name": "c\u00e1bala (+ de cerquita)",
-      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     }
   ],
   "unique_name": "Radio Pop",

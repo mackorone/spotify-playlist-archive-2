@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+    },
+    {
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -417,6 +435,28 @@
     },
     {
       "album": {
+        "name": "it really isn't what it is",
+        "url": "https://open.spotify.com/album/33vEbEYuaVJzq96YwtB1Sb"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3jX1it7F5AP85IL1AmW36A"
+    },
+    {
+      "album": {
         "name": "Amaphutha (feat. Master KG, Lowsheen & Murumba Pitch)",
         "url": "https://open.spotify.com/album/2GMJgh17pztmTfoH740Xs0"
       },
@@ -706,6 +746,28 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+    },
+    {
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "album": {
@@ -1850,7 +1912,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 197647,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw"
@@ -1876,6 +1938,24 @@
       "duration_ms": 206529,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3mcfpjbuhVHCAdNvbEXAQS"
+    },
+    {
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106105,
+      "name": "CAN JUICE",
+      "url": "https://open.spotify.com/track/3Lty2YgO8rYeaZyiCrLedq"
     },
     {
       "album": {
@@ -3392,7 +3472,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 196176,
       "name": "Falling",
       "url": "https://open.spotify.com/track/12NrVseXqjjk8gV4LuOEW1"
@@ -5631,6 +5711,28 @@
     },
     {
       "album": {
+        "name": "FOREVER TO NEVER",
+        "url": "https://open.spotify.com/album/7cJ0nenqXNL5jnU7xhmrsM"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        },
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Jaribu",
+      "url": "https://open.spotify.com/track/6lxgzURYb3wIWoOUODsLTd"
+    },
+    {
+      "album": {
         "name": "Jaro",
         "url": "https://open.spotify.com/album/6i3bpjjJTQPZhB6ovD4HZi"
       },
@@ -5722,7 +5824,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 177087,
       "name": "Juice & Liquor",
       "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
@@ -6266,7 +6368,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207155,
       "name": "Letter To God",
       "url": "https://open.spotify.com/track/12rdodvyiBOTxhaoxX53VQ"
@@ -8123,6 +8225,28 @@
     },
     {
       "album": {
+        "name": "On My Own / Let Them Know",
+        "url": "https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l"
+    },
+    {
+      "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
@@ -9772,7 +9896,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168186,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5rXWTxgm7w41aQx1w3xN7R"
@@ -10432,7 +10556,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 145617,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/4UaWK6d1o295r49cTKnAPk"
@@ -11222,6 +11346,24 @@
       "duration_ms": 287908,
       "name": "Toxic Arms",
       "url": "https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS"
+    },
+    {
+      "album": {
+        "name": "Some Strings Attached",
+        "url": "https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0"
     },
     {
       "album": {
@@ -12018,7 +12160,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176470,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
@@ -12354,7 +12496,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164666,
       "name": "Wow",
       "url": "https://open.spotify.com/track/2rbD2qwsli5VKwoQq14sMX"

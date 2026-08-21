@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 161455,
+  "num_followers": 161509,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACh9DWO6g8b8iQxsiTYirDUSdeV8",
+  "snapshot_id": "AAAAAH7g4e8tLIZ5rrWvQRMfNdIg9zzy",
   "tracks": [
     {
       "added_at": "2026-08-01 02:46:09",
@@ -267,22 +267,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "De Cabeza",
-        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
+        "name": "Malvavisco",
+        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "Tati",
+          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
         },
         {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
         }
       ],
-      "duration_ms": 189130,
-      "name": "De Cabeza",
-      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
+      "duration_ms": 189148,
+      "name": "Malvavisco",
+      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -303,22 +303,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Malvavisco",
-        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
+        "name": "De Cabeza",
+        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
       },
       "artists": [
         {
-          "name": "Tati",
-          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         },
         {
-          "name": "Frank Miami",
-          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
         }
       ],
-      "duration_ms": 189148,
-      "name": "Malvavisco",
-      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
+      "duration_ms": 189130,
+      "name": "De Cabeza",
+      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "If You Let Go",
-        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 156101,
-      "name": "If You Let Go",
-      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 157685,
       "name": "Eco",
       "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "If You Let Go",
+        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 156101,
+      "name": "If You Let Go",
+      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Conectao",
         "url": "https://open.spotify.com/album/1fo3maaIHMFeNjeR1KrtKF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 179753,
       "name": "Conectao",
       "url": "https://open.spotify.com/track/7BsOW4E8b7BEfKsvrD9R0X"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Corazon Cerrado",
-        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 194380,
-      "name": "Corazon Cerrado",
-      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 185210,
       "name": "Lo M\u00edo Es Tuyo",
       "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 194380,
+      "name": "Corazon Cerrado",
+      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Esto es Otra Cosa",
+        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Nueva Temporada",
+      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Ya Casi (EP)",
         "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
       },
@@ -843,26 +863,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Esto es Otra Cosa",
-        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Nueva Temporada",
-      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Hoy Ver\u00e9 Su Gloria",
         "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Viene Alegr\u00eda",
-        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
-      },
-      "artists": [
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 165611,
-      "name": "Viene Alegr\u00eda",
-      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Viene Alegr\u00eda",
+        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 165611,
+      "name": "Viene Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "BUENO",
         "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 168214,
       "name": "BUENO",
       "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Momento",
-        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "SE\u00d1ALES",
         "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 169494,
       "name": "EASY - REMIX",
       "url": "https://open.spotify.com/track/2X3oy7KFbJcaMPl2pT8j9t"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Siempre y Nunca",
+        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Siempre y Nunca",
+      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Volver\u00e1",
         "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 168000,
       "name": "Volver\u00e1",
       "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Siempre y Nunca",
-        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
-      },
-      "artists": [
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Siempre y Nunca",
-      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
     },
     {
       "added_at": "2026-08-01 02:46:09",

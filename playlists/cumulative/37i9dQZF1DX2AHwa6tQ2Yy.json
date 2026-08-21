@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "Try a little tenderness. Cover: The Womack Sisters",
+  "description": "Try a little tenderness. Cover: Cleo Sol ",
   "name": "soulful",
   "tracks": [
     {
@@ -1152,6 +1152,28 @@
       "duration_ms": 261927,
       "name": "Cure (Acoustic)",
       "url": "https://open.spotify.com/track/5TX18to7ocePDq2vztymUC"
+    },
+    {
+      "album": {
+        "name": "Hallucinating Love (Deluxe)",
+        "url": "https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167537,
+      "name": "D.O.T.W - Demo",
+      "url": "https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP"
     },
     {
       "album": {
@@ -2858,6 +2880,24 @@
       "duration_ms": 163914,
       "name": "I Chose Good",
       "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "I Only Look to You",
+      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
     },
     {
       "album": {
@@ -6108,7 +6148,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 344493,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
@@ -6598,7 +6638,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 165253,
       "name": "The Hurting Truth",
       "url": "https://open.spotify.com/track/5L6K2eaphmRKjMSCDZmZJY"

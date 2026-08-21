@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10066,
+  "num_followers": 10074,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAAdcWw5UgwBbeXnVmyjqiWz",
+  "snapshot_id": "aoTyAAAAAABCdmLLKBmVHFn3aPITk4Ig",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheyenne",
-        "url": "https://open.spotify.com/album/25A9GkAVwo5T9aT6oY5f4E"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 149457,
-      "name": "Cheyenne",
-      "url": "https://open.spotify.com/track/2p1dEFTP7tnan18oxyXOI7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/4fYm6Ed22qyJGThEj9saM9"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 149457,
+      "name": "CHEYENNE",
+      "url": "https://open.spotify.com/track/716faZsCF8J3qHpkIsB8DX"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
       "duration_ms": 165949,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dulce Amargo",
-        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 160208,
-      "name": "MI REINA",
-      "url": "https://open.spotify.com/track/41MwyBZkYH8KDszAEk3I4s"
     },
     {
       "added_at": null,

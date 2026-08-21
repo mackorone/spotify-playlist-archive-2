@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2570208,
+  "num_followers": 2570163,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADpD6sReWa+N7ZhpgFei25hCwqEb",
+  "snapshot_id": "AAAAAJbIH72KDKCLGH8d1ghi98iSHMjn",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:43",
@@ -367,22 +367,26 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
-        "name": "Puzzle Box",
-        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+        "name": "Bonebreaker",
+        "url": "https://open.spotify.com/album/6rO5sbNtexE7Js3AZmVV7q"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
         }
       ],
-      "duration_ms": 212210,
-      "name": "Puzzle Box",
-      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+      "duration_ms": 180800,
+      "name": "Bonebreaker",
+      "url": "https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo"
     },
     {
       "added_at": "2026-08-14 04:01:43",
@@ -415,26 +419,30 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
-        "name": "Bonebreaker",
-        "url": "https://open.spotify.com/album/6rO5sbNtexE7Js3AZmVV7q"
+        "name": "Zombie (feat. Valerie Broussard)",
+        "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
       },
       "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
         {
           "name": "Excision",
           "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         },
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Bonebreaker",
-      "url": "https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo"
+      "duration_ms": 284643,
+      "name": "Zombie (feat. Valerie Broussard)",
+      "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
     },
     {
       "added_at": "2026-08-14 04:01:43",
@@ -475,30 +483,22 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
-        "name": "Zombie (feat. Valerie Broussard)",
-        "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
+        "name": "Puzzle Box",
+        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
-      "duration_ms": 284643,
-      "name": "Zombie (feat. Valerie Broussard)",
-      "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
+      "duration_ms": 212210,
+      "name": "Puzzle Box",
+      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
     },
     {
       "added_at": "2026-08-14 04:01:43",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/2h4HitkMjJBl62Nq8dHcdY"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 205249,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r"
-    },
-    {
-      "added_at": "2026-08-14 04:01:43",
-      "album": {
         "name": "Push Up",
         "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
       },
@@ -1091,22 +1067,26 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
-        "name": "FACEDOWN",
-        "url": "https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c"
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/2h4HitkMjJBl62Nq8dHcdY"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
         }
       ],
-      "duration_ms": 156800,
-      "name": "FACEDOWN",
-      "url": "https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I"
+      "duration_ms": 205249,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r"
     },
     {
       "added_at": "2026-08-14 04:01:43",
@@ -1127,6 +1107,26 @@
       "duration_ms": 171428,
       "name": "Cocaine Inside My Blunts (Tape B Remix)",
       "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
+    },
+    {
+      "added_at": "2026-08-14 04:01:43",
+      "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I"
     },
     {
       "added_at": "2026-08-14 04:01:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
-        "name": "nolimit",
-        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 164139,
-      "name": "select@",
-      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
-    },
-    {
-      "added_at": "2026-08-14 04:01:43",
-      "album": {
         "name": "MINDFULL",
         "url": "https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb"
       },
@@ -1475,6 +1459,38 @@
     {
       "added_at": "2026-08-14 04:01:43",
       "album": {
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 164139,
+      "name": "select@",
+      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
+    },
+    {
+      "added_at": "2026-08-14 04:01:43",
+      "album": {
+        "name": "SO HYPE",
+        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
+      },
+      "artists": [
+        {
+          "name": "MAXARKA",
+          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
+        }
+      ],
+      "duration_ms": 175805,
+      "name": "SO HYPE",
+      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
+    },
+    {
+      "added_at": "2026-08-14 04:01:43",
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 155586,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv"
-    },
-    {
-      "added_at": "2026-08-14 04:01:43",
-      "album": {
-        "name": "SO HYPE",
-        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
-      },
-      "artists": [
-        {
-          "name": "MAXARKA",
-          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
-        }
-      ],
-      "duration_ms": 175805,
-      "name": "SO HYPE",
-      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
       "added_at": "2026-08-14 04:01:43",

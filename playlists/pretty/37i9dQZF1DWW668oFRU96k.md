@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Kygo x Khalid x Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,413 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,419 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 99 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 100 | [More Than A Friend](https://open.spotify.com/track/0gVlXqAE1HRkbcCDDFzJSg) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [More Than A Friend](https://open.spotify.com/album/426ESTUvVdCwRoTZ95PIxw) | 3:20 |
 
-Snapshot ID: `AAAAAFBO0oKlKFxuZcmi9Nfg7T7hED/K`
+Snapshot ID: `AAAAAE1a7wBXW/y8kzM5++0mXH1dX3cB`

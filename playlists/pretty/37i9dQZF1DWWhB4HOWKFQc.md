@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Katyana, Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,190 likes - 103 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517,267 likes - 103 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 102 | [Close to You](https://open.spotify.com/track/2G5ItTp6kepUVeJrsmFSbQ) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Close to You](https://open.spotify.com/album/35XKlAPheGcZUQ2nh7eKtw) | 3:17 |
 | 103 | [Magnolia](https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Fantasia](https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU) | 4:16 |
 
-Snapshot ID: `AAAAAJ9sahKX9d142vsyJkI6popWWP8y`
+Snapshot ID: `AAAAABaxzGE2zFpHl4g8bhEyyLWB+S3o`

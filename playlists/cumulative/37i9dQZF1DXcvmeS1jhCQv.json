@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: Kingfishr",
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Fontaines D.C.",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 209000,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/0zDh3nGjdZQUw4NVTVJiGe"
+    },
+    {
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/3o0XIkLo0iOS7w553EQXw3"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205851,
+      "name": "Aero",
+      "url": "https://open.spotify.com/track/48XFc12VlpoYgRi8e9W9HR"
     },
     {
       "album": {
@@ -1721,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "CHOOSY",
+        "url": "https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "CHOOSY",
+      "url": "https://open.spotify.com/track/6bKGIXgqSvHjAkyvtuIgXu"
+    },
+    {
+      "album": {
         "name": "Chris Pratt",
         "url": "https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply"
       },
@@ -1830,6 +1866,24 @@
       "duration_ms": 327266,
       "name": "Come And See",
       "url": "https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP"
+    },
+    {
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6A2w30h3MJbA2bNBspFqNA"
+      },
+      "artists": [
+        {
+          "name": "Maria Healy",
+          "url": "https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224678,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/4aaOo7D7DRfexRFRDQbenh"
     },
     {
       "album": {
@@ -2238,7 +2292,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 152571,
       "name": "DID IT AGAIN (feat. Fred again..)",
       "url": "https://open.spotify.com/track/2MfWz9bUFvQyxK2lGygobj"
@@ -2696,7 +2750,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 218236,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV"
@@ -2794,7 +2848,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168441,
       "name": "Evil",
       "url": "https://open.spotify.com/track/5YemRFrDzu4E7Nli1T3v3p"
@@ -3012,6 +3066,24 @@
       "duration_ms": 194520,
       "name": "FENIAN",
       "url": "https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck"
+    },
+    {
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7b0yiSwEMuHFDcTqdh8Lte"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185507,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/2AbiWiDcpNcKkHeJqxWx1Z"
     },
     {
       "album": {
@@ -3440,7 +3512,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 188777,
       "name": "Grenadine",
       "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
@@ -3646,6 +3718,24 @@
       "duration_ms": 216621,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF"
+    },
+    {
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/0XoliO26rrMv7jZevm6Mjx"
+      },
+      "artists": [
+        {
+          "name": "Jordan O'Keefe",
+          "url": "https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200331,
+      "name": "History",
+      "url": "https://open.spotify.com/track/2HQlRWQAxJlCNQEMehwtYC"
     },
     {
       "album": {
@@ -4537,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "Keep Up (feat. Boohavinn)",
+        "url": "https://open.spotify.com/album/72nnb1NESNu80FvKIi38Kh"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Boohavinn",
+          "url": "https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102083,
+      "name": "Keep Up (feat. Boohavinn)",
+      "url": "https://open.spotify.com/track/13yfsQmT13TosKcw6181NQ"
+    },
+    {
+      "album": {
         "name": "Keira Knightley",
         "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
       },
@@ -4548,7 +4660,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 205554,
       "name": "Keira Knightley",
       "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
@@ -4750,6 +4862,24 @@
       "duration_ms": 213356,
       "name": "Life I Chose",
       "url": "https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0"
+    },
+    {
+      "album": {
+        "name": "Life With You (By My Side)",
+        "url": "https://open.spotify.com/album/12CdP9WBlPIXaD3GHNYAdJ"
+      },
+      "artists": [
+        {
+          "name": "Groev",
+          "url": "https://open.spotify.com/artist/2eu5iaDTUfmQ2SHCbljt71"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "Life With You (By My Side)",
+      "url": "https://open.spotify.com/track/6k3dyH2j18EYbsOxYbOQus"
     },
     {
       "album": {
@@ -5236,7 +5366,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 236488,
       "name": "Maiden City",
       "url": "https://open.spotify.com/track/6YmmE0MmXb3cIflkrf2xdp"
@@ -5306,6 +5436,24 @@
       "duration_ms": 188307,
       "name": "Make Ya Go",
       "url": "https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "album": {
@@ -5421,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/5LnjwExwW9VIydhVkJpWd0"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183205,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5doPp2gLedN8gCSyZLJrYs"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/5S2Xg5N8mzPY4zZe1oPGZU"
       },
@@ -5504,7 +5670,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 302908,
       "name": "Moral Victory",
       "url": "https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E"
@@ -7068,7 +7234,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 136875,
       "name": "SADDLE",
       "url": "https://open.spotify.com/track/2pnjtDco9oQZZyokWM7Nue"
@@ -7126,6 +7292,24 @@
       "duration_ms": 97784,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/6T52Nwzdn3YkPefljuLfs2"
+    },
+    {
+      "album": {
+        "name": "Say The Word",
+        "url": "https://open.spotify.com/album/0kEHWGAMsXQJa0hlgKVVxU"
+      },
+      "artists": [
+        {
+          "name": "anna leah",
+          "url": "https://open.spotify.com/artist/5e9KbGgdnBvD8H1marauXz"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Say The Word",
+      "url": "https://open.spotify.com/track/7wtZgOCR9U05HsA19F0iBt"
     },
     {
       "album": {
@@ -7746,7 +7930,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
@@ -8650,7 +8834,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 160000,
       "name": "The Sunnyside of the Street",
       "url": "https://open.spotify.com/track/34XpM7TFZMtu1TvG4eSUPi"

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 440258,
+  "num_followers": 440599,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9DE224/+gRcEjIDpZs9VBFoF4U",
+  "snapshot_id": "AAAAAArDEdSUpEHWGfA4TfpmyHS6cl6o",
   "tracks": [
     {
       "added_at": "2026-06-30 12:12:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 244874,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Always Thinkin' Of You",
-      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 233666,
       "name": "Straight to the Heart",
       "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Always Thinkin' Of You",
+      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 325800,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
-      },
-      "artists": [
-        {
-          "name": "Three Peats",
-          "url": "https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco"
-        }
-      ],
-      "duration_ms": 216144,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Smooth Jazz Radio Hits Volume Two",
         "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 216293,
       "name": "In The City Life",
       "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
+      },
+      "artists": [
+        {
+          "name": "Three Peats",
+          "url": "https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco"
+        }
+      ],
+      "duration_ms": 216144,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
+        "name": "simply delicious",
+        "url": "https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV"
+      },
+      "artists": [
+        {
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+        }
+      ],
+      "duration_ms": 193937,
+      "name": "simply delicious",
+      "url": "https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
         "name": "astro turf",
         "url": "https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 220374,
       "name": "astro turf",
       "url": "https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
-        "name": "simply delicious",
-        "url": "https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV"
-      },
-      "artists": [
-        {
-          "name": "Sweet Spot Lab",
-          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
-        }
-      ],
-      "duration_ms": 193937,
-      "name": "simply delicious",
-      "url": "https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Chesterfield",
-        "url": "https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE"
+        "name": "The Dubble",
+        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
       },
       "artists": [
         {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
         }
       ],
-      "duration_ms": 183969,
-      "name": "Chesterfield",
-      "url": "https://open.spotify.com/track/6hNgsrHsGMeeN9BOGXZX8X"
+      "duration_ms": 176000,
+      "name": "The Dubble",
+      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "The Dubble",
-        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+        "name": "Chesterfield",
+        "url": "https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE"
       },
       "artists": [
         {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
         }
       ],
-      "duration_ms": 176000,
-      "name": "The Dubble",
-      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
+      "duration_ms": 183969,
+      "name": "Chesterfield",
+      "url": "https://open.spotify.com/track/6hNgsrHsGMeeN9BOGXZX8X"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Babysoul",
         "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 284986,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2026-06-30 12:12:11",

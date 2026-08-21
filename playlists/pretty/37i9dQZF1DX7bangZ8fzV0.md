@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Appel, Riaan Benadé, Ricus Nel en Bok Van Blerk
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,704 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,747 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 4 | [Storm](https://open.spotify.com/track/5JVJlHLq0mJdA35ENWyUb6) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Koma](https://open.spotify.com/album/63vHUkTXy9xNhBeBkI4Y1l) | 3:19 |
 | 5 | [Pakkie Mal Berou \(Marlboro\)](https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Pakkie Mal Berou \(Marlboro\)](https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1) | 2:46 |
 | 6 | [Plaas Dorp Toe](https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Plaas Dorp Toe](https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC) | 3:18 |
-| 7 | [Sal Jy Bly](https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4) | [Roeper](https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz) | 3:48 |
+| 7 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 |
 | 8 | [Dank Die Here Vir Jou](https://open.spotify.com/track/1vWle2FaFHWU0mpLilFz8M) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Nuwe Spore](https://open.spotify.com/album/6RNnzl4wOCBsemtp5dqHfv) | 3:17 |
-| 9 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 |
+| 9 | [Sal Jy Bly](https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4) | [Roeper](https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz) | 3:48 |
 | 10 | [Dammit Ek's Lief Vir Jou](https://open.spotify.com/track/58qJEaNPlE6r3YHtODkNpS) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Dammit Ek's Lief Vir Jou](https://open.spotify.com/album/3sTJfmAS3f5UMzI34cmtDo) | 2:50 |
 | 11 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 |
 | 12 | [Alice](https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Genesis](https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m) | 3:36 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 37 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 38 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
 | 39 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |
-| 40 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
-| 41 | [Lenie Blou](https://open.spotify.com/track/5O17tIhBU2Z3JGzrJPR11k) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Lenie Blou](https://open.spotify.com/album/6krZkJORCAZDFizJ1Op5XJ) | 3:00 |
+| 40 | [Lenie Blou](https://open.spotify.com/track/5O17tIhBU2Z3JGzrJPR11k) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Lenie Blou](https://open.spotify.com/album/6krZkJORCAZDFizJ1Op5XJ) | 3:00 |
+| 41 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
 | 42 | [Regte Plekke](https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Regte Plekke](https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS) | 3:09 |
 | 43 | [Tina Tequila](https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Tina Tequila](https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61) | 3:21 |
 | 44 | [Genadewater](https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Genadewater](https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 79 | [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 |
 | 80 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
 
-Snapshot ID: `AAAAAJk9OtMpZ7AnBP6i9pB1YGVWXhe6`
+Snapshot ID: `AAAAADWZzK5iEi0JU+p4mTnMAarRyyPB`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADrjt6MjSfPBf7GVK9bviWb",
+  "snapshot_id": "aoTyAAAAAAAsej5fUoQ3WYXy0WvqdsM7",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
-        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 170093,
-      "name": "Rodzinne ta\u0144ce",
-      "url": "https://open.spotify.com/track/5a6bP8VkKLhBCKlWYWdKKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -235,38 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "George's Realization",
-      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 83293,
-      "name": "Big City Train",
-      "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
         "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
       },
@@ -276,25 +244,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 176493,
-      "name": "Odkrycie Mirabel",
-      "url": "https://open.spotify.com/track/0SRlIQjLoCCr8TXpZbB3ar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 130639,
-      "name": "The Ultimate Vision",
-      "url": "https://open.spotify.com/track/6H3MJlrliScYcpPfGLwPis"
+      "duration_ms": 170093,
+      "name": "Rodzinne ta\u0144ce",
+      "url": "https://open.spotify.com/track/5a6bP8VkKLhBCKlWYWdKKQ"
     },
     {
       "added_at": null,
@@ -331,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 130639,
+      "name": "The Ultimate Vision",
+      "url": "https://open.spotify.com/track/6H3MJlrliScYcpPfGLwPis"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 114920,
       "name": "A Life Apart",
       "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
+        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Odkrycie Mirabel",
+      "url": "https://open.spotify.com/track/0SRlIQjLoCCr8TXpZbB3ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 83293,
+      "name": "Big City Train",
+      "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 119240,
-      "name": "The Landscape Medley",
-      "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 294146,
       "name": "Agent Down",
       "url": "https://open.spotify.com/track/2yXVQ7k2Z4kiNf2G5IQxL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 35842,
+      "name": "Wagon Discovery",
+      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
+        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 130640,
+      "name": "Wizja",
+      "url": "https://open.spotify.com/track/1eOpOVtylL5ScWpiIpA71m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 35842,
-      "name": "Wagon Discovery",
-      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
+      "duration_ms": 119240,
+      "name": "The Landscape Medley",
+      "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
     },
     {
       "added_at": null,
@@ -471,6 +487,54 @@
       "duration_ms": 200093,
       "name": "Lyset",
       "url": "https://open.spotify.com/track/1Siv1UWHvx0gxMju4DVILw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 93546,
+      "name": "Ted's TV Realization",
+      "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
+        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "\u015awieca",
+      "url": "https://open.spotify.com/track/4wgl1FUAk9r7YoZFFXoHcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Stampede",
+      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
     },
     {
       "added_at": null,
@@ -500,41 +564,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 93546,
-      "name": "Ted's TV Realization",
-      "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "The Stampede",
-      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
-        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "\u015awieca",
-      "url": "https://open.spotify.com/track/4wgl1FUAk9r7YoZFFXoHcg"
+      "duration_ms": 87013,
+      "name": "Masks And Mirrors",
+      "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
     },
     {
       "added_at": null,
@@ -555,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 66040,
-      "name": "Royal Jet",
-      "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 129973,
-      "name": "Ginny's Home",
-      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
+      "duration_ms": 67600,
+      "name": "Giant Sea Turtle",
+      "url": "https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4"
     },
     {
       "added_at": null,
@@ -596,9 +612,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
+      "duration_ms": 52466,
+      "name": "Wie\u017ca Bruna",
+      "url": "https://open.spotify.com/track/2ljQ69dbtXbM1NfH8bDOcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encanto (Originalt Dansk Soundtrack)",
+        "url": "https://open.spotify.com/album/3jgHbcvVs1iyvjYTLzXikO"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
       "duration_ms": 130640,
-      "name": "Wizja",
-      "url": "https://open.spotify.com/track/1eOpOVtylL5ScWpiIpA71m"
+      "name": "Den endegyldige vision",
+      "url": "https://open.spotify.com/track/6obqSFTAhrQvbAfJRKRlgR"
     },
     {
       "added_at": null,
@@ -619,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encanto (Originalt Dansk Soundtrack)",
-        "url": "https://open.spotify.com/album/3jgHbcvVs1iyvjYTLzXikO"
+        "name": "Encanto (Banda Sonora Original em Portugu\u00eas)",
+        "url": "https://open.spotify.com/album/4yUmmPiYSzYaSk9B1Ewn6m"
       },
       "artists": [
         {
@@ -629,8 +661,8 @@
         }
       ],
       "duration_ms": 130640,
-      "name": "Den endegyldige vision",
-      "url": "https://open.spotify.com/track/6obqSFTAhrQvbAfJRKRlgR"
+      "name": "A Derradeira Vis\u00e3o",
+      "url": "https://open.spotify.com/track/1LTC1o0g4Du4m1ttbAcJN2"
     },
     {
       "added_at": null,
@@ -655,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
-        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
+        "name": "Tag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
       },
       "artists": [
         {
@@ -664,25 +696,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 52466,
-      "name": "Wie\u017ca Bruna",
-      "url": "https://open.spotify.com/track/2ljQ69dbtXbM1NfH8bDOcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encanto (Banda Sonora Original em Portugu\u00eas)",
-        "url": "https://open.spotify.com/album/4yUmmPiYSzYaSk9B1Ewn6m"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 130640,
-      "name": "A Derradeira Vis\u00e3o",
-      "url": "https://open.spotify.com/track/1LTC1o0g4Du4m1ttbAcJN2"
+      "duration_ms": 67933,
+      "name": "Doves Loophole",
+      "url": "https://open.spotify.com/track/3uEujXUaOKRENFh719Rodh"
     },
     {
       "added_at": null,
@@ -699,58 +715,6 @@
       "duration_ms": 138653,
       "name": "Dear Zoe",
       "url": "https://open.spotify.com/track/71bvni2XSb2PD9ab7sJNZx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
-      },
-      "artists": [
-        {
-          "name": "John Debney",
-          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
-        },
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 71853,
-      "name": "Dora and the Lost City of Gold",
-      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 130663,
-      "name": "Margarita's Cha Cha",
-      "url": "https://open.spotify.com/track/6nDOL5nhJUk9MCf8PjewZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 67933,
-      "name": "Doves Loophole",
-      "url": "https://open.spotify.com/track/3uEujXUaOKRENFh719Rodh"
     },
     {
       "added_at": null,
@@ -807,34 +771,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
       "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 107680,
-      "name": "Weather's Coming In",
-      "url": "https://open.spotify.com/track/2OqWXV1kcS7rfPSH7FkEME"
+      "duration_ms": 71853,
+      "name": "Dora and the Lost City of Gold",
+      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
       "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 382120,
-      "name": "Spring Peach Tree Blossoms",
-      "url": "https://open.spotify.com/track/5p5f3NLKUOBm7xSYu5WjfV"
+      "duration_ms": 109573,
+      "name": "You Have Friends Now",
+      "url": "https://open.spotify.com/track/6hCkEs8KRfeTVNrD94zCYN"
     }
   ],
   "unique_name": "This Is Germaine Franco",

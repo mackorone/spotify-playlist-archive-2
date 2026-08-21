@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: SMJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,567 likes - 75 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,590 likes - 75 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Mari Glock](https://open.spotify.com/track/4tcerjzYYVUdIcfcYfuvRa) | [Lil Noonie](https://open.spotify.com/artist/5k4L34gsiyB0HgS4yPso2h), [Lil Sy](https://open.spotify.com/artist/72CLkm7zXfuBxvLU9hjmsi) | [51 Days & 54 Nights Walkin](https://open.spotify.com/album/3oLF2NLYR1s77uIxtU0cTF) | 2:00 |
 | 75 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAABvDc48BExwpZVOMmITOh8FEgXJ4`
+Snapshot ID: `AAAAALC0WBeCaqQ7lAx0agqQGCj4qtkP`

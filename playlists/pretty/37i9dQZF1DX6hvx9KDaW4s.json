@@ -1,12 +1,12 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 567556,
+  "num_followers": 567545,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6bWUOJaVZj0O78Fnrhlkh3vEAy",
+  "snapshot_id": "AAAAAD2T4MP45/K82vKKrrFM140IkzIc",
   "tracks": [
     {
       "added_at": "2024-02-06 14:45:41",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
     },
     {
+      "added_at": "2024-07-19 11:51:28",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
       "added_at": "2024-02-06 14:45:41",
       "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
@@ -591,22 +607,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-07-19 11:51:28",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2024-07-19 11:51:28",

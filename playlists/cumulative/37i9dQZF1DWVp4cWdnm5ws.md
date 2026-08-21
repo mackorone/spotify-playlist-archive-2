@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
+> Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
 
-350 songs - 20 hr 41 min
+354 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [ano na?](https://open.spotify.com/track/4gkzPjkYp7ktLcAflF5aPa) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [ano na?](https://open.spotify.com/album/4pdjDYCoUzkUxx6OOx9U4s) | 3:26 | 2026-04-06 |  |
 | [Another Day](https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Another Day](https://open.spotify.com/album/13EhQoTZsk8mfqwbGPG2E8) | 4:28 | 2022-10-25 | 2022-12-01 |
 | [Aswang sa Maynila](https://open.spotify.com/track/424bBEqg4ggyNtEy1GtvPA) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr), [Novocrane](https://open.spotify.com/artist/3G4EbmaEUiibM9xzQ0XmgZ) | [Aswang sa Maynila](https://open.spotify.com/album/3cy4nnkHXOvsOxS9803bst) | 2:42 | 2026-04-06 |  |
+| [Awit ng Pag\-ibig](https://open.spotify.com/track/067MuzlHQlDtrNwqPsuhFk) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [People Pleaser](https://open.spotify.com/album/7FvZaWjqDg6MHAtflcVPV1) | 3:39 | 2026-08-21 |  |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-07 | 2025-03-28 |
 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Cursebox](https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 | 2022-09-08 | 2022-12-01 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-04-02 | 2025-03-28 |
@@ -68,6 +69,7 @@
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2022-09-29 | 2024-04-03 |
 | [Dance With Me](https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:04 | 2025-10-06 | 2026-04-07 |
 | [DANCE WITH ME](https://open.spotify.com/track/5q6J1vJEa0hEvVi2x0CYLe) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc), [Cozyivy](https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS), [$NPRD](https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6) | [DANCE WITH ME](https://open.spotify.com/album/63EnT6IyINg2wXeove6VaV) | 4:00 | 2026-05-05 |  |
+| [Dapit Hapon](https://open.spotify.com/track/2fLtn1PrNgT8BEVEdZBIom) | [Jose At Melodiya](https://open.spotify.com/artist/5Lr7OYrBSUhC4I8nGHutjd), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [Dapit Hapon](https://open.spotify.com/album/5Sbome4yMoei2michARZB2) | 4:40 | 2026-08-21 |  |
 | [Darling, Darling](https://open.spotify.com/track/0mgbFVGzXKO41p9oxoas0c) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Darling, Darling](https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z) | 4:50 | 2021-11-25 | 2022-03-25 |
 | [Day and Night](https://open.spotify.com/track/1RU1XW9hYD5A4lcINT5NaE) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Day and Night](https://open.spotify.com/album/5U6CaoKUoWzGFloJgLfg2Q) | 3:24 | 2023-06-16 | 2024-04-03 |
 | [Delikado](https://open.spotify.com/track/79hOmFOZM0XZMBQE7rF4Gi) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Delikado](https://open.spotify.com/album/28fntKUsi2qv7tO8jbyADU) | 4:59 | 2024-04-02 | 2025-03-28 |
@@ -144,6 +146,7 @@
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2025-12-03 | 2026-01-18 |
 | [ILY](https://open.spotify.com/track/5TdqUrSeOfB2v829CiZifA) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [PLAYAZ SZN](https://open.spotify.com/album/05TOROYB5ib6FZk9p5laTU) | 2:59 | 2025-03-27 | 2026-04-07 |
 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 | 2022-03-24 | 2023-04-14 |
+| [It's Not the Same as It Used to Be](https://open.spotify.com/track/0REgMRNq5N9LcepxTXQnlG) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [It's Not the Same as It Used to Be](https://open.spotify.com/album/48ltgfaI18H7l5lyHoXR7s) | 3:50 | 2026-08-21 |  |
 | [It's You](https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [It's You](https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo) | 2:27 | 2023-07-31 | 2024-04-03 |
 | [ITABI MO](https://open.spotify.com/track/5BOE9wj3l7tzU7iCZVIJZL) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [ITABI MO](https://open.spotify.com/album/3XcTVWWePCLeDukbNHFOi0) | 2:31 | 2026-04-06 |  |
 | [Iyong Iyo](https://open.spotify.com/track/6RUEFRLol05iSCzQaCHNK5) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Iyong Iyo](https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR) | 3:22 | 2021-11-25 | 2022-03-25 |
@@ -286,6 +289,7 @@
 | [SIGA](https://open.spotify.com/track/1TeuLilP2MQIup1Xd2Me5B) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [SIGA](https://open.spotify.com/album/0K22wqjAcKBoQXMa8LtV6H) | 3:51 | 2025-03-27 | 2026-04-07 |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-04-02 | 2025-03-28 |
 | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/track/5DARNIgi6aaJxGD5SKAUal) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Sam Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/album/4gBNPqTdgUJr2Box5PO8WM) | 4:28 | 2022-08-12 | 2022-12-01 |
+| [SINAYANG MO](https://open.spotify.com/track/2en7U6rrWfZomS9y7AWleC) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [SINAYANG MO](https://open.spotify.com/album/0whfWV03SIkgggiwxATXRl) | 5:00 | 2026-08-21 |  |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-07 | 2025-10-06 |
 | [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-23 | 2026-04-07 |
 | [Slow Burn](https://open.spotify.com/track/4Vc9QBoqlzWzDNEHwwKKTU) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Slow Burn](https://open.spotify.com/album/0Yb4SCZrLJYzxS3muoDYUl) | 2:18 | 2024-04-02 | 2025-03-28 |

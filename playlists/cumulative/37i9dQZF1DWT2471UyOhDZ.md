@@ -2,9 +2,9 @@
 
 ### [The Listening Post](https://open.spotify.com/playlist/37i9dQZF1DWT2471UyOhDZ)
 
-> A hand\-picked selection for an extraordinary palette\. Cover: Nina Winder\-Lind
+> A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-499 songs - 1 day 8 hr 11 min
+502 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-09-04 | 2026-08-08 |
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 | 2025-02-14 |
+| [3310](https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [3310](https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb) | 3:02 | 2026-08-20 |  |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-20 |  |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-04 | 2026-06-19 |
 | [A Drop In The Ocean](https://open.spotify.com/track/4Kp6PKl4GKxtIvcrD3S9cJ) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [A Drop In The Ocean](https://open.spotify.com/album/5ja3DPgh2AZpRUWFummxR2) | 4:26 | 2025-02-28 | 2025-03-13 |
@@ -141,7 +142,7 @@
 | [Electra](https://open.spotify.com/track/4E9DGHAa0eUrz656VVNm5D) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Electra](https://open.spotify.com/album/5l4aX9riElSOn2e7Qw9lzf) | 3:30 | 2024-07-11 | 2024-08-15 |
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-11-15 | 2025-02-12 |
 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 | 2025-03-21 | 2025-10-10 |
-| [Emotionally Unavailable](https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Emotionally Unavailable](https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC) | 2:44 | 2026-06-12 |  |
+| [Emotionally Unavailable](https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Emotionally Unavailable](https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC) | 2:44 | 2026-06-12 | 2026-08-21 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-06-14 | 2025-03-22 |
 | [En Forma](https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq) | 3:48 | 2024-06-14 | 2024-10-07 |
 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 | 2025-03-21 | 2026-06-19 |
@@ -171,7 +172,7 @@
 | [Flowers](https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Flowers](https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv) | 4:00 | 2025-02-28 | 2026-06-19 |
 | [Flying Fish](https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [66](https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp) | 4:41 | 2024-06-14 | 2024-11-18 |
 | [For the Cold Country](https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the Cold Country](https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY) | 6:27 | 2025-03-28 | 2025-06-09 |
-| [Foremothers](https://open.spotify.com/track/5YWWODFNkHVhOnl34R1GQb) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Wild Love](https://open.spotify.com/album/14lUXimueH6tfm8jOmHXWq) | 4:19 | 2026-08-13 |  |
+| [Foremothers](https://open.spotify.com/track/5YWWODFNkHVhOnl34R1GQb) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Wild Love](https://open.spotify.com/album/14lUXimueH6tfm8jOmHXWq) | 4:19 | 2026-08-13 | 2026-08-21 |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-06-14 | 2025-01-17 |
 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 | 2024-06-14 | 2025-01-31 |
 | [Frozen](https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Whiplash](https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah) | 4:14 | 2024-10-17 | 2025-10-23 |
@@ -425,7 +426,7 @@
 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 | 2026-01-12 |  |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-06-14 | 2025-05-24 |
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-06-14 | 2025-02-16 |
-| [The Ever After](https://open.spotify.com/track/5kop1pa4mJso9v6Uz9wvNf) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Ever After](https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh) | 5:18 | 2026-07-31 |  |
+| [The Ever After](https://open.spotify.com/track/5kop1pa4mJso9v6Uz9wvNf) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Ever After](https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh) | 5:18 | 2026-07-31 | 2026-08-21 |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-30 |  |
 | [The Fun Of It](https://open.spotify.com/track/0sZiA8PyKTcp1uijfYKE7l) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h), [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [The Fun Of It](https://open.spotify.com/album/5GGexOrSca2hpeBUXgdj3K) | 3:37 | 2024-10-06 | 2024-10-16 |
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-11 |  |
@@ -452,6 +453,7 @@
 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 | 2024-06-14 | 2025-01-19 |
 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 | 2025-01-31 | 2025-09-05 |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-17 | 2025-05-31 |
+| [Things Take Time](https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Things Take Time](https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e) | 3:14 | 2026-08-20 |  |
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2024-11-15 | 2025-05-09 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 |  |
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-21 | 2026-06-19 |
@@ -500,6 +502,7 @@
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-04 |  |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-14 | 2024-08-28 |
 | [World on a String](https://open.spotify.com/track/2DrvOkDbR6GEzBdMTnYBqg) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/6jA0g1Eoa6rRidu501dcJb) | 3:09 | 2024-06-14 | 2024-07-12 |
+| [Worried Age](https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [It Goes On](https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL) | 3:58 | 2026-08-20 |  |
 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 | 2025-06-20 | 2025-10-26 |
 | [Wreck](https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Neon Grey Midnight Green](https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU) | 3:10 | 2025-10-02 | 2026-07-26 |
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-10-06 | 2025-10-24 |

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 352205,
+  "num_followers": 352228,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvtt6Q/8ZpkUHAgyAy86yKLJRlp",
+  "snapshot_id": "AAAAAB5FkugjnIoetQ6hn9OTnIVQ4Ez4",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:18",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "8 Lunas",
         "url": "https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 260680,
       "name": "Carta urgente (feat. Abel Pintos)",
       "url": "https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Con Derecho A...",
-        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Con Derecho A...",
+        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "Ajuste de cuentas",
+        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
+      },
+      "artists": [
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
         "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 198106,
       "name": "Dama Dama (Album Version)",
       "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "Ajuste de cuentas",
-        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
-      },
-      "artists": [
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "Ajuste de cuentas",
+        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
+      },
+      "artists": [
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 280053,
+      "name": "Salitre",
+      "url": "https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "Ajuste de cuentas",
-        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
-      },
-      "artists": [
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
-        }
-      ],
-      "duration_ms": 280053,
-      "name": "Salitre",
-      "url": "https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Rueda eterna",
         "url": "https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Rug\u00edo de Sentir",
         "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Esencial Antonio Flores",
-        "url": "https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "No Dudaria",
-      "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 248413,
       "name": "Me quedo contigo - Radio Edit",
       "url": "https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Esencial Antonio Flores",
+        "url": "https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "No Dudaria",
+      "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "inCubando",
-        "url": "https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9"
-      },
-      "artists": [
-        {
-          "name": "Carmen Paris",
-          "url": "https://open.spotify.com/artist/5yp8l1WcFIYNiJlHMScIrO"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "25 a\u00f1os",
-      "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Lo Mejor de Jarcha",
         "url": "https://open.spotify.com/album/4A2kC4Hx8VBzJHNoevK9PY"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 223840,
       "name": "Libertad Sin Ira",
       "url": "https://open.spotify.com/track/5WpP4Mbh0C5agPEhXfWNlH"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "inCubando",
+        "url": "https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9"
+      },
+      "artists": [
+        {
+          "name": "Carmen Paris",
+          "url": "https://open.spotify.com/artist/5yp8l1WcFIYNiJlHMScIrO"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "25 a\u00f1os",
+      "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
     },
     {
       "added_at": "2026-08-06 22:01:18",

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover:  Kaitlin Butts",
-  "num_followers": 315487,
+  "num_followers": 315474,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIj/lXiMovhtL0BnMEFeHOd9BavQ",
+  "snapshot_id": "AAAAAOoQc2MBgG9j60L5ZCs1Y9UNCadI",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:13",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "You Make Sense To Me",
         "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 235804,
       "name": "You Make Sense To Me",
       "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Lone Star",
-        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
-      },
-      "artists": [
-        {
-          "name": "Cactus Lee",
-          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
-        }
-      ],
-      "duration_ms": 335846,
-      "name": "Lone Star",
-      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 249734,
       "name": "Home With My Dog",
       "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "duration_ms": 335846,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Good While It Lasted",
-        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Good While It Lasted",
-      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Livin\u2019 In Shame",
         "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 198062,
       "name": "All My Exes Live in L.A.",
       "url": "https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "California Blues",
-        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 258645,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
       "artists": [
         {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
       },
       "artists": [
         {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
         }
       ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
-      },
-      "artists": [
-        {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
       },
@@ -1563,6 +1547,38 @@
       "duration_ms": 220571,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 223713,
+      "name": "Trouble Me Anytime",
+      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
+      },
+      "artists": [
+        {
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1583,22 +1599,6 @@
       "duration_ms": 182993,
       "name": "BROKEN PIECES",
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 223713,
-      "name": "Trouble Me Anytime",
-      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2026-08-14 04:01:13",

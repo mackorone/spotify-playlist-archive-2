@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 10 hr 21 min
+213 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,8 @@
 | [BlaBlaBla](https://open.spotify.com/track/14XKk6Ly4Os7O3KKMLBnfP) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:34 | 2024-06-06 |  |
 | [Blank](https://open.spotify.com/track/0FqfiePOpYPAbzfxgusZBh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Bloom](https://open.spotify.com/album/5rZR4RN5PQnbhlhYb2Yauf) | 2:29 | 2024-04-29 |  |
 | [Bollywood](https://open.spotify.com/track/3hfLzd5e6KUxzKu5pM5Q5a) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Manifesto](https://open.spotify.com/album/4YUfK0PiSPAYjJZst0Xd0t) | 3:03 | 2024-04-29 |  |
-| [Bottiglie Vuote](https://open.spotify.com/track/31kO7My7HtRGRv0M20QZRN) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:15 | 2025-08-28 | 2026-08-19 |
-| [Bottiglie Vuote \(feat\. Max Pezzali\)](https://open.spotify.com/track/5wpNF7XLTW4gLyU0NjVOL8) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS), [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:14 | 2026-08-18 |  |
+| [Bottiglie Vuote](https://open.spotify.com/track/31kO7My7HtRGRv0M20QZRN) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:15 | 2025-08-28 |  |
+| [Bottiglie Vuote \(feat\. Max Pezzali\)](https://open.spotify.com/track/5wpNF7XLTW4gLyU0NjVOL8) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS), [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:14 | 2026-08-18 | 2026-08-21 |
 | [BREAKOUT v10](https://open.spotify.com/track/6bkNqpZYmcM4kbOCa8ubPl) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:19 | 2024-04-29 |  |
 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 | 2024-04-29 |  |
 | [CHE MUTANDE HAI v9](https://open.spotify.com/track/4QWsUSBK8aL8nNwqtF9MWS) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:22 | 2024-04-29 |  |
@@ -215,9 +215,11 @@
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2025-08-22 |  |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2026-07-27 |  |
 | [Universo](https://open.spotify.com/track/1l3WQM4gqyzywyrc0AYrFi) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:43 | 2024-04-29 |  |
+| [VAMPIRO](https://open.spotify.com/track/1n4es6teVTXY4TbSSOzekf) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [VAMPIRO](https://open.spotify.com/album/2vDG7La75UyjOy7jJ4UOU4) | 2:48 | 2026-08-20 |  |
 | [Voglia di vivere](https://open.spotify.com/track/7x4JF2p31MBdOv922q7ClU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/43JfFH8IVf0q2jRzzE9JNG) | 2:24 | 2024-04-29 |  |
 | [Wah Wah](https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Wah Wah](https://open.spotify.com/album/7hW0lNWIc1ll7RjjCn0k64) | 2:28 | 2024-04-29 |  |
 | [WOW](https://open.spotify.com/track/523Bm7ywcol4A4FdQrpWvi) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:27 | 2024-06-07 |  |
 | [Your Dog](https://open.spotify.com/track/2i14aAqcI8ArpdDr1SXbJK) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 2:53 | 2025-08-27 |  |
+| [ZITTO](https://open.spotify.com/track/59QhNZ02jxQR4B0Gdu3Xs7) | [AUCH](https://open.spotify.com/artist/7uivJimhMgnkSCaPYWQHog) | [ZITTO](https://open.spotify.com/album/1vc0uWXGdGEO52YIKwafcP) | 2:13 | 2026-08-20 |  |
 
 \*This playlist was first scraped on 2024-04-30. Prior content cannot be recovered.

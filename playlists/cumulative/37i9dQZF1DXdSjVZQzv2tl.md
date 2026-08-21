@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Pedro e Benício
 
-414 songs - 19 hr 26 min
+415 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Filho da Mãe \- Ao Vivo](https://open.spotify.com/track/7opE9OJaqrvkQspmfJdVsS) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Filho da Mãe \(Ao Vivo\)](https://open.spotify.com/album/0qRxN9Kk8579hU3yTjyR92) | 2:17 | 2025-04-11 | 2025-11-12 |
 | [Fim da Noite \- Ao Vivo](https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Jb&V 21 In Concert, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2QBGxpW0DghBTheXIT5ozx) | 3:29 | 2023-12-08 | 2024-08-31 |
 | [Fivela Com Fivela \- Ao Vivo](https://open.spotify.com/track/73SIgqXr3oRzzWbX1muX3I) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Rionegro e Solimões em Uberlândia, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/41dPjkp2RaG6C5nbNjjiaQ) | 2:38 | 2024-05-24 | 2024-12-07 |
+| [Flash \- Ao Vivo](https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS) | [Lucas & Higor](https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8) | [Explodiuu BB \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX) | 2:37 | 2026-08-20 |  |
 | [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/3w392XWJ5bXzjcCR2Dmvqn) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Foi Intenso \(Ao Vivo\)](https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9) | 2:12 | 2024-05-09 | 2024-10-18 |
 | [Foi por Conveniência](https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Foi por Conveniência](https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U) | 3:25 | 2026-04-17 |  |
 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 | 2021-12-31 | 2022-01-22 |

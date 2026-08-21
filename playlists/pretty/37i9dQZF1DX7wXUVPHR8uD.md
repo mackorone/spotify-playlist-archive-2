@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wXUVPHR8uD.md) - [plain]
 
 > Witchy romances with a dash of spice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAEubUJ6H+94KPvob5M8zqqrGzubH`
+Snapshot ID: `AAAAAE4CFVEpfuCy9I7g8ngw44wJUYnL`

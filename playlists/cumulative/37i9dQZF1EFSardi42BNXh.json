@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 183380,
       "name": "Bored",
       "url": "https://open.spotify.com/track/0H2aPW6EdKHfOZ9AzVnod4"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184401,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne"
@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "I Love Being Wrong",
+        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288812,
+      "name": "I Love Being Wrong",
+      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
+    },
+    {
+      "album": {
         "name": "Bad Ideas",
         "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl"
       },
@@ -497,6 +515,42 @@
     },
     {
       "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155080,
+      "name": "Kitchen Song",
+      "url": "https://open.spotify.com/track/1OYA4DbZ6IOtSVuKb0VFVQ"
+    },
+    {
+      "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163437,
+      "name": "Kitchen Song - voice memo",
+      "url": "https://open.spotify.com/track/25uEOYFHsFKBeqJQStNMkx"
+    },
+    {
+      "album": {
         "name": "Knowing",
         "url": "https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0"
       },
@@ -551,6 +605,50 @@
     },
     {
       "album": {
+        "name": "My Body's My Buddy",
+        "url": "https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        },
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208983,
+      "name": "My Body's My Buddy",
+      "url": "https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO"
+    },
+    {
+      "album": {
+        "name": "My Body's My Buddy (gender neutral version)",
+        "url": "https://open.spotify.com/album/6OwLW6P6lv129aXbvRmCZr"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        },
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208983,
+      "name": "My Body's My Buddy - Instrumental",
+      "url": "https://open.spotify.com/track/73VlYqBADyfgjTe5FLcKcL"
+    },
+    {
+      "album": {
         "name": "Halloway",
         "url": "https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc"
       },
@@ -602,6 +700,24 @@
       "duration_ms": 176093,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/1KzXa60i893JSwUBWJW83D"
+    },
+    {
+      "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176162,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6"
     },
     {
       "album": {
@@ -660,6 +776,24 @@
       "duration_ms": 208966,
       "name": "Smoke Signals (feat. Tessa Violet)",
       "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
+    },
+    {
+      "album": {
+        "name": "Something to Lose",
+        "url": "https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206003,
+      "name": "Something to Lose",
+      "url": "https://open.spotify.com/track/0JuB4qKFqDul6VgTUJnMYs"
     },
     {
       "album": {
@@ -862,6 +996,24 @@
       "duration_ms": 162364,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/1kibhFZPAC9FtBWXU8fmmr"
+    },
+    {
+      "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200031,
+      "name": "You Are Not My Friend",
+      "url": "https://open.spotify.com/track/37gWjveRda4jNqKlIGOqN4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFSardi42BNXh"

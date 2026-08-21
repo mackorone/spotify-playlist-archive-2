@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzMtuZH5xJY.md) - [plain]
 
 > Curl up with a cozy mystery to solve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAK+HBdABh9/9gSYp4F+fU6fyl5Ir`
+Snapshot ID: `AAAAAK+fv6pi8LUm9FSVEsZQDrKpKec5`

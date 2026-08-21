@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 114440,
+  "num_followers": 114464,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMRgSow7Ni6Wi8XpEOkg28Dt2oY",
+  "snapshot_id": "AAAAAAtQyNy64r0wHPTrGl9WKo8+IRKq",
   "tracks": [
     {
       "added_at": "2026-07-02 21:48:45",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 328768,
+      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Melhor Heran\u00e7a",
         "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 328768,
-      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Quando Ele Me Encontrou",
         "url": "https://open.spotify.com/album/3wxJ8sKGsa7nU0FWhgUFnt"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 232606,
       "name": "Quando Ele Me Encontrou",
       "url": "https://open.spotify.com/track/2nLqsRDvELrDP36sFHg3bh"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        }
-      ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -451,6 +435,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Estou de Volta",
         "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 245000,
       "name": "Estou de Volta",
       "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        },
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 274261,
-      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -543,6 +523,26 @@
       "duration_ms": 331061,
       "name": "Quem \u00c9 Como Tu, Senhor?",
       "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        },
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 274261,
+      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
     },
     {
       "added_at": "2026-07-02 21:48:45",

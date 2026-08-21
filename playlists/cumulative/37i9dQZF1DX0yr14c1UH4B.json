@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udf37 cover: Morgan Harper-Jones",
+  "description": "It's all about the song \ud83c\udf37 cover: Phoebe Bridgers",
   "name": "Common Thread",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 197026,
       "name": "A Good One",
       "url": "https://open.spotify.com/track/7GhgWvQPRj4hNh9WSmZasT"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Alexandra",
+        "url": "https://open.spotify.com/album/45ETz1YoqmQl5ZB1pYiMvv"
+      },
+      "artists": [
+        {
+          "name": "GIO DARA",
+          "url": "https://open.spotify.com/artist/1YTaNEf5juixP1n71yQcLr"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Alexandra",
+      "url": "https://open.spotify.com/track/2vQarojxRqNttTMenT5DBL"
+    },
+    {
+      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/5eL07b6I4JKmxnCmLPYsQJ"
       },
@@ -438,6 +456,24 @@
       "duration_ms": 244522,
       "name": "All In Now",
       "url": "https://open.spotify.com/track/1uDKjeSKLKEg6eqUh880z1"
+    },
+    {
+      "album": {
+        "name": "All My Devotion",
+        "url": "https://open.spotify.com/album/0vufYoB4nU2uSOQYsln625"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "All My Devotion",
+      "url": "https://open.spotify.com/track/4QwnSR2NbYOEmuzdzF6kXe"
     },
     {
       "album": {
@@ -1026,7 +1062,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 229270,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/3IngAWFKAXX5VGIGPWcVJa"
@@ -1578,6 +1614,24 @@
       "duration_ms": 217500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2A5QWwjDnJYIfn96ESNI1E"
+    },
+    {
+      "album": {
+        "name": "Black Crow",
+        "url": "https://open.spotify.com/album/1sKGczpjmdPsVzK2iiW0p9"
+      },
+      "artists": [
+        {
+          "name": "Martha Hill",
+          "url": "https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260218,
+      "name": "Black Crow",
+      "url": "https://open.spotify.com/track/6BiDwipav1E90jIcmpKTU9"
     },
     {
       "album": {
@@ -2692,6 +2746,24 @@
       "duration_ms": 171080,
       "name": "Connection",
       "url": "https://open.spotify.com/track/1MXZBKZMS2E0hkff2acbSQ"
+    },
+    {
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291530,
+      "name": "Constant Companion",
+      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
     },
     {
       "album": {
@@ -4342,6 +4414,24 @@
       "duration_ms": 183915,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/4esFbV6wCkR0qkAPza967k"
+    },
+    {
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/0i3wruZEDnREqgbnMQNVmd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161308,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/6DThx0fdmdZuhG4ZrUg8oM"
     },
     {
       "album": {
@@ -6414,7 +6504,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 181773,
       "name": "Heaven Knows You're Lonely",
       "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
@@ -6490,6 +6580,42 @@
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
+    },
+    {
+      "album": {
+        "name": "highest high",
+        "url": "https://open.spotify.com/album/6pQsNIXTtciKsJ7xbLUDoH"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232456,
+      "name": "highest high",
+      "url": "https://open.spotify.com/track/1nsPzblmbGbZTyj1vCV9mk"
+    },
+    {
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/0XoliO26rrMv7jZevm6Mjx"
+      },
+      "artists": [
+        {
+          "name": "Jordan O'Keefe",
+          "url": "https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200331,
+      "name": "History",
+      "url": "https://open.spotify.com/track/2HQlRWQAxJlCNQEMehwtYC"
     },
     {
       "album": {
@@ -7118,7 +7244,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 169124,
       "name": "I Don't Think of Kissing You",
       "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
@@ -7948,7 +8074,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 157076,
       "name": "In The Name Of Healing - from the Prime Original Movie \u2018Your Fault: London\u2019",
       "url": "https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc"
@@ -8328,7 +8454,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 209333,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0rXusdaizcJYmASIaC5MU3"
@@ -9068,7 +9194,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189862,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
@@ -10020,7 +10146,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
@@ -10456,7 +10582,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 230604,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
@@ -13029,6 +13155,24 @@
     },
     {
       "album": {
+        "name": "The Knife, The Needle",
+        "url": "https://open.spotify.com/album/1AdsKirDq40xEEPn9LIN9P"
+      },
+      "artists": [
+        {
+          "name": "Elanor Moss",
+          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265470,
+      "name": "Secrets of the Universe",
+      "url": "https://open.spotify.com/track/5iK2SvTDRyGlb6d88o1K5l"
+    },
+    {
+      "album": {
         "name": "see me cry",
         "url": "https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq"
       },
@@ -13678,7 +13822,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 203706,
       "name": "So Long Baby",
       "url": "https://open.spotify.com/track/2gvRGKDwoBys2tuLpSc2ij"
@@ -14093,6 +14237,24 @@
     },
     {
       "album": {
+        "name": "Sounds Like An Ending",
+        "url": "https://open.spotify.com/album/3jOL1kXdr6sRXkqb8NQB9x"
+      },
+      "artists": [
+        {
+          "name": "jjuno",
+          "url": "https://open.spotify.com/artist/6G4JfBtIPqP0VSTpNuVKej"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Sounds Like An Ending",
+      "url": "https://open.spotify.com/track/1SXoMnQgRKFxN52Oj29BUA"
+    },
+    {
+      "album": {
         "name": "Space Hurts",
         "url": "https://open.spotify.com/album/3lbmOM8Tgq7I4iwinoex7e"
       },
@@ -14338,7 +14500,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 265937,
       "name": "stepping outside",
       "url": "https://open.spotify.com/track/6i7QPGVpVmltzVDNDnRhPV"
@@ -14518,7 +14680,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 213375,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"
@@ -14969,6 +15131,24 @@
     },
     {
       "album": {
+        "name": "That Something Is Us",
+        "url": "https://open.spotify.com/album/1UaEQjZn8NTZWWpxxXfEKt"
+      },
+      "artists": [
+        {
+          "name": "metty",
+          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "That Something Is Us",
+      "url": "https://open.spotify.com/track/0dx3KlZCSQlgvbn26Szx0s"
+    },
+    {
+      "album": {
         "name": "If You're Looking For A Reason To Key Your Ex's Car",
         "url": "https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc"
       },
@@ -15150,6 +15330,24 @@
       "duration_ms": 224212,
       "name": "The Girl That I Call Home",
       "url": "https://open.spotify.com/track/0n9eqeBYUlffRuP92V7mrY"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207205,
+      "name": "The Governor\u2019s Waltz",
+      "url": "https://open.spotify.com/track/2hAQCoAswuQ643VhIuRC2p"
     },
     {
       "album": {
@@ -15898,6 +16096,24 @@
       "duration_ms": 167459,
       "name": "This Must Be Love",
       "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
+    },
+    {
+      "album": {
+        "name": "Heavenly Bodies",
+        "url": "https://open.spotify.com/album/3bEdIVHkADHY128d4jRy2i"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "This Must Be The End",
+      "url": "https://open.spotify.com/track/0xNmUTdY25XQocT9fcMCFk"
     },
     {
       "album": {
@@ -17722,7 +17938,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 237000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
@@ -17816,6 +18032,24 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "Won't Stop Believing",
+        "url": "https://open.spotify.com/album/1ILtcYBf2bbAlrNR8ghfU6"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194228,
+      "name": "Won't Stop Believing",
+      "url": "https://open.spotify.com/track/6XOiCIj6f6lybM9Id1UAWI"
     },
     {
       "album": {

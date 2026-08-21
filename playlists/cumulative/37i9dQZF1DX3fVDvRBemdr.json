@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop met o.a. Mart Hoogkamer. <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Tino Martin & Billy Dans! <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 220327,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/0ZloOnyJxaMAvQZzphxur4"
@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "De Liefde Die blijft",
+        "url": "https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Sep",
+          "url": "https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172218,
+      "name": "De Liefde Die blijft",
+      "url": "https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh"
+    },
+    {
+      "album": {
         "name": "De Liefde Die Leeft (Stumblin' In Remix)",
         "url": "https://open.spotify.com/album/40flGd5I9axFmh22OnNemq"
       },
@@ -2936,6 +2954,24 @@
       "duration_ms": 178000,
       "name": "De Warmte Van Je Hartstocht",
       "url": "https://open.spotify.com/track/5sPEcF6AdBLIkRwzLIxBK2"
+    },
+    {
+      "album": {
+        "name": "De Wasserette",
+        "url": "https://open.spotify.com/album/3QJqsp5tuzQ08i35eHQ1Cv"
+      },
+      "artists": [
+        {
+          "name": "Remco Carlos",
+          "url": "https://open.spotify.com/artist/6de30Or60GgJUqLODB7uLv"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160264,
+      "name": "De Wasserette",
+      "url": "https://open.spotify.com/track/4xmWQPFSQRrZZzpooW4hHN"
     },
     {
       "album": {
@@ -5959,6 +5995,28 @@
     },
     {
       "album": {
+        "name": "Ik Hoor Niks Geks",
+        "url": "https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136255,
+      "name": "Ik Hoor Niks Geks",
+      "url": "https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67"
+    },
+    {
+      "album": {
         "name": "Ik Hou D'r Van",
         "url": "https://open.spotify.com/album/0AO6nK5WlTJtKbpc7xzq3n"
       },
@@ -7220,6 +7278,24 @@
       "duration_ms": 193173,
       "name": "Je zit in m'n hoofd",
       "url": "https://open.spotify.com/track/3NioJZ6lEeh277GGJfAhFI"
+    },
+    {
+      "album": {
+        "name": "Jij",
+        "url": "https://open.spotify.com/album/331eZ0z317dghOY7eMJBLw"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9on",
+          "url": "https://open.spotify.com/artist/07JmpwuHsFUhLMKM4cLW1r"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180322,
+      "name": "Jij",
+      "url": "https://open.spotify.com/track/5eNFNNZwywwe1jOoUxjYo2"
     },
     {
       "album": {
@@ -9385,6 +9461,28 @@
     },
     {
       "album": {
+        "name": "Moe Van De Malibu",
+        "url": "https://open.spotify.com/album/0hva22a1POQWSleIEhm9PF"
+      },
+      "artists": [
+        {
+          "name": "Andy Van der Leek",
+          "url": "https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu"
+        },
+        {
+          "name": "John Zoet",
+          "url": "https://open.spotify.com/artist/0OV8oXXEG1zHvllmUqtzpL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143202,
+      "name": "Moe Van De Malibu",
+      "url": "https://open.spotify.com/track/00evU5H08oLkwEWxUpu4jO"
+    },
+    {
+      "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/4zoULj0Q4u4FIAzUuvSpHs"
       },
@@ -10463,6 +10561,24 @@
     },
     {
       "album": {
+        "name": "Papa's Geld",
+        "url": "https://open.spotify.com/album/2SDdUEUN0OOzxV2hhdgrWm"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142271,
+      "name": "Papa's Geld",
+      "url": "https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT"
+    },
+    {
+      "album": {
         "name": "Paracetamol (Naar de Klote)",
         "url": "https://open.spotify.com/album/5PztETpJ7kv6OEeOnAgfhH"
       },
@@ -10720,7 +10836,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 187562,
       "name": "Rijk",
       "url": "https://open.spotify.com/track/1bqjF7uW3vrOh4NMNAPoUT"
@@ -14344,6 +14460,24 @@
       "duration_ms": 176718,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/75oDzN5RZqOzyLy2ZdexFA"
+    },
+    {
+      "album": {
+        "name": "Zonder Jou",
+        "url": "https://open.spotify.com/album/4VrHHuhW6BcJFS38MESDPF"
+      },
+      "artists": [
+        {
+          "name": "Jan Witlox",
+          "url": "https://open.spotify.com/artist/0C2i7hVaB3C0LpCKIxZhYJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182896,
+      "name": "Zonder Jou",
+      "url": "https://open.spotify.com/track/6EzNmBP0DHotVbGPVzMyou"
     },
     {
       "album": {

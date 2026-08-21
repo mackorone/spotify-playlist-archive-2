@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCq6Hu9FwJd.md) - [plain]
 
 > This is a normal day playlist with RM\. Vote for the NORMAL day song that best suits RM! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,188 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,172 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCq6Hu9FwJd.md) - [plain]
 | 19 | [Please](https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:52 |
 | 20 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
 
-Snapshot ID: `AAAAANeqrVpKBPi9L4XNeOC+An565hZn`
+Snapshot ID: `AAAAAGIuKytW6MHaF1zm/sGLH+oUFbuS`

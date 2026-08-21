@@ -4,13 +4,13 @@
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-124 songs - 5 hr 37 min
+125 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After It's Over](https://open.spotify.com/track/1s0aTfvrUjpVwHZC8WMcds) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [The Five Demensions](https://open.spotify.com/artist/354cBlEcGSDQVkiFUMJb4q) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:18 | 2022-09-17 | 2023-08-04 |
 | [Ain't That Just Like A Woman](https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Fresh Berry's](https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6) | 2:12 | 2023-12-16 |  |
-| [All The Things You Are](https://open.spotify.com/track/1wTYxyqQgg4dtZkPicv2Mf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Oscar Pettiford](https://open.spotify.com/artist/12tEk7MWJdbc4V5wcc7UQS) | [Harlem Station](https://open.spotify.com/album/2CnAPOhQWSDvFfp5syKHFu) | 2:55 | 2026-03-27 |  |
+| [All The Things You Are](https://open.spotify.com/track/1wTYxyqQgg4dtZkPicv2Mf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Oscar Pettiford](https://open.spotify.com/artist/12tEk7MWJdbc4V5wcc7UQS) | [Harlem Station](https://open.spotify.com/album/2CnAPOhQWSDvFfp5syKHFu) | 2:55 | 2026-03-27 | 2026-08-21 |
 | [Almost Grown](https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:21 | 2022-09-17 |  |
 | [Anthony Boy](https://open.spotify.com/track/43Nyh6ndafXIC9pdiQtmMn) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 1:54 | 2022-09-20 | 2024-07-23 |
 | [Around And Around](https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:42 | 2022-09-17 | 2024-07-21 |
@@ -112,6 +112,7 @@
 | [Swanee River](https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:38 | 2022-09-17 | 2025-09-30 |
 | [Sweet Little Rock 'N' Roller](https://open.spotify.com/track/5a38im3bvcPzWWIuMegbTe) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:22 | 2022-09-21 | 2024-07-21 |
 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 | 2022-09-22 |  |
+| [Sweet Little Sixteen \- Take 11](https://open.spotify.com/track/2AdMi0ejDmHTty03H7kwsP) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 3:13 | 2026-08-21 |  |
 | [Sweet Sixteen](https://open.spotify.com/track/0MOJRZrM1SvFN8mEtHCy5d) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:45 | 2022-09-24 | 2022-10-13 |
 | [The Things I Used To Do](https://open.spotify.com/track/1SN4rhqg4U3mlS6oxSP1jZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 | 2022-09-17 | 2024-07-24 |
 | [Thirty Days](https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 2:22 | 2022-09-19 |  |

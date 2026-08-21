@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: ハク。
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,797 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,809 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [黎明 \- Reimei](https://open.spotify.com/track/6e4jDUPLl1lOitg7Tbki21) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [黎明 \- Reimei](https://open.spotify.com/album/5dhAlUFlEvRvS3t2RDYkdg) | 4:14 |
 | 60 | [友達がいました](https://open.spotify.com/track/6mnkyC0iA2j5E0d1xBNo06) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [友達がいました](https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq) | 8:06 |
 
-Snapshot ID: `AAAAAI7Ts5yVtsNvVrL/QBqqqVgQmdK0`
+Snapshot ID: `AAAAAHrSBKYhBbn/wiPFEV5gfsem0ki+`

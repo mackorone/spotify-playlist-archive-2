@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 238838,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 229099,
       "name": "Midnight Blue",
       "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 219780,
       "name": "Shaded Spots",
       "url": "https://open.spotify.com/track/3imltQVxvpZoDc0HmqV2CL"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 404087,
       "name": "\u05d4\u05dc\u05dc 3",
       "url": "https://open.spotify.com/track/04DnJzb6jRWzplpuraRNPV"
@@ -5859,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "\u05db\u05dc \u05db\u05da \u05d4\u05e8\u05d1\u05d4 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/4jqFzglFJcy3g40baXxbeC"
+      },
+      "artists": [
+        {
+          "name": "Joseph E-Shine",
+          "url": "https://open.spotify.com/artist/7wKNVbqW4UXVDCeAqTyUU4"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321822,
+      "name": "\u05db\u05dc \u05db\u05da \u05d4\u05e8\u05d1\u05d4 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d9\u05ea\u05da",
+      "url": "https://open.spotify.com/track/3Bx8JwrEExocGPOL1cKx2V"
+    },
+    {
+      "album": {
         "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
         "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
       },
@@ -6410,6 +6428,24 @@
       "duration_ms": 205360,
       "name": "\u05dc\u05d7\u05dd \u05d5\u05e8\u05d9\u05d1\u05d4",
       "url": "https://open.spotify.com/track/2sKOBRDgyHWcX4CFfwDwfa"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d7\u05e4\u05e9 \u05d0\u05d5\u05ea\u05d9 \u05d1\u05d0\u05d7\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0IMENqjW5k2KS753plJObZ"
+      },
+      "artists": [
+        {
+          "name": "Rotem Shafran",
+          "url": "https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185322,
+      "name": "\u05dc\u05d7\u05e4\u05e9 \u05d0\u05d5\u05ea\u05d9 \u05d1\u05d0\u05d7\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1OBxKOtmHgDatTgfIBtSX9"
     },
     {
       "album": {
@@ -7530,6 +7566,24 @@
       "duration_ms": 195746,
       "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/0OxILw9eBRYTDTkV3uJQh4"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d4\u05dd \u05d4\u05e1\u05db\u05d9\u05de\u05d5",
+        "url": "https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ"
+      },
+      "artists": [
+        {
+          "name": "Amir Lev",
+          "url": "https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192576,
+      "name": "\u05e1\u05dc\u05d5\u05e0\u05d9\u05e7\u05d9",
+      "url": "https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF"
     },
     {
       "album": {
@@ -8654,6 +8708,24 @@
       "duration_ms": 202719,
       "name": "\u05ea\u05e9\u05d0\u05d9\u05e8\u05d9 \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05dc\u05d7\u05d1\u05e7 \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/0efR0PG8ZOC3QUEgb2IzOJ"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05e8 \u05e0\u05e9\u05d1\u05e8",
+        "url": "https://open.spotify.com/album/3NLycHYZFz1RHH7z8XvjUW"
+      },
+      "artists": [
+        {
+          "name": "Daniella Tourgeman",
+          "url": "https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "\u05ea\u05ea\u05d0\u05d7\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/10bW1r6MdbylURmiXNcuc0"
     },
     {
       "album": {

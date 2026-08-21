@@ -4,7 +4,7 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 19 min
+112 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 | 2024-05-15 |  |
 | [You At The Table \(with Manchester Orchestra\)](https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:50 | 2023-04-30 |  |
 | [younger days](https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:34 | 2022-09-16 |  |
-| [Zombie](https://open.spotify.com/track/1Ob938FnCrnj2f2EMGw6Sy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Zombie](https://open.spotify.com/album/5H1XqTWtsDPC2xdb67jHLA) | 3:12 | 2026-05-03 |  |
+| [Zombie](https://open.spotify.com/track/1Ob938FnCrnj2f2EMGw6Sy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Zombie](https://open.spotify.com/album/5H1XqTWtsDPC2xdb67jHLA) | 3:12 | 2026-05-03 | 2026-08-21 |
+| [Zombie](https://open.spotify.com/track/3yKdhG63oQeQZJfsCuTQSY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Zombie](https://open.spotify.com/album/0rD4H9E76t5JBy6XJkZu2p) | 3:12 | 2026-08-21 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

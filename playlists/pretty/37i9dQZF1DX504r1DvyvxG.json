@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2637491,
+  "num_followers": 2637428,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACKrEn69z7rd+0vzXUzAi2rjJJj2",
+  "snapshot_id": "AAAAAMFVgx/0PzE0hrBgSEvryau0coFq",
   "tracks": [
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "1966",
-        "url": "https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Reason to Believe",
-      "url": "https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Happy Sad",
         "url": "https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 161253,
       "name": "Sing a Song for You",
       "url": "https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "1966",
+        "url": "https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Reason to Believe",
+      "url": "https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J"
     },
     {
       "added_at": "2026-01-26 17:08:09",

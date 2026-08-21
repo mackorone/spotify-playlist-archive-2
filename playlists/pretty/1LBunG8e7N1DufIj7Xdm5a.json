@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJugmZlVTaAGXBGAGgusLOvmimN6wn",
+  "snapshot_id": "AAAJwO/PNzdW5NA9xLUcSx+JYETFaXbW",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -76741,12 +76741,572 @@
       "artists": [
         {
           "name": "Abbracci",
-          "url": "https://open.spotify.com/artist/1NpreKADLYFXclehTsMe3s"
+          "url": "https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO"
         }
       ],
       "duration_ms": 206640,
       "name": "O Izabelo",
       "url": "https://open.spotify.com/track/0AlBsgWxQApbgmgqWBduTy"
+    },
+    {
+      "added_at": "2026-08-20 10:10:02",
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/1lsCb8M8WMly0uF7upTzgR"
+      },
+      "artists": [
+        {
+          "name": "Derre",
+          "url": "https://open.spotify.com/artist/0hta7qbVNYE22udGgF6lEq"
+        }
+      ],
+      "duration_ms": 184801,
+      "name": "404",
+      "url": "https://open.spotify.com/track/45OfuAMFlXJYeTDSO410Fw"
+    },
+    {
+      "added_at": "2026-08-20 14:50:13",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/25J6KANg8fwdkxpCLbuGi7"
+      },
+      "artists": [
+        {
+          "name": "Destroy the Moon",
+          "url": "https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt"
+        }
+      ],
+      "duration_ms": 305795,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/62yA8tpj8cw9LUDN3YTcOC"
+    },
+    {
+      "added_at": "2026-08-20 15:26:20",
+      "album": {
+        "name": "Abbracci",
+        "url": "https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51"
+      },
+      "artists": [
+        {
+          "name": "Abbracci",
+          "url": "https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Warszawa",
+      "url": "https://open.spotify.com/track/5D0nR2V8365wfgr4R1Ri4V"
+    },
+    {
+      "added_at": "2026-08-20 15:27:19",
+      "album": {
+        "name": "Abbracci",
+        "url": "https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51"
+      },
+      "artists": [
+        {
+          "name": "Abbracci",
+          "url": "https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO"
+        }
+      ],
+      "duration_ms": 282080,
+      "name": "O krok za daleko",
+      "url": "https://open.spotify.com/track/45vAlIk9YFoWdVdvYcu78Y"
+    },
+    {
+      "added_at": "2026-08-20 15:42:00",
+      "album": {
+        "name": "Silence and Me",
+        "url": "https://open.spotify.com/album/6Tss7dsTiHE5AH8rBOnpjr"
+      },
+      "artists": [
+        {
+          "name": "Still Crash",
+          "url": "https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu"
+        }
+      ],
+      "duration_ms": 239873,
+      "name": "Silence and Me",
+      "url": "https://open.spotify.com/track/2B05gUT9cl4pjRbqgiQ3AZ"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "The Blueprint in the Blue",
+      "url": "https://open.spotify.com/track/6C4hvo4KtdYNL98XLqBH73"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "What We Call You",
+      "url": "https://open.spotify.com/track/2M9svfSKgoAFVjfwA6q8JX"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Out of the Rust",
+      "url": "https://open.spotify.com/track/0uiC7t52caJpqSPesfSX6A"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Her Side of the Street",
+      "url": "https://open.spotify.com/track/3r7N3i0DZ1TJfWA8BCNy7v"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Island of Grace",
+      "url": "https://open.spotify.com/track/3esBsbgnshGwP0uYf6lg5W"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Only Against Yesterday",
+      "url": "https://open.spotify.com/track/5e75TI39IgaBwWu6TwZywH"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Adult Arguments",
+      "url": "https://open.spotify.com/track/7kQEfUkFhof8tJPDN4Uqtl"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Unwritten Mould",
+      "url": "https://open.spotify.com/track/6qghPZCIYwbGPtAwAYpqtN"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "The Harvest & The Seed",
+      "url": "https://open.spotify.com/track/7uSzVJhCcCB7VtvQ8l7ZjY"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "My Brother's Keeper",
+      "url": "https://open.spotify.com/track/4lHn4SUb4plFWMBSu3RMdo"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "American Tapestry",
+      "url": "https://open.spotify.com/track/4bBfvcJNDYLDmbCpMOuUji"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Milestones on 66",
+      "url": "https://open.spotify.com/track/5GuxhfUXPpsWrMIHcM4RtU"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Quiet Waters",
+      "url": "https://open.spotify.com/track/1w3fV7nkh36x9alSnoDolx"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Steering the Wheel",
+      "url": "https://open.spotify.com/track/1A8wqz6oQjVxcUFICY6e8K"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Unbroken Legacy",
+      "url": "https://open.spotify.com/track/3g7OhPjDggqFShJ9ydmToS"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "The Blueprint in the Blue (fomo mode)",
+      "url": "https://open.spotify.com/track/0gzBBZ5BNL122dGxN1zLxD"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "What We Call You (fomo mode)",
+      "url": "https://open.spotify.com/track/3THzCvsKxl7f370mAgYgsS"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Out of the Rust (fomo mode)",
+      "url": "https://open.spotify.com/track/2O24HV8CJHaIxvlIStvfTc"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Her Side of the Street (fomo mode)",
+      "url": "https://open.spotify.com/track/6ozFLfW4sjBBSnxG9qr9Ff"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Island of Grace (fomo mode)",
+      "url": "https://open.spotify.com/track/32LlL5R9kOLOT1dveHCZdn"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Only Against Yesterday (fomo mode)",
+      "url": "https://open.spotify.com/track/3H5EMDNSqiKHEMBmocrsr7"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "Adult Arguments (fomo mode)",
+      "url": "https://open.spotify.com/track/0vLklN7kmLpKSZK1eRFiqS"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Unwritten Mould (fomo mode)",
+      "url": "https://open.spotify.com/track/7gmbtcy2FXh4ObxRQOVtqT"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "The Harvest & The Seed (fomo mode)",
+      "url": "https://open.spotify.com/track/4VLmLmuNZW8LU1x5RhWdZf"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "My Brother's Keeper (fomo mode)",
+      "url": "https://open.spotify.com/track/6cxiA28LlysHnYCO6F5vqH"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "American Tapestry (fomo mode)",
+      "url": "https://open.spotify.com/track/1ybSFepAUwSMDoiXggxOXI"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Milestones on 66 (fomo mode)",
+      "url": "https://open.spotify.com/track/0VGrv7tDP39WvDEtyQnUyf"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Quiet Waters (fomo mode)",
+      "url": "https://open.spotify.com/track/2v0xsudWcW21BSmaMVkQFT"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Steering the Wheel (fomo mode)",
+      "url": "https://open.spotify.com/track/6dkgsChrAJLfXaloNWwbYQ"
+    },
+    {
+      "added_at": "2026-08-20 23:37:53",
+      "album": {
+        "name": "UNBROKEN LEGACY",
+        "url": "https://open.spotify.com/album/705K785hTBEwawYwJhKjUR"
+      },
+      "artists": [
+        {
+          "name": "The second coast",
+          "url": "https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Unbroken Legacy (fomo mode)",
+      "url": "https://open.spotify.com/track/4rFgJ7BKtrIPjsTWn0v6ci"
     }
   ],
   "unique_name": "playlist spotify free",

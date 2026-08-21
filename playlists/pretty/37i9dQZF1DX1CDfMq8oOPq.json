@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udde3\ufe0fdoisdeee, doisdeee // Maru2D",
-  "num_followers": 103501,
+  "num_followers": 103561,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGeuh1O72hDz1lw/OQ+KjnB6qG44",
+  "snapshot_id": "AAAAAPf3nddPXh+kMheEcTPuWNlHwMCr",
   "tracks": [
     {
       "added_at": "2026-08-13 20:44:01",
@@ -111,6 +111,26 @@
     {
       "added_at": "2026-08-13 20:44:01",
       "album": {
+        "name": "SEM ESTRESSE",
+        "url": "https://open.spotify.com/album/3C7I3CVyHFbTtpFdIcxMpl"
+      },
+      "artists": [
+        {
+          "name": "Kisha zO",
+          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
+        },
+        {
+          "name": "Dukke Beats",
+          "url": "https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "JA FAZEM HORAS",
+      "url": "https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC"
+    },
+    {
+      "added_at": "2026-08-13 20:44:01",
+      "album": {
         "name": "Quase Pronta Mixtape",
         "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 168750,
       "name": "Sexo Hot",
       "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
-    },
-    {
-      "added_at": "2026-08-13 20:44:01",
-      "album": {
-        "name": "SEM ESTRESSE",
-        "url": "https://open.spotify.com/album/3C7I3CVyHFbTtpFdIcxMpl"
-      },
-      "artists": [
-        {
-          "name": "Kisha zO",
-          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
-        },
-        {
-          "name": "Dukke Beats",
-          "url": "https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "JA FAZEM HORAS",
-      "url": "https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC"
     },
     {
       "added_at": "2026-08-13 20:44:01",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-08-13 20:44:01",
       "album": {
-        "name": "Subestimada",
-        "url": "https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9"
-      },
-      "artists": [
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 224415,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu"
-    },
-    {
-      "added_at": "2026-08-13 20:44:01",
-      "album": {
         "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
         "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 180000,
       "name": "Medley 4x4",
       "url": "https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn"
+    },
+    {
+      "added_at": "2026-08-13 20:44:01",
+      "album": {
+        "name": "Subestimada",
+        "url": "https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 224415,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu"
     },
     {
       "added_at": "2026-08-13 20:44:01",
@@ -847,30 +847,26 @@
     {
       "added_at": "2026-08-13 20:44:01",
       "album": {
-        "name": "S\u00cdNDROME DE REF",
-        "url": "https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0"
+        "name": "Imp\u00e9rio",
+        "url": "https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr"
       },
       "artists": [
         {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+          "name": "yulii A",
+          "url": "https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR"
         },
         {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
         },
         {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        },
-        {
-          "name": "Vitonez",
-          "url": "https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL"
+          "name": "GND.rec",
+          "url": "https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0"
         }
       ],
-      "duration_ms": 176106,
-      "name": "S\u00cdNDROME DE REF",
-      "url": "https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd"
+      "duration_ms": 125076,
+      "name": "Imp\u00e9rio",
+      "url": "https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06"
     },
     {
       "added_at": "2026-08-13 20:44:01",
@@ -899,26 +895,30 @@
     {
       "added_at": "2026-08-13 20:44:01",
       "album": {
-        "name": "Imp\u00e9rio",
-        "url": "https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr"
+        "name": "S\u00cdNDROME DE REF",
+        "url": "https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0"
       },
       "artists": [
         {
-          "name": "yulii A",
-          "url": "https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR"
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
         },
         {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
         },
         {
-          "name": "GND.rec",
-          "url": "https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0"
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Vitonez",
+          "url": "https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL"
         }
       ],
-      "duration_ms": 125076,
-      "name": "Imp\u00e9rio",
-      "url": "https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06"
+      "duration_ms": 176106,
+      "name": "S\u00cdNDROME DE REF",
+      "url": "https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd"
     },
     {
       "added_at": "2026-08-13 20:44:01",

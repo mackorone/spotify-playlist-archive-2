@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 267253,
       "name": "Hella Bars",
       "url": "https://open.spotify.com/track/69X4i0JXxqhheTdlH8iznD"
@@ -2066,6 +2066,36 @@
       "duration_ms": 196070,
       "name": "Henny & Yoga",
       "url": "https://open.spotify.com/track/2fHo7g3gUIwUwrYfUUopQR"
+    },
+    {
+      "album": {
+        "name": "Outlaw Rydahz",
+        "url": "https://open.spotify.com/album/7nbPC8RrahFgDFFfGoUGej"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Young Breed",
+          "url": "https://open.spotify.com/artist/0RRkU6AhlEexSrHPnfy1iE"
+        },
+        {
+          "name": "Tony Atlanta",
+          "url": "https://open.spotify.com/artist/464oVisu16xuGYQjMHmh3Y"
+        },
+        {
+          "name": "Aktual",
+          "url": "https://open.spotify.com/artist/3w7mWtRkKH3dCzX4JuJfDD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310146,
+      "name": "Hightimes",
+      "url": "https://open.spotify.com/track/0EUn5OcWbdMWNsMhpD7Rre"
     },
     {
       "album": {
@@ -3239,6 +3269,32 @@
     },
     {
       "album": {
+        "name": "Outlaw Rydahz",
+        "url": "https://open.spotify.com/album/7nbPC8RrahFgDFFfGoUGej"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/6wqu5JjziS86snkuHKZaYT"
+        },
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297456,
+      "name": "My Purpose",
+      "url": "https://open.spotify.com/track/2g0OFjukRTJAabvJ7P3bCT"
+    },
+    {
+      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -4116,7 +4172,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -4160,7 +4216,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 255792,
       "name": "Revolution (feat. Stumpgets)",
       "url": "https://open.spotify.com/track/4dtR7Ehj8jzXcQxqQBnKfb"
@@ -4690,7 +4746,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 326000,
       "name": "Stuck On My Grind",
       "url": "https://open.spotify.com/track/4GNfHSI15yrMH7JrUl9UGZ"
@@ -4738,7 +4794,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 113136,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/7KBU12tvd67cUSV4NZU0Dz"
@@ -4786,6 +4842,44 @@
       "duration_ms": 157127,
       "name": "T.R.U.",
       "url": "https://open.spotify.com/track/052nU8WXmBxzhNhyonBJPA"
+    },
+    {
+      "album": {
+        "name": "Outlaw Rydahz",
+        "url": "https://open.spotify.com/album/7nbPC8RrahFgDFFfGoUGej"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Felisha Faye",
+          "url": "https://open.spotify.com/artist/4FOULFbWWfFYcBqDoML8Er"
+        },
+        {
+          "name": "Jemiah Jai",
+          "url": "https://open.spotify.com/artist/14gdfaB69gSUsFvCOSi2iX"
+        },
+        {
+          "name": "Mystic",
+          "url": "https://open.spotify.com/artist/1ufLTn52U5b9mocckRGx9O"
+        },
+        {
+          "name": "Nanhotta",
+          "url": "https://open.spotify.com/artist/5OeMMKKRabK3bzZuA6UcPL"
+        },
+        {
+          "name": "Aktual",
+          "url": "https://open.spotify.com/artist/3w7mWtRkKH3dCzX4JuJfDD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "Take Ya Time",
+      "url": "https://open.spotify.com/track/3ROlELjllPEnjqwuAdgDX1"
     },
     {
       "album": {
@@ -5194,7 +5288,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 257929,
       "name": "The Year Of The Underdogz (feat. Crooked I)",
       "url": "https://open.spotify.com/track/0l3Y3zpdnUFlGPRE7ZefLJ"

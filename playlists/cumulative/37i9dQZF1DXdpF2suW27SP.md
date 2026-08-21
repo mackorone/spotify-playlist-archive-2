@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Julinho Ksd entra na zona.
+> Prodígio & Edgar Domingos entram na zona.
 
-1,061 songs - 2 day 7 hr 50 min
+1,062 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Moçambique](https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:20 | 2023-12-08 | 2024-09-13 |
 | [Mulato ou Moreno](https://open.spotify.com/track/2fWdLDGNKVSqxCo3HUjRXi) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb) | [Mulato ou Moreno](https://open.spotify.com/album/3w8DGQyspxb8gtqs8zOPSQ) | 2:01 | 2024-01-12 | 2024-02-09 |
 | [MULEMBA](https://open.spotify.com/track/01CGvyHhMFWieYOqMHNA7Z) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [MULEMBA](https://open.spotify.com/album/52t8VcN2VgyUk3CvaWQY7Q) | 2:01 | 2025-06-12 | 2025-11-21 |
+| [Mulher Do Bandido](https://open.spotify.com/track/0eZiONOncclcPEMty5K5AO) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Rikinho](https://open.spotify.com/artist/0MwIU9RawJmWw1SOhZi6Qw), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Mulher Do Bandido](https://open.spotify.com/album/4l2k2xZcm3entvzOjoA42b) | 3:18 | 2026-08-20 |  |
 | [Mundo Novo](https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Karyna Gomes](https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa) | [Mundo Novo](https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM) | 3:11 | 2024-04-18 | 2024-05-03 |
 | [Mundo Virtual](https://open.spotify.com/track/1EsBySeYsxFajxLMgkO6cc) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Berço de Lata](https://open.spotify.com/album/6aTnN9irGm43qZ6SkHl1Bq) | 3:15 | 2025-04-10 | 2025-08-15 |
 | [MVP](https://open.spotify.com/track/2aGpH23p2zPIDPfCS1SMlo) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [MVP](https://open.spotify.com/album/1CXVgkc2dynAiSb13hp879) | 2:11 | 2026-05-07 | 2026-06-19 |
@@ -906,7 +907,7 @@
 | [Solo](https://open.spotify.com/track/5JXo6j3iwoU7O7LzYNkXl5) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Solo](https://open.spotify.com/album/4AIbDc2dSwBuS2FWefT7CK) | 3:39 | 2023-08-03 | 2023-08-25 |
 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 | 2024-09-12 | 2025-10-10 |
 | [Somos de Viseu](https://open.spotify.com/track/6q9CXfRlW4rLIwTUXMzpid) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO) | [Somos de Viseu](https://open.spotify.com/album/0gbLknufrvGMXy6PfRzG5o) | 4:56 | 2025-09-04 | 2025-09-26 |
-| [Sonhos](https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Sonhos](https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy) | 2:44 | 2026-01-09 |  |
+| [Sonhos](https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Sonhos](https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy) | 2:44 | 2026-01-09 | 2026-08-21 |
 | [Sonhos & Insónias](https://open.spotify.com/track/2UTZP10Hplfqi7xVM7Q3eW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Anthus](https://open.spotify.com/artist/7FXdxjdBlrUxkxji8vV322) | [Sonhos & Insónias](https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc) | 3:39 | 2023-09-07 | 2023-10-01 |
 | [Sonhos De Uma Criança](https://open.spotify.com/track/0q91TUDvR1zwWv4csvlzoI) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [ALICIA MARQUES](https://open.spotify.com/artist/2X0yRGZEniWxOYwskDiUZ0) | [Sonhos De Uma Criança](https://open.spotify.com/album/1s2sAIUjwAj5utFUjzeVVS) | 2:33 | 2025-09-04 | 2025-09-26 |
 | [Sopa Di Camaron](https://open.spotify.com/track/5MTfzIttWh4RqCDyTDlOuI) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Rods Wires](https://open.spotify.com/artist/6NggcUSxA5B19Efk4ivUsH) | [Sopa Di Camaron](https://open.spotify.com/album/2NhmvKx5jCh8wXFqf8lL2P) | 5:28 | 2025-10-09 | 2025-12-19 |

@@ -2,9 +2,9 @@
 
 ### [soulful](https://open.spotify.com/playlist/37i9dQZF1DX2AHwa6tQ2Yy)
 
-> Try a little tenderness\. Cover: The Womack Sisters
+> Try a little tenderness\. Cover: Cleo Sol
 
-401 songs - 1 day 0 hr 47 min
+403 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Cosmic Echos](https://open.spotify.com/track/4HuigiKKmUOzZCLkJ7aZXJ) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 5:06 | 2025-07-31 | 2025-10-24 |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2025-07-11 |  |
 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 | 2024-03-14 | 2025-04-06 |
+| [D.O.T.W \- Demo](https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Hallucinating Love \(Deluxe\)](https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1) | 2:47 | 2026-08-20 |  |
 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-11 | 2025-10-03 |
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-06-02 | 2022-12-21 |
 | [david](https://open.spotify.com/track/0HcKyjCAvv2I3MDGqHYSh5) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [david](https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj) | 5:09 | 2025-07-11 | 2025-11-21 |
@@ -160,6 +161,7 @@
 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-12-01 | 2023-02-06 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-06-02 | 2025-07-11 |
 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 | 2023-08-24 | 2025-07-11 |
+| [I Only Look to You](https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:08 | 2026-08-20 |  |
 | [I Win](https://open.spotify.com/track/3YQIq2JBC6qk3NgABjxrMO) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [I Win](https://open.spotify.com/album/1DTSQOWzN1AjizgQ505HrM) | 2:13 | 2025-11-14 | 2026-01-15 |
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2022-06-02 | 2025-07-11 |
 | [i would \- day 48](https://open.spotify.com/track/2DGDafkDgL0epxAmum4bnX) | [Ethan French](https://open.spotify.com/artist/03Y8hH60ObeKNFsDcum6Uu) | [i would \- day 48](https://open.spotify.com/album/1Hw16YikggaipasjE5Upn3) | 1:56 | 2026-07-09 | 2026-08-14 |
@@ -328,7 +330,7 @@
 | [Something Good](https://open.spotify.com/track/1XTD8Q3s4tEfUWkkRSwVwy) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Something Good](https://open.spotify.com/album/69lbEKoFu1Th8r23Dd0eOJ) | 4:09 | 2022-06-02 | 2022-09-09 |
 | [Something In The Air](https://open.spotify.com/track/2yWcxvTuEoMnSeeylrDKse) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Something In The Air](https://open.spotify.com/album/0RGou0LZUtmH1aPoZgUPkA) | 4:09 | 2023-12-14 | 2023-12-22 |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-04 | 2025-07-11 |
-| [Spanish Joint](https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:44 | 2025-09-29 |  |
+| [Spanish Joint](https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:44 | 2025-09-29 | 2026-08-21 |
 | [Spider](https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7) | 2:54 | 2023-08-31 | 2024-04-19 |
 | [Spider](https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx) | 2:54 | 2022-06-02 | 2023-07-28 |
 | [Stand In](https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Stand In](https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H) | 4:46 | 2022-06-02 | 2022-09-09 |
@@ -353,7 +355,7 @@
 | [The Garden](https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:47 | 2025-07-11 |  |
 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 | 2022-06-02 | 2025-07-11 |
 | [The Hop](https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Beats, Rhymes & Life](https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb) | 3:27 | 2025-07-11 |  |
-| [The Hurting Truth](https://open.spotify.com/track/5L6K2eaphmRKjMSCDZmZJY) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [The Hurting Truth](https://open.spotify.com/album/4EXkWxOiFvInOZatmr9fDr) | 2:45 | 2026-07-09 |  |
+| [The Hurting Truth](https://open.spotify.com/track/5L6K2eaphmRKjMSCDZmZJY) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [The Hurting Truth](https://open.spotify.com/album/4EXkWxOiFvInOZatmr9fDr) | 2:45 | 2026-07-09 | 2026-08-21 |
 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 | 2022-06-16 | 2023-02-02 |
 | [The Room](https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg) | 2:17 | 2023-02-02 | 2024-04-19 |
 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 | 2025-07-11 | 2026-07-10 |

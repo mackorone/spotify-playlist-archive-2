@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: SUMIN) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Silica Gel) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179464,
       "name": "Comma",
       "url": "https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1"
@@ -8154,6 +8154,24 @@
       "duration_ms": 254750,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2"
+    },
+    {
+      "album": {
+        "name": "Godspeed!",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Godspeed!",
+      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
     },
     {
       "album": {
@@ -13482,6 +13500,24 @@
       "duration_ms": 219346,
       "name": "Manboy",
       "url": "https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA"
+    },
+    {
+      "album": {
+        "name": "Ballad of You",
+        "url": "https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253296,
+      "name": "Manphasickzuck",
+      "url": "https://open.spotify.com/track/590xpNtvmYv7EaNukmeEcY"
     },
     {
       "album": {
@@ -21638,7 +21674,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 213510,
       "name": "The spring you never knew (with Yoojongkwon)",
       "url": "https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk"

@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> La Mano 1.9 x Gazo x La Rvfleuze au top de la première playlist de rap français.
+> Niska au top de la première playlist de rap français.
 
 467 songs - 23 hr 21 min
 

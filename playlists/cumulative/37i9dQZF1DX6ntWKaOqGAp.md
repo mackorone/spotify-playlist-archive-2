@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: go!go!vanillas
 
-3,482 songs - 9 day 1 hr 13 min
+3,483 songs - 9 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1693,7 +1693,7 @@
 | [TOMODACHI](https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 4:08 | 2024-01-09 | 2024-06-05 |
 | [Tomodachi no Uta](https://open.spotify.com/track/0aV87VnBvSd2opmrt7SpLj) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Tomodachi no Uta](https://open.spotify.com/album/4LwO1B5B6TTqc5gRHPLsvG) | 4:13 | 2025-02-18 | 2025-02-26 |
 | [Tomoshibi](https://open.spotify.com/track/2ODaE00Y5PwSHYXHiQMl0o) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Tomoshibi](https://open.spotify.com/album/5eMmCCYQ4ExF88VB1E8c86) | 3:29 | 2025-01-14 | 2025-02-21 |
-| [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 | 2026-08-18 |  |
+| [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 | 2026-08-18 | 2026-08-21 |
 | [TORYANSE](https://open.spotify.com/track/6j8wkhXAvbdfiVGglqHMQQ) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1), [須藤寿](https://open.spotify.com/artist/4yLohhRvV9WAxPAuIafhyx) | [TORYANSE](https://open.spotify.com/album/4by9Ztn9u4W3PjjIFUfwNQ) | 3:56 | 2026-02-10 | 2026-07-15 |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
@@ -3290,6 +3290,7 @@
 | [納得いかない](https://open.spotify.com/track/0qgA4cworeuwBtTyp0sfw4) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [もんくのひとつもいいたい！](https://open.spotify.com/album/1GWvo0Fp2LqgFiUNhm5gUy) | 3:14 | 2025-06-17 | 2025-06-25 |
 | [純ラブ](https://open.spotify.com/track/1Mpd82bDK6bYt0jTMmdGoP) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [純ラブ](https://open.spotify.com/album/1L2QioJWGlifdwNqxQSgMO) | 3:34 | 2024-07-09 | 2024-09-04 |
 | [純情](https://open.spotify.com/track/51gs6ICIvYvSPz22cREjup) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [夢の中で、夢から醒めて](https://open.spotify.com/album/2Gje9p6OLGFQoqSovlwfEb) | 3:27 | 2024-01-30 | 2024-02-21 |
+| [素敵すぎる](https://open.spotify.com/track/5tePLatUDsJg1idEVUiFA8) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [素敵すぎる/素晴らしき1日](https://open.spotify.com/album/5aLUNNI8YL0mibXFrvzELv) | 3:28 | 2026-08-20 |  |
 | [紫](https://open.spotify.com/track/7xh9vI4YtLkPzqIzio3ogW) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [紫](https://open.spotify.com/album/1rVLfcxl9CkGPFlSTtcgFo) | 4:23 | 2025-02-18 | 2025-03-05 |
 | [終宵](https://open.spotify.com/track/77ve5M5MUltW9VvydkxvT7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [終宵](https://open.spotify.com/album/13She1nPhAa5K5CdvOPOsa) | 3:49 | 2026-07-02 |  |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-11 | 2023-09-01 |

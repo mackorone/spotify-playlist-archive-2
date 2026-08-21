@@ -2469,6 +2469,32 @@
     },
     {
       "album": {
+        "name": "Bateu (Corazon)",
+        "url": "https://open.spotify.com/album/1jG08wQ7DPlAEMKO4DzBmc"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "EMRIA",
+          "url": "https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251099,
+      "name": "Bateu (Corazon)",
+      "url": "https://open.spotify.com/track/2gVjR7kFkBDVYIGlfbiROk"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/17aGTPiN3LQHtjZuNDteyp"
       },
@@ -7750,6 +7776,36 @@
       "duration_ms": 137338,
       "name": "Divine",
       "url": "https://open.spotify.com/track/3HFQRcE25gUw5jiGrJPsRc"
+    },
+    {
+      "album": {
+        "name": "Do For Love",
+        "url": "https://open.spotify.com/album/0wOR43qEKPvjAgY8Nk06hb"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193691,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
     },
     {
       "album": {
@@ -27234,6 +27290,28 @@
       "duration_ms": 188566,
       "name": "Phatt Bass",
       "url": "https://open.spotify.com/track/4BtnUDuHYvLDVsQWpc3p0d"
+    },
+    {
+      "album": {
+        "name": "Physical (Ode To The Bouncer)",
+        "url": "https://open.spotify.com/album/6zhJAhQ4aGKrhich2OYecN"
+      },
+      "artists": [
+        {
+          "name": "Kalou",
+          "url": "https://open.spotify.com/artist/2b77mNgBW5oMqOIbo99q5v"
+        },
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144130,
+      "name": "Physical (Ode To The Bouncer)",
+      "url": "https://open.spotify.com/track/2BuqJfiHV7VCGE7fDa3cWw"
     },
     {
       "album": {

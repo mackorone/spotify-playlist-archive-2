@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/670go6oDg9LHGQzgA39DyK"
+      },
+      "artists": [
+        {
+          "name": "John Buckley",
+          "url": "https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201355,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/6AwQty7WBfPFqGxsmYlMbb"
+    },
+    {
+      "album": {
         "name": "Party In My Mind",
         "url": "https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 
 > This is Gregory Alan Isakov\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,161 likes - 38 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,205 likes - 39 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 | 27 | [Master & A Hound](https://open.spotify.com/track/7KxlQrTePk82UyI1Daz2Cr) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:02 |
 | 28 | [Honey, It's Alright](https://open.spotify.com/track/5BTHMC1yaJGHmUi2nRpXfq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:11 |
 | 29 | [Wings In All Black](https://open.spotify.com/track/6dW2GBClQt23WtOctmEp4S) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 3:43 |
-| 30 | [I Am California \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
-| 31 | [Liars](https://open.spotify.com/track/6rnkuqqkFBFTABuUQLvW8y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 5:16 |
-| 32 | [3 a.m.](https://open.spotify.com/track/2gH3RiUmUeR780Ngwx5T6r) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:46 |
+| 30 | [Liars](https://open.spotify.com/track/6rnkuqqkFBFTABuUQLvW8y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 5:16 |
+| 31 | [3 a.m.](https://open.spotify.com/track/2gH3RiUmUeR780Ngwx5T6r) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:46 |
+| 32 | [I Am California](https://open.spotify.com/track/2SIzF2EzT2sF1AyDV4Txvf) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 5:13 |
 | 33 | [Berth](https://open.spotify.com/track/27XsVATDN0V8wM1bjRpGNn) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 4:53 |
-| 34 | [Highway Blood](https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 4:26 |
-| 35 | [Unwritable Girl](https://open.spotify.com/track/3noTQVfSAGjbC2cS5efZoe) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 2:59 |
-| 36 | [That Sea, The Gambler](https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:53 |
-| 37 | [All There Is](https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 2:22 |
-| 38 | [Black & Blue](https://open.spotify.com/track/76r1FmtRgDKkiZ6Uru459R) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 3:48 |
+| 34 | [Unwritable Girl](https://open.spotify.com/track/3noTQVfSAGjbC2cS5efZoe) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 2:59 |
+| 35 | [That Sea, The Gambler](https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:53 |
+| 36 | [Highway Blood](https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 4:26 |
+| 37 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc) | 4:17 |
+| 38 | [All There Is](https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 2:22 |
+| 39 | [Black & Blue](https://open.spotify.com/track/76r1FmtRgDKkiZ6Uru459R) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 3:48 |
 
-Snapshot ID: `aoOggAAAAAB8QjLiOrXU6ATL26hHkjrV`
+Snapshot ID: `aoTyAAAAAACPUdZ5BD5O0vq7jiuqsI1z`

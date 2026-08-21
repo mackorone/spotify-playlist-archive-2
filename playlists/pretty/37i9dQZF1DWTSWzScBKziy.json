@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Joseph O'Brien",
-  "num_followers": 436316,
+  "num_followers": 436364,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7hesArc7UkNDN5lnl5gl75mfEw",
+  "snapshot_id": "AAAAABr+nRFPG01C9J9bGsdrE0EJGVhk",
   "tracks": [
     {
       "added_at": "2026-08-07 07:22:47",
@@ -83,22 +83,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "What A God",
-        "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
+        "name": "peach sand",
+        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
       },
       "artists": [
         {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 378197,
-      "name": "What A God",
-      "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
+      "duration_ms": 281869,
+      "name": "peach sand",
+      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -119,18 +115,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "peach sand",
-        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
+        "name": "What A God",
+        "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 281869,
-      "name": "peach sand",
-      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
+      "duration_ms": 378197,
+      "name": "What A God",
+      "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
-      },
-      "artists": [
-        {
-          "name": "Tate Butts",
-          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
-        }
-      ],
-      "duration_ms": 200038,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "No Place Like Home",
         "url": "https://open.spotify.com/album/5S09TGVYHzj6QPJWUgNfHG"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "GO FOR BROKE",
-        "url": "https://open.spotify.com/album/1FwwG1ESCyEWGqWT00IXWo"
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
       },
       "artists": [
         {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+          "name": "Tate Butts",
+          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
         }
       ],
-      "duration_ms": 228029,
-      "name": "GO FOR BROKE",
-      "url": "https://open.spotify.com/track/0DKjNA405jiAQgkimXJqb5"
+      "duration_ms": 200038,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -535,6 +519,22 @@
       "duration_ms": 172798,
       "name": "His Favorite",
       "url": "https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "GO FOR BROKE",
+        "url": "https://open.spotify.com/album/1FwwG1ESCyEWGqWT00IXWo"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 228029,
+      "name": "GO FOR BROKE",
+      "url": "https://open.spotify.com/track/0DKjNA405jiAQgkimXJqb5"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "You Don't Own Me",
-        "url": "https://open.spotify.com/album/5Q0uoiK8kOR4J3IrPBhTFA"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        },
-        {
-          "name": "Dylan Stiles",
-          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
-        }
-      ],
-      "duration_ms": 166659,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/4jupFUCWc0s6whPrOq83w4"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "Through The Fire",
         "url": "https://open.spotify.com/album/18yRa1xToWqROoVtzPPw4u"
       },
@@ -671,6 +651,26 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/5Q0uoiK8kOR4J3IrPBhTFA"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        },
+        {
+          "name": "Dylan Stiles",
+          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
+        }
+      ],
+      "duration_ms": 166659,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/4jupFUCWc0s6whPrOq83w4"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/06IdvGUPXOmECL3Co8Jkb6"
       },
@@ -683,6 +683,38 @@
       "duration_ms": 242974,
       "name": "Life",
       "url": "https://open.spotify.com/track/1gjzjaXaPTaFaqoERTr0fX"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Lover Of My Life (I Need You)",
+        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "duration_ms": 247094,
+      "name": "Lover Of My Life (I Need You)",
+      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "FOOL'S GOLD",
+        "url": "https://open.spotify.com/album/5OSGsguQRvpfp9ncJzxeNv"
+      },
+      "artists": [
+        {
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+        }
+      ],
+      "duration_ms": 181385,
+      "name": "FOOL'S GOLD",
+      "url": "https://open.spotify.com/track/1cs3FIA2eVykc7ndhbT9xA"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -703,18 +735,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "FOOL'S GOLD",
-        "url": "https://open.spotify.com/album/5OSGsguQRvpfp9ncJzxeNv"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI"
       },
       "artists": [
         {
-          "name": "ELI GABLE",
-          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 181385,
-      "name": "FOOL'S GOLD",
-      "url": "https://open.spotify.com/track/1cs3FIA2eVykc7ndhbT9xA"
+      "duration_ms": 194775,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -743,38 +775,6 @@
       "duration_ms": 391321,
       "name": "Jesus, My Everything",
       "url": "https://open.spotify.com/track/177WHrAvff47hqsrvB1kRc"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "Lover Of My Life (I Need You)",
-        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
-      },
-      "artists": [
-        {
-          "name": "Charles Weems",
-          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
-        }
-      ],
-      "duration_ms": 247094,
-      "name": "Lover Of My Life (I Need You)",
-      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 194775,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "My Redeemer Lives (He Lives)",
-        "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Culture Worship",
-          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
-        },
-        {
-          "name": "Southland",
-          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
-        }
-      ],
-      "duration_ms": 275786,
-      "name": "My Redeemer Lives (He Lives)",
-      "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "Holy Is He",
         "url": "https://open.spotify.com/album/5NKhmZWg5cDaI2JxxcFGo5"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 376453,
       "name": "Holy Is He",
       "url": "https://open.spotify.com/track/15UfzWcb7zBgDqnBMf1Ptc"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "My Redeemer Lives (He Lives)",
+        "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Southland",
+          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
+        }
+      ],
+      "duration_ms": 275786,
+      "name": "My Redeemer Lives (He Lives)",
+      "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/5Up4E2RVBpgFkMYj4y20Ot"
-      },
-      "artists": [
-        {
-          "name": "Brett Younker",
-          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 260198,
-      "name": "Only Here To Worship",
-      "url": "https://open.spotify.com/track/2vwvIryT7FTxPxhxbXaj3g"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "ONLY WAY UP IS DOWN",
         "url": "https://open.spotify.com/album/1K6xrx5oJRNdACWYnI6x44"
       },
@@ -1063,22 +1043,42 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "What Else Can I Do",
-        "url": "https://open.spotify.com/album/01NGrBD9LlsZw96to2sDSQ"
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/5Up4E2RVBpgFkMYj4y20Ot"
       },
       "artists": [
         {
-          "name": "Quay Worship",
-          "url": "https://open.spotify.com/artist/4iXZH0BWcnlgpimyKYnaw9"
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
         },
         {
-          "name": "Bethany Tyre",
-          "url": "https://open.spotify.com/artist/0d7KTDmAIPoQRqH4ZLqRaq"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 268000,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/5jf5oJDhyxqfld1xGT1YJe"
+      "duration_ms": 260198,
+      "name": "Only Here To Worship",
+      "url": "https://open.spotify.com/track/2vwvIryT7FTxPxhxbXaj3g"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
+      },
+      "artists": [
+        {
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        },
+        {
+          "name": "Drake White",
+          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+        }
+      ],
+      "duration_ms": 235446,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1115,22 +1115,42 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
+        "name": "What Else Can I Do",
+        "url": "https://open.spotify.com/album/01NGrBD9LlsZw96to2sDSQ"
       },
       "artists": [
         {
-          "name": "Alex Jude",
-          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+          "name": "Quay Worship",
+          "url": "https://open.spotify.com/artist/4iXZH0BWcnlgpimyKYnaw9"
         },
         {
-          "name": "Drake White",
-          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+          "name": "Bethany Tyre",
+          "url": "https://open.spotify.com/artist/0d7KTDmAIPoQRqH4ZLqRaq"
         }
       ],
-      "duration_ms": 235446,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
+      "duration_ms": 268000,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/5jf5oJDhyxqfld1xGT1YJe"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Keep Praying",
+        "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Keep Praying",
+      "url": "https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Jehovah",
-        "url": "https://open.spotify.com/album/38ZQFXnAxWVXpz3aW6y4AS"
-      },
-      "artists": [
-        {
-          "name": "James River Worship",
-          "url": "https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh"
-        },
-        {
-          "name": "Don Hamilton",
-          "url": "https://open.spotify.com/artist/18V3kyDcTPbvX64LuejNvS"
-        }
-      ],
-      "duration_ms": 534833,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/5Ieh8xRdasawppGqAALQJc"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "ascent",
         "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
       },
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Keep Praying",
-        "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
+        "name": "Jehovah",
+        "url": "https://open.spotify.com/album/38ZQFXnAxWVXpz3aW6y4AS"
       },
       "artists": [
         {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+          "name": "James River Worship",
+          "url": "https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh"
         },
         {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+          "name": "Don Hamilton",
+          "url": "https://open.spotify.com/artist/18V3kyDcTPbvX64LuejNvS"
         }
       ],
-      "duration_ms": 250720,
-      "name": "Keep Praying",
-      "url": "https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1"
+      "duration_ms": 534833,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/5Ieh8xRdasawppGqAALQJc"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Eve Of A Miracle",
-        "url": "https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Eve Of A Miracle",
-      "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "Everything New!",
         "url": "https://open.spotify.com/album/6ZN8gMlt5JkJ0gH3i8A1PJ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 138260,
       "name": "Everything New!",
       "url": "https://open.spotify.com/track/5OjaxPok6yizxx08OnHGPV"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Eve Of A Miracle",
+        "url": "https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Eve Of A Miracle",
+      "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
     },
     {
       "added_at": "2026-08-07 07:22:47",

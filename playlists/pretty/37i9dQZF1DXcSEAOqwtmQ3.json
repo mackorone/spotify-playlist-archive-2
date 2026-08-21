@@ -1,12 +1,12 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 81812,
+  "num_followers": 81845,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJIZ7NyDDXLfBCqy9z0Tw+Ued2A",
+  "snapshot_id": "AAAAANGzd2D2Aq7/La1y5MS9sTLwMziY",
   "tracks": [
     {
       "added_at": "2025-08-26 11:12:59",
@@ -203,22 +203,18 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
       },
       "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 233012,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
+      "duration_ms": 252244,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -239,18 +235,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
       },
       "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 252244,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
+      "duration_ms": 233012,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
     },
     {
       "added_at": "2025-08-26 11:12:59",

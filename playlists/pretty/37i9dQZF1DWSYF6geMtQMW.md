@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר:שאקירה ובורנה בוי
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,506 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,557 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 |
 | 50 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 
-Snapshot ID: `AAAAAFcONMn4PvP9/US10GUHr+176ncU`
+Snapshot ID: `AAAAABcOCNwY0qZBzyzs2aQKBk2lrRfr`

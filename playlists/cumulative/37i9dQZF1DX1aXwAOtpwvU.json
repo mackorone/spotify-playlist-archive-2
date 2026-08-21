@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj nowych ulubionych artyst\u00f3w. Cover:  <a href=\"spotify:artist:3IQIVYEmRr7wZnEqpSjfV5\">Zale\u015b</a>",
+  "description": "Odkryj nowych ulubionych artyst\u00f3w. Cover:  <a href=\"spotify:artist:0B4TTzKvNuF5Jcmbe5uQ1T\">Pola Maj</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -4861,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6t3igTh6eTM5JAlzbi0Z02"
+      },
+      "artists": [
+        {
+          "name": "P. Tropez",
+          "url": "https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168787,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2atWDx68WUZs9ZEg3L2clp"
+    },
+    {
+      "album": {
         "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
         "url": "https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw"
       },
@@ -5357,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Nadwodne miasto",
+        "url": "https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217617,
+      "name": "Nadwodne miasto",
+      "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
+    },
+    {
+      "album": {
         "name": "Naiwna ja",
         "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
       },
@@ -5731,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "Nie Odm\u00f3wi\u0119",
+        "url": "https://open.spotify.com/album/421yEu8kSaOoLGLyhVaLqX"
+      },
+      "artists": [
+        {
+          "name": "P. Tropez",
+          "url": "https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133052,
+      "name": "Nie Odm\u00f3wi\u0119",
+      "url": "https://open.spotify.com/track/5q9hCKJPE2glIJRr6SCbPf"
+    },
+    {
+      "album": {
         "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
         "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
       },
@@ -5768,6 +5822,24 @@
       "duration_ms": 187533,
       "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
       "url": "https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM"
+    },
+    {
+      "album": {
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "album": {
@@ -6180,7 +6252,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 190515,
       "name": "Oceany",
       "url": "https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv"
@@ -6888,6 +6960,24 @@
       "duration_ms": 208055,
       "name": "powiem/nie powiem",
       "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
+    },
+    {
+      "album": {
+        "name": "poza Tob\u0105 nic",
+        "url": "https://open.spotify.com/album/6NLJMNdUdNY3Mv2jnlxKWv"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "poza Tob\u0105 nic",
+      "url": "https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z"
     },
     {
       "album": {
@@ -7848,7 +7938,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164949,
       "name": "Si\u00f3dma Sosna",
       "url": "https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9"
@@ -8416,7 +8506,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 211685,
       "name": "S\u0142oneczniki",
       "url": "https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE"
@@ -9902,7 +9992,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 179032,
       "name": "Za t\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA"

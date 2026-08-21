@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,101 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,108 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 27 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 | 28 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 |
 | 29 | [Sentimental Prison](https://open.spotify.com/track/406OJmzC7Evty1Ht2LzuTt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Sentimental Prison](https://open.spotify.com/album/4GW9lZPCyOjLSQI4nKAKRC) | 3:12 |
-| 30 | [Like I Am Yours](https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Like I Am Yours](https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF) | 3:04 |
-| 31 | [Highs Get Low](https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Highs Get Low](https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f) | 2:54 |
+| 30 | [Highs Get Low](https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Highs Get Low](https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f) | 2:54 |
+| 31 | [Like I Am Yours](https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Like I Am Yours](https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF) | 3:04 |
 | 32 | [Menace](https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Menace](https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK) | 3:21 |
 | 33 | [Steady Love](https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz) | 3:10 |
 | 34 | [JESUS IS LORD](https://open.spotify.com/track/2YYWFVVEKQbn74uifc6gLh) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [JESUS IS LORD](https://open.spotify.com/album/1EFA5KDZNc6UE7MNIlwwne) | 1:51 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 59 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
 | 60 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
 | 61 | [redeemed](https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [redeemed](https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f) | 3:25 |
-| 62 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
-| 63 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
+| 62 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
+| 63 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
 | 64 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
 | 65 | [Into The Wild](https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:48 |
 | 66 | [WILD!](https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah) | [Chris Ekiss](https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty) | [WILD!](https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD) | 3:30 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 72 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
 | 73 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
 | 74 | [Easy To Please](https://open.spotify.com/track/3hRXdLdEsQ2XtAuQlHq6Nz) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Easy To Please](https://open.spotify.com/album/0XoKnV7K6h9yvhxW2gxgx1) | 4:39 |
-| 75 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
-| 76 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
+| 75 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
+| 76 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
 | 77 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 78 | [Eva Comin' Down](https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Without Jesus / Eva Comin' Down](https://open.spotify.com/album/5tIMJfn9DDLPy8KQpbSBwz) | 2:40 |
 | 79 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 94 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
 | 95 | [Stay](https://open.spotify.com/track/0bC2r4PRfRYuIBu2ZTQ3Vs) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Stay](https://open.spotify.com/album/2TskVz0QmXq4ueQYyW36GD) | 2:23 |
 | 96 | [Joyful Melody](https://open.spotify.com/track/69yAwdmV8VngYAYXNgbWrZ) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR) | [Joyful Melody](https://open.spotify.com/album/5VtWw50s1DqtIMzBR9kMeH) | 2:50 |
-| 97 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
-| 98 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
-| 99 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
+| 97 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
+| 98 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
+| 99 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
 | 100 | [Something About Your Love](https://open.spotify.com/track/4pWSuffghBr69VsPfSrhNr) | [Kieran De La Harpe](https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Something About Your Love](https://open.spotify.com/album/3m9H87NkD8LlBsN1aDfXb6) | 3:52 |
 
-Snapshot ID: `AAAAABwk2T+U5dSxt3jzZ1E8XT/fbQYO`
+Snapshot ID: `AAAAAOz7K0UP0zfu5G67ltAk1KA5SmVe`

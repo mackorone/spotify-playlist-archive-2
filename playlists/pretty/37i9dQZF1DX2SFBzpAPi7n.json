@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Shin In Ryu) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 251154,
+  "num_followers": 251129,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADR9ZuvIGUpFLUXezBq3gwOmnoN5",
+  "snapshot_id": "AAAAAHzpT9E7w7Yu4KtQmWxfJ/f5lZLm",
   "tracks": [
     {
       "added_at": "2026-08-13 11:06:03",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
         "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 213066,
       "name": "GENIE",
       "url": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "JAMONG SALGU CLUB",
-        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Goodbye, My Summer",
-      "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "JAMONG SALGU CLUB",
+        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Goodbye, My Summer",
+      "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "DEAR.",
-        "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Flowering",
-      "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "I\u2019ll Never Love Again",
         "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 174533,
       "name": "Dash",
       "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "DEAR.",
+        "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Flowering",
+      "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "AMNESIA",
         "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
+        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
     },
     {
       "added_at": "2026-08-13 11:06:03",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-08-13 11:06:03",
       "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2026-08-13 11:06:03",
-      "album": {
         "name": "Pump Up The Volume!",
         "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 179386,
       "name": "Pump Up The Volume!",
       "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
+    },
+    {
+      "added_at": "2026-08-13 11:06:03",
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
       "added_at": "2026-08-13 11:06:03",

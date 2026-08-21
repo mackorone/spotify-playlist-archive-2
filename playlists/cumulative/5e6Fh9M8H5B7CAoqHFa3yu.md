@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,478 songs - 6 day 1 hr 49 min
+2,479 songs - 6 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2047,6 +2047,7 @@
 | [T.V.F.](https://open.spotify.com/track/79ZTcWe9UxcUbHaPt9xHQF) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [T.V.F.](https://open.spotify.com/album/5vCZQLl5gN5oIpu8MqPWRj) | 3:15 | 2024-07-20 |  |
 | [Tah Tah](https://open.spotify.com/track/15Q57HgnzS4A2IL6i5BTkC) | [Rougher All Stars](https://open.spotify.com/artist/2jQ58gsioMPyDQXWVyxQ8p), [Cozi](https://open.spotify.com/artist/4u8GKtnuCzfbi0oukH0X9f) | [Tah Tah](https://open.spotify.com/album/114O1aN6uRjaPcNt88bUC4) | 4:08 | 2024-10-20 |  |
 | [Tah Tah Dub](https://open.spotify.com/track/42onPqYg8NsxUNtYH15aDd) | [Rougher All Stars](https://open.spotify.com/artist/2jQ58gsioMPyDQXWVyxQ8p), [Cozi](https://open.spotify.com/artist/4u8GKtnuCzfbi0oukH0X9f) | [Tah Tah Dub](https://open.spotify.com/album/7hnaqqwtb9Rwx2jNUOAd0v) | 4:04 | 2024-10-30 |  |
+| [Take Care](https://open.spotify.com/track/0qKadBHML8rQm8EOtniFNd) | [Nedim ERTUNA](https://open.spotify.com/artist/0MFMm7OrfEjP2QmfFQfWLs) | [Take Care](https://open.spotify.com/album/4qqpwmGS9zaPcAmR3FgkWw) | 3:00 | 2026-08-20 |  |
 | [Take Me Up \- Radio Edit](https://open.spotify.com/track/30NbCk8tGXG23YAJyYfuZn) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Take Me Up](https://open.spotify.com/album/6GyR4IdJwhvK1ReW1tsF4Z) | 2:21 | 2026-07-10 |  |
 | [TAKE MY SPIRIT](https://open.spotify.com/track/5O7EzrzBWd8cFQNuYIkD9v) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [TAKE MY SPIRIT](https://open.spotify.com/album/1hpMQAKTnl6fNh1vJccwmu) | 3:14 | 2025-11-23 |  |
 | [Take This](https://open.spotify.com/track/7ce40MzLvzHT8zTAJGcKmj) | [Solo Gas Rec](https://open.spotify.com/artist/6aPbfB9NQwCLHxF1GfCPIj) | [Take This](https://open.spotify.com/album/0vN5PKby1JV2qlE07km9Ts) | 2:08 | 2026-02-07 |  |

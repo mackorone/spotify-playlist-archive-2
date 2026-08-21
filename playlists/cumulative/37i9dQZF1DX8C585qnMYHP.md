@@ -4,7 +4,7 @@
 
 > The best new music by independent Experimental artists\. DjRUM on cover\. Artwork by Thami Nabil.
 
-2,270 songs - 7 day 7 hr 11 min
+2,272 songs - 7 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1042,6 +1042,7 @@
 | [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2022-08-03 | 2022-09-01 |
 | [JUST A WORM](https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU) | [DJ Girl](https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe) | [RUNGBELLER](https://open.spotify.com/album/5CgnsKqbZOGrdA0ljoUZVm) | 4:40 | 2024-03-13 | 2024-06-20 |
 | [Just Me, Selling Desires](https://open.spotify.com/track/7erIdv0TTM04ZjvVtTJEsy) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Just Me, Selling Desires](https://open.spotify.com/album/6fU3Rgpdz3JIqrXZqloTsE) | 2:42 | 2021-03-11 | 2021-03-25 |
+| [JV Jordan](https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg) | [Donatell](https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d), [Zack Sekoff](https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq) | [Water, CA](https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr) | 2:41 | 2026-08-19 |  |
 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f) | 5:54 | 2023-08-30 | 2023-11-20 |
 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/6G7f7Qxs5DgFxNipIjZ6hZ) | 5:54 | 2023-08-30 | 2023-11-30 |
 | [K](https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Euphoria](https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag) | 4:15 | 2025-10-17 | 2026-03-21 |
@@ -1654,6 +1655,7 @@
 | [Selkie](https://open.spotify.com/track/2ka9S88Rn9JZeEZ0i6dDIE) | [Gregor McMurray](https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO), [Liyv](https://open.spotify.com/artist/7BTM2IUcZZsdCANUS3wFKy) | [Selkie](https://open.spotify.com/album/55f1No9kOvdhK3paUIDUlt) | 4:42 | 2023-02-01 | 2023-03-29 |
 | [Sempre più solo](https://open.spotify.com/track/2YMeKnmEmQns1KhoglEZqi) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Di poche parole](https://open.spotify.com/album/2LpZfc5CugTbCW9SEs83sE) | 5:52 | 2022-08-03 | 2022-09-03 |
 | [Send Your Name To Mars](https://open.spotify.com/track/5FAnr3QSEL1An4ClKU4Fcb) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2) | [Send Your Name To Mars](https://open.spotify.com/album/5KoKEk7X1hgOOJQrptamZX) | 4:16 | 2021-09-30 | 2021-12-02 |
+| [Sense of Place](https://open.spotify.com/track/6H0DYW3RyHoTatvBva0fqc) | [Carré](https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202) | [Sense of Place](https://open.spotify.com/album/76nMEcZNfe9hIW18OqCoss) | 4:41 | 2026-08-19 |  |
 | [Sense of Place](https://open.spotify.com/track/1vTYMLZO9DM3YVmZKLssRm) | [Golden Retriever](https://open.spotify.com/artist/726Y8qhG13nXVntQ85dQ4c) | [Sense of Place](https://open.spotify.com/album/3anP9KJNLuTJdhwhClRIyN) | 20:41 | 2021-06-24 | 2021-08-26 |
 | [Sentinel](https://open.spotify.com/track/2SCGxkBzzBxVJxNU7bPovJ) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Sentinel](https://open.spotify.com/album/5AcGeaCscrU5HPbr4ThUMn) | 5:26 | 2022-02-02 | 2022-04-07 |
 | [Sepia Rainbow](https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF) | [Apu Nanu](https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB) | [Sepia Rainbow](https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR) | 3:09 | 2025-07-30 | 2026-03-21 |

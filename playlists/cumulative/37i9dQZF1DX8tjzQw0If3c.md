@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Meet the future\. Cover: quiet morning
+> Meet the future\. Cover: Mohsein Kush
 
-329 songs - 17 hr 55 min
+330 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Infiniti \- Kita Up \- With PUBG MOBILE](https://open.spotify.com/track/31z3l66d3BsegFeUdqLGYU) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Infiniti \- Kita Up \(With PUBG MOBILE\)](https://open.spotify.com/album/1hx79XY2B7kSU08oIpEfUE) | 4:05 | 2026-03-27 | 2026-04-07 |
 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 3:34 | 2025-11-13 | 2026-04-07 |
 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 | 2024-06-27 | 2025-04-16 |
+| [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 | 2026-08-20 |  |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2025-09-08 | 2025-10-17 |
 | [Jauh](https://open.spotify.com/track/4o64yCnunzxxTpeqrLOv3j) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/1M7yu1U4OWjUyRyQ5Q8GlX) | 4:12 | 2025-12-03 | 2026-01-17 |
 | [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 | 2025-04-15 | 2026-04-07 |

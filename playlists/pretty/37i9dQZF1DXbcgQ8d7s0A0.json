@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1416086,
+  "num_followers": 1416144,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTxxO8OEIeJcHg+dN5JEANc506a",
+  "snapshot_id": "AAAAABOcrLPz/j0nH4KykSQciLy7MelG",
   "tracks": [
     {
       "added_at": "2024-06-24 11:23:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "The Silver Collection",
-        "url": "https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Now We May Begin",
         "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "The Silver Collection",
+        "url": "https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
     },
     {
       "added_at": "2024-06-24 11:23:29",

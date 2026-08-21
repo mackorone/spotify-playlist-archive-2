@@ -2,13 +2,13 @@
 
 ### [RADAR Argentina](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 
-> 📸 TOBIKA, Maia Reficco, trouve feraud, 143Leti, Balta, esperanzah., Catalina Ammaturo & Joaco Burgos
+> Artistas para descubrir 📸 Maia Reficco
 
-332 songs - 17 hr 7 min
+333 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 | 2026-04-24 |  |
+| [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 | 2026-04-24 | 2026-08-21 |
 | [1990](https://open.spotify.com/track/12vuqOqhkajHyhQgRQEG4h) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:27 | 2022-12-22 | 2023-06-02 |
 | [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-06-27 | 2023-05-02 |
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2021-11-11 | 2022-07-29 |
@@ -28,6 +28,7 @@
 | [Al Revés](https://open.spotify.com/track/5K64lG2ppjQUFN2PzPU7DD) | [Antonio Algo](https://open.spotify.com/artist/3WAjQy7hVFE3aEQNKqTlWO) | [Cicatrices](https://open.spotify.com/album/1oSf2mO2rpzXVYVOCyKMe2) | 2:31 | 2023-06-01 | 2024-05-08 |
 | [AMAME](https://open.spotify.com/track/3ynkDyWXMgspdVxrp022vu) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 3:39 | 2022-06-01 | 2023-06-02 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-06-01 | 2023-06-02 |
+| [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 | 2026-08-20 |  |
 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 | 2023-06-01 | 2024-05-08 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-11-11 | 2023-06-02 |
 | [Arrancarte el Corazón \- En Vivo En Buenos Aires](https://open.spotify.com/track/2VZ5CwTjt73kEtUPhJR0sP) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Arrancarte el Corazón \(En Vivo En Buenos Aires\)](https://open.spotify.com/album/26rAU20hzlRLlNtwCo7HbB) | 4:03 | 2026-08-14 |  |

@@ -2,9 +2,9 @@
 
 ### [Afro Bars ](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover:  Ladipoe
+> The latest straight bars and Afro\-Trap\. Cover: ODUMODUBLVCK
 
-447 songs - 22 hr 58 min
+449 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [FUNNY FUNNY](https://open.spotify.com/track/2tuCFd3eFNt2wRwI5IKnKx) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [BEFORE I WAS BORN](https://open.spotify.com/album/2JFUfsrtn3A3WzovXRIzk8) | 2:47 | 2025-06-13 | 2025-08-21 |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-03-16 | 2024-04-19 |
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-03-16 | 2024-07-27 |
+| [Gaou la \(feat\. 6uff\)](https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Gaou la \(feat\. 6uff\)](https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp) | 2:27 | 2026-08-21 |  |
 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-31 | 2026-05-26 |
 | [Get It and Go](https://open.spotify.com/track/0X3A6lEN3e47GKrWFHjXvY) | [Priestdebeast](https://open.spotify.com/artist/5ePkwR8emD9thPqr9jFuvN), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Blikkyy2drill](https://open.spotify.com/artist/1DDjtdDkM8iJ1bFY5f5MCB) | [Get It and Go](https://open.spotify.com/album/4YPqA3ncCIgdTt53HG6pXp) | 2:20 | 2021-11-18 | 2022-03-25 |
 | [GHOST](https://open.spotify.com/track/0xCKxqaai05km1YorLdqqt) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [GHOST](https://open.spotify.com/album/1u8b0DTDnDGkki5W6CQr0U) | 1:49 | 2024-07-05 | 2024-08-30 |
@@ -204,6 +205,7 @@
 | [Inaweza Haiwezi](https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Inaweza Haiwezi](https://open.spotify.com/album/4XtK3cyU5InSf6792CqTjM) | 3:14 | 2022-11-04 | 2023-02-10 |
 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 | 2025-09-26 |  |
 | [Is'pantsula \(feat\. Papta Mancane\)](https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Papta Mancane](https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D) | [Speak N Vrostaan](https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1) | 4:42 | 2022-12-02 | 2023-09-15 |
+| [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 | 2026-08-21 |  |
 | [ISLAND GIRLS](https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [OUT OF SIGHT \- OUT OF MIND: VOLUME 1](https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP) | 2:52 | 2026-06-12 |  |
 | [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 | 2025-11-04 |  |
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2021-10-14 | 2024-07-27 |

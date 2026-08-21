@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: KiiiKiii)",
+  "description": "Future K-Pop hits! (Cover: ONEWE)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -11721,6 +11721,24 @@
     },
     {
       "album": {
+        "name": "Godspeed!",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Godspeed!",
+      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
+    },
+    {
+      "album": {
         "name": "Golden Hour - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
       },
@@ -13616,7 +13634,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 137000,
       "name": "HUNGRY (Side A)",
       "url": "https://open.spotify.com/track/2VtyGQFxbJMOF6MRU07ild"
@@ -14270,6 +14288,24 @@
       "duration_ms": 224929,
       "name": "I&credible",
       "url": "https://open.spotify.com/track/3UrYzeFR2wVIk2SAInaiDJ"
+    },
+    {
+      "album": {
+        "name": "I'll Be Back",
+        "url": "https://open.spotify.com/album/5euUeor0mgd0tS7WWfxjFj"
+      },
+      "artists": [
+        {
+          "name": "Vernon",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "I'll Be Back",
+      "url": "https://open.spotify.com/track/1hs4eGCcvX3wz5Z6nNqcxl"
     },
     {
       "album": {
@@ -16418,7 +16454,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 165000,
       "name": "LIFE (Feat. BOBBY)",
       "url": "https://open.spotify.com/track/3MLnRHPDHsIwSiGlYHbwhi"
@@ -20120,7 +20156,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 203000,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/17SEWES54Y7KkY3KcgHlSG"
@@ -24922,7 +24958,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184569,
       "name": "Say It",
       "url": "https://open.spotify.com/track/4IiZmwQIkApeVxHDujXJft"
@@ -24980,6 +25016,24 @@
       "duration_ms": 188306,
       "name": "Scared",
       "url": "https://open.spotify.com/track/4qQ3e0YD83kblcnb8R0sIw"
+    },
+    {
+      "album": {
+        "name": "\u9762 : Unknown Atlas",
+        "url": "https://open.spotify.com/album/07KPt6uHFqEJ4x5U7C3rX4"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/4HZXQpfYj1YArf2EfzEjf5"
     },
     {
       "album": {
@@ -26738,6 +26792,24 @@
       "duration_ms": 201595,
       "name": "Spring Snow",
       "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
+    },
+    {
+      "album": {
+        "name": "Our Birthday",
+        "url": "https://open.spotify.com/album/7ayu16CcnYO7PiKCwIIigc"
+      },
+      "artists": [
+        {
+          "name": "OURBIRTHDAY",
+          "url": "https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SQUEEZY",
+      "url": "https://open.spotify.com/track/4gGUin61QnBYP0Rfy96OaT"
     },
     {
       "album": {
@@ -33456,6 +33528,28 @@
       "duration_ms": 176987,
       "name": "YOUNGCREATORCREW",
       "url": "https://open.spotify.com/track/2vKNzC9T3kdU2JECcvob3V"
+    },
+    {
+      "album": {
+        "name": "Your Lips (feat. WENDY)",
+        "url": "https://open.spotify.com/album/2hinvNMmgWD6Ber83mNGLy"
+      },
+      "artists": [
+        {
+          "name": "JUN. K",
+          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Your Lips (feat. WENDY)",
+      "url": "https://open.spotify.com/track/6WzNSMg1sWKRbjyAsrMgX8"
     },
     {
       "album": {

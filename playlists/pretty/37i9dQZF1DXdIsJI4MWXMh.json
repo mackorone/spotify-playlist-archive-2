@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 82460,
+  "num_followers": 82502,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPAtg25TNHzQ5VgUPQcKlG+GQ2X",
+  "snapshot_id": "AAAAAMvQYIcQFVKgHKYjI9UFjsuz6l6o",
   "tracks": [
     {
       "added_at": "2026-07-30 18:13:17",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-07-30 18:13:17",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2026-07-30 18:13:17",
-      "album": {
         "name": "Una Hora para Bailar",
         "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 201627,
       "name": "All\u00e1 Va la Liebre",
       "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
+    },
+    {
+      "added_at": "2026-07-30 18:13:17",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2026-07-30 18:13:17",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-30 18:13:17",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2026-07-30 18:13:17",
-      "album": {
         "name": "Todos a la Pista",
         "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 270883,
       "name": "Como Quisiera Poder",
       "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
+    },
+    {
+      "added_at": "2026-07-30 18:13:17",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2026-07-30 18:13:17",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-07-30 18:13:17",
       "album": {
-        "name": "Dame una Respuesta",
-        "url": "https://open.spotify.com/album/2kyt4HXFRO29nVujrMkl2B"
+        "name": "La Sustancia",
+        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
       "artists": [
         {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+          "name": "Los S\u00faper Sicarios",
+          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
         }
       ],
-      "duration_ms": 223855,
-      "name": "Dame una Respuesta",
-      "url": "https://open.spotify.com/track/43IZE1ADlu0YHtYWDOHqsj"
+      "duration_ms": 173677,
+      "name": "Tio Borrachales",
+      "url": "https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE"
     }
   ],
   "unique_name": "Ranchera Chilena",

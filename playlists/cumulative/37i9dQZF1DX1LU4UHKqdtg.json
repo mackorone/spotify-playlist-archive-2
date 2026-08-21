@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "3!4!",
+        "url": "https://open.spotify.com/album/69bx6rXXP2noRTQ9FfGCYo"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "3!4!",
+      "url": "https://open.spotify.com/track/4vXfvgAKdY859dMVMsVbBB"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -476,7 +494,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 190750,
       "name": "A Piece of My heart",
       "url": "https://open.spotify.com/track/0U97V0OQpcr9kg6kaZMtgT"
@@ -8485,6 +8503,24 @@
     },
     {
       "album": {
+        "name": "Edge of Calm",
+        "url": "https://open.spotify.com/album/47NV5HFj1H8UZ9LYcMjO9j"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Edge of Calm",
+      "url": "https://open.spotify.com/track/7LxRTa2NFFO9ImeT8QfdKD"
+    },
+    {
+      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/4P59pYCBIktFE5EXW9ATXA"
       },
@@ -9892,6 +9928,24 @@
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+    },
+    {
+      "album": {
+        "name": "Forever July",
+        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Forever July",
+      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
     },
     {
       "album": {
@@ -20756,7 +20810,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 144281,
       "name": "PARTY b4 the PARTY",
       "url": "https://open.spotify.com/track/78jrpGKYNsfqjEtuVUFifU"
@@ -32178,7 +32232,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 207900,
       "name": "You Light Up My Life",
       "url": "https://open.spotify.com/track/5l1iyZe8GGrea4jUV2wCrp"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFaLjKkficpFxFMLt6vKovgP0uh",
+  "snapshot_id": "AAAAAIfNRtFXtlI0O6EjpWbYqEZfSzK7",
   "tracks": [
     {
       "added_at": "2026-08-13 11:11:48",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/1kkGfY3iZn6H43PFmRE3Nl"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 393910,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/1W9d86MctMM8Hh76tWoGlS"
+    },
+    {
+      "added_at": "2026-08-13 11:11:48",
+      "album": {
         "name": "Make You Scream (yun\u00e8 pinku Remix)",
         "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 164105,
       "name": "Make You Scream - yun\u00e8 pinku Remix",
       "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
-    },
-    {
-      "added_at": "2026-08-13 11:11:48",
-      "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/1kkGfY3iZn6H43PFmRE3Nl"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 393910,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/1W9d86MctMM8Hh76tWoGlS"
     },
     {
       "added_at": "2026-08-13 11:11:48",

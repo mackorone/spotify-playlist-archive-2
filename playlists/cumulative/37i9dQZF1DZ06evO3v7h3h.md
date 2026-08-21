@@ -4,7 +4,7 @@
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-131 songs - 9 hr 12 min
+132 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 | 2023-09-18 |  |
 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 | 2023-09-18 | 2025-01-31 |
 | [Eu](https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:57 | 2023-09-18 | 2025-06-30 |
-| [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 | 2024-03-05 |  |
+| [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 | 2024-03-05 | 2026-08-21 |
 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 | 2026-03-03 | 2026-08-17 |
 | [Frustração](https://open.spotify.com/track/1xKDCXGgQvox1Kv4ez7hs4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:07 | 2024-08-11 | 2024-09-08 |
 | [Futuros Ancestrais](https://open.spotify.com/track/1NGm9FsyN9yzJ6kMUQUtav) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daúde](https://open.spotify.com/artist/2k8L3UVACU2peplfnHAFb0), [ZucaBeatz](https://open.spotify.com/artist/62Lt5eSVlvLLuRM12qBTIV) | [Canjerê](https://open.spotify.com/album/2usxZrlp6sPvWjp3qGNSOC) | 3:07 | 2026-04-18 |  |
@@ -74,6 +74,7 @@
 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 | 2023-09-18 |  |
 | [Mil Cairão](https://open.spotify.com/track/2Wyepj1yixQw0R7ZfbM7qb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:03 | 2023-09-18 |  |
 | [Música de Guerra](https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:44 | 2023-09-18 | 2024-08-11 |
+| [Na Vanguarda de Mim Mesmo](https://open.spotify.com/track/3FZoUCXOrmUQTELHPjc2Ia) | [Tayob J.](https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [A Beleza do Erro](https://open.spotify.com/album/4PJaUBnJbYOFyWJNkVFABb) | 3:25 | 2026-08-21 |  |
 | [Na Vanguarda de Mim Mesmo](https://open.spotify.com/track/78aeiSApCeBtme4BQ2OoaX) | [Tayob J.](https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Na Vanguarda de Mim Mesmo](https://open.spotify.com/album/20DYrZ4Wq8CgUzX9AJZDz5) | 3:25 | 2026-04-26 | 2026-07-26 |
 | [NAS CORDAS](https://open.spotify.com/track/4LTqGLHR92blTlGWZNVWKq) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4) | [CUMULONIMBUS](https://open.spotify.com/album/2oM08HKSXGEuxgtlJ5HwNy) | 4:02 | 2026-08-13 |  |
 | [Não Sabem de Nada](https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:02 | 2023-09-18 | 2025-03-28 |

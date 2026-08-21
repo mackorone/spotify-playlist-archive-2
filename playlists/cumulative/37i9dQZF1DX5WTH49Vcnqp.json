@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define, but easy to love. Cover: Jungle",
+  "description": "Music that's hard to define, but easy to love. Cover: Balu Brigada",
   "name": "Front Left",
   "tracks": [
     {
@@ -3089,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
+    },
+    {
+      "album": {
         "name": "Light Sides",
         "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
       },
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 248100,
       "name": "Bodyfeeling",
       "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
@@ -4156,7 +4174,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 153045,
       "name": "Boys In Blue",
       "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176901,
       "name": "Chain My Heart to Plastic",
       "url": "https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK"
@@ -6654,6 +6672,24 @@
       "duration_ms": 189969,
       "name": "Cowboys Don\u2019t Cry",
       "url": "https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq"
+    },
+    {
+      "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
       "album": {
@@ -16330,7 +16366,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 221388,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2"
@@ -17992,6 +18028,24 @@
       "duration_ms": 254946,
       "name": "Left Of The Dealer",
       "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
+    },
+    {
+      "album": {
+        "name": "Leg Day",
+        "url": "https://open.spotify.com/album/7LUrEz5Va5UZ0ZTu1fRWnM"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295684,
+      "name": "Leg Day",
+      "url": "https://open.spotify.com/track/7yQxwSFoiAjvwDBvoJW455"
     },
     {
       "album": {
@@ -19900,6 +19954,24 @@
       "duration_ms": 176272,
       "name": "Margot Robbie",
       "url": "https://open.spotify.com/track/2761D6z19ksxVMO1JKvkYW"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "album": {
@@ -34710,7 +34782,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
@@ -36068,6 +36140,28 @@
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+    },
+    {
+      "album": {
+        "name": "Zug",
+        "url": "https://open.spotify.com/album/0XTA5dzXXksBP6iTgDtkh3"
+      },
+      "artists": [
+        {
+          "name": "Lord Fascinator",
+          "url": "https://open.spotify.com/artist/3FxFcgJT0HTQTofNJINl0z"
+        },
+        {
+          "name": "Spiral Drive",
+          "url": "https://open.spotify.com/artist/5wj6rtWtoMYXEppT7Hq07V"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341520,
+      "name": "Zug",
+      "url": "https://open.spotify.com/track/2driTpVj8u8KYhCZksQkD1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp"

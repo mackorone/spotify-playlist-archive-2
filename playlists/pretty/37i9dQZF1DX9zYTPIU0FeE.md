@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Linda Sikhakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,517 likes - 60 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,520 likes - 60 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 26 | [Thixo Akunangqalelo](https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [African Time](https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s) | 2:53 |
 | 27 | [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 |
 | 28 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
-| 29 | [Kumi Lach](https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Kumi Lach](https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8) | 4:04 |
-| 30 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 |
+| 29 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 |
+| 30 | [Kumi Lach](https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Kumi Lach](https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8) | 4:04 |
 | 31 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
 | 32 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 |
 | 33 | [Chant Song: Bakoena Ba Nkopane](https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Qalo](https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep) | 4:20 |
-| 34 | [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 |
-| 35 | [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 |
+| 34 | [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 |
+| 35 | [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 |
 | 36 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
 | 37 | [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 |
 | 38 | [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 45 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
 | 46 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
 | 47 | [Inveterate](https://open.spotify.com/track/3rADL2yuY67rUBUs5o2Zib) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Common Ground](https://open.spotify.com/album/0CxcBTRqAXosN7Ux6aNqAw) | 6:38 |
-| 48 | [Sombhuluka](https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:58 |
-| 49 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
+| 48 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
+| 49 | [Sombhuluka](https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:58 |
 | 50 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 |
 | 51 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
 | 52 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 59 | [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 |
 | 60 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
 
-Snapshot ID: `AAAAAK+8kyb9gi+rmMh9ZhXABQTWEltS`
+Snapshot ID: `AAAAABiuZmrf7jAUYpAVww0LzOyqam5v`

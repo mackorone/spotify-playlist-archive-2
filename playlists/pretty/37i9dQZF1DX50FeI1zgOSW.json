@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Siri Xander",
-  "num_followers": 20866,
+  "num_followers": 20885,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhdfcIbMa4TrRUs06UvHu3FjWU+",
+  "snapshot_id": "AAAAAKGqlXLJ+rYBDnTxDfOLg3sch4z1",
   "tracks": [
     {
       "added_at": "2026-07-31 10:52:19",
@@ -471,6 +471,22 @@
       "duration_ms": 229169,
       "name": "Senbagapoo",
       "url": "https://open.spotify.com/track/0JTvJFBVPrSsqnKdyY1f8P"
+    },
+    {
+      "added_at": "2026-08-20 08:41:38",
+      "album": {
+        "name": "Thanga Pulla",
+        "url": "https://open.spotify.com/album/45BlTpcQHlcnQD3sz8kRkn"
+      },
+      "artists": [
+        {
+          "name": "Manojh Kumar M",
+          "url": "https://open.spotify.com/artist/1te3MJZ3tJYeKWTbKObrLQ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Thanga Pulla",
+      "url": "https://open.spotify.com/track/1e8xYPPk90iMfk55UyeFwW"
     },
     {
       "added_at": "2026-08-10 10:30:26",
@@ -1395,26 +1411,6 @@
       "duration_ms": 242896,
       "name": "Vizhigalil Aasa",
       "url": "https://open.spotify.com/track/4q0VwdxR6Kok5bq7aYiTui"
-    },
-    {
-      "added_at": "2026-04-30 15:49:20",
-      "album": {
-        "name": "Komberi Mookan",
-        "url": "https://open.spotify.com/album/5KG0c8eWi2LGOYWWgxbXSZ"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Arumugam",
-          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Komberi Mookan",
-      "url": "https://open.spotify.com/track/6MpnkvHePziltlQjyZFKzn"
     },
     {
       "added_at": "2026-04-22 09:22:45",

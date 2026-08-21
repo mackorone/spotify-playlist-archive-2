@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Niko Eme
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,397 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,427 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Hebreos 9](https://open.spotify.com/track/6fv1nSqO13MLDD14IKoUjj) | [Luisa Fonseca](https://open.spotify.com/artist/25YrxWTDdnqa5dkfT8ciES) | [Hebreos 9](https://open.spotify.com/album/4ulKbuHuFD0SQaEsYGeuYe) | 6:27 |
 | 100 | [Hijo Amado](https://open.spotify.com/track/3vjqng7cPHfDhB5lLxAQrX) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ) | [Oraciones Sinceras](https://open.spotify.com/album/6fjvUcDha5bs2h1EzzRTPG) | 3:30 |
 
-Snapshot ID: `AAAAAFa/ZcuVnEW/NNhQBEnTlU5/dp+c`
+Snapshot ID: `AAAAAK7yKb2mYrmToHs00m23L87cO8YR`

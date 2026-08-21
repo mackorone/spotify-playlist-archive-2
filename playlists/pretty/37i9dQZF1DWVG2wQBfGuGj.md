@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Chillout house grooves and dreamy covers, all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,946 likes - 145 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,256 likes - 145 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 144 | [Broken Wings](https://open.spotify.com/track/10gYEra5QTGdWRNg0HQPRw) | [Luke James Shaffer](https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP), [Maréva](https://open.spotify.com/artist/5yflQy84fSowPAeRfTseCV), [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi) | [Broken Wings](https://open.spotify.com/album/77skNvCIuGFEdwHWuEY202) | 2:21 |
 | 145 | [Sex on Fire](https://open.spotify.com/track/4Dyebc8hF7cuovip9d0sdH) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Sex on Fire](https://open.spotify.com/album/2CLWUz7FODn7HhtViCZVeT) | 2:14 |
 
-Snapshot ID: `AAAAADh0am7bwBO+MyYiFgMcgFUVUbOB`
+Snapshot ID: `AAAAALa4m4IbjM8CgOuWMSrhxi6lxv7z`

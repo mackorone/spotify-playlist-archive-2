@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIedCrtM7OF3yWe6Q/THzL7RC08V",
+  "snapshot_id": "AAAAAHV5XrPgAKEeKXlcnPlkFT0KD9I9",
   "tracks": [
     {
       "added_at": "2026-07-03 07:32:57",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "IVE EMPATHY",
-        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
+        "name": "Episode 25",
+        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Thank U",
-      "url": "https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb"
+      "duration_ms": 207026,
+      "name": "Farewell for now!",
+      "url": "https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH"
     },
     {
       "added_at": "2026-07-03 07:32:57",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "Episode 25",
-        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 207026,
-      "name": "Farewell for now!",
-      "url": "https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH"
+      "duration_ms": 191360,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb"
     },
     {
       "added_at": "2026-07-03 07:32:57",

@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2103,
+  "num_followers": 2105,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACOGeSc59SLoryUYwCPYbaF",
+  "snapshot_id": "aoTyAAAAAAC7ZdPuAHPh2nhEL5gZMmQ/",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "reading into it",
-      "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "reading into it",
+      "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 140613,
-      "name": "2 much 2 handle",
-      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 200541,
       "name": "Different",
       "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 140613,
+      "name": "2 much 2 handle",
+      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "are we in love yet?",
-      "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 171938,
       "name": "I Can't Be Your Friend",
       "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "something in the way you say my name",
-      "url": "https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Communication",
         "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 187263,
       "name": "Communication",
       "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "something in the way you say my name",
+      "url": "https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg"
     },
     {
       "added_at": null,

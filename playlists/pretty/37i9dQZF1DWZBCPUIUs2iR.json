@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 796941,
+  "num_followers": 797003,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtHkrTQupTTBfJ1vDDUY7F1lMmb",
+  "snapshot_id": "AAAAANBgSd5XzPVmyIgvl5UX9jbKDc3b",
   "tracks": [
     {
       "added_at": "2026-02-11 22:49:04",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
-      },
-      "artists": [
-        {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
+      },
+      "artists": [
+        {
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Playlist: The Very Best Of Lonestar",
         "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 239986,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2026-02-11 22:49:04",

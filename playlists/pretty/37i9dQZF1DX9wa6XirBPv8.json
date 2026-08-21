@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1919508,
+  "num_followers": 1919717,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFulvsaQ+Fj+mnjuzIW10c05fCOD",
+  "snapshot_id": "AAAAAJ8rQwuKXYe/UT1S52IlFfJP+HYh",
   "tracks": [
     {
       "added_at": "2026-07-17 00:12:53",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 234702,
       "name": "A Favor House Atlantic",
       "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "All That I've Got",
-      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Tigers Jaw",
-        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
       "artists": [
         {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 122680,
-      "name": "Plane Vs. Tank Vs. Submarine",
-      "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 475093,
-      "name": "Transatlanticism",
-      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
+      "duration_ms": 122680,
+      "name": "Plane Vs. Tank Vs. Submarine",
+      "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1115,6 +1099,22 @@
       "duration_ms": 270866,
       "name": "I Feel So",
       "url": "https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 475093,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
+        "name": "One Fell Swoop",
+        "url": "https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL"
+      },
+      "artists": [
+        {
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Polygraph, Right Now!",
+      "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 179453,
       "name": "You're So Last Summer",
       "url": "https://open.spotify.com/track/22opp9Depbmn43q5gSERwH"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
-        "name": "One Fell Swoop",
-        "url": "https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL"
-      },
-      "artists": [
-        {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Polygraph, Right Now!",
-      "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
     },
     {
       "added_at": "2026-07-17 00:12:53",

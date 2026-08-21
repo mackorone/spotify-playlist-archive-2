@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 170000,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
@@ -1348,6 +1348,24 @@
       "duration_ms": 205896,
       "name": "Can't Frame the Moonlight",
       "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "album": {
+        "name": "Carla & John",
+        "url": "https://open.spotify.com/album/7xhNZOPdc0XNszfnbUE111"
+      },
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237068,
+      "name": "Carla & John",
+      "url": "https://open.spotify.com/track/0liHZbo8PPNsJbjpAw1ZtD"
     },
     {
       "album": {
@@ -3690,7 +3708,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 228561,
       "name": "G\u00f6teborg",
       "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
@@ -5252,7 +5270,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 187210,
       "name": "Jag ger dig sommaren",
       "url": "https://open.spotify.com/track/4gl4Qy47LihabPCfVlRo3W"
@@ -6727,6 +6745,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
+    },
+    {
+      "album": {
         "name": "Mitt hj\u00e4rta en rebell",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
@@ -6800,6 +6836,24 @@
       "duration_ms": 235124,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/0Y2qS45YYbYfxPVp0RfWLc"
+    },
+    {
+      "album": {
+        "name": "More!",
+        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178499,
+      "name": "More!",
+      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
     },
     {
       "album": {
@@ -7132,7 +7186,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 187604,
       "name": "Nu \u00e4r det sommar",
       "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
@@ -9920,6 +9974,24 @@
       "duration_ms": 190881,
       "name": "Ton\u00e5rsland",
       "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4"
     },
     {
       "album": {

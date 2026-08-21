@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,287 songs - 2 day 23 hr 20 min
+1,288 songs - 2 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,6 +998,7 @@
 | [Show Me!](https://open.spotify.com/track/2dXeTLbQO9pzYMXnRAzMMJ) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Show Me!](https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi) | 2:47 | 2025-02-10 | 2025-05-03 |
 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 | 2023-01-07 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
+| [Sinner](https://open.spotify.com/track/0GXj9WInusangBhti5jOwK) | [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Sinner](https://open.spotify.com/album/4MbuAILD2gfxF1OzD2mhIX) | 2:30 | 2026-08-20 |  |
 | [Sip On This](https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Sip On This](https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k) | 3:20 | 2024-06-14 | 2024-09-07 |
 | [Sky](https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Sky](https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi) | 3:36 | 2022-10-29 | 2023-01-24 |
 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 | 2022-12-14 |

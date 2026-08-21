@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,714 likes - 181 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,720 likes - 181 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 38 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 39 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 40 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
-| 41 | [Ｗ●ＲＫ](https://open.spotify.com/track/7lx9ahLiuVTK1ArFp9yAmL) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/3SISWKWKOQ82ScPByFShaI) | 3:21 |
+| 41 | [Ｗ●ＲＫ](https://open.spotify.com/track/7lx9ahLiuVTK1ArFp9yAmL) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Ｗ●ＲＫ](https://open.spotify.com/album/3SISWKWKOQ82ScPByFShaI) | 3:21 |
 | 42 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 | 43 | [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 |
 | 44 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 180 | [坂道のメロディ](https://open.spotify.com/track/2LHxO6kg6LJrnqcEgaCbkf) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/58aZzjcq1YjDcwTbjHTEii) | 4:43 |
 | 181 | [アルタイル](https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb) | [秦 基博 meets 坂道のアポロン](https://open.spotify.com/artist/6zbJYUN1FfUnEUAJpLHwCD) | [アルタイル](https://open.spotify.com/album/6DjXIcH9EZBhPeL4auVFf7) | 6:01 |
 
-Snapshot ID: `AAAAAPAwmTKW+RFu5oo7GkcbSNw8Vmg5`
+Snapshot ID: `AAAAAK72nqewzlXnkSoKCBsUzXh9QJ+2`

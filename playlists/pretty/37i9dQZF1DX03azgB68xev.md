@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Unspoken
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,508 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,511 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [Valleys](https://open.spotify.com/track/2Effr2igfHjafdt2RSAqhI) | [Jaye King](https://open.spotify.com/artist/2Wk5lQeZnMmCpgXSqwe4cb) | [Valleys](https://open.spotify.com/album/6MH3guZ7P6NiDMn3Se6VNk) | 3:11 |
 | 100 | [So Divine](https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [Dani Lyra](https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn) | [So Divine](https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU) | 2:35 |
 
-Snapshot ID: `AAAAAG3xUyTefPQkf6m3iEA89Lpe9vCc`
+Snapshot ID: `AAAAABfEKI5hbAdM5gZ9Z+1nWddg3adw`

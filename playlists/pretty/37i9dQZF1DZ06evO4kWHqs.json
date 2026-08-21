@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAAut75ZDVsz5bsyPs/kwuIW",
+  "snapshot_id": "aoTyAAAAAABpqZbUuGFl0FZmj5QlGV9i",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Curry Goat",
-      "url": "https://open.spotify.com/track/2wAulGVvxnOtYqLGI1dVeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All My Girls",
         "url": "https://open.spotify.com/album/0zuCHsOytrFSapisjsSwlB"
       },
@@ -291,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gilberto's Son",
-        "url": "https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM"
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
       },
       "artists": [
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 136847,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f"
+      "duration_ms": 120000,
+      "name": "Curry Goat",
+      "url": "https://open.spotify.com/track/2wAulGVvxnOtYqLGI1dVeW"
     },
     {
       "added_at": null,
@@ -331,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+        "name": "Gilberto's Son",
+        "url": "https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM"
       },
       "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 100000,
-      "name": "Bathroom Sink",
-      "url": "https://open.spotify.com/track/7kIIuZp49vKZksGqsLfFLp"
+      "duration_ms": 136847,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
       "duration_ms": 120000,
       "name": "D-RIDE (feat. SadBoi)",
       "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Bathroom Sink",
+      "url": "https://open.spotify.com/track/7kIIuZp49vKZksGqsLfFLp"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Forbid I Have Fun.",
-        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop Shit",
         "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 100444,
       "name": "Pop Shit",
       "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 129705,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/7EbUV6hKg8hFpOQKFMzmJu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money Talk",
         "url": "https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 162062,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 173823,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "fashion week",
-        "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        }
-      ],
-      "duration_ms": 114626,
-      "name": "fashion week",
-      "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -552,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 129705,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/7EbUV6hKg8hFpOQKFMzmJu"
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD"
     },
     {
       "added_at": null,
@@ -571,6 +551,26 @@
       "duration_ms": 170666,
       "name": "watch it all fall",
       "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fashion week",
+        "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "duration_ms": 114626,
+      "name": "fashion week",
+      "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 243529,
       "name": "DESLIZA - Slide Remix",
       "url": "https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me 10's",
-        "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 116800,
-      "name": "Give Me 10's",
-      "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 84708,
       "name": "Vex",
       "url": "https://open.spotify.com/track/2Vzrlke7xUmfLmKLMqS7xl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me 10's",
+        "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 116800,
+      "name": "Give Me 10's",
+      "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "U Dun Kno",
+        "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 146548,
+      "name": "U Dun Kno",
+      "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me Back",
         "url": "https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 176602,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "U Dun Kno",
-        "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 146548,
-      "name": "U Dun Kno",
-      "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 149333,
-      "name": "nana",
-      "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+      "duration_ms": 149333,
+      "name": "nana",
+      "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
       "duration_ms": 148860,
       "name": "LIE LIE LIE!",
       "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "DJ SAZE",
-          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "dnd",
-      "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
     },
     {
       "added_at": null,
@@ -951,6 +931,26 @@
       "duration_ms": 161400,
       "name": "his sweater",
       "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "DJ SAZE",
+          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "dnd",
+      "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
     }
   ],
   "unique_name": "This Is SadBoi",

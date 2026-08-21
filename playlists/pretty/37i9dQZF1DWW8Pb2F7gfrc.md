@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,176 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,178 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -441,4 +441,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 431 | [GAE PAHN](https://open.spotify.com/track/0O3DRtT2OQDERbqe0mKj7i) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [BUSAN](https://open.spotify.com/album/4Nof0eZ0r9LU06CjVPuV51) | 2:46 |
 | 432 | [Oh Jick Jick Jin](https://open.spotify.com/track/5gjQwmysVWfKvhRMtuqfQT) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Oh Jick Jick Jin](https://open.spotify.com/album/2MnzsNb3NyyixTG4ZtifqG) | 3:00 |
 
-Snapshot ID: `AAAAAMY3Z0Klv9U7Q0vcdMH9ScSHLbIa`
+Snapshot ID: `AAAAAN3neHEHdDLKgOTcTz3wwodmml0E`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: DJ Jackum\n",
+  "description": "The home for alternative electronic music. Cover: Shygirl\n",
   "name": "Altar",
   "tracks": [
     {
@@ -1300,6 +1300,24 @@
       "duration_ms": 167804,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6aMVz7CZngLl3hNPnYVw8d"
+    },
+    {
+      "album": {
+        "name": "Alyse",
+        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
     },
     {
       "album": {
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 213978,
       "name": "Chor",
       "url": "https://open.spotify.com/track/7maiSgBL2JC4icWRAemLHZ"
@@ -9511,6 +9529,28 @@
     },
     {
       "album": {
+        "name": "Flecks / Hash",
+        "url": "https://open.spotify.com/album/18hdUoQhXbcZ8xwnQs8ap7"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "LSB",
+          "url": "https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294549,
+      "name": "Flecks",
+      "url": "https://open.spotify.com/track/1kFuUDSo0yObN3LshaMC5T"
+    },
+    {
+      "album": {
         "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
         "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
       },
@@ -11086,7 +11126,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 273230,
       "name": "goodbye! later on!",
       "url": "https://open.spotify.com/track/1ljxYB9lQqJVM5N0gX39Ze"
@@ -12158,7 +12198,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 195188,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
@@ -13388,7 +13428,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 243702,
       "name": "If This Is It",
       "url": "https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln"
@@ -15504,6 +15544,24 @@
       "duration_ms": 213667,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/71OK6N7cJy8CO6TIBoKLSO"
+    },
+    {
+      "album": {
+        "name": "langur",
+        "url": "https://open.spotify.com/album/530mI0lrEu4XhPNldLztvW"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195832,
+      "name": "langur",
+      "url": "https://open.spotify.com/track/3AiaMSTpzB3YapAP1wmhYj"
     },
     {
       "album": {
@@ -27571,6 +27629,28 @@
     },
     {
       "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Devlin",
+          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195807,
+      "name": "This City (feat. Devlin)",
+      "url": "https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0"
+    },
+    {
+      "album": {
         "name": "This is Real (Disappear)",
         "url": "https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9"
       },
@@ -28191,6 +28271,24 @@
     },
     {
       "album": {
+        "name": "Do 4 U",
+        "url": "https://open.spotify.com/album/3KWi2Ru6vcTgPmMG5uXRq2"
+      },
+      "artists": [
+        {
+          "name": "Will Saul",
+          "url": "https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4DwVynMf1J4HgqYi2VY2j0"
+    },
+    {
+      "album": {
         "name": "Trapped In Silence",
         "url": "https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X"
       },
@@ -28580,7 +28678,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 246058,
       "name": "turbo_viento",
       "url": "https://open.spotify.com/track/7tZ7gh9JNLdDJgZEMKaxCI"

@@ -3557,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+    },
+    {
+      "album": {
         "name": "Piss In The Wind",
         "url": "https://open.spotify.com/album/74RFe9VB8MhIflm2RWf8eO"
       },

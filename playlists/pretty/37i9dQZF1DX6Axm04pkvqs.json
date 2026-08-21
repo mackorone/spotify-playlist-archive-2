@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 82886,
+  "num_followers": 82942,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0XaFl/vdILdMY7njrxccr+riWa",
+  "snapshot_id": "AAAAAJADMl10W1XMdxbE7JJny6QGoNso",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Agbara Olorun po",
-        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
-      },
-      "artists": [
-        {
-          "name": "Clement whyte",
-          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
-        }
-      ],
-      "duration_ms": 301141,
-      "name": "Agbara Olorun po",
-      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "The Zamar Experience",
         "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 770500,
       "name": "Chants of Intimacy",
       "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Agbara Olorun po",
+        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
+      },
+      "artists": [
+        {
+          "name": "Clement whyte",
+          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
+        }
+      ],
+      "duration_ms": 301141,
+      "name": "Agbara Olorun po",
+      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
-      "album": {
-        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
-        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 393053,
-      "name": "In This Place - Live At Carnival City, 2024",
-      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "We Are Fire",
@@ -1185,6 +1169,22 @@
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
     },
     {
+      "added_at": "2025-03-07 00:01:32",
+      "album": {
+        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
+        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 393053,
+      "name": "In This Place - Live At Carnival City, 2024",
+      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Kingdom Now",
@@ -1199,6 +1199,26 @@
       "duration_ms": 731294,
       "name": "Song of Angels",
       "url": "https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Aye Ole",
+        "url": "https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy"
+      },
+      "artists": [
+        {
+          "name": "Ucious Music",
+          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "duration_ms": 1380000,
+      "name": "Aye Ole",
+      "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
     },
     {
       "added_at": "2025-03-07 00:01:32",
@@ -1223,42 +1243,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Aye Ole",
-        "url": "https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy"
-      },
-      "artists": [
-        {
-          "name": "Ucious Music",
-          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
-        },
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        }
-      ],
-      "duration_ms": 1380000,
-      "name": "Aye Ole",
-      "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
-    },
-    {
-      "added_at": "2025-02-21 00:01:28",
-      "album": {
-        "name": "Igbo Worship Medley (Live)",
-        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
-      },
-      "artists": [
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        }
-      ],
-      "duration_ms": 474999,
-      "name": "Igbo Worship Medley - Live",
-      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Strings of Glory (Prayer Chant)",
+        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "I'm Available (Prayer Chant)",
+      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Song of Angels (Live)",
         "url": "https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8"
       },
@@ -1293,20 +1293,20 @@
       "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-02-21 00:01:28",
       "album": {
-        "name": "Strings of Glory (Prayer Chant)",
-        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+        "name": "Igbo Worship Medley (Live)",
+        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
       },
       "artists": [
         {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
         }
       ],
-      "duration_ms": 320000,
-      "name": "I'm Available (Prayer Chant)",
-      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
+      "duration_ms": 474999,
+      "name": "Igbo Worship Medley - Live",
+      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
     },
     {
       "added_at": "2025-10-24 00:01:24",
@@ -1323,22 +1323,6 @@
       "duration_ms": 924924,
       "name": "Son Of David (Church Arise) - Live",
       "url": "https://open.spotify.com/track/02AYZ4WxfGl42vf7E05LbG"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Let Me Want What You Want",
-        "url": "https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paul-Enenche Family",
-          "url": "https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT"
-        }
-      ],
-      "duration_ms": 483196,
-      "name": "Let Me Want What You Want",
-      "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Let Me Want What You Want",
+        "url": "https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paul-Enenche Family",
+          "url": "https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT"
+        }
+      ],
+      "duration_ms": 483196,
+      "name": "Let Me Want What You Want",
+      "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 809693,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Exchange (The Journey)",
-        "url": "https://open.spotify.com/album/4KdmlH7Nwi4axtcgeKeV1z"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 957570,
-      "name": "Exchange (The Journey)",
-      "url": "https://open.spotify.com/track/5FaH0x6zWnRkcZiSYUrWq6"
     },
     {
       "added_at": "2025-08-01 00:01:33",
@@ -1407,6 +1391,22 @@
       "duration_ms": 272500,
       "name": "Worship Chant",
       "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Exchange (The Journey)",
+        "url": "https://open.spotify.com/album/4KdmlH7Nwi4axtcgeKeV1z"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 957570,
+      "name": "Exchange (The Journey)",
+      "url": "https://open.spotify.com/track/5FaH0x6zWnRkcZiSYUrWq6"
     }
   ],
   "unique_name": "Worship Chants",

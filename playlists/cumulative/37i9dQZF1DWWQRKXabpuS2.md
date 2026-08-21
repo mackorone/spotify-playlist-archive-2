@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-481 songs - 1 day 8 hr 57 min
+482 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Tmmor Jarhi](https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Tmmor Jarhi](https://open.spotify.com/album/48gEAuMdpxSycv3wpFJc8O) | 4:23 | 2023-07-27 | 2024-02-14 |
 | [Turfaa Alaqlam](https://open.spotify.com/track/4Z92Zmai7hrj1vPXDTCQhU) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Turfaa Alaqlam](https://open.spotify.com/album/33mq4MlA3VmNjKprtJENbU) | 4:40 | 2023-12-29 | 2024-06-08 |
 | [Wa Melha Wa Zenah](https://open.spotify.com/track/365AtYjRoVs31lH6eLfsOQ) | [Faissal Ben Khalid](https://open.spotify.com/artist/3n0tXmQ0nInop0zTYGfYSZ) | [Wa Melha Wa Zenah](https://open.spotify.com/album/5zWcspJbXEb1dSwhcIAUsk) | 3:51 | 2021-12-23 | 2022-06-04 |
+| [Wahashteny](https://open.spotify.com/track/1ziuZS8AVYREsNsFTCShse) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Wahashteny](https://open.spotify.com/album/6n18pz47yCIKayhgX1zgsO) | 3:51 | 2026-08-20 |  |
 | [Wahshni](https://open.spotify.com/track/7qXJDw6ucdCPRPXYSDRdBX) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Wahshni](https://open.spotify.com/album/6NHVn2BIPCjj5mHuWLqLKV) | 4:03 | 2022-06-02 | 2022-11-15 |
 | [Walhat Wjet](https://open.spotify.com/track/6SHgMFXfzUdJg71xZqzAeJ) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Walhat Wjet](https://open.spotify.com/album/3K5AxP8THalYPGOuzJk1UA) | 2:22 | 2021-12-23 | 2022-06-04 |
 | [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 | 2023-10-03 | 2024-05-17 |

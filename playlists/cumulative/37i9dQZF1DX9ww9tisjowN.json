@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Ado",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Creepy Nuts",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -992,6 +992,24 @@
       "duration_ms": 186603,
       "name": "Biri-Biri - English Version",
       "url": "https://open.spotify.com/track/6f8RGfNa1cSk7I04vfFEQp"
+    },
+    {
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182993,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
     },
     {
       "album": {
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 226000,
       "name": "DAYS! (NOMELON NOLEMON ver.)",
       "url": "https://open.spotify.com/track/2WGSfWKHfom5dRiHgMEI21"
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168960,
       "name": "doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/22pJeRZ0Mex0B85PQD4mUD"
@@ -9847,6 +9865,24 @@
     },
     {
       "album": {
+        "name": "Running Wheel",
+        "url": "https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137096,
+      "name": "Running Wheel",
+      "url": "https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S"
+    },
+    {
+      "album": {
         "name": "ITEKOMA HITS",
         "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
       },
@@ -11828,6 +11864,24 @@
       "duration_ms": 228000,
       "name": "tsuijuku",
       "url": "https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa"
+    },
+    {
+      "album": {
+        "name": "Tsukihime",
+        "url": "https://open.spotify.com/album/3MvmQpwDcL8D5soFfTntHv"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "Tsukihime",
+      "url": "https://open.spotify.com/track/1JhJLxLjNTAnp5OpYcN76p"
     },
     {
       "album": {
@@ -21074,7 +21128,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 167173,
       "name": "\u732b\u3058\u3083\u3089\u3057",
       "url": "https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs"

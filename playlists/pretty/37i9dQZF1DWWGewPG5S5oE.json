@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c71\u4e2d\u5343\u5c0b",
-  "num_followers": 50621,
+  "num_followers": 50632,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPMwhVkvsv5Fsy+67KJoDh8aVqmQ",
+  "snapshot_id": "AAAAAIN8BKPQWF6yELPO4FccXpsH8u15",
   "tracks": [
     {
       "added_at": "2026-08-18 15:45:54",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "My summer",
-        "url": "https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 242846,
-      "name": "My summer",
-      "url": "https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Headspace",
         "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Zatto",
-        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+        "name": "My summer",
+        "url": "https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5"
       },
       "artists": [
         {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
         }
       ],
-      "duration_ms": 367966,
-      "name": "Zatto",
-      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
+      "duration_ms": 242846,
+      "name": "My summer",
+      "url": "https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -495,6 +479,22 @@
       "duration_ms": 201842,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "hunted",
-        "url": "https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt"
-      },
-      "artists": [
-        {
-          "name": "midori jaeger",
-          "url": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp"
-        }
-      ],
-      "duration_ms": 176161,
-      "name": "planted",
-      "url": "https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "hunted",
+        "url": "https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt"
+      },
+      "artists": [
+        {
+          "name": "midori jaeger",
+          "url": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp"
+        }
+      ],
+      "duration_ms": 176161,
+      "name": "planted",
+      "url": "https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "SEIKO JAZZ 3",
         "url": "https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "ELECTRIC RIDER",
-        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
-      },
-      "artists": [
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "WHAT IS ??",
-      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Ooh-La-La",
         "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 238875,
       "name": "Curumim",
       "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw"
-      },
-      "artists": [
-        {
-          "name": "Makoto Ozone",
-          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Sue Ann \uff5e\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30ab\u30eb\u30ed\u30b9\u30fb\u30b8\u30e7\u30d3\u30f3\u3078\u306e\u30aa\u30de\u30fc\u30b8\u30e5 (Deluxe)",
         "url": "https://open.spotify.com/album/7hKAowNMFPIFXqXkxUWab3"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 284006,
       "name": "\u5f7c\u5973\u306f\u30ab\u30ea\u30aa\u30ab",
       "url": "https://open.spotify.com/track/4vWgtzAjtLWKXPncsEBuwz"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw"
+      },
+      "artists": [
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "Ryo Fukui Trio at the Slowboat 2004",
+        "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
+      },
+      "artists": [
+        {
+          "name": "Ryo Fukui",
+          "url": "https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh"
+        }
+      ],
+      "duration_ms": 775840,
+      "name": "Eclypso",
+      "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Sun Song",
         "url": "https://open.spotify.com/album/2yMNKUmAZqSS68LuwuUBOE"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 282500,
       "name": "Sun Song",
       "url": "https://open.spotify.com/track/1vI6hByp1E5irhrv1w55YG"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Ryo Fukui Trio at the Slowboat 2004",
-        "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
-      },
-      "artists": [
-        {
-          "name": "Ryo Fukui",
-          "url": "https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh"
-        }
-      ],
-      "duration_ms": 775840,
-      "name": "Eclypso",
-      "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "\u4e8c\u4eba\u9759 -JAZZ-",
-        "url": "https://open.spotify.com/album/4fHTDqDC9nkGh9QWGtjzTy"
-      },
-      "artists": [
-        {
-          "name": "Akina Nakamori",
-          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
-        }
-      ],
-      "duration_ms": 250832,
-      "name": "\u4e8c\u4eba\u9759 -JAZZ-",
-      "url": "https://open.spotify.com/track/27oq5Tj8Leb6pExeE4aXTn"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Trionfi",
         "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 446882,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "\u4e8c\u4eba\u9759 -JAZZ-",
+        "url": "https://open.spotify.com/album/4fHTDqDC9nkGh9QWGtjzTy"
+      },
+      "artists": [
+        {
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+        }
+      ],
+      "duration_ms": 250832,
+      "name": "\u4e8c\u4eba\u9759 -JAZZ-",
+      "url": "https://open.spotify.com/track/27oq5Tj8Leb6pExeE4aXTn"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/2p4PWeYlcUFGCRKZfge8Fe"
-      },
-      "artists": [
-        {
-          "name": "\u58f7\u962a\u5065\u767b",
-          "url": "https://open.spotify.com/artist/2fTo5V5D3gAogcZuVKIpdQ"
-        }
-      ],
-      "duration_ms": 313080,
-      "name": "Rhizome Changes",
-      "url": "https://open.spotify.com/track/5ed2reDZh99JGolP1p8AXc"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Egg On The Roof",
         "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
       },
@@ -1591,8 +1575,24 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "\u8a00\u8449\u306e\u5ead",
-        "url": "https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/2p4PWeYlcUFGCRKZfge8Fe"
+      },
+      "artists": [
+        {
+          "name": "\u58f7\u962a\u5065\u767b",
+          "url": "https://open.spotify.com/artist/2fTo5V5D3gAogcZuVKIpdQ"
+        }
+      ],
+      "duration_ms": 313080,
+      "name": "Rhizome Changes",
+      "url": "https://open.spotify.com/track/5ed2reDZh99JGolP1p8AXc"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "\u98a8\u306e\u4e2d\u3067",
+        "url": "https://open.spotify.com/album/2WJ1XJ79XYjbPVO7GFZ9Ld"
       },
       "artists": [
         {
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 151497,
-      "name": "\u8a00\u8449\u306e\u5ead",
-      "url": "https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW"
+      "duration_ms": 281455,
+      "name": "\u98a8\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1659,24 +1659,24 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Raccoon",
-        "url": "https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q"
+        "name": "Today Is Another Day",
+        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
       },
       "artists": [
         {
-          "name": "Fried Banana Shop",
-          "url": "https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF"
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Raccoon",
-      "url": "https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7"
+      "duration_ms": 376013,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/6SGFjRU5INlp6dBTLWfr4O"
     },
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "\u98a8\u306e\u4e2d\u3067",
-        "url": "https://open.spotify.com/album/2WJ1XJ79XYjbPVO7GFZ9Ld"
+        "name": "\u8a00\u8449\u306e\u5ead",
+        "url": "https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 281455,
-      "name": "\u98a8\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV"
+      "duration_ms": 151497,
+      "name": "\u8a00\u8449\u306e\u5ead",
+      "url": "https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Today Is Another Day",
-        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
+        "name": "Raccoon",
+        "url": "https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "Fried Banana Shop",
+          "url": "https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF"
         }
       ],
-      "duration_ms": 376013,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/6SGFjRU5INlp6dBTLWfr4O"
+      "duration_ms": 213600,
+      "name": "Raccoon",
+      "url": "https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Lifescape",
-        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
-      },
-      "artists": [
-        {
-          "name": "Taka Nawashiro",
-          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
-        }
-      ],
-      "duration_ms": 307186,
-      "name": "Kobune",
-      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Remind Me c/w Miles To Cross",
         "url": "https://open.spotify.com/album/03d8zfNiyOFfkKAnMcHw3h"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 244977,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6AozAppauV6fPK3b88NRpl"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Lifescape",
+        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
+      },
+      "artists": [
+        {
+          "name": "Taka Nawashiro",
+          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
+        }
+      ],
+      "duration_ms": 307186,
+      "name": "Kobune",
+      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Soy Califa",
-        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
-      },
-      "artists": [
-        {
-          "name": "Shunosuke Ishikawa",
-          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
-        }
-      ],
-      "duration_ms": 312564,
-      "name": "Soy Califa",
-      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Relativity",
         "url": "https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG"
       },
@@ -1979,22 +1963,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Mysterious Vibes / A Little Spice",
-        "url": "https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h"
-      },
-      "artists": [
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "A Little Spice",
-      "url": "https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Unstoppable journey",
         "url": "https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN"
       },
@@ -2011,6 +1979,70 @@
       "duration_ms": 241714,
       "name": "Unstoppable journey",
       "url": "https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Mysterious Vibes / A Little Spice",
+        "url": "https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h"
+      },
+      "artists": [
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "A Little Spice",
+      "url": "https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Soy Califa",
+        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
+      },
+      "artists": [
+        {
+          "name": "Shunosuke Ishikawa",
+          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
+        }
+      ],
+      "duration_ms": 312564,
+      "name": "Soy Califa",
+      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "\u306a\u306b\u3082\u306a\u3044",
+        "url": "https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr"
+      },
+      "artists": [
+        {
+          "name": "Ryo Takaiwa",
+          "url": "https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd"
+        }
+      ],
+      "duration_ms": 332569,
+      "name": "\u306a\u306b\u3082\u306a\u3044",
+      "url": "https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "\u7167\u3089\u3059",
+        "url": "https://open.spotify.com/album/4pWSCXLQMUlFHlKzxQ17BE"
+      },
+      "artists": [
+        {
+          "name": "\u9b5a\u8fd4\u660e\u672a",
+          "url": "https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP"
+        }
+      ],
+      "duration_ms": 399600,
+      "name": "\u66c7\u308a\u7a7a",
+      "url": "https://open.spotify.com/track/1CpklF118GMJNBM8HFtq0v"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2035,22 +2067,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "\u306a\u306b\u3082\u306a\u3044",
-        "url": "https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr"
-      },
-      "artists": [
-        {
-          "name": "Ryo Takaiwa",
-          "url": "https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd"
-        }
-      ],
-      "duration_ms": 332569,
-      "name": "\u306a\u306b\u3082\u306a\u3044",
-      "url": "https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/4XB6hEAmybQedlWt8IxloQ"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 232973,
       "name": "\u221aAdvent",
       "url": "https://open.spotify.com/track/00XQhflJMwWY45mW6jTyfD"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "\u7167\u3089\u3059",
-        "url": "https://open.spotify.com/album/4pWSCXLQMUlFHlKzxQ17BE"
-      },
-      "artists": [
-        {
-          "name": "\u9b5a\u8fd4\u660e\u672a",
-          "url": "https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP"
-        }
-      ],
-      "duration_ms": 399600,
-      "name": "\u66c7\u308a\u7a7a",
-      "url": "https://open.spotify.com/track/1CpklF118GMJNBM8HFtq0v"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Everflowing Time and Tide",
-        "url": "https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt"
-      },
-      "artists": [
-        {
-          "name": "\u304a\u304c\u308f\u3082\u307f\u3058",
-          "url": "https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Everflowing Time and Tide",
-      "url": "https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Zig-Zag",
         "url": "https://open.spotify.com/album/2uB686S8OuIgQ3QZHbJxyy"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 266000,
       "name": "Zig-Zag",
       "url": "https://open.spotify.com/track/2TtrLyX6HKHCZPX0mebwEw"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Everflowing Time and Tide",
+        "url": "https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u304c\u308f\u3082\u307f\u3058",
+          "url": "https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Everflowing Time and Tide",
+      "url": "https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2409,6 +2409,54 @@
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
+      "added_at": "2026-08-18 15:45:54",
+      "album": {
+        "name": "kopfkino",
+        "url": "https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "kopfkino",
+      "url": "https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB"
+    },
+    {
+      "added_at": "2026-08-18 15:45:54",
+      "album": {
+        "name": "Metamorphose",
+        "url": "https://open.spotify.com/album/0xwUq5iVUJjcs5A8aN7KXM"
+      },
+      "artists": [
+        {
+          "name": "\u6749\u5c71\u5bdb",
+          "url": "https://open.spotify.com/artist/2zEVxOLSb6U1OA1uKHQIZw"
+        }
+      ],
+      "duration_ms": 402066,
+      "name": "Metamorphose",
+      "url": "https://open.spotify.com/track/5ieaFuii1CPqtb3MnOEh5l"
+    },
+    {
+      "added_at": "2026-08-18 15:45:54",
+      "album": {
+        "name": "Just to Cross the Night",
+        "url": "https://open.spotify.com/album/45GTMxoZYY0I8VJxKTaFtV"
+      },
+      "artists": [
+        {
+          "name": "epice",
+          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
+        }
+      ],
+      "duration_ms": 253314,
+      "name": "Just to Cross the Night",
+      "url": "https://open.spotify.com/track/5gmyYTTxpKg3k5KPjVJtyS"
+    },
+    {
       "added_at": "2026-07-21 15:00:18",
       "album": {
         "name": "REMEDY",
@@ -2427,22 +2475,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Sail",
-        "url": "https://open.spotify.com/album/3DF23pFLXgKaxSCf2z5DIR"
-      },
-      "artists": [
-        {
-          "name": "\u83c5\u91ce\u53ef\u5357\u5b50",
-          "url": "https://open.spotify.com/artist/551jhhzPGZLDTh8AxkwLlg"
-        }
-      ],
-      "duration_ms": 228341,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/6P3N5AItycWuUtBNr2JvVw"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Synapse Confusion",
         "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
       },
@@ -2455,6 +2487,22 @@
       "duration_ms": 339132,
       "name": "Hello,,Dawn,Unknown",
       "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Sail",
+        "url": "https://open.spotify.com/album/3DF23pFLXgKaxSCf2z5DIR"
+      },
+      "artists": [
+        {
+          "name": "\u83c5\u91ce\u53ef\u5357\u5b50",
+          "url": "https://open.spotify.com/artist/551jhhzPGZLDTh8AxkwLlg"
+        }
+      ],
+      "duration_ms": 228341,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/6P3N5AItycWuUtBNr2JvVw"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2503,54 +2551,6 @@
       "duration_ms": 233826,
       "name": "Woman \u201cW\u306e\u60b2\u5287\u201d\u3088\u308a",
       "url": "https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj"
-    },
-    {
-      "added_at": "2026-08-18 15:45:54",
-      "album": {
-        "name": "Metamorphose",
-        "url": "https://open.spotify.com/album/0xwUq5iVUJjcs5A8aN7KXM"
-      },
-      "artists": [
-        {
-          "name": "\u6749\u5c71\u5bdb",
-          "url": "https://open.spotify.com/artist/2zEVxOLSb6U1OA1uKHQIZw"
-        }
-      ],
-      "duration_ms": 402066,
-      "name": "Metamorphose",
-      "url": "https://open.spotify.com/track/5ieaFuii1CPqtb3MnOEh5l"
-    },
-    {
-      "added_at": "2026-08-18 15:45:54",
-      "album": {
-        "name": "Just to Cross the Night",
-        "url": "https://open.spotify.com/album/45GTMxoZYY0I8VJxKTaFtV"
-      },
-      "artists": [
-        {
-          "name": "epice",
-          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
-        }
-      ],
-      "duration_ms": 253314,
-      "name": "Just to Cross the Night",
-      "url": "https://open.spotify.com/track/5gmyYTTxpKg3k5KPjVJtyS"
-    },
-    {
-      "added_at": "2026-08-18 15:45:54",
-      "album": {
-        "name": "kopfkino",
-        "url": "https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u7530 \u60a0\u771f",
-          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "kopfkino",
-      "url": "https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB"
     },
     {
       "added_at": "2026-07-21 15:00:18",

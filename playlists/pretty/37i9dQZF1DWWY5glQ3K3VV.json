@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 117444,
+  "num_followers": 117462,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3SsfGp8etWCHIH5l3uAc1iEZi2",
+  "snapshot_id": "AAAAABLUiuIcRTVzotuzb8VanPI/hrb1",
   "tracks": [
     {
       "added_at": "2026-08-05 08:16:35",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 124464,
-      "name": "Felpa Nera (feat. ANNA)",
-      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
         "name": "WE THE SQUAD Vol.2",
         "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 194000,
       "name": "PEZZI DA NOVANTA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza)",
       "url": "https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
     },
     {
       "added_at": "2026-08-05 08:16:35",

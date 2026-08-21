@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT takes you back to 1996\. Cover: Toni Braxton
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,265,937 likes - 30 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,265,876 likes - 30 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 29 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
 | 30 | [Elevators \(Me & You\)](https://open.spotify.com/track/2VIdb0P8k5b4NUji36afNl) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/4UGoI0JTxpNNflkRMv7d5I) | 4:03 |
 
-Snapshot ID: `AAAAAGXJddTRR9H9WKPQZDPknFuiqoEY`
+Snapshot ID: `AAAAAOsrIF74fxFSQkt5Eb158ZqZHcTa`

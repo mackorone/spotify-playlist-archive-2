@@ -1,13 +1,193 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: JENNIE",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: KiiiKiii",
   "num_followers": 756,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAISKYlwG4nABN7XlztOyl7b9vawt60",
+  "snapshot_id": "AAAIVuFodf3Euzh0R51KW6vb2O8eflK9",
   "tracks": [
+    {
+      "added_at": "2026-08-20 05:39:36",
+      "album": {
+        "name": "\u9762 : Unknown Atlas",
+        "url": "https://open.spotify.com/album/07KPt6uHFqEJ4x5U7C3rX4"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/4HZXQpfYj1YArf2EfzEjf5"
+    },
+    {
+      "added_at": "2026-08-20 05:39:50",
+      "album": {
+        "name": "SPLAY : CHAPTER 01",
+        "url": "https://open.spotify.com/album/6sPKB4Cl0uad4i9sKYMhZp"
+      },
+      "artists": [
+        {
+          "name": "Splayit",
+          "url": "https://open.spotify.com/artist/6dO5cb6LNYGs5Ob5JCY4un"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Last bus",
+      "url": "https://open.spotify.com/track/22g0phblhI57wSMjRcjQZ6"
+    },
+    {
+      "added_at": "2026-08-20 05:40:11",
+      "album": {
+        "name": "<Deep Dream>",
+        "url": "https://open.spotify.com/album/1IoXvOGzX68HNDbzgQd1FU"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Deep Dream",
+      "url": "https://open.spotify.com/track/3HFF36MCGX5OuWwQMkE0lt"
+    },
+    {
+      "added_at": "2026-08-20 05:40:25",
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 141285,
+      "name": "Pop Off Pop Off",
+      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
+    },
+    {
+      "added_at": "2026-08-20 05:40:37",
+      "album": {
+        "name": "WAYF BOYS DO",
+        "url": "https://open.spotify.com/album/32mQSWQGzN0SbLuWHt4u4s"
+      },
+      "artists": [
+        {
+          "name": "WAYF BOYS",
+          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "WAYF BOYS DO",
+      "url": "https://open.spotify.com/track/0GFdPboDW6A91IfLDVrY3R"
+    },
+    {
+      "added_at": "2026-08-20 05:40:49",
+      "album": {
+        "name": "<Born Stunner>",
+        "url": "https://open.spotify.com/album/2h9PWGI1WAf7B1GkUL8wdh"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Born Stunner",
+      "url": "https://open.spotify.com/track/3IUPnZ0yUaIxkTFgQlcBBf"
+    },
+    {
+      "added_at": "2026-08-20 05:40:58",
+      "album": {
+        "name": "Achilles",
+        "url": "https://open.spotify.com/album/2ENR86xq027aAPE01Fhd9J"
+      },
+      "artists": [
+        {
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Achilles",
+      "url": "https://open.spotify.com/track/3N2jC81NoXkpwKh390wJZR"
+    },
+    {
+      "added_at": "2026-08-20 05:41:06",
+      "album": {
+        "name": "A NEW ERA OF NOW",
+        "url": "https://open.spotify.com/album/2lLZLjWnLTOwXHXYcwsKEB"
+      },
+      "artists": [
+        {
+          "name": "AEN",
+          "url": "https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "X to Z (Next to me) (Korean ver.)",
+      "url": "https://open.spotify.com/track/2IlcpFmvuaFSt0mTK73DOx"
+    },
+    {
+      "added_at": "2026-08-20 05:41:18",
+      "album": {
+        "name": "FLIRTY",
+        "url": "https://open.spotify.com/album/6Izvj1EviVgSWRWbv0nMb7"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "FLIRTY",
+      "url": "https://open.spotify.com/track/3eaDpfaw7IC6Q65iflqBdd"
+    },
+    {
+      "added_at": "2026-08-20 05:41:27",
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7"
+    },
+    {
+      "added_at": "2026-08-20 05:41:36",
+      "album": {
+        "name": "Velvet Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Surfin' Boy",
+      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
+    },
     {
       "added_at": "2026-08-03 01:17:41",
       "album": {
@@ -1455,182 +1635,6 @@
       "duration_ms": 189000,
       "name": "Love Splash!",
       "url": "https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY"
-    },
-    {
-      "added_at": "2025-08-21 08:39:23",
-      "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/4q6x6Myi5QRSiUL9FnueIv"
-      },
-      "artists": [
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/3O7O66Z1EMSHdivQ92XUfx"
-    },
-    {
-      "added_at": "2025-08-21 08:39:35",
-      "album": {
-        "name": "Growing Pain pt.1 : FREE",
-        "url": "https://open.spotify.com/album/5Nfxo1U4jKI13JB4nPimOJ"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        }
-      ],
-      "duration_ms": 140241,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN"
-    },
-    {
-      "added_at": "2025-08-21 08:39:48",
-      "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/5XC6zgE2x581zlkJdOxjsZ"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/2bJI4NceMjye26SmzewutW"
-    },
-    {
-      "added_at": "2025-08-21 08:39:58",
-      "album": {
-        "name": "LOUD & PROUD",
-        "url": "https://open.spotify.com/album/4s6H9i2JkMF58sij9Xa26W"
-      },
-      "artists": [
-        {
-          "name": "AMPERS&ONE",
-          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "That\u2019s That",
-      "url": "https://open.spotify.com/track/2Sf6SXb3LAq4aWq6Pm9akt"
-    },
-    {
-      "added_at": "2025-08-21 08:40:07",
-      "album": {
-        "name": "HUNTER - The 3rd Album",
-        "url": "https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i"
-      },
-      "artists": [
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "HUNTER",
-      "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
-    },
-    {
-      "added_at": "2025-08-21 08:40:18",
-      "album": {
-        "name": "DANCING ALONE",
-        "url": "https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 198876,
-      "name": "DANCING ALONE",
-      "url": "https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I"
-    },
-    {
-      "added_at": "2025-08-21 08:40:35",
-      "album": {
-        "name": "Crazier - The 11th Album",
-        "url": "https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Crazier",
-      "url": "https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB"
-    },
-    {
-      "added_at": "2025-08-21 08:40:54",
-      "album": {
-        "name": "STAYC Special Single [I WANT IT]",
-        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "I WANT IT",
-      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
-    },
-    {
-      "added_at": "2025-07-22 07:05:33",
-      "album": {
-        "name": "BIG BANDS - The 7th Mini Album",
-        "url": "https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "BIG BANDS - Korean Version",
-      "url": "https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX"
-    },
-    {
-      "added_at": "2025-07-22 07:06:03",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/4NMF7zEoWEnKcybYCoZkCu"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9"
-    },
-    {
-      "added_at": "2025-07-22 07:06:22",
-      "album": {
-        "name": "HOOK",
-        "url": "https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE"
-      },
-      "artists": [
-        {
-          "name": "LEE MINHYUK (HUTA)",
-          "url": "https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bora",
-      "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Luna Simao
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,898 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,950 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 |
 | 37 | [chasing love and missing people](https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chasing love and missing people](https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn) | 2:53 |
 | 38 | [Schön sein \(ist fun\)](https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Schön sein \(ist fun\)](https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH) | 2:25 |
-| 39 | [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 |
-| 40 | [Weltuntergang](https://open.spotify.com/track/5gprjELlbURrIgh1tSTrPb) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Weltuntergang](https://open.spotify.com/album/5mmNtnWk2eUYA1sCV3zlDs) | 3:05 |
+| 39 | [Weltuntergang](https://open.spotify.com/track/5gprjELlbURrIgh1tSTrPb) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Weltuntergang](https://open.spotify.com/album/5mmNtnWk2eUYA1sCV3zlDs) | 3:05 |
+| 40 | [Wash my hair](https://open.spotify.com/track/4qSrZtU5n9VeZxL1q6DfYB) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wash my hair](https://open.spotify.com/album/5QrUbZtMt52oRRqZzzsQBI) | 3:00 |
 | 41 | [Opium](https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Opium](https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741) | 2:26 |
 | 42 | [Girl With A Gun, Angry](https://open.spotify.com/track/4xHkDF6YXuIilC1q4sKmJ7) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:26 |
 | 43 | [Ich denk an dich](https://open.spotify.com/track/5ikD0eJ2tR0KGzbNmQaN79) | [Jenny & Joy](https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH) | [Ich denk an dich](https://open.spotify.com/album/1Kqnz3yaL8gvxP9YUnfr89) | 2:40 |
 | 44 | [sterntaler](https://open.spotify.com/track/6QfMdc1DwZGHAXvDfS1LbR) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [sterntaler](https://open.spotify.com/album/4IlYEiP1AKTfybEFc9RVqV) | 3:37 |
 | 45 | [T\-Shirt](https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [T\-Shirt](https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ) | 3:06 |
-| 46 | [I'm In Love With A German Film Star](https://open.spotify.com/track/0OOVYOv8PomdOADlYYj6Wj) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [I'm In Love With A German Film Star](https://open.spotify.com/album/7HFhSoPjp94HllaD56FvRM) | 4:27 |
-| 47 | [Rose Colored Glasses](https://open.spotify.com/track/638bBgP3OMkRKUVPJkkS3l) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Rose Colored Glasses](https://open.spotify.com/album/67daculGwunDLADwaBcuyJ) | 2:51 |
+| 46 | [Rose Colored Glasses](https://open.spotify.com/track/638bBgP3OMkRKUVPJkkS3l) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Rose Colored Glasses](https://open.spotify.com/album/67daculGwunDLADwaBcuyJ) | 2:51 |
+| 47 | [I'm In Love With A German Film Star](https://open.spotify.com/track/0OOVYOv8PomdOADlYYj6Wj) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [I'm In Love With A German Film Star](https://open.spotify.com/album/7HFhSoPjp94HllaD56FvRM) | 4:27 |
 | 48 | [Savanna Savage](https://open.spotify.com/track/1ahR23D4S0uyNSQyI1QxDY) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Savanna Savage](https://open.spotify.com/album/7ngqA57C9eOJpdoRukBtnv) | 3:16 |
 | 49 | [ZU LAUT](https://open.spotify.com/track/5XcvxFlCOBsBIO4F3Xo3NL) | [TYNA](https://open.spotify.com/artist/1PruY0o0pIkNr3EmT8DyYB) | [ZU LAUT](https://open.spotify.com/album/68QrwR68Li7UqhlJ5ZnzRp) | 3:12 |
 | 50 | [man down](https://open.spotify.com/track/2cs6xQsgDVtHB0gtpVerEP) | [youcallmecarla](https://open.spotify.com/artist/5rBtac9khS0CB8eUW0kFQd) | [man down](https://open.spotify.com/album/3suZcHVjomImxjprsd4kQh) | 2:48 |
 
-Snapshot ID: `AAAAAKPm/72Kie8fC1elgMxsrP9SS62L`
+Snapshot ID: `AAAAANYFhQy5R0hVeW7mPRQGi9E/0i0T`

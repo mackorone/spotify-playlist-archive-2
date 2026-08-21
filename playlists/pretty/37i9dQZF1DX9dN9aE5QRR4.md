@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de Nouvelle École\. Saison 5, bientôt dispo sur Netflix !
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,488 likes - 87 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,474 likes - 87 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 86 | [Mourir Demain \(Nouvelle École\)](https://open.spotify.com/track/2QPGE7wCDh2VMTcvGl2rzE) | [Elyon](https://open.spotify.com/artist/3VY8rqAcd0Aj6eAJyvmbON), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Mourir Demain \(Nouvelle École\)](https://open.spotify.com/album/4KIIiadeLMb6tvzh27twVy) | 3:39 |
 | 87 | [Parabellum \(Nouvelle École\)](https://open.spotify.com/track/3hcFPs4c7D3impUjYq2l7W) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Parabellum \(Nouvelle École\)](https://open.spotify.com/album/4Kzl1KZmxnxMEOKzW4YZq0) | 2:58 |
 
-Snapshot ID: `AAAAAN3oR2LCuGLfvpQ0bRYbWJzAyEEf`
+Snapshot ID: `AAAAAEa6h7881jYWebWl4eqalomEfcXt`

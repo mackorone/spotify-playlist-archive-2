@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,141 likes - 184 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,106 likes - 184 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 183 | [Night’s Deep Silence](https://open.spotify.com/track/0Rn3MXH369fACAZZZBlfWH) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Night’s Deep Silence](https://open.spotify.com/album/4csSHtdYPoXr4owqo9Sf3V) | 2:22 |
 | 184 | [Divination](https://open.spotify.com/track/1zL2VLTGJ2Bg5YhVMfvqWt) | [Outside The Sky](https://open.spotify.com/artist/0YQ0arFA21qL1FactLyY81) | [Ground](https://open.spotify.com/album/2JE4P8PL9rUMQUiLAsNxFq) | 2:39 |
 
-Snapshot ID: `AAAAACKxdktXfDPAlLd3ivPGN3qRz1J5`
+Snapshot ID: `AAAAAJXnfrGqeSsitVWlKVUIN0UYp2oR`

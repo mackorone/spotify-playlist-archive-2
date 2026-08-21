@@ -4,7 +4,7 @@
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: DOROFEEVA
 
-221 songs - 11 hr 10 min
+222 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2024-06-27 | 2025-08-22 |
 | [Гандзя](https://open.spotify.com/track/1xPNyPMjOqmbStqV5vSgxP) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Гандзя](https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv) | 3:37 | 2025-12-04 |  |
 | [Гаї шумлять \(1913\)](https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Поетичний](https://open.spotify.com/album/1kMqjTYQPAw2fTDdmCIY72) | 2:13 | 2024-06-27 | 2025-09-12 |
-| [Генгста](https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Генгста](https://open.spotify.com/album/6KRyzLpc7v8is3WVUmVoNP) | 3:20 | 2025-09-11 |  |
+| [Генгста](https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Генгста](https://open.spotify.com/album/6KRyzLpc7v8is3WVUmVoNP) | 3:20 | 2025-09-11 | 2026-08-21 |
 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 | 2025-04-24 |  |
 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-05 | 2024-12-13 |
 | [Де би де би](https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Перший тайм](https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl) | 2:49 | 2025-06-09 | 2026-04-28 |
@@ -140,6 +140,7 @@
 | [Зцапала\-злапала](https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Family бізнес](https://open.spotify.com/album/3m2nS5L5E0DGr4yQDukEEY) | 3:23 | 2025-03-10 | 2026-08-07 |
 | [Зійшла Зоря](https://open.spotify.com/track/7nwi27ZEobkE6oDEHNaN0I) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Зійшла Зоря](https://open.spotify.com/album/7k8BEj6CbRPkHyN5BNpw6Z) | 3:27 | 2026-07-02 |  |
 | [Зірочка палай](https://open.spotify.com/track/4J7GqAqdOfYrcOKJIp4m8U) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Зірочка палай](https://open.spotify.com/album/0Q3gO9yOWmX5yrGf1DrVHe) | 2:08 | 2025-04-14 |  |
+| [Кажи мені правду](https://open.spotify.com/track/4lsQbnwUCPXjPJZ84JFLtp) | [HUDAK](https://open.spotify.com/artist/3poPb56ojafRVuANnCTPIL), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [MOTANA](https://open.spotify.com/artist/5BP8JAe1kls7LqWojEfYmr) | [Кажи мені правду](https://open.spotify.com/album/32XYKXbYnaYxou7LRW4BOz) | 4:08 | 2026-08-20 |  |
 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2024-12-12 | 2026-04-28 |
 | [Колискова 2022](https://open.spotify.com/track/3fm1gwToVxnT4eK0GfGV0K) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:41 | 2024-09-26 | 2024-11-05 |
 | [Кольє](https://open.spotify.com/track/2i7Nqa6jMW2qXA8w2iJs9s) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Кольє](https://open.spotify.com/album/75fYZKItTQwTzALEIuHOjk) | 3:21 | 2026-06-25 |  |

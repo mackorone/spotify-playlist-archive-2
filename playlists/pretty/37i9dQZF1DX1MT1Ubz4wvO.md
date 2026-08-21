@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: El Pony Express
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,676 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,636 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Interrogantes](https://open.spotify.com/track/1kngoTVAtivQzH7cp68kXp) | [La Piojera](https://open.spotify.com/artist/2y10Zc9dxnYdyoToA8xeq4), [Estrago](https://open.spotify.com/artist/5xtCZLuxMQuLUhO5s6Gr0D) | [Interrogantes](https://open.spotify.com/album/65TihVwdomBzHvVV1i7FlB) | 3:14 |
 | 50 | [Más o menos bien](https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Más o menos bien](https://open.spotify.com/album/5vNVdu7wRFeDSh7B61fgLt) | 3:01 |
 
-Snapshot ID: `AAAAALhxtR9/xAR64GVrQ1SZmJMp8OuX`
+Snapshot ID: `AAAAADdo51Kuss8RtPWVbQJG9U/qSvkQ`

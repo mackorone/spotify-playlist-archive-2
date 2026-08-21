@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Erykah Badu, The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,321 likes - 109 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,318 likes - 109 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 108 | [Burning](https://open.spotify.com/track/6WOWQrs4IvRLl45PPsIK43) | [Mashoe](https://open.spotify.com/artist/1XdGFjb61yarGAmSPuvLN7) | [Burning](https://open.spotify.com/album/462WUinJ4xH1QPnIiQ3zGb) | 4:03 |
 | 109 | [Only One](https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Only One](https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl) | 3:13 |
 
-Snapshot ID: `AAAAANyO98t5UyeWxrMFWhZnx7e02d2y`
+Snapshot ID: `AAAAAIDYtZtPkZIozw/TeDGpKLjk7aB8`

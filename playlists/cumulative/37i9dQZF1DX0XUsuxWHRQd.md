@@ -4,7 +4,7 @@
 
 > Music from Future, Lil Baby and Lil Uzi Vert.
 
-2,844 songs - 6 day 3 hr 42 min
+2,845 songs - 6 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2132,6 +2132,7 @@
 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2022-09-13 | 2022-09-17 |
 | [SELLIN CRACK \(feat\. Offset\)](https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 | 2023-05-05 | 2023-05-13 |
 | [Serial Killers](https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Serial Killers](https://open.spotify.com/album/1Odwcvb4QNe1pCYZnG8K25) | 3:08 | 2022-04-15 | 2022-07-09 |
+| [Set It Off](https://open.spotify.com/track/44LFap7VrB4356vfbQOZHg) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Project English](https://open.spotify.com/album/6XWF6iUztcDP7yVBGpsGvb) | 4:17 | 2026-08-20 |  |
 | [Set Up Story Part 1](https://open.spotify.com/track/3t6HeF7UPZmdA3DLupbyqJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Set Up Story Part 1](https://open.spotify.com/album/2ujkEL9F2W32Sg5GTSvuVI) | 2:49 | 2022-05-27 | 2022-06-11 |
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-14 | 2025-02-22 |
 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 | 2023-09-08 | 2023-09-23 |

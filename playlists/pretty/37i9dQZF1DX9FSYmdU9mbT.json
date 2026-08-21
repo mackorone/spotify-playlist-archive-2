@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHu8xoi2IwoCAtotM6A1jzx1E8vw",
+  "snapshot_id": "AAAAANRRWaWCvepsZkjL2zL8nobNfIRq",
   "tracks": [
     {
       "added_at": "2026-05-22 11:20:59",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        },
-        {
-          "name": "Sophie Charlotte",
-          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
         }
       ],
-      "duration_ms": 224720,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -543,18 +539,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
       "artists": [
         {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        },
+        {
+          "name": "Sophie Charlotte",
+          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
+      "duration_ms": 224720,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Racional (Vol 1)",
         "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
       },
@@ -1219,6 +1203,38 @@
       "duration_ms": 305693,
       "name": "Bom-Senso",
       "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Marisa Monte",
+        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "A Sua / Sampler: Coqueiro De Itapoan",
+      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1251,6 +1267,22 @@
       "duration_ms": 194175,
       "name": "Andar Com F\u00e9",
       "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1307,22 +1339,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 235106,
       "name": "Brasil Pandeiro",
       "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1463,38 +1479,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Marisa Monte",
-        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "A Sua / Sampler: Coqueiro De Itapoan",
-      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "For\u00e7a Bruta (1970)",
         "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 252506,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2026-05-22 11:20:59",

@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 37018,
+  "num_followers": 37022,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAATFDCIuxxTCwiLReRY8FWP",
+  "snapshot_id": "aoTyAAAAAACGcNCkHqrKP3byyu6k90tT",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE LIVES",
-        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
+        "name": "About Time (2005 Remaster)",
+        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
       "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        },
         {
           "name": "Pennywise",
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 172573,
-      "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
-      "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
+      "duration_ms": 175066,
+      "name": "Searching - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+        "name": "NINE LIVES",
+        "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
       "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
         {
           "name": "Pennywise",
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 117160,
-      "name": "Can't Believe It",
-      "url": "https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61"
+      "duration_ms": 172573,
+      "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
+      "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "About Time (2005 Remaster)",
-        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 175066,
-      "name": "Searching - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
+      "duration_ms": 117160,
+      "name": "Can't Believe It",
+      "url": "https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc"
       },
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
+      "duration_ms": 196026,
+      "name": "It's Up To Me - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
     },
     {
       "added_at": null,
@@ -755,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 196026,
-      "name": "It's Up To Me - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
+      "duration_ms": 131480,
+      "name": "American Lies",
+      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
     },
     {
       "added_at": null,
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
       "artists": [
         {
@@ -800,25 +816,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 131480,
-      "name": "American Lies",
-      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 85946,
-      "name": "Rules - 2005 Remaster",
-      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
+      "duration_ms": 214866,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/3D2tbKnj07Xwm3FQj9kisq"
     }
   ],
   "unique_name": "This Is Pennywise",

@@ -1,12 +1,12 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 85887,
+  "num_followers": 85892,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALimW69kPC/EBmPYxOQYZAl3zZkE",
+  "snapshot_id": "AAAAABrTTWzXXhFBC+qTZfiZ3ML4wwQS",
   "tracks": [
     {
       "added_at": "2026-08-07 05:48:45",
@@ -296,16 +296,20 @@
       },
       "artists": [
         {
-          "name": "Zubeen Garg",
-          "url": "https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u"
-        },
-        {
           "name": "Rashid Khan",
           "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
         },
         {
           "name": "Arpita Chatterjee",
           "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
+        },
+        {
+          "name": "Jeet Gannguli",
+          "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+        },
+        {
+          "name": "Chandrani Ganguli",
+          "url": "https://open.spotify.com/artist/1axbRUQFlCwbAeDIeONhM8"
         }
       ],
       "duration_ms": 264053,
@@ -663,30 +667,6 @@
     {
       "added_at": "2026-08-07 05:48:45",
       "album": {
-        "name": "Mannde Ji Mala",
-        "url": "https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Vela Ghana Bhil",
-          "url": "https://open.spotify.com/artist/2riag1dR98hqvRbTagutOg"
-        },
-        {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Mannde Ji Mala",
-      "url": "https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY"
-    },
-    {
-      "added_at": "2026-08-07 05:48:45",
-      "album": {
         "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
         "url": "https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa"
       },
@@ -707,6 +687,30 @@
       "duration_ms": 395913,
       "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
       "url": "https://open.spotify.com/track/4yY6SRse3iDtY0QROJmBXa"
+    },
+    {
+      "added_at": "2026-08-07 05:48:45",
+      "album": {
+        "name": "Mannde Ji Mala",
+        "url": "https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Vela Ghana Bhil",
+          "url": "https://open.spotify.com/artist/2riag1dR98hqvRbTagutOg"
+        },
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Mannde Ji Mala",
+      "url": "https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY"
     },
     {
       "added_at": "2026-08-07 05:48:45",

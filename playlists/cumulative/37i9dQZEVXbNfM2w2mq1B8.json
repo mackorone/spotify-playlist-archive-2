@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
@@ -6860,7 +6860,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/4PAGRGq7KKB5epnpeQia6a"
@@ -7176,6 +7176,24 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "album": {
+        "name": "Tochka za men",
+        "url": "https://open.spotify.com/album/7DB2xbWZn9cQC6w3tmD4vP"
+      },
+      "artists": [
+        {
+          "name": "Djulia",
+          "url": "https://open.spotify.com/artist/6KsiFFe8CENPP9DN3SRouY"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219517,
+      "name": "Chuzhda",
+      "url": "https://open.spotify.com/track/3yltt4HoL2Jx1X3KtcjCpk"
     },
     {
       "album": {
@@ -17066,7 +17084,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -18492,7 +18510,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 174829,
       "name": "Iskam ot teb",
       "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
@@ -19602,7 +19620,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 199053,
       "name": "Kasay",
       "url": "https://open.spotify.com/track/4d8taEOlMp4ckG2OqxOjuW"
@@ -22700,6 +22718,24 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "album": {
+        "name": "Mangava Tu",
+        "url": "https://open.spotify.com/album/4Zv7fhrU8Ffhg7xRmRRrBy"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mangava Tu",
+      "url": "https://open.spotify.com/track/08jIAQc5q1m2TIWtxOZ8VE"
     },
     {
       "album": {
@@ -26018,7 +26054,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -26860,7 +26896,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 220868,
       "name": "Notarialno zaveren",
       "url": "https://open.spotify.com/track/0rzlD9CNQ5XIGD58r799Ov"
@@ -40286,7 +40322,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 216793,
       "name": "Varnah ti go",
       "url": "https://open.spotify.com/track/6zvwO7R26lGigFffAyFDRO"
@@ -40798,6 +40834,24 @@
       "duration_ms": 152133,
       "name": "VSE EDNO",
       "url": "https://open.spotify.com/track/4c22LDRFK5uU2tPqYsDBvk"
+    },
+    {
+      "album": {
+        "name": "Vse napred",
+        "url": "https://open.spotify.com/album/1elvUdX8Mi79EkmOWqFPcU"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228925,
+      "name": "Vse napred",
+      "url": "https://open.spotify.com/track/46wPr3FrjoBkBfIGK8R4lW"
     },
     {
       "album": {
@@ -44540,7 +44594,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -44898,7 +44952,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 205102,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL"
@@ -45686,7 +45740,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 171219,
       "name": "\u0417\u0430\u0432\u044a\u0440\u0442\u0438 \u0413\u043e",
       "url": "https://open.spotify.com/track/0ab61cb0WJ0FUITu81Is4g"
@@ -46082,7 +46136,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 214482,
       "name": "\u0418\u0433\u0440\u0430\u0447\u043a\u0430",
       "url": "https://open.spotify.com/track/3t3WvabJwAMzeZkn2bNc4r"
@@ -46706,7 +46760,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 199090,
       "name": "\u041a\u0423-\u041a\u0423",
       "url": "https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW"
@@ -47382,7 +47436,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -49956,7 +50010,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"

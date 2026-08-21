@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Sheryl Crow",
-  "num_followers": 238972,
+  "num_followers": 238998,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEvSGKCzM68Syg4RgfAY4ZoqxsZt",
+  "snapshot_id": "AAAAAF51rGiFVUfF/gxnIf61MlDJ8dNQ",
   "tracks": [
     {
       "added_at": "2026-08-14 00:00:15",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Strangers Here",
-        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
-      },
-      "artists": [
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
-        }
-      ],
-      "duration_ms": 267648,
-      "name": "Strangers Here",
-      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Shouted, Written Down & Quoted",
         "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 207841,
       "name": "Merely Avoiding",
       "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Strangers Here",
+        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "duration_ms": 267648,
+      "name": "Strangers Here",
+      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "You're My Favorite Song / Wild At Heart",
-        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "You're My Favorite Song",
-      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Trouble and Love",
         "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 326746,
       "name": "Oh Soul",
       "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "You're My Favorite Song / Wild At Heart",
+        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "You're My Favorite Song",
+      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Airline Highway (Deluxe)",
-        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "When You\u2019re With Him - Bonus Track",
-      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 158834,
       "name": "Got Your Six",
       "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Airline Highway (Deluxe)",
+        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "When You\u2019re With Him - Bonus Track",
+      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Finest Feelings",
-        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
+        "name": "Wynonna & The Big Noise",
+        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
       "artists": [
         {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 205348,
-      "name": "Finest Feelings",
-      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
+      "duration_ms": 251826,
+      "name": "Keeps Me Alive",
+      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Wynonna & The Big Noise",
-        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
+        "name": "Finest Feelings",
+        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
       },
       "artists": [
         {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 251826,
-      "name": "Keeps Me Alive",
-      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
+      "duration_ms": 205348,
+      "name": "Finest Feelings",
+      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 174720,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
+        "name": "Most Messed Up",
+        "url": "https://open.spotify.com/album/2AKIfsITXtRcHZL1u6xCQp"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 352546,
+      "name": "Longer Than You've Been Alive",
+      "url": "https://open.spotify.com/track/2qBfMn3hsyX6QFCOLZfZvV"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -2271,22 +2287,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296573,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -2299,6 +2299,22 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2026-08-14 00:00:15",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296573,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy"
     },
     {
       "added_at": "2026-08-14 00:00:15",
@@ -2639,22 +2655,6 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
-    },
-    {
-      "added_at": "2026-08-14 00:00:15",
-      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH"
       },
@@ -2679,18 +2679,18 @@
     {
       "added_at": "2026-08-14 00:00:15",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph"
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
       },
       "artists": [
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
         }
       ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm"
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
     }
   ],
   "unique_name": "Americana Icons",

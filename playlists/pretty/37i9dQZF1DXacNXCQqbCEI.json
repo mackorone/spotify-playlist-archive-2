@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 341669,
+  "num_followers": 341655,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJE3BXq5b78/lu3qZ/qyLipzcWri",
+  "snapshot_id": "AAAAAEcv8zLhQqpF9z98p5nr5DgCr5RI",
   "tracks": [
     {
       "added_at": "2024-07-12 22:50:04",
@@ -267,18 +267,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Balnear",
-        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
+        "name": "DANZAAA",
+        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
       },
       "artists": [
         {
           "name": "Mit\u00fa",
           "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 213386,
-      "name": "Solitario",
-      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+      "duration_ms": 210989,
+      "name": "CACHITO",
+      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -347,22 +351,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "DANZAAA",
-        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
+        "name": "Balnear",
+        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
       },
       "artists": [
         {
           "name": "Mit\u00fa",
           "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 210989,
-      "name": "CACHITO",
-      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
+      "duration_ms": 213386,
+      "name": "Solitario",
+      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Desierto",
         "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 173043,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -843,6 +843,30 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Las Mellas (Cerrero Dub Mix)",
+        "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        },
+        {
+          "name": "Carmelo Torres",
+          "url": "https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        }
+      ],
+      "duration_ms": 271335,
+      "name": "Las Mellas - Cerrero Dub Mix",
+      "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 233739,
       "name": "Kalimba Nara",
       "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Las Mellas (Cerrero Dub Mix)",
-        "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        },
-        {
-          "name": "Carmelo Torres",
-          "url": "https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        }
-      ],
-      "duration_ms": 271335,
-      "name": "Las Mellas - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
     },
     {
       "added_at": "2024-07-12 22:50:04",

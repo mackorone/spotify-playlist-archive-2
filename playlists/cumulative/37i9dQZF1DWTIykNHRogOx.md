@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec TeddyBear.
+> Les  meilleures nouveautés de la chanson française avec Noé Preszow.
 
-362 songs - 19 hr 43 min
+364 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [J’suis QLF](https://open.spotify.com/track/1SD5DVz2m8QWDVZRu3E94P) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [J'suis QLF](https://open.spotify.com/album/4mSPYYMKQaS2T5UENy0QbU) | 4:13 | 2026-07-09 |  |
 | [J’veux du cuir](https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [J’veux du cuir](https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb) | 2:44 | 2025-12-11 | 2026-04-10 |
 | [Kisbee](https://open.spotify.com/track/5mefCB9Jjlll59HwaLK33U) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Kisbee](https://open.spotify.com/album/62m4yqqakepro5IsQz5QN5) | 2:22 | 2026-06-25 |  |
-| [L'amertume \- Issu du documentaire "Tout un fromage"](https://open.spotify.com/track/13QPh3IfOzMdpmoWlieHRV) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'amertume \(Issu du documentaire "Tout un fromage"\)](https://open.spotify.com/album/4x7Ew0u9AqYYelle6w9KCj) | 2:41 | 2026-04-09 |  |
+| [L'amertume \- Issu du documentaire "Tout un fromage"](https://open.spotify.com/track/13QPh3IfOzMdpmoWlieHRV) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'amertume \(Issu du documentaire "Tout un fromage"\)](https://open.spotify.com/album/4x7Ew0u9AqYYelle6w9KCj) | 2:41 | 2026-04-09 | 2026-08-21 |
 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 | 2024-10-10 | 2025-03-07 |
 | [L'homme idéal](https://open.spotify.com/track/0soh7xZDQFQHOjXmBNWhUJ) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Regarde](https://open.spotify.com/album/1cDrecRdnUbpWtH8Bbqr9J) | 2:35 | 2025-06-12 | 2025-10-10 |
 | [L'homme qui mord](https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9) | [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [L'homme qui mord](https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP) | 3:05 | 2025-12-11 | 2026-04-10 |
@@ -167,7 +167,7 @@
 | [la vie est belle](https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [les choses de la vie](https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i) | 3:13 | 2026-03-12 | 2026-06-05 |
 | [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 | 2025-05-16 |
 | [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 | 2025-10-02 | 2026-02-20 |
-| [Laurie Sky](https://open.spotify.com/track/2RzuYXqdKw0IevkQWDoUrt) | [Arnold Turboust](https://open.spotify.com/artist/3z8iQqWLPw51mizHQ3Qu3U), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Laurie Sky](https://open.spotify.com/album/77PmIyP4hIX6IphsV2rMn9) | 3:04 | 2026-06-11 |  |
+| [Laurie Sky](https://open.spotify.com/track/2RzuYXqdKw0IevkQWDoUrt) | [Arnold Turboust](https://open.spotify.com/artist/3z8iQqWLPw51mizHQ3Qu3U), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Laurie Sky](https://open.spotify.com/album/77PmIyP4hIX6IphsV2rMn9) | 3:04 | 2026-06-11 | 2026-08-21 |
 | [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 | 2025-08-08 |
 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 | 2024-09-19 | 2025-01-31 |
 | [le dernier verre](https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [le dernier verre](https://open.spotify.com/album/77hFDBhBnkgsuH2h8OA7FQ) | 3:03 | 2026-05-21 |  |
@@ -247,6 +247,7 @@
 | [Mélancolie](https://open.spotify.com/track/3PuQhT22z1XrSwdmGankTn) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Grand piano](https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd) | 3:04 | 2025-01-16 | 2025-06-13 |
 | [N'importe quoi](https://open.spotify.com/track/7Auw0vXuqafNZGYmBpU4PX) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [N'importe quoi](https://open.spotify.com/album/6wl99feAZHWDAHZkgQMnnw) | 2:56 | 2024-06-27 | 2024-07-19 |
 | [Nel bene nel male](https://open.spotify.com/track/7FeYaHR2sWZaOToapEHolI) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Le vert et le bleu \(La canopée\)](https://open.spotify.com/album/4wcw3DtBUdMHHkw2r9GwF2) | 4:00 | 2026-03-19 | 2026-06-19 |
+| [normal](https://open.spotify.com/track/3HKxk6GjMHBpPAKWGypCNI) | [Nate](https://open.spotify.com/artist/4LqiQFpJnZECUc0lzQU7ZH) | [normal](https://open.spotify.com/album/5X3N74Rte8cNmTFSg4q3fS) | 2:37 | 2026-08-20 |  |
 | [Normaux](https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Normaux](https://open.spotify.com/album/6dBDgQ9vU9GRSpojDlHKw8) | 4:21 | 2026-01-29 | 2026-05-08 |
 | [Nos sentiers secrets](https://open.spotify.com/track/6EaZgo6RRRl16qYqASvwUP) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Le vert et le bleu](https://open.spotify.com/album/3KC3oY8ptXntPvoy52MR78) | 4:34 | 2025-03-06 | 2025-07-11 |
 | [Nu](https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Nu](https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi) | 2:26 | 2024-07-25 | 2024-11-29 |
@@ -352,6 +353,7 @@
 | [vivre sobrement](https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [vivre sobrement](https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN) | 3:11 | 2025-01-09 | 2025-05-30 |
 | [wow](https://open.spotify.com/track/3RLmUALgEvs3r7ewT71WUp) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [wow](https://open.spotify.com/album/2KpveXuktDa0smRM2rgh7P) | 1:40 | 2026-05-21 |  |
 | [Y en a encore](https://open.spotify.com/track/0RLh5Y3xC0A4k41EIukN7N) | [Vincent Dedienne](https://open.spotify.com/artist/219lkhP1xf6bR6M4UUtid7) | [Y en a encore](https://open.spotify.com/album/17GF2d30VLO5Ssq1oshJDa) | 2:55 | 2025-09-04 | 2025-12-19 |
+| [Y'a un monde](https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Y'a un monde](https://open.spotify.com/album/5LZOhA2ItAo67jrYJ5dPmV) | 4:28 | 2026-08-20 |  |
 | [Yao](https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Yao](https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX) | 3:07 | 2026-05-28 |  |
 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:18 | 2025-09-11 | 2026-01-23 |
 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 | 2025-01-09 | 2025-05-23 |

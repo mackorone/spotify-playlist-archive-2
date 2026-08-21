@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34979,
+  "num_followers": 34981,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEnrQjJk1ksMHiICTKe10KBGJiHJ",
+  "snapshot_id": "AAAAAMknmIs3WK9ZoeEFjObqFkLG3g/H",
   "tracks": [
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "High Fever",
-        "url": "https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1"
-      },
-      "artists": [
-        {
-          "name": "Electric Circus",
-          "url": "https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "High Fever",
-      "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1115,6 +1083,38 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "High Fever",
+        "url": "https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1"
+      },
+      "artists": [
+        {
+          "name": "Electric Circus",
+          "url": "https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "High Fever",
+      "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Ora beat!",
         "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 125572,
       "name": "Bighellonando",
       "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1163,6 +1147,22 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Morabeza",
-        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Giuramento (feat. Gabriele Mirabassi)",
-      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 278773,
       "name": "Musica e Fumo",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Giuramento (feat. Gabriele Mirabassi)",
+      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Comes Love",
-        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
-      },
-      "artists": [
-        {
-          "name": "Alice Ricciardi",
-          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
-        }
-      ],
-      "duration_ms": 292720,
-      "name": "Le Tue Mani",
-      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+      },
+      "artists": [
+        {
+          "name": "Alice Ricciardi",
+          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Le Tue Mani",
+      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
-      },
-      "artists": [
-        {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
-        }
-      ],
-      "duration_ms": 241966,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+      },
+      "artists": [
+        {
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+        }
+      ],
+      "duration_ms": 241966,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1755,30 +1755,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Trama Latina",
-        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "David Linx",
-          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
-        },
-        {
-          "name": "Gustavo Beytelmann",
-          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
-        }
-      ],
-      "duration_ms": 370960,
-      "name": "chiquil\u00edn de bach\u00edn",
-      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1831,6 +1807,30 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Trama Latina",
+        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "David Linx",
+          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
+        },
+        {
+          "name": "Gustavo Beytelmann",
+          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
+        }
+      ],
+      "duration_ms": 370960,
+      "name": "chiquil\u00edn de bach\u00edn",
+      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Alchimia",
         "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Contigo Mi Vida",
-        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
       "artists": [
         {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
         }
       ],
-      "duration_ms": 249720,
-      "name": "Contigo Mi Vida",
-      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     }
   ],
   "unique_name": "Jazz Italia",

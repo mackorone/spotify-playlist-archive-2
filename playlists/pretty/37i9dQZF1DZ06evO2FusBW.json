@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11250,
+  "num_followers": 11251,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADQAUeT+ei+g45iowJEjk+B",
+  "snapshot_id": "aoTyAAAAAAD9JRvp3jFz6QIoqe2gk8VY",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+      "duration_ms": 205760,
+      "name": "Essence of Light",
+      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Essence of Light",
-      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotive Piano",
         "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 114633,
       "name": "Perfect Balance",
       "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 432",
         "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 277208,
       "name": "POWER OF THE SEA",
       "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
     },
     {
       "added_at": null,

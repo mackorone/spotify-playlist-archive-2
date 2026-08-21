@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66307,
+  "num_followers": 66321,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALBRpH71UsbZxWB6z1lsvrLQ6NAE",
+  "snapshot_id": "AAAAAMZiaNufo7sIlkkAorDXEXRZaoSa",
   "tracks": [
     {
       "added_at": "2026-07-24 16:38:20",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "Los Palmare\u00f1os 23 A\u00f1os",
+        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
+      },
+      "artists": [
+        {
+          "name": "Los Palmare\u00f1os",
+          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Borracho Sin Destino",
+      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "30 A\u00f1os Despu\u00e9s",
         "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 177893,
       "name": "Mi Caballo Bayo",
       "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Los Palmare\u00f1os 23 A\u00f1os",
-        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
-      },
-      "artists": [
-        {
-          "name": "Los Palmare\u00f1os",
-          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Borracho Sin Destino",
-      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "Yo Te Entiendo Mejor",
+        "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
+      },
+      "artists": [
+        {
+          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
+          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
+        }
+      ],
+      "duration_ms": 184521,
+      "name": "Yo Te Entiendo Mejor",
+      "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 197283,
       "name": "Enero",
       "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Yo Te Entiendo Mejor",
-        "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
-      },
-      "artists": [
-        {
-          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
-          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
-        }
-      ],
-      "duration_ms": 184521,
-      "name": "Yo Te Entiendo Mejor",
-      "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "El Jefe",
         "url": "https://open.spotify.com/album/1TSHkknEf5oMyvK6ohBNhI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 180175,
       "name": "El Jefe",
       "url": "https://open.spotify.com/track/3wRTfnN1YDgha1hbjyKYNP"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -707,38 +707,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "El Legado Continua",
-        "url": "https://open.spotify.com/album/4UYhTHjigibnhwwVJVRf2h"
-      },
-      "artists": [
-        {
-          "name": "Los Majestuosos Del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
-        }
-      ],
-      "duration_ms": 183159,
-      "name": "La yerra",
-      "url": "https://open.spotify.com/track/50J0SkPv1fmGKhdgei7083"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
-      },
-      "artists": [
-        {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
-        }
-      ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Colgando en tus Manos",
         "url": "https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq"
       },
@@ -755,6 +723,22 @@
       "duration_ms": 204360,
       "name": "Colgando en tus Manos",
       "url": "https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -779,18 +763,18 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+        "name": "El Legado Continua",
+        "url": "https://open.spotify.com/album/4UYhTHjigibnhwwVJVRf2h"
       },
       "artists": [
         {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
         }
       ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+      "duration_ms": 183159,
+      "name": "La yerra",
+      "url": "https://open.spotify.com/track/50J0SkPv1fmGKhdgei7083"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -807,6 +791,22 @@
       "duration_ms": 167400,
       "name": "De P\u00e1jaros y Campanas",
       "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 175613,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Costera",
-        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
-      },
-      "artists": [
-        {
-          "name": "Priscila Colom",
-          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
-        }
-      ],
-      "duration_ms": 169391,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Costera",
+        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
+      },
+      "artists": [
+        {
+          "name": "Priscila Colom",
+          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
+        }
+      ],
+      "duration_ms": 169391,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1100,13 +1100,13 @@
       },
       "artists": [
         {
-          "name": "Paquito Aranda",
-          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
         }
       ],
-      "duration_ms": 170893,
-      "name": "A villa Guillermina",
-      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1116,13 +1116,13 @@
       },
       "artists": [
         {
-          "name": "Mario Mill\u00e1n Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
     },
     {
       "added_at": "2026-07-24 16:38:20",

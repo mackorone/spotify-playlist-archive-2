@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Pink Pablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,893 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,813 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Así Soy Yo](https://open.spotify.com/track/2bHLy5hln1ndrh1MwsjHUc) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Así Soy Yo](https://open.spotify.com/album/3MxJ56Kgr93QWm3pCZ9rJ0) | 2:51 |
 | 50 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
 
-Snapshot ID: `AAAAAA56lIO9B7EY/q3lLb2WyyD7SIwZ`
+Snapshot ID: `AAAAAJeAClb2eYJdPCcFW0sQV+zxqyXA`

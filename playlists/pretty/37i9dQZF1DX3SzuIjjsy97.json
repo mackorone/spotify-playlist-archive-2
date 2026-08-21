@@ -1,12 +1,12 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407119,
+  "num_followers": 407118,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALyEjA75DwzEj24XNrOPgZA4wI5W",
+  "snapshot_id": "AAAAAN6Eb0r9M1cUXyENUy2/pNuCOUYj",
   "tracks": [
     {
       "added_at": "2026-07-29 10:41:14",
@@ -472,38 +472,6 @@
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
-        },
-        {
-          "name": "Jasmine Cephas-Jones",
-          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
-        },
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "The Schuyler Sisters",
-      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
           "name": "Lin-Manuel Miranda",
           "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
         },
@@ -527,6 +495,38 @@
       "duration_ms": 333154,
       "name": "My Shot",
       "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "The Schuyler Sisters",
+      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Mean Girls (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
-      },
-      "artists": [
-        {
-          "name": "Kate Rockwell",
-          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
-        },
-        {
-          "name": "Original Broadway Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 225080,
       "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1SCw7GSw06Fpk5vQilILui"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Mean Girls (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+      },
+      "artists": [
+        {
+          "name": "Kate Rockwell",
+          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
+        },
+        {
+          "name": "Original Broadway Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
     },
     {
       "added_at": "2026-07-29 10:41:14",

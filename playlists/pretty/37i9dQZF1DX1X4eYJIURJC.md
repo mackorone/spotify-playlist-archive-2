@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain]
 
 > De mooiste Nederlandse liefdesliedjes verzameld
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,565 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,568 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain]
 | 31 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 |
 | 32 | [I Would Stay](https://open.spotify.com/track/3GZFKiGVYv3SBQ6PLf3JgF) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Nothing Less](https://open.spotify.com/album/5EHtWW8MZGFxOQ8meNiqeR) | 3:51 |
 | 33 | [Michel](https://open.spotify.com/track/4rn5MWk1ZPrW2Qjhv3xt5t) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Urban Solitude](https://open.spotify.com/album/1r1ojSn9TwXWeYY481dTR1) | 4:09 |
-| 34 | [Blijf Nog Even Hier \(feat\. Paskal Jakobsen\)](https://open.spotify.com/track/49Kh1urdQ6y3ozAhYISnBv) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Hallo Met Mij](https://open.spotify.com/album/4cJAK6hENqRInHm1clemmF) | 3:29 |
+| 34 | [Blijf Nog Even Hier](https://open.spotify.com/track/49Kh1urdQ6y3ozAhYISnBv) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Hallo Met Mij](https://open.spotify.com/album/4cJAK6hENqRInHm1clemmF) | 3:29 |
 | 35 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
 | 36 | [Mijn Liefste](https://open.spotify.com/track/4vJhMBh5CUfrWyB28VzRbS) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Mijn Liefste](https://open.spotify.com/album/0e8GrRuDkn3Ggvi1i1KqNg) | 3:16 |
 | 37 | [Tot Jij Mijn Liefde Voelt](https://open.spotify.com/track/7CRyJHhiG0QRk3IAT3Xwso) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Leef!](https://open.spotify.com/album/6Jtp62BG5pexHBcBAidJ0m) | 3:55 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain]
 | 54 | [Hoeveel Ik Van Je Hou](https://open.spotify.com/track/0tQUi7zkVGHWf8dDY9NPYc) | [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Hoeveel Ik Van Je Hou](https://open.spotify.com/album/3Xdvmx5uuSGYnA9a5Pg73u) | 3:10 |
 | 55 | [Alles Geprobeerd \- Remastered](https://open.spotify.com/track/6Mq07GEaZxpOFITmaKwLKZ) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/5uNcYibmvWYseOaHHU2UdR) | 6:13 |
 
-Snapshot ID: `AAAAAIsL0hpJcGR7/7klCUMTs/bB/TtY`
+Snapshot ID: `AAAAANHBZTmYD4TPnC1eVEgo3KR8KGua`

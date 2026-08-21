@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 145489,
+  "num_followers": 145532,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEaol4YSwqxbL1z5AfgG+To8e0at",
+  "snapshot_id": "AAAAAB9ozhn/1stJ+0RrZLvi/z17icmE",
   "tracks": [
     {
       "added_at": "2024-07-09 16:44:07",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/0KmvHxNnawB6P5yqdWktCW"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+      "duration_ms": 287933,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/0KmvHxNnawB6P5yqdWktCW"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Gold - The Best of Spandau Ballet",
         "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 231480,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
-        "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
-      },
-      "artists": [
-        {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
-        }
-      ],
-      "duration_ms": 161286,
-      "name": "De Bom",
-      "url": "https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Het Beste Van Klein Orkest",
         "url": "https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 209493,
       "name": "Over De Muur",
       "url": "https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
+        "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 161286,
+      "name": "De Bom",
+      "url": "https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Hello, I Must Be Going",
-        "url": "https://open.spotify.com/album/0FqbBSfKYpnhGWa5M1TxkY"
+        "name": "Brothers In Arms (Remastered)",
+        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 175346,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/4YUlGNZfYA6EUE5KDsGqpC"
+      "duration_ms": 249960,
+      "name": "Walk Of Life",
+      "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
     }
   ],
   "unique_name": "80's Allerbeste",

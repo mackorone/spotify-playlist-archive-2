@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Iqbal, BAD Junkie, Dhoot Mani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,096 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,116 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Price](https://open.spotify.com/track/0lytH5hWcasqEhdqyctvGE) | [Ace Cheema](https://open.spotify.com/artist/3F6AM6L6e1Etc8vPgIB6NO), [DLJT](https://open.spotify.com/artist/1daMl9RMxIuGwUAX9cXgFI), [Kambo](https://open.spotify.com/artist/6loadYwLyghfaWZXbDfcHi) | [Price](https://open.spotify.com/album/3ZTeRDaqZ19ff4xOUcAm6q) | 3:38 |
 | 75 | [Top Tier](https://open.spotify.com/track/41r9ZEXKHCb1J0tODvuWxA) | [ARSH](https://open.spotify.com/artist/0vzZDYE6Z4rvZXMReRwlHi), [Inder Saini](https://open.spotify.com/artist/7o7RSfgBdKZH06WSC4lwSx) | [Top Tier](https://open.spotify.com/album/6ZKMdzlq0L5VxnDZZOStey) | 2:43 |
 
-Snapshot ID: `AAAAAJJgEPg7Gws0Cpf/PXQkU7SRMUp/`
+Snapshot ID: `AAAAALpsU+sKYdcdgCUlJRe2idkp8Eka`

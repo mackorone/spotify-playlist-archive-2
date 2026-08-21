@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL met o.a. Antoon. <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
+  "description": "De 50 grootste hits in NL met cover: Aitch. <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 127493,
       "name": "AL ME LADIES (feat. Scarface)",
       "url": "https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo"
@@ -8741,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
+      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -9018,7 +9036,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164653,
       "name": "Pakt Mij",
       "url": "https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME"
@@ -10424,6 +10442,28 @@
       "duration_ms": 163976,
       "name": "Sluit Me In Je Armen",
       "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "album": {
+        "name": "DJ ROFFA (LIVE @ FLEX FM)",
+        "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144491,
+      "name": "SMAAKT NAAR WATER",
+      "url": "https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B"
     },
     {
       "album": {
@@ -11836,7 +11876,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
@@ -13418,6 +13458,24 @@
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
+    },
+    {
+      "album": {
+        "name": "Zomer, Zon & Strand",
+        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Zomer, Zon & Strand",
+      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "album": {

@@ -37291,6 +37291,24 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7eN3kmvuJ4oNLr0seQ5eLU"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3"
+    },
+    {
+      "album": {
         "name": "Petaxa",
         "url": "https://open.spotify.com/album/4NF6j1nQ3XbWCtj4KEY4mZ"
       },
@@ -37802,7 +37820,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184924,
       "name": "Pi\u00f9 in Alto",
       "url": "https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v"

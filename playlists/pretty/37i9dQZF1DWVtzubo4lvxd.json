@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 112060,
+  "num_followers": 112053,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFsHCS7BAVNUddMQGZ6nHbUgxJp",
+  "snapshot_id": "AAAAAHENI//FesK69YFxtX5wClcTKZ/d",
   "tracks": [
     {
       "added_at": "2024-03-12 14:33:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
-      },
-      "artists": [
-        {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "time's arrow",
         "url": "https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 138812,
       "name": "time's arrow",
       "url": "https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Through The Garden",
-        "url": "https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC"
+        "name": "Milk & Cookies",
+        "url": "https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6"
       },
       "artists": [
         {
-          "name": "eze east",
-          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
         }
       ],
-      "duration_ms": 126486,
-      "name": "Through The Garden",
-      "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
+      "duration_ms": 124235,
+      "name": "Milk & Cookies",
+      "url": "https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Through The Garden",
+        "url": "https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "duration_ms": 126486,
+      "name": "Through The Garden",
+      "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Autumn Briefs",
         "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 145242,
       "name": "Autumn Briefs",
       "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Milk & Cookies",
-        "url": "https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6"
-      },
-      "artists": [
-        {
-          "name": "Cloudsurfin'",
-          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "Milk & Cookies",
-      "url": "https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -971,26 +971,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Everywhere Home",
-        "url": "https://open.spotify.com/album/3hSioPf1pQddF0pUKDK2s0"
+        "name": "Cerveza",
+        "url": "https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel"
       },
       "artists": [
         {
-          "name": "Aytun",
-          "url": "https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY"
-        },
-        {
-          "name": "Can Menek",
-          "url": "https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ"
-        },
-        {
-          "name": "DJ Daddy E",
-          "url": "https://open.spotify.com/artist/00oHhGfAfmXp67aR5QrkRQ"
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Everywhere Home",
-      "url": "https://open.spotify.com/track/5iEcmnWLroqZNsDOeLdAqw"
+      "duration_ms": 179250,
+      "name": "Cerveza",
+      "url": "https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1011,18 +1003,26 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Cerveza",
-        "url": "https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel"
+        "name": "Everywhere Home",
+        "url": "https://open.spotify.com/album/3hSioPf1pQddF0pUKDK2s0"
       },
       "artists": [
         {
-          "name": "Sebastian Kamae",
-          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+          "name": "Aytun",
+          "url": "https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY"
+        },
+        {
+          "name": "Can Menek",
+          "url": "https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ"
+        },
+        {
+          "name": "DJ Daddy E",
+          "url": "https://open.spotify.com/artist/00oHhGfAfmXp67aR5QrkRQ"
         }
       ],
-      "duration_ms": 179250,
-      "name": "Cerveza",
-      "url": "https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6"
+      "duration_ms": 250666,
+      "name": "Everywhere Home",
+      "url": "https://open.spotify.com/track/5iEcmnWLroqZNsDOeLdAqw"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Vanilla Sky",
+        "url": "https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD"
+      },
+      "artists": [
+        {
+          "name": "Trell Daniels",
+          "url": "https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q"
+        }
+      ],
+      "duration_ms": 123447,
+      "name": "Vanilla Sky",
+      "url": "https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "CRAFT",
         "url": "https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Froosh",
-        "url": "https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 117577,
-      "name": "Froosh",
-      "url": "https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Floating Free",
         "url": "https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD"
+        "name": "Froosh",
+        "url": "https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF"
       },
       "artists": [
         {
-          "name": "Trell Daniels",
-          "url": "https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 123447,
-      "name": "Vanilla Sky",
-      "url": "https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W"
+      "duration_ms": 117577,
+      "name": "Froosh",
+      "url": "https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1"
     },
     {
       "added_at": "2024-03-12 14:33:08",

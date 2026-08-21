@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876,943 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877,664 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Jaate Hue Lamhon \(From "BORDER 2"\)](https://open.spotify.com/track/0BPm2ZCYW1DBMNfQKLSNpi) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Jaate Hue Lamhon \(From "BORDER 2"\)](https://open.spotify.com/album/4CVNevhXz2vS2g8sA4iLl9) | 5:43 |
 | 75 | [Mashooqa \- From “Cocktail 2”](https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Mashooqa \(From “Cocktail 2”\)](https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac) | 3:50 |
 
-Snapshot ID: `AAAAACq90UFvye0rup7e1YiPs4030ZcI`
+Snapshot ID: `AAAAABfV+ddY9CGVoqLEYLctmfYFp7WG`

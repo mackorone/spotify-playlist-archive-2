@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: The Healing Power of Horses
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,447 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,445 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Grazer](https://open.spotify.com/track/6x5YxvJ6jFKTSCNU8FfJ2U) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Grazer](https://open.spotify.com/album/4NcqO8MWjbvLaWcCAU7EeT) | 2:28 |
 | 50 | [Home Ground](https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Home Ground](https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS) | 3:10 |
 
-Snapshot ID: `AAAAAC8kykzaYa8HYeMZ659fBsBH3ezO`
+Snapshot ID: `AAAAAD9exdkh0O42WCVWjrgc2/TMxZhl`

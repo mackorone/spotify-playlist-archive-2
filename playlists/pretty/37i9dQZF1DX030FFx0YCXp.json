@@ -1,12 +1,12 @@
 {
   "description": "Crowd-pleasing favorites for an easy, carefree day. ",
-  "num_followers": 471089,
+  "num_followers": 471099,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJq5sssQqU73HfwovS4YEay8wZcz",
+  "snapshot_id": "AAAAAFmJUnMpcck4FqUgppoWUy7oiF92",
   "tracks": [
     {
       "added_at": "2026-06-30 13:32:35",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Got a Story to Tell",
         "url": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 210320,
       "name": "Live For You",
       "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 215400,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 141506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "Mexico - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "Mexico - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 229304,
-      "name": "Turn to Stone",
-      "url": "https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 250840,
       "name": "Feelin' Alright",
       "url": "https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 229304,
+      "name": "Turn to Stone",
+      "url": "https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The Essential Kansas",
-        "url": "https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "365 Flavors",
         "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 238410,
       "name": "365 Flavors",
       "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The Essential Kansas",
+        "url": "https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
     },
     {
       "added_at": "2026-06-30 13:32:35",

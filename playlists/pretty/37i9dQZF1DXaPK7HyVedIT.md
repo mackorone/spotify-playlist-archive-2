@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Double MZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,908 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,765 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [I Love a Robot \- Radio Edit](https://open.spotify.com/track/5bOoRLgZvjw1jkvyrH7jM9) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [André Moret](https://open.spotify.com/artist/77TawwjtLlpegPo23bblci) | [I Love a Robot](https://open.spotify.com/album/4LyXPrLbtyfBYKK35DMlV7) | 5:45 |
 | 80 | [Belong](https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Belong](https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ) | 3:07 |
 
-Snapshot ID: `AAAAAMEfatIjKIJKHLIUK9KtWJ8I+FKG`
+Snapshot ID: `AAAAAJJ3TJYqyagxeelwFnUE78nxmxHv`

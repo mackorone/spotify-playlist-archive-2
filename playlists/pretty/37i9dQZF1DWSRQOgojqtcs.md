@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,731 likes - 336 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,736 likes - 336 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -345,4 +345,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 335 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 |
 | 336 | [Come On](https://open.spotify.com/track/7I0X2MQkZDngxQ2NDMOfWP) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 2:49 |
 
-Snapshot ID: `AAAAAMEe5bjJXWmpkm+kf8go2iWT7bPP`
+Snapshot ID: `AAAAAEtquluPk/+jeXhmjJWxIlSVXoTp`

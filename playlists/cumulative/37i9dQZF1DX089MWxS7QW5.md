@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Urban Zakapa\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: george\)
 
-665 songs - 1 day 11 hr 34 min
+666 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
 | [Arcade](https://open.spotify.com/track/69zoAcTmHBiBlum588OmzB) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [Arcade](https://open.spotify.com/album/6EcuIThgkeOxxtjmf4lHSf) | 3:19 | 2024-08-30 | 2024-12-06 |
 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 | 2024-02-22 | 2024-06-18 |
-| [arrrt.](https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [arrrt.](https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95) | 2:14 | 2026-03-20 |  |
+| [arrrt.](https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [arrrt.](https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95) | 2:14 | 2026-03-20 | 2026-08-21 |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 | 2024-01-09 |
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 | 2023-11-03 |
 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 | 2024-08-16 | 2024-10-15 |
@@ -79,6 +79,7 @@
 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 | 2023-11-02 | 2024-04-05 |
 | [Better days](https://open.spotify.com/track/07Utc2eDfDkCvbcKePEvhM) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Better days](https://open.spotify.com/album/1BE3pQDNd6RXRGVZUNoaVt) | 3:23 | 2025-04-18 | 2025-08-06 |
 | [beyond the trivial](https://open.spotify.com/track/3efWpp73W5W9mgwFO8adaO) | [yeni](https://open.spotify.com/artist/6SVK1qUJW8PpJOoytQcfsZ) | [beyond the trivial](https://open.spotify.com/album/0vbEPIxhYDdXf1XlWJTfpK) | 3:44 | 2024-12-05 | 2025-04-10 |
+| [bgf](https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [solsol\~ condo](https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm) | 3:22 | 2026-08-20 |  |
 | [Bittersweet](https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C) | [sewoong](https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf) | [Fisherman's knot](https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7) | 4:17 | 2022-05-28 | 2022-07-06 |
 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-24 | 2025-02-15 |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-11-14 | 2023-04-28 |

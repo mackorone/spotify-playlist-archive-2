@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343635,
+  "num_followers": 343667,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAACLmNl2At6wtqRcK8xLq+KU",
+  "snapshot_id": "aoTyAAAAAADFpYRhi0xsYrtKfBdfNn3i",
   "tracks": [
     {
       "added_at": null,
@@ -618,11 +618,15 @@
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Brix",
+          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
         }
       ],
-      "duration_ms": 171925,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
+      "duration_ms": 254277,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
     },
     {
       "added_at": null,
@@ -686,15 +690,11 @@
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Brix",
-          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
         }
       ],
-      "duration_ms": 254277,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+      "duration_ms": 171925,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Bailee Ann",
-          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
-        }
-      ],
-      "duration_ms": 215477,
-      "name": "Tears Could Talk",
-      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enlisted",
         "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 280647,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Bailee Ann",
+          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
+        }
+      ],
+      "duration_ms": 215477,
+      "name": "Tears Could Talk",
+      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
     },
     {
       "added_at": null,

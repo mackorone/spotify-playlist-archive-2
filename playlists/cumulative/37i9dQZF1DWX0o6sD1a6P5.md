@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tiakola
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Victony
 
-987 songs - 1 day 23 hr 51 min
+989 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-05-05 | 2022-07-22 |
 | [DAIMA](https://open.spotify.com/track/5WFUk8klSJyJvcyN2PMStX) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7) | [DAIMA](https://open.spotify.com/album/4vxQnzgmLxkXxsbtNWXk1X) | 3:26 | 2022-05-12 | 2022-06-03 |
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-03-17 | 2022-06-17 |
+| [Dans celle là](https://open.spotify.com/track/6wmiUTohVGHN4lvAGie03u) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [Dans celle là](https://open.spotify.com/album/0vHMH7W2o524ZBUcVCdHBD) | 3:24 | 2026-08-20 |  |
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2021-12-27 | 2022-03-11 |
 | [Dans tes yeux](https://open.spotify.com/track/7f9HrL9JAeIP94Ab5rPq67) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Black Lover](https://open.spotify.com/album/2R3RIQf4fImPAG9QtW2fMi) | 2:57 | 2024-03-07 | 2024-04-26 |
 | [Dantsido \(Toc Toc Toc\)](https://open.spotify.com/track/1NUEUFueiCYana070TfNa0) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Dantsido \(Toc Toc Toc\)](https://open.spotify.com/album/708goXDKDeNZQEZfWlgnuX) | 2:34 | 2022-09-15 | 2023-02-10 |
@@ -374,7 +375,7 @@
 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 | 2023-11-16 | 2024-05-10 |
 | [Gili Gili](https://open.spotify.com/track/5NLTu65fiIbo6BadXjyIYB) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Masta Dégât](https://open.spotify.com/album/6nYK0U8HOFENSCgntdKSFs) | 3:17 | 2025-11-06 | 2026-01-30 |
 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-04-25 | 2026-03-27 |
-| [Gimme Dat Ting \(with NO11\)](https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Gimme Dat Ting](https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc) | 4:03 | 2026-07-16 |  |
+| [Gimme Dat Ting \(with NO11\)](https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Gimme Dat Ting](https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc) | 4:03 | 2026-07-16 | 2026-08-21 |
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-05-05 | 2022-09-09 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2022-11-18 |
 | [Go Bébé \(feat\. Lixx\)](https://open.spotify.com/track/0shC9n2Ih1de0fSw8YcGoF) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Lixx](https://open.spotify.com/artist/6TfZaDFnfzNVj2YXgRUo9d) | [Go Bébé \(feat\. Lixx\)](https://open.spotify.com/album/0i7jOzWkrJXvRPI5kfwcwY) | 3:11 | 2022-09-08 | 2023-01-20 |
@@ -604,6 +605,7 @@
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-02 | 2023-04-07 |
 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 | 2025-01-30 | 2025-04-25 |
 | [Moving](https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl) | 2:20 | 2024-09-12 | 2025-07-25 |
+| [Ms\. Paper \(feat\. Theodora\)](https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:48 | 2026-08-20 |  |
 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 | 2022-03-17 | 2022-03-23 |
 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-12 | 2023-12-08 |
 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-03-27 | 2026-03-27 |
@@ -748,7 +750,7 @@
 | [PSYCHOLOGIQUE](https://open.spotify.com/track/2fuHzxuylp3hH7XcVABSlw) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 3:55 | 2024-09-19 | 2025-06-13 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-24 | 2025-06-13 |
 | [PÉLÉLÉ](https://open.spotify.com/track/1ty1KGq9vkeJtdMbWlayy3) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [ÉTÉ 2015](https://open.spotify.com/album/2v5GHFsBWSsajT1gJbBYXm) | 3:13 | 2025-07-03 | 2025-09-20 |
-| [Pépélé](https://open.spotify.com/track/116oQKB5iCmADxg2wvJdcG) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 2:31 | 2026-07-16 |  |
+| [Pépélé](https://open.spotify.com/track/116oQKB5iCmADxg2wvJdcG) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 2:31 | 2026-07-16 | 2026-08-21 |
 | [Que pasa ?](https://open.spotify.com/track/4nZUm9YNohN4D8UMjUUSEz) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Que pasa ?](https://open.spotify.com/album/4esjg44qbzzWZYVtsPtiJG) | 2:56 | 2025-05-15 | 2025-08-08 |
 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 | 2021-12-27 | 2022-01-21 |
 | [Quitter](https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Quitter](https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf) | 2:15 | 2024-08-15 | 2024-12-13 |

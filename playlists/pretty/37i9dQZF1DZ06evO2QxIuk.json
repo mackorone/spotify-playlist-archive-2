@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375659,
+  "num_followers": 375665,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAADCJduuH4VRQqMuYbZ20xfR",
+  "snapshot_id": "aoTyAAAAAABDGJlhjsY5wAMME2RsIFlo",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Of The Pop' s Vol. 2/'99",
         "url": "https://open.spotify.com/album/3fev7GRcXpqwTIAVZaHh4V"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 222400,
       "name": "September '99 - Phats & Small Remix",
       "url": "https://open.spotify.com/track/6Z6my7Cpi5BongU2fsY96l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Mighty Mighty",
+      "url": "https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sun Goddess",
         "url": "https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 509524,
       "name": "Sun Goddess (feat. Ramsey Lewis)",
       "url": "https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Our Eyes",
-        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Mighty Mighty",
-      "url": "https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: อูโน่ หลาวทอง
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,037 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,049 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 75 | [ถ้าเกิด \(If Only\)](https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ถ้าเกิด \(If Only\)](https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv) | 4:24 |
 
-Snapshot ID: `AAAAANmkNVaSfcT++b6N+vme5WYZxDGb`
+Snapshot ID: `AAAAAPCq/cJ5Sp+DsHHje+0OfFRfafIW`

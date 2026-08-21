@@ -1,12 +1,12 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 10004,
+  "num_followers": 10020,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEk7R2uOM/cRaEhx0WjnALL+H3zb",
+  "snapshot_id": "AAAAALRG1AYvgB9IRXaCwmTHnGe78PAs",
   "tracks": [
     {
       "added_at": "2026-02-20 08:28:52",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Kabribi Kyere Me",
-        "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
-      },
-      "artists": [
-        {
-          "name": "Oheneba Kissi",
-          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Kabribi Kyere Me",
-      "url": "https://open.spotify.com/track/24cfDtX6PVvheoS0Kb4n6W"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Owo Moti",
         "url": "https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 334893,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Kabribi Kyere Me",
+        "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
+      },
+      "artists": [
+        {
+          "name": "Oheneba Kissi",
+          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Kabribi Kyere Me",
+      "url": "https://open.spotify.com/track/24cfDtX6PVvheoS0Kb4n6W"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+        "name": "Katamanto Highlife Orchestra",
+        "url": "https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs"
       },
       "artists": [
         {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+          "name": "Katamanto Highlife Orchestra",
+          "url": "https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP"
         }
       ],
-      "duration_ms": 344790,
-      "name": "Wafom",
-      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
+      "duration_ms": 272533,
+      "name": "Maafio",
+      "url": "https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Katamanto Highlife Orchestra",
-        "url": "https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs"
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
       },
       "artists": [
         {
-          "name": "Katamanto Highlife Orchestra",
-          "url": "https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP"
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
         }
       ],
-      "duration_ms": 272533,
-      "name": "Maafio",
-      "url": "https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w"
+      "duration_ms": 344790,
+      "name": "Wafom",
+      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
     },
     {
       "added_at": "2026-02-20 08:28:52",

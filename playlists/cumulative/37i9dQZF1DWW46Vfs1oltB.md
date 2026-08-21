@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: Cortis, Juicy J\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Tiger JK, YOON MIRAE\)
 
-1,950 songs - 4 day 7 hr 59 min
+1,951 songs - 4 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [16bars \(Feat\. The Quiett\)](https://open.spotify.com/track/0DiRLmeAbBQdjLfHSghbgO) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Voice tool tip.txt 2](https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd) | 3:26 | 2025-04-28 | 2025-07-24 |
 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-08 | 2025-07-24 |
 | [2 Chainz & Rollies \(Feat\. Dok2\)](https://open.spotify.com/track/5Kv4Gy3pu0Dk9Zn7zjOrjR) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [AMBITIQN](https://open.spotify.com/album/5iYrf1CKZqWBrrvn3OlnZE) | 4:34 | 2026-02-04 | 2026-02-12 |
-| [2 Chainz & Rollies 2026 \(Feat\. The Quiett\) \(Prod\. by Lil Moshpit\)](https://open.spotify.com/track/4fLEhL7E1SJhvZNL4ZSCpW) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 3:28 | 2026-03-30 |  |
+| [2 Chainz & Rollies 2026 \(Feat\. The Quiett\) \(Prod\. by Lil Moshpit\)](https://open.spotify.com/track/4fLEhL7E1SJhvZNL4ZSCpW) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 3:28 | 2026-03-30 | 2026-08-21 |
 | [20](https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [20](https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom) | 3:29 | 2024-06-27 | 2024-10-24 |
 | [20 blues](https://open.spotify.com/track/0VbuqkKfdUFbffJMyitMNI) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [20 blues](https://open.spotify.com/album/0NvFgGERMLnzNlYp0eLZqW) | 3:11 | 2022-05-04 | 2022-06-08 |
 | [20/22](https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [20/22](https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB) | 3:02 | 2022-05-04 | 2022-07-05 |
@@ -940,6 +940,7 @@
 | [Lemonade](https://open.spotify.com/track/03OKiv1znP47CTa89sJIXH) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa) | [Exit Wounds](https://open.spotify.com/album/5U2gLisF6YBhdDhK9uJ1Re) | 2:20 | 2026-04-01 | 2026-04-11 |
 | [Let me know, God \(Feat\. C JAMM, Jvcki Wai\)](https://open.spotify.com/track/35QdNOzsIMw1ZXElaGH8Ec) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [NEO CHRISTIAN](https://open.spotify.com/album/53L4UEcxgbL0XE1XXN6B3h) | 4:38 | 2021-12-18 | 2022-06-10 |
 | [Let Me Love U](https://open.spotify.com/track/0BjZ4rOlYdrBsz9Kuw9NRg) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Love & Life, The Album](https://open.spotify.com/album/5OsQYlpgTlOLCpMH60dQ3n) | 3:17 | 2024-04-19 | 2024-04-27 |
+| [Let Me Love You](https://open.spotify.com/track/1rpitVTCgfqKNyLtjuHuZh) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Let Me Love You](https://open.spotify.com/album/7avF0XIPzKKb1kjlJX0Con) | 2:58 | 2026-08-20 |  |
 | [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 | 2024-02-19 | 2024-06-05 |
 | [Let's Go \(feat\. Fleeky Bang\)](https://open.spotify.com/track/0Qe1QL74zOCXXsjocELGcJ) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [Tray Show](https://open.spotify.com/album/5qhtTUHbINUWv1f1bjcL5s) | 2:56 | 2026-01-23 | 2026-07-10 |
 | [Lia Kim & Harimu\_KrOWN](https://open.spotify.com/track/0R0fJ3XEpJjDeFAuKEwJu7) | [Lia Kim & Harimu](https://open.spotify.com/artist/2dbGILye8Ibh7HH9YG2utg) | [KrOWN audio liner](https://open.spotify.com/album/2CK8cbiX3HwXY4K2qzmxJv) | 0:03 | 2023-12-15 | 2024-03-09 |

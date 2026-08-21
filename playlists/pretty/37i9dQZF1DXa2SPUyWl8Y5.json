@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 564891,
+  "num_followers": 564930,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZfA/z9OMGujiimLBCYuJNPPjeW",
+  "snapshot_id": "AAAAAAXIiVnOQrs90Lf36yxYzKDdiVO8",
   "tracks": [
     {
       "added_at": "2026-06-11 06:56:41",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Meertraum",
-        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        }
-      ],
-      "duration_ms": 394418,
-      "name": "Meertraum",
-      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 188160,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Meertraum",
+        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        }
+      ],
+      "duration_ms": 394418,
+      "name": "Meertraum",
+      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 445881,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Hailstorm (Ann Clue Remix)",
+        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        },
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 382486,
+      "name": "Hailstorm - Ann Clue Remix",
+      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Hailstorm (Ann Clue Remix)",
-        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        },
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 382486,
-      "name": "Hailstorm - Ann Clue Remix",
-      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Curve | The Arc",
         "url": "https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 515111,
       "name": "Curve",
       "url": "https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
-      },
-      "artists": [
-        {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Hegn",
         "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 386130,
       "name": "Hegn",
       "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     },
     {
       "added_at": "2026-06-11 06:56:41",

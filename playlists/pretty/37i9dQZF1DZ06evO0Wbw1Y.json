@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 28980,
+  "num_followers": 28979,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAByZHDGcF1gWzoiY84EvzW8",
+  "snapshot_id": "aoTyAAAAAACuDb1LfUmZOvTfaXHtvgWU",
   "tracks": [
     {
       "added_at": null,
@@ -686,11 +686,15 @@
         {
           "name": "Caracol Televisi\u00f3n",
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        },
+        {
+          "name": "Santiago Deluchi",
+          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
         }
       ],
-      "duration_ms": 158613,
-      "name": "Entre Mis Planes - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/4u1nJinarCNYXhbyE9LIb3"
+      "duration_ms": 174259,
+      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
     },
     {
       "added_at": null,
@@ -754,15 +758,11 @@
         {
           "name": "Caracol Televisi\u00f3n",
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        },
-        {
-          "name": "Santiago Deluchi",
-          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
         }
       ],
-      "duration_ms": 174259,
-      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
+      "duration_ms": 158613,
+      "name": "Entre Mis Planes - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/4u1nJinarCNYXhbyE9LIb3"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 150424,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+      "duration_ms": 150424,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
     },
     {
       "added_at": null,

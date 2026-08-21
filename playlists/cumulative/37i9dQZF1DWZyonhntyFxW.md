@@ -4,7 +4,7 @@
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: عفروتو
 
-488 songs - 23 hr 46 min
+488 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,6 @@
 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 | 2024-05-17 |  |
 | [El\-Balad Baladna](https://open.spotify.com/track/22bcOGR9lJI89ZXRjT0eXd) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [El\-Balad Baladna](https://open.spotify.com/album/6SEsaNegij1N9TD32er7fB) | 3:38 | 2024-08-12 | 2024-09-05 |
 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 | 2023-03-22 | 2023-05-26 |
-| [ElDalma](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 1:39 | 2026-08-12 |  |
 | [ElNaw Wy](https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [ElNaw Wy](https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb) | 2:29 | 2022-12-17 | 2023-02-24 |
 | [ELWA3D](https://open.spotify.com/track/4G5MF3PpirGQEa4UNrb9KB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [ELWA3D](https://open.spotify.com/album/5GxrUw0M57yEf8vMQgso2o) | 3:48 | 2025-04-21 |  |
 | [ENT BTRSHD](https://open.spotify.com/track/1mIR4JZJqvkcWdbkpeji44) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 3:16 | 2024-05-24 | 2024-05-28 |
@@ -228,6 +227,7 @@
 | [kawabes](https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [uncl](https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6) | [Kawabes](https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW) | 2:43 | 2023-09-30 | 2023-10-06 |
 | [Kaza Haga](https://open.spotify.com/track/1O5LEAhDtlAXzamXEyuTP9) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Kaza Haga](https://open.spotify.com/album/1ZLQ1HRSdS9SpjUuQLxagw) | 2:54 | 2024-05-01 | 2024-06-10 |
 | [KEBDA](https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:50 | 2025-08-12 | 2026-02-26 |
+| [Keep Calm](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 3:22 | 2026-08-12 |  |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-10 | 2022-12-27 |
 | [Khalsana 2 \(Intro\)](https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 2:07 | 2024-12-19 | 2025-06-11 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-21 | 2023-08-25 |

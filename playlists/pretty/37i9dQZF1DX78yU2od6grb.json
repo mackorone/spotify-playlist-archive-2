@@ -1,12 +1,12 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 528232,
+  "num_followers": 528165,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKWRi5scA/kpOpohF+y3x//DlLeC",
+  "snapshot_id": "AAAAAChrcgx75joL2dzVEZIa/ZbgDMFH",
   "tracks": [
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Forget About Me",
-        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
       },
@@ -1551,22 +1527,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Waiting for the Summer",
-        "url": "https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7"
+        "name": "Forget About Me",
+        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "Graham Candy",
-          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
         }
       ],
-      "duration_ms": 168491,
-      "name": "Waiting for the Summer",
-      "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
+      "duration_ms": 177637,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1619,6 +1599,26 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Waiting for the Summer",
+        "url": "https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        }
+      ],
+      "duration_ms": 168491,
+      "name": "Waiting for the Summer",
+      "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
     },
     {
       "added_at": "2025-02-07 03:01:15",

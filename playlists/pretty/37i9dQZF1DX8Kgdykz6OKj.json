@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1589775,
+  "num_followers": 1589914,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEeUA4T0IAbLWZh8UIoUBPuKpLpB",
+  "snapshot_id": "AAAAAAJD7wnUesA1GLv38aS7y/W5VAEc",
   "tracks": [
     {
       "added_at": "2026-08-14 04:00:31",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Live Laugh Love",
-        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 173999,
-      "name": "TOURMALINE",
-      "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+      "duration_ms": 173999,
+      "name": "TOURMALINE",
+      "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Blowout Comb",
         "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 279373,
       "name": "Jettin'",
       "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -851,6 +851,30 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
         "name": "FATHERS",
         "url": "https://open.spotify.com/album/1EeNAliCb18UrU84kfqWmh"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 158106,
       "name": "PATCHWORK",
       "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Pray For Haiti",
-        "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 114329,
-      "name": "No Blood No Sweat",
-      "url": "https://open.spotify.com/track/4DCZxox8ZvICoaG02cxHnj"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Sleep Is the Cousin of Death",
         "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 154837,
       "name": "Street Jazz",
       "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Pray For Haiti",
+        "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 114329,
+      "name": "No Blood No Sweat",
+      "url": "https://open.spotify.com/track/4DCZxox8ZvICoaG02cxHnj"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
+        "name": "vitamins n minerals",
+        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 150312,
+      "name": "vitamins n minerals",
+      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "vitamins n minerals",
-        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 150312,
-      "name": "vitamins n minerals",
-      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Quiet Miles",
-        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
         }
       ],
-      "duration_ms": 153142,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1779,26 +1763,18 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "FRIENDLY FIRE",
-        "url": "https://open.spotify.com/album/51Sff7vFg9shG3eRSRPE50"
+        "name": "Quiet Miles",
+        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
       },
       "artists": [
         {
-          "name": "PARTYOF2",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 191826,
-      "name": "FRIENDLY FIRE (with Jadagrace and SWIM)",
-      "url": "https://open.spotify.com/track/7EefaTBcP8s9qH7JvEXwoR"
+      "duration_ms": 153142,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1819,6 +1795,30 @@
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "FRIENDLY FIRE",
+        "url": "https://open.spotify.com/album/51Sff7vFg9shG3eRSRPE50"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "FRIENDLY FIRE (with Jadagrace and SWIM)",
+      "url": "https://open.spotify.com/track/7EefaTBcP8s9qH7JvEXwoR"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1883,26 +1883,18 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "The Kaible",
-        "url": "https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah"
+        "name": "Clutch My Bag",
+        "url": "https://open.spotify.com/album/4Gu8yikbv2SCxwE7N4miue"
       },
       "artists": [
         {
-          "name": "Kai Banks",
-          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
-        },
-        {
-          "name": "La Reezy",
-          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
-        },
-        {
-          "name": "Mileena",
-          "url": "https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu"
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 181379,
-      "name": "Too Deep For The Outro",
-      "url": "https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD"
+      "duration_ms": 143649,
+      "name": "Clutch My Bag",
+      "url": "https://open.spotify.com/track/1SWAjSJbvr9yJ6HaKgZjE2"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1927,6 +1919,30 @@
       "duration_ms": 157500,
       "name": "UP & AWAY!",
       "url": "https://open.spotify.com/track/5yMM5wMKQJC0oIC8kFnMAD"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "The Kaible",
+        "url": "https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah"
+      },
+      "artists": [
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        },
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        },
+        {
+          "name": "Mileena",
+          "url": "https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu"
+        }
+      ],
+      "duration_ms": 181379,
+      "name": "Too Deep For The Outro",
+      "url": "https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1967,26 +1983,6 @@
       "duration_ms": 144805,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "Out Of My Hands (feat. Oddisee)",
-        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acY",
-          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Out Of My Hands (feat. Oddisee)",
-      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
     }
   ],
   "unique_name": "Jazz Rap",

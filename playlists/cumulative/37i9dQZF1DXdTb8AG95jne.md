@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SUMIN\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Silica Gel\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,391 songs - 3 day 12 hr 12 min
+1,393 songs - 3 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2024-11-21 |
 | [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 | 2024-11-06 | 2025-01-02 |
 | [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 | 2026-05-20 |  |
-| [Comma](https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1) | [He\_eul](https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor), [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Comma](https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l) | 2:59 | 2026-04-27 |  |
+| [Comma](https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1) | [He\_eul](https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor), [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Comma](https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l) | 2:59 | 2026-04-27 | 2026-08-21 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
@@ -444,6 +444,7 @@
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
 | [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 | 2025-03-29 |
 | [Godspeed](https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [Godspeed](https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC) | 4:14 | 2026-03-30 | 2026-05-30 |
+| [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 | 2026-08-20 |  |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [GOM](https://open.spotify.com/track/6vwYtXrVDgYHsAfqbpqt44) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [GOM](https://open.spotify.com/album/1909JtfyOew0GsMkRxl8x1) | 3:47 | 2026-03-20 | 2026-04-28 |
 | [GONE](https://open.spotify.com/track/1txuHFV1QW1LObbNVmhafD) | [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [GONE](https://open.spotify.com/album/5O7WABbH4NYJhOrfahuNap) | 3:38 | 2025-08-07 | 2025-09-16 |
@@ -728,6 +729,7 @@
 | [Make\-believe](https://open.spotify.com/track/0vwAG82C6lgnmrojDP5qsU) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Make\-believe](https://open.spotify.com/album/43BAHAUk1NvSY8UlD59yGS) | 2:46 | 2025-09-04 | 2025-12-17 |
 | [maldivian night](https://open.spotify.com/track/75kuXEhMGPeiv8fhiU4z2h) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [maldivian night](https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j) | 3:11 | 2022-03-31 | 2022-04-06 |
 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2024-04-30 | 2024-05-10 |
+| [Manphasickzuck](https://open.spotify.com/track/590xpNtvmYv7EaNukmeEcY) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Ballad of You](https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM) | 4:13 | 2026-08-20 |  |
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2022-03-31 | 2022-04-16 |
 | [May](https://open.spotify.com/track/5UEpIKEVFExPkB7CiRKvAo) | [WINee](https://open.spotify.com/artist/64a5GQVxMxmTZkTynKykHE) | [May](https://open.spotify.com/album/2onzUozBjKro4XIAwVYMOm) | 3:06 | 2022-04-12 | 2022-04-17 |
 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-04-28 | 2025-08-12 |
@@ -1163,7 +1165,7 @@
 | [The Past Story](https://open.spotify.com/track/7uKpsiRUT3qQyIhCoHnEGS) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [The Past Story 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/2otcBN57nMQFtuKoG7dSnx) | 4:12 | 2024-04-30 | 2024-05-10 |
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2021-12-21 | 2022-05-23 |
 | [The Promise of Summer](https://open.spotify.com/track/4Gte5M0Oe0tNTlxjFf9lJb) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Every you, in Every moment](https://open.spotify.com/album/0eahpcOKvJV4KqQLYT3yE2) | 4:29 | 2022-03-31 | 2022-04-19 |
-| [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 | 2026-04-27 |  |
+| [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 | 2026-04-27 | 2026-08-21 |
 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-07-27 | 2022-08-19 |
 | [There Was No One Left](https://open.spotify.com/track/0qzDOoGh8TywjSv88jUDrI) | [roku](https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl) | [Good News](https://open.spotify.com/album/587W3JingOxqIqGI0FAQvZ) | 4:10 | 2026-02-12 | 2026-03-13 |
 | [There's no turning back even 1 second](https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR) | [MONNI](https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG) | [Eternal Memories](https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt) | 4:41 | 2024-03-08 | 2024-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 352 likes - 2,557 songs - 6 day 6 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 352 likes - 2,558 songs - 6 day 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2565,5 +2565,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2555 | [20's](https://open.spotify.com/track/7255Bh8e0ZLIDBvYFlMfno) | [Marcaru](https://open.spotify.com/artist/2Q3iMMfyD9Nb9F48laSLc4) | [20's](https://open.spotify.com/album/24XLeJiivd85xaxBB3S3d0) | 2:44 |
 | 2556 | [Goodbyes](https://open.spotify.com/track/2DIm16Db0DLjItmIBQgyIK) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Goodbyes](https://open.spotify.com/album/57L4nw8EjLLRdFQZgzts8I) | 4:19 |
 | 2557 | [Empty Streets](https://open.spotify.com/track/58vNJXmharklZeHTgF94EC) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Empty Streets](https://open.spotify.com/album/5HY8Nnt2HMPG4WkvCOFJts) | 2:27 |
+| 2558 | [Take Care](https://open.spotify.com/track/0qKadBHML8rQm8EOtniFNd) | [Nedim ERTUNA](https://open.spotify.com/artist/0MFMm7OrfEjP2QmfFQfWLs) | [Take Care](https://open.spotify.com/album/4qqpwmGS9zaPcAmR3FgkWw) | 3:00 |
 
-Snapshot ID: `AAAK3GSEsiVqJKgh+5G9Ecxitez7LKdw`
+Snapshot ID: `AAAK3c2ZTa3FiwLL16KDBucD9Le0qDIL`

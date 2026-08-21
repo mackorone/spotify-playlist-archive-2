@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Bindweed",
+        "url": "https://open.spotify.com/album/3dS6YTQ6MX7QvmMPRaHFxb"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222563,
+      "name": "Bindweed",
+      "url": "https://open.spotify.com/track/2nBWNhMPq8yUXMePsq25Ki"
+    },
+    {
+      "album": {
         "name": "Blessings (Joy)",
         "url": "https://open.spotify.com/album/5GaAOlAQFv1kqDatrtxSV6"
       },
@@ -3437,6 +3455,28 @@
     },
     {
       "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/4W6VRhTPEy1DbKEiWqCm2e"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        },
+        {
+          "name": "L.GU.",
+          "url": "https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221904,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/0Lvtc0zkVw2Drd9mFAe6LO"
+    },
+    {
+      "album": {
         "name": "I Know You",
         "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
       },
@@ -4706,7 +4746,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 186785,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
@@ -5394,7 +5434,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 244391,
       "name": "No One",
       "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"

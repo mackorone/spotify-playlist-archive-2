@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 240176,
       "name": "Eu Te Avisei",
       "url": "https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3"
@@ -1622,6 +1622,32 @@
       "duration_ms": 224725,
       "name": "M\u00fasica de Guerra",
       "url": "https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob"
+    },
+    {
+      "album": {
+        "name": "A Beleza do Erro",
+        "url": "https://open.spotify.com/album/4PJaUBnJbYOFyWJNkVFABb"
+      },
+      "artists": [
+        {
+          "name": "Tayob J.",
+          "url": "https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Na Vanguarda de Mim Mesmo",
+      "url": "https://open.spotify.com/track/3FZoUCXOrmUQTELHPjc2Ia"
     },
     {
       "album": {

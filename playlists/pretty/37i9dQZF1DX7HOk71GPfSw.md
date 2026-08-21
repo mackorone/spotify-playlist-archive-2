@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > if you have anything negative to say about C,XOXO...\. please stfu
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,227 likes - 115 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,327 likes - 115 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 114 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |
 | 115 | [Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hot Fun](https://open.spotify.com/album/4PzhTCrRTncrgOvGcOYpud) | 3:14 |
 
-Snapshot ID: `AAAAALLuwYB9Rv+cxSu3achqBlbwEwH6`
+Snapshot ID: `AAAAAEy5Y4Q/dHaKgzb9yq5P4EBW7hEP`

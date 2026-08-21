@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Ms\. Rachel & Mr\. Aron
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,297 likes - 99 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,401 likes - 99 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 98 | [Jump](https://open.spotify.com/track/37Ua7CslhTi1T6aVUQUwY4) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Soccer Party! Sports Songs and Stadium Chants](https://open.spotify.com/album/26CJ9HTyTGGuOtXhjd9NVz) | 4:12 |
 | 99 | [Squishy Song](https://open.spotify.com/track/0phRAfBVCCD1DdHDfjin1n) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Squishy Song](https://open.spotify.com/album/2nXVHO2j07tgDZzciAuUtr) | 2:40 |
 
-Snapshot ID: `AAAAALCGz3MKwstvEiWeFw20lCMPSqKt`
+Snapshot ID: `AAAAAD495kzn5W7WAiW7NoKEzpYD/ePt`

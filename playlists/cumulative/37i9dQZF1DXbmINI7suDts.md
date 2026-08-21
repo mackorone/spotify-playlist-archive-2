@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Tracy Melon
+> Get your spirits up and manage your mood any time of the day\. Cover: Vyroota
 
-190 songs - 10 hr 29 min
+191 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bounce](https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 2:50 | 2023-06-09 | 2024-11-23 |
 | [Butterflies](https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [Mountains of the Moon](https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs) | 3:17 | 2022-06-06 | 2025-03-28 |
 | [Call Me Crazy](https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu) | [The Goddess Lawino](https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Call Me Crazy](https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ) | 3:09 | 2023-06-09 | 2025-01-24 |
+| [Calm Down](https://open.spotify.com/track/1s9FKJyTm56reQ0PNJvVfJ) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Calm Down](https://open.spotify.com/album/055tFo24uvCIU5j2Cxj2C5) | 2:36 | 2026-08-20 |  |
 | [Cashmere](https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Cashmere](https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn) | 3:07 | 2025-10-23 |  |
 | [Clear](https://open.spotify.com/track/4r9DKPP3egZ5LSSMknYrzc) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Clear](https://open.spotify.com/album/0aznaBi7uhInSSagaQu9dF) | 2:42 | 2024-03-01 | 2025-05-23 |
 | [Commander](https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Commander](https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58) | 2:57 | 2024-04-12 |  |
@@ -132,7 +133,7 @@
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-06-06 | 2025-10-18 |
 | [One Life](https://open.spotify.com/track/4YYf1EHe0xR4xss7owlpzj) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl), [Benji Kasule](https://open.spotify.com/artist/3m5KYldm0k5caRrKT1nfem) | [One Life](https://open.spotify.com/album/49tKHYj8bb3pmUoo2PbnoD) | 3:52 | 2022-06-06 | 2023-02-11 |
 | [One Thing](https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U) | [Lukas Blacc](https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [BoBV](https://open.spotify.com/album/4q4mssAJ2NaWCENz8vIRj7) | 4:11 | 2022-06-06 | 2023-06-10 |
-| [Only You](https://open.spotify.com/track/1J0ObiCz8dvjMU3NGMnmaH) | [GrG](https://open.spotify.com/artist/7Mzz35qOFOLwZ1i8Ask8TP), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Only You](https://open.spotify.com/album/3zM8hqakFUzcpBGL3upf39) | 3:17 | 2025-02-14 |  |
+| [Only You](https://open.spotify.com/track/1J0ObiCz8dvjMU3NGMnmaH) | [GrG](https://open.spotify.com/artist/7Mzz35qOFOLwZ1i8Ask8TP), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Only You](https://open.spotify.com/album/3zM8hqakFUzcpBGL3upf39) | 3:17 | 2025-02-14 | 2026-08-21 |
 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 | 2025-02-07 | 2026-06-19 |
 | [Owewala](https://open.spotify.com/track/2HcS4F2MUFbu6hVjsOeJ7n) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [The One And Only](https://open.spotify.com/album/4G28LtW2pvuNwhrjLMKXcp) | 3:38 | 2025-07-24 |  |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 | 2023-08-12 |

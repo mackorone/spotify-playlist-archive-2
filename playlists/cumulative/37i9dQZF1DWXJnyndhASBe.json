@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: francis, Sobel",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -328,6 +328,28 @@
       "duration_ms": 144210,
       "name": "1DAY IN LA",
       "url": "https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9"
+    },
+    {
+      "album": {
+        "name": "1DAY IN POLAND",
+        "url": "https://open.spotify.com/album/17eR0hUqi9g3jtSUUhobxm"
+      },
+      "artists": [
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "1DAY IN POLAND",
+      "url": "https://open.spotify.com/track/16YDIubLgVHRGoFDtEzZb1"
     },
     {
       "album": {
@@ -5996,7 +6018,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161576,
       "name": "Doko\u0144czysz?",
       "url": "https://open.spotify.com/track/1FVi9cIvtTd9Mk9FxPUW5k"
@@ -7284,7 +7306,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 178144,
       "name": "fantazje",
       "url": "https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U"
@@ -7588,7 +7610,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 177653,
       "name": "FRASCATI",
       "url": "https://open.spotify.com/track/46A0vSoknm8uAX8h313zuo"
@@ -8434,6 +8456,24 @@
     {
       "album": {
         "name": "Grand Soir",
+        "url": "https://open.spotify.com/album/2U3FVEDEu7EUEk6gLUcjzI"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130890,
+      "name": "Grand Soir",
+      "url": "https://open.spotify.com/track/0pdZ3Rw7BHBgouY9GhXveq"
+    },
+    {
+      "album": {
+        "name": "Grand Soir",
         "url": "https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV"
       },
       "artists": [
@@ -8444,7 +8484,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 133135,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
@@ -10053,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "Jak si\u0119 bawisz?",
+        "url": "https://open.spotify.com/album/6oMB6PTWsNWEP16rQJoork"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181972,
+      "name": "Jak si\u0119 bawisz?",
+      "url": "https://open.spotify.com/track/0UOpY61VZmZdRb0kPYo3C8"
+    },
+    {
+      "album": {
         "name": "Jak zapomnie\u0107",
         "url": "https://open.spotify.com/album/2EBsnYciP3b1Cmqsay4dJA"
       },
@@ -10532,7 +10590,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 409600,
       "name": "Kamie\u0144 z serca",
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
@@ -14135,6 +14193,32 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/4adx6MTS0K043oX06eSl8X"
+      },
+      "artists": [
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/6YlHCzWCGMSqjtXXSGtHjV"
+    },
+    {
+      "album": {
         "name": "KING SENTO PROLOG",
         "url": "https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW"
       },
@@ -16004,7 +16088,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 237000,
       "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
       "url": "https://open.spotify.com/track/3FdtNDLwfHRaStWQzCdXsQ"
@@ -16746,6 +16830,32 @@
       "duration_ms": 152614,
       "name": "OD ZAWSZE",
       "url": "https://open.spotify.com/track/75nhveli9wuCkDrmiSK8X9"
+    },
+    {
+      "album": {
+        "name": "ODDO",
+        "url": "https://open.spotify.com/album/4a1WaXDMWAkyvcKTRm82sv"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "JNKSH",
+          "url": "https://open.spotify.com/artist/0QwZRtchj6deJgyAKW12IM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ODDO",
+      "url": "https://open.spotify.com/track/4GVRGoJZTvJ9iuavv9fwjb"
     },
     {
       "album": {
@@ -17930,6 +18040,28 @@
       "duration_ms": 124255,
       "name": "Peachtree",
       "url": "https://open.spotify.com/track/0FwaZq2zjOAh3qwKa0dZ6i"
+    },
+    {
+      "album": {
+        "name": "PEGNG",
+        "url": "https://open.spotify.com/album/2QNrcF4U5aW7kuOo0QxSK5"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132134,
+      "name": "PEGNG",
+      "url": "https://open.spotify.com/track/5L6aHF5UK09ffXIrJ91mpO"
     },
     {
       "album": {
@@ -20788,10 +20920,36 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164615,
       "name": "Saudi",
       "url": "https://open.spotify.com/track/2Fwd5lTA2HqUg4xqzX5EOM"
+    },
+    {
+      "album": {
+        "name": "Scorpios",
+        "url": "https://open.spotify.com/album/4T49UwPQVIcq8cNK3lLOWu"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "Scorpios",
+      "url": "https://open.spotify.com/track/67xRoQgpem0trU1vxxztt9"
     },
     {
       "album": {
@@ -24094,7 +24252,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 191193,
       "name": "w razie w",
       "url": "https://open.spotify.com/track/0L4yQZeTWdsodtHWWNgLvN"
@@ -24168,6 +24326,28 @@
       "duration_ms": 191666,
       "name": "Waga s\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3B35mWowcAMfqX83VGSAAX"
+    },
+    {
+      "album": {
+        "name": "WAKEY BAKEY",
+        "url": "https://open.spotify.com/album/0XQ53FGOvdu2cDXE9amme0"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144024,
+      "name": "WAKEY BAKEY",
+      "url": "https://open.spotify.com/track/6WielcKi0XR8SlbWXo0XEH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  famous pluto",
+  "description": "Where afrobeats meets amapiano.\nCover:  FOLA",
   "name": "afro-piano",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
+    },
+    {
+      "album": {
         "name": "Party Starter (PS1)",
         "url": "https://open.spotify.com/album/4QQSG78mEPbqyEbP6bpasL"
       },
@@ -344,6 +366,24 @@
       "duration_ms": 153000,
       "name": "Attack",
       "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
+    },
+    {
+      "album": {
+        "name": "attention!",
+        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155852,
+      "name": "attention!",
+      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
     },
     {
       "album": {
@@ -942,7 +982,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176008,
       "name": "DEJAVU II",
       "url": "https://open.spotify.com/track/4dPWQXfgq2jFNsPrUNX1l6"
@@ -1062,7 +1102,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 135887,
       "name": "E Never Choke",
       "url": "https://open.spotify.com/track/1rzmTqzQpe0gTh1w72pT0x"
@@ -1494,6 +1534,24 @@
       "duration_ms": 140343,
       "name": "Follow My Lead",
       "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166858,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px"
     },
     {
       "album": {
@@ -2300,7 +2358,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 129231,
       "name": "Jujupiano",
       "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
@@ -2340,7 +2398,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -2940,7 +2998,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 155526,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
@@ -2986,7 +3044,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
@@ -3316,7 +3374,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 130084,
       "name": "OFE NSALA",
       "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
@@ -3536,7 +3594,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 176727,
       "name": "Pami",
       "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
@@ -3800,7 +3858,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 166661,
       "name": "Raba",
       "url": "https://open.spotify.com/track/51uKPbZuFHfSezLOCfWHRo"
@@ -4440,7 +4498,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
@@ -4546,7 +4604,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 158608,
       "name": "WON DA",
       "url": "https://open.spotify.com/track/507zWWcdZNfOFtdPKnoCnu"
@@ -4594,7 +4652,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 180136,
       "name": "WYD",
       "url": "https://open.spotify.com/track/4wKM4gjReTiYbswQv23mFc"

@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 | 71 | [Love To Hate Me](https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:49 |
 | 72 | [Crazy Over You](https://open.spotify.com/track/4yOqfpzmL4FvmXJTUgAMUP) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:41 |
 
-Snapshot ID: `AAAAAHjt0TkcPauTr9lrMJpxgpxLVKZZ`
+Snapshot ID: `AAAAAC/tfAtOiY/fAl2Yb6Yi2oYtDjZK`

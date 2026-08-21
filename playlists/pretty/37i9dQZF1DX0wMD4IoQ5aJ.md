@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,696 likes - 149 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,775 likes - 149 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 148 | [My Chances](https://open.spotify.com/track/5XIaAOU2zFVE61XEiue7Qy) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [My Chances](https://open.spotify.com/album/59PZlSRWeeTdtYlqK84Y5k) | 2:55 |
 | 149 | [Elysie](https://open.spotify.com/track/3RC0k1hd5RD4co9dfBUP05) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Elysie](https://open.spotify.com/album/29g7ei9QzxUMIMm5RfIpwH) | 2:24 |
 
-Snapshot ID: `AAAAADmrbKbuEoq9Cmc4GIMoUb0a6Igb`
+Snapshot ID: `AAAAAPLCOQjjQp7EvEndjsPazJNo8t8F`

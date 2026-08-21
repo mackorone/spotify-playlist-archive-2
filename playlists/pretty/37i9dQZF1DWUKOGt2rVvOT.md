@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些華語歌還很紅也！一年了？兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: 林宥嘉 \(Yoga Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,546 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,549 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [反正我願意](https://open.spotify.com/track/6g1E5jgDEclCdBvm9vz76I) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [苦難裡的祝福](https://open.spotify.com/album/7BE0iMUsISDV0pCXeT8M1Q) | 2:44 |
 | 50 | [有一說一](https://open.spotify.com/track/1A1rywGN5SxWNuxPAPtAE8) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [受](https://open.spotify.com/album/1R7lvCRfev4ctNPQfKEBOZ) | 4:07 |
 
-Snapshot ID: `AAAAAHPjJY34JlnJcY2UoMrC+Tvvsh2Q`
+Snapshot ID: `AAAAAPOHS/d4GoQ5W4jSbNns6Rtaw9oP`

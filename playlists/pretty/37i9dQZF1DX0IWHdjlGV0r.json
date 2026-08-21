@@ -1,12 +1,12 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129769,
+  "num_followers": 129780,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWDK1td1YqhS/G6vfYDc7FZKtO7",
+  "snapshot_id": "AAAAADO8JiNuDJ5IZOcQjXXgkH4j2wfI",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:50",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 227321,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 215421,
       "name": "X CASO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 227321,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Beatrice (feat. Annalisa)",
-      "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 200000,
       "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Beatrice (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "I Nomi del Diavolo",
-        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 164211,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172615,
       "name": "COME VUOI",
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 172654,
-      "name": "USCITO DI GALERA",
-      "url": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 169256,
       "name": "TU",
       "url": "https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 172654,
+      "name": "USCITO DI GALERA",
+      "url": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "100 MESSAGGI",
-        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 244096,
-      "name": "100 MESSAGGI",
-      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "Malammore",
         "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 265454,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -895,34 +895,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "L'Angelo del Male",
-        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Higashi",
-          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sola (feat. Lazza, Tedua)",
-      "url": "https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -955,6 +927,34 @@
       "duration_ms": 180009,
       "name": "Torna Da Me",
       "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "L'Angelo del Male",
+        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sola (feat. Lazza, Tedua)",
+      "url": "https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "Una vita fa",
         "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 143487,
       "name": "Una vita fa",
       "url": "https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
-        "name": "Mattoni",
-        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 194861,
-      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
         "name": "Latte in Polvere",
         "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
+        "name": "Mattoni",
+        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 194861,
+      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
     },
     {
       "added_at": "2026-07-30 22:02:50",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-07-30 22:02:50",
       "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 178051,
+      "name": "ALIBI",
+      "url": "https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi"
+    },
+    {
+      "added_at": "2026-07-30 22:02:50",
+      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 160227,
       "name": "Amore cieco (feat. Madame)",
       "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
-    },
-    {
-      "added_at": "2026-07-30 22:02:50",
-      "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 178051,
-      "name": "ALIBI",
-      "url": "https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi"
     },
     {
       "added_at": "2026-07-30 22:02:50",

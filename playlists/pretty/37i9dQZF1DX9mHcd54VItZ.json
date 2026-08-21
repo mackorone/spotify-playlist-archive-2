@@ -1,28 +1,28 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Francois van Coke",
-  "num_followers": 28264,
+  "description": "The best new and classic South African Rock. Cover: Shortstraw",
+  "num_followers": 28268,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNDcKTvkfZbz/9iQAS61ZpMwzlc",
+  "snapshot_id": "AAAAAAx0tF1f/t9+9VyyNonKQuTy4wzp",
   "tracks": [
     {
-      "added_at": "2026-07-30 22:01:23",
+      "added_at": "2026-08-20 22:01:14",
       "album": {
-        "name": "Bangkinners",
-        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+        "name": "Schr\u00f6dinger",
+        "url": "https://open.spotify.com/album/7bMg2XxlfItkJkjgZdUyEC"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
         }
       ],
-      "duration_ms": 163181,
-      "name": "Bangkinners",
-      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
+      "duration_ms": 178866,
+      "name": "Schr\u00f6dinger",
+      "url": "https://open.spotify.com/track/3EQTiUIFIxvzJqXyXyjTT1"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "duration_ms": 202887,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
+    },
+    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Insecure Meisies",
@@ -57,40 +73,20 @@
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-08-20 22:01:14",
       "album": {
-        "name": "DOOD",
-        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
+        "name": "Te Laat",
+        "url": "https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1"
       },
       "artists": [
         {
           "name": "Zaan Sonnekus",
           "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        },
-        {
-          "name": "Tasch\u00e9",
-          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
         }
       ],
-      "duration_ms": 205191,
-      "name": "DOOD",
-      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
-    },
-    {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Rubber Arm",
-        "url": "https://open.spotify.com/album/5njJwV34hj2cmva9Lq4KBb"
-      },
-      "artists": [
-        {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "Rubber Arm",
-      "url": "https://open.spotify.com/track/365BKCUdOwuqKfuQCqL8Be"
+      "duration_ms": 194960,
+      "name": "Te Laat",
+      "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -145,36 +141,40 @@
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
-      "added_at": "2026-07-30 22:01:23",
+      "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Pose",
-        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+        "name": "Stardust Galaxies",
+        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
       },
       "artists": [
         {
-          "name": "Blush",
-          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
         }
       ],
-      "duration_ms": 202887,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
+      "duration_ms": 251600,
+      "name": "Push Me to the Floor",
+      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+        "name": "DOOD",
+        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
       },
       "artists": [
         {
           "name": "Zaan Sonnekus",
           "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        },
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
         }
       ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
+      "duration_ms": 205191,
+      "name": "DOOD",
+      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -199,38 +199,6 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Stardust Galaxies",
-        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
-      },
-      "artists": [
-        {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Push Me to the Floor",
-      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
-    },
-    {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/3lqh7BTgGDNfazepPgSU3z"
-      },
-      "artists": [
-        {
-          "name": "Faker Streets",
-          "url": "https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/05c24M6IA8m5XTkD73pk0U"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -265,22 +233,6 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Oogkontak",
-        "url": "https://open.spotify.com/album/0sCV0f5J4CelDNVIvzRhI5"
-      },
-      "artists": [
-        {
-          "name": "Bcom",
-          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
-        }
-      ],
-      "duration_ms": 186490,
-      "name": "Oogkontak",
-      "url": "https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Vanfokkingtasties Akoesties",
@@ -301,36 +253,36 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-08-20 22:01:14",
       "album": {
-        "name": "Nagmerries (Bye Bye Baby)",
-        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/1ZlOQ6S4rFdK84F6rY7Osz"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
         }
       ],
-      "duration_ms": 172985,
-      "name": "Nagmerries (Bye Bye Baby)",
-      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
+      "duration_ms": 171060,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/6HwZw3Q6Mw3SIB2pYWPPet"
     },
     {
-      "added_at": "2026-07-30 22:01:23",
+      "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Abafana",
-        "url": "https://open.spotify.com/album/0TBZZtMSzUEYwX5rDfzFrE"
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
       },
       "artists": [
         {
-          "name": "FREDDY L",
-          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 158750,
-      "name": "Abafana",
-      "url": "https://open.spotify.com/track/0BbzM5seFqOXV8xem4oM5i"
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -349,52 +301,20 @@
       "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Wishing On A Daydream",
-        "url": "https://open.spotify.com/album/0ae8AqNrIL5ZLVtnLjAjuN"
-      },
-      "artists": [
-        {
-          "name": "Mila Smith",
-          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Wishing On A Daydream",
-      "url": "https://open.spotify.com/track/16JMEE1MP1bS93XHJ2TxoQ"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "SELFBEWUS",
-        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+        "name": "Nagmerries (Bye Bye Baby)",
+        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 192794,
-      "name": "SELFBEWUS",
-      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+      "duration_ms": 172985,
+      "name": "Nagmerries (Bye Bye Baby)",
+      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
     },
     {
       "added_at": "2026-07-02 22:01:16",
@@ -447,6 +367,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "SELFBEWUS",
+        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 192794,
+      "name": "SELFBEWUS",
+      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "Sonskyn Vrou",
         "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
@@ -479,22 +415,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Vriende",
-        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 235568,
-      "name": "Vriende",
-      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Surpass The Power",
         "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
@@ -507,22 +427,6 @@
       "duration_ms": 233200,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Those December Nights",
-        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 245783,
-      "name": "Those December Nights",
-      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
     },
     {
       "added_at": "2026-07-02 22:01:16",
@@ -543,6 +447,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Vriende",
+        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 235568,
+      "name": "Vriende",
+      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "Elsie",
         "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
@@ -559,22 +479,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "By Jou",
-        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "By Jou",
-      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
@@ -587,22 +491,6 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
-    },
-    {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Bleek",
-        "url": "https://open.spotify.com/album/4AqKWE9Dv3wzihtg9d7fN4"
-      },
-      "artists": [
-        {
-          "name": "Arthur Steele",
-          "url": "https://open.spotify.com/artist/3O9AmjJB7AdzGrnornCxVb"
-        }
-      ],
-      "duration_ms": 237456,
-      "name": "Bleek",
-      "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -693,22 +581,6 @@
       "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
     },
     {
-      "added_at": "2026-06-18 22:02:16",
-      "album": {
-        "name": "Bid",
-        "url": "https://open.spotify.com/album/2SDovA2Eia8alPxEf2KmaD"
-      },
-      "artists": [
-        {
-          "name": "Tasch\u00e9",
-          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
-        }
-      ],
-      "duration_ms": 179646,
-      "name": "Bid",
-      "url": "https://open.spotify.com/track/3ukaWRNUa3ABSHLgDvUD5d"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Stellies (feat. Rooksein)",
@@ -727,6 +599,22 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Bangkinners",
+        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "Bangkinners",
+      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -761,6 +649,22 @@
       "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Those December Nights",
+        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 245783,
+      "name": "Those December Nights",
+      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
+    },
+    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Lego",
@@ -791,22 +695,6 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "A Little Less",
-        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
-      },
-      "artists": [
-        {
-          "name": "Blush",
-          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
-        }
-      ],
-      "duration_ms": 202887,
-      "name": "A Little Less",
-      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -855,6 +743,122 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Travellers (Special Edition)",
+        "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
+      },
+      "artists": [
+        {
+          "name": "The Narrow",
+          "url": "https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Lonely-lonely",
+      "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+      },
+      "artists": [
+        {
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
+    },
+    {
+      "added_at": "2026-07-02 22:01:16",
+      "album": {
+        "name": "Groen en Goud",
+        "url": "https://open.spotify.com/album/1TswJWQsVA5EOCbDqNaYjd"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 132283,
+      "name": "Groen en Goud",
+      "url": "https://open.spotify.com/track/4ECZ8E595VQ5yQFMtCT7s2"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "AfterlifeSatisfaction",
+        "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 282973,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Rubber Arm",
+        "url": "https://open.spotify.com/album/5njJwV34hj2cmva9Lq4KBb"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Rubber Arm",
+      "url": "https://open.spotify.com/track/365BKCUdOwuqKfuQCqL8Be"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "96-03 The Singles",
+        "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
+      },
+      "artists": [
+        {
+          "name": "Henry Ate",
+          "url": "https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Hey Mister",
+      "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
     }
   ],
   "unique_name": "SA Rock ",

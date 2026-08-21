@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 
 > Get your freak on with golden era of rap music! All the 90s hip hop throwbacks including classic old school songs from Biggie, Missy Elliott, Nas, 2Pac, Outkast and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 488,067 likes - 89 songs - 6 hr 24 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 488,026 likes - 89 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/7HQu1GUDVSx64GdCpaB88I.md) - [plain]
 | 53 | [Love Like This \- 2016 Remaster](https://open.spotify.com/track/3pYkhCA97OPAwO6rkWLRcQ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:31 |
 | 54 | [Feel So Good \- 2016 Remaster](https://open.spotify.com/track/1Hzj9qMFRfIDKgek6nPS1Z) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 3:24 |
 | 55 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
-| 56 | [Insane in the Brain](https://open.spotify.com/track/6DtVPEJXQxDp7nn3Kp076o) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday \(Radio Version\)](https://open.spotify.com/album/3pUzgS0cVT10PPszgR3VF5) | 3:30 |
+| 56 | [Insane in the Brain](https://open.spotify.com/track/6DtVPEJXQxDp7nn3Kp076o) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday \(Radio Version\) \[Clean Version\]](https://open.spotify.com/album/3pUzgS0cVT10PPszgR3VF5) | 3:30 |
 | 57 | [Baby Got Back](https://open.spotify.com/track/7MCNnnmwm7TXMh7xyNGohi) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6YZ0BFvP2Hj0vbTwPytvrb) | 4:22 |
 | 58 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 59 | [Going Back to Cali \- 2014 Remaster](https://open.spotify.com/track/53duuSwaLOZuIrELvZXqLH) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes met Ronnie & Kleine! <a href=\"spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl\">Check hier meer zomer aanbevelingen!</a>",
+  "description": "Motion & good vibes met Langa! <a href=\"spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl\">Check hier meer zomer aanbevelingen!</a>",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1258,6 +1258,36 @@
       "duration_ms": 173913,
       "name": "ALLANG NIET MEER",
       "url": "https://open.spotify.com/track/1WE51r2dylcmFt1sHc7NEm"
+    },
+    {
+      "album": {
+        "name": "Alle baddies (feat. Yung Felix, Bokoesam & DIM)",
+        "url": "https://open.spotify.com/album/2z28ARvrEpWPGbukR1kGXT"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "DIM",
+          "url": "https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114705,
+      "name": "Alle baddies (feat. Yung Felix, Bokoesam & DIM)",
+      "url": "https://open.spotify.com/track/2sLGd8jUJGGDTECIBV1LMY"
     },
     {
       "album": {
@@ -3516,7 +3546,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
@@ -6084,6 +6114,24 @@
       "duration_ms": 117600,
       "name": "Bossy",
       "url": "https://open.spotify.com/track/1ThBXOQdTyzB0xcu89X3j7"
+    },
+    {
+      "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
       "album": {
@@ -10554,7 +10602,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 145903,
       "name": "Doe Niet Lang",
       "url": "https://open.spotify.com/track/7xKCJyPpxUCsFfov6IPpBh"
@@ -12052,7 +12100,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 136882,
       "name": "Extra",
       "url": "https://open.spotify.com/track/4LTSN3uEYbjO5U0To8hBnU"
@@ -12998,7 +13046,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 139047,
       "name": "FLESSEN ERBIJ",
       "url": "https://open.spotify.com/track/2KEimTjmwYYDRSyxZUb4F1"
@@ -17380,7 +17428,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 206896,
       "name": "In Model",
       "url": "https://open.spotify.com/track/2NHxdPOcn2zkYCA1YvGj24"
@@ -20642,7 +20690,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172758,
       "name": "LIKE 2 DANCE",
       "url": "https://open.spotify.com/track/3cA3z4Peiv6xqkW6wrZEoR"
@@ -20992,7 +21040,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 126336,
       "name": "LMZ",
       "url": "https://open.spotify.com/track/5bfTDIXjUVL7cuCPXr1Afu"
@@ -22120,6 +22168,40 @@
       "duration_ms": 105230,
       "name": "Maak Me Nou Niet Gek",
       "url": "https://open.spotify.com/track/6RzajU3Lthpfs47lFzB4CE"
+    },
+    {
+      "album": {
+        "name": "Madd Ting (Remix)",
+        "url": "https://open.spotify.com/album/6b1Lzzk3fbf9hw3pj2dxAz"
+      },
+      "artists": [
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        },
+        {
+          "name": "JUGGLERZ",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Madd Ting - Remix",
+      "url": "https://open.spotify.com/track/3VzM9h29NlXJt5SdD1AE1d"
     },
     {
       "album": {
@@ -27548,7 +27630,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 172307,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/5DGN8biFFZUiwLf3s6VVZc"
@@ -29883,6 +29965,24 @@
     },
     {
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/4oM6Biaxvn6GhInwP4QcMP"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0upSzPwtWJze81q4umsKIN"
+    },
+    {
+      "album": {
         "name": "PUMPKIN",
         "url": "https://open.spotify.com/album/0thK8T3zCYlADK3dSDFbcx"
       },
@@ -31856,7 +31956,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 125046,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/36G89SJXnRgcXtwl9HOzB3"
@@ -33660,7 +33760,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 141595,
       "name": "Stiekem Naar Je Ex",
       "url": "https://open.spotify.com/track/43tES3eERLIoIudDHZhME9"
@@ -36070,6 +36170,24 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
+    },
+    {
+      "album": {
+        "name": "Giv Dem Wha Dey Wan",
+        "url": "https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx"
     },
     {
       "album": {

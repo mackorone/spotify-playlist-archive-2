@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: go!go!vanillas
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,051 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,053 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 90 | [FIRE](https://open.spotify.com/track/1QsNA6Rpd1zsVP7pMR6FHi) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [PLAYBACK](https://open.spotify.com/album/1ZhJ0uO7zRZABb9PwZAINv) | 4:57 |
 | 91 | [Suisen](https://open.spotify.com/track/2w34CrdjxlPCJCjGjQWtqo) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Suisen](https://open.spotify.com/album/2eDAQhm73NveAr4YcucC3f) | 4:14 |
 | 92 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
-| 93 | [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 |
+| 93 | [素敵すぎる](https://open.spotify.com/track/5tePLatUDsJg1idEVUiFA8) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [素敵すぎる/素晴らしき1日](https://open.spotify.com/album/5aLUNNI8YL0mibXFrvzELv) | 3:28 |
 | 94 | [SALTARE](https://open.spotify.com/track/0AT3NPrDFFIoMqWCwOZM1w) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [SALTARE](https://open.spotify.com/album/2lmDFg8jSd0oNRNOnKBraV) | 3:17 |
 | 95 | [新女神](https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [新女神](https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0) | 3:03 |
 | 96 | [INSIDE](https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [INSIDE](https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [BIRDMAN](https://open.spotify.com/track/7vbCgfsSfRKuz3h3W1WCsS) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [BIRDMAN](https://open.spotify.com/album/5tvWHSaAqx2QWDveVqc0G6) | 4:40 |
 | 100 | [Japanese Young Punk](https://open.spotify.com/track/4qNthuQbiGFzOp9WRDQcZt) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Japanese Young Punk](https://open.spotify.com/album/35u2NhpOJCAQlKqsVXG6mE) | 3:48 |
 
-Snapshot ID: `AAAAALyc7DgXIsB4t/55ncLy83bWNYrv`
+Snapshot ID: `AAAAADJt6uv6/CAVaHtV7Mr42j9Sfp6H`

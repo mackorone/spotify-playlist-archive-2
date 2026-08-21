@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 44160,
+  "num_followers": 44204,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAk6EHsY4UWOsCHEbuAATQNqVxL5",
+  "snapshot_id": "AAAAAC0nBVyLuxG0iKYcJcBLXW1TkjPo",
   "tracks": [
     {
       "added_at": "2026-08-14 12:11:38",
@@ -183,26 +183,18 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Jaiye Sajana - Recreated",
-        "url": "https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX"
+        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
       },
       "artists": [
         {
           "name": "Satinder Sartaaj",
           "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        },
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 407056,
-      "name": "Jaiye Sajana - Recreated",
-      "url": "https://open.spotify.com/track/1geDWIpPN8zwNe0MUJznfr"
+      "duration_ms": 404170,
+      "name": "Rutba",
+      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
     },
     {
       "added_at": "2026-08-14 12:11:38",
@@ -299,18 +291,26 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
+        "name": "Jaiye Sajana - Recreated",
+        "url": "https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX"
       },
       "artists": [
         {
           "name": "Satinder Sartaaj",
           "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 404170,
-      "name": "Rutba",
-      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
+      "duration_ms": 407056,
+      "name": "Jaiye Sajana - Recreated",
+      "url": "https://open.spotify.com/track/1geDWIpPN8zwNe0MUJznfr"
     },
     {
       "added_at": "2026-08-14 12:11:38",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Hadaya Eliana & Genes1s",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Njerae",
   "name": "NairoBae",
   "tracks": [
     {
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 239839,
       "name": "OH COME",
       "url": "https://open.spotify.com/track/3GbKKWAHa8cBNoK1aEoztf"
@@ -4824,6 +4824,28 @@
       "duration_ms": 187951,
       "name": "Olive(ia)",
       "url": "https://open.spotify.com/track/1xm5zaifC3MYTw8049ypZA"
+    },
+    {
+      "album": {
+        "name": "On My Own / Let Them Know",
+        "url": "https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l"
     },
     {
       "album": {
@@ -4878,7 +4900,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 222750,
       "name": "Options",
       "url": "https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x"
@@ -6772,6 +6794,24 @@
       "duration_ms": 204282,
       "name": "Uko Poa - Full Version",
       "url": "https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3"
+    },
+    {
+      "album": {
+        "name": "Unanipa",
+        "url": "https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192579,
+      "name": "Unanipa",
+      "url": "https://open.spotify.com/track/263NrbGTVJI5draas4VOnY"
     },
     {
       "album": {

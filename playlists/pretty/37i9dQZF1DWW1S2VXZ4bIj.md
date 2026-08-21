@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: fellow fellow
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,612 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,696 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
 | 100 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 |
 
-Snapshot ID: `AAAAAKxr1U2OAZ/K7D+N3GpUxUqax6QD`
+Snapshot ID: `AAAAABoRSvnuxHKwMk87G17rkUFmSanG`

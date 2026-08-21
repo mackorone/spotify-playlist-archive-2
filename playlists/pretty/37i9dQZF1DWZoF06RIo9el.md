@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: fred again.\. & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,419 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,273 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 10 | [Azul \(Versão Espanhol\)](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
 | 11 | [Pensando En Ti](https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Pensando En Ti](https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt) | 2:52 |
 | 12 | [Celosa](https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Celosa](https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc) | 2:35 |
-| 13 | [AMIGOS CON DERECHOS](https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [AMIGOS CON DERECHOS](https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2) | 2:48 |
-| 14 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
+| 13 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
+| 14 | [AMIGOS CON DERECHOS](https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [AMIGOS CON DERECHOS](https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2) | 2:48 |
 | 15 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 16 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |
 | 17 | [Millon Freestyle](https://open.spotify.com/track/6EHfLvGE2osEmEbdOOJlBT) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Millon Freestyle](https://open.spotify.com/album/4xVsVTOU6CxrB7jKLUs5uc) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 | 50 | [Xclusiva](https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:21 |
 
-Snapshot ID: `AAAAAL694u7ckLTH/IIdjAHQDnZrqshI`
+Snapshot ID: `AAAAAP4crl4noJPQtFemXZJFS4Ev3zAi`

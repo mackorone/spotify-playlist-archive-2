@@ -6,7 +6,7 @@
     "name": "raincandy",
     "url": "https://open.spotify.com/user/megaalexpro3000"
   },
-  "snapshot_id": "AAAKWrASn5uH6c0wvLG1HvsJHOHDudNV",
+  "snapshot_id": "AAAKWyF2W/IjLK9xYv1tVtalgC9zZn5d",
   "tracks": [
     {
       "added_at": "2021-08-04 04:53:44",
@@ -8767,6 +8767,26 @@
       "duration_ms": 230000,
       "name": "Aster",
       "url": "https://open.spotify.com/track/1I6TrS3GxQDnDzf479mYW0"
+    },
+    {
+      "added_at": "2026-08-20 03:42:52",
+      "album": {
+        "name": "\u30e1\u30ed\u30e1\u30ed\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA"
+      },
+      "artists": [
+        {
+          "name": "Kairikibear",
+          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 183488,
+      "name": "\u30e1\u30ed\u30e1\u30ed\u30a4\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY"
     }
   ],
   "unique_name": "KristaLenz",

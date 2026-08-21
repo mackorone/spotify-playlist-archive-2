@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,723 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,720 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 25 | [Vesipisaroiden valssi \(feat\. KAUKUA\)](https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [22](https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg) | 2:54 |
 | 26 | [Economy PLUS](https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Economy PLUS](https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf) | 3:00 |
 | 27 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
-| 28 | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3) | 2:36 |
-| 29 | [Pelkkä kirosana](https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Pelkkä kirosana](https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY) | 3:12 |
+| 28 | [Pelkkä kirosana](https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Pelkkä kirosana](https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY) | 3:12 |
+| 29 | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3) | 2:36 |
 | 30 | [Jokaisen hymyn takana](https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jokaisen hymyn takana](https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu) | 3:08 |
 | 31 | [Limee ja suolaa](https://open.spotify.com/track/7Lg9ofCGw4UUYXPKyTpzRp) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Limee ja suolaa](https://open.spotify.com/album/3Pl188gepWX1HVKonTwAUl) | 3:13 |
 | 32 | [Kuka nauraa nyt](https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kuka nauraa nyt](https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX) | 2:55 |
@@ -64,29 +64,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 54 | [Ennen sua](https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Ennen sua](https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz) | 2:48 |
 | 55 | [Bailarina](https://open.spotify.com/track/6PtNkBOcmmM4Pkn14U2cDk) | [Nenerchy](https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy) | [Prima bailarina](https://open.spotify.com/album/40TSNJJdAQ5n5m7MvEiedF) | 2:16 |
 | 56 | [Running Through My Head](https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Running Through My Head](https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj) | 2:39 |
-| 57 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
-| 58 | [Toivon et se olisit sä](https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5) | [aitojulia](https://open.spotify.com/artist/5y5CYG7Qt66h5rNyfuPCaF) | [Toivon et se olisit sä](https://open.spotify.com/album/0IJt19qld2lforDczKV6TN) | 2:31 |
+| 57 | [Toivon et se olisit sä](https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5) | [aitojulia](https://open.spotify.com/artist/5y5CYG7Qt66h5rNyfuPCaF) | [Toivon et se olisit sä](https://open.spotify.com/album/0IJt19qld2lforDczKV6TN) | 2:31 |
+| 58 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
 | 59 | [Sulhanen](https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Sulhanen](https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30) | 2:42 |
-| 60 | [Viimeiseen hengenvetoon](https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Viimeiseen hengenvetoon](https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ) | 3:21 |
-| 61 | [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 |
+| 60 | [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 |
+| 61 | [Viimeiseen hengenvetoon](https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Viimeiseen hengenvetoon](https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ) | 3:21 |
 | 62 | [Ympäri maailmaa](https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Ympäri maailmaa](https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR) | 2:38 |
-| 63 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
-| 64 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
+| 63 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
+| 64 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
 | 65 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
 | 66 | [Tilulilulauluja](https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tilulilulauluja](https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP) | 4:07 |
 | 67 | [Talking Heads](https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Camouflage](https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo) | 3:46 |
 | 68 | [Kevätkiima](https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0) | [Sebastian Visa](https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D), [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Kevätkiima](https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT) | 2:33 |
 | 69 | [Pallo jalast](https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Pallo jalast](https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8) | 2:18 |
 | 70 | [Kuka Vaan](https://open.spotify.com/track/6mdRQoDI0ojsAIsJcpAQlV) | [WEWWE](https://open.spotify.com/artist/3pSj91T5aQGsVUoLJH2mb9) | [Kuka Vaan](https://open.spotify.com/album/0nm1pGaRjoY0P8nAogDGXr) | 2:22 |
-| 71 | [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 |
-| 72 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
+| 71 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
+| 72 | [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 |
 | 73 | [Tee Mulle Mitä Vaan](https://open.spotify.com/track/225v95FOaSABtxkvndBTzk) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ), [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Tee Mulle Mitä Vaan](https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj) | 3:48 |
 | 74 | [Vastaa](https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Josua Leier](https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh), [Alttari](https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj) | [Jumalanmiehii III](https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e) | 4:28 |
 | 75 | [Ketjupoltetaan sillat](https://open.spotify.com/track/004ABECfTtivFJoK2JByoX) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Ketjupoltetaan sillat](https://open.spotify.com/album/4XXjxAEjXD3EmT6ilxQXsb) | 2:40 |
 | 76 | [Stiigerihai](https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Stiigerihai](https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8) | 2:35 |
-| 77 | [Sukupuu](https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Sukupuu](https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem) | 3:05 |
-| 78 | [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 |
+| 77 | [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 |
+| 78 | [Sukupuu](https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Sukupuu](https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem) | 3:05 |
 | 79 | [Rakastan teitä kaikkia](https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Rakastan teitä kaikkia](https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o) | 4:02 |
 | 80 | [Rautaa](https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu) | [Petra Gargano](https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4) | [Rautaa](https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO) | 2:40 |
 
-Snapshot ID: `AAAAAIU5YlY4BER3QTXllUMxg5hHqT2c`
+Snapshot ID: `AAAAABKrIW+WJw0X7+gtTgUxMNfHGKXn`

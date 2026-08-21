@@ -8177,6 +8177,28 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30ed\u30e1\u30ed\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA"
+      },
+      "artists": [
+        {
+          "name": "Kairikibear",
+          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "\u30e1\u30ed\u30e1\u30ed\u30a4\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30f3\u30d8\u30e9\u3058\u3083\u306a\u3044\u3082\u3093!",
         "url": "https://open.spotify.com/album/1YO5k5RbPMiXCOp8YQG0vk"
       },

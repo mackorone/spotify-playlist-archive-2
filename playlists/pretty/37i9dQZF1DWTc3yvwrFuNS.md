@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc3yvwrFuNS.md) - [plain]
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 34 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 34 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When He’s Gone \(Live\) \- Spotify Live Room](https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 3:17 |
-| 2 | [Big Girls Don't Cry \(Fergie Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 |
+| 1 | [When He's Gone \(Spotify Live Room\)](https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 3:17 |
+| 2 | [Big Girls Don't Cry \(Fergie Cover\) \[Spotify Live Room\]](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 |
 | 3 | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/track/35Wr5GycVuAXWCHqRCceqz) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 2:52 |
 | 4 | [It Takes A Woman \(Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1jnexmU3uWd0D54O3kWxKm) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 4:02 |
 | 5 | [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc3yvwrFuNS.md) - [plain]
 | 33 | [Watch Me Bleed \- \(Spotify OUTSIDE Version\) \- Live From Austin, TX](https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Spotify OUTSIDE](https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF) | 3:54 |
 | 34 | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m) | 2:26 |
 
-Snapshot ID: `AAAAAF5pGmqjGjTjOfjy7vHV6CsID2ZP`
+Snapshot ID: `AAAAAEt0qyc6ffEVvzuEgFbVFfV0+5O7`

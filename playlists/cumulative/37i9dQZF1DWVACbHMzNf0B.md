@@ -2,9 +2,9 @@
 
 ### [MEXCLA](https://open.spotify.com/playlist/37i9dQZF1DWVACbHMzNf0B)
 
-> somos una fusión que no termina✨💚 Yuridia en portada.
+> somos una fusión que no termina✨💚 Grupo Aztteca, Luis R Conriquez y Oscar Maydon en portada.
 
-1,085 songs - 2 day 9 hr 33 min
+1,086 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [La Casita De La Selva](https://open.spotify.com/track/76rE4L1MBuEjiF5hR5vTDE) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [La Casita De La Selva](https://open.spotify.com/album/4Xhraf36zfM780liskyM6d) | 3:22 | 2023-03-31 | 2023-04-15 |
 | [La Chamba](https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Chamba](https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer) | 2:43 | 2024-05-03 | 2024-05-25 |
 | [La Cita Fresita \- En Vivo](https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [La Cita Fresita \(En Vivo\)](https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L) | 3:00 | 2026-03-20 |  |
+| [LA CITA FRESITA 2](https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [LA CITA FRESITA 2](https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA) | 2:55 | 2026-08-20 |  |
 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 | 2025-09-12 | 2026-01-31 |
 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 | 2025-01-17 | 2025-05-03 |
 | [La Cuichi](https://open.spotify.com/track/25LBX0hecJR9Ph9tuiO1hT) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 2:09 | 2024-09-20 | 2024-12-07 |

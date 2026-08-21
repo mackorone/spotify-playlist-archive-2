@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: JENNIE",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: KiiiKiii",
   "name": "K-Pop Bias : KPOP ESSENTIAL",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 165106,
       "name": "A Sleepless Night",
       "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
+    },
+    {
+      "album": {
+        "name": "Achilles",
+        "url": "https://open.spotify.com/album/2ENR86xq027aAPE01Fhd9J"
+      },
+      "artists": [
+        {
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Achilles",
+      "url": "https://open.spotify.com/track/3N2jC81NoXkpwKh390wJZR"
     },
     {
       "album": {
@@ -722,7 +740,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 178000,
       "name": "BIG BANDS - Korean Version",
       "url": "https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX"
@@ -920,10 +938,28 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 135000,
       "name": "Bora",
       "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
+    },
+    {
+      "album": {
+        "name": "<Born Stunner>",
+        "url": "https://open.spotify.com/album/2h9PWGI1WAf7B1GkUL8wdh"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Born Stunner",
+      "url": "https://open.spotify.com/track/3IUPnZ0yUaIxkTFgQlcBBf"
     },
     {
       "album": {
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161266,
       "name": "Crazier",
       "url": "https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB"
@@ -1482,7 +1518,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I"
@@ -1579,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "<Deep Dream>",
+        "url": "https://open.spotify.com/album/1IoXvOGzX68HNDbzgQd1FU"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Deep Dream",
+      "url": "https://open.spotify.com/track/3HFF36MCGX5OuWwQMkE0lt"
+    },
+    {
+      "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
       },
@@ -1662,7 +1716,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 160000,
       "name": "Do What I Want",
       "url": "https://open.spotify.com/track/3O7O66Z1EMSHdivQ92XUfx"
@@ -2041,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "FLIRTY",
+        "url": "https://open.spotify.com/album/6Izvj1EviVgSWRWbv0nMb7"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "FLIRTY",
+      "url": "https://open.spotify.com/track/3eaDpfaw7IC6Q65iflqBdd"
+    },
+    {
+      "album": {
         "name": "ODYSSEY - The 1st Album",
         "url": "https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo"
       },
@@ -2106,7 +2182,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 140241,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN"
@@ -2756,7 +2832,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 163000,
       "name": "HUNTER",
       "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
@@ -2864,7 +2940,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184984,
       "name": "I WANT IT",
       "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
@@ -3066,6 +3142,24 @@
       "duration_ms": 175106,
       "name": "Klaxon",
       "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
+    },
+    {
+      "album": {
+        "name": "SPLAY : CHAPTER 01",
+        "url": "https://open.spotify.com/album/6sPKB4Cl0uad4i9sKYMhZp"
+      },
+      "artists": [
+        {
+          "name": "Splayit",
+          "url": "https://open.spotify.com/artist/6dO5cb6LNYGs5Ob5JCY4un"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Last bus",
+      "url": "https://open.spotify.com/track/22g0phblhI57wSMjRcjQZ6"
     },
     {
       "album": {
@@ -4185,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141285,
+      "name": "Pop Off Pop Off",
+      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
+    },
+    {
+      "album": {
         "name": "POP UP",
         "url": "https://open.spotify.com/album/6Ot4mjth1BcXriAF4mQj3I"
       },
@@ -4484,7 +4596,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 193000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9"
@@ -4758,6 +4870,24 @@
       "duration_ms": 159000,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2t4d73fPrmvbPvqPe4OYxR"
+    },
+    {
+      "album": {
+        "name": "\u9762 : Unknown Atlas",
+        "url": "https://open.spotify.com/album/07KPt6uHFqEJ4x5U7C3rX4"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/4HZXQpfYj1YArf2EfzEjf5"
     },
     {
       "album": {
@@ -5274,10 +5404,46 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 184000,
       "name": "Surf",
       "url": "https://open.spotify.com/track/2bJI4NceMjye26SmzewutW"
+    },
+    {
+      "album": {
+        "name": "Velvet Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "Surfin' Boy",
+      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
+    },
+    {
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7"
     },
     {
       "album": {
@@ -5440,7 +5606,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 195000,
       "name": "That\u2019s That",
       "url": "https://open.spotify.com/track/2Sf6SXb3LAq4aWq6Pm9akt"
@@ -5883,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "WAYF BOYS DO",
+        "url": "https://open.spotify.com/album/32mQSWQGzN0SbLuWHt4u4s"
+      },
+      "artists": [
+        {
+          "name": "WAYF BOYS",
+          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166793,
+      "name": "WAYF BOYS DO",
+      "url": "https://open.spotify.com/track/0GFdPboDW6A91IfLDVrY3R"
+    },
+    {
+      "album": {
         "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
         "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
       },
@@ -6172,6 +6356,24 @@
       "duration_ms": 161000,
       "name": "WYLD",
       "url": "https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU"
+    },
+    {
+      "album": {
+        "name": "A NEW ERA OF NOW",
+        "url": "https://open.spotify.com/album/2lLZLjWnLTOwXHXYcwsKEB"
+      },
+      "artists": [
+        {
+          "name": "AEN",
+          "url": "https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "X to Z (Next to me) (Korean ver.)",
+      "url": "https://open.spotify.com/track/2IlcpFmvuaFSt0mTK73DOx"
     },
     {
       "album": {

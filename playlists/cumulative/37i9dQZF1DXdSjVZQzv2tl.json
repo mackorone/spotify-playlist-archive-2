@@ -3509,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Higor",
+          "url": "https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157184,
+      "name": "Flash - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
+    },
+    {
+      "album": {
         "name": "Foi Intenso (Ao Vivo)",
         "url": "https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9"
       },

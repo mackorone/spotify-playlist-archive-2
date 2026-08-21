@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Lina\-Mariah
 
-535 songs - 1 day 3 hr 9 min
+537 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Do One](https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Do One](https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS) | 2:38 | 2025-07-17 | 2026-01-30 |
 | [Domino](https://open.spotify.com/track/1S0n6HR1ZHZ8vOzMJiQKQE) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Unfinished](https://open.spotify.com/album/0b6nhv53sGGd3jsjxZU96a) | 3:00 | 2025-06-12 | 2026-02-27 |
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 | 2022-09-02 |
+| [Don't Mess With Me](https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Don't Mess With Me](https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu) | 3:24 | 2026-08-20 |  |
 | [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-10 | 2022-05-27 |
 | [Downgrade](https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Downgrade](https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz) | 2:30 | 2023-11-09 | 2024-03-15 |
 | [Drama Baby](https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Drama Baby](https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW) | 2:57 | 2025-08-07 | 2026-01-16 |
@@ -206,6 +207,7 @@
 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 | 2026-07-02 |  |
 | [Haus am Meer](https://open.spotify.com/track/5pB99KzpJkc7IOVTcCaUVh) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Haus am Meer](https://open.spotify.com/album/1iVc7dFKvehP3OmTpMihjm) | 2:17 | 2024-07-18 | 2025-07-25 |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
+| [He Said She Said](https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [He Said She Said](https://open.spotify.com/album/1rbcFohPR9qlUDIJ8po6Gy) | 2:29 | 2026-08-20 |  |
 | [Head In The Air](https://open.spotify.com/track/6LnBxvMwtw57Ww0kwE3Tc8) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Head In The Air](https://open.spotify.com/album/5Bwx59yHFWLiVWdYNsjIWt) | 3:10 | 2026-06-04 | 2026-07-10 |
 | [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-11 | 2026-02-20 |
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-30 | 2025-07-25 |
@@ -282,7 +284,7 @@
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-02-03 | 2022-04-22 |
 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Like This](https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Like This](https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7) | 2:52 | 2024-03-21 | 2024-11-29 |
-| [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 | 2025-11-27 |  |
+| [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 | 2025-11-27 | 2026-08-21 |
 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 | 2025-02-27 | 2026-02-27 |
 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 | 2021-12-16 | 2025-02-28 |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-09-02 |
@@ -454,7 +456,7 @@
 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 | 2025-10-09 | 2025-11-21 |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-11-18 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |
-| [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 | 2026-07-09 |  |
+| [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 | 2026-07-09 | 2026-08-21 |
 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 | 2026-07-10 |
 | [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 | 2023-04-13 | 2023-06-02 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Billboard Style
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,035 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,072 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [We're Gonna Be Okay](https://open.spotify.com/track/3mUjvYCQXsbiloF2b2IHt0) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [We're Gonna Be Okay](https://open.spotify.com/album/7bsWF5EJ5oMXtDS4SubL3X) | 4:18 |
 | 75 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 
-Snapshot ID: `AAAAALf2IbMc9B5KRa2ikxWfssw4NsxG`
+Snapshot ID: `AAAAAKtvP1PPd4f29wyB3Mwi0Gw9whb3`

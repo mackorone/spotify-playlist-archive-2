@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Pritesh Walia\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,342 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,370 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Air](https://open.spotify.com/track/4AtvX4PqTMt4JtCZqEbqK7) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Air](https://open.spotify.com/album/1UEvT8fLPD3p9dCK09bbLl) | 6:33 |
 | 50 | [Doe](https://open.spotify.com/track/3D0joMWtdQqhy3h15cLFkQ) | [Camilla Vaitaitis](https://open.spotify.com/artist/4bI9KINBmBuAplY6uM5OVc) | [I Grew Up](https://open.spotify.com/album/7FWWEsRF7qK9y80dvwC8mo) | 1:23 |
 
-Snapshot ID: `AAAAAPP2Ss8tgizTjUDjpPaqITpM1QOU`
+Snapshot ID: `AAAAALnNU+GmxkLquXw9Q0tjtA+5yydu`

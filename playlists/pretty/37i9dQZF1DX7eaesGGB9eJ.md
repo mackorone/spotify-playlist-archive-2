@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,084 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,188 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 37 | [Margarito](https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR) | [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw) | [Margarito No Cometio Delito](https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z) | 3:05 |
 | 38 | [Camaleones \- Remasterizado](https://open.spotify.com/track/4miCCObbx713lWPnTAZXHh) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m) | [Camaleones \(Remasterizado\)](https://open.spotify.com/album/3qbeaGHvshA1NZDv0slOpj) | 2:33 |
 | 39 | [Rompe con To'](https://open.spotify.com/track/5LBLIFUeUUUq9Rf4r5ekAU) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [Rompe con To'](https://open.spotify.com/album/25Q6BFGBSIBd4G5PZT1JIL) | 2:59 |
-| 40 | [Alquimista \(Bonus Track\)](https://open.spotify.com/track/20BppOrfwiJmWfg1wEfjw8) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Libre](https://open.spotify.com/album/5HfSAaF786Ib99EJZs3zls) | 2:54 |
-| 41 | [Éxtasis \(feat\. Cartel de Santa\)](https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Así Soy Yo](https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ) | 4:49 |
-| 42 | [Esta Vida Me Encanta](https://open.spotify.com/track/17vupJrjeDfny9XLt2micF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy por el Sueño de Muchos](https://open.spotify.com/album/6edIhKzuFGTwMA512iHPXn) | 5:09 |
+| 40 | [Esta Vida Me Encanta](https://open.spotify.com/track/17vupJrjeDfny9XLt2micF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy por el Sueño de Muchos](https://open.spotify.com/album/6edIhKzuFGTwMA512iHPXn) | 5:09 |
+| 41 | [Alquimista \(Bonus Track\)](https://open.spotify.com/track/20BppOrfwiJmWfg1wEfjw8) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Libre](https://open.spotify.com/album/5HfSAaF786Ib99EJZs3zls) | 2:54 |
+| 42 | [Éxtasis \(feat\. Cartel de Santa\)](https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Así Soy Yo](https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ) | 4:49 |
 | 43 | [Si Señor](https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv) | 4:13 |
 | 44 | [Rucón](https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T) | 2:48 |
 | 45 | [Pesao \(feat\. Cartel de Santa & Millonario\)](https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 |
 | 50 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
 
-Snapshot ID: `AAAAAJDGyV9hRS5xZOg+8FnKrxVmWC2z`
+Snapshot ID: `AAAAAA8z8o18S3qKMCf2arIZNFsjFgp3`

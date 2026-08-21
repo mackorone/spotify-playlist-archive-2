@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 460778,
+  "num_followers": 460794,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNZuO27SLT73qUPssctla0hZyQm",
+  "snapshot_id": "AAAAAPiUaRoSWAJx3JTK2aw+YDdYDrpn",
   "tracks": [
     {
       "added_at": "2026-02-19 15:33:55",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 302578,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 187690,
       "name": "Horseness Is The Whatness",
       "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hazards",
-        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 199496,
-      "name": "Dead Girls",
-      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "It's All In Your Head",
         "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+        "name": "Hazards",
+        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
         }
       ],
-      "duration_ms": 215729,
-      "name": "Deep Green",
-      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+      "duration_ms": 199496,
+      "name": "Dead Girls",
+      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -803,6 +787,22 @@
       "duration_ms": 288288,
       "name": "pleaser",
       "url": "https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Contently Miserable",
         "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 215000,
       "name": "Contently Miserable",
       "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Brkn",
         "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
     },
     {
       "added_at": "2026-02-19 15:33:55",

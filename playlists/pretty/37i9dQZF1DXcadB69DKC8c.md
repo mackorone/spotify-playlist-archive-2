@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,373 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,392 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 59 | [Sound of Washint & Masinko \(feat\. Mulatu Astatke\)](https://open.spotify.com/track/2CdBbAcbd9FHbT8xO2C721) | [Tukul Band](https://open.spotify.com/artist/34XOIFTcNr5KJbhUaXDZIf), [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Addis 1988 \(feat\. Mulatu Astatke\)](https://open.spotify.com/album/2sonNCd7qfzjIAkEZXM24M) | 3:33 |
 | 60 | [Muziqawi silt \- instrumental](https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H) | [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:46 |
 
-Snapshot ID: `AAAAAC11zEBia+ICjAtZvD5zyafKY0DU`
+Snapshot ID: `AAAAAHFDo0mD0v0mOOr0KDGhhjr7zvzp`

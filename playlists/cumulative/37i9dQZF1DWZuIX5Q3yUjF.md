@@ -4,7 +4,7 @@
 
 > ANTONIA in cover della playlist dell'R&B italiano 🫀
 
-1,100 songs - 2 day 6 hr 13 min
+1,101 songs - 2 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 | 2022-09-09 |
 | [Iliade](https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Iliade](https://open.spotify.com/album/6vrx3mVYnoQ7jNoTN3mb3c) | 3:56 | 2023-11-02 | 2024-09-27 |
+| [Immobile](https://open.spotify.com/track/4OSKrTUeUR2ezijIty2USL) | [LalaBand](https://open.spotify.com/artist/1LbNNOEpCUMS2Idxpb4QJX) | [Immobile](https://open.spotify.com/album/3AxCOB04UhnYd9bfREmrrh) | 4:01 | 2026-08-20 |  |
 | [IMPRONTE SUI VETRI \(feat\. Evra\)](https://open.spotify.com/track/1EiEeNQ3IxF1YtWenbB2KN) | [Stone](https://open.spotify.com/artist/0k9VMSXNnnVxNMY99n6DjX), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [IMPRONTE SUI VETRI \(feat\. Evra\)](https://open.spotify.com/album/1t0xcNTQdkWZsAKq5tOYhy) | 2:32 | 2024-03-28 | 2024-04-16 |
 | [In Crisi](https://open.spotify.com/track/4Hl2fMRgrV3V3w7uDCFPmC) | [sadbrodino](https://open.spotify.com/artist/59X6ZWuzBRU0aaqXLIQkCi) | [In Crisi](https://open.spotify.com/album/37RaM9bqXfkDosHWCALn7r) | 3:35 | 2024-10-03 | 2025-02-07 |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 | 2022-11-11 |
@@ -708,7 +709,7 @@
 | [O.G.](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G.](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 | 2024-07-18 | 2024-10-25 |
 | [Obbligo o Verità](https://open.spotify.com/track/42rkEnDZG3nErSDRDCHJeR) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Obbligo o Verità](https://open.spotify.com/album/2HwsJ4g5ieIAYDCBJzhiMG) | 2:33 | 2026-06-04 |  |
 | [Occhi Fissi](https://open.spotify.com/track/2RJhyerZqCfSOiUZ7JsV99) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh), [Madbuddy](https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J) | [Occhi Fissi](https://open.spotify.com/album/4rWV237xpH6Elc33l9mjEz) | 2:43 | 2025-09-11 | 2025-11-14 |
-| [Occhi Lucifero](https://open.spotify.com/track/3BpZscXjqUS1TJspdxEVDV) | [Distemah](https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK) | [Occhi Lucifero](https://open.spotify.com/album/3bjL9J5BXgZd6TsyZYVyKF) | 2:33 | 2026-06-04 |  |
+| [Occhi Lucifero](https://open.spotify.com/track/3BpZscXjqUS1TJspdxEVDV) | [Distemah](https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK) | [Occhi Lucifero](https://open.spotify.com/album/3bjL9J5BXgZd6TsyZYVyKF) | 2:33 | 2026-06-04 | 2026-08-21 |
 | [Occhi Mare](https://open.spotify.com/track/5ShMQ5NevaLbqNnkAg2Rax) | [ARMA COD](https://open.spotify.com/artist/6aAQzz66co4bsETGpKr9aC), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Occhi Mare](https://open.spotify.com/album/6NROP6JwVHrnDgi8Ai6zwk) | 2:39 | 2023-08-31 | 2023-09-29 |
 | [Occhi Neri \(con Clementino\)](https://open.spotify.com/track/4ycTjVd8VQXSkjLLQjeGIE) | [MONET](https://open.spotify.com/artist/4lA15DbyyCQ6RzappQIUyL), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Occhi Neri \(con Clementino\)](https://open.spotify.com/album/4ZeRwbydRPQMRIJ76XQRC4) | 2:11 | 2026-07-09 |  |
 | [OCCHI STANCHI](https://open.spotify.com/track/1axi47Y55klJTxAGRrIweI) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [OCCHI STANCHI](https://open.spotify.com/album/3vON14VlAxP71Md2R3Tv24) | 2:23 | 2022-09-08 | 2023-02-03 |

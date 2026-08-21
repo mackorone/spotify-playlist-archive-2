@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-480 songs - 1 day 0 hr 5 min
+482 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Liah](https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 | 2023-12-06 | 2024-11-30 |
 | [Bad Cop](https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Bad Cop](https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj) | 2:20 | 2024-03-07 | 2024-11-30 |
 | [BANG](https://open.spotify.com/track/53iIxmE1OJAAyZYBLaqvRX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [BANG](https://open.spotify.com/album/0sRcMkSd7JWk2LpiOkvQvT) | 2:53 | 2024-04-25 | 2024-08-17 |
+| [Bangkok](https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bangkok](https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8) | 2:17 | 2026-08-20 |  |
 | [Bassline Vandal](https://open.spotify.com/track/1GUMaM9D1qF2eHxMy7KwXT) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Bassline Vandal](https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM) | 3:20 | 2025-01-02 | 2025-10-09 |
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-07-29 | 2023-09-09 |
 | [Be Better](https://open.spotify.com/track/0uVBiWEyBsnMvdpkU8LgkM) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Be Better](https://open.spotify.com/album/6UTSEM42sSiteieJFcb896) | 2:40 | 2022-07-29 | 2023-03-18 |
@@ -427,6 +428,7 @@
 | [The Way](https://open.spotify.com/track/1BustUyHtfpiRYbs0atiro) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [AlterBoyz](https://open.spotify.com/artist/7FOSeFufRu4OHI7o1YWW2j), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [The Way](https://open.spotify.com/album/3wh5DSamOl79eetXWmfPfe) | 2:49 | 2022-11-18 | 2023-02-25 |
 | [The Way Out](https://open.spotify.com/track/1c9UrEdPVH8EGQeWJVI5Or) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Alkaz](https://open.spotify.com/artist/0kTZZdRDF3KIno7fdmLpss), [SweetState](https://open.spotify.com/artist/5wfV9K49DuuaFl1tLIwhLQ), [Eon Le Roux](https://open.spotify.com/artist/0JoJVRkKJ51VeD9XLjQD9D) | [The Way Out](https://open.spotify.com/album/0dEWPZuNgMDDFeWLetlOVh) | 3:13 | 2022-07-29 | 2022-11-19 |
 | [The Way You Are](https://open.spotify.com/track/12LCVUj2fcM15u5nVfh7ml) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [BÔN](https://open.spotify.com/artist/4IJUhBXXz5jLD7LkPCmHaK) | [The Way You Are](https://open.spotify.com/album/6Vt2ghK7mU05r2HukOP8HE) | 3:11 | 2024-02-15 | 2025-02-01 |
+| [The World Never Sleeps](https://open.spotify.com/track/0B2lx3qUaH6N4ZjkPEk5nY) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ), [Blink](https://open.spotify.com/artist/19fY7qlB3oRObm7sXD64kI) | [The World Never Sleeps](https://open.spotify.com/album/6AlRAyUgWH4jc3wGXjVBKr) | 2:27 | 2026-08-20 |  |
 | [There's Still Time](https://open.spotify.com/track/7yh0Nvp2RacQ42AIWZu8Py) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [There’s Still Time](https://open.spotify.com/album/0vnDRzYHPonEaDzQTMqnMw) | 3:30 | 2022-07-29 | 2022-10-04 |
 | [This Feeling](https://open.spotify.com/track/4gzdGjwIXhM3EzjKZMIq6b) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Alex Aspen](https://open.spotify.com/artist/6Q5kFbxHkQQRIbah391oiE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [This Feeling](https://open.spotify.com/album/5aYxX3kMdOJx9sZLAnRsuN) | 2:58 | 2022-07-29 | 2022-11-19 |
 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 | 2024-01-09 |  |

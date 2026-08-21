@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 
 > 아티스트의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요! \(Enjoy the artist's concert LIVE SET including the voices of them on stage!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 806 likes - 39 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 39 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 | 38 | [Some Some Some \(Live 2023\)](https://open.spotify.com/track/42JZQqxdFQsVeZ1jz91Q21) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 3:05 |
 | 39 | [28k LOVE!!](https://open.spotify.com/track/3KvNKbR2VXEBJG0mx7aSiJ) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 3:33 |
 
-Snapshot ID: `AAAAAKkTsxOiJYibf0Nt9KFqyPJqfw/p`
+Snapshot ID: `AAAAALCfAvCKAswvOyaN5/8fNvfhlLZ5`

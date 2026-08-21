@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Wasia Project
 
-2,496 songs - 5 day 13 hr 7 min
+2,497 songs - 5 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [breakfast at a funeral](https://open.spotify.com/track/6aIg0mJ6QslTGAapVtQl47) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66), [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [breakfast at a funeral](https://open.spotify.com/album/5JlY5HP2vgzwO1vn4VWYQ3) | 2:17 | 2022-02-25 | 2022-04-16 |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-24 | 2026-02-21 |
 | [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-13 | 2026-05-16 |
-| [breathless](https://open.spotify.com/track/3f1B7seoBSLXlyXS2QZU46) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [plum](https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG) | 3:41 | 2026-06-12 |  |
+| [breathless](https://open.spotify.com/track/3f1B7seoBSLXlyXS2QZU46) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [plum](https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG) | 3:41 | 2026-06-12 | 2026-08-21 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-25 | 2022-07-23 |
 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 | 2025-06-27 | 2026-02-07 |
 | [brokenhearted](https://open.spotify.com/track/6I5BbFFYDe8TmEk0VtW7Cl) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [brokenhearted](https://open.spotify.com/album/4LO5fNpbCHVEDb6TIOs5l1) | 3:32 | 2020-10-13\* | 2021-05-23 |
@@ -1727,6 +1727,7 @@
 | [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 |  |
 | [pop tarts](https://open.spotify.com/track/3P23kcmBXrFyGmbthN3DLK) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [who gives a f\*\*k?](https://open.spotify.com/album/6LAD5tDe1O0PGXWgOqoND9) | 3:07 | 2021-02-22 | 2021-02-27 |
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-08-06 | 2022-04-15 |
+| [Porcelain](https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Porcelain](https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c) | 3:22 | 2026-08-07 |  |
 | [Porsche](https://open.spotify.com/track/1mYzzRRD6wB9xVAxUllDqw) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Porsche](https://open.spotify.com/album/2QoW4xvavVf9KYiIGNBNm8) | 3:35 | 2020-10-20 | 2021-06-03 |
 | [pos](https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:05 | 2023-09-29 | 2024-01-02 |
 | [Possession](https://open.spotify.com/track/6jeNDTQlTN2IuWyzmBvKCY) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Sailor's Compilation, Pt\. 3](https://open.spotify.com/album/6eizFTu5YxiHRmTK9wYCjR) | 2:00 | 2025-08-15 | 2025-08-30 |

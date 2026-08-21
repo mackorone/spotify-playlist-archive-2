@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Phuwin",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SERIOUS BACON, PP KRIT",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 216000,
       "name": "Before you go (\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b)",
       "url": "https://open.spotify.com/track/2MdaYNX7QRQeKW78cZbl16"
@@ -1684,10 +1684,28 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 242926,
       "name": "FYI",
       "url": "https://open.spotify.com/track/1LFfkVLglHhytaZ2olU8I9"
+    },
+    {
+      "album": {
+        "name": "GIVE ME MORE",
+        "url": "https://open.spotify.com/album/4kYHYWCJSsUfLAEr0jg6RB"
+      },
+      "artists": [
+        {
+          "name": "Kiismet",
+          "url": "https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "GIVE ME MORE",
+      "url": "https://open.spotify.com/track/4DlxcnXHwp426Y0vDs41GN"
     },
     {
       "album": {
@@ -2376,7 +2394,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 241000,
       "name": "I\u2019ve Got You",
       "url": "https://open.spotify.com/track/6YqIm8zzoDWidId0ZfL8vF"
@@ -2506,6 +2524,24 @@
       "duration_ms": 184259,
       "name": "Kiss Me!",
       "url": "https://open.spotify.com/track/2OJ4pcZ6TntuT0pk052jzW"
+    },
+    {
+      "album": {
+        "name": "KISS, COME KISS",
+        "url": "https://open.spotify.com/album/3zJIGaDtkMWzIP9vGUiRkX"
+      },
+      "artists": [
+        {
+          "name": "BLUE PONGTIWAT",
+          "url": "https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "KISS, COME KISS",
+      "url": "https://open.spotify.com/track/0Y1zdj4gSsotiA8ZwzqCBo"
     },
     {
       "album": {
@@ -5347,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/4hVZuzlSbovT4CQXCSGz58"
+      },
+      "artists": [
+        {
+          "name": "JASP.ER",
+          "url": "https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/7zXuAHX3H0AKPBoQ46YY5e"
+    },
+    {
+      "album": {
         "name": "Wish you the best",
         "url": "https://open.spotify.com/album/0WNX605GwY41znKTXyILie"
       },
@@ -6334,6 +6388,28 @@
       "duration_ms": 270750,
       "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08 (My Fault)",
+        "url": "https://open.spotify.com/album/38wk9eBZQTsIF456u4iYdQ"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203382,
+      "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08 (My Fault)",
+      "url": "https://open.spotify.com/track/4HrrcUbJrVsI5dkmDTNc1R"
     },
     {
       "album": {
@@ -9818,7 +9894,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 202000,
       "name": "\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e43\u0e19\u0e43\u0e08 - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e30\u0e40\u0e27\u0e17\u0e35 \"Once Again \u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07... \u0e22\u0e34\u0e48\u0e07\u0e40\u0e08\u0e47\u0e1a \u0e22\u0e34\u0e48\u0e07\u0e08\u0e33 \u0e22\u0e34\u0e48\u0e07\u0e23\u0e31\u0e01\"",
       "url": "https://open.spotify.com/track/3Z6YtFTLorGQGcVbgNLvLd"
@@ -9946,6 +10022,24 @@
       "duration_ms": 208421,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e08\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08 (Bloom)",
+        "url": "https://open.spotify.com/album/545siLns9NJwJNLmPLhM3w"
+      },
+      "artists": [
+        {
+          "name": "TuiChayatorn",
+          "url": "https://open.spotify.com/artist/6KetfJx33troRK1HfaurAG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191100,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08 (Bloom)",
+      "url": "https://open.spotify.com/track/47lYJIDzEjbb3GMPjbNwmG"
     },
     {
       "album": {
@@ -17218,7 +17312,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 206341,
       "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
       "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"

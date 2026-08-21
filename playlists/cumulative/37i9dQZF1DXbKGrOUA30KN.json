@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Erda, Sampagne",
+  "description": "Deutschpop, der jetzt passiert. Cover: Montez",
   "name": "POPLAND",
   "tracks": [
     {
@@ -864,7 +864,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 164489,
       "name": "anders angefangen",
       "url": "https://open.spotify.com/track/3ytn91gGCPIH1jVpPkTemN"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Blaues Auge",
+        "url": "https://open.spotify.com/album/0hyuku4wX5diDHyhjSehZb"
+      },
+      "artists": [
+        {
+          "name": "Fabian Wegerer",
+          "url": "https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Blaues Auge",
+      "url": "https://open.spotify.com/track/0Ig8pN0d9lXmPs3XYeRZ4J"
+    },
+    {
+      "album": {
         "name": "MIT JEDER FASER",
         "url": "https://open.spotify.com/album/29xGHjCuD2z60cdKW4Fkel"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 141202,
       "name": "ciao bb",
       "url": "https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA"
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 141853,
       "name": "Clean Girl",
       "url": "https://open.spotify.com/track/5Q7pCxjEEdNiHNf1VewJlC"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 208040,
       "name": "der kleinste mensch der welt",
       "url": "https://open.spotify.com/track/2RuhIkouqj8ebFcSrxnzTa"
@@ -2953,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "dummes klavier",
+        "url": "https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4"
+      },
+      "artists": [
+        {
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199917,
+      "name": "dummes klavier",
+      "url": "https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef"
+    },
+    {
+      "album": {
         "name": "D\u00e4monen",
         "url": "https://open.spotify.com/album/1anxTU6GDo3uRHhCDLKygy"
       },
@@ -3094,7 +3130,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 151552,
       "name": "Ein Lied",
       "url": "https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM"
@@ -3492,7 +3528,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168762,
       "name": "Fallen Angels",
       "url": "https://open.spotify.com/track/59rChsXAmfQCLsXuViF5CK"
@@ -3860,7 +3896,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161203,
       "name": "froh allein zu sein",
       "url": "https://open.spotify.com/track/2dAY1Jln2P8QSuIABq2asq"
@@ -4243,6 +4279,28 @@
     },
     {
       "album": {
+        "name": "So ist das mit dem Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4sre2JgnwsJoH2Bd8r0tEA"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        },
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146131,
+      "name": "Glaubst du nicht auch",
+      "url": "https://open.spotify.com/track/1MDC9cmNlt3nU18QDk0STY"
+    },
+    {
+      "album": {
         "name": "Gleichzeitig leben",
         "url": "https://open.spotify.com/album/4xrxrUI8IxoeP9QM7YVBUL"
       },
@@ -4388,7 +4446,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 169720,
       "name": "Gut genug",
       "url": "https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y"
@@ -4464,7 +4522,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 160311,
       "name": "Haare nass",
       "url": "https://open.spotify.com/track/3BU2GKtYdZV6UWHmEHXQsA"
@@ -5017,6 +5075,28 @@
     },
     {
       "album": {
+        "name": "Heute mal bei mir",
+        "url": "https://open.spotify.com/album/1Gd99HRfQ1puTAqZFnWHk2"
+      },
+      "artists": [
+        {
+          "name": "Egon Werler",
+          "url": "https://open.spotify.com/artist/4YYCHckJCIZRGFzZDuLLx8"
+        },
+        {
+          "name": "Charlotte Kudella",
+          "url": "https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214203,
+      "name": "Heute mal bei mir",
+      "url": "https://open.spotify.com/track/6KFNOPPR75VnqrK8xkJWaT"
+    },
+    {
+      "album": {
         "name": "heute nacht sind die h\u00fchner wild",
         "url": "https://open.spotify.com/album/5o4YTqa6bW2douWyhKh6I1"
       },
@@ -5273,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "nie zufrieden ep",
+        "url": "https://open.spotify.com/album/0OsNu8S9idV7NkHVI0Ncgq"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160205,
+      "name": "ich liebe was, was du nicht liebst",
+      "url": "https://open.spotify.com/track/2rWfFqRJ8f5wKI9lQIaO4Z"
+    },
+    {
+      "album": {
         "name": "Ich mag dich",
         "url": "https://open.spotify.com/album/6R1ioYYFaR5zo6jC3mXUku"
       },
@@ -5360,6 +5458,24 @@
       "duration_ms": 151721,
       "name": "Ich Wart Auf Dich",
       "url": "https://open.spotify.com/track/7swJnVcL7RwIrtE6MrQUAV"
+    },
+    {
+      "album": {
+        "name": "Ich wein f\u00fcr dich",
+        "url": "https://open.spotify.com/album/1XXKsykHsVcYjQKMsGrs0t"
+      },
+      "artists": [
+        {
+          "name": "Nalya",
+          "url": "https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Ich wein f\u00fcr dich",
+      "url": "https://open.spotify.com/track/177EAWicoLjRcIJuaETODL"
     },
     {
       "album": {
@@ -6695,6 +6811,28 @@
     },
     {
       "album": {
+        "name": "Lass uns gehen",
+        "url": "https://open.spotify.com/album/0KbuFt7mOavss2MpVAfI64"
+      },
+      "artists": [
+        {
+          "name": "Lewinray",
+          "url": "https://open.spotify.com/artist/7mc5W2bz15fAIfTzC1TbpZ"
+        },
+        {
+          "name": "Mike Singer",
+          "url": "https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168887,
+      "name": "Lass uns gehen",
+      "url": "https://open.spotify.com/track/3ywyxccv6b7njRhFCWJEsJ"
+    },
+    {
+      "album": {
         "name": "Laut Gedacht (Bam Ba Bam)",
         "url": "https://open.spotify.com/album/2Qk2nRCTYT3lq6cLEpaMDB"
       },
@@ -7140,7 +7278,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 135937,
       "name": "Linker Haken",
       "url": "https://open.spotify.com/track/2ExYpZvG3nJmNEhqZBYEKv"
@@ -7744,7 +7882,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 169204,
       "name": "mit anderen augen",
       "url": "https://open.spotify.com/track/4bEEO0oInGv3OYInricb0k"
@@ -7820,6 +7958,24 @@
       "duration_ms": 162569,
       "name": "Munition",
       "url": "https://open.spotify.com/track/1ay2hi92GYl08TWetl0Axg"
+    },
+    {
+      "album": {
+        "name": "Mut und Leichtsinn",
+        "url": "https://open.spotify.com/album/49m9gFh6GEsQOfj5Lot8Ee"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162866,
+      "name": "Mut & Leichtsinn",
+      "url": "https://open.spotify.com/track/6TsyTkVMdGGUfF3azhIzjb"
     },
     {
       "album": {
@@ -9683,6 +9839,28 @@
     },
     {
       "album": {
+        "name": "Schwarzer Hund (Joel's Lieblingslieder)",
+        "url": "https://open.spotify.com/album/2jXNB1c0zEH8Z9YuJwv6M5"
+      },
+      "artists": [
+        {
+          "name": "Joel Brandenstein",
+          "url": "https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A"
+        },
+        {
+          "name": "Katha Rosa",
+          "url": "https://open.spotify.com/artist/767iqRy8U8T4rAdDscZt57"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176886,
+      "name": "Schwarzer Hund (Joel's Lieblingslieder)",
+      "url": "https://open.spotify.com/track/2LHCHiSKrX1g3zKyKp3vTs"
+    },
+    {
+      "album": {
         "name": "Schwimme (ich ertrink)",
         "url": "https://open.spotify.com/album/3toyu7mPnFXqjzp2Cxrkm7"
       },
@@ -10623,6 +10801,24 @@
     },
     {
       "album": {
+        "name": "TIPICO!",
+        "url": "https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131493,
+      "name": "TIPICO!",
+      "url": "https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1"
+    },
+    {
+      "album": {
         "name": "Tot",
         "url": "https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv"
       },
@@ -10638,6 +10834,24 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
+    },
+    {
+      "album": {
+        "name": "Lotte",
+        "url": "https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF"
     },
     {
       "album": {
@@ -11176,6 +11390,24 @@
       "duration_ms": 137186,
       "name": "Vorsichtig zerbrechlich!",
       "url": "https://open.spotify.com/track/01WUR7VlkGhxFXnPomrjGq"
+    },
+    {
+      "album": {
+        "name": "vvm",
+        "url": "https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "vvm",
+      "url": "https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG"
     },
     {
       "album": {
@@ -12196,7 +12428,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 145861,
       "name": "Wie es ist",
       "url": "https://open.spotify.com/track/1POGbywvBWYSPLvHepsLj5"

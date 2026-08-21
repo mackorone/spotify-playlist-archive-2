@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Troye Sivan",
+  "description": "Beyond titles, beyond genre. Cover: Shygirl",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -716,6 +716,24 @@
       "duration_ms": 268626,
       "name": "Allbarone",
       "url": "https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds"
+    },
+    {
+      "album": {
+        "name": "Alyse",
+        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
     },
     {
       "album": {
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 204622,
       "name": "call me yours",
       "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
@@ -3255,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "bad pieces",
+        "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191910,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ"
+    },
+    {
+      "album": {
         "name": "Duppy Gun",
         "url": "https://open.spotify.com/album/3afz4ORD26X2AkSM5BPIsW"
       },
@@ -3320,7 +3356,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 241373,
       "name": "Crown Jewel",
       "url": "https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR"
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 231368,
       "name": "Cutting Off The Head Of A Ghost",
       "url": "https://open.spotify.com/track/34h77avpCK81oQ6o6uT61x"
@@ -4026,7 +4062,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185306,
       "name": "did you ask for this",
       "url": "https://open.spotify.com/track/5ytBJVsVok9yWBQca56Ewx"
@@ -6230,7 +6266,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 199184,
       "name": "Get The Time Back",
       "url": "https://open.spotify.com/track/3Ic2K44CMzlcJT7NKSCV3M"
@@ -8364,7 +8400,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189918,
       "name": "ill be there for u",
       "url": "https://open.spotify.com/track/2pfbhevjWzuSycZzSXAuVU"
@@ -9081,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "kitty",
+        "url": "https://open.spotify.com/album/1bFj1uD4eavmXYMKywDdeL"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158781,
+      "name": "kitty",
+      "url": "https://open.spotify.com/track/64wLsuDWkTMG2DCgnSc4Ah"
+    },
+    {
+      "album": {
         "name": "Knife In The Heart",
         "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
       },
@@ -9708,6 +9762,24 @@
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
+    },
+    {
+      "album": {
+        "name": "Lilith",
+        "url": "https://open.spotify.com/album/4VYy0YvAwmTQWy8zFG0CXK"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136650,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/0aNm0ArRJjuEb57hE6CGC6"
     },
     {
       "album": {
@@ -11137,6 +11209,24 @@
     },
     {
       "album": {
+        "name": "Mothers Bells",
+        "url": "https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152748,
+      "name": "Mothers Bells",
+      "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
+    },
+    {
+      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5"
       },
@@ -12066,7 +12156,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 217960,
       "name": "On Your Mind (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
@@ -12642,6 +12732,28 @@
       "duration_ms": 198617,
       "name": "Pink",
       "url": "https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U"
+    },
+    {
+      "album": {
+        "name": "Herzsprung",
+        "url": "https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        },
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181308,
+      "name": "Pipe Dream",
+      "url": "https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a"
     },
     {
       "album": {
@@ -16403,6 +16515,28 @@
     },
     {
       "album": {
+        "name": "Decoding Birdsong",
+        "url": "https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        },
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "The First Five Minutes of Magnolia",
+      "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
+    },
+    {
+      "album": {
         "name": "The Fork",
         "url": "https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2"
       },
@@ -16804,7 +16938,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 204891,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/7FLGXwVFkWqXoVUj74A2xt"
@@ -17832,6 +17966,24 @@
       "duration_ms": 205870,
       "name": "Vespers",
       "url": "https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W"
+    },
+    {
+      "album": {
+        "name": "Vessels",
+        "url": "https://open.spotify.com/album/1ETblH5hWhxrC5Pzm0nyS4"
+      },
+      "artists": [
+        {
+          "name": "Jesse June",
+          "url": "https://open.spotify.com/artist/1jTbHx4wIRpp5mbVc35lLu"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109930,
+      "name": "Vessels",
+      "url": "https://open.spotify.com/track/1I2nIfKAeUtIOHDowOKsQA"
     },
     {
       "album": {

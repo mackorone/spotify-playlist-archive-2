@@ -3013,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Big Life, Big Leaf",
+        "url": "https://open.spotify.com/album/5tWhmvVVwODyA4cWaNZPCT"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309410,
+      "name": "Barking at the Sun",
+      "url": "https://open.spotify.com/track/2UDn4XnFb0ACsgqoy61WXM"
+    },
+    {
+      "album": {
         "name": "Barricade",
         "url": "https://open.spotify.com/album/7pBVgL3XK5UzAxl9CxO0oS"
       },

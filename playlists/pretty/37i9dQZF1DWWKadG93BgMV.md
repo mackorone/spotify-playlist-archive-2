@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 
 > Sonic the Hedgehog here! 35 years? Yeah, I counted..\. between running at the speed of sound! The ultimate birthday playlist is here and it's hitting harder than ever\. Crank it up and celebrate with me!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,632 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,757 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 | 34 | [Feeling Good \- Austin Millz Remix](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Feeling Good \(Austin Millz Remix\)](https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6) | 2:30 |
 | 35 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 
-Snapshot ID: `AAAAAGkNVpL4nW6ThyBji9sv62JebNsF`
+Snapshot ID: `AAAAAAUbpFwd1PB8RC1DfRKPld+8F3bZ`

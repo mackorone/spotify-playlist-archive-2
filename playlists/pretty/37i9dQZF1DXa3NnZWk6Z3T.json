@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 635799,
+  "num_followers": 635806,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgXoEnGEHGcJiR7FcBjmp9CjazA",
+  "snapshot_id": "AAAAAAbA8iKfIHzSqgbdvujkSlCY6/XX",
   "tracks": [
     {
       "added_at": "2026-04-30 20:25:38",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 236002,
+      "name": "Nuestro Amanecer",
+      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "Conc\u00e9ntrica Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 236002,
-      "name": "Nuestro Amanecer",
-      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -751,22 +767,6 @@
       "duration_ms": 300383,
       "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
       "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Epitafio",
-        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Epitafio",
-      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Epitafio",
+        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Epitafio",
+      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Everybody Wants to Rule the World",
         "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 238946,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "Eucalipto",
+        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "maracas y cuero",
         "url": "https://open.spotify.com/album/4IZSe1qS5PxcquNyop7wgn"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 174065,
       "name": "maracas y cuero",
       "url": "https://open.spotify.com/track/2nJ9Dt22tBCkrbY2mpIYK6"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
-        "name": "Eucalipto",
-        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Calle Cima",
         "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 219477,
       "name": "Calle Cima",
       "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Eterno Verano",
-        "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
-      },
-      "artists": [
-        {
-          "name": "chimi",
-          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
-        },
-        {
-          "name": "Marie Gabrielle Blix",
-          "url": "https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Eterno Verano",
-      "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Me gusta",
         "url": "https://open.spotify.com/album/6Wwlh1YlrReprbhFM0dGgN"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 266769,
       "name": "Me gusta",
       "url": "https://open.spotify.com/track/44K3RT10JMPLVdYf4R7jel"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Eterno Verano",
+        "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
+      },
+      "artists": [
+        {
+          "name": "chimi",
+          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
+        },
+        {
+          "name": "Marie Gabrielle Blix",
+          "url": "https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Eterno Verano",
+      "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
+        "url": "https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 157522,
+      "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
+      "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "La Fortuna (feat. Tommy Torres)",
         "url": "https://open.spotify.com/album/4QUUUIiRzrs9pQYRbckcTT"
       },
@@ -2235,26 +2251,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Cigarrito y Caf\u00e9",
-        "url": "https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Cigarrito y Caf\u00e9",
-      "url": "https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "costas de coral",
         "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
       },
@@ -2287,6 +2283,26 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "Cigarrito y Caf\u00e9",
+        "url": "https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Cigarrito y Caf\u00e9",
+      "url": "https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "Capul\u00ed",
         "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
       },
@@ -2315,26 +2331,6 @@
       "duration_ms": 213143,
       "name": "Que Pase El Mundo",
       "url": "https://open.spotify.com/track/5s5y1ePaldkSzo4vDeXRkG"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
-        "name": "Por Venir",
-        "url": "https://open.spotify.com/album/6rMTca5nUI1OHbuawKqZ1v"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 177943,
-      "name": "Por Venir",
-      "url": "https://open.spotify.com/track/03Sue7vLnMzdKdANWJRFhf"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2419,6 +2415,26 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "Por Venir",
+        "url": "https://open.spotify.com/album/6rMTca5nUI1OHbuawKqZ1v"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 177943,
+      "name": "Por Venir",
+      "url": "https://open.spotify.com/track/03Sue7vLnMzdKdANWJRFhf"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "A M\u00ed y a Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
       },
@@ -2475,6 +2491,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
       },
@@ -2491,22 +2523,6 @@
       "duration_ms": 255000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2567,22 +2583,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Te necesito everywhere",
         "url": "https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG"
       },
@@ -2595,6 +2595,22 @@
       "duration_ms": 166956,
       "name": "Te necesito everywhere",
       "url": "https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2647,22 +2663,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "La Creatividad",
-        "url": "https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s del Real",
-          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
-        }
-      ],
-      "duration_ms": 124685,
-      "name": "La Creatividad",
-      "url": "https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Parte de Mi",
         "url": "https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz"
       },
@@ -2695,6 +2695,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
+        "name": "La Creatividad",
+        "url": "https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
+        }
+      ],
+      "duration_ms": 124685,
+      "name": "La Creatividad",
+      "url": "https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A"
       },
@@ -2707,22 +2723,6 @@
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
-        "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
-        "url": "https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23"
-      },
-      "artists": [
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 157522,
-      "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
-      "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
     }
   ],
   "unique_name": "Caf\u00e9 con Leche",

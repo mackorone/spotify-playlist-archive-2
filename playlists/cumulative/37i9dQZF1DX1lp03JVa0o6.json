@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: Peking Duk",
+  "description": "Today's biggest dance hits! Cover: Odd Mob & OMNOM (HYPERBEAM)",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 188972,
       "name": "Better Times (feat. BARBZ)",
       "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 150468,
       "name": "Body",
       "url": "https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 168173,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
@@ -4406,6 +4406,24 @@
       "duration_ms": 187279,
       "name": "Contact",
       "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
+    },
+    {
+      "album": {
+        "name": "Heaven In The Dark",
+        "url": "https://open.spotify.com/album/0py0wdchSkP1cArZUdyCOb"
+      },
+      "artists": [
+        {
+          "name": "Open Till L8",
+          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196643,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq"
     },
     {
       "album": {
@@ -6788,7 +6806,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3dltnNdpRDtPMydcL8eMSR"
@@ -10604,7 +10622,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 196622,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
@@ -11302,7 +11320,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 193358,
       "name": "Let Me Be In Your Arms",
       "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
@@ -11650,6 +11668,24 @@
       "duration_ms": 198984,
       "name": "Like This & That",
       "url": "https://open.spotify.com/track/0DpQGxV3lJTV7KkfG5JZUp"
+    },
+    {
+      "album": {
+        "name": "LIKE TO PARTY",
+        "url": "https://open.spotify.com/album/3ARNIR8EWYK7hOdE3DM5Nf"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231011,
+      "name": "LIKE TO PARTY",
+      "url": "https://open.spotify.com/track/4RD1oSVVJFV2p4aMIV98DC"
     },
     {
       "album": {
@@ -13868,7 +13904,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
@@ -14522,7 +14558,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 180140,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1"
@@ -14782,7 +14818,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 205190,
       "name": "Orla",
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
@@ -15991,6 +16027,24 @@
     },
     {
       "album": {
+        "name": "Ravers",
+        "url": "https://open.spotify.com/album/4jLIjmfkRz1jIZinv6BtFU"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206272,
+      "name": "Ravers",
+      "url": "https://open.spotify.com/track/5oVbId7tF4pAwQYN9t4v0B"
+    },
+    {
+      "album": {
         "name": "Ray Of Solar",
         "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
       },
@@ -16328,7 +16382,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 170062,
       "name": "Ripa Na Xulipa",
       "url": "https://open.spotify.com/track/7mevSsvaFGWrokMRVvXh1Y"
@@ -17202,6 +17256,28 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
+    },
+    {
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228947,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
     },
     {
       "album": {
@@ -20464,6 +20540,24 @@
       "duration_ms": 182423,
       "name": "Throw Some Ass",
       "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "album": {
+        "name": "Til Death",
+        "url": "https://open.spotify.com/album/5vY7zRwYoEAFrounXi7HaQ"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Til Death",
+      "url": "https://open.spotify.com/track/209B6ePlgrgUhErO5mnTcl"
     },
     {
       "album": {

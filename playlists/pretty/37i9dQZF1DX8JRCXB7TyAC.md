@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,897 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,933 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 43 | [2 Rani](https://open.spotify.com/track/0AKpjnVt2TAVuR8OO5FJCV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [2 Rani](https://open.spotify.com/album/6tIzcQJVZUvgW97tss0LzY) | 2:36 |
 | 44 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
 | 45 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
-| 46 | [Boyz In Bar](https://open.spotify.com/track/7tVDHY4FCGzPCBB5qhO74T) | [Suvir](https://open.spotify.com/artist/0ACQfm6VJUstBUijhGgYFg), [Pablo](https://open.spotify.com/artist/2aGhLC9R47KiiD1ZRjaHgq), [Real Raka](https://open.spotify.com/artist/7DiKFC6GbY2W7Y7FlMmzyk) | [Boyz In Bar](https://open.spotify.com/album/6OlzS5PEKffkDKyVc1t2y7) | 3:40 |
-| 47 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
-| 48 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 |
-| 49 | [Darzi](https://open.spotify.com/track/6tIPVfl61026Q4lmGzpkVZ) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN) | [Darzi](https://open.spotify.com/album/25U1mwUNKA3a4RLpmFXSzR) | 2:44 |
-| 50 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
+| 46 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
+| 47 | [Boyz In Bar](https://open.spotify.com/track/7tVDHY4FCGzPCBB5qhO74T) | [Suvir](https://open.spotify.com/artist/0ACQfm6VJUstBUijhGgYFg), [Pablo](https://open.spotify.com/artist/2aGhLC9R47KiiD1ZRjaHgq), [Real Raka](https://open.spotify.com/artist/7DiKFC6GbY2W7Y7FlMmzyk) | [Boyz In Bar](https://open.spotify.com/album/6OlzS5PEKffkDKyVc1t2y7) | 3:40 |
+| 48 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
+| 49 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
+| 50 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 |
 
-Snapshot ID: `AAAAAFmDfAqfwlBQfotTIwUOuFoEfZwt`
+Snapshot ID: `AAAAAO2cmaZrPazWa/9njIwFq+sGTQ//`

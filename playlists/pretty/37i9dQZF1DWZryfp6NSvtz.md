@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,434 likes - 159 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,443 likes - 159 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 158 | [ninetynine](https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [dollhouse](https://open.spotify.com/album/201hc47dwex9hgvquFuPyK) | 2:43 |
 | 159 | [Truth or Dare](https://open.spotify.com/track/62CSylX8QyL5bvcSCE2He0) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Truth or Dare](https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj) | 2:34 |
 
-Snapshot ID: `AAAAACmzMe1HRq5SeiMon5Y/bJu3u4pa`
+Snapshot ID: `AAAAABUtf8Pm/+5pSUfNVRGaE/YOlrUp`

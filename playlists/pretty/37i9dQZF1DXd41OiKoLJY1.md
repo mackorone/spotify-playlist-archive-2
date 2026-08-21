@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Before Rain Begins\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,705 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,710 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [fallinlove?](https://open.spotify.com/track/4Jg744nH7glHFc3DpyiNvC) | [Rajondo](https://open.spotify.com/artist/73jNV0uIKmFFvNK7SQ3RXu) | [fallinlove?](https://open.spotify.com/album/4FoPGnulf0eQ04csnAN1bG) | 3:29 |
 | 50 | [Laso](https://open.spotify.com/track/6Vxt7u25zuY3djDnuRKbe4) | [Jamiela](https://open.spotify.com/artist/5p1VVzsnhyultjNL7T6Wuu) | [Laso](https://open.spotify.com/album/7qY3V1G9WHlFiaFPwLqfBU) | 3:23 |
 
-Snapshot ID: `AAAAAPVtvh6sqldI62p+u4JHGNGUOE7x`
+Snapshot ID: `AAAAAN1S0/HCh6uQ/X1Zv+4iOPA23VVT`

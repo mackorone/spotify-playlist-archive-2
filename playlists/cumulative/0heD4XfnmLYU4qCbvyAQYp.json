@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Vestibule",
+        "url": "https://open.spotify.com/album/3mbbJbahWy2dg7p5FePS2C"
+      },
+      "artists": [
+        {
+          "name": "Luniel12",
+          "url": "https://open.spotify.com/artist/5iFZs11tGSdpiD5G6SoZ9D"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137001,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/4uwz0P6l6kqR3rQJ0xOvhX"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL"
       },

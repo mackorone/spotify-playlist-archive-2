@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,005 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,034 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 30 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 31 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
 | 32 | [Crazy Love](https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy) | 5:41 |
-| 33 | [Texas](https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb), [Steve Miller](https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Up Close](https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9) | 6:02 |
-| 34 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |
-| 35 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
-| 36 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
+| 33 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |
+| 34 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
+| 35 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
+| 36 | [Texas](https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb), [Steve Miller](https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Up Close](https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9) | 6:02 |
 | 37 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
 | 38 | [Cold, Cold Feeling](https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 5:19 |
 | 39 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Pay the Band](https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn) | 4:33 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 |
 
-Snapshot ID: `AAAAAIttDAlolt1Pi08+/4viq1pQl24a`
+Snapshot ID: `AAAAABpFmMq+1kt57Fsq8fg4NX8xvRf7`

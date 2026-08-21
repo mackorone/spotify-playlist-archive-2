@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 870985,
+  "num_followers": 871054,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAGiVINmI6YPXCnno+kSfc8U4Ik",
+  "snapshot_id": "AAAAANIbewDN/Mswurp7u9VlaAk9zxLn",
   "tracks": [
     {
       "added_at": "2026-07-23 22:00:18",
@@ -383,6 +383,26 @@
       "duration_ms": 156254,
       "name": "Sexy Nana",
       "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"
+    },
+    {
+      "added_at": "2026-08-20 11:09:15",
+      "album": {
+        "name": "JE TE RESSEMBLE",
+        "url": "https://open.spotify.com/album/0FpCvu4SIYPz7ptPcNMuRQ"
+      },
+      "artists": [
+        {
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
+        },
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Ma Reine",
+      "url": "https://open.spotify.com/track/2B5A0IJZTT5YsR6mMy8jnG"
     },
     {
       "added_at": "2026-08-14 11:02:07",
@@ -1195,26 +1215,6 @@
       "duration_ms": 150800,
       "name": "Negro difficile",
       "url": "https://open.spotify.com/track/4OLRGK5ae9tRj5jUWweIoS"
-    },
-    {
-      "added_at": "2026-06-09 14:17:45",
-      "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
       "added_at": "2026-06-09 14:17:45",

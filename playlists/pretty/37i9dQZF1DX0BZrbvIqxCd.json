@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 542972,
+  "num_followers": 542962,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPB3LCMkc6JL3fKTUgZ92xWf+vOJ",
+  "snapshot_id": "AAAAAMKShIR3XRlyHXrZlKpnDyoOLGON",
   "tracks": [
     {
       "added_at": "2024-07-19 11:53:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "All My Friends are Nobodies",
-      "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Fascist Bob",
         "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "All My Friends are Nobodies",
+      "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
-      },
-      "artists": [
-        {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 191257,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Unfamiliar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Sailor Honeymoon",
         "url": "https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 157198,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Unfamiliar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp"
     },
     {
       "added_at": "2024-07-19 11:53:42",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-208 songs - 10 hr 54 min
+209 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Origami](https://open.spotify.com/track/3ptUPCHJcd54Yd57BH4pnX) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Origami](https://open.spotify.com/album/6h7sxgwYeFRWodzvuFd5T4) | 3:19 | 2024-01-01 |  |
 | [Origami](https://open.spotify.com/track/4SSceW5MNDzaBhM5Q94XkN) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Origami](https://open.spotify.com/album/0aEeSjBNqWxayXCEeaKRi2) | 3:19 | 2022-12-13 | 2024-01-02 |
 | [Parachute](https://open.spotify.com/track/4lViHb3L4irBiH26TOJFsj) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/4gzIENtoG03PRegwArlMA6) | 3:21 | 2025-09-28 | 2026-08-17 |
+| [Parachute](https://open.spotify.com/track/6AwQty7WBfPFqGxsmYlMbb) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/670go6oDg9LHGQzgA39DyK) | 3:21 | 2026-08-20 |  |
 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 | 2022-05-25 |  |
 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 | 2022-10-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/7eAwdGGl9sihvZtvomgz9l) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/6D0GK3nbND87zH81x0Unqr) | 2:57 | 2022-05-25 | 2022-10-19 |

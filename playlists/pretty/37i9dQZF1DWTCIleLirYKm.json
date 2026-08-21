@@ -1,12 +1,12 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 225772,
+  "num_followers": 225818,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4e4Z2cVN5ofq/MJzJY8RFn3N8s",
+  "snapshot_id": "AAAAALM2fKsGb5r8bUNpa3tD0F7fdV4y",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:57",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -203,18 +219,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+        "name": "Top Hat Crown & the Clapmaster's Son",
+        "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+      "duration_ms": 319227,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -235,22 +251,6 @@
       "duration_ms": 157913,
       "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
-        "name": "Top Hat Crown & the Clapmaster's Son",
-        "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
-      },
-      "artists": [
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
-        }
-      ],
-      "duration_ms": 319227,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 201898,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "The Road Goes On Forever",
         "url": "https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 281400,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Snake Farm",
-        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Snake Farm",
-      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 275690,
       "name": "Sunday Mornin' Comin' Down",
       "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Snake Farm",
+        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Snake Farm",
+      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 147909,
       "name": "Help Me Make It Through the Night",
       "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Straw in the Wind",
-      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Them Dirty Roses",
         "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 240744,
       "name": "Whiskey in My Cup",
       "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Straw in the Wind",
+      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Corralling the Blues",
-        "url": "https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Corralling the Blues",
-      "url": "https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "White River",
         "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 213888,
       "name": "White River",
       "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Corralling the Blues",
+        "url": "https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Corralling the Blues",
+      "url": "https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF"
     },
     {
       "added_at": "2026-07-24 04:01:57",

@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "We Could Be Brave",
+        "url": "https://open.spotify.com/album/5YwcBgcpyAzcplEKyhm0Nj"
+      },
+      "artists": [
+        {
+          "name": "Michael Cera Palin",
+          "url": "https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277601,
+      "name": "Feast or Famine",
+      "url": "https://open.spotify.com/track/5GB3P8tGK61JkCKNbLcoV5"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/5NAncxqbc4XMu0AOpIHYcM"
       },
@@ -5472,7 +5490,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 273558,
       "name": "Won't You Fade",
       "url": "https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF"

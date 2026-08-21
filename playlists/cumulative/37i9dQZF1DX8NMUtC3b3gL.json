@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 189824,
       "name": "can you call me back",
       "url": "https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t"
@@ -7366,6 +7366,24 @@
       "duration_ms": 160610,
       "name": "One",
       "url": "https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM"
+    },
+    {
+      "album": {
+        "name": "one umbrella",
+        "url": "https://open.spotify.com/album/4saEExkroMAPeJ6uM01imh"
+      },
+      "artists": [
+        {
+          "name": "stillnote",
+          "url": "https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "one umbrella",
+      "url": "https://open.spotify.com/track/5DTTeqf6ZoeCEZbky74cgm"
     },
     {
       "album": {

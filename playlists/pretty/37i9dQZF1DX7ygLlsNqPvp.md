@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,817 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,848 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Stop Dey Worry Me](https://open.spotify.com/track/29BZWfMU9LfD50wJ5jxkre) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Stop Dey Worry Me](https://open.spotify.com/album/369QLSNsmpKNI6x4Hj1RsV) | 2:58 |
 | 50 | [LIFE OF ECSTASY](https://open.spotify.com/track/6Gy016CZdGzVASU8Ijxs9Q) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [LIFE ON THE EDGE](https://open.spotify.com/album/5cMlPN69fnDDpY5OcRpcf6) | 3:36 |
 
-Snapshot ID: `AAAAAOeK9rAv0Nzkh1efU58HyDZYIuh4`
+Snapshot ID: `AAAAAH2Wy2KZqPY2W3uwiUq1cx2nb98y`

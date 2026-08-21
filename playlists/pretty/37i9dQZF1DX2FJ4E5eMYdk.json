@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 196425,
+  "num_followers": 196446,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJQlo7AQUe8yn5CrdhZIPrnuXN2Z",
+  "snapshot_id": "AAAAAMC33D7MfG/EQsDnUSDglUo9bJgA",
   "tracks": [
     {
       "added_at": "2024-07-05 19:49:15",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
         }
       ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Bottle It In",
-        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Loading Zones",
-      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Brain Cycles",
         "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7fTjGWzWtuslYB5DBzOrZC"
+        "name": "Bottle It In",
+        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
       },
       "artists": [
         {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 310360,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5"
+      "duration_ms": 203133,
+      "name": "Loading Zones",
+      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7fTjGWzWtuslYB5DBzOrZC"
       },
       "artists": [
         {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
         }
       ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+      "duration_ms": 310360,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5"
     },
     {
       "added_at": "2024-07-05 19:49:15",

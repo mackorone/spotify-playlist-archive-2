@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Biboon",
+        "url": "https://open.spotify.com/album/2NR5MeRUwk1CmTkC1b5mJn"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Biboon",
+      "url": "https://open.spotify.com/track/3EoBlre6s5wDqLEXtIaX9R"
+    },
+    {
+      "album": {
         "name": "Big Easy City",
         "url": "https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ"
       },
@@ -4114,7 +4132,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 137916,
       "name": "Dayphase",
       "url": "https://open.spotify.com/track/1krSFxhJyXiYGktvdVv7pj"
@@ -8986,6 +9004,24 @@
       "duration_ms": 150000,
       "name": "It's Real",
       "url": "https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR"
+    },
+    {
+      "album": {
+        "name": "Ivy Shadow",
+        "url": "https://open.spotify.com/album/566IWZDkVGAmjSHqNSlAwo"
+      },
+      "artists": [
+        {
+          "name": "Half Memory",
+          "url": "https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Ivy Shadow",
+      "url": "https://open.spotify.com/track/1WyVxCp5Xtxc4moD8zNO3m"
     },
     {
       "album": {
@@ -15797,6 +15833,24 @@
     },
     {
       "album": {
+        "name": "rivers ahead",
+        "url": "https://open.spotify.com/album/6SN5gOlh8wqucBApJ2yo8a"
+      },
+      "artists": [
+        {
+          "name": "general groove",
+          "url": "https://open.spotify.com/artist/19CFTUceuR05zEVPmMa1Ld"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "rivers ahead",
+      "url": "https://open.spotify.com/track/1fuGjJuqIKHimlm4BDIj3W"
+    },
+    {
+      "album": {
         "name": "Roadburn",
         "url": "https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV"
       },
@@ -16921,6 +16975,24 @@
     },
     {
       "album": {
+        "name": "signal lost",
+        "url": "https://open.spotify.com/album/4vqKce1hA65Xb5EVlLP7tf"
+      },
+      "artists": [
+        {
+          "name": "stillnote",
+          "url": "https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "signal lost",
+      "url": "https://open.spotify.com/track/2Qlrp6m5hJrU2pMjJiyyzm"
+    },
+    {
+      "album": {
         "name": "signals",
         "url": "https://open.spotify.com/album/5Z5NNGYHiOFFDjEu6AmUcO"
       },
@@ -16986,7 +17058,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 121643,
       "name": "silver sky",
       "url": "https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1"
@@ -17534,7 +17606,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 125142,
       "name": "Snowful Peace",
       "url": "https://open.spotify.com/track/1u2SXLe9KHUX2uIqHG47JL"
@@ -19598,7 +19670,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 124153,
       "name": "Tatami Haze",
       "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"

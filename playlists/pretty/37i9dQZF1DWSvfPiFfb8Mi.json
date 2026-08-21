@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 723139,
+  "num_followers": 723226,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8hTRlar5ELO0Vr36UqC8+vWQGc",
+  "snapshot_id": "AAAAANe6curDWxgXN2DFEZGSBlx0q/ty",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:18",
@@ -855,42 +855,6 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "Pull Together",
-        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Pull Together",
-      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
-        "name": "FEEL THE NIGHT",
-        "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "FEEL THE NIGHT",
-      "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -911,6 +875,42 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "FEEL THE NIGHT",
+        "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "FEEL THE NIGHT",
+      "url": "https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "Pull Together",
+        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Pull Together",
+      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 240691,
       "name": "My All",
       "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1299,42 +1299,6 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "Disco Nap",
-        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Disco Nap",
-      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1359,6 +1323,42 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "Disco Nap",
+        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Disco Nap",
+      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "MAD (Mutually Assured Disco)",
-        "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "MAD (Mutually Assured Disco)",
-      "url": "https://open.spotify.com/track/7xgP4XVHPWSLTRzYvuGg8g"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "MAD (Mutually Assured Disco)",
+        "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "MAD (Mutually Assured Disco)",
+      "url": "https://open.spotify.com/track/7xgP4XVHPWSLTRzYvuGg8g"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "duration_ms": 226929,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
         "name": "Marlboro Sounds",
         "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
       },
@@ -1683,22 +1703,6 @@
       "duration_ms": 363620,
       "name": "Marlboro Sounds",
       "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
-        "name": "Simmer",
-        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1719,22 +1723,18 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
         }
       ],
-      "duration_ms": 226929,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+      "duration_ms": 157906,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -1839,18 +1855,22 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
       "artists": [
         {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
         }
       ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -1871,26 +1891,6 @@
       "duration_ms": 208200,
       "name": "california",
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "Pawa!",
-        "url": "https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3"
-      },
-      "artists": [
-        {
-          "name": "Asha Puthli",
-          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
-        },
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 246968,
-      "name": "Pawa!",
-      "url": "https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
         "name": "Look How Far We've Come",
         "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
       },
@@ -2131,6 +2111,26 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
+        "name": "Pawa!",
+        "url": "https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3"
+      },
+      "artists": [
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 246968,
+      "name": "Pawa!",
+      "url": "https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -2147,6 +2147,22 @@
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "summer in the city",
+        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 174197,
+      "name": "summer in the city",
+      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "summer in the city",
-        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 174197,
-      "name": "summer in the city",
-      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
       },
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2026-08-07 04:01:18",
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2026-08-07 04:01:18",
       "album": {
-        "name": "Wish I Knew You (Poolside Remix)",
-        "url": "https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 245938,
-      "name": "Wish I Knew You - Poolside Remix",
-      "url": "https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx"
-    },
-    {
-      "added_at": "2026-08-07 04:01:18",
-      "album": {
         "name": "360 (feat. Barny Fletcher)",
         "url": "https://open.spotify.com/album/19jSmzCS2rwyXKQuSD6EQw"
       },
@@ -2387,6 +2367,26 @@
       "duration_ms": 194482,
       "name": "360 (feat. Barny Fletcher)",
       "url": "https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL"
+    },
+    {
+      "added_at": "2026-08-07 04:01:18",
+      "album": {
+        "name": "Wish I Knew You (Poolside Remix)",
+        "url": "https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 245938,
+      "name": "Wish I Knew You - Poolside Remix",
+      "url": "https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx"
     },
     {
       "added_at": "2026-08-07 04:01:18",

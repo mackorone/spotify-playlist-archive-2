@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 175313,
+  "num_followers": 175321,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAABmQTk2Aa7ZMj4ZB2GTSoC0",
+  "snapshot_id": "aoTyAAAAAADmR8EiWqdnL5n59Nz0MHCG",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "These Alarms",
         "url": "https://open.spotify.com/album/18yaAGsRMPGG24SxLPhu0K"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 201703,
       "name": "These Alarms",
       "url": "https://open.spotify.com/track/2IH6UvesVbl5dhFwf7syup"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193540,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/45HaaeQWPzIHJDpvVdYXm8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 310081,
       "name": "Chiggy Wiggy",
       "url": "https://open.spotify.com/track/4nt1pLbjBHtpHFarYXRHHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
     },
     {
       "added_at": null,

@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 212210,
       "name": "Clock It",
       "url": "https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d"
@@ -628,6 +628,28 @@
       "duration_ms": 254915,
       "name": "FYT (Fuckin you tonight)",
       "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
+    },
+    {
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/45f4FqlTCBQx6Jk4TwAVm3"
+      },
+      "artists": [
+        {
+          "name": "1TakeTheGreat",
+          "url": "https://open.spotify.com/artist/7EkLbjaNuDQFmB5WAyzSWN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200150,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/51KzcZ351FYyu7x5MQzOZL"
     },
     {
       "album": {

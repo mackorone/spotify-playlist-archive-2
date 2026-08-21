@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtwgB78B9ckZX9pxIwkCPiEp8Iv",
+  "snapshot_id": "AAAAAPkpqTAiKLxlcESTey8MjLfcOsxQ",
   "tracks": [
     {
       "added_at": "2024-06-24 11:47:22",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Vilja Bli",
-        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Yours Truly, Angry Mob",
         "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 141000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Vilja Bli",
+        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
     },
     {
       "added_at": "2024-06-24 11:47:22",

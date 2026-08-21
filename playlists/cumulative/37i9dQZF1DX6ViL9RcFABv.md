@@ -2,13 +2,13 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Gama WNTD, Guga
+> Uma playlist de pura alma pop! Foto: Chico da Tina
 
-563 songs - 1 day 5 hr 37 min
+564 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 aos 100](https://open.spotify.com/track/1cNNvILcp78k0vCrXKgreb) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [0 aos 100](https://open.spotify.com/album/5sDSK4IEE9507mx3YanTtm) | 2:41 | 2026-08-06 |  |
+| [0 aos 100](https://open.spotify.com/track/1cNNvILcp78k0vCrXKgreb) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [0 aos 100](https://open.spotify.com/album/5sDSK4IEE9507mx3YanTtm) | 2:41 | 2026-08-06 | 2026-08-21 |
 | [1,2,3](https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [1,2,3](https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z) | 2:34 | 2025-11-07 | 2026-06-19 |
 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 | 2026-05-21 |  |
 | [112](https://open.spotify.com/track/3ZZmXNPMGV7xtCp6xVtewK) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [112](https://open.spotify.com/album/2sVzmJD3aVBHz6AWrgAKAQ) | 3:00 | 2026-08-06 |  |
@@ -177,6 +177,7 @@
 | [Dói](https://open.spotify.com/track/2YUyNW6Im8CJiEti9LYRvy) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Dói](https://open.spotify.com/album/5j9j5FJyTsUbpSx7yofANe) | 3:03 | 2026-02-27 | 2026-04-17 |
 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 | 2026-05-21 | 2026-05-23 |
 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/7B6teQtsPrPQlnlXNf1HH9) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Dónde, Cómo y Cuándo?](https://open.spotify.com/album/4lmRCmCPFsY9XPjdOrtFFD) | 3:03 | 2026-05-22 |  |
+| [E Agora ?](https://open.spotify.com/track/2lbDXy8WuAbKg3jQLPyaJH) | [Cari](https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV) | [E Agora ?](https://open.spotify.com/album/3Qf1Wsm8KIRpy7Jw2WmOtA) | 2:55 | 2026-08-20 |  |
 | [E Se Eu Contasse](https://open.spotify.com/track/15qg7SydFWVsZIJutk2MhO) | [Francisca Borges](https://open.spotify.com/artist/3i4JBITfITnV1AqwemC8Po) | [Monomania](https://open.spotify.com/album/2KoNL68KekN1E4aGsHhdio) | 3:41 | 2026-02-13 | 2026-02-27 |
 | [El corazón por delante](https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Sílvia & Salvador](https://open.spotify.com/album/2M9MtUS5qtnVWe0GmOt5xS) | 4:59 | 2025-05-15 | 2025-06-27 |
 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 | 2024-06-27 | 2025-11-14 |

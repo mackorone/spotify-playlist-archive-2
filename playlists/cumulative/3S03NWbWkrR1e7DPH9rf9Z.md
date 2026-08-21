@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-264 songs - 12 hr 52 min
+265 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Lyah Noir](https://open.spotify.com/artist/1kGvH9vElfXBpOpm2MUGY4) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 | 2025-07-04 | 2026-04-04 |
 | [Bad Cop](https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Bad Cop](https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj) | 2:20 | 2025-07-04 |  |
 | [Bang On The Drums](https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Bang On The Drums](https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN) | 2:32 | 2026-07-09 |  |
+| [Bangkok](https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bangkok](https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8) | 2:17 | 2026-08-20 |  |
 | [Bassline Vandal](https://open.spotify.com/track/1GUMaM9D1qF2eHxMy7KwXT) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Bassline Vandal](https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM) | 3:20 | 2025-07-04 |  |
 | [Be The Same](https://open.spotify.com/track/3jd4rNPPHvWuJkGXn3GfVJ) | [DESTRO](https://open.spotify.com/artist/36tENaXXd6WfMiK1slOlEo), [John Blvck](https://open.spotify.com/artist/3q0RpmjOTzxW97quPJWPT7), [Nills](https://open.spotify.com/artist/5PqDPLvRPg8H1vwKvkbvFY) | [Be The Same](https://open.spotify.com/album/2jJAJl7SjDsgf1PqyImOa1) | 3:48 | 2025-07-04 |  |
 | [Beauty of Silence](https://open.spotify.com/track/4bJNjv003vOudzUNf4x95x) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:54 | 2025-07-04 |  |

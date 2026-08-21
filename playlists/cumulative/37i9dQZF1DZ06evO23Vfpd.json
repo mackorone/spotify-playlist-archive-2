@@ -252,7 +252,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 230582,
       "name": "Bounty On My Head",
       "url": "https://open.spotify.com/track/0KHWylywC34zjby9xGf1i4"
@@ -299,6 +299,28 @@
     },
     {
       "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251032,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4JgdqbekoGGNFMM4cImJ9p"
+    },
+    {
+      "album": {
         "name": "Burn It Down (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
       },
@@ -314,7 +336,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 251032,
       "name": "Burn it Down (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"

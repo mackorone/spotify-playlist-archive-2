@@ -5125,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Seethe",
+        "url": "https://open.spotify.com/album/3UBJnVsxBJ61rit0lJ1xk8"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197285,
+      "name": "Seethe",
+      "url": "https://open.spotify.com/track/4eYfOnJz3APqGzWPwWtC5r"
+    },
+    {
+      "album": {
         "name": "Girl Of My Dreams",
         "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
       },
@@ -5754,7 +5772,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 194899,
       "name": "This City Remix (feat. Nico Santos)",
       "url": "https://open.spotify.com/track/1ApZXdmjbw5amGoIKLyaw5"

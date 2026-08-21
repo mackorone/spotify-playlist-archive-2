@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,473 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,459 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 |
 | 80 | [Another Drink](https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Another Drink](https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2) | 2:33 |
 
-Snapshot ID: `AAAAAKGA1IC8fzyYVq6eKLBZf5PBKOJ+`
+Snapshot ID: `AAAAAA9xWb/fX4NSVA3JkY1kAGncrXhi`

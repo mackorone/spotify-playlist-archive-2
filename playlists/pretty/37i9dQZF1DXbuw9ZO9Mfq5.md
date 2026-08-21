@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 57th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show Fri, Oct\. 9 at 7:30pm & 10pm ET on TBN & the TBN+ app\. Cover \(Host\): Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,774 likes - 115 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,773 likes - 115 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 114 | [What An Awesome God](https://open.spotify.com/track/7MaZxIMANrgGbSZ3Bdsmwf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 3:31 |
 | 115 | [Center \- Live At Church](https://open.spotify.com/track/42cus2MV90nh4ouEtnJdq7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kate Serban](https://open.spotify.com/artist/4hZad7ujGLPVQi8RApNq3u) | [We Must Respond \(Deluxe\) \[Live\]](https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y) | 10:26 |
 
-Snapshot ID: `AAAAACppEhD4eZtSnJbhPDqTXRQ/tcNf`
+Snapshot ID: `AAAAAG2vBbfD4JbpTWUutTfmT0Gjn5O4`

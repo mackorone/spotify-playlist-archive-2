@@ -2,9 +2,9 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Chanel Beads\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Tirzah\)
 
-259 songs - 14 hr 19 min
+261 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 | 2026-04-06 | 2026-04-30 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/2NtidJuimmXzUsExfMYcvk) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:41 | 2025-12-04 | 2026-02-05 |
 | [if i'm lucky](https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [better late than not at all](https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu) | 2:57 | 2026-04-29 | 2026-07-01 |
-| [iffy iffy](https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:09 | 2026-05-25 |  |
+| [iffy iffy](https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:09 | 2026-05-25 | 2026-08-21 |
 | [incense \(feat\. Sik\-K\)](https://open.spotify.com/track/6xaQfsdGCnqkcvjyRobZWK) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [aurora](https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW) | 3:17 | 2026-04-29 | 2026-06-13 |
 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 | 2026-04-29 | 2026-07-24 |
 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 | 2026-06-25 |  |
@@ -177,6 +177,7 @@
 | [Never Let Go](https://open.spotify.com/track/37xebnhvUyM8VyyDDeo65d) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:13 | 2026-02-04 | 2026-03-04 |
 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-03-03 | 2026-04-30 |
 | [No Break \(Feat\. Dynamicduo\)](https://open.spotify.com/track/7ptvAVljlaWLh8jzF4fzjd) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 3:16 | 2026-02-04 | 2026-03-04 |
+| [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2026-08-20 |  |
 | [No Sugar in My Coffee](https://open.spotify.com/track/0Pcn8SADEAK4jqKI1L3pBc) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Knight](https://open.spotify.com/album/3SrZkhjYp6FC0nGcLTYX24) | 3:11 | 2026-06-21 |  |
 | [NO TRESPASSING](https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:15 | 2026-02-04 | 2026-03-04 |
 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 | 2025-12-04 | 2026-02-05 |
@@ -235,7 +236,7 @@
 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 | 2026-04-29 | 2026-06-13 |
 | [Through the Glow \(feat\. yoonsang\)](https://open.spotify.com/track/4TY0K8R1WU4jcSYOCabPGA) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Yoon Sang](https://open.spotify.com/artist/6sxtN9maIhNAu663hY5g6B) | [Exit to Nowhere](https://open.spotify.com/album/4YEBMgKfdXZUHd8CUyhoSy) | 2:44 | 2026-07-23 |  |
 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 | 2026-02-04 | 2026-03-04 |
-| [tolerate it](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:05 | 2026-06-23 |  |
+| [tolerate it](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:05 | 2026-06-23 | 2026-08-21 |
 | [Tonight \(Feat\. Junggigo\)](https://open.spotify.com/track/0MQSKGgfUzyBsHoPO03dkd) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:22 | 2026-02-04 | 2026-03-04 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-12-04 | 2026-02-05 |
 | [TOO CLOSE \(feat\. Suen\)](https://open.spotify.com/track/4iW0ma7CQtJ7zBrZe0Thuh) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [INTOXICATED](https://open.spotify.com/album/7CRoouenkq1sJfYwVxCvVG) | 2:33 | 2026-02-04 | 2026-03-04 |
@@ -255,6 +256,7 @@
 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 | 2026-03-03 | 2026-04-30 |
 | [White Wine](https://open.spotify.com/track/3BLYZgZYuOr7PZeINUJeGV) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [White Wine](https://open.spotify.com/album/6QIibBgbq1n9XZ17IwWRn5) | 3:00 | 2025-12-04 | 2026-02-05 |
 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 | 2026-02-04 | 2026-03-04 |
+| [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 | 2026-08-20 |  |
 | [WITH ME](https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [WITH ME](https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y) | 3:03 | 2026-03-03 | 2026-04-30 |
 | [X room](https://open.spotify.com/track/74Htt1SSAm1YrIqPq6DfU1) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [X room](https://open.spotify.com/album/056wnSXPPiumFzfn2sUT1k) | 3:35 | 2026-04-06 | 2026-04-30 |
 | [Yin and Yang \(Feat\. DEAN, PENOMECO\) \- FANXY CHILD Ver.](https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Yin and Yang \(Feat\. DEAN, PENOMECO\) \[FANXY CHILD Ver.\]](https://open.spotify.com/album/5zcPl24xa0wV5JXjzzs8oq) | 3:42 | 2026-02-04 | 2026-03-04 |

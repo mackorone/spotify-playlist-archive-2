@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Erykah Badu & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,900 likes - 275 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,980 likes - 275 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [After Party](https://open.spotify.com/track/22Icf9HFciTcBTcQc908uu) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [After Party](https://open.spotify.com/album/2wC9Q0kbqgU0xpI4o4xZw0) | 2:16 |
 | 275 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
 
-Snapshot ID: `AAAAAOcJl3sP6/RDTJ46lq1IKX3oC/Ri`
+Snapshot ID: `AAAAAPPtveHvjk03ZOoex7CUQK1SCP3K`

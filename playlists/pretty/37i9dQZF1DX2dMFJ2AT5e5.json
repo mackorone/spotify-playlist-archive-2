@@ -1,12 +1,12 @@
 {
   "description": "De Wembley al Azteca. Los cantos que mueven al estadio. Man\u00e1 en portada.",
-  "num_followers": 169974,
+  "num_followers": 169975,
   "original_name": "M\u00e9xico vs Inglaterra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB216u0V5WU5vT6Y8/b6QGfUs18d",
+  "snapshot_id": "AAAAAKReAwKL5qOyV0HkJQMcW7mTb4ZJ",
   "tracks": [
     {
       "added_at": "2026-07-03 16:01:18",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-07-03 16:01:18",
       "album": {
-        "name": "En Memoria: Las Canciones Preferidas de Don Cruz",
-        "url": "https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo - Homenaje P\u00f3stumo",
-          "url": "https://open.spotify.com/artist/6qMTJaiqfbD7HTT8Dl4L2W"
-        }
-      ],
-      "duration_ms": 132706,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb"
-    },
-    {
-      "added_at": "2026-07-03 16:01:18",
-      "album": {
         "name": "Su Majestad con Ustedes",
         "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 213936,
       "name": "Ramito de Violetas",
       "url": "https://open.spotify.com/track/4LUsDbhljxXHkV8f1uukuI"
+    },
+    {
+      "added_at": "2026-07-03 16:01:18",
+      "album": {
+        "name": "En Memoria: Las Canciones Preferidas de Don Cruz",
+        "url": "https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo - Homenaje P\u00f3stumo",
+          "url": "https://open.spotify.com/artist/6qMTJaiqfbD7HTT8Dl4L2W"
+        }
+      ],
+      "duration_ms": 132706,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb"
     },
     {
       "added_at": "2026-07-03 16:01:18",

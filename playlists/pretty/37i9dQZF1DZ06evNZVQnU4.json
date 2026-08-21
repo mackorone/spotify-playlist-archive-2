@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 663328,
+  "num_followers": 664194,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAADgK/+AZOtwQzog+fYVUwB",
+  "snapshot_id": "aoTyAAAAAABc+CAKwSL1r98jtljKHRKS",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
+        "name": "It Isn\u2019t Perfect But It Might Be (from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 197586,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
+      "duration_ms": 216000,
+      "name": "It Isn\u2019t Perfect But It Might Be - from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Isn\u2019t Perfect But It Might Be (from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 216000,
-      "name": "It Isn\u2019t Perfect But It Might Be - from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn"
+      "duration_ms": 197586,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
     },
     {
       "added_at": null,

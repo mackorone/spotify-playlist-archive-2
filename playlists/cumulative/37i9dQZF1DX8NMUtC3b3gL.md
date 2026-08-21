@@ -4,7 +4,7 @@
 
 > chill vibes for lazy mornings, sun\-soaked afternoons, and late\-night breezes 🏖️☀️
 
-645 songs - 1 day 1 hr 8 min
+646 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Calico Citrus](https://open.spotify.com/track/4lmekINZ116MuKS8lmxwCC) | [Kid Gnasher](https://open.spotify.com/artist/3Qyo0y91QA458PKIuWso2j) | [Calico Citrus](https://open.spotify.com/album/2ctF0am26hNhUGvHjGKsOa) | 2:54 | 2022-05-27 | 2024-02-09 |
 | [calm nights](https://open.spotify.com/track/57KG77P6mmQvQassZqe5BI) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [calm nights](https://open.spotify.com/album/3YXjQU0fIzU5J7ZELsdqMP) | 2:24 | 2023-12-15 | 2025-05-17 |
 | [Camping](https://open.spotify.com/track/6JJOCnGGphX1aSLMEDeY3m) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Camping](https://open.spotify.com/album/1GjAfuFpQgKk3IcbUbjEPN) | 1:40 | 2022-10-28 | 2023-10-27 |
-| [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-03-24 |  |
+| [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-03-24 | 2026-08-21 |
 | [Can't Stop](https://open.spotify.com/track/4UWgHP5mf1Bp1oguCvOG7n) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Can't Stop](https://open.spotify.com/album/1VlRVqoTU5iPWpqtVlti60) | 2:10 | 2024-08-09 | 2025-07-12 |
 | [Caprese](https://open.spotify.com/track/0R0q2QiodrNaVpYs5n9P1f) | [rden.96](https://open.spotify.com/artist/7s88vlh8bM08TBlu8GgAlR) | [Caprese](https://open.spotify.com/album/2DEQ7Cp0AmvpVik3fSFZFM) | 2:08 | 2026-07-16 |  |
 | [capricorn](https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [capricorn](https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG) | 2:04 | 2023-03-01 | 2026-06-24 |
@@ -392,6 +392,7 @@
 | [on the breeze](https://open.spotify.com/track/2RsqFdMuwrrrGOYeY6BSru) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [on the breeze](https://open.spotify.com/album/2iTyLHqRPjMwBP5rlnJPzo) | 2:03 | 2025-08-01 | 2026-07-24 |
 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-09-27 | 2026-05-26 |
 | [One](https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [One](https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv) | 2:40 | 2022-12-16 | 2023-09-22 |
+| [one umbrella](https://open.spotify.com/track/5DTTeqf6ZoeCEZbky74cgm) | [stillnote](https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL) | [one umbrella](https://open.spotify.com/album/4saEExkroMAPeJ6uM01imh) | 2:13 | 2026-08-20 |  |
 | [open door](https://open.spotify.com/track/3bgxCaydVu3k2jhKCjmFHv) | [stillnote](https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL) | [open door](https://open.spotify.com/album/4d12ugnO5VUeke6ksFxnOP) | 2:00 | 2026-07-10 |  |
 | [Open Sea](https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Blocks EP](https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx) | 2:33 | 2023-09-29 | 2024-08-10 |
 | [Other Way Around](https://open.spotify.com/track/1Ncz3CgIIhlvoqChef6QLm) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Other Way Around](https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t) | 1:52 | 2022-07-08 | 2023-09-29 |

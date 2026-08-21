@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: VCE NAVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,665 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,671 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [OTOKO \(feat\. Harmm\)](https://open.spotify.com/track/3d622Xv2VOTYnAtJbsmQDb) | [otuyyuto](https://open.spotify.com/artist/3D2rnDOqShF6uIi81FgTYK), [Harmm](https://open.spotify.com/artist/0Edf3eobvF8Myo6hOwUqUS) | [OTOKO \(feat\. Harmm\)](https://open.spotify.com/album/1Y3V7gPMg2LCUGP0VB5Xh8) | 3:19 |
 | 100 | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/track/6fAdgiV7xvikBoADcnSH1m) | [SOKI](https://open.spotify.com/artist/7uznCkS1C5NLCCAg2kKDjL) | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/album/4Jw6h4yFAFkeEm7dddJLsy) | 1:33 |
 
-Snapshot ID: `AAAAAEXwQvj2ctZhaS7GFQJor41IWRis`
+Snapshot ID: `AAAAAHOXsPWWsqFMLxPr5Sqm0+/RJvGr`

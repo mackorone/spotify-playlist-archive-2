@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoOggAAAAAA4dUARChVlULGrhq1V2g6V",
+  "snapshot_id": "aoTyAAAAAAD7k5hrq4s8lMElgk8U+9ug",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "halfway",
-        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
+        "name": "Depthscape",
+        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 398000,
-      "name": "calm",
-      "url": "https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi"
+      "duration_ms": 223000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "halfway",
-        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 360000,
-      "name": "IDFA",
-      "url": "https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA"
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+        "name": "halfway",
+        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+      "duration_ms": 398000,
+      "name": "calm",
+      "url": "https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi"
     },
     {
       "added_at": null,
@@ -276,25 +276,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 221101,
-      "name": "Open / Rain",
-      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Depthscape",
-        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
+      "duration_ms": 341999,
+      "name": "Awake / Lakeside",
+      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "halfway",
+        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "IDFA",
+      "url": "https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sense/Margin",
         "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 372000,
       "name": "Asleep / Sea",
       "url": "https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
     },
     {
       "added_at": null,
@@ -379,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sense/Margin",
+        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 221101,
+      "name": "Open / Rain",
+      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Left",
         "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
       },
@@ -391,22 +423,6 @@
       "duration_ms": 360000,
       "name": "Rustle",
       "url": "https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sense/Margin",
-        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 341999,
-      "name": "Awake / Lakeside",
-      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
     },
     {
       "added_at": null,
@@ -427,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late in life",
-        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 315124,
-      "name": "Vacant house",
-      "url": "https://open.spotify.com/track/7uRSs9QvLUvKD5Y6tixIyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 337937,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late in life",
+        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 315124,
+      "name": "Vacant house",
+      "url": "https://open.spotify.com/track/7uRSs9QvLUvKD5Y6tixIyb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,787 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,773 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [I'd Like To Hitch A Ride With Santa Claus](https://open.spotify.com/track/13OvBxKYOl8Gy1hanZkqPQ) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [A Merry Christmas With Bing Crosby & The Andrews Sisters](https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76) | 3:01 |
 | 55 | [An Old Fashioned Christmas](https://open.spotify.com/track/769WL9sLCRlKv8VbBMMxQi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & His Pennsylvanians](https://open.spotify.com/artist/56KTGgSkXENl57LeuSR2oQ) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:47 |
 
-Snapshot ID: `AAAAAKW1ZgHXVrQnXl8JL6LM5ndvPXbQ`
+Snapshot ID: `AAAAAEhqz830z0ukQ2XUO8CI5wWrJ2NF`

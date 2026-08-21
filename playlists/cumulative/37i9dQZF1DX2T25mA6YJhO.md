@@ -2,9 +2,9 @@
 
 ### [Rock 2026](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: rumbos.
+> Súbete a la nueva ola del rock español\. Foto: Dear Joanne.
 
-764 songs - 1 day 15 hr 35 min
+766 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Baila Sumeria](https://open.spotify.com/track/5PymlP1nuG9LrYoteUtCS5) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Baila Sumeria](https://open.spotify.com/album/1xo1SamRcEUedUo6x2i5Zw) | 3:45 | 2025-09-25 | 2026-01-16 |
 | [Bailaremos](https://open.spotify.com/track/6NKepMBqaJaR2DLpZgROgY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Calle Liberación](https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ) | 3:44 | 2024-06-27 | 2024-08-23 |
 | [Baimen gabe](https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8) | [Izaki Gardenak](https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh) | [Baimen gabe](https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG) | 5:11 | 2024-11-14 | 2025-01-17 |
+| [BAJO CONTROL](https://open.spotify.com/track/54QO2oFUdlOWSGbKA4mQsD) | [Atomic Lemons](https://open.spotify.com/artist/71Gzjz9NF7NeA8VrLKVehu) | [BAJO CONTROL](https://open.spotify.com/album/0zfXIKKd2kB3ARl1ZRDWDj) | 2:44 | 2026-08-20 |  |
 | [Bandera Blanca](https://open.spotify.com/track/15nbQJ3D7ACWRrPNrGcHiB) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Distracciones](https://open.spotify.com/album/0d9MykHlfY1JVHVZ9Wsipe) | 3:26 | 2025-10-23 | 2026-01-23 |
 | [Barbies en Wallapop](https://open.spotify.com/track/5wM7pwQaErYu8PskMQVJxZ) | [Catalina Grande Piñón Pequeño](https://open.spotify.com/artist/701mxW0iFERrJuhfNebtL3) | [Barbies en Wallapop](https://open.spotify.com/album/4Ei98f3cJ3mAi1zaT4Aziy) | 1:40 | 2025-03-06 | 2025-03-14 |
 | [Barcelona](https://open.spotify.com/track/2gdrQcu6B5aaELPep6nzIy) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM), [Iced Coffeeboy](https://open.spotify.com/artist/37vyOCKaeLQZKGtMd8iadR) | [Barcelona](https://open.spotify.com/album/5urMR36WqTaiQJkmz7h4kG) | 4:38 | 2026-05-21 |  |
@@ -171,7 +172,7 @@
 | [Denver, Colorado](https://open.spotify.com/track/5M20UikR4ugUlgOCdvMW86) | [Señor Torrance](https://open.spotify.com/artist/7uaAm14EP7uflcACRPYAD6) | [Denver, Colorado](https://open.spotify.com/album/7wrVeoKSUxmXjyO96OtQQc) | 3:46 | 2026-04-23 |  |
 | [DEPRIMIDA PERO ALTERNATIVA](https://open.spotify.com/track/52zFhF23fcJ9nOsPTufKtg) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [DEPRIMIDA PERO ALTERNATIVA](https://open.spotify.com/album/0heEVcwGbnziEE8tkMLbaC) | 2:49 | 2026-02-19 |  |
 | [DESDE QUE YA NO ESTÁS](https://open.spotify.com/track/48lc61H6BvktrqOjeT9CrK) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [DESDE QUE YA NO ESTÁS](https://open.spotify.com/album/2si1JsqL9dqY0ZDJLJscsW) | 3:27 | 2026-07-16 | 2026-08-14 |
-| [desespero](https://open.spotify.com/track/01LTw1am3qHNvSWogwZMK5) | [BALONCESTO](https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO) | [desespero](https://open.spotify.com/album/5R4cWGgf5Gkee4ISJouCaX) | 2:12 | 2026-06-25 |  |
+| [desespero](https://open.spotify.com/track/01LTw1am3qHNvSWogwZMK5) | [BALONCESTO](https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO) | [desespero](https://open.spotify.com/album/5R4cWGgf5Gkee4ISJouCaX) | 2:12 | 2026-06-25 | 2026-08-21 |
 | [Deshielo](https://open.spotify.com/track/2O31y8p7s2Iewo6tXILtWF) | [Ecos del Cierzo](https://open.spotify.com/artist/29kY0iavpytP7srVoxmoVz) | [Deshielo](https://open.spotify.com/album/7kF5hajZBpYYjymBr50cpC) | 4:03 | 2025-08-14 | 2025-09-12 |
 | [Despedida \(de una vez por todas\)](https://open.spotify.com/track/1ciUi9ir51csJiBOrYq7yG) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [Despedida \(de una vez por todas\)](https://open.spotify.com/album/6elwDlEkgkBIuYCEDHqHRr) | 2:44 | 2026-05-07 |  |
 | [DESPEGUE](https://open.spotify.com/track/1zJ6PReu9PhAURqVRTOuwx) | [Eli Rodríguez](https://open.spotify.com/artist/50X9TlUqrFra9QIAmPEgSY) | [NUEVAS TÉCNICAS DE MEDITACIÓN](https://open.spotify.com/album/0IqwXTJ5iYhUkonb0CubS7) | 2:19 | 2025-05-29 | 2025-06-06 |
@@ -228,7 +229,7 @@
 | [El sueño dura una semana](https://open.spotify.com/track/58EkA2ErzMaMEGdc6ofJZ8) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [El sueño dura una semana](https://open.spotify.com/album/7bKHcGcrUqX7NGE6pYH3Ol) | 2:34 | 2025-09-25 | 2026-03-06 |
 | [Elegante](https://open.spotify.com/track/6YeaXPb86tGmdlgpizacvb) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Elegante](https://open.spotify.com/album/2a0yaEpQbmjBMxkjwKW9qS) | 2:22 | 2025-08-28 | 2025-11-21 |
 | [Ella quiere tocarme el pelo](https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Ella quiere tocarme el pelo](https://open.spotify.com/album/3ZsloSV4M7bd7IKef9BxwJ) | 2:18 | 2025-06-26 | 2026-01-16 |
-| [EMBUSTERO](https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [EMBUSTERO](https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe) | 2:26 | 2026-07-23 |  |
+| [EMBUSTERO](https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [EMBUSTERO](https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe) | 2:26 | 2026-07-23 | 2026-08-21 |
 | [EN EL FESTÍN](https://open.spotify.com/track/1UAc6pOJ6j0Su1SLpXUdMB) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [EN EL FESTÍN](https://open.spotify.com/album/4GmcslgP7KlsZ0loxXfm5G) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [En Forma](https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq) | 3:48 | 2024-06-27 | 2024-11-22 |
 | [En tu portal](https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Ni un paso atrás](https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv) | 2:43 | 2024-11-14 | 2025-10-10 |
@@ -582,6 +583,7 @@
 | [Quédate](https://open.spotify.com/track/63hJ5OMeqpblD7dhWpxaUA) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Quédate](https://open.spotify.com/album/46p35j9rJBK0jC0Dj8wShS) | 1:31 | 2025-03-27 | 2025-04-18 |
 | [R.A.](https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU) | [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [R.A.](https://open.spotify.com/album/7qgn05MWVnXhCTkdqqWIvA) | 2:03 | 2025-11-27 |  |
 | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV) | [Ramona Flores](https://open.spotify.com/artist/4nwf3ZjNlcteyEGCh3KSrk) | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/album/0T8FT4IjeI7gyne5qiGYUf) | 3:55 | 2024-08-22 | 2024-09-13 |
+| [Recuérdame Entre Canciones Mientras Busco Mi Paz En Algún Lugar](https://open.spotify.com/track/1MSGC52xVg325IgEVIgvCI) | [Dumbmonei](https://open.spotify.com/artist/1tW2MHiCKk8qcwfz3ChcTN), [Txefas](https://open.spotify.com/artist/0dZ7zHbiBBlE9PwD0ElHsp) | [Estrellas Y Arte, Eternidad, Pt\. II](https://open.spotify.com/album/1RptV6JNILJtG56sT2niub) | 2:37 | 2026-08-20 |  |
 | [Regalarte flores](https://open.spotify.com/track/5nzapEXyXahIR0DdArUhp6) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Regalarte flores](https://open.spotify.com/album/4OzBnxTA4Sm5kScqYzYMWc) | 2:06 | 2026-02-05 | 2026-02-20 |
 | [Regla y purpurina](https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Aún no sé nada del amor](https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb) | 3:14 | 2025-05-22 | 2025-06-27 |
 | [Reino](https://open.spotify.com/track/3qawHMDedZz4sIcXIjPTwi) | [Neverland Bari](https://open.spotify.com/artist/68hEzkqJzDWakEF63HUHeA) | [Reino](https://open.spotify.com/album/69gZUiVfOxi8YzI3f2kn3D) | 2:47 | 2026-07-02 | 2026-08-14 |

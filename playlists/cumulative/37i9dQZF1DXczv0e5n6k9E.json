@@ -243,6 +243,36 @@
     },
     {
       "album": {
+        "name": "3 KILO",
+        "url": "https://open.spotify.com/album/266CEwGpfyn1dE1z5znADa"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Tsaki",
+          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
+        },
+        {
+          "name": "Mario Cash",
+          "url": "https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB"
+        },
+        {
+          "name": "LAZOS",
+          "url": "https://open.spotify.com/artist/54hs0RzBuT3IKOhM4QmIpo"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221713,
+      "name": "3 KILO",
+      "url": "https://open.spotify.com/track/5hJgfWCMOSwJifVlynBQQQ"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/2CAgmzbtvSYrx1wSGwW3O7"
       },
@@ -980,6 +1010,32 @@
       "duration_ms": 160000,
       "name": "ALCANTARA",
       "url": "https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp"
+    },
+    {
+      "album": {
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/55C53jGT80VsrBaidLAiqt"
+      },
+      "artists": [
+        {
+          "name": "Moose",
+          "url": "https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Zuu",
+          "url": "https://open.spotify.com/artist/6IQOwsBonClq95IVXeqX4l"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Alcatraz",
+      "url": "https://open.spotify.com/track/72Feo6b5kS1ib0ipLi1dQJ"
     },
     {
       "album": {
@@ -2508,7 +2564,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 150857,
       "name": "BENZEMA",
       "url": "https://open.spotify.com/track/5U13BF53KACoNR7ENsWyrE"
@@ -8495,6 +8551,28 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/44ACIkgv73IQc3eE10ungR"
+      },
+      "artists": [
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "Nifo.521",
+          "url": "https://open.spotify.com/artist/7nPVk9Ce1pTB1E5uxJt1Nk"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5AVzm8Zv4NoijNbzYy038a"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/1Chmt0cqtmmZWgYU21UKtZ"
       },
@@ -8982,6 +9060,24 @@
       "duration_ms": 133714,
       "name": "KOUBOURI",
       "url": "https://open.spotify.com/track/7bde2lxrXagf0CUF08bPB1"
+    },
+    {
+      "album": {
+        "name": "KREVATI",
+        "url": "https://open.spotify.com/album/14LXSzX2xEuUPcd5aOLM3O"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "KREVATI",
+      "url": "https://open.spotify.com/track/4udZmfC739lFkAHL9MXw4c"
     },
     {
       "album": {
@@ -18720,7 +18816,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 104000,
       "name": "YOULIE",
       "url": "https://open.spotify.com/track/0ymRslbfNb7w2Iu6u7SKK2"

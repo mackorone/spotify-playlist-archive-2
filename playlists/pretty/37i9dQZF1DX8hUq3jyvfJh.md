@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,429 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,443 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 15 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
 | 16 | [Fogueira de uma Paixão \- Ao Vivo](https://open.spotify.com/track/0iwQvF7iYRyIIp5gLW91kG) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Eu Sou Assim \(Ao Vivo\)](https://open.spotify.com/album/1qroRvkXKaPUrUU3glucgN) | 3:24 |
 | 17 | [AMANHÃ](https://open.spotify.com/track/7CAc04zrV9DQlxoxjjpQsq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:56 |
-| 18 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
-| 19 | [Casa de Noca](https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:10 |
+| 18 | [Casa de Noca](https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:10 |
+| 19 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
 | 20 | [De Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS) | [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [De Pouco a Pouco \(Ao Vivo\)](https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY) | 4:48 |
 | 21 | [Tua \- Ao Vivo](https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Tua \(Ao Vivo\)](https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW) | 2:50 |
 | 22 | [Leve](https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Améfrica](https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE) | 3:27 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 38 | [Você Não Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/3lDGU5FKsywJzNbdAINxhR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:12 |
 | 39 | [Sonho Meu](https://open.spotify.com/track/5rbxBmoBDxvnhyVYWBSBRa) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j), [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Para Sempre](https://open.spotify.com/album/4zSZT5Qre7hpFgEk0yQy0C) | 3:22 |
 | 40 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
-| 41 | [Consegue](https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6) | [Rafa Laranja](https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7) | [Consegue](https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir) | 3:26 |
-| 42 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
+| 41 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
+| 42 | [Consegue](https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6) | [Rafa Laranja](https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7) | [Consegue](https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir) | 3:26 |
 | 43 | [Pior Que Eu Gosto](https://open.spotify.com/track/3LHbu66zyrDoHuvCz9ml1r) | [Isabela Liberato](https://open.spotify.com/artist/0WMsrTFkDc9rDkue68ORWt) | [Pior Que Eu Gosto](https://open.spotify.com/album/04KQu0FDP4zNaVnFHaOEzD) | 3:41 |
 | 44 | [Buquê de Rosas](https://open.spotify.com/track/4eBpX20rWTv6sKozgz4C26) | [Gaby Valentim](https://open.spotify.com/artist/7hIw5Ce8GiFF4MwMnKLsCB) | [Posturada](https://open.spotify.com/album/6l6RRc7iWCKA6qXwinhxl3) | 3:04 |
 | 45 | [Nossa Brincadeira](https://open.spotify.com/track/6H7sEkjKCG95mejUtF2tNi) | [Marina Iris](https://open.spotify.com/artist/5iK58wMvoI0nNXMCHMUN9U), [Marcelle Motta](https://open.spotify.com/artist/7J5aKHQliQ4L12PsUutaF1), [Samba Que Dá](https://open.spotify.com/artist/4DLTl0Mv0q0c87qibEEUeU) | [Nossa Brincadeira](https://open.spotify.com/album/1eRM4XtsESz7aISUssPQBd) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
-Snapshot ID: `AAAAAL+/NY7O6GcUOV24WneXUZYL0Js4`
+Snapshot ID: `AAAAAMY0EaB+C2kEGyt0TYA+O/dthdX6`

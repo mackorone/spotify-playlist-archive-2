@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 432866,
+  "num_followers": 432826,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPfzQZ0DmfPerUVmCIM/j80Wui0K",
+  "snapshot_id": "AAAAALBxeTFxR34lAiqXdC3DJr4k5sJz",
   "tracks": [
     {
       "added_at": "2026-05-11 20:38:16",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Ritmo Natural",
-        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Ritmo Natural",
-      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Dime Precioso",
         "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 273746,
       "name": "Paris, Tal Vez?",
       "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
@@ -919,6 +919,38 @@
       "duration_ms": 192340,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -971,38 +1003,6 @@
       "duration_ms": 220369,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/6jJIITlQ2jlZkQrISnHddP"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Promesas de Origami",
         "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 243113,
       "name": "No Puedo Parar",
       "url": "https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/6jJIITlQ2jlZkQrISnHddP"
-        },
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Te Odio / Te Amo",
         "url": "https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 179032,
       "name": "Te Odio / Te Amo",
       "url": "https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
@@ -1471,18 +1487,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+        "name": "Fuma",
+        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+      "duration_ms": 199200,
+      "name": "Fuma",
+      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1515,26 +1535,6 @@
       "duration_ms": 195133,
       "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "Fuma",
-        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Fuma",
-      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Desastre Comunal",
-        "url": "https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Los Perros Van Al Cielo",
         "url": "https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 195474,
       "name": "Los Perros Van Al Cielo",
       "url": "https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Desastre Comunal",
+        "url": "https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l"
     },
     {
       "added_at": "2026-05-11 20:38:16",

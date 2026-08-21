@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Rose Gray
 
-3,034 songs - 6 day 23 hr 57 min
+3,035 songs - 7 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1977,6 +1977,7 @@
 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-11-06 | 2025-12-04 |
 | [Peri Cintaku](https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Peri Cintaku](https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx) | 4:19 | 2022-07-06 | 2022-08-04 |
 | [Perreo Pa Las Nenas](https://open.spotify.com/track/0MMfa6tiHQB0bfu4LQwqmp) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Perreo Pa Las Nenas](https://open.spotify.com/album/6JnN31WUQId1OkfiGqEKWd) | 2:56 | 2021-12-11 | 2022-01-06 |
+| [Personal](https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [Personal](https://open.spotify.com/album/7eN3kmvuJ4oNLr0seQ5eLU) | 3:07 | 2026-08-18 |  |
 | [Petaxa](https://open.spotify.com/track/7HrGEamsnOrk71JWLKWYo3) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Petaxa](https://open.spotify.com/album/4NF6j1nQ3XbWCtj4KEY4mZ) | 4:11 | 2022-02-02 | 2022-03-09 |
 | [Peşindeyim Kendimin](https://open.spotify.com/track/5VLHGDE89KEep4jP2BObIL) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Paralel Evrende Dünya Tarihi](https://open.spotify.com/album/1ZbvCC3eho3J20iwjSaIBv) | 2:17 | 2022-05-04 | 2022-06-01 |
 | [Phakade Lami](https://open.spotify.com/track/1grMFirLZsqR452CEwBKSV) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:21 | 2022-03-08 | 2022-04-07 |
@@ -2003,7 +2004,7 @@
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2022-01-05 | 2022-02-03 |
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-02-08 | 2022-03-09 |
 | [Piya/ I Wanna?](https://open.spotify.com/track/1VZZTmpzNQBe1VMSaijusB) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Butterflies](https://open.spotify.com/album/6kJ6MCCbFfngKR9Xq4orhN) | 2:18 | 2026-04-08 | 2026-04-25 |
-| [Più in Alto](https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX) | 3:04 | 2026-08-05 |  |
+| [Più in Alto](https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX) | 3:04 | 2026-08-05 | 2026-08-21 |
 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 | 2023-06-07 | 2023-07-06 |
 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 | 2022-08-03 | 2022-09-09 |
 | [PLATONIK](https://open.spotify.com/track/3yXbWResBOuRKxX7hK5Na7) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [PLATONIK](https://open.spotify.com/album/3CDkl5DzNF9LdbdDDxlj7s) | 2:41 | 2024-12-04 | 2025-01-09 |

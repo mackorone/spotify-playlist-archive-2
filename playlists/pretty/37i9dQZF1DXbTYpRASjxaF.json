@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino\n",
-  "num_followers": 138302,
+  "num_followers": 138437,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdahTpswROXGsck2GTmGnbu73jb",
+  "snapshot_id": "AAAAABFt1E+rN3jUwi4de5zxo+LBJ2d8",
   "tracks": [
     {
       "added_at": "2026-08-14 17:42:23",
@@ -195,6 +195,34 @@
     {
       "added_at": "2026-08-14 17:42:23",
       "album": {
+        "name": "FUNK DE CANALHA II",
+        "url": "https://open.spotify.com/album/3TOJ3mtbafW8BOYLz8iklc"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "s\u00f3 penso em tu garota",
+      "url": "https://open.spotify.com/track/3uLf4claXiAxMOy1w2cgvW"
+    },
+    {
+      "added_at": "2026-08-14 17:42:23",
+      "album": {
         "name": "THE BOX MEDLEY 10",
         "url": "https://open.spotify.com/album/5SgslEzgfpXXwrpnFeUHiL"
       },
@@ -251,34 +279,6 @@
       "duration_ms": 336000,
       "name": "THE BOX MEDLEY 10",
       "url": "https://open.spotify.com/track/3GXnIt9ELJUYtxtkfiVx2j"
-    },
-    {
-      "added_at": "2026-08-14 17:42:23",
-      "album": {
-        "name": "FUNK DE CANALHA II",
-        "url": "https://open.spotify.com/album/3TOJ3mtbafW8BOYLz8iklc"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "s\u00f3 penso em tu garota",
-      "url": "https://open.spotify.com/track/3uLf4claXiAxMOy1w2cgvW"
     },
     {
       "added_at": "2026-08-14 17:42:23",
@@ -627,6 +627,30 @@
     {
       "added_at": "2026-08-14 17:42:23",
       "album": {
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "PIXAD\u00c3O NO BAILE",
+      "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
+    },
+    {
+      "added_at": "2026-08-14 17:42:23",
+      "album": {
         "name": "ZIGUIRIGUIDUM FUNKHALL",
         "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 122790,
       "name": "ZIGUIRIGUIDUM FUNKHALL",
       "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
-    },
-    {
-      "added_at": "2026-08-14 17:42:23",
-      "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "PIXAD\u00c3O NO BAILE",
-      "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
     },
     {
       "added_at": "2026-08-14 17:42:23",
@@ -907,30 +907,30 @@
     {
       "added_at": "2026-08-14 17:42:23",
       "album": {
-        "name": "Giro de Gang",
-        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
+        "name": "LEAN NO CHIMARR\u00c3O",
+        "url": "https://open.spotify.com/album/19OHjPSosCnR9d6gyWaQum"
       },
       "artists": [
         {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+          "name": "Galick",
+          "url": "https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H"
         },
         {
-          "name": "MC RBL",
-          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
+          "name": "Nick Dilla",
+          "url": "https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j"
         },
         {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+          "name": "Grilo",
+          "url": "https://open.spotify.com/artist/6vUiYjsf0eVCd4ucpSRHG0"
         },
         {
-          "name": "DJ PADILHA",
-          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
+          "name": "bernardo",
+          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
         }
       ],
-      "duration_ms": 164217,
-      "name": "Giro de Gang",
-      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
+      "duration_ms": 138000,
+      "name": "LEAN NO CHIMARR\u00c3O",
+      "url": "https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"
     },
     {
       "added_at": "2026-08-14 17:42:23",
@@ -963,6 +963,34 @@
     {
       "added_at": "2026-08-14 17:42:23",
       "album": {
+        "name": "Giro de Gang",
+        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
+      },
+      "artists": [
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC RBL",
+          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "DJ PADILHA",
+          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
+        }
+      ],
+      "duration_ms": 164217,
+      "name": "Giro de Gang",
+      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
+    },
+    {
+      "added_at": "2026-08-14 17:42:23",
+      "album": {
         "name": "MIXTAPE - BIG G",
         "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
       },
@@ -979,34 +1007,6 @@
       "duration_ms": 134736,
       "name": "CORA\u00c7\u00c3O TATUADO",
       "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
-    },
-    {
-      "added_at": "2026-08-14 17:42:23",
-      "album": {
-        "name": "LEAN NO CHIMARR\u00c3O",
-        "url": "https://open.spotify.com/album/19OHjPSosCnR9d6gyWaQum"
-      },
-      "artists": [
-        {
-          "name": "Galick",
-          "url": "https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H"
-        },
-        {
-          "name": "Nick Dilla",
-          "url": "https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j"
-        },
-        {
-          "name": "Grilo",
-          "url": "https://open.spotify.com/artist/6vUiYjsf0eVCd4ucpSRHG0"
-        },
-        {
-          "name": "bernardo",
-          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "LEAN NO CHIMARR\u00c3O",
-      "url": "https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"
     },
     {
       "added_at": "2026-08-14 17:42:23",
@@ -1051,6 +1051,42 @@
       "duration_ms": 140487,
       "name": "AMAPIANO",
       "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
+    },
+    {
+      "added_at": "2026-08-14 17:42:23",
+      "album": {
+        "name": "Efeito do \u00c1lcool",
+        "url": "https://open.spotify.com/album/2e57f5ejFLi9Di6Tg46xKH"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "BigJow",
+          "url": "https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh"
+        },
+        {
+          "name": "Trak",
+          "url": "https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe"
+        },
+        {
+          "name": "BAP",
+          "url": "https://open.spotify.com/artist/6JfUkEGUtCVSsDMJrr3zYh"
+        },
+        {
+          "name": "ELLER",
+          "url": "https://open.spotify.com/artist/2QDNG8xTZISEZrWghe0gq0"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Efeito do \u00c1lcool",
+      "url": "https://open.spotify.com/track/5t9rSLqb5bgnLUJYhJusVb"
     },
     {
       "added_at": "2026-08-14 17:42:23",
@@ -1103,42 +1139,6 @@
       "duration_ms": 141627,
       "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
       "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"
-    },
-    {
-      "added_at": "2026-08-14 17:42:23",
-      "album": {
-        "name": "Efeito do \u00c1lcool",
-        "url": "https://open.spotify.com/album/2e57f5ejFLi9Di6Tg46xKH"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "BigJow",
-          "url": "https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh"
-        },
-        {
-          "name": "Trak",
-          "url": "https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe"
-        },
-        {
-          "name": "BAP",
-          "url": "https://open.spotify.com/artist/6JfUkEGUtCVSsDMJrr3zYh"
-        },
-        {
-          "name": "ELLER",
-          "url": "https://open.spotify.com/artist/2QDNG8xTZISEZrWghe0gq0"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Efeito do \u00c1lcool",
-      "url": "https://open.spotify.com/track/5t9rSLqb5bgnLUJYhJusVb"
     },
     {
       "added_at": "2026-08-14 17:42:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,257 likes - 483 songs - 23 hr 41 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,256 likes - 484 songs - 23 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,5 +491,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 481 | [Catdelions IIS](https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Artifyber](https://open.spotify.com/artist/41B16M5LFJKcwUW3L75PVh) | [Catdelions IIS](https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6) | 2:52 |
 | 482 | [MAX LVL FIXATED!!](https://open.spotify.com/track/2bZb9Zfw2mvjnwnbeqA36G) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [MAX LVL FIXATED!!](https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6) | 1:18 |
 | 483 | [OUTER SKIES](https://open.spotify.com/track/3BHfhVlYS7GflTsilu46ax) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [OUTER SKIES](https://open.spotify.com/album/5OYx8TJRV5OquwWei18w2g) | 3:47 |
+| 484 | [unnatural](https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [unnatural](https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw) | 2:09 |
 
-Snapshot ID: `AAAB7Demk0jOGpyHTXBww8IKdBgrLu9x`
+Snapshot ID: `AAAB7dy3RqtKjMWebpfWfZiL4/xIYokT`

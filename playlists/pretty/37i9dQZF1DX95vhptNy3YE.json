@@ -1,12 +1,12 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443357,
+  "num_followers": 443368,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG929zBRAlxD/dwpRYyCZY6cLKS1",
+  "snapshot_id": "AAAAAMMmwv5rLlfo2zcKBb7YCng+Eskk",
   "tracks": [
     {
       "added_at": "2026-08-14 03:01:36",
@@ -411,6 +411,34 @@
     {
       "added_at": "2026-08-14 03:01:36",
       "album": {
+        "name": "FUNK DE CANALHA II",
+        "url": "https://open.spotify.com/album/3TOJ3mtbafW8BOYLz8iklc"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "s\u00f3 penso em tu garota",
+      "url": "https://open.spotify.com/track/3uLf4claXiAxMOy1w2cgvW"
+    },
+    {
+      "added_at": "2026-08-14 03:01:36",
+      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -455,34 +483,6 @@
       "duration_ms": 197653,
       "name": "\u00c9 Demais",
       "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
-    },
-    {
-      "added_at": "2026-08-14 03:01:36",
-      "album": {
-        "name": "FUNK DE CANALHA II",
-        "url": "https://open.spotify.com/album/3TOJ3mtbafW8BOYLz8iklc"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "s\u00f3 penso em tu garota",
-      "url": "https://open.spotify.com/track/3uLf4claXiAxMOy1w2cgvW"
     },
     {
       "added_at": "2026-08-14 03:01:36",
@@ -555,30 +555,6 @@
     {
       "added_at": "2026-08-14 03:01:36",
       "album": {
-        "name": "Como Descobrir",
-        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
-      },
-      "artists": [
-        {
-          "name": "Pitiko",
-          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
-        },
-        {
-          "name": "OfcNgtl",
-          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Como Descobrir",
-      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
-    },
-    {
-      "added_at": "2026-08-14 03:01:36",
-      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2026-08-14 03:01:36",
+      "album": {
+        "name": "Como Descobrir",
+        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
+      },
+      "artists": [
+        {
+          "name": "Pitiko",
+          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
+        },
+        {
+          "name": "OfcNgtl",
+          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Como Descobrir",
+      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
     },
     {
       "added_at": "2026-08-14 03:01:36",
@@ -767,6 +767,34 @@
     {
       "added_at": "2026-08-14 03:01:36",
       "album": {
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+    },
+    {
+      "added_at": "2026-08-14 03:01:36",
+      "album": {
         "name": "2X (Os Caras da Rua) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2"
       },
@@ -795,34 +823,6 @@
       "duration_ms": 179669,
       "name": "2X (Os Caras da Rua) - Ao Vivo",
       "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
-    },
-    {
-      "added_at": "2026-08-14 03:01:36",
-      "album": {
-        "name": "Rugal & Bomfino",
-        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
-      },
-      "artists": [
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 204562,
-      "name": "Pique B.I.G",
-      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
     },
     {
       "added_at": "2026-08-14 03:01:36",

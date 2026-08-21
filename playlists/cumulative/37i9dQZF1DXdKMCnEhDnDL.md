@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes met o.a\. Bente\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor zomer aanbevelingen van Spotify!</a>
+> De beste Nederlandse liedjes met o.a\. The Opposites\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor zomer aanbevelingen van Spotify!</a>
 
-516 songs - 1 day 2 hr 11 min
+518 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-14 | 2023-09-09 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-19 | 2024-10-25 |
 | [Fantasie](https://open.spotify.com/track/7ceZUSh04dbG6al0eNvAxO) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li), [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Fantasie](https://open.spotify.com/album/4HLLWhBN7fJmI8KD6pB8iP) | 2:37 | 2025-04-25 | 2025-12-17 |
+| [Feels Pt\. 2](https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd) | 3:27 | 2026-08-20 |  |
 | [Feessie](https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ) | 3:08 | 2026-07-09 |  |
 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 | 2026-07-02 |  |
 | [Fly Like Me](https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb) | 3:02 | 2024-05-02 | 2025-12-17 |
@@ -254,7 +255,7 @@
 | [Juni](https://open.spotify.com/track/4JNvQ3AjUfZ1qNmneqP2Ur) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Juni](https://open.spotify.com/album/4FNF4URZHjvsGrFcjYfY0f) | 2:59 | 2026-02-03 | 2026-06-02 |
 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 | 2025-09-04 |  |
 | [Kan Niet Alleen](https://open.spotify.com/track/07Ps9tTIpjvErfsyNM2sev) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Kan Niet Alleen](https://open.spotify.com/album/3pzD9FVrZtD6CaV2UuXbeE) | 1:49 | 2026-03-12 | 2026-07-14 |
-| [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-01-23 |  |
+| [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-01-23 | 2026-08-21 |
 | [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 | 2023-09-21 | 2023-12-22 |
 | [Kerst Zonder Jou](https://open.spotify.com/track/5GhZb9wCK1ty87XcJbEEr9) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Kerst Zonder Jou](https://open.spotify.com/album/7JMJVqMrW6MglY57ENPd7S) | 3:16 | 2025-12-16 | 2026-01-15 |
 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 | 2025-08-25 |  |
@@ -389,6 +390,7 @@
 | [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 | 2023-09-21 | 2024-02-03 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2024-02-13 | 2025-04-04 |
 | [Schat Ik Ben Ok](https://open.spotify.com/track/0SjRVIZcRHqIHuU540ZZN5) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Schat Ik Ben Ok](https://open.spotify.com/album/15lDUXpXPWiAiXFmjbzHpy) | 2:48 | 2023-02-24 | 2023-09-22 |
+| [Schoonzoon](https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Schoonzoon](https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4) | 2:18 | 2026-08-20 |  |
 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-21 | 2025-05-16 |
 | [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 | 2026-05-07 |  |
 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-25 | 2025-09-27 |
@@ -483,7 +485,7 @@
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-24 | 2023-10-02 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju) | 3:19 | 2024-04-16 | 2025-11-21 |
 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 | 2023-12-07 | 2024-04-19 |
-| [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2024-04-16 |  |
+| [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2024-04-16 | 2026-08-21 |
 | [Waves](https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D) | 2:54 | 2023-05-15 | 2025-01-24 |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-24 | 2023-12-11 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-20 | 2024-10-10 |

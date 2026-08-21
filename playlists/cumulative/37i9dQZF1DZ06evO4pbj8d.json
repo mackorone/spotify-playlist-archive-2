@@ -2140,10 +2140,28 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 192730,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1Ob938FnCrnj2f2EMGw6Sy"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/0rD4H9E76t5JBy6XJkZu2p"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192730,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3yKdhG63oQeQZJfsCuTQSY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pbj8d"

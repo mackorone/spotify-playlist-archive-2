@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwXSIfzxMrC1VahioxSA3Ov/ERU",
+  "snapshot_id": "AAAAAFzQ6giA1p+wGvpzPtCSXyEyI4Tj",
   "tracks": [
     {
       "added_at": "2026-08-14 04:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Desirable",
-        "url": "https://open.spotify.com/album/2OcF47vDQyxvoJgU14zCBl"
-      },
-      "artists": [
-        {
-          "name": "Love Spirals Downwards",
-          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Desirable",
-      "url": "https://open.spotify.com/track/5qK8JyV5oyL7E3Jso9Jm4Z"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
         "name": "Echo Of You",
         "url": "https://open.spotify.com/album/4A81O3eezYFcuv0PomNWv4"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 350826,
       "name": "Echo Of You",
       "url": "https://open.spotify.com/track/18olbSSzP7rlDmlu3vUSPG"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Desirable",
+        "url": "https://open.spotify.com/album/2OcF47vDQyxvoJgU14zCBl"
+      },
+      "artists": [
+        {
+          "name": "Love Spirals Downwards",
+          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Desirable",
+      "url": "https://open.spotify.com/track/5qK8JyV5oyL7E3Jso9Jm4Z"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Verbolgen",
-        "url": "https://open.spotify.com/album/6IEquRfKwia4FwISJbCIrT"
-      },
-      "artists": [
-        {
-          "name": "Hulder",
-          "url": "https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo"
-        }
-      ],
-      "duration_ms": 360986,
-      "name": "...And We Shall Sing",
-      "url": "https://open.spotify.com/track/0a8HyNMvaH2LAnLS5QJo6f"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
         "name": "Velvet Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 294659,
       "name": "Watch As We Rise",
       "url": "https://open.spotify.com/track/1bC2XEOmfPsIdWGVCMqzcl"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Verbolgen",
+        "url": "https://open.spotify.com/album/6IEquRfKwia4FwISJbCIrT"
+      },
+      "artists": [
+        {
+          "name": "Hulder",
+          "url": "https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo"
+        }
+      ],
+      "duration_ms": 360986,
+      "name": "...And We Shall Sing",
+      "url": "https://open.spotify.com/track/0a8HyNMvaH2LAnLS5QJo6f"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
+        "name": "Mundo Cumbia El Podcast: Enganchado Dunguita / Inti-Illimani",
+        "url": "https://open.spotify.com/album/13NSfIZQzD9JPSrQYJPf8I"
+      },
+      "artists": [
+        {
+          "name": "Mundo Cumbia",
+          "url": "https://open.spotify.com/artist/69xwAzbm3djHRDDIPtgMRM"
+        },
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "La Verdad No Obedece",
+      "url": "https://open.spotify.com/track/1squnwqvVDPjgBfPUYa1mA"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
         "name": "C.E.O.",
         "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 680485,
       "name": "Second Song",
       "url": "https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Mundo Cumbia El Podcast: Enganchado Dunguita / Inti-Illimani",
-        "url": "https://open.spotify.com/album/13NSfIZQzD9JPSrQYJPf8I"
-      },
-      "artists": [
-        {
-          "name": "Mundo Cumbia",
-          "url": "https://open.spotify.com/artist/69xwAzbm3djHRDDIPtgMRM"
-        },
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "La Verdad No Obedece",
-      "url": "https://open.spotify.com/track/1squnwqvVDPjgBfPUYa1mA"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Damaged Suit (Take 5)",
-        "url": "https://open.spotify.com/album/5bn8LpfJOBtOTvhGcoRhYK"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Damaged Suit (Take 5)",
-      "url": "https://open.spotify.com/track/3R6cjRBeBEF5Lu1ucoQQfU"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
         "name": "Fiebre",
         "url": "https://open.spotify.com/album/3D8WpJRDpSi4Ovr9ioTJKk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223730,
       "name": "Suspensi\u00f3n",
       "url": "https://open.spotify.com/track/7jyRaOQ5iz7ZsEhYpvhMfK"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Damaged Suit (Take 5)",
+        "url": "https://open.spotify.com/album/5bn8LpfJOBtOTvhGcoRhYK"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Damaged Suit (Take 5)",
+      "url": "https://open.spotify.com/track/3R6cjRBeBEF5Lu1ucoQQfU"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
+        "name": "Flor de Lis",
+        "url": "https://open.spotify.com/album/7rYJT2KwuYTswOZOq2pPLz"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 158363,
+      "name": "Flor de Lis",
+      "url": "https://open.spotify.com/track/79xpkQ01SjAPAZGaeo28X5"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
         "name": "Lunaris",
         "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 384613,
       "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
       "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Flor de Lis",
-        "url": "https://open.spotify.com/album/7rYJT2KwuYTswOZOq2pPLz"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 158363,
-      "name": "Flor de Lis",
-      "url": "https://open.spotify.com/track/79xpkQ01SjAPAZGaeo28X5"
     },
     {
       "added_at": "2026-08-14 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-14 04:00:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "Nails In The Coffin",
-      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
         "name": "Abyssal Plain",
         "url": "https://open.spotify.com/album/4Ocr8onHhvl2ebHOV4OIdz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 364213,
       "name": "Burned Out",
       "url": "https://open.spotify.com/track/5PLSqOuynLJIGkxUVXMFTd"
+    },
+    {
+      "added_at": "2026-08-14 04:00:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "Nails In The Coffin",
+      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
     },
     {
       "added_at": "2026-08-14 04:00:00",

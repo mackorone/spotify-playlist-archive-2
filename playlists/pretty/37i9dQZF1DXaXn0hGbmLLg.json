@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! August ambassador: <a href=\"spotify:artist:2sGGaKKex7GgNlH1DRXZSa\">Inez</a>",
-  "num_followers": 14405,
+  "num_followers": 14403,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABeQqU6IlHc6eUPU+ntETNuELJ3W",
+  "snapshot_id": "AAAAAGUgbzBLtFu3/vFAtzUS85EgZGdI",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:19",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 219302,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Call For Change",
         "url": "https://open.spotify.com/album/0iVuaj5BrkdvcgTUsDaQXw"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 209590,
       "name": "Call for Change",
       "url": "https://open.spotify.com/track/4oLrikt1RciSZOSttW7Z65"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Girls Who Like Girls",
+        "url": "https://open.spotify.com/album/7iEKXRe2DGyAPk9dbFz66P"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "duration_ms": 158232,
+      "name": "Girls Who Like Girls",
+      "url": "https://open.spotify.com/track/0fvct6cWXX1X1h8CNgLfNz"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Terug Bij Af",
         "url": "https://open.spotify.com/album/5la8hK7ztHSPnb9mBycbXf"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 147187,
       "name": "Do You Want It Right Now",
       "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Girls Who Like Girls",
-        "url": "https://open.spotify.com/album/7iEKXRe2DGyAPk9dbFz66P"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 158232,
-      "name": "Girls Who Like Girls",
-      "url": "https://open.spotify.com/track/0fvct6cWXX1X1h8CNgLfNz"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Als Ik Jou Niet Krijg",
-        "url": "https://open.spotify.com/album/0yGgXqHge6582HhTYXtNxx"
-      },
-      "artists": [
-        {
-          "name": "Laura Heijgen",
-          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "Als Ik Jou Niet Krijg",
-      "url": "https://open.spotify.com/track/7d6ep7QrqikRvmO7zBC3rX"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Dicht bij mij",
         "url": "https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 151097,
       "name": "Hij",
       "url": "https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Als Ik Jou Niet Krijg",
+        "url": "https://open.spotify.com/album/0yGgXqHge6582HhTYXtNxx"
+      },
+      "artists": [
+        {
+          "name": "Laura Heijgen",
+          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "Als Ik Jou Niet Krijg",
+      "url": "https://open.spotify.com/track/7d6ep7QrqikRvmO7zBC3rX"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "DEGRASSI",
-        "url": "https://open.spotify.com/album/4gnxdiqWpd5sABgXuAuUq7"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        },
-        {
-          "name": "Micah D'vinci",
-          "url": "https://open.spotify.com/artist/4NIhpmDgwf9lMADtyIW2G2"
-        }
-      ],
-      "duration_ms": 144033,
-      "name": "DEGRASSI",
-      "url": "https://open.spotify.com/track/21rs4Tu7vEgUhPmmoBRZb6"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "OOK EEN POSE",
         "url": "https://open.spotify.com/album/79zcSAMYMxf4WYBYbDho46"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 178249,
       "name": "OOK EEN POSE",
       "url": "https://open.spotify.com/track/63p8iUcJnoe6hPUggOHtUT"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "DEGRASSI",
+        "url": "https://open.spotify.com/album/4gnxdiqWpd5sABgXuAuUq7"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        },
+        {
+          "name": "Micah D'vinci",
+          "url": "https://open.spotify.com/artist/4NIhpmDgwf9lMADtyIW2G2"
+        }
+      ],
+      "duration_ms": 144033,
+      "name": "DEGRASSI",
+      "url": "https://open.spotify.com/track/21rs4Tu7vEgUhPmmoBRZb6"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "stupid",
-      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 147118,
       "name": "July",
       "url": "https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL"
+      },
+      "artists": [
+        {
+          "name": "Julia Sabat\u00e9",
+          "url": "https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA"
+        }
+      ],
+      "duration_ms": 147210,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Make It Real Fierce",
         "url": "https://open.spotify.com/album/6rLWkeuygRzHjGQXUYQWWn"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 207567,
       "name": "Make It Real Fierce",
       "url": "https://open.spotify.com/track/0c5OZc96uyhE2gGZsBY6aL"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL"
-      },
-      "artists": [
-        {
-          "name": "Julia Sabat\u00e9",
-          "url": "https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA"
-        }
-      ],
-      "duration_ms": 147210,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf"
     },
     {
       "added_at": "2026-08-04 22:00:19",

@@ -1,28 +1,44 @@
 {
-  "description": "Die beste country musiek. Omslag: BlackByrd",
-  "num_followers": 44604,
+  "description": "Die beste country musiek. Omslag: Chris Else",
+  "num_followers": 44609,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlvIHVtSzZTyHc8CTKvY9JJIoSk",
+  "snapshot_id": "AAAAALrfzDy5Tq8VsEZxOmMovTY9GcX1",
   "tracks": [
     {
-      "added_at": "2026-07-30 22:01:24",
+      "added_at": "2026-08-20 22:01:15",
       "album": {
-        "name": "Rain On Me",
-        "url": "https://open.spotify.com/album/6mxXfX5VwC2x6sLXaaOLJE"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/28ukIB4sEoUaeSG7b8b6Ht"
       },
       "artists": [
         {
-          "name": "BlackByrd",
-          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
         }
       ],
-      "duration_ms": 208421,
-      "name": "Rain On Me",
-      "url": "https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0"
+      "duration_ms": 251481,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj"
+    },
+    {
+      "added_at": "2026-07-30 22:01:24",
+      "album": {
+        "name": "Been By Now",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 213805,
+      "name": "Been By Now",
+      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -61,6 +77,38 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
+      "added_at": "2026-07-30 22:01:24",
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/6mxXfX5VwC2x6sLXaaOLJE"
+      },
+      "artists": [
+        {
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+    },
+    {
       "added_at": "2026-04-17 10:59:38",
       "album": {
         "name": "I\u2019m The Problem",
@@ -79,38 +127,6 @@
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2026-07-30 22:01:24",
-      "album": {
-        "name": "Been By Now",
-        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 213805,
-      "name": "Been By Now",
-      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -161,22 +177,6 @@
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
     },
     {
-      "added_at": "2026-07-30 22:01:24",
-      "album": {
-        "name": "Ligstraal",
-        "url": "https://open.spotify.com/album/5M7lEMHKVeIjr3yOjRBunz"
-      },
-      "artists": [
-        {
-          "name": "The Betsies",
-          "url": "https://open.spotify.com/artist/5tlt3GLE9ow6E9H8Z40VQN"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "Ligstraal",
-      "url": "https://open.spotify.com/track/6vmfYFdK8NbNPWJvd91iNb"
-    },
-    {
       "added_at": "2026-04-17 10:59:38",
       "album": {
         "name": "A Bar Song (Tipsy)",
@@ -191,6 +191,22 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2026-07-30 22:01:24",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Bottom Of Your Boots",
+      "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -229,6 +245,26 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
+      "added_at": "2026-08-20 22:01:15",
+      "album": {
+        "name": "Across the River (feat. Reese Wynans) [Live]",
+        "url": "https://open.spotify.com/album/1lxDXH6dsZlsRXrjgfGSa9"
+      },
+      "artists": [
+        {
+          "name": "Steve Louw",
+          "url": "https://open.spotify.com/artist/1tDJGPhogoRKzlQVww3uAr"
+        },
+        {
+          "name": "Reese Wynans",
+          "url": "https://open.spotify.com/artist/7J0VJcG407uO7AK3JsP3jn"
+        }
+      ],
+      "duration_ms": 175450,
+      "name": "Across the River (feat. Reese Wynans) - Live",
+      "url": "https://open.spotify.com/track/2aKynFKKSAxIf0BdMQJRwy"
+    },
+    {
       "added_at": "2026-04-17 10:59:38",
       "album": {
         "name": "I Had Some Help",
@@ -247,22 +283,6 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-07-30 22:01:24",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/5azhxuiYkqQXVgO7XY7vhh"
-      },
-      "artists": [
-        {
-          "name": "Lyra K",
-          "url": "https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86"
-        }
-      ],
-      "duration_ms": 207457,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1AW7TOM8R1J99EgFnxfxIM"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -301,6 +321,22 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
+      "added_at": "2026-07-30 22:01:24",
+      "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
+    },
+    {
       "added_at": "2026-04-17 10:59:38",
       "album": {
         "name": "Buy Dirt",
@@ -337,38 +373,6 @@
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
     },
     {
-      "added_at": "2026-07-30 22:01:24",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Bottom Of Your Boots",
-      "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "Sleepless in a Hotel Room",
-        "url": "https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "Sleepless in a Hotel Room",
-      "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
-    },
-    {
       "added_at": "2026-04-17 10:59:38",
       "album": {
         "name": "Am I Okay?",
@@ -383,22 +387,6 @@
       "duration_ms": 235002,
       "name": "Am I Okay?",
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
-    },
-    {
-      "added_at": "2026-07-30 22:01:24",
-      "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/2UT2KB5E6e1Gnv7bwIrMoQ"
-      },
-      "artists": [
-        {
-          "name": "Glen Rozi",
-          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "She Knows",
-      "url": "https://open.spotify.com/track/30UDPxDLTxPUb4JAx7eil0"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -419,18 +407,18 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+        "name": "Sleepless in a Hotel Room",
+        "url": "https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+      "duration_ms": 177674,
+      "name": "Sleepless in a Hotel Room",
+      "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
     },
     {
       "added_at": "2026-07-30 22:01:24",
@@ -447,6 +435,22 @@
       "duration_ms": 190282,
       "name": "Bet On That",
       "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -495,22 +499,6 @@
       "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
-    },
-    {
-      "added_at": "2026-07-30 22:01:24",
-      "album": {
-        "name": "Be By You",
-        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 197655,
-      "name": "Be By You",
-      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -581,20 +569,20 @@
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
     },
     {
-      "added_at": "2026-07-30 22:01:24",
+      "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Damned If I Do",
-        "url": "https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
       "artists": [
         {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 217446,
-      "name": "Damned If I Do",
-      "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -615,22 +603,6 @@
       "duration_ms": 168417,
       "name": "Never Met Anyone Like You (feat. HARDY)",
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -799,22 +771,6 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 164264,
-      "name": "Park",
-      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
         "name": "Bar None",
         "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
       },
@@ -843,6 +799,62 @@
       "duration_ms": 169331,
       "name": "Options",
       "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "To Be A Man (feat. Darius Rucker)",
+        "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 219883,
+      "name": "To Be A Man (feat. Darius Rucker)",
+      "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "WHERE YOU'LL FIND ME",
+        "url": "https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 169958,
+      "name": "ONE MORE",
+      "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
     }
   ],
   "unique_name": "Country Musiek",

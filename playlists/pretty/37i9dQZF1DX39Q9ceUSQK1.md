@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,839 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,840 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [The Last Day](https://open.spotify.com/track/2o83HgqlvV0MAidC4wSdip) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Last Day](https://open.spotify.com/album/3OSA0tuOuO9idSIs1JvjZi) | 3:18 |
 | 100 | [Maintained Love](https://open.spotify.com/track/1ePjZbeDuE2UhK9cOGlzbL) | [Mauro Pawlowski](https://open.spotify.com/artist/2PkKZewLFg57QduOcj97NQ) | [Maintained Love](https://open.spotify.com/album/7eS4jH7Wv2KH03M6ts7spF) | 3:30 |
 
-Snapshot ID: `AAAAAJPpvZnWOY2dMePBK93c+e38ln5P`
+Snapshot ID: `AAAAALzjJnf9rdxjxkV9Ti04XtSQvQ3B`

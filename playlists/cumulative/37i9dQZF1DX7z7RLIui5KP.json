@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Arrow Bwoy ",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Njerae",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -202,6 +202,24 @@
       "duration_ms": 180260,
       "name": "Ananipenda",
       "url": "https://open.spotify.com/track/7DlpGg15iYFefrxW9Kd0tF"
+    },
+    {
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/3h3bCGHVk3nfWmw9wRkSyw"
+      },
+      "artists": [
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188368,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC"
     },
     {
       "album": {
@@ -745,6 +763,28 @@
     },
     {
       "album": {
+        "name": "BLOW",
+        "url": "https://open.spotify.com/album/2wr2yUfPHB6cRG5OuQiRsj"
+      },
+      "artists": [
+        {
+          "name": "Sparker Domani Mkadinali",
+          "url": "https://open.spotify.com/artist/0GxeHzp1DVah72qyawX4GE"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "BLOW",
+      "url": "https://open.spotify.com/track/4pk9OFnhaYFPKJay9EqYCm"
+    },
+    {
+      "album": {
         "name": "Bonge La Surprise",
         "url": "https://open.spotify.com/album/3gRgd6fnhtenpAFiNPmWiY"
       },
@@ -902,7 +942,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 159813,
       "name": "Chanda na Pete",
       "url": "https://open.spotify.com/track/7vR5AgrSnrqeJoWMimmopy"
@@ -1052,7 +1092,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 161584,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3"
@@ -2365,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "FOREVER TO NEVER",
+        "url": "https://open.spotify.com/album/7cJ0nenqXNL5jnU7xhmrsM"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        },
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Jaribu",
+      "url": "https://open.spotify.com/track/6lxgzURYb3wIWoOUODsLTd"
+    },
+    {
+      "album": {
         "name": "ISNM (Imposter Syndrome No More)",
         "url": "https://open.spotify.com/album/4mcNJXnbaNYwheFmJCKI49"
       },
@@ -3650,7 +3712,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 231000,
       "name": "Mungu Alipanga Mwenyewe",
       "url": "https://open.spotify.com/track/5yan9vHUvk1H2W4ItJgubL"
@@ -4387,6 +4449,28 @@
     },
     {
       "album": {
+        "name": "On My Own / Let Them Know",
+        "url": "https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS"
       },
@@ -5006,7 +5090,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 185294,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/6sJXgJybQEu5LmsiRVrUAq"
@@ -5120,7 +5204,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 144672,
       "name": "Shika Shika",
       "url": "https://open.spotify.com/track/51rVXtE39Uz0vXFnJsaQwc"
@@ -5164,7 +5248,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-21",
       "duration_ms": 169320,
       "name": "Shots",
       "url": "https://open.spotify.com/track/0ITJ31MlkIIud7veHr6OTR"
@@ -6137,6 +6221,24 @@
     },
     {
       "album": {
+        "name": "Unanipa",
+        "url": "https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192579,
+      "name": "Unanipa",
+      "url": "https://open.spotify.com/track/263NrbGTVJI5draas4VOnY"
+    },
+    {
+      "album": {
         "name": "Up Burukanga",
         "url": "https://open.spotify.com/album/3rDiAqSlUu4b7yEb7aa4l9"
       },
@@ -6572,6 +6674,24 @@
       "duration_ms": 162313,
       "name": "Wild Ride - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+    },
+    {
+      "album": {
+        "name": "WORK IT OUT",
+        "url": "https://open.spotify.com/album/2rle90HflR5WcfzPuevbXB"
+      },
+      "artists": [
+        {
+          "name": "Llumi",
+          "url": "https://open.spotify.com/artist/2lyFzeIMo0XjLX5Av39DgJ"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "WORK IT OUT",
+      "url": "https://open.spotify.com/track/5s0bXHOz5rbMrQvmBtqh1q"
     },
     {
       "album": {

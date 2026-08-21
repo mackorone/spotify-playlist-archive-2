@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,872 likes - 135 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,954 likes - 135 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 134 | [My Foolish Heart](https://open.spotify.com/track/3YhEh3Jj2asZb7V3HePgxX) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [My Foolish Heart](https://open.spotify.com/album/18blpWNThAFbTe0tBImc06) | 2:26 |
 | 135 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 |
 
-Snapshot ID: `AAAAAO5XXh0g9MQcZrRnUJyV9jVFQR6X`
+Snapshot ID: `AAAAAHe8XVmxn68wPrwVMN6zc7i6Qeh2`

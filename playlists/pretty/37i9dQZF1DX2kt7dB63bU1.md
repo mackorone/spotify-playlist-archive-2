@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,963 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,997 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [How About You](https://open.spotify.com/track/5Q5MOdNowDzfIGnS6AKur1) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl), [Nikki Giovanni](https://open.spotify.com/artist/06rw1GLIJu1xfIgO6iI7RG) | [Javon & Nikki Go To The Movies](https://open.spotify.com/album/01YTAunRobOOZLaOpuNGrF) | 3:38 |
 | 100 | [I've Got You On My Mind](https://open.spotify.com/track/4QJd5CZ3FFYZRLrsTODIoH) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [I've Got You On My Mind](https://open.spotify.com/album/3Kolj418fgCSKgf2rlnFyl) | 3:00 |
 
-Snapshot ID: `AAAAAKcBIkUSNQc4b4q0vpMFt0/1c/+L`
+Snapshot ID: `AAAAAN8HgqhWeZ/tCAidzH3kp5PIn0NK`

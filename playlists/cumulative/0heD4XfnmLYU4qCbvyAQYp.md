@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-162 songs - 10 hr 21 min
+163 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 | 2025-07-31 |  |
 | [Feeling](https://open.spotify.com/track/1aac1kuHZNKvUCPbNkPrjd) | [Amber View](https://open.spotify.com/artist/4PFFRw0s8pAuo96glIcFBC) | [Feeling](https://open.spotify.com/album/6ixZhNfLmOmNP07YNXBpvw) | 3:42 | 2025-12-10 | 2026-02-07 |
 | [Felt Cute, Might Delete Later](https://open.spotify.com/track/78RMNtziAVWymdQK6kj1r6) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [Felt Cute, Might Delete Later](https://open.spotify.com/album/3RhJ9xe3wPepN4GZwnx1mK) | 3:12 | 2025-11-24 | 2026-02-07 |
+| [Fiction](https://open.spotify.com/track/4uwz0P6l6kqR3rQJ0xOvhX) | [Luniel12](https://open.spotify.com/artist/5iFZs11tGSdpiD5G6SoZ9D) | [Vestibule](https://open.spotify.com/album/3mbbJbahWy2dg7p5FePS2C) | 2:17 | 2026-08-20 |  |
 | [Find Me](https://open.spotify.com/track/1QK8IZR9IYim1HXbNxz1dy) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:01 | 2025-12-17 | 2026-02-07 |
 | [Flytrap Love](https://open.spotify.com/track/3jolugMznsIcM4whHoCXnu) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Flytrap Love](https://open.spotify.com/album/7h5aCkOgOWj65nVIP4UVtn) | 4:44 | 2025-11-04 | 2025-12-08 |
 | [From zombieland about love \(2025\)](https://open.spotify.com/track/0EolNu9GNftMungr2Fi9pI) | [Charlie Crash Msc](https://open.spotify.com/artist/0Gz327pnjWwQUuzWhr7wF9) | [From zombieland about love \(2025\)](https://open.spotify.com/album/170nJJruVYePhChH6mPLRk) | 5:04 | 2026-05-16 |  |

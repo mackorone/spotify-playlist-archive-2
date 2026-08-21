@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Pony Bradshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,666 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,631 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/track/5kyFUvN9MgbqyybaqkLC16) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/album/22tFCbaKQln02zqGJSD4ui) | 4:05 |
 | 99 | [Save Your Soul](https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 3:32 |
 
-Snapshot ID: `AAAAAHH5ylO2zdwdmcsWC8wzkEec+moW`
+Snapshot ID: `AAAAAC/0zUE0O4elr7ifMIJ09+2t55Y/`

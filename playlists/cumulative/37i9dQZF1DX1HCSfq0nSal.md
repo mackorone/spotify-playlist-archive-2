@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Omar Courtz, Ozuna
 
-992 songs - 2 day 6 hr 35 min
+993 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 | 2023-05-25 | 2023-06-13 |
 | [Capri Sun](https://open.spotify.com/track/6V0j1zfLkfWgFuiqHEzZOQ) | [B10](https://open.spotify.com/artist/2xIWjLEjEkPdclYsGGMTpK), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [Capri Sun](https://open.spotify.com/album/07XrodMIQZbeZXFG4juIX4) | 2:48 | 2024-07-30 | 2024-08-13 |
 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 | 2022-02-08 | 2022-04-09 |
+| [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 | 2026-08-21 |  |
 | [Carita Morena](https://open.spotify.com/track/5zu9xieHTcl3pEISNJTKmZ) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Carita Morena](https://open.spotify.com/album/17CwSev7ezGRuJFCENtIgG) | 3:18 | 2022-01-07 | 2022-01-17 |
 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 | 2023-09-07 | 2024-04-30 |
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-08 | 2024-03-23 |
@@ -766,7 +767,7 @@
 | [Romeo y Julieta](https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:26 | 2025-04-04 | 2025-04-30 |
 | [RON COLA](https://open.spotify.com/track/0BJMkf1sQmY3TwcHapARZI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:06 | 2022-11-29 | 2023-02-05 |
 | [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 | 2023-01-31 | 2023-03-07 |
-| [Ronaldinho](https://open.spotify.com/track/3VDI8lCdXb3OklHu2TVQLt) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Ronaldinho](https://open.spotify.com/album/7fHbWeOobnCOqnJuGlmTGQ) | 2:02 | 2026-07-13 |  |
+| [Ronaldinho](https://open.spotify.com/track/3VDI8lCdXb3OklHu2TVQLt) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Ronaldinho](https://open.spotify.com/album/7fHbWeOobnCOqnJuGlmTGQ) | 2:02 | 2026-07-13 | 2026-08-21 |
 | [ROSITA](https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [ROSITA](https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD) | 4:05 | 2026-02-23 | 2026-05-19 |
 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 | 2022-03-03 | 2022-04-02 |
 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-05-19 | 2025-08-13 |

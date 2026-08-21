@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,703 songs - 10 day 12 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,738 songs - 10 day 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4710,6 +4710,41 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4700 | [The Devils Name](https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k) | [Spacebreaker](https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE) | [The Devils Name](https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z) | 3:29 |
 | 4701 | [GANG](https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [GANG](https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU) | 1:53 |
 | 4702 | [Viajero del Tiempo](https://open.spotify.com/track/5fXv91jyW5roZBefIaJoXW) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Viajero del Tiempo](https://open.spotify.com/album/5ueAQ14A9yhL2OgWa1WADX) | 5:30 |
-| 4703 | [O Izabelo](https://open.spotify.com/track/0AlBsgWxQApbgmgqWBduTy) | [Abbracci](https://open.spotify.com/artist/1NpreKADLYFXclehTsMe3s) | [O Izabelo](https://open.spotify.com/album/6c6jkLX29ma2DtKYSQigvI) | 3:26 |
+| 4703 | [O Izabelo](https://open.spotify.com/track/0AlBsgWxQApbgmgqWBduTy) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [O Izabelo](https://open.spotify.com/album/6c6jkLX29ma2DtKYSQigvI) | 3:26 |
+| 4704 | [404](https://open.spotify.com/track/45OfuAMFlXJYeTDSO410Fw) | [Derre](https://open.spotify.com/artist/0hta7qbVNYE22udGgF6lEq) | [404](https://open.spotify.com/album/1lsCb8M8WMly0uF7upTzgR) | 3:04 |
+| 4705 | [Take It Back](https://open.spotify.com/track/62yA8tpj8cw9LUDN3YTcOC) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Take It Back](https://open.spotify.com/album/25J6KANg8fwdkxpCLbuGi7) | 5:05 |
+| 4706 | [Warszawa](https://open.spotify.com/track/5D0nR2V8365wfgr4R1Ri4V) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Abbracci](https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51) | 4:08 |
+| 4707 | [O krok za daleko](https://open.spotify.com/track/45vAlIk9YFoWdVdvYcu78Y) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Abbracci](https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51) | 4:42 |
+| 4708 | [Silence and Me](https://open.spotify.com/track/2B05gUT9cl4pjRbqgiQ3AZ) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [Silence and Me](https://open.spotify.com/album/6Tss7dsTiHE5AH8rBOnpjr) | 3:59 |
+| 4709 | [The Blueprint in the Blue](https://open.spotify.com/track/6C4hvo4KtdYNL98XLqBH73) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:09 |
+| 4710 | [What We Call You](https://open.spotify.com/track/2M9svfSKgoAFVjfwA6q8JX) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:14 |
+| 4711 | [Out of the Rust](https://open.spotify.com/track/0uiC7t52caJpqSPesfSX6A) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:44 |
+| 4712 | [Her Side of the Street](https://open.spotify.com/track/3r7N3i0DZ1TJfWA8BCNy7v) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:28 |
+| 4713 | [Island of Grace](https://open.spotify.com/track/3esBsbgnshGwP0uYf6lg5W) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:06 |
+| 4714 | [Only Against Yesterday](https://open.spotify.com/track/5e75TI39IgaBwWu6TwZywH) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:24 |
+| 4715 | [Adult Arguments](https://open.spotify.com/track/7kQEfUkFhof8tJPDN4Uqtl) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:49 |
+| 4716 | [Unwritten Mould](https://open.spotify.com/track/6qghPZCIYwbGPtAwAYpqtN) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:23 |
+| 4717 | [The Harvest & The Seed](https://open.spotify.com/track/7uSzVJhCcCB7VtvQ8l7ZjY) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:17 |
+| 4718 | [My Brother's Keeper](https://open.spotify.com/track/4lHn4SUb4plFWMBSu3RMdo) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:10 |
+| 4719 | [American Tapestry](https://open.spotify.com/track/4bBfvcJNDYLDmbCpMOuUji) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:42 |
+| 4720 | [Milestones on 66](https://open.spotify.com/track/5GuxhfUXPpsWrMIHcM4RtU) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:24 |
+| 4721 | [Quiet Waters](https://open.spotify.com/track/1w3fV7nkh36x9alSnoDolx) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 4:08 |
+| 4722 | [Steering the Wheel](https://open.spotify.com/track/1A8wqz6oQjVxcUFICY6e8K) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:14 |
+| 4723 | [Unbroken Legacy](https://open.spotify.com/track/3g7OhPjDggqFShJ9ydmToS) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:49 |
+| 4724 | [The Blueprint in the Blue \(fomo mode\)](https://open.spotify.com/track/0gzBBZ5BNL122dGxN1zLxD) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:07 |
+| 4725 | [What We Call You \(fomo mode\)](https://open.spotify.com/track/3THzCvsKxl7f370mAgYgsS) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:04 |
+| 4726 | [Out of the Rust \(fomo mode\)](https://open.spotify.com/track/2O24HV8CJHaIxvlIStvfTc) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:26 |
+| 4727 | [Her Side of the Street \(fomo mode\)](https://open.spotify.com/track/6ozFLfW4sjBBSnxG9qr9Ff) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:21 |
+| 4728 | [Island of Grace \(fomo mode\)](https://open.spotify.com/track/32LlL5R9kOLOT1dveHCZdn) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:14 |
+| 4729 | [Only Against Yesterday \(fomo mode\)](https://open.spotify.com/track/3H5EMDNSqiKHEMBmocrsr7) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:09 |
+| 4730 | [Adult Arguments \(fomo mode\)](https://open.spotify.com/track/0vLklN7kmLpKSZK1eRFiqS) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:35 |
+| 4731 | [Unwritten Mould \(fomo mode\)](https://open.spotify.com/track/7gmbtcy2FXh4ObxRQOVtqT) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:05 |
+| 4732 | [The Harvest & The Seed \(fomo mode\)](https://open.spotify.com/track/4VLmLmuNZW8LU1x5RhWdZf) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:29 |
+| 4733 | [My Brother's Keeper \(fomo mode\)](https://open.spotify.com/track/6cxiA28LlysHnYCO6F5vqH) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:04 |
+| 4734 | [American Tapestry \(fomo mode\)](https://open.spotify.com/track/1ybSFepAUwSMDoiXggxOXI) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:37 |
+| 4735 | [Milestones on 66 \(fomo mode\)](https://open.spotify.com/track/0VGrv7tDP39WvDEtyQnUyf) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:23 |
+| 4736 | [Quiet Waters \(fomo mode\)](https://open.spotify.com/track/2v0xsudWcW21BSmaMVkQFT) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 4:19 |
+| 4737 | [Steering the Wheel \(fomo mode\)](https://open.spotify.com/track/6dkgsChrAJLfXaloNWwbYQ) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:09 |
+| 4738 | [Unbroken Legacy \(fomo mode\)](https://open.spotify.com/track/4rFgJ7BKtrIPjsTWn0v6ci) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:48 |
 
-Snapshot ID: `AAAJugmZlVTaAGXBGAGgusLOvmimN6wn`
+Snapshot ID: `AAAJwO/PNzdW5NA9xLUcSx+JYETFaXbW`
